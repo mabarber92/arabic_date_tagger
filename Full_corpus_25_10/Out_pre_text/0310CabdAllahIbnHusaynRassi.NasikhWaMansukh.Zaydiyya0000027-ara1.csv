@@ -1,0 +1,115 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO الناسخ والمنسوخ
+",000,False,000,False,False,False,1,26117
+"### || AUTO تقديم
+",000,False,000,False,False,False,2,308
+"### || AUTO مقدمة التحقيق
+",000,False,000,False,False,False,2,4684
+"### ||| AUTO عملي في التحقيق
+",000,False,000,False,False,False,3,270
+"### ||| AUTO أماكن وجود المخطوطة( النسخ المعتمدة)
+",000,False,000,False,False,False,3,96
+"### ||| AUTO عنوان المخطوطة
+",000,False,000,False,False,False,3,41
+"### ||| AUTO نسبة المخطوطة لمؤلفها
+",000,False,000,False,False,False,3,24
+"### ||| AUTO ترجمة المؤلف
+",000,False,000,False,False,False,3,2046
+"### ||| AUTO تحليل موضوع المخطوطة
+",000,False,000,False,False,False,3,477
+"### ||| AUTO وصف النسخ الخطية ونماذج منهن
+",000,False,000,False,False,False,3,1418
+"### || AUTO [مقدمة المؤلف]
+",000,False,000,False,False,False,2,765
+"### ||| AUTO [فضيلة علم الناسخ والمنسوخ وحكم تعلمه]
+",000,False,000,False,False,False,3,41
+"### ||| AUTO [حقيقة النسخ ]
+",000,False,000,False,False,False,3,171
+"### || AUTO [كتاب الصلاة: أول ما نسخ (تحويل فرض القبلة)]
+",000,False,000,False,False,False,2,426
+"### || AUTO [كتاب الزكاة والصدقات ]
+",000,False,000,False,False,False,2,329
+"### || AUTO [كتاب الصيام]
+",000,False,000,False,False,False,2,1638
+"### ||| AUTO [الصيام بين الجاهلية والإسلام ]
+",000,False,000,False,False,False,3,455
+"### ||| AUTO [الإطاقة ومتى تجب الفدية ولمن ]
+",000,False,000,False,False,False,3,770
+"### || AUTO [كتاب النكاح]
+",000,False,000,False,False,False,2,1606
+"### ||| AUTO [نكاح الكتابيات]
+",000,False,000,False,False,False,3,419
+"### ||| AUTO [نكاح المجوسيات والوثنيات المشركات]
+",000,False,000,False,False,False,3,63
+"### ||| AUTO [ نكاح المسبيات]
+",000,False,000,False,False,False,3,89
+"### ||| AUTO [نكاح الزانية والزاني]
+",000,False,000,False,False,False,3,279
+"### ||| AUTO [اللعان]
+",000,False,000,False,False,False,3,215
+"### || AUTO [كتاب الطلاق]
+",000,False,000,False,False,False,2,655
+"### ||| AUTO [فدية المختلعة ]
+",000,False,000,False,False,False,3,80
+"### ||| AUTO [ أول مختلعة في الإسلام ]
+",000,False,000,False,False,False,3,90
+"### ||| AUTO [الفرقة بسبب النشوز وسوء العشرة (الحكمين)]
+",000,False,000,False,False,False,3,252
+"### || AUTO [ كتاب الحدود]
+",000,False,000,False,False,False,2,1413
+"### ||| AUTO [حد الزنا]
+",000,False,000,False,False,False,3,253
+"### ||| AUTO [خروج المعتدة بغير عذر]
+",000,False,000,False,False,False,3,71
+"### ||| AUTO [حدود أهل الذمة والحكم بينهم]~
+",000,False,000,False,False,False,3,241
+"### ||| AUTO [ما قيل في القصاص]
+",000,False,000,False,False,False,3,36
+"### ||| AUTO [القصاص بين الجاهلية والإسلام]
+",000,False,000,False,False,False,3,435
+"### ||| AUTO [حد الحرابة ]
+",000,False,000,False,False,False,3,147
+"### ||| AUTO [لمن التخيير في تنفيذ حد الحرابة]
+",000,False,000,False,False,False,3,65
+"### || AUTO [كتاب الشهادات]
+",000,False,000,False,False,False,2,1044
+"### ||| AUTO [شهادة على البيع]
+",000,False,000,False,False,False,3,69
+"### ||| AUTO [شهادة القاذف]
+",000,False,000,False,False,False,3,242
+"### || AUTO ### ||| AUTO [كتاب الحج]
+",000,False,000,False,False,False,2,1253
+"### ||| AUTO [كتاب الحج]
+",000,False,000,False,False,False,3,149
+"### ||| AUTO [حجة الوداع (النسك الذي أحرم به الرسول)(ص)]
+",000,False,000,False,False,False,3,170
+"### ||| AUTO [نسخ الحج إلى العمرة]
+",000,False,000,False,False,False,3,104
+"### ||| AUTO [الاختلاف حول معنى نسخ الحج إلى العمرة]
+",000,False,000,False,False,False,3,466
+"### ||| AUTO [المتعة لأهل مكة ]
+",000,False,000,False,False,False,3,221
+"### ||| AUTO [أي الحج أفضل]
+",000,False,000,False,False,False,3,41
+"### || AUTO [كتاب السير والجهاد والجراح]
+",000,False,000,False,False,False,2,1878
+"### ||| AUTO [الإذن بقتال المشركين وفرض الجهاد]
+",000,False,000,False,False,False,3,856
+"### ||| AUTO [حكم الجهاد]
+",000,False,000,False,False,False,3,153
+"### ||| AUTO [القتال في الأشهر الحرم]
+",000,False,000,False,False,False,3,129
+"### ||| AUTO [الأسارى]
+",000,False,000,False,False,False,3,500
+"### ||| AUTO [الغنائم والأنفال]
+",000,False,000,False,False,False,3,71
+"### || AUTO [كتاب المواريث والوصايا]
+",000,False,000,False,False,False,2,1375
+"### ||| AUTO [التوارث والتبني بين الجاهلية والإسلام]
+",000,False,000,False,False,False,3,162
+"### ||| AUTO [المعاقدة والمحالفة والمعاهدة]
+",000,False,000,False,False,False,3,349
+"### ||| AUTO [الاستئذان قبالة الدخول]
+",000,False,000,False,False,False,3,99
+"### ||| AUTO [الوصية]
+",000,False,000,False,False,False,3,408

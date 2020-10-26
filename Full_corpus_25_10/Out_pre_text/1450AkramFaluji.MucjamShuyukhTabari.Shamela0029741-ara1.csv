@@ -1,0 +1,2015 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [معجم شيوخ الطبري]
+",000,False,000,False,False,False,1,61
+"### | إهداء وشكر وتقدير وعرفان
+",000,False,000,False,False,False,1,241
+"### | تقديم فضيلة الشيخ الأستاذ الدكتور باسم فيصل الجوابرة
+",000,False,000,False,False,False,1,254
+"### | تقديم فضيلة الشيخ أبي أسامة سليم بن عيد الهلالي
+",000,False,000,False,False,False,1,275
+"### | تقديم فضيلة الشيخ أبي الحارث علي بن حسن بن علي بن عبد الحميد الحلبي
+",000,False,000,False,False,False,1,178
+"### | تقديم فضيلة الدكتور محمد بن عبد الرزاق الرعود
+",000,False,000,False,False,False,1,483
+"### | تقديم فضيلة الشيخ مشهور بن حسن آل سلمان
+",000,False,000,False,False,False,1,1049
+"### | رموز كتب "" تهذيب الكمال "" و "" تهذيب التهذيب "" و "" تقريب التهذيب ""
+",000,False,000,False,False,False,1,162
+"### | رموز "" تعجيل المنفعة "" عدا رمز أحمد
+",000,False,000,False,False,False,1,113
+"### | مقدمة منهج البحث والتأليف
+",000,False,000,False,False,False,1,2458
+"### | 1 - 
+",000,False,000,False,False,False,1,40
+"### | 2 - 
+",000,False,000,False,False,False,1,33
+"### | 3 - 
+",000,False,000,False,False,False,1,42
+"### | 4 - 
+",000,False,000,False,False,False,1,53
+"### | 5 - 
+",000,False,000,False,False,False,1,46
+"### | 6 - 
+",000,False,000,False,False,False,1,34
+"### | 7 - 
+",000,False,000,False,False,False,1,44
+"### | 1 - 
+",000,False,000,False,False,False,1,25
+"### | 2 - 
+",000,False,000,False,False,False,1,45
+"### | 4 - 
+",000,False,000,False,False,False,1,47
+"### | 1 - 
+",000,False,000,False,False,False,1,64
+"### | 2 - 
+",000,False,000,False,False,False,1,82
+"### | 3 - 
+",000,False,000,False,False,False,1,308
+"### | 1 - 
+",000,False,000,False,False,False,1,28
+"### | 2 - 
+",000,False,000,False,False,False,1,60
+"### | 3 - 
+",000,False,000,False,False,False,1,64
+"### | 4 - 
+",000,False,000,False,False,False,1,57
+"### | 5 - 
+",000,False,000,False,False,False,1,123
+"### | أولا: التبويب والترقيم
+",000,False,000,False,False,False,1,43
+"### | 2 - 
+",000,False,000,False,False,False,1,18
+"### | 3 - 
+",000,False,000,False,False,False,1,26
+"### | 4 - 
+",000,False,000,False,False,False,1,23
+"### | 5 - 
+",000,False,000,False,False,False,1,53
+"### | 6 - 
+",000,False,000,False,False,False,1,30
+"### | 7 - 
+",000,False,000,False,False,False,1,38
+"### | 8 - 
+",000,False,000,False,False,False,1,86
+"### | ثانيا: التعريف بالراوي
+",000,False,000,False,False,False,1,44
+"### | 1 - 
+",000,False,000,False,False,False,1,9
+"### | 2 - 
+",000,False,000,False,False,False,1,13
+"### | 3 - 
+",000,False,000,False,False,False,1,13
+"### | 4 - 
+",000,False,000,False,False,False,1,13
+"### | 5 - 
+",000,False,000,False,False,False,1,19
+"### | 6 - 
+",000,False,000,False,False,False,1,25
+"### | 7 - 
+",000,False,000,False,False,False,1,13
+"### | 8 - 
+",000,False,000,False,False,False,1,25
+"### | 9 - 
+",000,False,000,False,False,False,1,26
+"### | 10 - 
+",000,False,000,False,False,False,1,21
+"### | ثالثا: معجم شيوخه
+",000,False,000,False,False,False,1,6
+"### | 1 - 
+",000,False,000,False,False,False,1,55
+"### | 2 - 
+",000,False,000,False,False,False,1,68
+"### | 3 - 
+",000,False,000,False,False,False,1,40
+"### | رابعا: معجم تلاميذه
+",000,False,000,False,False,False,1,6
+"### | 1 - 
+",000,False,000,False,False,False,1,67
+"### | 2 - 
+",000,False,000,False,False,False,1,40
+"### | خامسا: التعديل والتجريح والتعليق
+",000,False,000,False,False,False,1,27
+"### | 1 - 
+",000,False,000,False,False,False,1,28
+"### | 2 - 
+",000,False,000,False,False,False,1,30
+"### | 3 - 
+",000,False,000,False,False,False,1,33
+"### | 4 - 
+",000,False,000,False,False,False,1,38
+"### | 5 - 
+",000,False,000,False,False,False,1,79
+"### | سادسا: العزو
+",000,False,000,False,False,False,1,53
+"### | سابعا: التمييز
+",000,False,000,False,False,False,1,63
+"### | ثامنا: الرموز
+",000,False,000,False,False,False,1,70
+"### | تاسعا: الفهارس
+",000,False,000,False,False,False,1,361
+"### | عاشرا: خلاصة البحث
+",000,False,000,False,False,False,1,27
+"### | 1 - 
+",000,False,000,False,False,False,1,28
+"### | 2 - 
+",000,False,000,False,False,False,1,29
+"### | 3 - 
+",000,False,000,False,False,False,1,27
+"### | 4 - 
+",000,False,000,False,False,False,1,30
+"### | 5 - 
+",000,False,000,False,False,False,1,51
+"### | 6 - 
+",000,False,000,False,False,False,1,28
+"### | 7 - 
+",000,False,000,False,False,False,1,46
+"### | 8 - 
+",000,False,000,False,False,False,1,123
+"### | 9 - 
+",000,False,000,False,False,False,1,34
+"### | 10 - 
+",000,False,000,False,False,False,1,60
+"### | 11 - 
+",000,False,000,False,False,False,1,31
+"### | 12 - 
+",000,False,000,False,False,False,1,42
+"### | 1 - 
+",000,False,000,False,False,False,1,30
+"### | 2 - 
+",000,False,000,False,False,False,1,318
+"### | ترجمة الإمام الطبري - رحمه الله تعالى -
+",000,False,000,False,False,False,1,1492
+"### | 1 - 
+",000,False,000,False,False,False,1,22
+"### | 2 - 
+",000,False,000,False,False,False,1,30
+"### | 3 - 
+",000,False,000,False,False,False,1,32
+"### | 4 - 
+",000,False,000,False,False,False,1,9
+"### | 5 - 
+",000,False,000,False,False,False,1,7
+"### | 6 - 
+",000,False,000,False,False,False,1,21
+"### | 7 - 
+",000,False,000,False,False,False,1,28
+"### | 8 - 
+",000,False,000,False,False,False,1,13
+"### | 9 - 
+",000,False,000,False,False,False,1,11
+"### | 10 - 
+",000,False,000,False,False,False,1,15
+"### | 11 - 
+",000,False,000,False,False,False,1,15
+"### | 12 - 
+",000,False,000,False,False,False,1,7
+"### | 13 - 
+",000,False,000,False,False,False,1,5
+"### | 14 - 
+",000,False,000,False,False,False,1,5
+"### | 15 - 
+",000,False,000,False,False,False,1,7
+"### | 16 - 
+",000,False,000,False,False,False,1,7
+"### | 17 - 
+",000,False,000,False,False,False,1,15
+"### | 18 - 
+",000,False,000,False,False,False,1,550
+"### | [1] باب الألف
+",000,False,000,False,False,False,1,9
+"### | 1 - 
+",000,False,000,False,False,False,1,633
+"### | 3 - 
+",000,False,000,False,False,False,1,92
+"### | 120 - / 3151 
+",000,False,000,False,False,False,1,429
+"### | 4 - 
+",000,False,000,False,False,False,1,119
+"### | 1 - 
+",000,False,000,False,False,False,1,122
+"### | 2 - 
+",000,False,000,False,False,False,1,34
+"### | 5 - 
+",000,False,000,False,False,False,1,354
+"### | 6 - 
+",000,False,000,False,False,False,1,130
+"### | 3 - 
+",000,False,000,False,False,False,1,88
+"### | 4 - 
+",000,False,000,False,False,False,1,70
+"### | 5 - 
+",000,False,000,False,False,False,1,65
+"### | 6 - 
+",000,False,000,False,False,False,1,35
+"### | 7 - 
+",000,False,000,False,False,False,1,70
+"### | 7 - 
+",000,False,000,False,False,False,1,309
+"### | 8 - 
+",000,False,000,False,False,False,1,676
+"### | 9 - 
+",000,False,000,False,False,False,1,267
+"### | 3930 - 
+",000,False,000,False,False,False,1,412
+"### | 10 - 
+",000,False,000,False,False,False,1,323
+"### | 8 - 
+",000,False,000,False,False,False,1,18
+"### | 11 - 
+",000,False,000,False,False,False,1,94
+"### | 12 - 
+",000,False,000,False,False,False,1,298
+"### | 13 - 
+",000,False,000,False,False,False,1,402
+"### | 522 - / 7343 
+",000,False,000,False,False,False,1,255
+"### | 9 - 
+",000,False,000,False,False,False,1,44
+"### | 14 - 
+",000,False,000,False,False,False,1,254
+"### | 10 - 
+",000,False,000,False,False,False,1,65
+"### | 11 - 
+",000,False,000,False,False,False,1,77
+"### | 15 - 
+",000,False,000,False,False,False,1,295
+"### | 1549 - 
+",000,False,000,False,False,False,1,28
+"### | 16 - 
+",000,False,000,False,False,False,1,178
+"### | 17 - 
+",000,False,000,False,False,False,1,139
+"### | 18 - 
+",000,False,000,False,False,False,1,486
+"### | 19 - 
+",000,False,000,False,False,False,1,148
+"### | 20 - 
+",000,False,000,False,False,False,1,352
+"### | 21 - 
+",000,False,000,False,False,False,1,81
+"### | 8161 - 
+",000,False,000,False,False,False,1,430
+"### | 22 - 
+",000,False,000,False,False,False,1,230
+"### | 23 - 
+",000,False,000,False,False,False,1,607
+"### | 12 - 
+",000,False,000,False,False,False,1,37
+"### | 24 - 
+",000,False,000,False,False,False,1,78
+"### | 28847 - 
+",000,False,000,False,False,False,1,247
+"### | 25 - 
+",000,False,000,False,False,False,1,202
+"### | 26 - 
+",000,False,000,False,False,False,1,225
+"### | 27 - 
+",000,False,000,False,False,False,1,80
+"### | 28 - 
+",000,False,000,False,False,False,1,532
+"### | 29 - 
+",000,False,000,False,False,False,1,110
+"### | 13 - 
+",000,False,000,False,False,False,1,43
+"### | 14 - 
+",000,False,000,False,False,False,1,69
+"### | 30 - 
+",000,False,000,False,False,False,1,246
+"### | 15 - 
+",000,False,000,False,False,False,1,40
+"### | 16 - 
+",000,False,000,False,False,False,1,21
+"### | 31 - 
+",000,False,000,False,False,False,1,391
+"### | 17 - 
+",000,False,000,False,False,False,1,38
+"### | 32 - 
+",000,False,000,False,False,False,1,134
+"### | 31452 - 
+",000,False,000,False,False,False,1,219
+"### | .... 
+",000,False,000,False,False,False,1,93
+"### | 1 - 
+",000,False,000,False,False,False,1,23
+"### | 2 - 
+",000,False,000,False,False,False,1,171
+"### | 33 - 
+",000,False,000,False,False,False,1,428
+"### | 34 - 
+",000,False,000,False,False,False,1,635
+"### | 35 - 
+",000,False,000,False,False,False,1,449
+"### | 36 - 
+",000,False,000,False,False,False,1,86
+"### | 18 - 
+",000,False,000,False,False,False,1,26
+"### | 37 - 
+",000,False,000,False,False,False,1,265
+"### | 19 - 
+",000,False,000,False,False,False,1,72
+"### | 20 - 
+",000,False,000,False,False,False,1,32
+"### | 21 - 
+",000,False,000,False,False,False,1,37
+"### | 22 - 
+",000,False,000,False,False,False,1,72
+"### | 23 - 
+",000,False,000,False,False,False,1,16
+"### | 24 - 
+",000,False,000,False,False,False,1,14
+"### | 25 - 
+",000,False,000,False,False,False,1,16
+"### | 26 - 
+",000,False,000,False,False,False,1,14
+"### | 27 - 
+",000,False,000,False,False,False,1,18
+"### | 28 - 
+",000,False,000,False,False,False,1,13
+"### | 29 - 
+",000,False,000,False,False,False,1,16
+"### | 30 - 
+",000,False,000,False,False,False,1,21
+"### | 38 - 
+",000,False,000,False,False,False,1,221
+"### | 39 - 
+",000,False,000,False,False,False,1,602
+"### | 31 - 
+",000,False,000,False,False,False,1,79
+"### | 40 - 
+",000,False,000,False,False,False,1,379
+"### | 41 - 
+",000,False,000,False,False,False,1,376
+"### | 42 - 
+",000,False,000,False,False,False,1,195
+"### | 43 - 
+",000,False,000,False,False,False,1,314
+"### | 32 - 
+",000,False,000,False,False,False,1,110
+"### | 44 - 
+",000,False,000,False,False,False,1,509
+"### | 45 - 
+",000,False,000,False,False,False,1,183
+"### | 46 - 
+",000,False,000,False,False,False,1,274
+"### | 47 - 
+",000,False,000,False,False,False,1,166
+"### | 48 - 
+",000,False,000,False,False,False,1,354
+"### | 49 - 
+",000,False,000,False,False,False,1,175
+"### | 33 - 
+",000,False,000,False,False,False,1,46
+"### | 34 - 
+",000,False,000,False,False,False,1,30
+"### | 35 - 
+",000,False,000,False,False,False,1,37
+"### | 36 - 
+",000,False,000,False,False,False,1,33
+"### | 50 - 
+",000,False,000,False,False,False,1,121
+"### | 51 - 
+",000,False,000,False,False,False,1,200
+"### | 52 - 
+",000,False,000,False,False,False,1,237
+"### | 53 - 
+",000,False,000,False,False,False,1,259
+"### | 54 - 
+",000,False,000,False,False,False,1,412
+"### | 55 - 
+",000,False,000,False,False,False,1,304
+"### | 56 - 
+",000,False,000,False,False,False,1,491
+"### | 57 - 
+",000,False,000,False,False,False,1,406
+"### | 58 - 
+",000,False,000,False,False,False,1,434
+"### | [2] باب الباء
+",000,False,000,False,False,False,1,9
+"### | 59 - 
+",000,False,000,False,False,False,1,380
+"### | 37 - 
+",000,False,000,False,False,False,1,152
+"### | 60 - 
+",000,False,000,False,False,False,1,212
+"### | 38 - 
+",000,False,000,False,False,False,1,51
+"### | 61 - 
+",000,False,000,False,False,False,1,37
+"### | 62 - 
+",000,False,000,False,False,False,1,242
+"### | 63 - 
+",000,False,000,False,False,False,1,6536
+"### | 38022 - 
+",000,False,000,False,False,False,1,286
+"### | 64 - 
+",000,False,000,False,False,False,1,235
+"### | [3] باب التاء
+",000,False,000,False,False,False,1,9
+"### | 65 - 
+",000,False,000,False,False,False,1,433
+"### | [4] باب الجيم
+",000,False,000,False,False,False,1,9
+"### | 66 - 
+",000,False,000,False,False,False,1,208
+"### | 67 - 
+",000,False,000,False,False,False,1,138
+"### | 68 - 
+",000,False,000,False,False,False,1,90
+"### | 69 - 
+",000,False,000,False,False,False,1,588
+"### | 39 - 
+",000,False,000,False,False,False,1,18
+"### | 70 - 
+",000,False,000,False,False,False,1,243
+"### | 71 - 
+",000,False,000,False,False,False,1,394
+"### | 40 - 
+",000,False,000,False,False,False,1,188
+"### | 72 - 
+",000,False,000,False,False,False,1,116
+"### | [5] باب الحاء
+",000,False,000,False,False,False,1,9
+"### | 73 - 
+",000,False,000,False,False,False,1,207
+"### | 74 - 
+",000,False,000,False,False,False,1,3156
+"### | 160 - 
+",000,False,000,False,False,False,1,499
+"### | 41 - 
+",000,False,000,False,False,False,1,73
+"### | 42 - 
+",000,False,000,False,False,False,1,51
+"### | 43 - 
+",000,False,000,False,False,False,1,30
+"### | 75 - 
+",000,False,000,False,False,False,1,168
+"### | 76 - 
+",000,False,000,False,False,False,1,243
+"### | 77 - 
+",000,False,000,False,False,False,1,238
+"### | 78 - 
+",000,False,000,False,False,False,1,133
+"### | 79 - 
+",000,False,000,False,False,False,1,159
+"### | 80 - 
+",000,False,000,False,False,False,1,233
+"### | 81 - 
+",000,False,000,False,False,False,1,177
+"### | 82 - 
+",000,False,000,False,False,False,1,324
+"### | 83 - 
+",000,False,000,False,False,False,1,204
+"### | 84 - 
+",000,False,000,False,False,False,1,359
+"### | 85 - 
+",000,False,000,False,False,False,1,266
+"### | 86 - 
+",000,False,000,False,False,False,1,80
+"### | 87 - 
+",000,False,000,False,False,False,1,872
+"### | 88 - 
+",000,False,000,False,False,False,1,156
+"### | 89 - 
+",000,False,000,False,False,False,1,120
+"### | 90 - 
+",000,False,000,False,False,False,1,908
+"### | 91 - 
+",000,False,000,False,False,False,1,146
+"### | 92 - 
+",000,False,000,False,False,False,1,236
+"### | 93 - 
+",000,False,000,False,False,False,1,137
+"### | 94 - 
+",000,False,000,False,False,False,1,363
+"### | 1 - 
+",000,False,000,False,False,False,1,11
+"### | 2 - 
+",000,False,000,False,False,False,1,24
+"### | 3 - 
+",000,False,000,False,False,False,1,15
+"### | 4 - 
+",000,False,000,False,False,False,1,15
+"### | 5 - 
+",000,False,000,False,False,False,1,21
+"### | 6 - 
+",000,False,000,False,False,False,1,33
+"### | 95 - 
+",000,False,000,False,False,False,1,269
+"### | 96 - 
+",000,False,000,False,False,False,1,569
+"### | 4699 - 
+",000,False,000,False,False,False,1,616
+"### | 10450 - 
+",000,False,000,False,False,False,1,522
+"### | 21399 - 
+",000,False,000,False,False,False,1,459
+"### | 97 - 
+",000,False,000,False,False,False,1,238
+"### | 98 - 
+",000,False,000,False,False,False,1,104
+"### | 99 - 
+",000,False,000,False,False,False,1,90
+"### | 100 - 
+",000,False,000,False,False,False,1,374
+"### | 101 - 
+",000,False,000,False,False,False,1,224
+"### | 102 - 
+",000,False,000,False,False,False,1,182
+"### | 103 - 
+",000,False,000,False,False,False,1,452
+"### | 1 - 
+",000,False,000,False,False,False,1,41
+"### | 2 - 
+",000,False,000,False,False,False,1,32
+"### | 3 - 
+",000,False,000,False,False,False,1,10
+"### | 4 - 
+",000,False,000,False,False,False,1,64
+"### | 44 - 
+",000,False,000,False,False,False,1,19
+"### | 45 - 
+",000,False,000,False,False,False,1,34
+"### | 46 - 
+",000,False,000,False,False,False,1,30
+"### | 104 - 
+",000,False,000,False,False,False,1,202
+"### | 1 - 
+",000,False,000,False,False,False,1,27
+"### | 2 - 
+",000,False,000,False,False,False,1,23
+"### | 3 - 
+",000,False,000,False,False,False,1,47
+"### | 4 - 
+",000,False,000,False,False,False,1,55
+"### | 5 - 
+",000,False,000,False,False,False,1,29
+"### | 6 - 
+",000,False,000,False,False,False,1,41
+"### | 105 - 
+",000,False,000,False,False,False,1,566
+"### | 47 - 
+",000,False,000,False,False,False,1,12
+"### | 106 - 
+",000,False,000,False,False,False,1,349
+"### | 11377 - 
+",000,False,000,False,False,False,1,144
+"### | 107 - 
+",000,False,000,False,False,False,1,61
+"### | 31631 - 
+",000,False,000,False,False,False,1,105
+"### | [6] باب الخاء
+",000,False,000,False,False,False,1,9
+"### | 108 - 
+",000,False,000,False,False,False,1,275
+"### | 48 - 
+",000,False,000,False,False,False,1,48
+"### | 109 - 
+",000,False,000,False,False,False,1,92
+"### | [7] باب الدال
+",000,False,000,False,False,False,1,9
+"### | 110 - 
+",000,False,000,False,False,False,1,86
+"### | 111 - 
+",000,False,000,False,False,False,1,121
+"### | 49 - 
+",000,False,000,False,False,False,1,33
+"### | 50 - 
+",000,False,000,False,False,False,1,18
+"### | 51 - 
+",000,False,000,False,False,False,1,57
+"### | [8] باب الراء
+",000,False,000,False,False,False,1,9
+"### | 112 - 
+",000,False,000,False,False,False,1,341
+"### | 213 - /473 
+",000,False,000,False,False,False,1,33
+"### | 52 - 
+",000,False,000,False,False,False,1,39
+"### | 53 - 
+",000,False,000,False,False,False,1,19
+"### | 54 - 
+",000,False,000,False,False,False,1,28
+"### | [9] باب الزاي
+",000,False,000,False,False,False,1,9
+"### | 113 - 
+",000,False,000,False,False,False,1,270
+"### | 114 - 
+",000,False,000,False,False,False,1,332
+"### | 115 - 
+",000,False,000,False,False,False,1,554
+"### | 55 - 
+",000,False,000,False,False,False,1,21
+"### | 116 - 
+",000,False,000,False,False,False,1,267
+"### | 117 - 
+",000,False,000,False,False,False,1,239
+"### | 118 - 
+",000,False,000,False,False,False,1,252
+"### | 119 - 
+",000,False,000,False,False,False,1,234
+"### | 120 - 
+",000,False,000,False,False,False,1,196
+"### | 121 - 
+",000,False,000,False,False,False,1,181
+"### | 122 - 
+",000,False,000,False,False,False,1,113
+"### | [10] باب السين المهملة
+",000,False,000,False,False,False,1,10
+"### | 123 - 
+",000,False,000,False,False,False,1,178
+"### | 56 - 
+",000,False,000,False,False,False,1,46
+"### | 124 - 
+",000,False,000,False,False,False,1,421
+"### | 125 - 
+",000,False,000,False,False,False,1,229
+"### | 57 - 
+",000,False,000,False,False,False,1,39
+"### | 58 - 
+",000,False,000,False,False,False,1,39
+"### | 126 - 
+",000,False,000,False,False,False,1,232
+"### | 127 - 
+",000,False,000,False,False,False,1,196
+"### | 59 - 
+",000,False,000,False,False,False,1,33
+"### | 128 - 
+",000,False,000,False,False,False,1,303
+"### | 129 - 
+",000,False,000,False,False,False,1,526
+"### | 130 - 
+",000,False,000,False,False,False,1,370
+"### | 131 - 
+",000,False,000,False,False,False,1,351
+"### | 12876 - 
+",000,False,000,False,False,False,1,490
+"### | 16836 - 
+",000,False,000,False,False,False,1,462
+"### | 18557 - 
+",000,False,000,False,False,False,1,454
+"### | 17391 - 
+",000,False,000,False,False,False,1,1384
+"### | 9045 - 
+",000,False,000,False,False,False,1,536
+"### | 15698 - 
+",000,False,000,False,False,False,1,522
+"### | 28294 - 
+",000,False,000,False,False,False,1,462
+"### | 10728 - 
+",000,False,000,False,False,False,1,669
+"### | 132 - 
+",000,False,000,False,False,False,1,160
+"### | 60 - 
+",000,False,000,False,False,False,1,26
+"### | 61 - 
+",000,False,000,False,False,False,1,25
+"### | 133 - 
+",000,False,000,False,False,False,1,190
+"### | 134 - 
+",000,False,000,False,False,False,1,277
+"### | 135 - 
+",000,False,000,False,False,False,1,135
+"### | 23576 - 
+",000,False,000,False,False,False,1,152
+"### | 136 - 
+",000,False,000,False,False,False,1,117
+"### | 137 - 
+",000,False,000,False,False,False,1,80
+"### | 138 - 
+",000,False,000,False,False,False,1,66
+"### | 33407 - 
+",000,False,000,False,False,False,1,198
+"### | 139 - 
+",000,False,000,False,False,False,1,362
+"### | 140 - 
+",000,False,000,False,False,False,1,41
+"### | 141 - 
+",000,False,000,False,False,False,1,105
+"### | 142 - 
+",000,False,000,False,False,False,1,299
+"### | 143 - 
+",000,False,000,False,False,False,1,485
+"### | 144 - 
+",000,False,000,False,False,False,1,375
+"### | 62 - 
+",000,False,000,False,False,False,1,117
+"### | 63 - 
+",000,False,000,False,False,False,1,29
+"### | 64 - 
+",000,False,000,False,False,False,1,32
+"### | [11] باب الصاد المهملة
+",000,False,000,False,False,False,1,10
+"### | 145 - 
+",000,False,000,False,False,False,1,290
+"### | 146 - 
+",000,False,000,False,False,False,1,88
+"### | 147 - 
+",000,False,000,False,False,False,1,223
+"### | 65 - 
+",000,False,000,False,False,False,1,51
+"### | [12] باب الطاء المهملة
+",000,False,000,False,False,False,1,10
+"### | 148 - 
+",000,False,000,False,False,False,1,100
+"### | [13] باب العين المهملة
+",000,False,000,False,False,False,1,10
+"### | 149 - 
+",000,False,000,False,False,False,1,284
+"### | 150 - 
+",000,False,000,False,False,False,1,248
+"### | 151 - 
+",000,False,000,False,False,False,1,349
+"### | 152 - 
+",000,False,000,False,False,False,1,407
+"### | 153 - 
+",000,False,000,False,False,False,1,122
+"### | 154 - 
+",000,False,000,False,False,False,1,408
+"### | 101 - / 197 
+",000,False,000,False,False,False,1,17
+"### | 155 - 
+",000,False,000,False,False,False,1,340
+"### | 156 - 
+",000,False,000,False,False,False,1,153
+"### | 66 - 
+",000,False,000,False,False,False,1,82
+"### | 157 - 
+",000,False,000,False,False,False,1,366
+"### | 857 - 
+",000,False,000,False,False,False,1,60
+"### | 158 - 
+",000,False,000,False,False,False,1,93
+"### | 159 - 
+",000,False,000,False,False,False,1,128
+"### | 160 - 
+",000,False,000,False,False,False,1,166
+"### | 161 - 
+",000,False,000,False,False,False,1,276
+"### | 162 - 
+",000,False,000,False,False,False,1,149
+"### | 163 - 
+",000,False,000,False,False,False,1,217
+"### | 2647 - 
+",000,False,000,False,False,False,1,108
+"### | 164 - 
+",000,False,000,False,False,False,1,200
+"### | 165 - 
+",000,False,000,False,False,False,1,84
+"### | 166 - 
+",000,False,000,False,False,False,1,156
+"### | 167 - 
+",000,False,000,False,False,False,1,739
+"### | 168 - 
+",000,False,000,False,False,False,1,147
+"### | 169 - 
+",000,False,000,False,False,False,1,79
+"### | 170 - 
+",000,False,000,False,False,False,1,750
+"### | 171 - 
+",000,False,000,False,False,False,1,158
+"### | 172 - 
+",000,False,000,False,False,False,1,254
+"### | 173 - 
+",000,False,000,False,False,False,1,300
+"### | 174 - 
+",000,False,000,False,False,False,1,167
+"### | 175 - 
+",000,False,000,False,False,False,1,181
+"### | 176 - 
+",000,False,000,False,False,False,1,155
+"### | 177 - 
+",000,False,000,False,False,False,1,193
+"### | 178 - 
+",000,False,000,False,False,False,1,343
+"### | 179 - 
+",000,False,000,False,False,False,1,147
+"### | 67 - 
+",000,False,000,False,False,False,1,27
+"### | 68 - 
+",000,False,000,False,False,False,1,54
+"### | 69 - 
+",000,False,000,False,False,False,1,65
+"### | 70 - 
+",000,False,000,False,False,False,1,56
+"### | 71 - 
+",000,False,000,False,False,False,1,79
+"### | 72 - 
+",000,False,000,False,False,False,1,38
+"### | 180 - 
+",000,False,000,False,False,False,1,49
+"### | 181 - 
+",000,False,000,False,False,False,1,176
+"### | 182 - 
+",000,False,000,False,False,False,1,110
+"### | 183 - 
+",000,False,000,False,False,False,1,420
+"### | 73 - 
+",000,False,000,False,False,False,1,73
+"### | 74 - 
+",000,False,000,False,False,False,1,105
+"### | 184 - 
+",000,False,000,False,False,False,1,166
+"### | 75 - 
+",000,False,000,False,False,False,1,70
+"### | 185 - 
+",000,False,000,False,False,False,1,170
+"### | 186 - 
+",000,False,000,False,False,False,1,162
+"### | 187 - 
+",000,False,000,False,False,False,1,256
+"### | 188 - 
+",000,False,000,False,False,False,1,315
+"### | 189 - 
+",000,False,000,False,False,False,1,106
+"### | 190 - 
+",000,False,000,False,False,False,1,159
+"### | 191 - 
+",000,False,000,False,False,False,1,191
+"### | 192 - 
+",000,False,000,False,False,False,1,188
+"### | 193 - 
+",000,False,000,False,False,False,1,255
+"### | 194 - 
+",000,False,000,False,False,False,1,186
+"### | 195 - 
+",000,False,000,False,False,False,1,125
+"### | 76 - 
+",000,False,000,False,False,False,1,33
+"### | 196 - 
+",000,False,000,False,False,False,1,199
+"### | 197 - 
+",000,False,000,False,False,False,1,218
+"### | 198 - 
+",000,False,000,False,False,False,1,165
+"### | 199 - 
+",000,False,000,False,False,False,1,243
+"### | 200 - 
+",000,False,000,False,False,False,1,207
+"### | 77 - 
+",000,False,000,False,False,False,1,34
+"### | 78 - 
+",000,False,000,False,False,False,1,32
+"### | 79 - 
+",000,False,000,False,False,False,1,31
+"### | 201 - 
+",000,False,000,False,False,False,1,86
+"### | 202 - 
+",000,False,000,False,False,False,1,281
+"### | 203 - 
+",000,False,000,False,False,False,1,170
+"### | 204 - 
+",000,False,000,False,False,False,1,346
+"### | 205 - 
+",000,False,000,False,False,False,1,245
+"### | 206 - 
+",000,False,000,False,False,False,1,326
+"### | 23980 - 
+",000,False,000,False,False,False,1,542
+"### | 30954 - 
+",000,False,000,False,False,False,1,522
+"### | 37952 - 
+",000,False,000,False,False,False,1,151
+"### | 207 - 
+",000,False,000,False,False,False,1,296
+"### | 208 - 
+",000,False,000,False,False,False,1,423
+"### | 11826 - 
+",000,False,000,False,False,False,1,260
+"### | 80 - 
+",000,False,000,False,False,False,1,122
+"### | 81 - 
+",000,False,000,False,False,False,1,34
+"### | 209 - 
+",000,False,000,False,False,False,1,170
+"### | 210 - 
+",000,False,000,False,False,False,1,122
+"### | 211 - 
+",000,False,000,False,False,False,1,166
+"### | 212 - 
+",000,False,000,False,False,False,1,81
+"### | 213 - 
+",000,False,000,False,False,False,1,169
+"### | 214 - 
+",000,False,000,False,False,False,1,414
+"### | 215 - 
+",000,False,000,False,False,False,1,201
+"### | 82 - 
+",000,False,000,False,False,False,1,81
+"### | 216 - 
+",000,False,000,False,False,False,1,120
+"### | 217 - 
+",000,False,000,False,False,False,1,174
+"### | 218 - 
+",000,False,000,False,False,False,1,567
+"### | 219 - 
+",000,False,000,False,False,False,1,116
+"### | 220 - 
+",000,False,000,False,False,False,1,226
+"### | 83 - 
+",000,False,000,False,False,False,1,61
+"### | 221 - 
+",000,False,000,False,False,False,1,336
+"### | 222 - 
+",000,False,000,False,False,False,1,245
+"### | 223 - 
+",000,False,000,False,False,False,1,173
+"### | 224 - 
+",000,False,000,False,False,False,1,131
+"### | 1 - 
+",000,False,000,False,False,False,1,25
+"### | 2 - 
+",000,False,000,False,False,False,1,38
+"### | 3 - 
+",000,False,000,False,False,False,1,23
+"### | 4 - 
+",000,False,000,False,False,False,1,74
+"### | 225 - 
+",000,False,000,False,False,False,1,505
+"### | 226 - 
+",000,False,000,False,False,False,1,318
+"### | 84 - 
+",000,False,000,False,False,False,1,67
+"### | 227 - 
+",000,False,000,False,False,False,1,1024
+"### | 85 - 
+",000,False,000,False,False,False,1,43
+"### | 228 - 
+",000,False,000,False,False,False,1,312
+"### | 86 - 
+",000,False,000,False,False,False,1,46
+"### | 229 - 
+",000,False,000,False,False,False,1,302
+"### | 230 - 
+",000,False,000,False,False,False,1,182
+"### | 231 - 
+",000,False,000,False,False,False,1,358
+"### | 87 - 
+",000,False,000,False,False,False,1,49
+"### | 88 - 
+",000,False,000,False,False,False,1,30
+"### | 232 - 
+",000,False,000,False,False,False,1,70
+"### | 233 - 
+",000,False,000,False,False,False,1,286
+"### | [14] باب الفاء الموحدة
+",000,False,000,False,False,False,1,10
+"### | 234 - 
+",000,False,000,False,False,False,1,130
+"### | 235 - 
+",000,False,000,False,False,False,1,337
+"### | 236 - 
+",000,False,000,False,False,False,1,140
+"### | 237 - 
+",000,False,000,False,False,False,1,180
+"### | 89 - 
+",000,False,000,False,False,False,1,22
+"### | 90 - 
+",000,False,000,False,False,False,1,140
+"### | 91 - 
+",000,False,000,False,False,False,1,81
+"### | 92 - 
+",000,False,000,False,False,False,1,66
+"### | 93 - 
+",000,False,000,False,False,False,1,149
+"### | 238 - 
+",000,False,000,False,False,False,1,251
+"### | 94 - 
+",000,False,000,False,False,False,1,30
+"### | 95 - 
+",000,False,000,False,False,False,1,40
+"### | 239 - 
+",000,False,000,False,False,False,1,244
+"### | 240 - 
+",000,False,000,False,False,False,1,135
+"### | 96 - 
+",000,False,000,False,False,False,1,40
+"### | 97 - 
+",000,False,000,False,False,False,1,29
+"### | 98 - 
+",000,False,000,False,False,False,1,37
+"### | 99 - 
+",000,False,000,False,False,False,1,77
+"### | 100 - 
+",000,False,000,False,False,False,1,42
+"### | [15] باب القاف المثناة
+",000,False,000,False,False,False,1,10
+"### | 241 - 
+",000,False,000,False,False,False,1,356
+"### | 242 - 
+",000,False,000,False,False,False,1,330
+"### | 1568 - 
+",000,False,000,False,False,False,1,670
+"### | 8104 - 
+",000,False,000,False,False,False,1,605
+"### | 13863 - 
+",000,False,000,False,False,False,1,565
+"### | 17911 - 
+",000,False,000,False,False,False,1,545
+"### | 21580 - 
+",000,False,000,False,False,False,1,594
+"### | 23744 - 
+",000,False,000,False,False,False,1,564
+"### | 25568 - 
+",000,False,000,False,False,False,1,560
+"### | 27195 - 
+",000,False,000,False,False,False,1,407
+"### | 1 - 
+",000,False,000,False,False,False,1,24
+"### | .... 
+",000,False,000,False,False,False,1,22
+"### | ...... 
+",000,False,000,False,False,False,1,14
+"### | 2 - 
+",000,False,000,False,False,False,1,32
+"### | ...... 
+",000,False,000,False,False,False,1,19
+"### | .... 
+",000,False,000,False,False,False,1,21
+"### | 3 - 
+",000,False,000,False,False,False,1,337
+"### | 101 - 
+",000,False,000,False,False,False,1,81
+"### | 102 - 
+",000,False,000,False,False,False,1,32
+"### | 103 - 
+",000,False,000,False,False,False,1,111
+"### | 104 - 
+",000,False,000,False,False,False,1,44
+"### | 105 - 
+",000,False,000,False,False,False,1,24
+"### | 243 - 
+",000,False,000,False,False,False,1,114
+"### | 244 - 
+",000,False,000,False,False,False,1,102
+"### | 106 - 
+",000,False,000,False,False,False,1,28
+"### | [16] باب الميم
+",000,False,000,False,False,False,1,9
+"### | 245 - 
+",000,False,000,False,False,False,1,237
+"### | 1556 - 
+",000,False,000,False,False,False,1,6828
+"### | 1 - 
+",000,False,000,False,False,False,1,28
+"### | 2 - 
+",000,False,000,False,False,False,1,36
+"### | 3 - 
+",000,False,000,False,False,False,1,42
+"### | 4 - 
+",000,False,000,False,False,False,1,27
+"### | 5 - 
+",000,False,000,False,False,False,1,50
+"### | 6 - 
+",000,False,000,False,False,False,1,36
+"### | 7 - 
+",000,False,000,False,False,False,1,51
+"### | 8 - 
+",000,False,000,False,False,False,1,32
+"### | 9 - 
+",000,False,000,False,False,False,1,33
+"### | 10 - 
+",000,False,000,False,False,False,1,23
+"### | 11 - 
+",000,False,000,False,False,False,1,35
+"### | 12 - 
+",000,False,000,False,False,False,1,24
+"### | 1 - 
+",000,False,000,False,False,False,1,17
+"### | 2 - 
+",000,False,000,False,False,False,1,11
+"### | 3 - 
+",000,False,000,False,False,False,1,13
+"### | 4 - 
+",000,False,000,False,False,False,1,13
+"### | 5 - 
+",000,False,000,False,False,False,1,11
+"### | 6 - 
+",000,False,000,False,False,False,1,8
+"### | 7 - 
+",000,False,000,False,False,False,1,11
+"### | 8 - 
+",000,False,000,False,False,False,1,15
+"### | 9 - 
+",000,False,000,False,False,False,1,11
+"### | 13 - 
+",000,False,000,False,False,False,1,218
+"### | 246 - 
+",000,False,000,False,False,False,1,540
+"### | 247 - 
+",000,False,000,False,False,False,1,313
+"### | 107 - 
+",000,False,000,False,False,False,1,95
+"### | 248 - 
+",000,False,000,False,False,False,1,248
+"### | 249 - 
+",000,False,000,False,False,False,1,142
+"### | 108 - 
+",000,False,000,False,False,False,1,73
+"### | 250 - 
+",000,False,000,False,False,False,1,375
+"### | 251 - 
+",000,False,000,False,False,False,1,299
+"### | 252 - 
+",000,False,000,False,False,False,1,265
+"### | 6 - 
+",000,False,000,False,False,False,1,159
+"### | 253 - 
+",000,False,000,False,False,False,1,450
+"### | 254 - 
+",000,False,000,False,False,False,1,163
+"### | 242 - 
+",000,False,000,False,False,False,1,841
+"### | 20851 - 
+",000,False,000,False,False,False,1,251
+"### | 35573 - 
+",000,False,000,False,False,False,1,310
+"### | 2376 - 
+",000,False,000,False,False,False,1,583
+"### | 10467 - 
+",000,False,000,False,False,False,1,305
+"### | 6297 - 
+",000,False,000,False,False,False,1,744
+"### | 256 - 
+",000,False,000,False,False,False,1,211
+"### | 257 - 
+",000,False,000,False,False,False,1,313
+"### | 258 - 
+",000,False,000,False,False,False,1,274
+"### | 10957 - 
+",000,False,000,False,False,False,1,838
+"### | 259 - 
+",000,False,000,False,False,False,1,246
+"### | 8206 - 
+",000,False,000,False,False,False,1,257
+"### | 34794 - 
+",000,False,000,False,False,False,1,296
+"### | 17286 - 
+",000,False,000,False,False,False,1,1092
+"### | 31210 - 
+",000,False,000,False,False,False,1,498
+"### | 30488 - 
+",000,False,000,False,False,False,1,251
+"### | 34273 - 
+",000,False,000,False,False,False,1,1398
+"### | 260 - 
+",000,False,000,False,False,False,1,166
+"### | 261 - 
+",000,False,000,False,False,False,1,212
+"### | 262 - 
+",000,False,000,False,False,False,1,117
+"### | 263 - 
+",000,False,000,False,False,False,1,135
+"### | 264 - 
+",000,False,000,False,False,False,1,155
+"### | 36133 - 
+",000,False,000,False,False,False,1,273
+"### | 109 - 
+",000,False,000,False,False,False,1,63
+"### | 110 - 
+",000,False,000,False,False,False,1,61
+"### | 111 - 
+",000,False,000,False,False,False,1,35
+"### | 112 - 
+",000,False,000,False,False,False,1,50
+"### | 113 - 
+",000,False,000,False,False,False,1,33
+"### | 114 - 
+",000,False,000,False,False,False,1,60
+"### | 115 - 
+",000,False,000,False,False,False,1,49
+"### | 116 - 
+",000,False,000,False,False,False,1,57
+"### | 117 - 
+",000,False,000,False,False,False,1,32
+"### | 118 - 
+",000,False,000,False,False,False,1,30
+"### | 119 - 
+",000,False,000,False,False,False,1,41
+"### | 120 - 
+",000,False,000,False,False,False,1,41
+"### | 121 - 
+",000,False,000,False,False,False,1,42
+"### | 265 - 
+",000,False,000,False,False,False,1,422
+"### | 226 - 
+",000,False,000,False,False,False,1,285
+"### | 10964 - 
+",000,False,000,False,False,False,1,271
+"### | 21270 - 
+",000,False,000,False,False,False,1,271
+"### | 24871 - 
+",000,False,000,False,False,False,1,271
+"### | 31658 - 
+",000,False,000,False,False,False,1,271
+"### | 37086 - 
+",000,False,000,False,False,False,1,255
+"### | 267 - 
+",000,False,000,False,False,False,1,423
+"### | 122 - 
+",000,False,000,False,False,False,1,20
+"### | 268 - 
+",000,False,000,False,False,False,1,404
+"### | 269 - 
+",000,False,000,False,False,False,1,143
+"### | 270 - 
+",000,False,000,False,False,False,1,247
+"### | 7919 - 
+",000,False,000,False,False,False,1,427
+"### | 1 - 
+",000,False,000,False,False,False,1,36
+"### | 2 - 
+",000,False,000,False,False,False,1,23
+"### | 3 - 
+",000,False,000,False,False,False,1,20
+"### | 4 - 
+",000,False,000,False,False,False,1,31
+"### | 5 - 
+",000,False,000,False,False,False,1,13
+"### | 6 - 
+",000,False,000,False,False,False,1,27
+"### | 7 - 
+",000,False,000,False,False,False,1,50
+"### | 8 - 
+",000,False,000,False,False,False,1,67
+"### | 123 - 
+",000,False,000,False,False,False,1,58
+"### | 124 - 
+",000,False,000,False,False,False,1,30
+"### | 271 - 
+",000,False,000,False,False,False,1,315
+"### | 272 - 
+",000,False,000,False,False,False,1,134
+"### | 125 - 
+",000,False,000,False,False,False,1,88
+"### | 273 - 
+",000,False,000,False,False,False,1,304
+"### | 274 - 
+",000,False,000,False,False,False,1,160
+"### | 126 - 
+",000,False,000,False,False,False,1,49
+"### | 275 - 
+",000,False,000,False,False,False,1,201
+"### | 276 - 
+",000,False,000,False,False,False,1,328
+"### | 277 - 
+",000,False,000,False,False,False,1,222
+"### | 278 - 
+",000,False,000,False,False,False,1,201
+"### | 13745 - 
+",000,False,000,False,False,False,1,523
+"### | 19384 - 
+",000,False,000,False,False,False,1,522
+"### | 25410 - 
+",000,False,000,False,False,False,1,520
+"### | 32773 - 
+",000,False,000,False,False,False,1,522
+"### | 36029 - 
+",000,False,000,False,False,False,1,501
+"### | 16768 - 
+",000,False,000,False,False,False,1,327
+"### | 127 - 
+",000,False,000,False,False,False,1,40
+"### | 279 - 
+",000,False,000,False,False,False,1,146
+"### | 128 - 
+",000,False,000,False,False,False,1,62
+"### | 129 - 
+",000,False,000,False,False,False,1,62
+"### | 130 - 
+",000,False,000,False,False,False,1,55
+"### | 280 - 
+",000,False,000,False,False,False,1,353
+"### | 281 - 
+",000,False,000,False,False,False,1,556
+"### | 282 - 
+",000,False,000,False,False,False,1,131
+"### | 283 - 
+",000,False,000,False,False,False,1,228
+"### | 131 - 
+",000,False,000,False,False,False,1,56
+"### | 132 - 
+",000,False,000,False,False,False,1,53
+"### | 284 - 
+",000,False,000,False,False,False,1,167
+"### | 285 - 
+",000,False,000,False,False,False,1,636
+"### | 133 - 
+",000,False,000,False,False,False,1,43
+"### | 286 - 
+",000,False,000,False,False,False,1,145
+"### | 287 - 
+",000,False,000,False,False,False,1,400
+"### | 134 - 
+",000,False,000,False,False,False,1,68
+"### | 135 - 
+",000,False,000,False,False,False,1,46
+"### | 288 - 
+",000,False,000,False,False,False,1,32
+"### | 289 - 
+",000,False,000,False,False,False,1,214
+"### | 136 - 
+",000,False,000,False,False,False,1,35
+"### | 137 - 
+",000,False,000,False,False,False,1,23
+"### | 138 - 
+",000,False,000,False,False,False,1,18
+"### | 290 - 
+",000,False,000,False,False,False,1,303
+"### | 291 - 
+",000,False,000,False,False,False,1,173
+"### | 292 - 
+",000,False,000,False,False,False,1,97
+"### | 293 - 
+",000,False,000,False,False,False,1,115
+"### | 294 - 
+",000,False,000,False,False,False,1,103
+"### | 295 - 
+",000,False,000,False,False,False,1,388
+"### | 296 - 
+",000,False,000,False,False,False,1,297
+"### | 139 - 
+",000,False,000,False,False,False,1,223
+"### | 297 - 
+",000,False,000,False,False,False,1,126
+"### | 298 - 
+",000,False,000,False,False,False,1,193
+"### | 299 - 
+",000,False,000,False,False,False,1,291
+"### | 300 - 
+",000,False,000,False,False,False,1,140
+"### | 301 - 
+",000,False,000,False,False,False,1,227
+"### | 140 - 
+",000,False,000,False,False,False,1,28
+"### | 302 - 
+",000,False,000,False,False,False,1,286
+"### | 37118 - 
+",000,False,000,False,False,False,1,955
+"### | 141 - 
+",000,False,000,False,False,False,1,24
+"### | 141 - 
+",000,False,000,False,False,False,1,34
+"### | 143 - 
+",000,False,000,False,False,False,1,61
+"### | 144 - 
+",000,False,000,False,False,False,1,48
+"### | 145 - 
+",000,False,000,False,False,False,1,37
+"### | 146 - 
+",000,False,000,False,False,False,1,27
+"### | 303 - 
+",000,False,000,False,False,False,1,44
+"### | 304 - 
+",000,False,000,False,False,False,1,375
+"### | 305 - 
+",000,False,000,False,False,False,1,144
+"### | 306 - 
+",000,False,000,False,False,False,1,267
+"### | 307 - 
+",000,False,000,False,False,False,1,147
+"### | 926 - 
+",000,False,000,False,False,False,1,620
+"### | 8566 - 
+",000,False,000,False,False,False,1,581
+"### | 16225 - 
+",000,False,000,False,False,False,1,562
+"### | 23109 - 
+",000,False,000,False,False,False,1,565
+"### | 27109 - 
+",000,False,000,False,False,False,1,564
+"### | 30787 - 
+",000,False,000,False,False,False,1,543
+"### | 34549 - 
+",000,False,000,False,False,False,1,662
+"### | 147 - 
+",000,False,000,False,False,False,1,33
+"### | 148 - 
+",000,False,000,False,False,False,1,67
+"### | 149 - 
+",000,False,000,False,False,False,1,36
+"### | 308 - 
+",000,False,000,False,False,False,1,582
+"### | 309 - 
+",000,False,000,False,False,False,1,67
+"### | 22806 - 
+",000,False,000,False,False,False,1,84
+"### | 310 - 
+",000,False,000,False,False,False,1,1475
+"### | 26181 - 
+",000,False,000,False,False,False,1,840
+"### | 1005 - 
+",000,False,000,False,False,False,1,1654
+"### | 150 - 
+",000,False,000,False,False,False,1,60
+"### | 311 - 
+",000,False,000,False,False,False,1,349
+"### | 312 - 
+",000,False,000,False,False,False,1,108
+"### | 313 - 
+",000,False,000,False,False,False,1,213
+"### | 314 - 
+",000,False,000,False,False,False,1,162
+"### | 17263 - 
+",000,False,000,False,False,False,1,208
+"### | 151 - 
+",000,False,000,False,False,False,1,22
+"### | 152 - 
+",000,False,000,False,False,False,1,33
+"### | 315 - 
+",000,False,000,False,False,False,1,133
+"### | 153 - 
+",000,False,000,False,False,False,1,95
+"### | 316 - 
+",000,False,000,False,False,False,1,297
+"### | 9255 - 
+",000,False,000,False,False,False,1,27
+"### | 9501 - 
+",000,False,000,False,False,False,1,69
+"### | 317 - 
+",000,False,000,False,False,False,1,314
+"### | 154 - 
+",000,False,000,False,False,False,1,94
+"### | 155 - 
+",000,False,000,False,False,False,1,20
+"### | 318 - 
+",000,False,000,False,False,False,1,360
+"### | 319 - 
+",000,False,000,False,False,False,1,321
+"### | 320 - 
+",000,False,000,False,False,False,1,310
+"### | .... 
+",000,False,000,False,False,False,1,0
+"### | .... 
+",000,False,000,False,False,False,1,0
+"### | .... 
+",000,False,000,False,False,False,1,0
+"### | ...... 
+",000,False,000,False,False,False,1,2
+"### | 321 - 
+",000,False,000,False,False,False,1,309
+"### | 156 - 
+",000,False,000,False,False,False,1,62
+"### | 322 - 
+",000,False,000,False,False,False,1,172
+"### | 323 - 
+",000,False,000,False,False,False,1,183
+"### | … 
+",000,False,000,False,False,False,1,0
+"### | … 
+",000,False,000,False,False,False,1,0
+"### | … 
+",000,False,000,False,False,False,1,0
+"### | … 
+",000,False,000,False,False,False,1,0
+"### | … 
+",000,False,000,False,False,False,1,0
+"### | … 
+",000,False,000,False,False,False,1,0
+"### | … 
+",000,False,000,False,False,False,1,0
+"### | 157 - 
+",000,False,000,False,False,False,1,89
+"### | … 
+",000,False,000,False,False,False,1,0
+"### | … 
+",000,False,000,False,False,False,1,0
+"### | … 
+",000,False,000,False,False,False,1,0
+"### | … 
+",000,False,000,False,False,False,1,0
+"### | … 
+",000,False,000,False,False,False,1,0
+"### | … 
+",000,False,000,False,False,False,1,0
+"### | … 
+",000,False,000,False,False,False,1,0
+"### | … 
+",000,False,000,False,False,False,1,0
+"### | … 
+",000,False,000,False,False,False,1,2
+"### | 324 - 
+",000,False,000,False,False,False,1,125
+"### | 158 - 
+",000,False,000,False,False,False,1,23
+"### | 159 - 
+",000,False,000,False,False,False,1,36
+"### | 160 - 
+",000,False,000,False,False,False,1,64
+"### | 161 - 
+",000,False,000,False,False,False,1,25
+"### | 162 - 
+",000,False,000,False,False,False,1,45
+"### | 325 - 
+",000,False,000,False,False,False,1,184
+"### | 163 - 
+",000,False,000,False,False,False,1,60
+"### | 164 - 
+",000,False,000,False,False,False,1,38
+"### | 165 - 
+",000,False,000,False,False,False,1,39
+"### | 166 - 
+",000,False,000,False,False,False,1,59
+"### | 167 - 
+",000,False,000,False,False,False,1,22
+"### | 326 - 
+",000,False,000,False,False,False,1,206
+"### | 227 - / 5194 
+",000,False,000,False,False,False,1,15
+"### | 168 - 
+",000,False,000,False,False,False,1,47
+"### | 169 - 
+",000,False,000,False,False,False,1,40
+"### | 170 - 
+",000,False,000,False,False,False,1,32
+"### | 171 - 
+",000,False,000,False,False,False,1,27
+"### | 327 - 
+",000,False,000,False,False,False,1,259
+"### | 328 - 
+",000,False,000,False,False,False,1,381
+"### | 329 - 
+",000,False,000,False,False,False,1,238
+"### | 330 - 
+",000,False,000,False,False,False,1,207
+"### | 331 - 
+",000,False,000,False,False,False,1,338
+"### | 172 - 
+",000,False,000,False,False,False,1,76
+"### | 332 - 
+",000,False,000,False,False,False,1,410
+"### | 333 - 
+",000,False,000,False,False,False,1,235
+"### | 334 - 
+",000,False,000,False,False,False,1,256
+"### | 335 - 
+",000,False,000,False,False,False,1,132
+"### | 173 - 
+",000,False,000,False,False,False,1,56
+"### | 336 - 
+",000,False,000,False,False,False,1,88
+"### | 337 - 
+",000,False,000,False,False,False,1,85
+"### | 338 - 
+",000,False,000,False,False,False,1,174
+"### | 339 - 
+",000,False,000,False,False,False,1,493
+"### | 340 - 
+",000,False,000,False,False,False,1,203
+"### | 174 - 
+",000,False,000,False,False,False,1,199
+"### | 175 - 
+",000,False,000,False,False,False,1,36
+"### | 176 - 
+",000,False,000,False,False,False,1,36
+"### | 341 - 
+",000,False,000,False,False,False,1,159
+"### | 342 - 
+",000,False,000,False,False,False,1,53
+"### | 343 - 
+",000,False,000,False,False,False,1,157
+"### | 344 - 
+",000,False,000,False,False,False,1,452
+"### | 1 - 
+",000,False,000,False,False,False,1,97
+"### | 2 - 
+",000,False,000,False,False,False,1,51
+"### | 3 - 
+",000,False,000,False,False,False,1,36
+"### | 4 - 
+",000,False,000,False,False,False,1,51
+"### | 5 - 
+",000,False,000,False,False,False,1,70
+"### | 345 - 
+",000,False,000,False,False,False,1,284
+"### | 346 - 
+",000,False,000,False,False,False,1,845
+"### | 347 - 
+",000,False,000,False,False,False,1,376
+"### | 348 - 
+",000,False,000,False,False,False,1,327
+"### | 5850 - 
+",000,False,000,False,False,False,1,422
+"### | 177 - 
+",000,False,000,False,False,False,1,70
+"### | 178 - 
+",000,False,000,False,False,False,1,25
+"### | 179 - 
+",000,False,000,False,False,False,1,45
+"### | 180 - 
+",000,False,000,False,False,False,1,25
+"### | 181 - 
+",000,False,000,False,False,False,1,31
+"### | 182 - 
+",000,False,000,False,False,False,1,22
+"### | 183 - 
+",000,False,000,False,False,False,1,25
+"### | 349 - 
+",000,False,000,False,False,False,1,195
+"### | [17] باب النون
+",000,False,000,False,False,False,1,9
+"### | 350 - 
+",000,False,000,False,False,False,1,282
+"### | 351 - 
+",000,False,000,False,False,False,1,289
+"### | 352 - 
+",000,False,000,False,False,False,1,464
+"### | 184 - 
+",000,False,000,False,False,False,1,79
+"### | 353 - 
+",000,False,000,False,False,False,1,224
+"### | 354 - 
+",000,False,000,False,False,False,1,126
+"### | [18] باب الهاء
+",000,False,000,False,False,False,1,9
+"### | 355 - 
+",000,False,000,False,False,False,1,217
+"### | 356 - 
+",000,False,000,False,False,False,1,248
+"### | 357 - 
+",000,False,000,False,False,False,1,358
+"### | 358 - 
+",000,False,000,False,False,False,1,125
+"### | 359 - 
+",000,False,000,False,False,False,1,241
+"### | 360 - 
+",000,False,000,False,False,False,1,665
+"### | 11961 - 
+",000,False,000,False,False,False,1,659
+"### | 185 - 
+",000,False,000,False,False,False,1,74
+"### | 361 - 
+",000,False,000,False,False,False,1,120
+"### | 186 - 
+",000,False,000,False,False,False,1,36
+"### | [19] باب الواو
+",000,False,000,False,False,False,1,9
+"### | 362 - 
+",000,False,000,False,False,False,1,194
+"### | 363 - 
+",000,False,000,False,False,False,1,395
+"### | [20] باب الياء
+",000,False,000,False,False,False,1,9
+"### | 364 - 
+",000,False,000,False,False,False,1,179
+"### | 365 - 
+",000,False,000,False,False,False,1,212
+"### | 366 - 
+",000,False,000,False,False,False,1,230
+"### | 367 - 
+",000,False,000,False,False,False,1,341
+"### | 187 - 
+",000,False,000,False,False,False,1,36
+"### | 368 - 
+",000,False,000,False,False,False,1,86
+"### | 369 - 
+",000,False,000,False,False,False,1,332
+"### | 188 - 
+",000,False,000,False,False,False,1,76
+"### | 189 - 
+",000,False,000,False,False,False,1,44
+"### | 370 - 
+",000,False,000,False,False,False,1,324
+"### | 371 - 
+",000,False,000,False,False,False,1,72
+"### | 190 - 
+",000,False,000,False,False,False,1,80
+"### | 372 - 
+",000,False,000,False,False,False,1,637
+"### | 373 - 
+",000,False,000,False,False,False,1,150
+"### | 374 - 
+",000,False,000,False,False,False,1,226
+"### | 375 - 
+",000,False,000,False,False,False,1,165
+"### | 2864 - 
+",000,False,000,False,False,False,1,575
+"### | 20668 - 
+",000,False,000,False,False,False,1,584
+"### | 37023 - 
+",000,False,000,False,False,False,1,2338
+"### | 376 - 
+",000,False,000,False,False,False,1,194
+"### | 377 - 
+",000,False,000,False,False,False,1,203
+"### | 378 - 
+",000,False,000,False,False,False,1,196
+"### | 379 - 
+",000,False,000,False,False,False,1,309
+"### | 380 - 
+",000,False,000,False,False,False,1,369
+"### | 191 - 
+",000,False,000,False,False,False,1,25
+"### | 381 - 
+",000,False,000,False,False,False,1,244
+"### | 192 - 
+",000,False,000,False,False,False,1,18
+"### | 382 - 
+",000,False,000,False,False,False,1,121
+"### | 383 - 
+",000,False,000,False,False,False,1,615
+"### | 2484 - 
+",000,False,000,False,False,False,1,620
+"### | 9140 - 
+",000,False,000,False,False,False,1,4697
+"### | 384 - 
+",000,False,000,False,False,False,1,178
+"### | [22] باب الكنى
+",000,False,000,False,False,False,1,6
+"### | 385 - 
+",000,False,000,False,False,False,1,228
+"### | 386 - 
+",000,False,000,False,False,False,1,176
+"### | 387 - 
+",000,False,000,False,False,False,1,275
+"### | 388 - 
+",000,False,000,False,False,False,1,130
+"### | 389 - 
+",000,False,000,False,False,False,1,141
+"### | 390 - 
+",000,False,000,False,False,False,1,227
+"### | 902 - 
+",000,False,000,False,False,False,1,48
+"### | 391 - 
+",000,False,000,False,False,False,1,192
+"### | 392 - 
+",000,False,000,False,False,False,1,379
+"### | 393 - 
+",000,False,000,False,False,False,1,239
+"### | 394 - 
+",000,False,000,False,False,False,1,128
+"### | 193 - 
+",000,False,000,False,False,False,1,42
+"### | 395 - 
+",000,False,000,False,False,False,1,390
+"### | 396 - 
+",000,False,000,False,False,False,1,715
+"### | 397 - 
+",000,False,000,False,False,False,1,169
+"### | 194 - 
+",000,False,000,False,False,False,1,32
+"### | 195 - 
+",000,False,000,False,False,False,1,21
+"### | 196 - 
+",000,False,000,False,False,False,1,37
+"### | 197 - 
+",000,False,000,False,False,False,1,23
+"### | 398 - 
+",000,False,000,False,False,False,1,195
+"### | 399 - 
+",000,False,000,False,False,False,1,141
+"### | 400 - 
+",000,False,000,False,False,False,1,50
+"### | 401 - 
+",000,False,000,False,False,False,1,194
+"### | 402 - 
+",000,False,000,False,False,False,1,235
+"### | 198 - 
+",000,False,000,False,False,False,1,18
+"### | 403 - 
+",000,False,000,False,False,False,1,229
+"### | 199 - 
+",000,False,000,False,False,False,1,275
+"### | 404 - 
+",000,False,000,False,False,False,1,113
+"### | 200 - 
+",000,False,000,False,False,False,1,30
+"### | 405 - 
+",000,False,000,False,False,False,1,108
+"### | 406 - 
+",000,False,000,False,False,False,1,193
+"### | 407 - 
+",000,False,000,False,False,False,1,339
+"### | 408 - 
+",000,False,000,False,False,False,1,235
+"### | 409 - 
+",000,False,000,False,False,False,1,167
+"### | 410 - 
+",000,False,000,False,False,False,1,103
+"### | 201 - 
+",000,False,000,False,False,False,1,38
+"### | 202 - 
+",000,False,000,False,False,False,1,118
+"### | 203 - 
+",000,False,000,False,False,False,1,30
+"### | 204 - 
+",000,False,000,False,False,False,1,45
+"### | 411 - 
+",000,False,000,False,False,False,1,191
+"### | 412 - 
+",000,False,000,False,False,False,1,384
+"### | 413 - 
+",000,False,000,False,False,False,1,144
+"### | 414 - 
+",000,False,000,False,False,False,1,3966
+"### | 205 - 
+",000,False,000,False,False,False,1,31
+"### | 206 - 
+",000,False,000,False,False,False,1,35
+"### | 207 - 
+",000,False,000,False,False,False,1,31
+"### | 208 - 
+",000,False,000,False,False,False,1,30
+"### | 415 - 
+",000,False,000,False,False,False,1,238
+"### | 416 - 
+",000,False,000,False,False,False,1,733
+"### | 209 - 
+",000,False,000,False,False,False,1,38
+"### | 210 - 
+",000,False,000,False,False,False,1,52
+"### | 211 - 
+",000,False,000,False,False,False,1,57
+"### | 417 - 
+",000,False,000,False,False,False,1,47
+"### | 20243 - 
+",000,False,000,False,False,False,1,101
+"### | 418 - 
+",000,False,000,False,False,False,1,708
+"### | 419 - 
+",000,False,000,False,False,False,1,293
+"### | 420 - 
+",000,False,000,False,False,False,1,269
+"### | [21] باب الأبناء والأنساب
+",000,False,000,False,False,False,1,8
+"### | 421 - 
+",000,False,000,False,False,False,1,488
+"### | 422 - 
+",000,False,000,False,False,False,1,133
+"### | 280 - 
+",000,False,000,False,False,False,1,29
+"### | 256 - 
+",000,False,000,False,False,False,1,71
+"### | 427 - 
+",000,False,000,False,False,False,1,192
+"### | 212 - 
+",000,False,000,False,False,False,1,15
+"### | 213 - 
+",000,False,000,False,False,False,1,19
+"### | 424 - 
+",000,False,000,False,False,False,1,31
+"### | 425 - 
+",000,False,000,False,False,False,1,604
+"### | 426 - 
+",000,False,000,False,False,False,1,329
+"### | 427 - 
+",000,False,000,False,False,False,1,288
+"### | 214 - 
+",000,False,000,False,False,False,1,158
+"### | 215 - 
+",000,False,000,False,False,False,1,42
+"### | 216 - 
+",000,False,000,False,False,False,1,21
+"### | 217 - 
+",000,False,000,False,False,False,1,19
+"### | 428 - 
+",000,False,000,False,False,False,1,134
+"### | 218 - 
+",000,False,000,False,False,False,1,27
+"### | [23] باب المبهمات
+",000,False,000,False,False,False,1,6
+"### | 429 - 
+",000,False,000,False,False,False,1,108
+"### | 430 - 
+",000,False,000,False,False,False,1,64
+"### | 431 - 
+",000,False,000,False,False,False,1,122
+"### | 432 - 
+",000,False,000,False,False,False,1,334
+"### | 433 - 
+",000,False,000,False,False,False,1,207
+"### | 434 - 
+",000,False,000,False,False,False,1,1354
+"### | 1 - 
+",000,False,000,False,False,False,1,65
+"### | 2 - 
+",000,False,000,False,False,False,1,77
+"### | 3 - 
+",000,False,000,False,False,False,1,58
+"### | 4 - 
+",000,False,000,False,False,False,1,202
+"### | 219 - 
+",000,False,000,False,False,False,1,23
+"### | 220 - 
+",000,False,000,False,False,False,1,30
+"### | 435 - 
+",000,False,000,False,False,False,1,78
+"### | 436 - 
+",000,False,000,False,False,False,1,131
+"### | 437 - 
+",000,False,000,False,False,False,1,65
+"### | 438 - 
+",000,False,000,False,False,False,1,258
+"### | 439 - 
+",000,False,000,False,False,False,1,107
+"### | 440 - 
+",000,False,000,False,False,False,1,208
+"### | 441 - 
+",000,False,000,False,False,False,1,252
+"### | 1 - 
+",000,False,000,False,False,False,1,20
+"### | 2 - 
+",000,False,000,False,False,False,1,39
+"### | 442 - 
+",000,False,000,False,False,False,1,189
+"### | 443 - 
+",000,False,000,False,False,False,1,190
+"### | 444 - 
+",000,False,000,False,False,False,1,61
+"### | 445 - 
+",000,False,000,False,False,False,1,69
+"### | 446 - 
+",000,False,000,False,False,False,1,82
+"### | 447 - 
+",000,False,000,False,False,False,1,55
+"### | 448 - 
+",000,False,000,False,False,False,1,85
+"### | 449 - 
+",000,False,000,False,False,False,1,324
+"### | 4324 - 
+",000,False,000,False,False,False,1,285
+"### | 450 - 
+",000,False,000,False,False,False,1,216
+"### | 451 - 
+",000,False,000,False,False,False,1,89
+"### | 452 - 
+",000,False,000,False,False,False,1,47
+"### | 453 - 
+",000,False,000,False,False,False,1,169
+"### | 454 - 
+",000,False,000,False,False,False,1,47
+"### | 455 - 
+",000,False,000,False,False,False,1,262
+"### | 456 - 
+",000,False,000,False,False,False,1,118
+"### | 457 - 
+",000,False,000,False,False,False,1,171
+"### | 1 - 
+",000,False,000,False,False,False,1,51
+"### | 2 - 
+",000,False,000,False,False,False,1,38
+"### | 3 - 
+",000,False,000,False,False,False,1,99
+"### | 458 - 
+",000,False,000,False,False,False,1,141
+"### | 459 - 
+",000,False,000,False,False,False,1,46
+"### | 460 - 
+",000,False,000,False,False,False,1,147
+"### | 461 - 
+",000,False,000,False,False,False,1,176
+"### | 462 - 
+",000,False,000,False,False,False,1,165
+"### | 463 - 
+",000,False,000,False,False,False,1,84
+"### | 464 - 
+",000,False,000,False,False,False,1,53
+"### | 1 - 
+",000,False,000,False,False,False,1,17
+"### | 2 - 
+",000,False,000,False,False,False,1,17
+"### | 3 - 
+",000,False,000,False,False,False,1,17
+"### | 4 - 
+",000,False,000,False,False,False,1,119
+"### | 465 - 
+",000,False,000,False,False,False,1,86
+"### | 466 - 
+",000,False,000,False,False,False,1,43
+"### | 467 - 
+",000,False,000,False,False,False,1,47
+"### | 468 - 
+",000,False,000,False,False,False,1,114
+"### | 469 - 
+",000,False,000,False,False,False,1,125
+"### | 470 - 
+",000,False,000,False,False,False,1,57
+"### | 471 - 
+",000,False,000,False,False,False,1,97
+"### | 472 - 
+",000,False,000,False,False,False,1,66
+"### | 473 - 
+",000,False,000,False,False,False,1,57
+"### | 474 - 
+",000,False,000,False,False,False,1,143
+"### | 475 - 
+",000,False,000,False,False,False,1,5544

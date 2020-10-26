@@ -1,0 +1,35 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | مقدمة
+",000,False,000,False,False,False,1,88
+"### | كتاب الطهارة
+",000,False,000,False,False,False,1,729
+"### | كتاب الصلاة
+",000,False,000,False,False,False,1,1306
+"### | كتاب الزكاة
+",000,False,000,False,False,False,1,418
+"### | كتاب الصوم
+",000,False,000,False,False,False,1,193
+"### | كتاب الحج
+",000,False,000,False,False,False,1,309
+"### | كتاب البيوع وغيرها من المعاملات
+",000,False,000,False,False,False,1,1209
+"### | كتاب الفرائض والوصايا
+",000,False,000,False,False,False,1,331
+"### | كتاب النكاح وما يتعلق به من الأحكام والقضايا
+",000,False,000,False,False,False,1,1073
+"### | كتاب الجنايات
+",000,False,000,False,False,False,1,331
+"### | كتاب الحدود
+",000,False,000,False,False,False,1,329
+"### | كتاب الجهاد
+",000,False,000,False,False,False,1,253
+"### | كتاب الصيد والذبائح
+",000,False,000,False,False,False,1,287
+"### | كتاب السبق والرمي
+",000,False,000,False,False,False,1,47
+"### | كتاب الأيمان والنذور
+",000,False,000,False,False,False,1,130
+"### | كتاب الأقضية والشهادات
+",000,False,000,False,False,False,1,437
+"### | كتاب العتق
+",000,False,000,False,False,False,1,244

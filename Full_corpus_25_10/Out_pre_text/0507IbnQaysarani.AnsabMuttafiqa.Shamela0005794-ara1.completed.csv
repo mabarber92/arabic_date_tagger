@@ -1,0 +1,719 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | باب الألف
+",000,False,000,False,False,False,1,1606
+"### || (1) الآملي والآملي
+",000,False,000,False,False,False,2,182
+"### || (2) الأبزاري والأبزاري 
+",000,False,000,False,False,False,2,135
+"### || (3) الأبهري والأبهري
+",000,False,000,False,False,False,2,212
+"### || (4) الأخنسي والأخنسي
+",000,False,000,False,False,False,2,46
+"### || (4 م) الأزدي والأزدي والأزدي
+",000,False,000,False,False,False,2,152
+"### || (5) الأسدي والأسدي والأسدي والأسدي والأسدي
+",000,False,000,False,False,False,2,200
+"### || (6) الإسكندراني والإسكندراني
+",000,False,000,False,False,False,2,55
+"### || (7) الأسلمي والأسلمي
+",000,False,000,False,False,False,2,48
+"### || (8) الإسماعيلي والإسماعيلي والإسماعيلي
+",000,False,000,False,False,False,2,114
+"### || (9) الأشعري والأشعري
+",000,False,000,False,False,False,2,41
+"### || (10) الأشناني والأشناني 
+",000,False,000,False,False,False,2,141
+"### || (11) الأطرابلسي والأطرابلسي
+",000,False,000,False,False,False,2,225
+"### || (12) الأموي والأموي
+",000,False,000,False,False,False,2,66
+"### | باب الباء
+",000,False,000,False,False,False,1,1777
+"### || (14) البابي والبابي
+",000,False,000,False,False,False,2,67
+"### || (15) الباجي والباجي
+",000,False,000,False,False,False,2,67
+"### || (16) البجلي والبجلي والبجلي
+",000,False,000,False,False,False,2,118
+"### || (17) البدري والبدري والبدري
+",000,False,000,False,False,False,2,86
+"### || (18) البراد والبراد
+",000,False,000,False,False,False,2,34
+"### || (19) البرمكي والبرمكي
+",000,False,000,False,False,False,2,102
+"### || (20) البسري والبسري والبسري
+",000,False,000,False,False,False,2,178
+"### || (21) البسطامي والبسطامي
+",000,False,000,False,False,False,2,49
+"### || (22) البشتي والبشتي
+",000,False,000,False,False,False,2,56
+"### || (23) البغدادي والبغدادي
+",000,False,000,False,False,False,2,138
+"### || (24) البغلاني والبغلاني
+",000,False,000,False,False,False,2,51
+"### || (25) البكراوي والبكراوي
+",000,False,000,False,False,False,2,77
+"### || (26) البكري والبكري والبكري والبكري
+",000,False,000,False,False,False,2,160
+"### || (27) البلخي والبلخي والبلخي
+",000,False,000,False,False,False,2,92
+"### || (28) البلدي والبلدي
+",000,False,000,False,False,False,2,110
+"### || (29) البناني والبناني
+",000,False,000,False,False,False,2,167
+"### || (30) البواني والبواني
+",000,False,000,False,False,False,2,50
+"### || (31) البويطي والبويطي
+",000,False,000,False,False,False,2,50
+"### | باب التاء
+",000,False,000,False,False,False,1,657
+"### || (33) الترياقي والترياقي
+",000,False,000,False,False,False,2,68
+"### || (34) التستري والتستري
+",000,False,000,False,False,False,2,76
+"### || (35) التلي والتلي والتلي
+",000,False,000,False,False,False,2,126
+"### || (36) التميمي والتميمي
+",000,False,000,False,False,False,2,39
+"### || (37) التنيسي والتنيسي
+",000,False,000,False,False,False,2,67
+"### || (38) التوني والتوني
+",000,False,000,False,False,False,2,67
+"### | باب الثاء
+",000,False,000,False,False,False,1,315
+"### || (40) الثعلبي والثعلبي
+",000,False,000,False,False,False,2,45
+"### | باب الجيم
+",000,False,000,False,False,False,1,1137
+"### || (42) الجارودي والجارودي
+",000,False,000,False,False,False,2,70
+"### || (43) الجبلي والجبلي والجبلي
+",000,False,000,False,False,False,2,106
+"### || (44) الجبيري والجبيري
+",000,False,000,False,False,False,2,49
+"### || (45) الجحافي والجحافي
+",000,False,000,False,False,False,2,45
+"### || (46) الجريري والجريري
+",000,False,000,False,False,False,2,55
+"### || (47) الجزري والجزري
+",000,False,000,False,False,False,2,176
+"### || (48) الجعدي والجعدي
+",000,False,000,False,False,False,2,119
+"### || (49) الجعفري والجعفري
+",000,False,000,False,False,False,2,41
+"### || (50) الجعفي والجعفي
+",000,False,000,False,False,False,2,64
+"### || (51) الجملي والجملي
+",000,False,000,False,False,False,2,45
+"### || (52) الجوباري والجوباري والجوباري والجوباري
+",000,False,000,False,False,False,2,115
+"### || (53) الجوري والجوري
+",000,False,000,False,False,False,2,91
+"### || (54) الجوزقي والجوزقي
+",000,False,000,False,False,False,2,45
+"### || (55) الجهمي والجهمي
+",000,False,000,False,False,False,2,55
+"### || (56) الجهني والجهني والجهني
+",000,False,000,False,False,False,2,131
+"### | باب الحاء
+",000,False,000,False,False,False,1,2495
+"### || (58) الحاتمي والحاتمي
+",000,False,000,False,False,False,2,47
+"### || (59) الحارثي والحارثي والحارثي
+",000,False,000,False,False,False,2,168
+"### || (60) الحافظ والحافظ
+",000,False,000,False,False,False,2,54
+"### || (61) الحباني والحباني
+",000,False,000,False,False,False,2,62
+"### || (62) الحبشي والحبشي
+",000,False,000,False,False,False,2,199
+"### || (63) الحجاجي والحجاجي
+",000,False,000,False,False,False,2,132
+"### || (64) الحجري والحجري والحجري
+",000,False,000,False,False,False,2,125
+"### || (65) الحدثي والحدثي
+",000,False,000,False,False,False,2,93
+"### || (66) الحديثي والحديثي والحديثي
+",000,False,000,False,False,False,2,140
+"### || (67) الحذاء والحذاء 
+",000,False,000,False,False,False,2,172
+"### || (68) الحربي والحربي
+",000,False,000,False,False,False,2,97
+"### || (69) الحسني والحسني والحسني
+",000,False,000,False,False,False,2,130
+"### || (70) الحصري والحصري
+",000,False,000,False,False,False,2,252
+"### || (71) الحصني والحصني
+",000,False,000,False,False,False,2,54
+"### || (72) الحطيني والحطيني
+",000,False,000,False,False,False,2,192
+"### || (73) الحكمي والحكمي والحكمي والحكمي
+",000,False,000,False,False,False,2,142
+"### || (74) الحمال والحمال
+",000,False,000,False,False,False,2,76
+"### || (75) الحنظلي والحنظلي
+",000,False,000,False,False,False,2,87
+"### || (76) الحنفي والحنفي
+",000,False,000,False,False,False,2,58
+"### || (77) الحيري والحيري
+",000,False,000,False,False,False,2,236
+"### || (78) الحضرمي والحضرمي
+",000,False,000,False,False,False,2,33
+"### | باب الخاء
+",000,False,000,False,False,False,1,622
+"### || (80) الخالدي والخالدي
+",000,False,000,False,False,False,2,65
+"### || (81) الخبري والخبري
+",000,False,000,False,False,False,2,43
+"### || (82) الخرجوشي والخرجوشي
+",000,False,000,False,False,False,2,75
+"### || (83) الخشاب والخشاب
+",000,False,000,False,False,False,2,34
+"### || (84) الخطابي والخطابي
+",000,False,000,False,False,False,2,111
+"### || (85) الخطيب والخطيب
+",000,False,000,False,False,False,2,59
+"### || (86) الخلدي والخلدي
+",000,False,000,False,False,False,2,186
+"### || (87) الخليلي والخليلي 
+",000,False,000,False,False,False,2,45
+"### | باب الدال
+",000,False,000,False,False,False,1,1310
+"### || (89) الدارابجردي والدارابجردي
+",000,False,000,False,False,False,2,55
+"### || (90) الداري والداري والداري والداري
+",000,False,000,False,False,False,2,192
+"### || (91) الداودي والداودي
+",000,False,000,False,False,False,2,92
+"### || (92) الدالاني والدالاني
+",000,False,000,False,False,False,2,54
+"### || (93) الدربي والدربي
+",000,False,000,False,False,False,2,42
+"### || (94) الدشتكي والدشتكي
+",000,False,000,False,False,False,2,54
+"### || (95) الدشتي والدشتي
+",000,False,000,False,False,False,2,96
+"### || (96) الدورقي والدورقي
+",000,False,000,False,False,False,2,136
+"### || (97) الدوري والدوري والدوري
+",000,False,000,False,False,False,2,78
+"### || (98) الدولابي والدولابي
+",000,False,000,False,False,False,2,262
+"### || (99) الديباجي والديباجي
+",000,False,000,False,False,False,2,120
+"### | باب الذال فارغ
+",000,False,000,False,False,False,1,6
+"### | باب الراء
+",000,False,000,False,False,False,1,1446
+"### || (101) الرازي والرازي
+",000,False,000,False,False,False,2,66
+"### || (102) الرازية والرازية
+",000,False,000,False,False,False,2,53
+"### || (103) الراسبي والراسبي 
+",000,False,000,False,False,False,2,77
+"### || (104) الربضي والربضي والربضي والربضي والربضي
+",000,False,000,False,False,False,2,121
+"### || (105) الرجاءي والرجاءي
+",000,False,000,False,False,False,2,45
+"### || (106) الرحبي والرحبي
+",000,False,000,False,False,False,2,122
+"### || (107) الرشيدي والرشيدي والرشيدي
+",000,False,000,False,False,False,2,398
+"### || (108) الرصافي والرصافي والرصافي
+",000,False,000,False,False,False,2,284
+"### || (109) الرفاعي والرفاعي
+",000,False,000,False,False,False,2,25
+"### || (110) الرمادي والرمادي
+",000,False,000,False,False,False,2,39
+"### || (111) الرملي والرملي ms040 
+",000,False,000,False,False,False,2,68
+"### || (112) الرواسي والرواسي
+",000,False,000,False,False,False,2,82
+"### || (113) الرهاوي والرهاوي
+",000,False,000,False,False,False,2,109
+"### | باب الزاي
+",000,False,000,False,False,False,1,931
+"### || (115) الزبيري والزبيري
+",000,False,000,False,False,False,2,124
+"### || (116) الزعفراني والزعفراني والزعفراني والزعفراني
+",000,False,000,False,False,False,2,216
+"### || (117) الزنجي والزنجي
+",000,False,000,False,False,False,2,120
+"### || (118) الزهري والزهري والزهري والزهري
+",000,False,000,False,False,False,2,109
+"### || (119) الزيدي والزيدي والزيدي والزيدي
+",000,False,000,False,False,False,2,266
+"### | باب السين
+",000,False,000,False,False,False,1,1632
+"### || (121) السالمي والسالمي والسالمي
+",000,False,000,False,False,False,2,105
+"### || (122) السبعي والسبعي
+",000,False,000,False,False,False,2,58
+"### || (123) السروي والسروي
+",000,False,000,False,False,False,2,83
+"### || (124) السعدي والسعدي والسعدي والسعدي والسعدي والسعدي والسعدي والسعدي والسعدي 
+",000,False,000,False,False,False,2,403
+"### || (125) السفياني والسفياني
+",000,False,000,False,False,False,2,62
+"### || (126) السكري والسكري
+",000,False,000,False,False,False,2,88
+"### || (127) السكسكي والسكسكي
+",000,False,000,False,False,False,2,83
+"### || (128) السلمي والسلمي
+",000,False,000,False,False,False,2,62
+"### || (129) السلمي والسلمي
+",000,False,000,False,False,False,2,79
+"### || (130) السندي والسندي والسندي والسندي
+",000,False,000,False,False,False,2,273
+"### || (131) السوسي والسوسي
+",000,False,000,False,False,False,2,142
+"### || (132) السهمي والسهمي
+",000,False,000,False,False,False,2,88
+"### || (133) السلامي والسلامي
+",000,False,000,False,False,False,2,88
+"### || (134) السياري والسياري
+",000,False,000,False,False,False,2,46
+"### | باب الشين
+",000,False,000,False,False,False,1,779
+"### || (136) الشافعي والشافعي
+",000,False,000,False,False,False,2,111
+"### || (137) الشاماتي والشاماتي
+",000,False,000,False,False,False,2,61
+"### || (138) الشبلي والشبلي
+",000,False,000,False,False,False,2,285
+"### || (139) الشرقي والشرقي
+",000,False,000,False,False,False,2,76
+"### || (140) الشونيزي والشونيزي
+",000,False,000,False,False,False,2,118
+"### || (141) الشيباني والشيباني
+",000,False,000,False,False,False,2,60
+"### | باب الصاد
+",000,False,000,False,False,False,1,1365
+"### || (143) الصالحي والصالحي والصالحي
+",000,False,000,False,False,False,2,158
+"### || (144) الصريفيني والصريفيني
+",000,False,000,False,False,False,2,346
+"### || (145) الصنعاني والصنعاني
+",000,False,000,False,False,False,2,550
+"### || (146) الصوراني والصوراني
+",000,False,000,False,False,False,2,153
+"### || (147) الصيمري والصيمري
+",000,False,000,False,False,False,2,107
+"### | باب الضاد
+",000,False,000,False,False,False,1,212
+"### || (149) الضبعي والضبعي
+",000,False,000,False,False,False,2,46
+"### || (150) الضعيف والضعيف
+",000,False,000,False,False,False,2,105
+"### | باب الطاء
+",000,False,000,False,False,False,1,1165
+"### || (152) الطابراني والطابراني
+",000,False,000,False,False,False,2,40
+"### || (153) الطالقاني والطالقاني
+",000,False,000,False,False,False,2,104
+"### || (154) الطبراني والطبراني
+",000,False,000,False,False,False,2,79
+"### || (155) الطبري والطبري
+",000,False,000,False,False,False,2,227
+"### || (156) الطرائفي والطرائفي
+",000,False,000,False,False,False,2,164
+"### || (157) الطرسوسي والطرسوسي
+",000,False,000,False,False,False,2,47
+"### || (158) الطلحي والطلحي
+",000,False,000,False,False,False,2,94
+"### || (159) الطويل والطويل
+",000,False,000,False,False,False,2,46
+"### || (160) الطهراني والطهراني
+",000,False,000,False,False,False,2,273
+"### || (161) الطهماني والطهماني
+",000,False,000,False,False,False,2,90
+"### || (162) الطيب والطيب
+",000,False,000,False,False,False,2,32
+"### | باب العين
+",000,False,000,False,False,False,1,2383
+"### || (164) العامري والعامري والعامري
+",000,False,000,False,False,False,2,184
+"### || (165) العائذي والعائذي والعائذي
+",000,False,000,False,False,False,2,135
+"### || (166) العائشي والعائشي
+",000,False,000,False,False,False,2,68
+"### || (167) العبدوي والعبدوي
+",000,False,000,False,False,False,2,49
+"### || (168) العبسي والعبسي
+",000,False,000,False,False,False,2,63
+"### || (169) العتابي والعتابي
+",000,False,000,False,False,False,2,250
+"### || (170) العتبى والعتبى 
+",000,False,000,False,False,False,2,128
+"### || (171) العتيقي والعتيقي
+",000,False,000,False,False,False,2,78
+"### || (172) العجلي والعجلي
+",000,False,000,False,False,False,2,38
+"### || (173) العدني والعدني
+",000,False,000,False,False,False,2,90
+"### || (174) العدوي والعدوي والعدوي والعدوي والعدوي خمسة
+",000,False,000,False,False,False,2,201
+"### || (175) العسقلاني والعسقلاني
+",000,False,000,False,False,False,2,121
+"### || (176) العسكري والعسكري والعسكري والعسكري أربعة
+",000,False,000,False,False,False,2,166
+"### || (177) العقبى والعقبى
+",000,False,000,False,False,False,2,32
+"### || (178) العقيلي والعقيلي
+",000,False,000,False,False,False,2,54
+"### || (179) العكي والعكي
+",000,False,000,False,False,False,2,148
+"### || (180) العلوي والعلوي والعلوي والعلوي
+",000,False,000,False,False,False,2,179
+"### || (181) العمري والعمري
+",000,False,000,False,False,False,2,58
+"### || (182) العمري والعمري
+",000,False,000,False,False,False,2,129
+"### || (183) العمي والعمي
+",000,False,000,False,False,False,2,70
+"### || (184) العنبري والعنبري والعنبري
+",000,False,000,False,False,False,2,128
+"### | باب الغين
+",000,False,000,False,False,False,1,101
+"### | باب الفاء
+",000,False,000,False,False,False,1,225
+"### || (187) الفاريابي والفاريابي
+",000,False,000,False,False,False,2,47
+"### || (188) الفامي والفامي
+",000,False,000,False,False,False,2,102
+"### || (189) الفرغاني والفرغاني
+",000,False,000,False,False,False,2,65
+"### | باب القاف
+",000,False,000,False,False,False,1,1842
+"### || (191) القابوسي والقابوسي
+",000,False,000,False,False,False,2,82
+"### || (192) القبابي والقبابي
+",000,False,000,False,False,False,2,59
+"### || (193) القباءي والقباءي
+",000,False,000,False,False,False,2,78
+"### || (194) القبطي والقبطي والقبطي
+",000,False,000,False,False,False,2,247
+"### || (195) القتبي والقتبي
+",000,False,000,False,False,False,2,55
+"### || (196) القرشي والقرشي
+",000,False,000,False,False,False,2,37
+"### || (197) القرمطي والقرمطي
+",000,False,000,False,False,False,2,49
+"### || (198) القزويني والقزويني
+",000,False,000,False,False,False,2,59
+"### || (199) القصار والقصار
+",000,False,000,False,False,False,2,69
+"### || (200) القصري والقصري والقصري والقصري والقصري
+",000,False,000,False,False,False,2,281
+"### || (201) القطواني والقطواني
+",000,False,000,False,False,False,2,138
+"### || (202) القطيعي والقطيعي
+",000,False,000,False,False,False,2,97
+"### || (203) القنطري والقنطري
+",000,False,000,False,False,False,2,468
+"### || (204) القوي والقوي
+",000,False,000,False,False,False,2,61
+"### || (205) القهندزي والقهندزي والقهندزي
+",000,False,000,False,False,False,2,94
+"### | باب الكاف
+",000,False,000,False,False,False,1,1096
+"### || (207) الكارزي والكارزي
+",000,False,000,False,False,False,2,71
+"### || (208) الكرخي والكرخي
+",000,False,000,False,False,False,2,126
+"### || (209) الكردي والكردي
+",000,False,000,False,False,False,2,72
+"### || (210) الكرماني والكرماني والكرماني
+",000,False,000,False,False,False,2,99
+"### || (211) الكشي والكشي 
+",000,False,000,False,False,False,2,46
+"### || (212) الكعبي والكعبي والكعبي والكعبي أربعة
+",000,False,000,False,False,False,2,208
+"### || (213) الكناني والكناني والكناني
+",000,False,000,False,False,False,2,132
+"### || (214) الكندري والكندري والكندري
+",000,False,000,False,False,False,2,162
+"### || (215) الكوفي والكوفي
+",000,False,000,False,False,False,2,155
+"### | باب اللام
+",000,False,000,False,False,False,1,60
+"### | باب الميم
+",000,False,000,False,False,False,1,3671
+"### || (218) المازني والمازني والمازني والمازني 
+",000,False,000,False,False,False,2,85
+"### || (219) المازني والمازني والمازني
+",000,False,000,False,False,False,2,61
+"### || (220) المالكي والمالكي
+",000,False,000,False,False,False,2,58
+"### || (221) المباركي والمباركي والمباركي
+",000,False,000,False,False,False,2,165
+"### || (222) المحلمي والمحلمي
+",000,False,000,False,False,False,2,49
+"### || (223) المخرمي والمخرمي
+",000,False,000,False,False,False,2,50
+"### || (224) المخزومي والمخزومي
+",000,False,000,False,False,False,2,32
+"### || (225) المخلدي والمخلدي
+",000,False,000,False,False,False,2,88
+"### || (226) المديني والمديني والمديني والمديني والمديني والمديني ستة
+",000,False,000,False,False,False,2,1558
+"### || (227) المراغي والمراغي
+",000,False,000,False,False,False,2,70
+"### || (228) المرواني والمرواني
+",000,False,000,False,False,False,2,58
+"### || (229) المروزي والمروزي
+",000,False,000,False,False,False,2,65
+"### || (230) المري والمري والمري
+",000,False,000,False,False,False,2,113
+"### || (231) المزني والمزني
+",000,False,000,False,False,False,2,60
+"### || (232) المصري والمصري
+",000,False,000,False,False,False,2,61
+"### || (233) المصعبي والمصعبي
+",000,False,000,False,False,False,2,54
+"### || (234) المصيصي والمصيصي
+",000,False,000,False,False,False,2,63
+"### || (235) المعاوي والمعاوي والمعاوي
+",000,False,000,False,False,False,2,249
+"### || (236) المعمري والمعمري والمعمري
+",000,False,000,False,False,False,2,118
+"### || (237) المقنعي والمقنعي
+",000,False,000,False,False,False,2,75
+"### || (238) المكي والمكي
+",000,False,000,False,False,False,2,169
+"### || (239) الملطي والملطي
+",000,False,000,False,False,False,2,58
+"### || (240) المنصوري والمنصوري
+",000,False,000,False,False,False,2,125
+"### || (241) الموصلي والموصلي
+",000,False,000,False,False,False,2,125
+"### || (242) الميانجي والميانجي
+",000,False,000,False,False,False,2,202
+"### | باب النون
+",000,False,000,False,False,False,1,1028
+"### || (244) النافعي والنافعي
+",000,False,000,False,False,False,2,50
+"### || (245) الناقد والناقد
+",000,False,000,False,False,False,2,46
+"### || (246) النبطي والنبطي
+",000,False,000,False,False,False,2,60
+"### || (247) النجاري والنجاري
+",000,False,000,False,False,False,2,41
+"### || (248) النجراني والنجراني
+",000,False,000,False,False,False,2,56
+"### || (249) النحوي والنحوي
+",000,False,000,False,False,False,2,164
+"### || (250) النرسي والنرسي
+",000,False,000,False,False,False,2,67
+"### || (251) النصراباذي والنصراباذي
+",000,False,000,False,False,False,2,226
+"### || (252) النصري والنصري والنصري
+",000,False,000,False,False,False,2,86
+"### || (253) النعماني والنعماني
+",000,False,000,False,False,False,2,133
+"### || (254) النعيمي والنعيمي
+",000,False,000,False,False,False,2,144
+"### | باب الواو
+",000,False,000,False,False,False,1,303
+"### || (256) الواسطي والواسطي والواسطي
+",000,False,000,False,False,False,2,127
+"### || (257) الوائلي والوائلي
+",000,False,000,False,False,False,2,138
+"### | باب الهاء
+",000,False,000,False,False,False,1,173
+"### || (259) الهاروني والهاروني
+",000,False,000,False,False,False,2,51
+"### || (260) الهروي والهروي
+",000,False,000,False,False,False,2,37
+"### || (261) الهمذاني والهمذاني
+",000,False,000,False,False,False,2,43
+"### | باب الياء
+",000,False,000,False,False,False,1,83
+"### || (263) اليزيدي واليزيدي 
+",000,False,000,False,False,False,2,57
+"### | زيادات الحافظ محمد بن أبي بكر عمر بن أحمد بن عمر أبي موسى الأصبهاني المتوفى سنة 581 ه على كتاب الأنساب المتفقه في الخط المتماثلة في النقط والضبط لابن القيسراني
+",581,year,000,False,581,-74,1,744
+"### | 
+",000,False,000,False,False,False,1,10365
+"### || فمن باب الألف 
+",000,False,000,False,False,False,2,968
+"### ||| من النوع الأول
+",000,False,000,False,False,False,3,369
+"### |||| (1) الآملي
+",000,False,000,False,False,False,4,74
+"### |||| (2) الأخنسي
+",000,False,000,False,False,False,4,36
+"### |||| (3) الأزدي
+",000,False,000,False,False,False,4,132
+"### || ومن باب الباء
+",000,False,000,False,False,False,2,793
+"### ||| من النوع الأول
+",000,False,000,False,False,False,3,437
+"### |||| (12) الباجي والباجي
+",000,False,000,False,False,False,4,183
+"### |||| (13) البلخي
+",000,False,000,False,False,False,4,78
+"### |||| (14) البناني
+",000,False,000,False,False,False,4,65
+"### || ومن باب التاء من النوع الأول
+",000,False,000,False,False,False,2,178
+"### || ومن باب الثاء
+",000,False,000,False,False,False,2,187
+"### ||| من النوع الأول
+",000,False,000,False,False,False,3,152
+"### || ومن باب الجيم
+",000,False,000,False,False,False,2,832
+"### ||| من النوع الأول
+",000,False,000,False,False,False,3,395
+"### |||| (26) الجارودي
+",000,False,000,False,False,False,4,84
+"### |||| (27) الجبلي
+",000,False,000,False,False,False,4,55
+"### |||| (28) الجعدي
+",000,False,000,False,False,False,4,49
+"### |||| (29) الجعفري
+",000,False,000,False,False,False,4,52
+"### |||| (30) الجملي
+",000,False,000,False,False,False,4,49
+"### |||| (31) الجوري
+",000,False,000,False,False,False,4,62
+"### || ومن باب الحاء
+",000,False,000,False,False,False,2,912
+"### ||| من النوع الأول
+",000,False,000,False,False,False,3,373
+"### |||| (41) الحارثي
+",000,False,000,False,False,False,4,160
+"### |||| (42) الحجري
+",000,False,000,False,False,False,4,66
+"### |||| (43) الحدثي
+",000,False,000,False,False,False,4,35
+"### |||| (44) الحصني
+",000,False,000,False,False,False,4,65
+"### || ومن باب الخاء
+",000,False,000,False,False,False,2,271
+"### ||| من النوع الأول
+",000,False,000,False,False,False,3,181
+"### |||| (54) الخالدي
+",000,False,000,False,False,False,4,130
+"### || ومن باب الدال
+",000,False,000,False,False,False,2,146
+"### ||| من النوع الأول
+",000,False,000,False,False,False,3,97
+"### |||| (59) الداودي
+",000,False,000,False,False,False,4,43
+"### |||| (60) الدشتكي
+",000,False,000,False,False,False,4,39
+"### || ومن باب الراء
+",000,False,000,False,False,False,2,642
+"### ||| من النوع الأول
+",000,False,000,False,False,False,3,374
+"### |||| (63) الربضي
+",000,False,000,False,False,False,4,32
+"### |||| (63) الرصافي
+",000,False,000,False,False,False,4,69
+"### |||| (64) الرمادي
+",000,False,000,False,False,False,4,51
+"### |||| (65) الرواسي
+",000,False,000,False,False,False,4,154
+"### || ومن باب الزاي من النوع الأول
+",000,False,000,False,False,False,2,70
+"### || ومن باب السين
+",000,False,000,False,False,False,2,708
+"### ||| من النوع الأول
+",000,False,000,False,False,False,3,414
+"### |||| (72) السالمي
+",000,False,000,False,False,False,4,42
+"### |||| (73) السعدي
+",000,False,000,False,False,False,4,226
+"### |||| (74) السلمي
+",000,False,000,False,False,False,4,93
+"### || ومن باب الشين
+",000,False,000,False,False,False,2,196
+"### ||| من النوع الأول
+",000,False,000,False,False,False,3,89
+"### || ومن باب الصاد
+",000,False,000,False,False,False,2,282
+"### ||| من النوع الأول
+",000,False,000,False,False,False,3,201
+"### |||| (82) الصالحي
+",000,False,000,False,False,False,4,62
+"### || ومن باب الضاد
+",000,False,000,False,False,False,2,111
+"### ||| من النوع الأول
+",000,False,000,False,False,False,3,74
+"### || ومن باب الطاء من النوع الثاني
+",000,False,000,False,False,False,2,119
+"### || ومن باب العين
+",000,False,000,False,False,False,2,953
+"### ||| من النوع الأول
+",000,False,000,False,False,False,3,454
+"### |||| (90) العائشي
+",000,False,000,False,False,False,4,56
+"### |||| (91) العتبي
+",000,False,000,False,False,False,4,55
+"### |||| (92) العدوي
+",000,False,000,False,False,False,4,151
+"### |||| (93) العقبي
+",000,False,000,False,False,False,4,47
+"### |||| (94) العمري
+",000,False,000,False,False,False,4,86
+"### |||| (95) العمري
+",000,False,000,False,False,False,4,33
+"### || ومن باب الغين من النوع الثاني
+",000,False,000,False,False,False,2,48
+"### || ومن باب الفاء من النوع الثاني
+",000,False,000,False,False,False,2,51
+"### || ومن باب القاف 
+",000,False,000,False,False,False,2,633
+"### ||| من النوع الأول
+",000,False,000,False,False,False,3,295
+"### |||| (107) القرشي
+",000,False,000,False,False,False,4,25
+"### |||| (108) القطيعي
+",000,False,000,False,False,False,4,46
+"### |||| (109) القوي
+",000,False,000,False,False,False,4,106
+"### || ومن باب الكاف 
+",000,False,000,False,False,False,2,385
+"### ||| من النوع الأول
+",000,False,000,False,False,False,3,260
+"### |||| (115) الكرخي
+",000,False,000,False,False,False,4,73
+"### |||| (116) الكشي
+",000,False,000,False,False,False,4,141
+"### || ومن باب اللام
+",000,False,000,False,False,False,2,135
+"### ||| من النوع الأول
+",000,False,000,False,False,False,3,86
+"### || ومن باب الميم 
+",000,False,000,False,False,False,2,868
+"### ||| من النوع الأول
+",000,False,000,False,False,False,3,615
+"### |||| (121) المازني
+",000,False,000,False,False,False,4,138
+"### |||| (122) المالكي
+",000,False,000,False,False,False,4,81
+"### |||| (123) المخزومي
+",000,False,000,False,False,False,4,84
+"### |||| (124) المديني
+",000,False,000,False,False,False,4,102
+"### |||| (125) المري
+",000,False,000,False,False,False,4,102
+"### |||| (126) المعمري
+",000,False,000,False,False,False,4,55
+"### || ومن باب النون
+",000,False,000,False,False,False,2,287
+"### ||| من النوع الأول
+",000,False,000,False,False,False,3,183
+"### |||| (135) النجراني
+",000,False,000,False,False,False,4,28
+"### |||| (136) النصراباذي
+",000,False,000,False,False,False,4,16
+"### |||| (137) النصري
+",000,False,000,False,False,False,4,53
+"### |||| (138) النعماني
+",000,False,000,False,False,False,4,31
+"### || ومن باب الواو من النوع الأول
+",000,False,000,False,False,False,2,184
+"### || ومن باب الهاء من النوع الثاني
+",000,False,000,False,False,False,2,140

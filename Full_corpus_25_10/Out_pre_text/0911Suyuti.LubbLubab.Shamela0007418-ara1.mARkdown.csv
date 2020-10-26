@@ -1,0 +1,1093 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | بسم الله الرحمن الرحيم
+",000,False,000,False,False,False,1,120
+"### | حرف الألف
+",000,False,000,False,False,False,1,311
+"### | حرف الهمزة المقصورة.
+",000,False,000,False,False,False,1,3147
+"### || باب الألف والباء
+",000,False,000,False,False,False,2,274
+"### || باب الألف والتاء
+",000,False,000,False,False,False,2,35
+"### || باب الألف والثاء
+",000,False,000,False,False,False,2,51
+"### || باب الألف والجيم
+",000,False,000,False,False,False,2,19
+"### || باب الألف والحاء 
+",000,False,000,False,False,False,2,127
+"### || باب الألف والخاء
+",000,False,000,False,False,False,2,84
+"### || باب الألف والدال
+",000,False,000,False,False,False,2,487
+"### || باب الألف والزاي
+",000,False,000,False,False,False,2,127
+"### || باب الألف والسين
+",000,False,000,False,False,False,2,598
+"### || باب الألف والشين
+",000,False,000,False,False,False,2,265
+"### || باب الألف والصاد
+",000,False,000,False,False,False,2,70
+"### || باب الألف والطاء
+",000,False,000,False,False,False,2,32
+"### || باب الألف والعين
+",000,False,000,False,False,False,2,76
+"### || باب الألف والغين ms009
+",000,False,000,False,False,False,2,47
+"### || باب الألف والفاء
+",000,False,000,False,False,False,2,66
+"### || باب الألف والقاف
+",000,False,000,False,False,False,2,73
+"### || باب الألف والكاف
+",000,False,000,False,False,False,2,32
+"### || باب الألف واللام
+",000,False,000,False,False,False,2,51
+"### || باب الألف والميم
+",000,False,000,False,False,False,2,86
+"### || باب الألف والنون
+",000,False,000,False,False,False,2,260
+"### || باب الألف والواو
+",000,False,000,False,False,False,2,212
+"### || باب الألف والهاء
+",000,False,000,False,False,False,2,56
+"### | حرف الباء
+",000,False,000,False,False,False,1,4622
+"### || باب الباء والألف
+",000,False,000,False,False,False,2,968
+"### || باب الباء مع الباء
+",000,False,000,False,False,False,2,25
+"### || باب الباء والتاء 
+",000,False,000,False,False,False,2,107
+"### || باب الباء والثاء
+",000,False,000,False,False,False,2,24
+"### || باب الباء والجيم
+",000,False,000,False,False,False,2,86
+"### || باب الباء والحاء
+",000,False,000,False,False,False,2,78
+"### || باب الباء والخاء
+",000,False,000,False,False,False,2,46
+"### || باب الباء والدال
+",000,False,000,False,False,False,2,119
+"### || باب الباء والذال
+",000,False,000,False,False,False,2,62
+"### || باب الباء والراء
+",000,False,000,False,False,False,2,746
+"### || باب الباء والزاي
+",000,False,000,False,False,False,2,163
+"### || باب الباء والسين
+",000,False,000,False,False,False,2,187
+"### || باب الباء والشين
+",000,False,000,False,False,False,2,171
+"### || باب الباء والصاد
+",000,False,000,False,False,False,2,63
+"### || باب الباء والطاء
+",000,False,000,False,False,False,2,90
+"### || باب الباء والعين
+",000,False,000,False,False,False,2,55
+"### || باب الباء والغين
+",000,False,000,False,False,False,2,132
+"### || باب الباء والقاف
+",000,False,000,False,False,False,2,105
+"### || باب الباء والكاف
+",000,False,000,False,False,False,2,103
+"### || باب الباء واللام ألف
+",000,False,000,False,False,False,2,345
+"### || باب الباء والميم
+",000,False,000,False,False,False,2,39
+"### || باب الباء والنون
+",000,False,000,False,False,False,2,254
+"### || باب الباء والواو
+",000,False,000,False,False,False,2,325
+"### || باب الباء والهاء
+",000,False,000,False,False,False,2,122
+"### | حرف التاء
+",000,False,000,False,False,False,1,1313
+"### || باب التاء والألف
+",000,False,000,False,False,False,2,131
+"### || باب التاء والباء
+",000,False,000,False,False,False,2,77
+"### || باب التاء والتاء
+",000,False,000,False,False,False,2,19
+"### || باب التاء والجيم
+",000,False,000,False,False,False,2,26
+"### || باب التاء والخاء
+",000,False,000,False,False,False,2,42
+"### || باب التاء والدال
+",000,False,000,False,False,False,2,51
+"### || باب التاء والراء.
+",000,False,000,False,False,False,2,199
+"### || باب التاء والزاي
+",000,False,000,False,False,False,2,32
+"### || باب التاء والسين
+",000,False,000,False,False,False,2,31
+"### || باب التاء والشين
+",000,False,000,False,False,False,2,22
+"### || باب التاء والطاء
+",000,False,000,False,False,False,2,32
+"### || باب التاء والعين
+",000,False,000,False,False,False,2,52
+"### || باب التاء والغين
+",000,False,000,False,False,False,2,14
+"### || باب التاء والفاء
+",000,False,000,False,False,False,2,53
+"### || باب التاء والكاف
+",000,False,000,False,False,False,2,39
+"### || باب التاء واللام
+",000,False,000,False,False,False,2,111
+"### || باب التاء والميم
+",000,False,000,False,False,False,2,28
+"### || باب التاء والنون
+",000,False,000,False,False,False,2,108
+"### || باب التاء والواو
+",000,False,000,False,False,False,2,262
+"### | حرف الثاء المثلثة
+",000,False,000,False,False,False,1,202
+"### || باب الثاء والألف
+",000,False,000,False,False,False,2,22
+"### || باب الثاء والباء
+",000,False,000,False,False,False,2,23
+"### || باب الثاء والعين
+",000,False,000,False,False,False,2,42
+"### || باب الثاء والغين
+",000,False,000,False,False,False,2,24
+"### || باب الثاء والقاف
+",000,False,000,False,False,False,2,20
+"### || باب الثاء واللام
+",000,False,000,False,False,False,2,15
+"### || باب الثاء والميم
+",000,False,000,False,False,False,2,44
+"### | حرف الجيم
+",000,False,000,False,False,False,1,2654
+"### || باب الجيم والألف
+",000,False,000,False,False,False,2,233
+"### || باب الجيم والباء
+",000,False,000,False,False,False,2,189
+"### || باب الجيم والحاء
+",000,False,000,False,False,False,2,51
+"### || باب الجيم والخاء
+",000,False,000,False,False,False,2,32
+"### || باب الجيم والدال
+",000,False,000,False,False,False,2,128
+"### || باب الجيم والذال
+",000,False,000,False,False,False,2,51
+"### || باب الجيم والراء
+",000,False,000,False,False,False,2,368
+"### || باب الجيم والزاي
+",000,False,000,False,False,False,2,71
+"### || باب الجيم والسين
+",000,False,000,False,False,False,2,22
+"### || باب الجيم والشين
+",000,False,000,False,False,False,2,49
+"### || باب الجيم والصاد
+",000,False,000,False,False,False,2,20
+"### || باب الجيم والعين
+",000,False,000,False,False,False,2,90
+"### || باب الجيم والغين
+",000,False,000,False,False,False,2,22
+"### || باب الجيم والفاء
+",000,False,000,False,False,False,2,16
+"### || باب الجيم والكاف
+",000,False,000,False,False,False,2,47
+"### || باب الجيم واللام
+",000,False,000,False,False,False,2,156
+"### || باب الجيم والميم
+",000,False,000,False,False,False,2,117
+"### || باب الجيم والنون
+",000,False,000,False,False,False,2,283
+"### || باب الجيم والواو
+",000,False,000,False,False,False,2,494
+"### || باب الجيم والهاء
+",000,False,000,False,False,False,2,82
+"### || باب الجيم واللام ألف
+",000,False,000,False,False,False,2,58
+"### | حرف الحاء المهملة
+",000,False,000,False,False,False,1,2000
+"### || باب الحاء والألف
+",000,False,000,False,False,False,2,84
+"### || باب الحاء والباء
+",000,False,000,False,False,False,2,178
+"### || باب الحاء والتاء PageV01P075
+",000,False,000,False,False,False,2,20
+"### || باب الحاء والجيم
+",000,False,000,False,False,False,2,96
+"### || باب الحاء والدال
+",000,False,000,False,False,False,2,109
+"### || باب الحاء والذال
+",000,False,000,False,False,False,2,38
+"### || باب الحاء والراء
+",000,False,000,False,False,False,2,292
+"### || باب الحاء والزاي
+",000,False,000,False,False,False,2,96
+"### || باب الحاء والسين
+",000,False,000,False,False,False,2,93
+"### || باب الحاء والشين
+",000,False,000,False,False,False,2,33
+"### || باب الحاء والصاد
+",000,False,000,False,False,False,2,62
+"### || باب الحاء والضاد
+",000,False,000,False,False,False,2,56
+"### || باب ms046 الحاء والطاء
+",000,False,000,False,False,False,2,46
+"### || باب الحاء والظاء
+",000,False,000,False,False,False,2,17
+"### || باب الحاء والفاء
+",000,False,000,False,False,False,2,67
+"### || باب الحاء والقاف PageV01P081
+",000,False,000,False,False,False,2,26
+"### || باب الحاء والكاف
+",000,False,000,False,False,False,2,27
+"### || باب الحاء واللام
+",000,False,000,False,False,False,2,113
+"### || باب الحاء والميم
+",000,False,000,False,False,False,2,254
+"### || باب الحاء والنون
+",000,False,000,False,False,False,2,140
+"### || باب الحاء والواو
+",000,False,000,False,False,False,2,163
+"### || باب الحاء واللام ألف
+",000,False,000,False,False,False,2,35
+"### | حرف الخاء المعجمة
+",000,False,000,False,False,False,1,2283
+"### || باب الخاء والألف
+",000,False,000,False,False,False,2,231
+"### || باب الخاء والباء
+",000,False,000,False,False,False,2,106
+"### || باب الخاء والتاء
+",000,False,000,False,False,False,2,52
+"### || باب الخاء والثاء
+",000,False,000,False,False,False,2,34
+"### || باب الخاء والجيم
+",000,False,000,False,False,False,2,34
+"### || باب الخاء والدال
+",000,False,000,False,False,False,2,109
+"### || باب الخاء والذال
+",000,False,000,False,False,False,2,22
+"### || باب الخاء والراء
+",000,False,000,False,False,False,2,381
+"### || باب الخاء والزاي
+",000,False,000,False,False,False,2,101
+"### || باب الخاء والسين. PageV01P092
+",000,False,000,False,False,False,2,42
+"### || باب الخاء والشين
+",000,False,000,False,False,False,2,193
+"### || باب الخاء والصاد
+",000,False,000,False,False,False,2,34
+"### || باب الخاء والضاد
+",000,False,000,False,False,False,2,48
+"### || باب الخاء والطاء
+",000,False,000,False,False,False,2,69
+"### || باب الخاء والفاء
+",000,False,000,False,False,False,2,47
+"### || باب الخاء واللام
+",000,False,000,False,False,False,2,110
+"### || باب الخاء والميم.
+",000,False,000,False,False,False,2,143
+"### || باب الخاء والنون
+",000,False,000,False,False,False,2,178
+"### || باب الخاء والواو
+",000,False,000,False,False,False,2,228
+"### || باب الخاء واللام لف
+",000,False,000,False,False,False,2,41
+"### | حرف الدال المهملة
+",000,False,000,False,False,False,1,1839
+"### || باب الدال والألف
+",000,False,000,False,False,False,2,263
+"### || باب الدال والباء
+",000,False,000,False,False,False,2,113
+"### || باب الدال والثاء PageV01P102
+",000,False,000,False,False,False,2,23
+"### || باب الدال والجيم
+",000,False,000,False,False,False,2,51
+"### || باب الدال والحاء
+",000,False,000,False,False,False,2,31
+"### || بال الدال والخاء
+",000,False,000,False,False,False,2,58
+"### || باب الدال والراء
+",000,False,000,False,False,False,2,286
+"### || باب الدال والزاي
+",000,False,000,False,False,False,2,24
+"### || باب الدال والسين
+",000,False,000,False,False,False,2,57
+"### || باب الدال والشين
+",000,False,000,False,False,False,2,37
+"### || باب الدال والعين
+",000,False,000,False,False,False,2,10
+"### || باب الدال والغين ms060
+",000,False,000,False,False,False,2,40
+"### || باب الدال والفاء
+",000,False,000,False,False,False,2,35
+"### || باب الدال والقاف PageV01P105
+",000,False,000,False,False,False,2,30
+"### || باب الدال والكاف
+",000,False,000,False,False,False,2,23
+"### || باب الدال واللام
+",000,False,000,False,False,False,2,83
+"### || باب الدال والميم
+",000,False,000,False,False,False,2,101
+"### || باب الدال والنون
+",000,False,000,False,False,False,2,63
+"### || باب الدال والواو PageV01P107
+",000,False,000,False,False,False,2,236
+"### || باب الدال والهاء
+",000,False,000,False,False,False,2,110
+"### || باب الدال واللام ألف
+",000,False,000,False,False,False,2,32
+"### | حرف الذال المعجمة
+",000,False,000,False,False,False,1,236
+"### || باب الذال والألف
+",000,False,000,False,False,False,2,15
+"### || باب الذال والباء
+",000,False,000,False,False,False,2,24
+"### || باب الذال والخاء
+",000,False,000,False,False,False,2,35
+"### || باب الذال والراء
+",000,False,000,False,False,False,2,25
+"### || باب الذال والكاف
+",000,False,000,False,False,False,2,20
+"### || باب الذال والميم
+",000,False,000,False,False,False,2,24
+"### || باب الذال والنون
+",000,False,000,False,False,False,2,14
+"### || باب الذال والواو
+",000,False,000,False,False,False,2,40
+"### || باب الذال والهاء
+",000,False,000,False,False,False,2,47
+"### | حرف الراء
+",000,False,000,False,False,False,1,1530
+"### || باب الراء والألف
+",000,False,000,False,False,False,2,311
+"### || باب الراء والباء
+",000,False,000,False,False,False,2,97
+"### || باب الراء والجيم
+",000,False,000,False,False,False,2,48
+"### || باب الراء والحاء
+",000,False,000,False,False,False,2,52
+"### || باب الراء والخاء
+",000,False,000,False,False,False,2,69
+"### || باب الراء والدال
+",000,False,000,False,False,False,2,24
+"### || باب الراء والذال
+",000,False,000,False,False,False,2,18
+"### || باب الراء والزاي
+",000,False,000,False,False,False,2,86
+"### || باب الراء والسين
+",000,False,000,False,False,False,2,88
+"### || باب الراء والشين
+",000,False,000,False,False,False,2,54
+"### || باب الراء والصاد
+",000,False,000,False,False,False,2,25
+"### || باب الراء والضاد
+",000,False,000,False,False,False,2,31
+"### || باب الراء والعين
+",000,False,000,False,False,False,2,36
+"### || باب الراء والغين
+",000,False,000,False,False,False,2,22
+"### || باب الراء والفاء
+",000,False,000,False,False,False,2,38
+"### || باب الراء والقاف
+",000,False,000,False,False,False,2,52
+"### || باب الراء والكاف 
+",000,False,000,False,False,False,2,43
+"### || باب الراء والميم
+",000,False,000,False,False,False,2,86
+"### || باب الراء والنون PageV01P118
+",000,False,000,False,False,False,2,30
+"### || باب الراء والواو
+",000,False,000,False,False,False,2,209
+"### || باب الراء والهاء
+",000,False,000,False,False,False,2,53
+"### | حرف الزاي
+",000,False,000,False,False,False,1,1431
+"### || باب الزاي والألف
+",000,False,000,False,False,False,2,183
+"### || باب الزاي والباء
+",000,False,000,False,False,False,2,196
+"### || باب الزاي والجيم
+",000,False,000,False,False,False,2,47
+"### || باب الزاي والراء
+",000,False,000,False,False,False,2,190
+"### || باب الزاي مع الزاي
+",000,False,000,False,False,False,2,22
+"### || باب الزاي والطاء
+",000,False,000,False,False,False,2,16
+"### || باب الزاي والعين
+",000,False,000,False,False,False,2,106
+"### || باب الزاي والغين
+",000,False,000,False,False,False,2,65
+"### || باب الزاي والفاء
+",000,False,000,False,False,False,2,27
+"### || باب الزاي والقاف
+",000,False,000,False,False,False,2,26
+"### || باب الزاي والكاف
+",000,False,000,False,False,False,2,16
+"### || باب الزاي والكاف
+",000,False,000,False,False,False,2,15
+"### || باب الزاي واللام
+",000,False,000,False,False,False,2,20
+"### || باب الزاي والميم
+",000,False,000,False,False,False,2,97
+"### || باب الزاي والنون
+",000,False,000,False,False,False,2,150
+"### || باب الزاي والواو
+",000,False,000,False,False,False,2,110
+"### || باب الزاي والهاء
+",000,False,000,False,False,False,2,73
+"### | حرف السين المهملة
+",000,False,000,False,False,False,1,2794
+"### || باب السين والألف
+",000,False,000,False,False,False,2,288
+"### || باب السين والباء
+",000,False,000,False,False,False,2,228
+"### || باب السين والتاء
+",000,False,000,False,False,False,2,52
+"### || باب السين والجيم
+",000,False,000,False,False,False,2,64
+"### || باب السين والحاء ms076
+",000,False,000,False,False,False,2,57
+"### || باب السين والخاء
+",000,False,000,False,False,False,2,64
+"### || باب السين والدال
+",000,False,000,False,False,False,2,76
+"### || باب السين والذال
+",000,False,000,False,False,False,2,24
+"### || باب السين والراء
+",000,False,000,False,False,False,2,272
+"### || باب السين والعين
+",000,False,000,False,False,False,2,84
+"### || باب السين والغين
+",000,False,000,False,False,False,2,18
+"### || باب السين والفاء
+",000,False,000,False,False,False,2,79
+"### || باب السين والقاف
+",000,False,000,False,False,False,2,39
+"### || باب السين والكاف
+",000,False,000,False,False,False,2,125
+"### || باب السين واللام
+",000,False,000,False,False,False,2,286
+"### || باب السين والميم
+",000,False,000,False,False,False,2,247
+"### || باب السين والنون
+",000,False,000,False,False,False,2,266
+"### || باب السين والواو:
+",000,False,000,False,False,False,2,214
+"### || باب السين والهاء
+",000,False,000,False,False,False,2,95
+"### || باب السين واللام ألف
+",000,False,000,False,False,False,2,66
+"### | حرف الشين المعجمة
+",000,False,000,False,False,False,1,1849
+"### || باب الشين والألف
+",000,False,000,False,False,False,2,375
+"### || باب الشين والباء
+",000,False,000,False,False,False,2,116
+"### || باب الشين والتاء
+",000,False,000,False,False,False,2,25
+"### || باب الشين والجيم
+",000,False,000,False,False,False,2,61
+"### || باب الشين والحاء
+",000,False,000,False,False,False,2,43
+"### || باب الشين والخاء
+",000,False,000,False,False,False,2,28
+"### || باب الشين والدال
+",000,False,000,False,False,False,2,14
+"### || باب الشين والذال
+",000,False,000,False,False,False,2,39
+"### || باب الشين والراء
+",000,False,000,False,False,False,2,209
+"### || باب الشين مع الشين
+",000,False,000,False,False,False,2,19
+"### || باب الشين والطاء
+",000,False,000,False,False,False,2,40
+"### || باب الشين والعين
+",000,False,000,False,False,False,2,66
+"### || باب الشين والغين
+",000,False,000,False,False,False,2,27
+"### || باب الشين والفاء
+",000,False,000,False,False,False,2,40
+"### || باب الشين والقاف
+",000,False,000,False,False,False,2,90
+"### || باب الشين والكاف
+",000,False,000,False,False,False,2,35
+"### || باب السين واللام
+",000,False,000,False,False,False,2,78
+"### || باب الشين والميم
+",000,False,000,False,False,False,2,186
+"### || باب الشين والنون
+",000,False,000,False,False,False,2,87
+"### || باب الشين والواو
+",000,False,000,False,False,False,2,99
+"### || باب الشين والهاء PageV01P157
+",000,False,000,False,False,False,2,69
+"### | حرف الصاد المهملة
+",000,False,000,False,False,False,1,814
+"### || باب الصاد والألف
+",000,False,000,False,False,False,2,120
+"### || باب الصاد والباء
+",000,False,000,False,False,False,2,54
+"### || باب الصاد والخاء
+",000,False,000,False,False,False,2,19
+"### || باب الصاد والدال
+",000,False,000,False,False,False,2,62
+"### || باب الصاد والراء
+",000,False,000,False,False,False,2,145
+"### || باب الصاد والعين PageV01P161
+",000,False,000,False,False,False,2,47
+"### || باب الصاد والغين
+",000,False,000,False,False,False,2,26
+"### || باب الصاد والفاء
+",000,False,000,False,False,False,2,29
+"### || باب الصاد والقاف
+",000,False,000,False,False,False,2,31
+"### || باب الصاد اللام
+",000,False,000,False,False,False,2,69
+"### || باب الصاد والميم
+",000,False,000,False,False,False,2,16
+"### || باب الصاد والنون PageV01P162
+",000,False,000,False,False,False,2,83
+"### || باب الصاد والواو
+",000,False,000,False,False,False,2,61
+"### || باب الصاد الهاء PageV01P163
+",000,False,000,False,False,False,2,34
+"### | حرف الضاد المعجمة
+",000,False,000,False,False,False,1,1214
+"### || باب الضاد والألف
+",000,False,000,False,False,False,2,24
+"### || باب الضاد والباء
+",000,False,000,False,False,False,2,111
+"### || باب الضاد والخاء
+",000,False,000,False,False,False,2,16
+"### || باب الضاد والراء
+",000,False,000,False,False,False,2,32
+"### || باب الضاد والفاء
+",000,False,000,False,False,False,2,20
+"### || باب الضاد والميم
+",000,False,000,False,False,False,2,43
+"### || باب الضاد والنون
+",000,False,000,False,False,False,2,29
+"### || باب الضاد والياء PageV01P165
+",000,False,000,False,False,False,2,37
+"### || باب الطاء المهملة
+",000,False,000,False,False,False,2,140
+"### || باب الطاء والباء
+",000,False,000,False,False,False,2,107
+"### || باب الطاء والحاء
+",000,False,000,False,False,False,2,31
+"### || باب الطاء والخاء
+",000,False,000,False,False,False,2,41
+"### || باب الطاء والراء
+",000,False,000,False,False,False,2,184
+"### || باب الطاء والزاي
+",000,False,000,False,False,False,2,21
+"### || باب الطاء والسين
+",000,False,000,False,False,False,2,14
+"### || باب الطاء والغين
+",000,False,000,False,False,False,2,18
+"### || باب الطاء والفاء
+",000,False,000,False,False,False,2,30
+"### || باب الطاء واللام
+",000,False,000,False,False,False,2,64
+"### || باب الطاء والميم
+",000,False,000,False,False,False,2,20
+"### || باب الطاء والنون
+",000,False,000,False,False,False,2,63
+"### || باب الطاء والواو
+",000,False,000,False,False,False,2,139
+"### || باب الطاء والهاء
+",000,False,000,False,False,False,2,46
+"### | حرف الظاء المعجمة
+",000,False,000,False,False,False,1,113
+"### || باب الظاء والألف
+",000,False,000,False,False,False,2,32
+"### || باب الظاء والفاء PageV01P171
+",000,False,000,False,False,False,2,23
+"### || باب الظاء واللام
+",000,False,000,False,False,False,2,20
+"### || باب الظاء والنون
+",000,False,000,False,False,False,2,6
+"### || باب الظاء والهاء
+",000,False,000,False,False,False,2,33
+"### | حرف العين المهملة
+",000,False,000,False,False,False,1,2106
+"### || باب العين والألف
+",000,False,000,False,False,False,2,158
+"### || باب العين والباء
+",000,False,000,False,False,False,2,279
+"### || باب العين والتاء
+",000,False,000,False,False,False,2,135
+"### || باب العين والثاء
+",000,False,000,False,False,False,2,47
+"### || باب العين والجيم
+",000,False,000,False,False,False,2,110
+"### || باب العين والدال
+",000,False,000,False,False,False,2,134
+"### || باب العين والذال
+",000,False,000,False,False,False,2,27
+"### || باب العين والراء
+",000,False,000,False,False,False,2,198
+"### || باب العين والزاي
+",000,False,000,False,False,False,2,78
+"### || باب العين والسين
+",000,False,000,False,False,False,2,75
+"### || باب العين والشين
+",000,False,000,False,False,False,2,30
+"### || باب العين والصاد
+",000,False,000,False,False,False,2,70
+"### || باب العين والطاء
+",000,False,000,False,False,False,2,42
+"### || باب العين والفاء
+",000,False,000,False,False,False,2,18
+"### || باب العين والقاف
+",000,False,000,False,False,False,2,136
+"### || باب العين والكاف
+",000,False,000,False,False,False,2,81
+"### || باب العين واللام
+",000,False,000,False,False,False,2,116
+"### || باب العين والميم
+",000,False,000,False,False,False,2,127
+"### || باب العين والنون
+",000,False,000,False,False,False,2,99
+"### || باب العين والواو
+",000,False,000,False,False,False,2,89
+"### || باب العين واللام ألف
+",000,False,000,False,False,False,2,52
+"### | حرف الغين المعجمة
+",000,False,000,False,False,False,1,1007
+"### || باب الغين والألف
+",000,False,000,False,False,False,2,97
+"### || باب الغين والباء PageV01P184
+",000,False,000,False,False,False,2,43
+"### || باب الغين والثاء
+",000,False,000,False,False,False,2,17
+"### || باب الغين والجيم
+",000,False,000,False,False,False,2,13
+"### || باب الغين والدال
+",000,False,000,False,False,False,2,22
+"### || باب الغين والذال
+",000,False,000,False,False,False,2,43
+"### || باب الغين والراء
+",000,False,000,False,False,False,2,111
+"### || باب الغين والزاي
+",000,False,000,False,False,False,2,90
+"### || باب الغين والسين
+",000,False,000,False,False,False,2,36
+"### || باب الغين والسين
+",000,False,000,False,False,False,2,44
+"### || باب الغين والضاد
+",000,False,000,False,False,False,2,51
+"### || باب الغين والطاء
+",000,False,000,False,False,False,2,40
+"### || باب الغين والفاء
+",000,False,000,False,False,False,2,45
+"### || باب الغين واللام
+",000,False,000,False,False,False,2,44
+"### || باب الغين والميم
+",000,False,000,False,False,False,2,20
+"### || باب الغين والنون
+",000,False,000,False,False,False,2,124
+"### || باب الغين والواو
+",000,False,000,False,False,False,2,88
+"### || باب الغين واللام ألف
+",000,False,000,False,False,False,2,37
+"### | حرف الفاء
+",000,False,000,False,False,False,1,1807
+"### || باب الفاء والألف
+",000,False,000,False,False,False,2,299
+"### || باب الفاء والباء
+",000,False,000,False,False,False,2,15
+"### || باب الفاء والتاء PageV01P192
+",000,False,000,False,False,False,2,25
+"### || باب الفاء والجيم
+",000,False,000,False,False,False,2,12
+"### || باب الفاء والحاء
+",000,False,000,False,False,False,2,24
+"### || باب الفاء والدال
+",000,False,000,False,False,False,2,28
+"### || باب الفاء والذال
+",000,False,000,False,False,False,2,17
+"### || باب الفاء والراء
+",000,False,000,False,False,False,2,684
+"### || باب الفاء والزاي
+",000,False,000,False,False,False,2,64
+"### || باب الفاء والسين
+",000,False,000,False,False,False,2,55
+"### || باب الفاء والشين
+",000,False,000,False,False,False,2,29
+"### || باب الفاء والضاد
+",000,False,000,False,False,False,2,19
+"### || باب الفاء والطاء
+",000,False,000,False,False,False,2,20
+"### || باب الفاء والغين
+",000,False,000,False,False,False,2,61
+"### || باب الفاء والقاف
+",000,False,000,False,False,False,2,35
+"### || باب الفاء واللام
+",000,False,000,False,False,False,2,86
+"### || باب الفاء والنون
+",000,False,000,False,False,False,2,103
+"### || باب الفاء والواو
+",000,False,000,False,False,False,2,128
+"### || باب الفاء والهاء
+",000,False,000,False,False,False,2,58
+"### || باب الفاء واللام ألف
+",000,False,000,False,False,False,2,17
+"### | حرف القاف
+",000,False,000,False,False,False,1,2194
+"### || باب القاف والألف
+",000,False,000,False,False,False,2,165
+"### || باب القاف والباء
+",000,False,000,False,False,False,2,168
+"### || باب القاف والتاء
+",000,False,000,False,False,False,2,55
+"### || باب القاف والثاء
+",000,False,000,False,False,False,2,16
+"### || باب القاف والحاء
+",000,False,000,False,False,False,2,61
+"### || باب القاف والدال
+",000,False,000,False,False,False,2,64
+"### || باب القاف والراء
+",000,False,000,False,False,False,2,414
+"### || باب القاف والزاي
+",000,False,000,False,False,False,2,50
+"### || باب القاف والسين
+",000,False,000,False,False,False,2,99
+"### || باب القاف والشين
+",000,False,000,False,False,False,2,76
+"### || باب القاف والصاد
+",000,False,000,False,False,False,2,101
+"### || باب القاف والضاد
+",000,False,000,False,False,False,2,16
+"### || باب القاف والطاء
+",000,False,000,False,False,False,2,156
+"### || باب القاف والظاء
+",000,False,000,False,False,False,2,32
+"### || باب القاف والعين
+",000,False,000,False,False,False,2,29
+"### || باب القاف والفاء
+",000,False,000,False,False,False,2,43
+"### || باب القاف واللام
+",000,False,000,False,False,False,2,97
+"### || باب القاف والميم
+",000,False,000,False,False,False,2,104
+"### || باب القاف والنون
+",000,False,000,False,False,False,2,213
+"### || باب القاف والواو PageV01P213
+",000,False,000,False,False,False,2,137
+"### || باب القاف والهاء
+",000,False,000,False,False,False,2,49
+"### || باب القاف واللام ألف
+",000,False,000,False,False,False,2,26
+"### | حرف الكاف
+",000,False,000,False,False,False,1,1692
+"### || باب الكاف والألف ms121
+",000,False,000,False,False,False,2,306
+"### || باب ms122 الكاف والباء
+",000,False,000,False,False,False,2,99
+"### || باب الكاف والتاء
+",000,False,000,False,False,False,2,25
+"### || باب الكاف والثاء
+",000,False,000,False,False,False,2,30
+"### || باب الكاف والجيم PageV01P219
+",000,False,000,False,False,False,2,35
+"### || باب الكاف والحاء
+",000,False,000,False,False,False,2,31
+"### || باب الكاف والدال
+",000,False,000,False,False,False,2,41
+"### || باب الكاف والذال
+",000,False,000,False,False,False,2,20
+"### || باب الكاف والراء
+",000,False,000,False,False,False,2,256
+"### || باب الكاف والزاي
+",000,False,000,False,False,False,2,27
+"### || باب الكاف والسين
+",000,False,000,False,False,False,2,55
+"### || باب الكاف والشين
+",000,False,000,False,False,False,2,89
+"### || باب الكاف والعين
+",000,False,000,False,False,False,2,46
+"### || باب الكاف والفاء
+",000,False,000,False,False,False,2,100
+"### || باب الكاف واللام
+",000,False,000,False,False,False,2,112
+"### || باب الكاف والميم
+",000,False,000,False,False,False,2,57
+"### || باب الكاف والنون
+",000,False,000,False,False,False,2,175
+"### || باب الكاف والواو
+",000,False,000,False,False,False,2,148
+"### || باب الكاف والهاء
+",000,False,000,False,False,False,2,18
+"### || باب الكاف واللام ألف
+",000,False,000,False,False,False,2,97
+"### | حرف اللام
+",000,False,000,False,False,False,1,416
+"### || باب اللام والألف
+",000,False,000,False,False,False,2,50
+"### || باب اللام والباء
+",000,False,000,False,False,False,2,35
+"### || باب اللام والجيم
+",000,False,000,False,False,False,2,26
+"### || باب اللام والحاء
+",000,False,000,False,False,False,2,48
+"### || باب اللام والخاء
+",000,False,000,False,False,False,2,20
+"### || باب اللام والدال
+",000,False,000,False,False,False,2,24
+"### || باب اللام والراء
+",000,False,000,False,False,False,2,25
+"### || باب اللام والغين
+",000,False,000,False,False,False,2,12
+"### || باب اللام والفاء
+",000,False,000,False,False,False,2,22
+"### || باب اللام والقاف
+",000,False,000,False,False,False,2,14
+"### || باب اللام والكاف
+",000,False,000,False,False,False,2,28
+"### || باب اللام والميم
+",000,False,000,False,False,False,2,18
+"### || باب اللام والنون
+",000,False,000,False,False,False,2,14
+"### || باب اللام والواو
+",000,False,000,False,False,False,2,88
+"### || باب اللام والهاء
+",000,False,000,False,False,False,2,34
+"### | حرف الميم
+",000,False,000,False,False,False,1,3832
+"### || باب الميم والألف
+",000,False,000,False,False,False,2,479
+"### || باب الميم والباء
+",000,False,000,False,False,False,2,74
+"### || باب الميم والتاء
+",000,False,000,False,False,False,2,77
+"### || باب الميم والثاء
+",000,False,000,False,False,False,2,39
+"### || باب الميم والجيم
+",000,False,000,False,False,False,2,208
+"### || باب الميم والحاء
+",000,False,000,False,False,False,2,191
+"### || باب الميم والخاء
+",000,False,000,False,False,False,2,137
+"### || باب الميم والدال
+",000,False,000,False,False,False,2,103
+"### || باب الميم والذال PageV01P239
+",000,False,000,False,False,False,2,82
+"### || باب الميم والراء
+",000,False,000,False,False,False,2,415
+"### || باب الميم والزاي
+",000,False,000,False,False,False,2,98
+"### || باب الميم والسين
+",000,False,000,False,False,False,2,171
+"### || باب الميم والشين
+",000,False,000,False,False,False,2,119
+"### || باب الميم والصاد
+",000,False,000,False,False,False,2,94
+"### || باب الميم والضاد
+",000,False,000,False,False,False,2,151
+"### || باب الميم والظاء
+",000,False,000,False,False,False,2,26
+"### || باب الميم والعين
+",000,False,000,False,False,False,2,288
+"### || باب الميم والغين
+",000,False,000,False,False,False,2,111
+"### || باب الميم والفاء
+",000,False,000,False,False,False,2,43
+"### || باب الميم والقاف
+",000,False,000,False,False,False,2,145
+"### || باب الميم والكاف
+",000,False,000,False,False,False,2,54
+"### || باب الميم واللام
+",000,False,000,False,False,False,2,90
+"### || باب الميم والميم
+",000,False,000,False,False,False,2,18
+"### || باب الميم والنون
+",000,False,000,False,False,False,2,283
+"### || باب الميم والواو
+",000,False,000,False,False,False,2,152
+"### || باب الميم والهاء
+",000,False,000,False,False,False,2,152
+"### || باب الميم واللام ألف
+",000,False,000,False,False,False,2,37
+"### | حرف النون
+",000,False,000,False,False,False,1,1586
+"### || باب النون والألف
+",000,False,000,False,False,False,2,214
+"### || باب النون والباء PageV01P259
+",000,False,000,False,False,False,2,76
+"### || باب النون والجيم
+",000,False,000,False,False,False,2,94
+"### || باب النون والحاء PageV01P260
+",000,False,000,False,False,False,2,39
+"### || باب النون والخاء
+",000,False,000,False,False,False,2,78
+"### || باب النون والدال
+",000,False,000,False,False,False,2,22
+"### || باب النون والذال
+",000,False,000,False,False,False,2,19
+"### || باب النون والراء
+",000,False,000,False,False,False,2,53
+"### || باب النون والسين
+",000,False,000,False,False,False,2,50
+"### || باب النون والشين
+",000,False,000,False,False,False,2,73
+"### || باب النون والصاد
+",000,False,000,False,False,False,2,73
+"### || باب النون والضاد
+",000,False,000,False,False,False,2,36
+"### || باب النون والطاء
+",000,False,000,False,False,False,2,29
+"### || باب النون والظاء
+",000,False,000,False,False,False,2,20
+"### || باب النون والعين
+",000,False,000,False,False,False,2,61
+"### || باب النون والغين
+",000,False,000,False,False,False,2,18
+"### || باب النون والفاء
+",000,False,000,False,False,False,2,60
+"### || باب النون والقاف
+",000,False,000,False,False,False,2,84
+"### || باب النون والكاف
+",000,False,000,False,False,False,2,35
+"### || باب النون والميم
+",000,False,000,False,False,False,2,78
+"### || باب النون والواو
+",000,False,000,False,False,False,2,276
+"### || باب النون والهاء
+",000,False,000,False,False,False,2,156
+"### | حرف الواو
+",000,False,000,False,False,False,1,967
+"### || باب الواو والألف
+",000,False,000,False,False,False,2,255
+"### || باب الواو والباء
+",000,False,000,False,False,False,2,12
+"### || باب الواو والتاء
+",000,False,000,False,False,False,2,14
+"### || باب الواو والثاء
+",000,False,000,False,False,False,2,14
+"### || باب الواو والجيم
+",000,False,000,False,False,False,2,22
+"### || باب الواو والحاء
+",000,False,000,False,False,False,2,17
+"### || باب الواو والخاء
+",000,False,000,False,False,False,2,28
+"### || باب الواو والدال
+",000,False,000,False,False,False,2,48
+"### || باب الواو والذال
+",000,False,000,False,False,False,2,40
+"### || باب الواو والراء
+",000,False,000,False,False,False,2,158
+"### || باب الواو والزاي
+",000,False,000,False,False,False,2,65
+"### || باب الواو والسين
+",000,False,000,False,False,False,2,63
+"### || باب الواو والصاد
+",000,False,000,False,False,False,2,23
+"### || باب الواو والضاد
+",000,False,000,False,False,False,2,16
+"### || باب الواو والطاء
+",000,False,000,False,False,False,2,18
+"### || باب الواو والعين
+",000,False,000,False,False,False,2,22
+"### || باب الواو والقاف
+",000,False,000,False,False,False,2,37
+"### || باب الواو والكاف PageV01P275
+",000,False,000,False,False,False,2,19
+"### || باب الواو واللام
+",000,False,000,False,False,False,2,20
+"### || باب الواو والنون
+",000,False,000,False,False,False,2,71
+"### || باب الواو والهاء
+",000,False,000,False,False,False,2,49
+"### || باب الواو واللام ألف
+",000,False,000,False,False,False,2,47
+"### | حرف الهاء
+",000,False,000,False,False,False,1,545
+"### || باب الهاء والألف
+",000,False,000,False,False,False,2,46
+"### || باب الهاء والباء
+",000,False,000,False,False,False,2,45
+"### || باب الهاء والجيم
+",000,False,000,False,False,False,2,30
+"### || باب الهاء والدال
+",000,False,000,False,False,False,2,54
+"### || باب الهاء والذال
+",000,False,000,False,False,False,2,38
+"### || باب الهاء والراء
+",000,False,000,False,False,False,2,89
+"### || باب الهاء والزاي PageV01P278
+",000,False,000,False,False,False,2,56
+"### || باب الهاء والسين
+",000,False,000,False,False,False,2,14
+"### || باب الهاء والشين
+",000,False,000,False,False,False,2,10
+"### || باب الهاء والفاء
+",000,False,000,False,False,False,2,22
+"### || باب الهاء والكاف
+",000,False,000,False,False,False,2,22
+"### || باب الهاء واللام
+",000,False,000,False,False,False,2,12
+"### || باب الهاء والميم
+",000,False,000,False,False,False,2,56
+"### || باب الهاء والنون PageV01P279
+",000,False,000,False,False,False,2,72
+"### || باب الهاء والواو
+",000,False,000,False,False,False,2,34
+"### | حرف اللام ألف
+",000,False,000,False,False,False,1,179
+"### || باب اللام ألف والحاء
+",000,False,000,False,False,False,2,11
+"### || باب اللام ألف والذال
+",000,False,000,False,False,False,2,23
+"### || باب اللام ألف والراء
+",000,False,000,False,False,False,2,29
+"### || باب اللام ألف والزاي
+",000,False,000,False,False,False,2,23
+"### || باب اللام ألف والسين
+",000,False,000,False,False,False,2,21
+"### || باب اللام ألف والعين
+",000,False,000,False,False,False,2,17
+"### || باب اللام ألف والكاف
+",000,False,000,False,False,False,2,17
+"### || باب اللام ألف واللام
+",000,False,000,False,False,False,2,33
+"### || باب اللام ألف والميم
+",000,False,000,False,False,False,2,19
+"### || باب اللام ms152 ألف والهمزة
+",000,False,000,False,False,False,2,17
+"### | حرف الياء
+",000,False,000,False,False,False,1,548
+"### || باب الياء والألف
+",000,False,000,False,False,False,2,82
+"### || باب الياء والتاء
+",000,False,000,False,False,False,2,12
+"### || باب الياء والثاء
+",000,False,000,False,False,False,2,25
+"### || باب الياء والحاء
+",000,False,000,False,False,False,2,37
+"### || باب الياء والخاء
+",000,False,000,False,False,False,2,20
+"### || باب الياء والذال
+",000,False,000,False,False,False,2,18
+"### || باب الياء والراء
+",000,False,000,False,False,False,2,38
+"### || باب الياء والزاي PageV01P283
+",000,False,000,False,False,False,2,37
+"### || باب الياء والسين
+",000,False,000,False,False,False,2,38
+"### || باب الياء والشين
+",000,False,000,False,False,False,2,28
+"### || باب الياء والعين
+",000,False,000,False,False,False,2,19
+"### || باب الياء والغين
+",000,False,000,False,False,False,2,34
+"### || باب الياء والفاء
+",000,False,000,False,False,False,2,26
+"### || باب الياء والقاف
+",000,False,000,False,False,False,2,12
+"### || باب الياء والميم
+",000,False,000,False,False,False,2,29
+"### || باب الياء والنون PageV01P284
+",000,False,000,False,False,False,2,38
+"### || باب الياء والواو
+",000,False,000,False,False,False,2,83
+"### || باب الياء والهاء
+",000,False,000,False,False,False,2,12
+"### | [تم تم تم]
+",000,False,000,False,False,False,1,117

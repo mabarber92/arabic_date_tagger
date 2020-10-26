@@ -1,0 +1,621 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO الكتاب: المحيط في اللغة موافقا للمطبوع
+",000,False,000,False,False,False,1,53
+"### | AUTO حرف العين PageV01P063
+",000,False,000,False,False,False,1,60016
+"### || AUTO باب المضاعف
+",000,False,000,False,False,False,2,2504
+"### || AUTO باب الثلاثي الصحيح
+",000,False,000,False,False,False,2,26702
+"### || AUTO باب العين والطاء مع حروفهما
+",000,False,000,False,False,False,2,13648
+"### || AUTO باب الثلاثي المعتل PageV02P075
+",000,False,000,False,False,False,2,17
+"### || AUTO باب العين والهاء
+",000,False,000,False,False,False,2,188
+"### || AUTO باب العين والخاء
+",000,False,000,False,False,False,2,43
+"### || AUTO باب العين والقاف
+",000,False,000,False,False,False,2,628
+"### || AUTO باب العين والكاف
+",000,False,000,False,False,False,2,365
+"### || AUTO باب العين والجيم
+",000,False,000,False,False,False,2,266
+"### || AUTO باب العين والشين
+",000,False,000,False,False,False,2,564
+"### || AUTO باب العين والضاد
+",000,False,000,False,False,False,2,387
+"### || AUTO باب العين والصاد
+",000,False,000,False,False,False,2,361
+"### || AUTO باب العين والسين
+",000,False,000,False,False,False,2,460
+"### || AUTO باب العين والزاي
+",000,False,000,False,False,False,2,211
+"### || AUTO باب العين والطاء
+",000,False,000,False,False,False,2,276
+"### || AUTO باب العين والدال
+",000,False,000,False,False,False,2,805
+"### || AUTO باب العين والتاء
+",000,False,000,False,False,False,2,159
+"### || AUTO باب العين والظاء
+",000,False,000,False,False,False,2,53
+"### || AUTO باب العين والذال
+",000,False,000,False,False,False,2,181
+"### || AUTO باب العين والثاء
+",000,False,000,False,False,False,2,154
+"### || AUTO باب العين والراء
+",000,False,000,False,False,False,2,1189
+"### || AUTO باب العين واللام
+",000,False,000,False,False,False,2,749
+"### || AUTO باب العين والنون
+",000,False,000,False,False,False,2,965
+"### || AUTO باب العين والفاء
+",000,False,000,False,False,False,2,447
+"### || AUTO باب العين الياء
+",000,False,000,False,False,False,2,344
+"### || AUTO باب العين والميم
+",000,False,000,False,False,False,2,359
+"### || AUTO باب اللفيف PageV02P183
+",000,False,000,False,False,False,2,322
+"### || AUTO باب الرباعي PageV02P189
+",000,False,000,False,False,False,2,16
+"### || AUTO باب العين والهاء مع سائر الحروف
+",000,False,000,False,False,False,2,522
+"### || AUTO باب العين والخاء مع حروفهما
+",000,False,000,False,False,False,2,247
+"### || AUTO باب العين والقاف مع حروفهما
+",000,False,000,False,False,False,2,1540
+"### || AUTO باب العين والكاف
+",000,False,000,False,False,False,2,670
+"### || AUTO باب العين والجيم مع الشين
+",000,False,000,False,False,False,2,1102
+"### || AUTO باب العين والشين مع الصاد : الشعصر الجوز البري . مع الزاي :
+",000,False,000,False,False,False,2,326
+"### || AUTO باب العين والضاد
+",000,False,000,False,False,False,2,245
+"### || AUTO باب العين والصاد
+",000,False,000,False,False,False,2,463
+"### || AUTO باب العين والسين
+",000,False,000,False,False,False,2,451
+"### || AUTO باب العين والزاي
+",000,False,000,False,False,False,2,232
+"### || AUTO باب العين والطاء
+",000,False,000,False,False,False,2,232
+"### || AUTO باب العين والدال
+",000,False,000,False,False,False,2,319
+"### || AUTO باب العين والتاء
+",000,False,000,False,False,False,2,164
+"### || AUTO باب العين والظاء
+",000,False,000,False,False,False,2,183
+"### || AUTO باب العين والثاء
+",000,False,000,False,False,False,2,277
+"### || AUTO باب العين والراء
+",000,False,000,False,False,False,2,179
+"### || AUTO باب العين واللام
+",000,False,000,False,False,False,2,88
+"### | AUTO حرف الحاء PageV02P283
+",000,False,000,False,False,False,1,41955
+"### || AUTO باب المضاعف الثنائي الحاء والقاف
+",000,False,000,False,False,False,2,6892
+"### || AUTO باب الحاء والكاف
+",000,False,000,False,False,False,2,1706
+"### || AUTO باب الحاء والجيم
+",000,False,000,False,False,False,2,2456
+"### || AUTO باب الحاء والشين
+",000,False,000,False,False,False,2,1358
+"### || AUTO باب الحاء والضاد
+",000,False,000,False,False,False,2,1165
+"### || AUTO باب الحاء والصاد
+",000,False,000,False,False,False,2,1981
+"### || AUTO باب الحاء والسين
+",000,False,000,False,False,False,2,2467
+"### || AUTO باب الحاء والزاي مع حروفهما
+",000,False,000,False,False,False,2,1267
+"### || AUTO باب الحاء والطاء
+",000,False,000,False,False,False,2,1068
+"### || AUTO باب الحاء والدال
+",000,False,000,False,False,False,2,1398
+"### || AUTO باب الحاء والتاء
+",000,False,000,False,False,False,2,740
+"### || AUTO باب الحاء والظاء مع حروفهما
+",000,False,000,False,False,False,2,389
+"### || AUTO باب الحاء والذال
+",000,False,000,False,False,False,2,665
+"### || AUTO باب الحاء والثاء
+",000,False,000,False,False,False,2,383
+"### || AUTO باب الحاء والراء
+",000,False,000,False,False,False,2,2357
+"### || AUTO باب الحاء واللام
+",000,False,000,False,False,False,2,1945
+"### || AUTO باب الحاء والنون
+",000,False,000,False,False,False,2,608
+"### || AUTO باب الحاء والفاء
+",000,False,000,False,False,False,2,65
+"### || AUTO باب الثلاثي المعتل PageV03P131
+",000,False,000,False,False,False,2,8630
+"### || AUTO باب اللفيف PageV03P235
+",000,False,000,False,False,False,2,622
+"### || AUTO باب الرباعي PageV03P243
+",000,False,000,False,False,False,2,590
+"### || AUTO باب الحاء والكاف
+",000,False,000,False,False,False,2,314
+"### || AUTO باب الحاء والجيم مع حروفهما
+",000,False,000,False,False,False,2,637
+"### || AUTO باب الحاء والشين مع حروفهما
+",000,False,000,False,False,False,2,262
+"### || AUTO باب الحاء والضاد
+",000,False,000,False,False,False,2,70
+"### || AUTO باب الحاء والصاد مع حروفهما
+",000,False,000,False,False,False,2,195
+"### || AUTO باب الحاء والسين مع حروفهما
+",000,False,000,False,False,False,2,304
+"### || AUTO باب الحاء والزاي
+",000,False,000,False,False,False,2,188
+"### || AUTO باب الحاء والطاء مع حروفهما
+",000,False,000,False,False,False,2,934
+"### | AUTO حرف الهاء PageV03P303
+",000,False,000,False,False,False,1,49014
+"### || AUTO باب المضاعف الثنائي PageV03P305
+",000,False,000,False,False,False,2,1972
+"### || AUTO باب الثلاثي الصحيح PageV03P331
+",000,False,000,False,False,False,2,55
+"### || AUTO باب الهاء والغين
+",000,False,000,False,False,False,2,173
+"### || AUTO باب الهاء والقاف
+",000,False,000,False,False,False,2,1198
+"### || AUTO باب الهاء والكاف
+",000,False,000,False,False,False,2,1050
+"### || AUTO باب الهاء والجيم
+",000,False,000,False,False,False,2,1954
+"### || AUTO باب الهاء والشين
+",000,False,000,False,False,False,2,902
+"### || AUTO باب الهاء والضاد
+",000,False,000,False,False,False,2,487
+"### || AUTO باب الهاء والصاد
+",000,False,000,False,False,False,2,384
+"### || AUTO باب الهاء والسين
+",000,False,000,False,False,False,2,872
+"### || AUTO باب الهاء والزاي
+",000,False,000,False,False,False,2,886
+"### || AUTO باب الهاء والطاء
+",000,False,000,False,False,False,2,615
+"### || AUTO باب الهاء والدال
+",000,False,000,False,False,False,2,1400
+"### || AUTO باب الهاء والتاء
+",000,False,000,False,False,False,2,567
+"### || AUTO باب الهاء والظاء
+",000,False,000,False,False,False,2,360
+"### || AUTO باب الهاء والذال
+",000,False,000,False,False,False,2,355
+"### || AUTO باب الهاء والثاء
+",000,False,000,False,False,False,2,118
+"### || AUTO باب الهاء والراء
+",000,False,000,False,False,False,2,1243
+"### || AUTO باب الهاء واللام
+",000,False,000,False,False,False,2,804
+"### || AUTO باب الهاء والنون
+",000,False,000,False,False,False,2,353
+"### || AUTO باب الهاء والفاء
+",000,False,000,False,False,False,2,25
+"### || AUTO باب الهاء والباء
+",000,False,000,False,False,False,2,155
+"### || AUTO باب الثلاثي المعتل PageV04P013
+",000,False,000,False,False,False,2,5880
+"### || AUTO باب اللفيف PageV04P089
+",000,False,000,False,False,False,2,976
+"### || AUTO باب الرباعي PageV04P101
+",000,False,000,False,False,False,2,15
+"### || AUTO باب الهاء والغين
+",000,False,000,False,False,False,2,481
+"### || AUTO باب الهاء والكاف
+",000,False,000,False,False,False,2,416
+"### || AUTO باب الهاء والجيم
+",000,False,000,False,False,False,2,586
+"### || AUTO باب الهاء والشين مع حروفهما
+",000,False,000,False,False,False,2,196
+"### || AUTO باب الهاء والضاد مع حروفهما
+",000,False,000,False,False,False,2,34
+"### || AUTO باب الهاء والصاد
+",000,False,000,False,False,False,2,112
+"### || AUTO باب الهاء والسين مع حروفهما
+",000,False,000,False,False,False,2,337
+"### || AUTO باب الهاء والزاي مع حروفهما
+",000,False,000,False,False,False,2,183
+"### || AUTO باب الهاء والطاء مع حروفهما
+",000,False,000,False,False,False,2,69
+"### || AUTO باب الهاء والدال مع حروفهما
+",000,False,000,False,False,False,2,223
+"### || AUTO باب الهاء والتاء
+",000,False,000,False,False,False,2,58
+"### || AUTO باب الهاء والذال
+",000,False,000,False,False,False,2,77
+"### || AUTO باب الهاء والثاء
+",000,False,000,False,False,False,2,49
+"### || AUTO باب الهاء والراء
+",000,False,000,False,False,False,2,146
+"### || AUTO باب الهاء واللام
+",000,False,000,False,False,False,2,30
+"### || AUTO باب الخماسي
+",000,False,000,False,False,False,2,168
+"### || AUTO باب المضاعف PageV04P147
+",000,False,000,False,False,False,2,2380
+"### || AUTO باب الثلاثي الصحيح PageV04P189
+",000,False,000,False,False,False,2,17
+"### || AUTO باب الخاء والقاف
+",000,False,000,False,False,False,2,782
+"### || AUTO باب الخاء والكاف
+",000,False,000,False,False,False,2,92
+"### || AUTO باب الخاء والجيم
+",000,False,000,False,False,False,2,999
+"### || AUTO باب الخاء والشين
+",000,False,000,False,False,False,2,1017
+"### || AUTO باب الخاء والضاد
+",000,False,000,False,False,False,2,837
+"### || AUTO باب الخاء والصاد
+",000,False,000,False,False,False,2,1194
+"### || AUTO باب الخاء والسين
+",000,False,000,False,False,False,2,1378
+"### || AUTO باب الخاء والزاي
+",000,False,000,False,False,False,2,654
+"### || AUTO باب الخاء والطاء
+",000,False,000,False,False,False,2,1292
+"### || AUTO باب الخاء والدال
+",000,False,000,False,False,False,2,864
+"### || AUTO باب الخاء والتاء
+",000,False,000,False,False,False,2,579
+"### || AUTO باب الخاء والظاء
+",000,False,000,False,False,False,2,36
+"### || AUTO باب الخاء والذال
+",000,False,000,False,False,False,2,331
+"### || AUTO باب الخاء والثاء
+",000,False,000,False,False,False,2,292
+"### || AUTO باب الخاء والراء
+",000,False,000,False,False,False,2,1362
+"### || AUTO باب الخاء واللام
+",000,False,000,False,False,False,2,1238
+"### || AUTO باب الخاء والنون
+",000,False,000,False,False,False,2,576
+"### || AUTO باب الخاء والفاء
+",000,False,000,False,False,False,2,40
+"### || AUTO باب الثلاثي المعتل PageV04P367
+",000,False,000,False,False,False,2,4503
+"### || AUTO باب اللفيف PageV04P433
+",000,False,000,False,False,False,2,435
+"### || AUTO باب الرباعي PageV04P441
+",000,False,000,False,False,False,2,896
+"### || AUTO باب الخاء والصاد
+",000,False,000,False,False,False,2,176
+"### || AUTO باب الخاء والسين مع حروفهما
+",000,False,000,False,False,False,2,227
+"### || AUTO باب الخاء والزاي مع حروفهما
+",000,False,000,False,False,False,2,488
+"### || AUTO باب الخاء والتاء
+",000,False,000,False,False,False,2,392
+"### | AUTO حرف الغين PageV04P489
+",000,False,000,False,False,False,1,15943
+"### || AUTO باب الثنائي المضاعف PageV04P491
+",000,False,000,False,False,False,2,1792
+"### || AUTO باب الثلاثي الصحيح PageV04P525
+",000,False,000,False,False,False,2,424
+"### || AUTO باب الغين والكاف
+",000,False,000,False,False,False,2,31
+"### || AUTO باب الغين والجيم
+",000,False,000,False,False,False,2,118
+"### || AUTO باب الغين والشين
+",000,False,000,False,False,False,2,759
+"### || AUTO باب الغين والضاد
+",000,False,000,False,False,False,2,1029
+"### || AUTO باب الغين والصاد
+",000,False,000,False,False,False,2,567
+"### || AUTO باب الغين والسين
+",000,False,000,False,False,False,2,785
+"### || AUTO باب الغين والزاي
+",000,False,000,False,False,False,2,658
+"### || AUTO باب الغين والطاء
+",000,False,000,False,False,False,2,8
+"### || AUTO باب العين والطاء والراء
+",000,False,000,False,False,False,2,375
+"### || AUTO باب الغين والدال
+",000,False,000,False,False,False,2,862
+"### || AUTO باب الغين والتاء
+",000,False,000,False,False,False,2,220
+"### || AUTO باب الغين والظاء
+",000,False,000,False,False,False,2,72
+"### || AUTO باب الغين والذال
+",000,False,000,False,False,False,2,200
+"### || AUTO باب الغين والثاء
+",000,False,000,False,False,False,2,605
+"### || AUTO باب الغين والراء
+",000,False,000,False,False,False,2,1899
+"### || AUTO باب الغين واللام
+",000,False,000,False,False,False,2,675
+"### || AUTO باب الغين والنون
+",000,False,000,False,False,False,2,290
+"### || AUTO باب الغين والفاء
+",000,False,000,False,False,False,2,65
+"### || AUTO باب الغين والباء
+",000,False,000,False,False,False,2,32
+"### || AUTO باب الثلاثي المعتل PageV05P097
+",000,False,000,False,False,False,2,3163
+"### || AUTO باب اللفيف PageV05P147
+",000,False,000,False,False,False,2,175
+"### || AUTO باب الرباعي PageV05P151
+",000,False,000,False,False,False,2,1156
+"### | AUTO حرف القاف PageV05P177
+",000,False,000,False,False,False,1,35439
+"### || AUTO باب المضاعف الثنائي
+",000,False,000,False,False,False,2,3297
+"### || AUTO باب الثلاثي الصحيح PageV05P225
+",000,False,000,False,False,False,2,16
+"### || AUTO باب القاف والجيم
+",000,False,000,False,False,False,2,54
+"### || AUTO باب القاف والشين
+",000,False,000,False,False,False,2,1780
+"### || AUTO باب القاف والضاد
+",000,False,000,False,False,False,2,570
+"### || AUTO باب القاف والصاد
+",000,False,000,False,False,False,2,2283
+"### || AUTO باب القاف والسين
+",000,False,000,False,False,False,2,1825
+"### || AUTO باب القاف والزاي
+",000,False,000,False,False,False,2,824
+"### || AUTO باب القاف والطاء
+",000,False,000,False,False,False,2,2289
+"### || AUTO باب القاف والدال
+",000,False,000,False,False,False,2,1823
+"### || AUTO باب القاف والتاء
+",000,False,000,False,False,False,2,970
+"### || AUTO باب القاف والظاء
+",000,False,000,False,False,False,2,41
+"### || AUTO باب القاف والذال
+",000,False,000,False,False,False,2,476
+"### || AUTO باب القاف والثاء
+",000,False,000,False,False,False,2,446
+"### || AUTO باب القاف والراء
+",000,False,000,False,False,False,2,3772
+"### || AUTO باب القاف واللام
+",000,False,000,False,False,False,2,2009
+"### || AUTO باب القاف والنون
+",000,False,000,False,False,False,2,977
+"### || AUTO باب القاف والفاء
+",000,False,000,False,False,False,2,66
+"### || AUTO باب القاف والباء
+",000,False,000,False,False,False,2,70
+"### || AUTO باب الثلاثي المعتل PageV05P455
+",000,False,000,False,False,False,2,8602
+"### || AUTO باب اللفيف PageV06P063
+",000,False,000,False,False,False,2,527
+"### || AUTO باب الرباعي PageV06P071
+",000,False,000,False,False,False,2,2568
+"### | AUTO حرف الكاف PageV06P117
+",000,False,000,False,False,False,1,22247
+"### || AUTO باب الثنائي المضاعف PageV06P119
+",000,False,000,False,False,False,2,2677
+"### || AUTO باب الثلاثي الصحيح PageV06P155
+",000,False,000,False,False,False,2,90
+"### || AUTO باب الكاف والشين
+",000,False,000,False,False,False,2,1067
+"### || AUTO باب الكاف والضاد
+",000,False,000,False,False,False,2,281
+"### || AUTO باب الكاف والصاد
+",000,False,000,False,False,False,2,201
+"### || AUTO باب الكاف والسين
+",000,False,000,False,False,False,2,1822
+"### || AUTO باب الكاف والزاي
+",000,False,000,False,False,False,2,761
+"### || AUTO باب الكاف والطاء
+",000,False,000,False,False,False,2,2613
+"### || AUTO باب الكاف والظاء
+",000,False,000,False,False,False,2,258
+"### || AUTO باب الكاف والذال
+",000,False,000,False,False,False,2,393
+"### || AUTO باب الكاف والثاء
+",000,False,000,False,False,False,2,792
+"### || AUTO باب الكاف والراء
+",000,False,000,False,False,False,2,2014
+"### || AUTO باب الكاف واللام
+",000,False,000,False,False,False,2,2267
+"### || AUTO باب الثلاثي المعتل PageV06P287
+",000,False,000,False,False,False,2,5567
+"### || AUTO باب اللفيف PageV06P351
+",000,False,000,False,False,False,2,440
+"### || AUTO باب الرباعي PageV06P357
+",000,False,000,False,False,False,2,993
+"### | AUTO حرف الجيم PageV06P381
+",000,False,000,False,False,False,1,26193
+"### || AUTO باب المضاعف الثنائي
+",000,False,000,False,False,False,2,3455
+"### || AUTO باب الثلاثي الصحيح PageV06P423
+",000,False,000,False,False,False,2,1835
+"### || AUTO باب الجيم والسين
+",000,False,000,False,False,False,2,5526
+"### || AUTO باب الجيم والظاء
+",000,False,000,False,False,False,2,75
+"### || AUTO باب الجيم والذال
+",000,False,000,False,False,False,2,665
+"### || AUTO باب الجيم والثاء
+",000,False,000,False,False,False,2,633
+"### || AUTO باب الجيم والراء
+",000,False,000,False,False,False,2,6054
+"### || AUTO باب الثلاثي المعتل PageV07P137
+",000,False,000,False,False,False,2,6114
+"### || AUTO باب الفيف من الجيم PageV07P209
+",000,False,000,False,False,False,2,707
+"### || AUTO باب الرباعي PageV07P217
+",000,False,000,False,False,False,2,1044
+"### | AUTO حرف الشين PageV07P243
+",000,False,000,False,False,False,1,13337
+"### || AUTO باب المضاعف الثنائي PageV07P245
+",000,False,000,False,False,False,2,1753
+"### || AUTO باب الثلاثي الصحيح PageV07P275
+",000,False,000,False,False,False,2,1879
+"### || AUTO باب الشين والدال
+",000,False,000,False,False,False,2,698
+"### || AUTO باب الشين والظاء
+",000,False,000,False,False,False,2,273
+"### || AUTO باب الشين والذال
+",000,False,000,False,False,False,2,2420
+"### || AUTO باب الشين واللام
+",000,False,000,False,False,False,2,650
+"### || AUTO باب الشين والنون
+",000,False,000,False,False,False,2,692
+"### || AUTO باب الثلاثي المعتل PageV07P351
+",000,False,000,False,False,False,2,3982
+"### || AUTO باب اللفيف PageV07P401
+",000,False,000,False,False,False,2,569
+"### || AUTO باب الرباعي PageV07P409
+",000,False,000,False,False,False,2,387
+"### | AUTO حرف الضاد PageV07P423
+",000,False,000,False,False,False,1,7840
+"### || AUTO باب الثنائي المضاعف PageV07P425
+",000,False,000,False,False,False,2,1605
+"### || AUTO باب الثلاثي الصحيح PageV07P447
+",000,False,000,False,False,False,2,868
+"### || AUTO باب الضاد والتاء
+",000,False,000,False,False,False,2,2542
+"### || AUTO باب الثلاثي المعتل PageV08P031
+",000,False,000,False,False,False,2,2172
+"### || AUTO باب اللفيف PageV08P061
+",000,False,000,False,False,False,2,403
+"### | AUTO حرف الصاد PageV08P075
+",000,False,000,False,False,False,1,12784
+"### || AUTO باب المضاعف PageV08P077
+",000,False,000,False,False,False,2,2175
+"### || AUTO باب الثلاثي الصحيح PageV08P103
+",000,False,000,False,False,False,2,5783
+"### || AUTO باب الثلاثي المعتل PageV08P165
+",000,False,000,False,False,False,2,3907
+"### || AUTO باب اللفيف PageV08P211
+",000,False,000,False,False,False,2,607
+"### | AUTO حرف السين PageV08P229
+",000,False,000,False,False,False,1,18859
+"### || AUTO باب المضاعف PageV08P231
+",000,False,000,False,False,False,2,2707
+"### || AUTO باب الثلاثي الصحيح PageV08P263
+",000,False,000,False,False,False,2,8550
+"### || AUTO باب الثلاثي المعتل PageV08P349
+",000,False,000,False,False,False,2,5853
+"### || AUTO باب اللفيف PageV08P411
+",000,False,000,False,False,False,2,940
+"### || AUTO باب الرباعي PageV08P421
+",000,False,000,False,False,False,2,761
+"### | AUTO حرف الزاي
+",000,False,000,False,False,False,1,8379
+"### || AUTO باب المضاعف الزاي والطاء
+",000,False,000,False,False,False,2,1281
+"### || AUTO باب الثلاثي الصحيح PageV09P025
+",000,False,000,False,False,False,2,17
+"### || AUTO باب الزاي والطاء
+",000,False,000,False,False,False,2,96
+"### || AUTO باب الزاي والدال
+",000,False,000,False,False,False,2,332
+"### || AUTO باب الزاي والتاء
+",000,False,000,False,False,False,2,167
+"### || AUTO باب الزاي والذال
+",000,False,000,False,False,False,2,29
+"### || AUTO باب الزاي والراء
+",000,False,000,False,False,False,2,3128
+"### || AUTO باب الثلاثي المعتل PageV09P073
+",000,False,000,False,False,False,2,2532
+"### || AUTO باب اللفيف PageV09P109
+",000,False,000,False,False,False,2,595
+"### || AUTO باب الرباعي
+",000,False,000,False,False,False,2,184
+"### | AUTO حرف الطاء PageV09P125
+",000,False,000,False,False,False,1,9237
+"### || AUTO باب المضاعف
+",000,False,000,False,False,False,2,1338
+"### || AUTO باب الثلاثي الصحيح PageV09P145
+",000,False,000,False,False,False,2,4292
+"### || AUTO باب الثلاثي المعتل PageV09P197
+",000,False,000,False,False,False,2,2839
+"### || AUTO باب اللفيف PageV09P235
+",000,False,000,False,False,False,2,481
+"### || AUTO باب الرباعي
+",000,False,000,False,False,False,2,263
+"### | AUTO حرف الدال PageV09P249
+",000,False,000,False,False,False,1,13176
+"### || AUTO باب المضاعف الثنائي PageV09P251
+",000,False,000,False,False,False,2,1830
+"### || AUTO باب الثلاثي الصحيح PageV09P275
+",000,False,000,False,False,False,2,4986
+"### || AUTO باب الثلاثي المعتل PageV09P331
+",000,False,000,False,False,False,2,4938
+"### || AUTO باب اللفيف PageV09P387
+",000,False,000,False,False,False,2,1177
+"### | AUTO حرف التاء
+",000,False,000,False,False,False,1,6356
+"### || AUTO باب المضاعف
+",000,False,000,False,False,False,2,901
+"### || AUTO باب الثلاثي الصحيح PageV09P419
+",000,False,000,False,False,False,2,2504
+"### || AUTO باب الثلاثي المعتل PageV09P451
+",000,False,000,False,False,False,2,2346
+"### || AUTO باب اللفيف PageV09P483
+",000,False,000,False,False,False,2,438
+"### | AUTO حرف الظاء PageV10P005
+",000,False,000,False,False,False,1,3087
+"### || AUTO باب الثلاثي الصحيح PageV10P019
+",000,False,000,False,False,False,2,1565
+"### || AUTO باب الثلاثي المعتل PageV10P037
+",000,False,000,False,False,False,2,724
+"### || AUTO باب اللفيف
+",000,False,000,False,False,False,2,70
+"### | AUTO حرف الذال PageV10P053
+",000,False,000,False,False,False,1,5002
+"### || AUTO باب المضاعف
+",000,False,000,False,False,False,2,931
+"### || AUTO باب الثلاثي الصحيح PageV10P069
+",000,False,000,False,False,False,2,1647
+"### || AUTO باب الثلاثي المعتل PageV10P091
+",000,False,000,False,False,False,2,1881
+"### || AUTO باب اللفيف
+",000,False,000,False,False,False,2,493
+"### | AUTO حرف الثاء PageV10P121
+",000,False,000,False,False,False,1,7079
+"### || AUTO باب المضاعف
+",000,False,000,False,False,False,2,920
+"### || AUTO باب الثلاثي الصحيح PageV10P135
+",000,False,000,False,False,False,2,2223
+"### || AUTO باب الثلاثي المعتل PageV10P159
+",000,False,000,False,False,False,2,3563
+"### || AUTO باب اللفيف
+",000,False,000,False,False,False,2,294
+"### | AUTO حرف الراء PageV10P203
+",000,False,000,False,False,False,1,9474
+"### || AUTO باب المضاعف
+",000,False,000,False,False,False,2,1682
+"### || AUTO باب الثلاثي الصحيح PageV10P223
+",000,False,000,False,False,False,2,1692
+"### || AUTO باب الثلاثي المعتل PageV10P245
+",000,False,000,False,False,False,2,4625
+"### || AUTO باب اللفيف
+",000,False,000,False,False,False,2,1455
+"### | AUTO حرف اللام PageV10P305
+",000,False,000,False,False,False,1,7270
+"### || AUTO باب المضاعف
+",000,False,000,False,False,False,2,1425
+"### || AUTO باب الثلاثي الصحيح PageV10P321
+",000,False,000,False,False,False,2,1022
+"### || AUTO باب الثلاثي المعتل PageV10P335
+",000,False,000,False,False,False,2,2940
+"### | AUTO حرف النون PageV10P383
+",000,False,000,False,False,False,1,4145
+"### || AUTO باب المضاعف
+",000,False,000,False,False,False,2,684
+"### || AUTO باب الثلاثي الصحيح
+",000,False,000,False,False,False,2,36
+"### || AUTO باب الثلاثي المعتل PageV10P393
+",000,False,000,False,False,False,2,2397
+"### | AUTO حرف الفاء PageV10P427
+",000,False,000,False,False,False,1,935
+"### || AUTO باب المضاعف
+",000,False,000,False,False,False,2,30
+"### || AUTO باب الثلاثي المعتل
+",000,False,000,False,False,False,2,232
+"### | AUTO حرف الباء PageV10P439
+",000,False,000,False,False,False,1,1291
+"### || AUTO باب الثلاثي المعتل
+",000,False,000,False,False,False,2,33
+"### | AUTO حرف الميم PageV10P453
+",000,False,000,False,False,False,1,2342

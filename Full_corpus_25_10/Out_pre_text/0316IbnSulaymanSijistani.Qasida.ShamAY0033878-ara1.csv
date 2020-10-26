@@ -1,0 +1,129 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK [أول الكتاب]
+",000,False,000,False,False,False,1,7
+"### | CHECK [الرؤية وقل يتجلى الله للخلق جهرة كما البدر لا يخفى وربك
+",000,False,000,False,False,False,1,14
+"### | CHECK [التمسك بالكتاب والسنة تمسك بحبل الله واتبع الهدى ولا تك
+",000,year,000,False,False,False,1,13
+"### | AUTO قال ابن بطة وابن شاهين وابن شاذان
+",000,False,000,False,False,False,1,132
+"### | CHECK [الصحابة والسلف الصالح وقل إن خير الناس بعد محمد وزيراه قدما
+",000,False,000,False,False,False,1,14
+"### | CHECK [النزول وقل ينزل الجبار في كل ليلة بلا كيف جل الواحد
+",000,False,000,False,False,False,1,130
+"### | CHECK [البرزخ وأحوال الآخرة ولا تنكرن جهلا نكيرا ومنكرا ولا الحوض
+",000,False,000,False,False,False,1,11
+"### | CHECK [القدر وبالقدر المقدور أيقن فإنه دعامة عقد الدين والدين أفيح]
+",000,False,000,False,False,False,1,129
+"### | CHECK [حب أهل الحديث ولاتك من قوم تلهو بدينهم فتطعن في أهل الحديث وتقدح]
+",000,False,000,False,False,False,1,28
+"### | CHECK [الحديث لا الرأي في الفقه وغيره ودع عنك آراء الرجال وقولهم
+",000,False,000,False,False,False,1,14
+"### | CHECK [الإيمان ولا تكفرن أهل الصلاة وإن عصوا فكلهم يعصى وذو العرش يصفح]
+",000,False,000,False,False,False,1,136
+"### | CHECK [نصيحة جامعة إذا ما اعتقدت الدهر يا صاح هذه فأنت على خير
+",000,False,000,False,False,False,1,84
+"### | AUTO اختلافات النسخ
+",000,False,000,False,False,False,1,94
+"### | AUTO أبواب السنة
+",000,year,000,False,False,False,1,15
+"### | AUTO من قصيدته وسيرته PageV01P023
+",000,False,000,False,False,False,1,7
+"### | AUTO أصل السنة
+",000,year,000,False,False,False,1,9
+"### | AUTO ونبذ البدع وأهلها PageV01P025
+",000,False,000,False,False,False,1,74
+"### | AUTO 1 - فيه إشارة الى آيات وأحاديث منها والذين يمسكون بالكتاب
+",000,False,000,False,False,False,1,679
+"### | AUTO الباب الثاني
+",000,False,000,False,False,False,1,20
+"### | CHECK [مسألة القرآن وقل غير مخلوق كلام مليكنا بذلك دان الأتقياء
+",000,False,000,False,False,False,1,11
+"### | AUTO مسألة الاسم والمسمى
+",000,False,000,False,False,False,1,208
+"### | AUTO ذكر رحمه الله في القرآن ثلاثة مذاهب
+",000,False,000,False,False,False,1,370
+"### | AUTO 3 - مسألة الرؤية
+",000,False,000,False,False,False,1,99
+"### | CHECK [مسألة اليد وقد ينكر الجهمي أيضا يمينه وكلتا يديه بالفواضل تنفح]
+",000,False,000,False,False,False,1,24
+"### | CHECK [مسألة النزول وقل ينزل الجبار في كل ليلة بلا كيف جل الواحد
+",000,False,000,False,False,False,1,449
+"### | AUTO مسألة القدر ... وبالقدر المقدور أيقن فإنه ... دعامة عقد
+",000,False,000,False,False,False,1,98
+"### | AUTO الباب الثالث
+",000,False,000,False,False,False,1,7
+"### | AUTO الإيمان PageV01P037
+",000,False,000,False,False,False,1,350
+"### | AUTO خروج قوم من النار ... وقل يخرج الله العظيم بفضله ... من
+",000,False,000,False,False,False,1,108
+"### | AUTO الشفاعة
+",000,False,000,False,False,False,1,103
+"### | AUTO الباب الرابع
+",000,False,000,False,False,False,1,9
+"### | AUTO الصالح PageV01P041
+",000,False,000,False,False,False,1,60
+"### | AUTO فيه مسائل
+",000,False,000,False,False,False,1,658
+"### | AUTO 2 - . - . . 19 وسبطي رسول الله وابني خديجة ... وفاطمة ذات
+",000,False,000,False,False,False,1,37
+"### | AUTO فيه مسائل
+",000,False,000,False,False,False,1,222
+"### | AUTO فضائل الصحابة جميعهم
+",000,False,000,False,False,False,1,401
+"### | CHECK [فضائل التابعين لهم بإحسان رحمهم الله تعالى ومن بعدهم
+",000,False,000,False,False,False,1,286
+"### | AUTO الباب الخامس
+",000,False,000,False,False,False,1,5
+"### | AUTO وأحوال الآخرة
+",000,False,000,False,False,False,1,9
+"### | AUTO القيامة الشفاعة والحوض والميزان
+",000,False,000,False,False,False,1,12
+"### | AUTO 1 - فتنة القبر وعذابه ... ولا تنكرن جهلا نكيرا ومنكرا ...
+",000,False,000,False,False,False,1,333
+"### | AUTO 2 - القيامة
+",000,False,000,False,False,False,1,278
+"### | AUTO 3 - النار
+",000,False,000,False,False,False,1,276
+"### | AUTO الباب السادس
+",000,False,000,False,False,False,1,11
+"### | CHECK [ذم الرأي ودع عنك آراء الرجال وقولهم]
+",000,False,000,False,False,False,1,16
+"### | AUTO ذم الرأي وأهله
+",000,False,000,False,False,False,1,398
+"### | AUTO الباب السابع
+",000,False,000,False,False,False,1,14
+"### | CHECK [مدح أهل السنة وتقبيح أهل البدع ومالك والثوري ثم أخوهم أبو عمرو]
+",000,year,000,False,False,False,1,26
+"### | AUTO ذم الفرق جملة والأمر بهجرتهم
+",000,False,000,False,False,False,1,122
+"### | AUTO ذم أهل البدع والرأي والأهواء كلهم وفرق النار من المسلمين
+",000,False,000,False,False,False,1,67
+"### | CHECK [الطعن في أهل الحديث علامة أهل البدع ولا تك من قوم تلهوا
+",000,False,000,False,False,False,1,143
+"### | CHECK [ذم تأويلهم للصفات روى ذاك قوم لا يرد حديثهم ألا خاب قوم
+",000,False,000,False,False,False,1,15
+"### | CHECK [ذم قولهم في القرآن وقل غير مخلوق كلام مليكنا بذلك دان
+",000,False,000,False,False,False,1,14
+"### | CHECK [ذم القدرية الذين ينفون القدر عن الله ويثبتونه لأنفسهم
+",000,False,000,False,False,False,1,12
+"### | AUTO ذم الجهمية والمعتزلة ومن مال
+",000,False,000,False,False,False,1,134
+"### | CHECK [ذم قولهم في أحوال الآخرة ولا تنكرن جهلا نكيرا ومنكرا ولا الحوض]
+",000,False,000,False,False,False,1,26
+"### | CHECK [ذم قولهم في الصحابة الذين وافقوا به الشيعة وقل خير قول في
+",000,False,000,False,False,False,1,15
+"### | CHECK [ذم قولهم في الإيمان الذي وافقوا به الخوارج وإن رسول الله
+",000,False,000,False,False,False,1,14
+"### | CHECK [ذم الخوارج في مقالتهم في الإيمان وقل يخرج الله العظيم بفضله
+",000,False,000,False,False,False,1,156
+"### | CHECK [ذم مقالتهم في علي رضي الله عنه والصحابة ورابعهم خير البرية
+",000,False,000,False,False,False,1,14
+"### | CHECK [ذم الشيعة وقل إن خير الناس بعد محمد وزيراه قدما ثم عثمان
+",000,False,000,False,False,False,1,63
+"### | AUTO ذم الناصبة
+",000,False,000,False,False,False,1,77
+"### | CHECK [ذم المرجئة ولاتك مرجيا لعوبا بدينه ألا إنما المرجي بالدين يمزح]
+",000,False,000,False,False,False,1,47
+"### | CHECK [نصيحة جامعة نافعة وهي إجماع أهل السنة إذا ما اعتقدت الدهر
+",000,year,000,False,False,False,1,106

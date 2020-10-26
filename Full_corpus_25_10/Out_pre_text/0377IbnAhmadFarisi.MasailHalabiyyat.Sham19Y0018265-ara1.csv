@@ -1,0 +1,409 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK مسألة: ... ملقى واحف
+",000,False,000,False,False,False,1,105
+"### | AUTO مسألة القول في حروف ""يد"" وما تصرف منها
+",000,False,000,False,False,False,1,1414
+"### | CHECK مسألة: الفرق بين قولهم: رقبتك حر، ورأسك حر، وفرجك حر، وبين قولهم: يدك حر
+",000,False,000,False,False,False,1,1233
+"### | AUTO مسألة القول في ""الداء"" و ""الدواء""
+",000,False,000,False,False,False,1,1023
+"### || AUTO القول في تصريف ذلك
+",000,False,000,False,False,False,2,334
+"### | AUTO مسألة في ""رأى"" وما تصرف منه
+",000,False,000,False,False,False,1,8085
+"### || CHECK وزنه همزته وتخفيفها
+",000,False,000,False,False,False,2,85
+"### || AUTO ويلمه
+",000,False,000,False,False,False,2,18
+"### || AUTO ويلمه
+",000,False,000,False,False,False,2,3
+"### || AUTO ويلمه
+",000,False,000,False,False,False,2,195
+"### || AUTO لن
+",000,False,000,False,False,False,2,25
+"### || AUTO لن
+",000,False,000,False,False,False,2,15
+"### || AUTO لن
+",000,False,000,False,False,False,2,5
+"### || AUTO لن
+",000,False,000,False,False,False,2,133
+"### || CHECK راءه وريء
+",000,False,000,False,False,False,2,3
+"### || AUTO أريت
+",000,False,000,False,False,False,2,29
+"### || AUTO أريت
+",000,False,000,False,False,False,2,105
+"### || CHECK ألف رأى من حيث التفخيم والإمالة
+",000,False,000,False,False,False,2,531
+"### || CHECK راءيت، والرياء، ورئاء
+",000,False,000,False,False,False,2,626
+"### || AUTO رأي وأرآء
+",000,False,000,False,False,False,2,6
+"### || AUTO رأي وأرآء
+",000,False,000,False,False,False,2,13
+"### || CHECK رؤيا وتخفيف همزته
+",000,False,000,False,False,False,2,129
+"### || CHECK (رئيا) والقراءة فيه
+",000,False,000,False,False,False,2,343
+"### || AUTO الرواء
+",000,False,000,False,False,False,2,9
+"### || AUTO الرواء
+",000,False,000,False,False,False,2,27
+"### || AUTO الرواء
+",000,False,000,False,False,False,2,39
+"### || AUTO مرأى
+",000,False,000,False,False,False,2,2
+"### || AUTO مرأى
+",000,False,000,False,False,False,2,9
+"### || AUTO مرأى
+",000,False,000,False,False,False,2,16
+"### || AUTO مرأى
+",000,False,000,False,False,False,2,65
+"### || AUTO المروءة
+",000,False,000,False,False,False,2,78
+"### || CHECK أرأيت إراء
+",000,False,000,False,False,False,2,100
+"### || AUTO المرآة
+",000,False,000,False,False,False,2,43
+"### || AUTO رئة
+",000,False,000,False,False,False,2,34
+"### || AUTO المريء
+",000,False,000,False,False,False,2,36
+"### || CHECK ""رأيت"" فعل على ثلاثة أضرب
+",000,False,000,False,False,False,2,5
+"### || CHECK ""رأى"" في بيت لابن مقبل
+",000,False,000,False,False,False,2,23
+"### || AUTO تورون
+",000,False,000,False,False,False,2,71
+"### || AUTO تتراءى
+",000,False,000,False,False,False,2,1925
+"### ||| CHECK 1 - رأيت التي يراد بها إدراك الحاسة
+",000,False,000,False,False,False,3,870
+"### ||| CHECK 2 - رأيت التي بمعنى النظر والاعتقاد
+",000,False,000,False,False,False,3,388
+"### || CHECK ""أرأيتك"" على ضربين
+",000,False,000,False,False,False,2,672
+"### ||| CHECK 1 - أن يكون بمعنى: أخبرني
+",000,False,000,False,False,False,3,178
+"### || CHECK قصة الغرانقة
+",000,False,000,False,False,False,2,551
+"### || CHECK خروج المضارع على أصله في الشعر: يرأى
+",000,False,000,False,False,False,2,8
+"### || CHECK مضارع رأى على يفعل محذوف الهمزة
+",000,False,000,False,False,False,2,389
+"### || CHECK قوله تعالى: (فإما ترين من البشر أحدا)
+",000,False,000,False,False,False,2,32
+"### || AUTO أنت ترين
+",000,False,000,False,False,False,2,104
+"### || AUTO أنت ترين
+",000,False,000,False,False,False,2,68
+"### || CHECK قوله تعالى: (أرنا اللذين أضلانا)
+",000,False,000,False,False,False,2,243
+"### || AUTO الأمر من ""رأى""
+",000,False,000,False,False,False,2,424
+"### || CHECK القول على خط ""رأى"" والألف المتطرفة
+",000,False,000,False,False,False,2,6
+"### | AUTO مسألة في آمين
+",000,False,000,False,False,False,1,4760
+"### || CHECK أبنية الأفعال الثلاثية الصحيحة المجردة
+",000,False,000,False,False,False,2,6
+"### || CHECK أضرب الأفعال
+",000,False,000,False,False,False,2,3
+"### || CHECK باب: ذكر أبنية الأفعال
+",000,False,000,False,False,False,2,120
+"### || AUTO باب أبنية الأفعال الثلاثية الصحيحة التي لا زيادة فيها
+",000,False,000,False,False,False,2,529
+"### || CHECK ما كانت الواو فاء الفعل
+",000,False,000,False,False,False,2,6
+"### || CHECK أبنية الأفعال الثلاثية المعتلة المجردة
+",000,False,000,False,False,False,2,6
+"### || AUTO باب أبنية الأفعال الثلاثية المعتلة التي لا زيادة فيها
+",000,False,000,False,False,False,2,297
+"### || CHECK ما كانت الياء والواو فيه عين الفعل
+",000,False,000,False,False,False,2,8
+"### || CHECK ما كانت الياء فيه فاء الفعل
+",000,False,000,False,False,False,2,61
+"### || AUTO باب ما كانت الياء في أوله من هذا النحو
+",000,False,000,False,False,False,2,37
+"### || CHECK ما كانت الواو منه عين الفعل
+",000,False,000,False,False,False,2,20
+"### || AUTO باب ما كانت الياء والواو فيه ثانية في موضع العين
+",000,False,000,False,False,False,2,126
+"### || AUTO باب ما كانت الياء منه عين الفعل
+",000,False,000,False,False,False,2,115
+"### || AUTO باب ما كانت الواو والياء فيه ثالثة في موضع اللام
+",000,False,000,False,False,False,2,199
+"### || AUTO باب الياء إذا كانت ثالثة لاما
+",000,False,000,False,False,False,2,74
+"### || AUTO باب التضعيف في الثلاثي
+",000,False,000,False,False,False,2,304
+"### | CHECK مسألة: إعراب قوله تعالى: (إن المصدقين والمصدقات وأقرضوا الله قرضا حسنا يضاعف لهم)
+",000,False,000,False,False,False,1,1423
+"### || CHECK الفصل بين الصلة والموصول
+",000,False,000,False,False,False,2,185
+"### || CHECK الفصل بين الفعل والفاعل
+",000,False,000,False,False,False,2,5
+"### || CHECK الفصل بين اسم إن وخبرها
+",000,False,000,False,False,False,2,209
+"### || CHECK الفصل بين المعطوف والمعطوف عليه
+",000,False,000,False,False,False,2,6
+"### || CHECK الفصل بين الصفة والموصوف
+",000,False,000,False,False,False,2,5
+"### || CHECK الفصل بين القسم والمقسم عليه
+",000,False,000,False,False,False,2,153
+"### | CHECK مسألة: الواحد من قوله تعالى: (نحن أولو قوة وأولو بأس شديد)
+",000,False,000,False,False,False,1,498
+"### | CHECK مسألة: جواب عن الرقعة النافذة من سيف الدولة
+",000,False,000,False,False,False,1,2849
+"### || CHECK تعلم السيرافي من أبي علي
+",000,False,000,False,False,False,2,6
+"### || CHECK الفرق بين ""قرأ علي"" وبين ""تعلم مني""
+",000,False,000,False,False,False,2,182
+"### || CHECK هل يقع ""القوم"" على الجن؟
+",000,False,000,False,False,False,2,5
+"### || CHECK وصف أبي علي لابن الخياط بأنه: لا لقاء له
+",000,False,000,False,False,False,2,379
+"### || CHECK هل ""أناس"" جمع؟
+",000,False,000,False,False,False,2,199
+"### || CHECK ما دل على جمع ولم يكن جمع تكسير فهو على ثلاثة أضرب
+",000,False,000,False,False,False,2,690
+"### ||| CHECK 1 - أن يكون اسما مصوغا للجمع من غير لفظ الواحد المجموع
+",000,False,000,False,False,False,3,175
+"### ||| CHECK 2 - أن يكون الاسم يستعمل مرة مفردا ومرة جمعا
+",000,False,000,False,False,False,3,126
+"### || CHECK ما وزن ""الناس""، وما أصله؟
+",000,False,000,False,False,False,2,1238
+"### | CHECK باب تفسير باب من كتاب سيبويه، وهو: باب ما ينتصب من الأسماء والصفات لأنها أحوال تقع فيها الأمور
+",000,False,000,False,False,False,1,5591
+"### || AUTO هذا بسرا أطيب منه رطبا
+",000,False,000,False,False,False,2,459
+"### || CHECK مررت برج أخبث ما يكون أخبث منك أخبث ما تكون
+",000,False,000,False,False,False,2,98
+"### || AUTO مررت برجل خير ما يكون خير منك خير ما تكون
+",000,False,000,False,False,False,2,403
+"### || AUTO زيد خير ما يكون خير منك
+",000,False,000,False,False,False,2,424
+"### || AUTO مررت برجل خير ما يكون خير منك
+",000,False,000,False,False,False,2,132
+"### || AUTO مررت برجل خير ما يكون خير منك
+",000,False,000,False,False,False,2,151
+"### || AUTO البر أرخص ما يكون قفيزان
+",000,False,000,False,False,False,2,227
+"### || CHECK الحرب أول ما تكون فتية
+",000,False,000,False,False,False,2,1348
+"### || AUTO عبد الله أحسن ما يكون قائما
+",000,False,000,False,False,False,2,219
+"### || CHECK ألا أصبحت خنساء جاذمة الوصل ... وضنت علينا، والضنين من البخل
+",000,False,000,False,False,False,2,35
+"### || AUTO زيد إقبال وإدبار
+",000,False,000,False,False,False,2,266
+"### || CHECK إني مما أفعل، وإني مما أن أفعل
+",000,False,000,False,False,False,2,308
+"### || AUTO أخطب ما يكون الأمير قائما
+",000,False,000,False,False,False,2,154
+"### || AUTO عبد الله أخطب ما يكون قائم
+",000,False,000,False,False,False,2,213
+"### || CHECK عبد الله أخطب ما يكون يوم الجمعة، والبداوة أطيب ما تكون شهري ربيع
+",000,False,000,False,False,False,2,323
+"### || AUTO أخطب ما يكون الأمير يوم الجمعة، وأطيب ما تكون البداوة شهرا ربيع
+",000,False,000,False,False,False,2,209
+"### || AUTO أتيك يوم الجمعة أو يوم السبت أبطأه
+",000,False,000,False,False,False,2,121
+"### | CHECK مسألة: ""ليس الطيب إلا المسك""
+",000,False,000,False,False,False,1,9270
+"### || CHECK مذهب أبي علي
+",000,False,000,False,False,False,2,4
+"### || CHECK مذهب سيبويه
+",000,False,000,False,False,False,2,114
+"### || CHECK الدلالة على أن أسماء الأفعال ليست بحروف
+",000,False,000,False,False,False,2,8
+"### || CHECK اتصال الضمير بأسماء الأفعال ليس دليلا على فعليتها
+",000,False,000,False,False,False,2,185
+"### || CHECK الدلالة على أن أسماء الأفعال ليست بأفعال
+",000,False,000,False,False,False,2,317
+"### || CHECK الدلالة على أن أسماء الأفعال أسماء
+",000,False,000,False,False,False,2,341
+"### || CHECK تنوين صه
+",000,False,000,False,False,False,2,182
+"### || CHECK من الأدلة على أن ""ليس"" ليست كالأمثلة المأخوذة من لفظ أحداث الأسماء أنها لا توصل ب ""ما"" المصدرية
+",000,False,000,False,False,False,2,170
+"### || CHECK لم لم يحمله سيبويه على أن في ""ليس"" ضمير القصة والحديث
+",000,False,000,False,False,False,2,167
+"### || CHECK قولهم في الشعر ""ليسي"" دليل على أن ""ليس"" ليست كالأفعال
+",000,False,000,False,False,False,2,95
+"### || CHECK الدليل على أن الأفعال صيغت لتدل على الزمان
+",000,False,000,False,False,False,2,9
+"### || CHECK ومن الأدلة على أنها ليست بفعل على الحقيقة ك ""كان"" وأخواتها: خلوها من دلالتها على الزمان
+",000,False,000,False,False,False,2,434
+"### || CHECK م لم يحرك الثاني من ""ليس""
+",000,False,000,False,False,False,2,400
+"### || CHECK إذا تعارض القياس والسماع وجب طرح القياس والأخذ بما جاء به السماع
+",000,False,000,False,False,False,2,356
+"### || AUTO ليس زيد إلا قائم
+",000,False,000,False,False,False,2,438
+"### || CHECK لام المعرفة على أربعة أضرب
+",000,False,000,False,False,False,2,311
+"### || CHECK الإضمار قبل الذكر
+",000,False,000,False,False,False,2,165
+"### || CHECK التفسير المبين للمضمر على ضربين: أحدهما أن يكون مفردا، والآخر أن يكون جملة
+",000,False,000,False,False,False,2,3397
+"### ||| CHECK (أ) المفرد على ضربين: إضمار في فعل، وإضمار في حرف
+",000,False,000,False,False,False,3,2349
+"### || CHECK البغداديون يسمون الضمير المفسر بالجمل المجهول
+",000,False,000,False,False,False,2,1009
+"### || CHECK زعم الخليل أنهما استعملا وصفين
+",000,False,000,False,False,False,2,6
+"### || CHECK استعمال ""ليس"" و ""لا يكون"" في الاستثناء
+",000,False,000,False,False,False,2,106
+"### || CHECK أجاز بعض البغدادين جعل ""ليس"" نسقا
+",000,False,000,False,False,False,2,324
+"### || CHECK ""أليس"" تدل على الإيجاب
+",000,False,000,False,False,False,2,457
+"### | CHECK مسألة: قولهم ""ما زال زيد قائما"" ما معناه، وعم انقلاب الألف فيه
+",000,False,000,False,False,False,1,1790
+"### || CHECK ما معنى: ""زال زوالها"" في قول الأعشى
+",000,False,000,False,False,False,2,548
+"### || CHECK هذا النهار بدا لها من همها ... ما بالها بالليل زال زوالها ما معنى ""ما تنفك إلا مناخة"" فلأ قول ذي الرمة
+",000,False,000,False,False,False,2,153
+"### || CHECK حراجيح ما تنفك إلا مناخة ... على الخسف أو نرمي بها بلدا قفرا روي ""كل"" بالرفع والنصب في قول الشاعر
+",000,False,000,False,False,False,2,172
+"### || CHECK تقديم خبر ""ليس"" عليها
+",000,False,000,False,False,False,2,169
+"### | CHECK مسألة: في تأويل أسماء كتاب الله تعالى
+",000,False,000,False,False,False,1,13
+"### | AUTO مسألة في تأويل أسماء كتاب الله تعال
+",000,False,000,False,False,False,1,3349
+"### || CHECK لام المعرفة أربعة أضرب
+",000,False,000,False,False,False,2,1385
+"### || CHECK 2 - القول في الفرقان
+",000,False,000,False,False,False,2,5
+"### || AUTO القول في الفرقان
+",000,False,000,False,False,False,2,511
+"### || CHECK 3 - القول في الكتاب
+",000,False,000,False,False,False,2,5
+"### | CHECK مسألة: ""اثناء عشر"": كيف أعرب من بين سائر الأعداد التي بين العشرة والعشرين
+",000,False,000,False,False,False,1,2856
+"### | CHECK مسألة: كيف تبني من ""متى"" في قولك ""متى انطلاقك"" مثل ""جعفر""؟
+",000,False,000,False,False,False,1,116
+"### | CHECK مسألة: كيف تبنى من ""ضرب"" مثل ""أخت""؟
+",000,False,000,False,False,False,1,74
+"### | CHECK مسألة: كيف تبني من ""قد"" و ""هل"" و ""بل"" مثل ""عصفور""؟
+",000,False,000,False,False,False,1,325
+"### | CHECK مسألة: كيف تبني من ""ضرب"" مثل ""إما"" و ""ألا""؟
+",000,False,000,False,False,False,1,444
+"### | CHECK مسألة: ما مثل ""أوتاه""؟
+",000,False,000,False,False,False,1,2195
+"### || CHECK وزنها
+",000,False,000,False,False,False,2,1384
+"### | CHECK مسألة: الأسكرجة: هل له اشتقاق؟ وهل الهمزة فيها أصل أم لا؟ وكيف تصغيرها؟
+",000,False,000,False,False,False,1,4074
+"### || CHECK اشتقاقها
+",000,False,000,False,False,False,2,419
+"### || CHECK إستبرق
+",000,False,000,False,False,False,2,2
+"### || CHECK همزتها
+",000,False,000,False,False,False,2,560
+"### || CHECK أشكر، والأردن
+",000,False,000,False,False,False,2,84
+"### || AUTO إهليلج
+",000,False,000,False,False,False,2,108
+"### || AUTO آسك
+",000,False,000,False,False,False,2,14
+"### || AUTO آسك
+",000,False,000,False,False,False,2,3
+"### || AUTO آسك
+",000,False,000,False,False,False,2,46
+"### || CHECK الإزار والإزرة
+",000,False,000,False,False,False,2,12
+"### || AUTO آزر
+",000,False,000,False,False,False,2,23
+"### || AUTO آزر
+",000,False,000,False,False,False,2,3
+"### || AUTO آزر
+",000,False,000,False,False,False,2,441
+"### || CHECK إبريق وأصبهان
+",000,False,000,False,False,False,2,3
+"### || CHECK أنبار وأرفاد وإرمينية
+",000,False,000,False,False,False,2,104
+"### || AUTO أرجان
+",000,False,000,False,False,False,2,93
+"### || AUTO أرجان
+",000,False,000,False,False,False,2,80
+"### || AUTO الآجر
+",000,False,000,False,False,False,2,58
+"### || AUTO الآجر
+",000,False,000,False,False,False,2,30
+"### || AUTO أيوب
+",000,False,000,False,False,False,2,105
+"### || AUTO إيوان
+",000,False,000,False,False,False,2,56
+"### || AUTO إيوان
+",000,False,000,False,False,False,2,15
+"### || AUTO آلوسة
+",000,False,000,False,False,False,2,71
+"### || AUTO أشنان
+",000,False,000,False,False,False,2,66
+"### || AUTO أربان
+",000,False,000,False,False,False,2,5
+"### || AUTO أربان
+",000,False,000,False,False,False,2,10
+"### || AUTO أربان
+",000,False,000,False,False,False,2,12
+"### || AUTO أربان
+",000,False,000,False,False,False,2,6
+"### || AUTO أرند
+",000,False,000,False,False,False,2,28
+"### || AUTO أيبلي
+",000,False,000,False,False,False,2,15
+"### || AUTO أيبلي
+",000,False,000,False,False,False,2,13
+"### || AUTO أيبلي
+",000,False,000,False,False,False,2,87
+"### || AUTO الأبلة
+",000,False,000,False,False,False,2,124
+"### || CHECK أوارة
+",000,False,000,False,False,False,2,15
+"### || AUTO أورى سلم
+",000,False,000,False,False,False,2,12
+"### || AUTO أورى سلم
+",000,False,000,False,False,False,2,4
+"### || AUTO أورى سلم
+",000,False,000,False,False,False,2,45
+"### || AUTO أوار
+",000,False,000,False,False,False,2,4
+"### || AUTO أوار
+",000,False,000,False,False,False,2,9
+"### || AUTO أوار
+",000,False,000,False,False,False,2,87
+"### || AUTO إيلياء
+",000,False,000,False,False,False,2,11
+"### || AUTO إيلياء
+",000,False,000,False,False,False,2,73
+"### || AUTO الآنك
+",000,False,000,False,False,False,2,103
+"### || AUTO الآنك
+",000,False,000,False,False,False,2,53
+"### || AUTO الأرز
+",000,False,000,False,False,False,2,30
+"### || AUTO الأرز
+",000,False,000,False,False,False,2,17
+"### || AUTO الأرز
+",000,False,000,False,False,False,2,14
+"### || AUTO الأرز
+",000,False,000,False,False,False,2,28
+"### || CHECK أردن وأورم
+",000,False,000,False,False,False,2,4
+"### || AUTO آزاذ
+",000,False,000,False,False,False,2,111
+"### || CHECK أستاذ وأسوار
+",000,False,000,False,False,False,2,19
+"### || AUTO أبنبم
+",000,False,000,False,False,False,2,194
+"### || CHECK حكم الهمزة إذا وقعت أولا في ما كان بعدها أربعة أحرف أصول
+",000,False,000,False,False,False,2,141
+"### || CHECK تحقير الأسكرجة
+",000,False,000,False,False,False,2,107
+"### || AUTO أذربيجان
+",000,False,000,False,False,False,2,19
+"### || AUTO أرسناس
+",000,False,000,False,False,False,2,24

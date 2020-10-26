@@ -1,0 +1,155 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK مقدمة المؤلف
+",000,False,000,False,False,False,1,344
+"### | AUTO باب ما إذا إيتلف من هذه الكلم الثلاث كان كلاما مستقلا
+",000,False,000,False,False,False,1,96
+"### | AUTO باب (حد) الإعراب
+",000,False,000,False,False,False,1,399
+"### | AUTO باب البناء
+",000,False,000,False,False,False,1,184
+"### | AUTO باب من أحكام أواخر الأسماء المعربة
+",000,False,000,False,False,False,1,329
+"### | AUTO باب التثنية والجمع
+",000,False,000,False,False,False,1,214
+"### | AUTO باب إعراب الأفعال
+",000,False,000,False,False,False,1,353
+"### | AUTO باب إعراب الأسماء
+",000,False,000,False,False,False,1,76
+"### | AUTO باب الابتداء
+",000,False,000,False,False,False,1,698
+"### | AUTO باب خبر المبتدإ
+",000,False,000,False,False,False,1,1178
+"### | AUTO باب من الابتداء بالأسماء الموصولة
+",000,False,000,False,False,False,1,351
+"### | AUTO باب الأخبار بالذي وبالألف واللام
+",000,False,000,False,False,False,1,592
+"### | AUTO باب الفاعل
+",000,False,000,False,False,False,1,387
+"### | AUTO باب الفعل المبني للمفعول به
+",000,False,000,False,False,False,1,401
+"### | AUTO باب الأفعال التي لا تنصرف
+",000,False,000,False,False,False,1,169
+"### | AUTO باب نعم وبئس
+",000,False,000,False,False,False,1,368
+"### | AUTO باب التعجب
+",000,False,000,False,False,False,1,327
+"### | AUTO باب العوامل الداخلة على الابتداء والخبر
+",000,False,000,False,False,False,1,592
+"### | AUTO باب ما PageV01P109
+",000,False,000,False,False,False,1,300
+"### | AUTO باب إن وأخواتها
+",000,False,000,False,False,False,1,554
+"### | AUTO باب من إن وأن
+",000,False,000,False,False,False,1,352
+"### | AUTO باب ظننت وأخواتها
+",000,False,000,False,False,False,1,352
+"### | AUTO باب الأسماء التي أعملت عمل الفعل
+",000,False,000,False,False,False,1,24
+"### | AUTO باب أسماء الفاعلين والمفعولين
+",000,False,000,False,False,False,1,498
+"### | AUTO باب الصفة المشبهة باسم الفاعل
+",000,False,000,False,False,False,1,401
+"### | AUTO باب المصادر التي أعملت عمل الفعل
+",000,False,000,False,False,False,1,562
+"### | AUTO باب الأسماء التي سميت بها الأفعال
+",000,False,000,False,False,False,1,241
+"### | AUTO باب الأسماء المنصوبة
+",000,False,000,False,False,False,1,222
+"### | AUTO باب المفعول به
+",000,False,000,False,False,False,1,315
+"### | AUTO باب الفعل الذي يتعدى إلى المفعولين
+",000,False,000,False,False,False,1,209
+"### | AUTO باب الفعل الذي يتعدى إلى ثلاثة مفعولين
+",000,False,000,False,False,False,1,295
+"### | AUTO باب المفعول فيه
+",000,False,000,False,False,False,1,358
+"### | AUTO باب الظروف من المكان
+",000,False,000,False,False,False,1,544
+"### | AUTO باب المفعول معه
+",000,False,000,False,False,False,1,154
+"### | AUTO باب المفعول له
+",000,False,000,False,False,False,1,86
+"### | AUTO باب ما انتصب على التشبيه بالمفعول
+",000,False,000,False,False,False,1,42
+"### | AUTO باب الحال
+",000,False,000,False,False,False,1,438
+"### | AUTO باب التمييز
+",000,False,000,False,False,False,1,143
+"### | AUTO باب الاستثناء
+",000,False,000,False,False,False,1,361
+"### | AUTO باب ما جاء بمعنى إلا من الكلم
+",000,False,000,False,False,False,1,255
+"### | AUTO باب الاستثناء المنقطع
+",000,False,000,False,False,False,1,312
+"### | AUTO باب تمييز الأعداد
+",000,False,000,False,False,False,1,300
+"### | AUTO باب كم
+",000,False,000,False,False,False,1,449
+"### | AUTO باب النداء
+",000,False,000,False,False,False,1,692
+"### | AUTO باب الترخيم
+",000,False,000,False,False,False,1,193
+"### | AUTO باب النفي بلا
+",000,False,000,False,False,False,1,301
+"### | AUTO باب النكرة المضافة
+",000,False,000,False,False,False,1,178
+"### | AUTO باب المنفي المضارع للمضاف
+",000,False,000,False,False,False,1,238
+"### | AUTO باب الأسماء المجرورة
+",000,False,000,False,False,False,1,462
+"### | AUTO باب حتى
+",000,False,000,False,False,False,1,106
+"### | AUTO باب ما يستعمل مرة حرف جر ومرة غير حرف جر
+",000,False,000,False,False,False,1,161
+"### | AUTO باب مذ ومنذ
+",000,False,000,False,False,False,1,200
+"### | AUTO باب القسم
+",000,False,000,False,False,False,1,248
+"### | AUTO باب الأسماء المجرورة بإضافة أسماء مثلها إليها
+",000,False,000,False,False,False,1,268
+"### | AUTO باب الإضافة التي ليست بمحضة
+",000,False,000,False,False,False,1,338
+"### | AUTO باب توابع الأسماء في إعرابها
+",000,False,000,False,False,False,1,148
+"### | AUTO باب الصفة الجارية على الموصوف
+",000,False,000,False,False,False,1,308
+"### | AUTO باب وصف المعرفة
+",000,False,000,False,False,False,1,174
+"### | AUTO باب عطف البيان
+",000,False,000,False,False,False,1,92
+"### | AUTO باب البدل
+",000,False,000,False,False,False,1,140
+"### | AUTO باب حروف العطف
+",000,False,000,False,False,False,1,725
+"### | AUTO باب ما لا ينصرف
+",000,False,000,False,False,False,1,109
+"### | AUTO باب ما كان على وزن الفعل
+",000,False,000,False,False,False,1,52
+"### | AUTO باب الصفة التي لا تنصرف
+",000,False,000,False,False,False,1,107
+"### | AUTO باب التأنيث
+",000,False,000,False,False,False,1,365
+"### | AUTO باب ما كان في آخره ألف ونون مضارعتان لألف التأنيث
+",000,False,000,False,False,False,1,110
+"### | AUTO باب التعريف
+",000,False,000,False,False,False,1,60
+"### | AUTO باب العدل
+",000,False,000,False,False,False,1,136
+"### | AUTO باب الجمع الذي لا ينصرف
+",000,False,000,False,False,False,1,134
+"### | AUTO باب الأسماء الأعجمية
+",000,False,000,False,False,False,1,73
+"### | AUTO باب الاسمين اللذين يجعلان اسما واحدا
+",000,False,000,False,False,False,1,100
+"### | AUTO باب إعراب الأفعال وبنائها
+",000,False,000,False,False,False,1,85
+"### | AUTO باب الأفعال المرفوعة
+",000,False,000,False,False,False,1,69
+"### | AUTO باب الأفعال المنصوبة
+",000,False,000,False,False,False,1,1064
+"### | AUTO باب الحروف الجازمة
+",000,False,000,False,False,False,1,143
+"### | AUTO باب المجازاة
+",000,False,000,False,False,False,1,334
+"### | AUTO باب النون الثقيلة والخفيفة
+",000,False,000,False,False,False,1,308

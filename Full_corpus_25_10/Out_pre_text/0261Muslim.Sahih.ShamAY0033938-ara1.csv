@@ -1,0 +1,2107 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK [بطاقة الكتاب]
+",000,False,000,False,False,False,1,265
+"### | CHECK [المجلد الأول]
+",000,False,000,False,False,False,1,60705
+"### || AUTO المقدمة
+",000,False,000,False,False,False,2,7561
+"### ||| AUTO 1- باب(1) الرواية عن الثقات وترك الكذابين
+",000,False,000,False,False,False,3,225
+"### ||| AUTO 2- باب في التحذير من الكذب على رسول الله صلى الله عليه وسلم (1)
+",000,False,000,False,False,False,3,240
+"### ||| AUTO 3- باب النهي عن الحديث بكل ما سمع
+",000,False,000,False,False,False,3,306
+"### ||| AUTO 4- باب النهي عن الرواية عن الضعفاء والكذابين ومن يرغب عن
+",000,False,000,False,False,False,3,606
+"### ||| AUTO 5- باب في أن الإسناد من الدين
+",000,False,000,False,False,False,3,378
+"### ||| AUTO 6- باب الكشف عن معايب رواة الحديث ونقلة الأخبار
+",000,False,000,False,False,False,3,3000
+"### || AUTO 1- كتاب الإيمان
+",000,False,000,False,False,False,2,35183
+"### ||| AUTO 1- باب بيان الإيمان والإسلام والإحسان
+",000,False,000,False,False,False,3,932
+"### ||| AUTO 2- باب السؤال عن الإسلام
+",000,False,000,False,False,False,3,419
+"### ||| AUTO 3- باب أعمال الجنة
+",000,False,000,False,False,False,3,463
+"### ||| AUTO 4- باب بني الإسلام على خمس
+",000,False,000,False,False,False,3,232
+"### ||| AUTO 5- باب الأمر بالإيمان بالله تعالى ورسوله صلى الله عليه وسلم
+",000,False,000,False,False,False,3,786
+"### ||| AUTO 6- باب الدعاء إلى الشهادتين وشرائع الإسلام
+",000,False,000,False,False,False,3,278
+"### ||| AUTO 7- باب أمرت أن أقاتل الناس حتى يقولوا لا إله إلا الله.
+",000,False,000,False,False,False,3,546
+"### ||| AUTO 8- باب دعوة الكافر إلى الإسلام
+",000,False,000,False,False,False,3,359
+"### ||| AUTO 9- باب من مات وهو يعلم أنه لا إله إلا الله
+",000,False,000,False,False,False,3,607
+"### ||| AUTO 10- باب حق الله على العباد
+",000,False,000,False,False,False,3,338
+"### ||| AUTO 11- باب من شهد أن لا إله إلا الله
+",000,False,000,False,False,False,3,602
+"### ||| AUTO 12- باب من رضي بالله ربا وبالإسلام دينا وبمحمد رسولا
+",000,False,000,False,False,False,3,69
+"### ||| AUTO 13- باب شعب الإيمان
+",000,False,000,False,False,False,3,365
+"### ||| AUTO 614- باب الإسلام قول وعمل
+",000,False,000,False,False,False,3,77
+"### ||| AUTO 15- باب أي الإسلام خير
+",000,False,000,False,False,False,3,232
+"### ||| AUTO 16- باب بيان خصال من اتصف بهن وجد حلاوة الإيمان
+",000,False,000,False,False,False,3,189
+"### ||| AUTO 17- باب محبة رسول الله صلى الله عليه وسلم أكثر من الأهل
+",000,False,000,False,False,False,3,116
+"### ||| AUTO 18- باب نفي الإيمان عمن لا يحب لأخيه وجاره ما يحب لنفسه
+",000,False,000,False,False,False,3,93
+"### ||| AUTO 19- باب من لا يأمن جاره بوائقه
+",000,False,000,False,False,False,3,55
+"### ||| AUTO 20- باب إكرام الجار الضيف ولزوم الصمت إلا عن الخير ذلك كله
+",000,False,000,False,False,False,3,227
+"### ||| AUTO 21- باب النهي عن المنكر من الإيمان
+",000,False,000,False,False,False,3,376
+"### ||| AUTO 22- باب الإيمان يمان
+",000,False,000,False,False,False,3,546
+"### ||| AUTO 23- باب بيان أن لا يدخل الجنة إلا المؤمنون وأن محبة
+",000,False,000,False,False,False,3,97
+"### ||| AUTO 24- باب بيان أن الدين النصيحة
+",000,False,000,False,False,False,3,252
+"### ||| AUTO 25- باب نفي الإيمان عن الزاني والسارق وشارب الخمر حين تلبسه
+",000,False,000,False,False,False,3,457
+"### ||| AUTO 26- باب بيان خصال المنافق
+",000,False,000,False,False,False,3,282
+"### ||| AUTO 27- باب من قال لأخيه يا كافر
+",000,False,000,False,False,False,3,111
+"### ||| AUTO 28- باب كفرمن ادعى لغير أبيه وهو يعلم
+",000,False,000,False,False,False,3,243
+"### ||| AUTO 29- باب سباب المسلم فسوق وقتاله كفر
+",000,False,000,False,False,False,3,138
+"### ||| AUTO 30- باب لا ترجعوا بعدي كفارا يضرب بعضكم رقاب بعض
+",000,False,000,False,False,False,3,189
+"### ||| AUTO 31- باب إطلاق الكفر على الطعن في النسب والنياحة على الميت
+",000,False,000,False,False,False,3,63
+"### ||| AUTO 32- باب كفر العبد الآبق
+",000,False,000,False,False,False,3,92
+"### ||| AUTO 33- باب إذا أبق العبد لم تقبل له صلاة
+",000,False,000,False,False,False,3,45
+"### ||| AUTO 34- باب بيان كفر من قال مطرنا بالنوء
+",000,False,000,False,False,False,3,309
+"### ||| AUTO 35- باب آية المؤمن حب الأنصار
+",000,False,000,False,False,False,3,229
+"### ||| AUTO 36- باب لا يحب عليا إلا المؤمن
+",000,False,000,False,False,False,3,65
+"### ||| AUTO 37- باب كفر العشير
+",000,False,000,False,False,False,3,199
+"### ||| AUTO 38- باب إذا قرأ ابن آدم السجدة
+",000,False,000,False,False,False,3,85
+"### ||| AUTO 39- باب بين الرجل وبين الشرك والكفر ترك الصلاة
+",000,False,000,False,False,False,3,89
+"### ||| AUTO 40- باب الإيمان بالله تعالى أفضل الأعمال
+",000,False,000,False,False,False,3,483
+"### ||| AUTO 41- باب ما جاء في الكبائر
+",000,False,000,False,False,False,3,494
+"### ||| AUTO 42- باب الكبر وبيانه
+",000,False,000,False,False,False,3,182
+"### ||| AUTO 43- باب من مات لا يشرك بالله شيئا
+",000,False,000,False,False,False,3,376
+"### ||| AUTO 44- باب تحريم قتل الكافر بعد أن قال لا إله إلا الله
+",000,False,000,False,False,False,3,747
+"### ||| AUTO 45- باب من حمل علينا السلاح
+",000,False,000,False,False,False,3,157
+"### ||| AUTO 46- باب من غشنا فليس منا
+",000,False,000,False,False,False,3,124
+"### ||| AUTO 47- باب براءة النبي صلى الله عليه وسلم ممن ضرب الخدود وشق
+",000,False,000,False,False,False,3,353
+"### ||| AUTO 48- باب لا يدخل الجنة نمام
+",000,False,000,False,False,False,3,179
+"### ||| AUTO 49- باب بيان الذين لا يكلمهم الله يوم القيامة
+",000,False,000,False,False,False,3,382
+"### ||| AUTO 50- باب من قتل نفسه بشيء
+",000,False,000,False,False,False,3,832
+"### ||| AUTO 51- باب غلظ تحريم الغلول وأنه لا يدخل الجنة إلا المؤمنون
+",000,False,000,False,False,False,3,280
+"### ||| AUTO 52- باب من غفر له بهجرته
+",000,False,000,False,False,False,3,166
+"### ||| AUTO 53- باب قبض أهل الإيمان
+",000,False,000,False,False,False,3,71
+"### ||| AUTO 54- باب الحث على المبادرة بالأعمال قبل تظاهر الفتن
+",000,False,000,False,False,False,3,65
+"### ||| AUTO 55- باب مخافة المؤمن أن يحبط عمله
+",000,False,000,False,False,False,3,246
+"### ||| AUTO 56- باب هل يؤاخذ بأعمال الجاهلية
+",000,False,000,False,False,False,3,130
+"### ||| AUTO 57- باب كون الإسلام يهدم ما قبله وكذا الهجرة والحج
+",000,False,000,False,False,False,3,631
+"### ||| AUTO 59- باب إن الشرك لظلم عظيم
+",000,False,000,False,False,False,3,129
+"### ||| AUTO 60- باب بيان أنه سبحانه وتعالى لم يكلف إلا ما يطاق
+",000,False,000,False,False,False,3,351
+"### ||| AUTO 61- باب تجاوز الله عن حديث النفس
+",000,False,000,False,False,False,3,157
+"### ||| AUTO 62- باب إذا هم العبد بحسنة
+",000,False,000,False,False,False,3,439
+"### ||| AUTO 63- باب بيان الوسوسة
+",000,False,000,False,False,False,3,646
+"### ||| AUTO 64- باب وعيد من اقتطع حق مسلم بيمين فاجرة بالنار
+",000,False,000,False,False,False,3,633
+"### ||| AUTO 65- باب من قتل دون ماله
+",000,False,000,False,False,False,3,185
+"### ||| AUTO 66- باب استحقاق الوالي الغاش لرعيته النار
+",000,False,000,False,False,False,3,265
+"### ||| AUTO 67- باب رفع الأمانة
+",000,False,000,False,False,False,3,188
+"### ||| AUTO 68- باب عرض الفتن على القلوب
+",000,False,000,False,False,False,3,338
+"### ||| AUTO 69- باب بدأ الإسلام غريبا
+",000,False,000,False,False,False,3,158
+"### ||| AUTO 70- باب ذهاب الإيمان آخر الزمان
+",000,False,000,False,False,False,3,69
+"### ||| AUTO 71- باب الاستسرار بالإيمان للخائف
+",000,False,000,False,False,False,3,79
+"### ||| AUTO 72- باب ، أو مسلم
+",000,False,000,False,False,False,3,316
+"### ||| AUTO 73- باب طمأنينة القلب
+",000,False,000,False,False,False,3,154
+"### ||| AUTO 74- باب الإيمان بالوحي
+",000,False,000,False,False,False,3,61
+"### ||| AUTO 75- باب وجوب إيمان أهل الكتاب برسالة الإسلام
+",000,False,000,False,False,False,3,221
+"### ||| AUTO 76- باب نزول عيسى ابن مريم
+",000,False,000,False,False,False,3,455
+"### ||| AUTO 77- باب بيان الزمن الذي لا يقبل فيه الإيمان
+",000,False,000,False,False,False,3,562
+"### ||| AUTO 78- باب بدء الوحي إلى رسول الله صلى الله عليه وسلم
+",000,False,000,False,False,False,3,834
+"### ||| AUTO 79- باب الإسراء والمعراج
+",000,False,000,False,False,False,3,2832
+"### ||| AUTO 80- باب : {ولقد رآه نزلة أخرى}
+",000,False,000,False,False,False,3,571
+"### ||| AUTO 81- باب نور أني أراه
+",000,False,000,False,False,False,3,108
+"### ||| AUTO 82- باب حجابه النور
+",000,False,000,False,False,False,3,182
+"### ||| AUTO 83- باب إثبات رؤية المؤمنين في الآخرة ربهم سبحانه وتعالى
+",000,False,000,False,False,False,3,1688
+"### ||| AUTO 84- باب بيان من يخرج من النار
+",000,False,000,False,False,False,3,3670
+"### ||| AUTO 85- باب بيان مكانته صلى الله عليه وسلم يوم القيامة
+",000,False,000,False,False,False,3,191
+"### ||| AUTO 86- باب اختباء النبي صلى الله عليه وسلم دعوة الشفاعة لأمته
+",000,False,000,False,False,False,3,549
+"### ||| AUTO 87- باب دعاء النبي صلى الله عليه وسلم لأمته وبكائه شفقة عليهم
+",000,False,000,False,False,False,3,129
+"### ||| AUTO 88- باب من مات في الجاهلية
+",000,False,000,False,False,False,3,46
+"### ||| AUTO 89- باب في قوله تعالى {وأنذر عشيرتك الأقربين}
+",000,False,000,False,False,False,3,566
+"### ||| AUTO 90- باب شفاعة النبي صلى الله عليه وسلم لأبي طالب والتخفيف عنه
+",000,False,000,False,False,False,3,223
+"### ||| AUTO 91- باب أهون أهل النار عذابا
+",000,False,000,False,False,False,3,208
+"### ||| AUTO 92- باب الدليل على أن من مات على الكفر لا ينفعه عمل
+",000,False,000,False,False,False,3,63
+"### ||| AUTO 93- باب موالاة المؤمنين ومقاطعة غيرهم والبراءة منهم
+",000,False,000,False,False,False,3,59
+"### ||| AUTO 94- باب دخول طوائف من المسلمين الجنة بغير حساب
+",000,False,000,False,False,False,3,717
+"### ||| AUTO 95- باب كون هذه الأمة نصف أهل الجنة
+",000,False,000,False,False,False,3,274
+"### | AUTO المجلد الثاني
+",000,False,000,False,False,False,1,67196
+"### | AUTO المجلد الثالث
+",000,False,000,False,False,False,1,53973
+"### || AUTO أبواب الجمعة.
+",000,False,000,False,False,False,2,5012
+"### ||| AUTO 230- باب من أتى الجمعة فليغتسل
+",000,False,000,False,False,False,3,309
+"### ||| AUTO 231- باب الغسل يوم الجمعة واجب على كل محتلم
+",000,False,000,False,False,False,3,48
+"### ||| AUTO 232- باب بدء الغسل
+",000,False,000,False,False,False,3,112
+"### ||| AUTO 233- باب الغسل والسواك والطيب يوم الجمعة
+",000,False,000,False,False,False,3,209
+"### ||| AUTO 234- باب غسل الجمعة كغسل الجنابة
+",000,False,000,False,False,False,3,88
+"### ||| AUTO 235- باب في الإنصات يوم الجمعة في الخطبة.
+",000,False,000,False,False,False,3,177
+"### ||| AUTO 236- باب في الساعة التي في يوم الجمعة.
+",000,False,000,False,False,False,3,317
+"### ||| AUTO 237- باب فضل يوم الجمعة.
+",000,False,000,False,False,False,3,99
+"### ||| AUTO 138- باب هداية هذه الأمة ليوم الجمعة.
+",000,False,000,False,False,False,3,367
+"### ||| AUTO 139- باب التبكير إلى الجمعة
+",000,False,000,False,False,False,3,279
+"### ||| AUTO 241- باب وقت صلاة الجمعة
+",000,False,000,False,False,False,3,259
+"### ||| AUTO 242- باب القعدة بين الخطبتين يوم الجمعة
+",000,False,000,False,False,False,3,98
+"### ||| AUTO 243- باب القيام في الخطبة
+",000,False,000,False,False,False,3,320
+"### ||| AUTO 244- باب التغليظ في ترك الجمعة.
+",000,False,000,False,False,False,3,68
+"### ||| AUTO 245- باب قصد الصلاة والخطبة
+",000,False,000,False,False,False,3,89
+"### ||| AUTO 246- باب صفة خطبته صلى الله عليه وسلم
+",000,False,000,False,False,False,3,405
+"### ||| AUTO 247- باب إطالة الصلاة وقصر الخطبة
+",000,False,000,False,False,False,3,72
+"### ||| AUTO 248- باب تعلم الخطبة
+",000,False,000,False,False,False,3,76
+"### ||| AUTO 249- باب القراءة في الخطبة
+",000,False,000,False,False,False,3,268
+"### ||| AUTO 250- باب الإشارة بالسباحة للخطيب
+",000,False,000,False,False,False,3,83
+"### ||| AUTO 251- باب من جاء والإمام يخطب صلى ركعتين قبل أن يجلس
+",000,False,000,False,False,False,3,340
+"### ||| AUTO 252- باب قطع الخطبة لتعليم رجل ثم العودة إليها
+",000,False,000,False,False,False,3,87
+"### ||| AUTO 253- باب القراءة في فجر الجمعة وفي الجمعة والعيدين
+",000,False,000,False,False,False,3,457
+"### ||| AUTO 254- باب الصلاة بعد الجمعة.
+",000,False,000,False,False,False,3,267
+"### || AUTO أبواب صلاة العيدين
+",000,False,000,False,False,False,2,1653
+"### ||| AUTO 256- باب جامع في صلاة العيدين
+",000,False,000,False,False,False,3,416
+"### ||| AUTO 257- باب الصلاة يوم العيد بغير أذان ولا إقامة
+",000,False,000,False,False,False,3,186
+"### ||| AUTO 258- باب صلاة العيدين قبل الخطبة
+",000,False,000,False,False,False,3,185
+"### ||| AUTO 259- باب خروج النساء والحيض إلى المصلى
+",000,False,000,False,False,False,3,134
+"### ||| AUTO 160- باب ترك الصلاة قبل العيد وبعدها
+",000,False,000,False,False,False,3,84
+"### ||| AUTO 261- باب ما يقرأ به في صلاة العيدين.
+",000,False,000,False,False,False,3,103
+"### || AUTO أبواب الإستسقاء
+",000,False,000,False,False,False,2,4055
+"### ||| AUTO 263- باب الخروج إلى المصلى ، واستقبال القبلة ، وتحويل
+",000,False,000,False,False,False,3,198
+"### ||| AUTO 264- باب رفع اليدين بالدعاء في الاستسقاء.
+",000,False,000,False,False,False,3,119
+"### ||| AUTO 265- باب الإشارة بظهر الكفين إلى السماء
+",000,False,000,False,False,False,3,43
+"### ||| AUTO 266- باب الدعاء في الاستسقاء
+",000,False,000,False,False,False,3,485
+"### ||| AUTO 267- باب التعوذ عند رؤية الريح والغيم ، والفرح بالمطر.
+",000,False,000,False,False,False,3,285
+"### ||| AUTO 268- باب في ريح الصبا والدبور.
+",000,False,000,False,False,False,3,106
+"### || AUTO 4- كتاب الجنائز.
+",000,False,000,False,False,False,2,9208
+"### ||| AUTO 1- باب لقنوا موتاكم لا إله إلا الله
+",000,False,000,False,False,False,3,128
+"### ||| AUTO 2- باب ما يقال عند المصيبة.
+",000,False,000,False,False,False,3,308
+"### ||| AUTO 3- باب ما يقال عند المريض والميت.
+",000,False,000,False,False,False,3,91
+"### ||| AUTO 4- باب في إغماض الميت والدعاء له إذا حضر.
+",000,False,000,False,False,False,3,153
+"### ||| AUTO 5- باب في شخوص بصر الميت يتبع نفسه.
+",000,False,000,False,False,False,3,69
+"### ||| AUTO 6- باب البكاء على الميت.
+",000,False,000,False,False,False,3,339
+"### ||| AUTO 7- باب في عيادة المرضى.
+",000,False,000,False,False,False,3,119
+"### ||| AUTO 8- باب الصبر عند الصدمة الأولى
+",000,False,000,False,False,False,3,174
+"### ||| AUTO 9- باب الميت يعذب ببكاء أهله عليه.
+",000,False,000,False,False,False,3,1295
+"### ||| AUTO 10- باب ماجاء في النياحة
+",000,False,000,False,False,False,3,437
+"### ||| AUTO 11- باب نهي النساء عن اتباع الجنائز من غير عزيمة
+",000,False,000,False,False,False,3,74
+"### ||| AUTO 12- باب في غسل الميت.
+",000,False,000,False,False,False,3,454
+"### ||| AUTO 13- باب في كفن الميت.
+",000,False,000,False,False,False,3,400
+"### ||| AUTO 14- باب فى تسجية الميت.
+",000,False,000,False,False,False,3,91
+"### ||| AUTO 15- باب في تحسين الكفن
+",000,False,000,False,False,False,3,84
+"### ||| AUTO 16- باب الإسراع بالجنازة.
+",000,False,000,False,False,False,3,168
+"### ||| AUTO 17- باب فضل الصلاة على الجنازة واتباعها.
+",000,False,000,False,False,False,3,607
+"### ||| AUTO 18- باب من صلى عليه مئة من المسلمين
+",000,False,000,False,False,False,3,80
+"### ||| AUTO 19- باب من صلى عليه أربعون لا يشركون بالله شيئا
+",000,False,000,False,False,False,3,123
+"### ||| AUTO 20- باب من أثنى عليه المؤمنون بالخير أو بالشر
+",000,False,000,False,False,False,3,176
+"### ||| AUTO 21- باب ما جاء في مستريح ومستراح منه.
+",000,False,000,False,False,False,3,132
+"### ||| AUTO 22- باب ماجاء في النعي والتكبير والصفوف على الجنازة
+",000,False,000,False,False,False,3,343
+"### ||| AUTO 23- باب الصلاة على القبر بعد الدفن
+",000,False,000,False,False,False,3,408
+"### ||| AUTO 24- باب القيام للجنازة.
+",000,False,000,False,False,False,3,533
+"### ||| AUTO 25- باب ترك القيام للجنازة
+",000,False,000,False,False,False,3,237
+"### ||| AUTO 26- باب الدعاء للميت في الصلاة.
+",000,False,000,False,False,False,3,264
+"### ||| AUTO 27- باب أين يكون الإمام من المرأة
+",000,False,000,False,False,False,3,179
+"### ||| AUTO 28- باب الانصراف من الجنازة مشاة وركبانا
+",000,False,000,False,False,False,3,135
+"### ||| AUTO 29- باب في اللحد ونصب اللبن على الميت.
+",000,False,000,False,False,False,3,60
+"### ||| AUTO 30- باب جعل القطيفة في القبر.
+",000,False,000,False,False,False,3,76
+"### ||| AUTO 31- باب الأمر بتسوية القبر.
+",000,False,000,False,False,False,3,163
+"### ||| AUTO 32- باب النهي عن تجصيص القبر والبناء عليه
+",000,False,000,False,False,False,3,266
+"### ||| AUTO 34- باب الصلاة على الجنازة في المسجد.
+",000,False,000,False,False,False,3,260
+"### ||| AUTO 35- باب ما يقال عند دخول القبور والدعاء لأهلها.
+",000,False,000,False,False,False,3,456
+"### ||| AUTO 36- باب استئذان النبي صلى الله عليه وسلم ربه عز وجل في
+",000,False,000,False,False,False,3,122
+"### ||| AUTO 37- باب الأمر بزيارة القبور
+",000,False,000,False,False,False,3,191
+"### || AUTO 5- كتاب الزكاة.
+",000,False,000,False,False,False,2,17014
+"### ||| AUTO 1- باب ما ليس فيما دونه صدقة
+",000,False,000,False,False,False,3,408
+"### ||| AUTO 2- باب ما فيه العشر ، أو نصف العشر.
+",000,False,000,False,False,False,3,78
+"### ||| AUTO 3- باب ليس على المسلم في عبده ولا فرسه صدقة
+",000,False,000,False,False,False,3,146
+"### ||| AUTO 4- باب ليس في العبد صدقة إلا صدقة الفطر
+",000,False,000,False,False,False,3,54
+"### ||| AUTO 5- باب من احتسب أدرعه وأعتاده في سبيل الله
+",000,False,000,False,False,False,3,99
+"### ||| AUTO 6- باب زكاة الفطر
+",000,False,000,False,False,False,3,625
+"### ||| AUTO 7- باب الأمر بإخراج زكاة الفطر قبل الصلاة العيد
+",000,False,000,False,False,False,3,84
+"### ||| AUTO 8- باب إثم مانع الزكاة.
+",000,False,000,False,False,False,3,1137
+"### ||| AUTO 9- باب إرضاء المصدقين
+",000,False,000,False,False,False,3,117
+"### ||| AUTO 10- باب إنفاق المال في كل وجه
+",000,False,000,False,False,False,3,630
+"### ||| AUTO 11- باب في الكانزين
+",000,False,000,False,False,False,3,259
+"### ||| AUTO 12- باب أنفق أنفق عليك
+",000,False,000,False,False,False,3,150
+"### ||| AUTO 13- باب أفضل دينار ينفقه الرجل
+",000,False,000,False,False,False,3,151
+"### ||| AUTO 14- باب من حبس عمن يملك قوته
+",000,False,000,False,False,False,3,69
+"### ||| AUTO 15- باب النفقة على النفس والأهل والأقارب
+",000,False,000,False,False,False,3,379
+"### ||| AUTO 16- باب الصدقة على الزوج والأيتام في الحجر
+",000,False,000,False,False,False,3,332
+"### ||| AUTO 17- باب الاحتساب في النفقة على الأهل
+",000,False,000,False,False,False,3,78
+"### ||| AUTO 18- باب صلة الأم المشركة
+",000,False,000,False,False,False,3,95
+"### ||| AUTO 19- باب الصدقة على الميت
+",000,False,000,False,False,False,3,105
+"### ||| AUTO 20- باب كل معروف صدقة
+",000,False,000,False,False,False,3,528
+"### ||| AUTO 21- باب في المنفق والممسك.
+",000,False,000,False,False,False,3,61
+"### ||| AUTO 22- باب الترغيب في الصدقة قبل أن لا يوجد من يقبلها.
+",000,False,000,False,False,False,3,241
+"### ||| AUTO 23- باب ما يخرج من الأرض من الذهب والفضة
+",000,False,000,False,False,False,3,80
+"### ||| AUTO 24- باب قبول الصدقة من الكسب الطيب وتربيتها.
+",000,False,000,False,False,False,3,289
+"### ||| AUTO 25- باب اتقوا النار ولو بشق تمرة
+",000,False,000,False,False,False,3,275
+"### ||| AUTO 26- باب من سن في الإسلام سنة حسنة
+",000,year,000,False,False,False,3,380
+"### ||| AUTO 27- باب الذين يلمزون المطوعين من المؤمنين في الصدقات
+",000,False,000,False,False,False,3,118
+"### ||| AUTO 28- باب فضل المنيحة.
+",000,False,000,False,False,False,3,88
+"### ||| AUTO 29- باب مثل المنفق والبخيل.
+",000,False,000,False,False,False,3,394
+"### ||| AUTO 31- باب أجر الخازن الأمين ، والمرأة إذا تصدقت من بيت زوجها
+",000,False,000,False,False,False,3,218
+"### ||| AUTO 32- باب ما أنفق العبد من مال مولاه.
+",000,False,000,False,False,False,3,120
+"### ||| AUTO 33- باب ما أنفقت المرأة من كسب زوجها من غير أمره
+",000,False,000,False,False,False,3,76
+"### ||| AUTO 34- باب من أنفق زوجين في سبيل الله
+",000,False,000,False,False,False,3,247
+"### ||| AUTO 35- باب فضل من أطعم مسكينا
+",000,False,000,False,False,False,3,102
+"### ||| AUTO 36- باب الأمر بالصدقة والنهي عن الإحصاء
+",000,False,000,False,False,False,3,204
+"### ||| AUTO 37- باب الحث على الهبة ، ولو بالقليل
+",000,False,000,False,False,False,3,54
+"### ||| AUTO 38- باب فضل صدقة السر
+",000,False,000,False,False,False,3,147
+"### ||| AUTO 39- باب أي الصدقة أعظم أجرا
+",000,False,000,False,False,False,3,151
+"### ||| AUTO 40- باب اليد العليا خير من اليد السفلى
+",000,False,000,False,False,False,3,244
+"### ||| AUTO 41- باب ما جاء في المسألة
+",000,False,000,False,False,False,3,1288
+"### ||| AUTO 42- باب ما جاء في الحرص على المال
+",000,False,000,False,False,False,3,181
+"### ||| AUTO 43- باب لو كان لابن آدم واديان من مال
+",000,False,000,False,False,False,3,346
+"### ||| AUTO 44- باب ليس الغنى عن كثرة العرض.
+",000,False,000,False,False,False,3,47
+"### ||| AUTO 45- باب تخوف ما يخرج من زهرة الدنيا.
+",000,False,000,False,False,False,3,441
+"### ||| AUTO 46- باب فضل التعفف والصبر.
+",000,False,000,False,False,False,3,94
+"### ||| AUTO 47- باب في الكفاف والقناعة.
+",000,False,000,False,False,False,3,111
+"### ||| AUTO 48- باب إعطاء من سأل بفحش وغلظة.
+",000,False,000,False,False,False,3,401
+"### ||| AUTO 50- باب إعطاء من يخاف على إيمانه.
+",000,False,000,False,False,False,3,250
+"### ||| AUTO 51- باب إعطاء المؤلفة قلوبهم على الإسلام وتصبر من قوي
+",000,False,000,False,False,False,3,3489
+"### ||| AUTO 52- باب لا تحل الصدقة لمحمد ولا لآل محمد صلى الله عليه وسلم
+",000,False,000,False,False,False,3,736
+"### ||| AUTO 53- باب إباحة الهدية للنبي صلى الله عليه وسلم.
+",000,False,000,False,False,False,3,419
+"### ||| AUTO 54- باب قبول النبي صلى الله عليه وسلم الهدية ورده الصدقة.
+",000,False,000,False,False,False,3,56
+"### ||| AUTO 55- باب الدعاء لمن أتى بصدقته.
+",000,False,000,False,False,False,3,105
+"### | AUTO المجلد الرابع
+",000,False,000,False,False,False,1,65734
+"### || AUTO 7- كتاب الحج.
+",000,False,000,False,False,False,2,38208
+"### ||| AUTO 1- باب ما يلبس المحرم
+",000,False,000,False,False,False,3,376
+"### ||| AUTO 2- باب المحرم يغسل الخلوق عنه
+",000,False,000,False,False,False,3,599
+"### ||| AUTO 3- باب مواقيت الحج والعمرة.
+",000,False,000,False,False,False,3,531
+"### ||| AUTO 4- باب التلبية
+",000,False,000,False,False,False,3,390
+"### ||| AUTO 5- باب إهلال النبي صلى الله عليه وسلم
+",000,False,000,False,False,False,3,453
+"### ||| AUTO 6- باب الصلاة في مسجد ذي الحليفة.
+",000,False,000,False,False,False,3,61
+"### ||| AUTO 7- باب الطيب للمحرم عند الإحرام.
+",000,False,000,False,False,False,3,962
+"### ||| AUTO 8- باب أحكام الصيد للمحرم
+",000,False,000,False,False,False,3,1247
+"### ||| AUTO 9- باب ما يقتل من الدواب في الحل والحرم.
+",000,False,000,False,False,False,3,818
+"### ||| AUTO 10- باب في المحرم يؤذيه القمل في رأسه
+",000,False,000,False,False,False,3,632
+"### ||| AUTO 11- باب الحجامة للمحرم
+",000,False,000,False,False,False,3,89
+"### ||| AUTO 12- باب مداواة المحرم عينيه
+",000,False,000,False,False,False,3,144
+"### ||| AUTO 13- باب غسل المحرم رأسه
+",000,False,000,False,False,False,3,203
+"### ||| AUTO 14- باب ما يفعل بالمحرم إذا مات.
+",000,False,000,False,False,False,3,675
+"### ||| AUTO 15- باب اشتراط المحرم
+",000,False,000,False,False,False,3,321
+"### ||| AUTO 16- باب إحرام النفساء
+",000,False,000,False,False,False,3,124
+"### ||| AUTO 17- باب بيان وجوه الإحرام والجمع بين العمرة والحج
+",000,False,000,False,False,False,3,3418
+"### ||| AUTO 81- باب حجة النبي صلى الله عليه وسلم.
+",000,False,000,False,False,False,3,1281
+"### ||| AUTO 19- باب {ثم أفيضوا من حيث أفاض الناس}
+",000,False,000,False,False,False,3,224
+"### ||| AUTO 20- باب التمتع بالعمرة إلى الحج
+",000,False,000,False,False,False,3,4733
+"### ||| AUTO 21- باب بيان عدد عمر النبي صلى الله عليه وسلم وزمانهن.
+",000,False,000,False,False,False,3,381
+"### ||| AUTO 22- باب فضل العمرة في رمضان.
+",000,False,000,False,False,False,3,140
+"### ||| AUTO 23- باب في دخول مكة والخروج منها
+",000,False,000,False,False,False,3,171
+"### ||| AUTO 24- باب المبيت بذي طوى والاغتسال لدخول مكة نهارا
+",000,False,000,False,False,False,3,249
+"### ||| AUTO 25- باب ما جاء في الرمل والمشي في الطواف
+",000,False,000,False,False,False,3,738
+"### ||| AUTO 26- باب استلام الحجر والركن اليماني
+",000,False,000,False,False,False,3,260
+"### ||| AUTO 27- باب تقبيل الحجر
+",000,False,000,False,False,False,3,304
+"### ||| AUTO 28- باب الطواف على بعير واستلام الحجر بمحجن
+",000,False,000,False,False,False,3,234
+"### ||| AUTO 29- باب طواف المرأة إن اشتكت من وراء الناس وهي راكبة
+",000,False,000,False,False,False,3,75
+"### ||| AUTO 30- باب ما جاء في السعي بين الصفا والمروة
+",000,False,000,False,False,False,3,693
+"### ||| AUTO 31- باب التلبية حتى رمي جمرة العقبة
+",000,False,000,False,False,False,3,464
+"### ||| AUTO 32- باب التلبية والتكبير في الذهاب من منى إلى عرفات
+",000,False,000,False,False,False,3,252
+"### ||| AUTO 33- باب الإفاضة من عرفات إلى المزدلفة والجمع بين المغرب
+",000,False,000,False,False,False,3,883
+"### ||| AUTO 34- باب التغليس بصلاة الصبح يوم النحر بالمزدلفة
+",000,False,000,False,False,False,3,86
+"### ||| AUTO 35- باب تقديم ضعفة الأهل من مزدلفة إلى منى ليلا
+",000,False,000,False,False,False,3,684
+"### ||| AUTO 36- باب رمي جمرة العقبة من بطن الوادي
+",000,False,000,False,False,False,3,341
+"### ||| AUTO 37- باب رمي جمرة العقبة راكبا
+",000,False,000,False,False,False,3,226
+"### ||| AUTO 38- باب رمي الجمرة بمثل حصى الخذف
+",000,False,000,False,False,False,3,49
+"### ||| AUTO 39- باب بيان وقت الرمي.
+",000,False,000,False,False,False,3,70
+"### ||| AUTO 40- باب رمي الجمار وتر
+",000,False,000,False,False,False,3,53
+"### ||| AUTO 41- باب الحلق والتقصير.
+",000,False,000,False,False,False,3,322
+"### ||| AUTO 42- باب كيف حلق رسول الله صلى الله عليه وسلم رأسه
+",000,False,000,False,False,False,3,293
+"### ||| AUTO 43- باب من حلق قبل النحر ، أو نحر قبل الرمي.
+",000,False,000,False,False,False,3,576
+"### ||| AUTO 44- باب طواف الإفاضة
+",000,False,000,False,False,False,3,60
+"### ||| AUTO 45- باب حكم النزول بالأبطح
+",000,False,000,False,False,False,3,531
+"### ||| AUTO 46- باب الإذن لأصحاب السقاية بالمبيت بمكة ليالي منى
+",000,False,000,False,False,False,3,102
+"### ||| AUTO 47- باب سقاية الحاج
+",000,False,000,False,False,False,3,96
+"### ||| AUTO 48- باب في الصدقة بلحوم الهدي وجلودها وجلالها.
+",000,False,000,False,False,False,3,233
+"### ||| AUTO 49- باب الاشتراك في الهدي
+",000,False,000,False,False,False,3,284
+"### ||| AUTO 50- باب ذبح الرجل عن نسائه
+",000,False,000,False,False,False,3,93
+"### ||| AUTO 51- باب نحر البدن قياما مقيدة
+",000,False,000,False,False,False,3,46
+"### ||| AUTO 52- باب من أرسل بالهدي إلى البيت وأقام ببلده وفتل الهدي
+",000,False,000,False,False,False,3,645
+"### ||| AUTO 53- باب ركوب البدن
+",000,False,000,False,False,False,3,328
+"### ||| AUTO 54- باب ما يفعل بالهدي إذا عطب في الطريق.
+",000,False,000,False,False,False,3,239
+"### ||| AUTO 55- باب طواف الوداع وسقوطه عن الحائض
+",000,False,000,False,False,False,3,166
+"### ||| AUTO 56- باب إذا حاضت المرأة بعد ما أفاضت
+",000,False,000,False,False,False,3,447
+"### ||| AUTO 57- باب دخول الكعبة
+",000,False,000,False,False,False,3,698
+"### ||| AUTO 58- باب بناء الكعبة
+",000,False,000,False,False,False,3,1087
+"### ||| AUTO 59- باب الحج عمن لا يستطيع الثبوت على الراحلة
+",000,False,000,False,False,False,3,151
+"### ||| AUTO 60- باب حج الصبيان
+",000,False,000,False,False,False,3,156
+"### ||| AUTO 61- باب فرض الحج مرة في العمر.
+",000,False,000,False,False,False,3,95
+"### ||| AUTO 62- باب سفر المرأة
+",000,False,000,False,False,False,3,726
+"### ||| AUTO 63- باب الذكر والدعاء عند السفر
+",000,False,000,False,False,False,3,211
+"### ||| AUTO 64- باب مايقول إذا قفل من حرب أو حج أو عمرة
+",000,False,000,False,False,False,3,234
+"### ||| AUTO 65- باب النزول بذي الحليفة إذا رجع من مكة
+",000,False,000,False,False,False,3,252
+"### ||| AUTO 66- باب لا يحج البيت مشرك ولا يطوف بالبيت عريان
+",000,False,000,False,False,False,3,110
+"### ||| AUTO 67- باب فضل يوم عرفة
+",000,False,000,False,False,False,3,71
+"### ||| AUTO 68- باب فضل العمرة إلى العمرة والحج المبرور
+",000,False,000,False,False,False,3,128
+"### ||| AUTO 69- باب من حج فلم يرفث ولم يفسق
+",000,False,000,False,False,False,3,120
+"### ||| AUTO 70- باب نزول النبي صلى الله عليه وسلم بمكة
+",000,False,000,False,False,False,3,193
+"### ||| AUTO 71- باب كم يقيم المهاجر بمكة بعد قضاء نسكه
+",000,False,000,False,False,False,3,242
+"### ||| AUTO 72- باب تحريم مكة
+",000,False,000,False,False,False,3,589
+"### ||| AUTO 73- باب النهي عن حمل السلاح بمكة
+",000,False,000,False,False,False,3,40
+"### ||| AUTO 74- باب دخول مكة عام الفتح.
+",000,False,000,False,False,False,3,252
+"### ||| AUTO 75- باب تحريم المدينة وفضلها
+",000,False,000,False,False,False,3,1757
+"### ||| AUTO 76- باب سكنى المدينة والصبر على لأوائها
+",000,False,000,False,False,False,3,545
+"### ||| AUTO 77- باب لا يدخل المدينة الطاعون ولا الدجال
+",000,False,000,False,False,False,3,92
+"### ||| AUTO 78- باب المدينة تنفي الخبث
+",000,False,000,False,False,False,3,323
+"### ||| AUTO 79- باب من أراد أهل المدينة بسوء
+",000,False,000,False,False,False,3,326
+"### ||| AUTO 80- باب الترغيب في المدينة عند فتح الأمصار.
+",000,False,000,False,False,False,3,164
+"### ||| AUTO 81- باب في المدينة حين يتركها أهلها.
+",000,False,000,False,False,False,3,149
+"### ||| AUTO 82- باب مابين البيت والمنبر
+",000,False,000,False,False,False,3,154
+"### ||| AUTO 83- باب أحد جبل يحبنا ونحبه.
+",000,False,000,False,False,False,3,146
+"### ||| AUTO 84- باب فضل الصلاة بمسجدي مكة والمدينة.
+",000,False,000,False,False,False,3,591
+"### ||| AUTO 85- باب لا تشد الرحال إلا إلى ثلاثة مساجد.
+",000,False,000,False,False,False,3,125
+"### ||| AUTO 86- باب بيان المسجد الذي أسس على التقوى
+",000,False,000,False,False,False,3,140
+"### || AUTO 8- كتاب النكاح.
+",000,False,000,False,False,False,2,10538
+"### ||| AUTO 1- باب من استطاع منكم الباءة فليتزوج
+",000,False,000,False,False,False,3,327
+"### ||| AUTO 2- باب النكاح من سنته صلى الله عليه وسلم
+",000,False,000,False,False,False,3,87
+"### ||| AUTO 3- باب النهي عن التبتل
+",000,False,000,False,False,False,3,142
+"### ||| AUTO 4- باب من أبصر امرأة فوقعت في قلبه
+",000,False,000,False,False,False,3,159
+"### ||| AUTO 5- باب نكاح المتعة ونسخه وتحريمه
+",000,False,000,False,False,False,3,1510
+"### ||| AUTO 6- باب تحريم الجمع بين المرأة وعمتها ، أو خالتها في النكاح.
+",000,False,000,False,False,False,3,429
+"### ||| AUTO 7- باب لا ينكح المحرم ولا ينكح ولا يخطب
+",000,False,000,False,False,False,3,324
+"### ||| AUTO 8- باب تزوج رسول الله صلى الله عليه وسلم ميمونة وهو محرم
+",000,False,000,False,False,False,3,107
+"### ||| AUTO 9- باب ما جاء أن رسول الله صلى الله عليه وسلم تزوجها وهو حلال
+",000,False,000,False,False,False,3,59
+"### ||| AUTO 10- باب لا يخطب الرجل على خطبة أخيه
+",000,False,000,False,False,False,3,436
+"### ||| AUTO 11- باب النهي عن الشغار
+",000,False,000,False,False,False,3,259
+"### ||| AUTO 12- باب الوفاء بالشروط في النكاح.
+",000,False,000,False,False,False,3,91
+"### ||| AUTO 13- باب الأمر والإذن للبكر والثيب في النكاح
+",000,False,000,False,False,False,3,352
+"### ||| AUTO 14- باب تزويج الأب ابنته الصغيرة
+",000,False,000,False,False,False,3,254
+"### ||| AUTO 15- باب استحباب التزويج في شوال
+",000,False,000,False,False,False,3,86
+"### ||| AUTO 16- باب النظر إلى المرأة قبل الزواج
+",000,False,000,False,False,False,3,159
+"### ||| AUTO 17- باب التزويج على سور من الفرآن
+",000,False,000,False,False,False,3,302
+"### ||| AUTO 18- باب التزويج على خمسمئة درهم
+",000,False,000,False,False,False,3,96
+"### ||| AUTO 19- باب التزويج على وزن نواة من ذهب
+",000,False,000,False,False,False,3,314
+"### ||| AUTO 20- باب التزويج على العتق
+",000,False,000,False,False,False,3,373
+"### ||| AUTO 21- باب فضل الذي يعتق جاريته ثم يتزوجها
+",000,False,000,False,False,False,3,48
+"### ||| AUTO 22- باب وليمة العرس
+",000,False,000,False,False,False,3,1529
+"### ||| AUTO 23- باب الأمر بإجابة الداعي إلى دعوة.
+",000,False,000,False,False,False,3,432
+"### ||| AUTO 24- باب شر الطعام طعام الوليمة
+",000,False,000,False,False,False,3,198
+"### ||| AUTO 25- باب لا تحل المطلقة ثلاثا لمطلقها حتى تنكح زوجا غيره ويطأها
+",000,False,000,False,False,False,3,447
+"### ||| AUTO 26- باب ما يقوله الرجل إذا أتى أهله
+",000,False,000,False,False,False,3,133
+"### ||| AUTO 27- باب إذا أتى الرجل امرأته من دبرها في قبلها
+",000,False,000,False,False,False,3,214
+"### ||| AUTO 28- باب إذا باتت المرأة هاجرة فراش زوجها
+",000,False,000,False,False,False,3,181
+"### ||| AUTO 29- باب من أفشى سر امرأته
+",000,False,000,False,False,False,3,116
+"### ||| AUTO 20- باب العزل.
+",000,False,000,False,False,False,3,976
+"### ||| AUTO 31- باب تحريم وطء الحامل المسبية.
+",000,False,000,False,False,False,3,105
+"### || AUTO أبواب الرضاع.
+",000,False,000,False,False,False,2,5267
+"### ||| AUTO 33- باب يحرم من الرضاعة ما يحرم من الولادة.
+",000,False,000,False,False,False,3,171
+"### ||| AUTO 34- باب حكم العم من الرضاعة
+",000,False,000,False,False,False,3,532
+"### ||| AUTO 35- باب تحريم ابنة الأخ من الرضاعة.
+",000,False,000,False,False,False,3,302
+"### ||| AUTO 36- باب تحريم الربيبة ، وأخت المرأة.
+",000,False,000,False,False,False,3,324
+"### ||| AUTO 37- باب في المصة والمصتين.
+",000,False,000,False,False,False,3,366
+"### ||| AUTO 38- باب التحريم بخمس رضعات.
+",000,False,000,False,False,False,3,115
+"### ||| AUTO 39- باب رضاعة الكبير.
+",000,False,000,False,False,False,3,562
+"### ||| AUTO 40- باب إنما الرضاعة من المجاعة.
+",000,False,000,False,False,False,3,135
+"### ||| AUTO 41- باب نزول (والمحصنات من النساء}
+",000,False,000,False,False,False,3,225
+"### ||| AUTO 42- باب الولد للفراش
+",000,False,000,False,False,False,3,278
+"### ||| AUTO 43- باب القائف
+",000,False,000,False,False,False,3,212
+"### ||| AUTO 44- باب العدل بين النساء
+",000,False,000,False,False,False,3,272
+"### ||| AUTO 45- باب إذا تزوج البكر على الثيب والثيب على البكر
+",000,False,000,False,False,False,3,97
+"### ||| AUTO 46- باب قسمة النبي صلى الله عليه وسلم بين نسائه
+",000,False,000,False,False,False,3,135
+"### ||| AUTO 47- باب المرأة تهب يومها لضرتها
+",000,False,000,False,False,False,3,127
+"### ||| AUTO 48- باب المرأة تهب نفسها
+",000,False,000,False,False,False,3,108
+"### ||| AUTO 49- باب إذا لم يقسم الرجل لإحدى نسائه
+",000,False,000,False,False,False,3,116
+"### ||| AUTO 50- باب فاظفر بذات الدين
+",000,False,000,False,False,False,3,137
+"### ||| AUTO 51- باب نكاح البكر.
+",000,False,000,False,False,False,3,632
+"### ||| AUTO 52- باب خير متاع الدنيا المرأة الصالحة.
+",000,False,000,False,False,False,3,56
+"### ||| AUTO 53- باب الوصية بالنساء.
+",000,False,000,False,False,False,3,185
+"### ||| AUTO 54- باب لا يبغض مؤمن مؤمنة
+",000,False,000,False,False,False,3,89
+"### || AUTO 9- كتاب الطلاق.
+",000,False,000,False,False,False,2,7595
+"### ||| AUTO 1- باب طلق طلاق
+",000,False,000,False,False,False,3,1311
+"### ||| AUTO 2- باب طلاق الثلاث.
+",000,False,000,False,False,False,3,190
+"### ||| AUTO 3- باب إذا حرم الرجل عليه امرأته
+",000,False,000,False,False,False,3,447
+"### ||| AUTO 5- باب من خير نسائه
+",000,False,000,False,False,False,3,639
+"### ||| AUTO 6-باب اعتزال النساء
+",000,False,000,False,False,False,3,1942
+"### ||| AUTO 7- باب المطلقة ثلاثا لا نفقة لها ولا سكنى
+",000,False,000,False,False,False,3,1664
+"### ||| AUTO 8- باب خروج المعتدة
+",000,False,000,False,False,False,3,83
+"### ||| AUTO 9- باب {وأولات الأحمال أجلهن أن يضعن حملهن}
+",000,False,000,False,False,False,3,338
+"### || AUTO 11- كتاب اللعان.
+",000,False,000,False,False,False,2,2138
+"### ||| AUTO 12- باب غيرة الرجل على أهله
+",000,False,000,False,False,False,3,319
+"### | AUTO المجلد الخامس
+",000,False,000,False,False,False,1,60269
+"### || AUTO 11- كتاب البيوع.
+",000,False,000,False,False,False,2,17918
+"### ||| AUTO 1- باب النهي عن بيع الملامسة والمنابذة
+",000,False,000,False,False,False,3,300
+"### ||| AUTO 2- باب النهي عن بيع الحصاة وعن بيع الغرر
+",000,False,000,False,False,False,3,66
+"### ||| AUTO 3- باب النهي عن بيع حبل الحبلة
+",000,False,000,False,False,False,3,99
+"### ||| AUTO 4- باب لا يبع بعضكم على بيع بعض
+",000,False,000,False,False,False,3,402
+"### ||| AUTO 5- باب النهي عن تلقي الجلب
+",000,False,000,False,False,False,3,207
+"### ||| AUTO 6- باب النهي عن أن يبيع حاضر لباد
+",000,False,000,False,False,False,3,256
+"### ||| AUTO 7- باب من اشترى شاة مصراة
+",000,False,000,False,False,False,3,263
+"### ||| AUTO 8- باب من ابتاع طعاما فلا يبعه حتى يستوفيه
+",000,False,000,False,False,False,3,705
+"### ||| AUTO 9- باب النهي عن بيع صبرة التمر لا يعلم مكيلتها بالكيل المسمى
+",000,False,000,False,False,False,3,96
+"### ||| AUTO 10- باب البيعان بالخيار
+",000,False,000,False,False,False,3,352
+"### ||| AUTO 11- باب الصدق والبيان في البيع
+",000,False,000,False,False,False,3,121
+"### ||| AUTO 12- باب من يخدع في البيع.
+",000,False,000,False,False,False,3,108
+"### ||| AUTO 13- باب النهي عن بيع الثمر حتى يبدو صلاحه
+",000,False,000,False,False,False,3,616
+"### ||| AUTO 14- باب النهي عن المزابنة وهي بيع الثمر بالتمر والرخصة في
+",000,False,000,False,False,False,3,986
+"### ||| AUTO 15- باب من باع نخلا قد أبرت
+",000,False,000,False,False,False,3,285
+"### ||| AUTO 16- باب جامع ما جاء في المزارعة
+",000,False,000,False,False,False,3,2742
+"### ||| AUTO 17- باب معاملة أهل خيبر
+",000,False,000,False,False,False,3,432
+"### ||| AUTO 18- باب فضل من غرس غرسا
+",000,False,000,False,False,False,3,468
+"### ||| AUTO 19- باب وضع الجوائح.
+",000,False,000,False,False,False,3,267
+"### ||| AUTO 20- باب الوضع من الدين.
+",000,False,000,False,False,False,3,382
+"### ||| AUTO 21- باب من أدرك ماله بعينه عند رجل قد أفلس
+",000,False,000,False,False,False,3,371
+"### ||| AUTO 22- باب فضل إنظار المعسر.
+",000,False,000,False,False,False,3,560
+"### ||| AUTO 23- باب مطل الغني ظلم
+",000,False,000,False,False,False,3,76
+"### ||| AUTO 24- باب النهي عن بيع فضل الماء
+",000,False,000,False,False,False,3,226
+"### ||| AUTO 25- باب النهي عن ثمن الكلب ومهر البغي وحلوان الكاهن وكسب الحجام
+",000,False,000,False,False,False,3,227
+"### ||| AUTO 26- باب الزجر عن ثمن السنور
+",000,False,000,False,False,False,3,40
+"### ||| AUTO 27- باب ما جاء في قتل الكلاب
+",000,False,000,False,False,False,3,334
+"### ||| AUTO 28- باب من اقتنى كلبا
+",000,False,000,False,False,False,3,701
+"### ||| AUTO 29- باب كسب الحجام
+",000,False,000,False,False,False,3,233
+"### ||| AUTO 30- باب النهي عن بيع الخمر
+",000,False,000,False,False,False,3,356
+"### ||| AUTO 31- باب النهي عن بيع الخمر والميتة والخنزير والأصنام
+",000,False,000,False,False,False,3,332
+"### ||| AUTO 32- باب جامع ما جاء في الربا
+",000,False,000,False,False,False,3,2511
+"### ||| AUTO 33- باب لعن آكل الربا ومؤكله.
+",000,False,000,False,False,False,3,95
+"### ||| AUTO 34- باب الحلال بين والحرام بين
+",000,False,000,False,False,False,3,251
+"### ||| AUTO 35- باب الاستثناء في البيع
+",000,False,000,False,False,False,3,740
+"### ||| AUTO 36- باب خيار الناس أحسنهم قضاء
+",000,False,000,False,False,False,3,286
+"### ||| AUTO 37- باب بيع العبد بعبدين
+",000,False,000,False,False,False,3,67
+"### ||| AUTO 38- باب الرهن
+",000,False,000,False,False,False,3,166
+"### ||| AUTO 39- باب السلم.
+",000,False,000,False,False,False,3,182
+"### ||| AUTO 40- باب لا يحتكر إلا خاطئ
+",000,False,000,False,False,False,3,155
+"### ||| AUTO 41- باب النهي عن الحلف في البيع.
+",000,False,000,False,False,False,3,110
+"### ||| AUTO 42- باب الشفعة.
+",000,False,000,False,False,False,3,188
+"### ||| AUTO 43- باب لا يمنع أحدكم جاره أن يغرز خشبة في جداره
+",000,False,000,False,False,False,3,97
+"### ||| AUTO 44- باب من اقتطع شبرا من الأرض ظلما
+",000,False,000,False,False,False,3,445
+"### || AUTO 12- كتاب الفرائض.
+",000,False,000,False,False,False,2,3294
+"### ||| AUTO 1- باب لا يرث المسلم الكافر
+",000,False,000,False,False,False,3,60
+"### ||| AUTO 2- باب ألحقوا الفرائض بأهلها
+",000,False,000,False,False,False,3,163
+"### ||| AUTO 3- باب ميراث الكلالة.
+",000,False,000,False,False,False,3,458
+"### ||| AUTO 4- باب آخر آية أنزلت آية الكلالة.
+",000,False,000,False,False,False,3,147
+"### ||| AUTO 5- باب من ترك مالا فلورثته.
+",000,False,000,False,False,False,3,321
+"### ||| AUTO 6- باب مثل الذي يرجع في صدقته
+",000,False,000,False,False,False,3,577
+"### ||| AUTO 7- باب العدل بين الأولاد في العطاء
+",000,False,000,False,False,False,3,779
+"### || AUTO 13- كتاب الوصية.
+",000,False,000,False,False,False,2,2074
+"### ||| AUTO 1- باب كتابة الوصية
+",000,False,000,False,False,False,3,301
+"### ||| AUTO 2- باب الوصية بالثلث.
+",000,False,000,False,False,False,3,649
+"### ||| AUTO 3- باب الصدقه عن الميت.
+",000,False,000,False,False,False,3,214
+"### ||| AUTO 4- باب إذا مات الإنسان انقطع عنه عمله إلا من ثلاثة
+",000,False,000,False,False,False,3,69
+"### ||| AUTO 5- باب الوقف.
+",000,False,000,False,False,False,3,255
+"### ||| AUTO 6- باب ترك الوصية لمن ليس له شيء يوصي فيه.
+",000,False,000,False,False,False,3,253
+"### || AUTO 14- كتاب الأيمان النذر.
+",000,False,000,False,False,False,2,6672
+"### ||| AUTO 1- باب قضاء النذر عن الميت
+",000,False,000,False,False,False,3,138
+"### ||| AUTO 2- باب النهي عن النذر وأنه لا يرد شيئا.
+",000,False,000,False,False,False,3,356
+"### ||| AUTO 3- باب لا وفاء لنذر في معصية الله ولا فيما لا يملك العبد.
+",000,False,000,False,False,False,3,325
+"### ||| AUTO 4- باب من نذر أن يمشي
+",000,False,000,False,False,False,3,296
+"### ||| AUTO 5- باب كفارة النذر.
+",000,False,000,False,False,False,3,58
+"### ||| AUTO 6- باب النهي عن الحلف بغير الله تعالى.
+",000,False,000,False,False,False,3,385
+"### ||| AUTO 7- باب من حلف باللات والعزى
+",000,False,000,False,False,False,3,179
+"### ||| AUTO 8- باب من حلف يمينا فرأى غيرها خيرا منها
+",000,False,000,False,False,False,3,1460
+"### ||| AUTO 9- باب يمين على نية المستحلف.
+",000,False,000,False,False,False,3,99
+"### ||| AUTO 10- باب الاستثناء.
+",000,False,000,False,False,False,3,369
+"### ||| AUTO 11- باب لأن يلج أحدكم بيمينه في أهله
+",000,False,000,False,False,False,3,64
+"### ||| AUTO 12- باب من نذر في الجاهلية ثم أسلم
+",000,False,000,False,False,False,3,404
+"### ||| AUTO 13- باب كفارة من ضرب مملوكه
+",000,False,000,False,False,False,3,765
+"### ||| AUTO 14- باب من قذف مملوكه بالزنا.
+",000,False,000,False,False,False,3,95
+"### ||| AUTO 15- باب الإحسان إلى المملوك
+",000,False,000,False,False,False,3,389
+"### ||| AUTO 16- باب ثواب العبد وأجره إذا نصح لسيده وأحسن عبادة الله.
+",000,False,000,False,False,False,3,315
+"### ||| AUTO 17- باب من أعتق شركا له في عبد.
+",000,False,000,False,False,False,3,582
+"### ||| AUTO 18- باب القرعة في العتق
+",000,False,000,False,False,False,3,150
+"### || AUTO 15- كتاب الحدود والديات
+",000,False,000,False,False,False,2,9096
+"### ||| AUTO 1- باب القسامة.
+",000,False,000,False,False,False,3,976
+"### ||| AUTO 2- باب حكم المحاربين والمرتدين.
+",000,False,000,False,False,False,3,590
+"### ||| AUTO 3- باب القصاص في القتل بالحجر وقتل الرجل بالمرأة.
+",000,False,000,False,False,False,3,237
+"### ||| AUTO 4- باب إذا عض رجلا فوقعت ثناياه
+",000,False,000,False,False,False,3,396
+"### ||| AUTO 5- باب القصاص كتاب الله
+",000,False,000,False,False,False,3,101
+"### ||| AUTO 6- باب ما يباح به دم المسلم.
+",000,False,000,False,False,False,3,212
+"### ||| AUTO 7- باب بيان إثم من سن القتل.
+",000,False,000,False,False,False,3,110
+"### ||| AUTO 8- باب أول ما يقضى فيه بين الناس في الدماء
+",000,False,000,False,False,False,3,132
+"### ||| AUTO 9- باب تحريم الدماء والأعراض والأموال.
+",000,False,000,False,False,False,3,503
+"### ||| AUTO 10- باب طلب العفو من ولي القتيل
+",000,False,000,False,False,False,3,277
+"### ||| AUTO 11- باب دية الجنين ، ووجوب الدية في قتل الخطإ على عاقلة
+",000,False,000,False,False,False,3,544
+"### ||| AUTO 12- باب حد السرقة ونصابها.
+",000,False,000,False,False,False,3,557
+"### ||| AUTO 13- باب لعن الله السارق
+",000,False,000,False,False,False,3,74
+"### ||| AUTO 14- باب إقامة الحدود على الشريف والضعيف
+",000,False,000,False,False,False,3,405
+"### ||| AUTO 15- باب حد الزنى.
+",000,False,000,False,False,False,3,1946
+"### ||| AUTO 6- باب رجم اليهود في الزنى.
+",000,False,000,False,False,False,3,499
+"### ||| AUTO 17- باب ثبوت الرجم
+",000,False,000,False,False,False,3,69
+"### ||| AUTO 18- باب إذا زنت الأمة
+",000,False,000,False,False,False,3,367
+"### ||| AUTO 19- باب تأخير الحد عن النفساء.
+",000,False,000,False,False,False,3,108
+"### ||| AUTO 20- باب حد الخمر.
+",000,False,000,False,False,False,3,418
+"### ||| AUTO 21- باب لا يجلد أحد فوق عشرة أسواط إلا في حد
+",000,False,000,False,False,False,3,77
+"### ||| AUTO 22- باب الحدود كفارات لأهلها.
+",000,False,000,False,False,False,3,291
+"### || AUTO 16- كتاب الأحكام
+",000,False,000,False,False,False,2,3349
+"### ||| AUTO 1- باب اليمين على المدعى عليه.
+",000,False,000,False,False,False,3,85
+"### ||| AUTO 2- باب القضاء باليمين والشاهد.
+",000,False,000,False,False,False,3,52
+"### ||| AUTO 3- باب من قضي له بحق أخيه
+",000,False,000,False,False,False,3,218
+"### ||| AUTO 4- باب قضية هند.
+",000,False,000,False,False,False,3,320
+"### ||| AUTO 5- باب إن الله يرضى لكم ثلاثا ويكره لكم ثلاثا
+",000,False,000,False,False,False,3,292
+"### ||| AUTO 6- باب بيان أجر الحاكم إذا اجتهد فأصاب ، أو أخطأ.
+",000,False,000,False,False,False,3,155
+"### ||| AUTO 7- باب لا يحكم أحد بين اثنين وهو غضبان
+",000,False,000,False,False,False,3,144
+"### ||| AUTO 8- باب من أحدث في أمرنا هذا ما ليس منه فهو رد
+",000,False,000,False,False,False,3,140
+"### ||| AUTO 9- باب بيان خير الشهود.
+",000,False,000,False,False,False,3,59
+"### ||| AUTO 10- باب قضية سليمان عليه السلام
+",000,False,000,False,False,False,3,135
+"### ||| AUTO 11- باب قضية العقار , وجرة الذهب
+",000,False,000,False,False,False,3,110
+"### ||| AUTO 12- باب أحكام اللقطة
+",000,False,000,False,False,False,3,869
+"### ||| AUTO باب في لقطة الحاج.
+",000,False,000,False,False,False,3,10
+"### ||| AUTO 13- باب النهي عن لقطة الحاج
+",000,False,000,False,False,False,3,57
+"### ||| AUTO 14- باب من آوى ضالة فهو ضال
+",000,False,000,False,False,False,3,58
+"### ||| AUTO 15- باب لا يحلبن أحد ماشية أحد إلا بإذنه
+",000,False,000,False,False,False,3,175
+"### ||| AUTO 16- باب أحكام الضيافة
+",000,False,000,False,False,False,3,258
+"### ||| AUTO 17- باب من كان عنده فضل زاد
+",000,False,000,False,False,False,3,95
+"### | AUTO المجلد السادس
+",000,False,000,False,False,False,1,54210
+"### || AUTO أبواب الإمارة.
+",000,False,000,False,False,False,2,6773
+"### ||| AUTO 50- باب الناس تبع لقريش
+",000,False,000,False,False,False,3,157
+"### ||| AUTO 51- باب لا يزال هذا الأمر في قريش
+",000,False,000,False,False,False,3,49
+"### ||| AUTO 52- باب لا يزال الإسلام عزيزا إلى اثني عشر خليفة
+",000,False,000,False,False,False,3,496
+"### ||| AUTO 53- باب الاستخلاف
+",000,False,000,False,False,False,3,262
+"### ||| AUTO 54- باب النهي عن طلب الإمارة
+",000,False,000,False,False,False,3,503
+"### ||| AUTO 55- باب الإمام العادل
+",000,False,000,False,False,False,3,82
+"### ||| AUTO 56- باب رفق الولاة
+",000,False,000,False,False,False,3,139
+"### ||| AUTO 57- باب الأمير مسؤول عن رعيته
+",000,False,000,False,False,False,3,322
+"### ||| AUTO 58- باب من غش رعيته
+",000,False,000,False,False,False,3,116
+"### ||| AUTO 59- باب إذا لم يجهد الأمير وينصح
+",000,False,000,False,False,False,3,113
+"### ||| AUTO 60- باب إن شر الرعاء الحطمة
+",000,False,000,False,False,False,3,81
+"### ||| AUTO 61- باب غلظ تحريم الغلول.
+",000,False,000,False,False,False,3,947
+"### ||| AUTO 62- باب طاعة الأمراء
+",000,False,000,False,False,False,3,656
+"### ||| AUTO 63- باب إنما الطاعة في معروف
+",000,False,000,False,False,False,3,294
+"### ||| AUTO 64- باب النهي عن منازعة الأمر أهله
+",000,False,000,False,False,False,3,229
+"### ||| AUTO 65- باب الإمام جنة
+",000,False,000,False,False,False,3,55
+"### ||| AUTO 66- باب الوفاء ببيعة الخلفاء الأول فالأول.
+",000,False,000,False,False,False,3,97
+"### ||| AUTO 67- باب ما يكون من الأثرة والأمور المنكرة والشر
+",000,False,000,False,False,False,3,920
+"### ||| AUTO 68- باب من خرج من الطاعة وفارق الجماعة
+",000,False,000,False,False,False,3,550
+"### ||| AUTO 69- باب من أراد أن يفرق أمر هذه الأمة
+",000,False,000,False,False,False,3,172
+"### ||| AUTO 70- باب إذا بويع لخليفتين.
+",000,False,000,False,False,False,3,42
+"### || AUTO أبواب الهجرة
+",000,False,000,False,False,False,2,2575
+"### ||| AUTO 72- باب بيعة الحديبية
+",000,False,000,False,False,False,3,719
+"### ||| AUTO 73- باب إذا أذن للمهاجر في البدو
+",000,False,000,False,False,False,3,53
+"### ||| AUTO 74- باب مضت الهجرة لأهلها
+",000,False,000,False,False,False,3,143
+"### ||| AUTO 75- باب لا هجرة بعد الفتح
+",000,False,000,False,False,False,3,146
+"### ||| AUTO 76- باب شأن الهجرة
+",000,False,000,False,False,False,3,117
+"### ||| AUTO 77- باب بيعة النساء.
+",000,False,000,False,False,False,3,213
+"### ||| AUTO 78- باب البيعة على السمع والطاعة فيما استطاع.
+",000,False,000,False,False,False,3,54
+"### ||| AUTO 79- باب بيان سن البلوغ للقتال
+",000,False,000,False,False,False,3,131
+"### ||| AUTO 80- باب النهي أن يسافر بالقرآن إلى أرض العدو
+",000,False,000,False,False,False,3,183
+"### ||| AUTO 81- باب المسابقة بين الخيل وتضميرها.
+",000,False,000,False,False,False,3,204
+"### ||| AUTO 82- باب الخيل في نواصيها الخير
+",000,False,000,False,False,False,3,463
+"### || AUTO 18- كتاب الجهاد
+",000,False,000,False,False,False,2,6975
+"### ||| AUTO 1- باب فضل الجهاد
+",000,False,000,False,False,False,3,502
+"### ||| AUTO 2- باب فضل الشهادة
+",000,False,000,False,False,False,3,67
+"### ||| AUTO 3- باب ما يعدل الجهاد
+",000,False,000,False,False,False,3,316
+"### ||| AUTO 4- باب فضل الغدوة والروحة في سبيل الله.
+",000,False,000,False,False,False,3,291
+"### ||| AUTO 5- باب درجات المجاهد في الجنة
+",000,False,000,False,False,False,3,95
+"### ||| AUTO 6- باب من قتل في سبيل الله كفرت خطاياه إلا الدين.
+",000,False,000,False,False,False,3,341
+"### ||| AUTO 7- باب أرواح الشهداء في الجنة
+",000,False,000,False,False,False,3,153
+"### ||| AUTO 8- باب أي الناس أفضل
+",000,False,000,False,False,False,3,315
+"### ||| AUTO 9- باب بيان الرجلين يقتل أحدهما الآخر يدخلان الجنة.
+",000,False,000,False,False,False,3,162
+"### ||| AUTO 10- باب لا يجتمع كافر وقاتله في النار
+",000,False,000,False,False,False,3,99
+"### ||| AUTO 11- باب فضل الصدقة في سبيل الله
+",000,False,000,False,False,False,3,80
+"### ||| AUTO 12- باب من دل على خير
+",000,False,000,False,False,False,3,111
+"### ||| AUTO 13- باب من جهز غازيا أو خلفه في أهله بخير
+",000,False,000,False,False,False,3,381
+"### ||| AUTO 14- باب حرمة نساء المجاهدين
+",000,False,000,False,False,False,3,128
+"### ||| AUTO 15- باب عذر أولي الضرر
+",000,False,000,False,False,False,3,126
+"### ||| AUTO 16- باب ثبوت الجنة للشهيد.
+",000,False,000,False,False,False,3,718
+"### ||| AUTO 17- باب من قاتل لتكون كلمة الله هي العليا
+",000,False,000,False,False,False,3,243
+"### ||| AUTO 18- باب من قاتل للرياء والسمعة
+",000,False,000,False,False,False,3,224
+"### ||| AUTO 19- باب ثواب من غزا فغنم ومن لم يغنم.
+",000,False,000,False,False,False,3,131
+"### ||| AUTO 20- باب إنما الأعمال بالنية
+",000,False,000,False,False,False,3,161
+"### ||| AUTO 21- باب من طلب الشهادة صادقا
+",000,False,000,False,False,False,3,105
+"### ||| AUTO 22- باب من مات ولم يغز
+",000,False,000,False,False,False,3,79
+"### ||| AUTO 23- باب من حبسهم المرض عن الغزو
+",000,False,000,False,False,False,3,90
+"### ||| AUTO 24- باب فضل الغزو في البحر.
+",000,False,000,False,False,False,3,402
+"### ||| AUTO 25- باب فضل الرباط في سبيل الله عز وجل.
+",000,False,000,False,False,False,3,112
+"### ||| AUTO 26- باب بيان الشهداء.
+",000,False,000,False,False,False,3,270
+"### ||| AUTO 27- باب ألا إن القوة الرمي
+",000,False,000,False,False,False,3,59
+"### ||| AUTO 28- باب اللهو بالأسهم
+",000,False,000,False,False,False,3,74
+"### ||| AUTO 29- باب من علم الرمي ثم تركه
+",000,False,000,False,False,False,3,75
+"### ||| AUTO 30- باب لا تزال طائفة من أمتي ظاهرين
+",000,False,000,False,False,False,3,563
+"### ||| AUTO 31- باب إذا سافرتم في الخصب
+",000,False,000,False,False,False,3,104
+"### ||| AUTO 32- باب السفر قطعة من العذاب
+",000,False,000,False,False,False,3,79
+"### || AUTO 19- كتاب الصيد
+",000,False,000,False,False,False,2,1969
+"### ||| AUTO 1- باب الصيد بالكلاب المعلمة والمعراض والقوس
+",000,False,000,False,False,False,3,949
+"### ||| AUTO 2- باب النهي عن أكل كل ذي ناب من السباع وكل ذي مخلب من الطير
+",000,False,000,False,False,False,3,457
+"### || AUTO 20- كتاب الذبائح
+",000,False,000,False,False,False,2,3184
+"### ||| AUTO 1- باب النهي عن لحوم الحمر الإنسية
+",000,False,000,False,False,False,3,839
+"### ||| AUTO 2- باب في أكل لحوم الخيل.
+",000,False,000,False,False,False,3,173
+"### ||| AUTO 3- باب الضب.
+",000,False,000,False,False,False,3,1297
+"### ||| AUTO 4- باب الجراد.
+",000,False,000,False,False,False,3,101
+"### ||| AUTO 5- باب الأرنب.
+",000,False,000,False,False,False,3,90
+"### ||| AUTO 6- باب النهي عن الخذف
+",000,False,000,False,False,False,3,246
+"### ||| AUTO 7- باب الأمر بإحسان الذبح
+",000,False,000,False,False,False,3,117
+"### || AUTO 21- كتاب الأضاحي.
+",000,False,000,False,False,False,2,3521
+"### ||| AUTO 1- باب ذبح الأضحية بعد الصلاة
+",000,False,000,False,False,False,3,985
+"### ||| AUTO 2- باب سن الأضحية.
+",000,False,000,False,False,False,3,255
+"### ||| AUTO 3- باب أضحية االنبي صلى الله عليه وسلم
+",000,False,000,False,False,False,3,218
+"### ||| AUTO 4- باب ما يذبح به وما لا يذبح.
+",000,False,000,False,False,False,3,306
+"### ||| AUTO 5- باب نسخ النهي عن أكل لحوم الأضاحي بعد ثلاث
+",000,False,000,False,False,False,3,1022
+"### ||| AUTO 6- باب لا فرع ولا عتيرة.
+",000,False,000,False,False,False,3,95
+"### ||| AUTO 7- باب إذا دخلت العشر وأراد أحدكم أن يضحى
+",000,year,000,False,False,False,3,377
+"### || AUTO كتاب الأشربة.
+",000,False,000,False,False,False,2,8482
+"### ||| AUTO 1- باب فعل الخمر بشاربها
+",000,False,000,False,False,False,3,527
+"### ||| AUTO 2- باب ألا إن الخمر قد حرمت.
+",000,False,000,False,False,False,3,570
+"### ||| AUTO 3- باب النهي عن اتخاذ الخمر خلا
+",000,False,000,False,False,False,3,51
+"### ||| AUTO 4- باب النهي عن التداوي بالخمر
+",000,False,000,False,False,False,3,65
+"### ||| AUTO 5- باب الخمر من النخلة والعنبة
+",000,False,000,False,False,False,3,126
+"### ||| AUTO 6- باب النهي عن انتباذ التمر والزبيب مخلوطين
+",000,False,000,False,False,False,3,800
+"### ||| AUTO 7- باب ما نهي عن الانتباذ فيه
+",000,False,000,False,False,False,3,1967
+"### ||| AUTO 8- باب كل مسكر حرام.
+",000,False,000,False,False,False,3,639
+"### ||| AUTO 9- باب من شرب الخمر فلم يتب منها
+",000,False,000,False,False,False,3,151
+"### ||| AUTO 10- باب ما كان ينبذ للنبي صلى الله عليه وسلم
+",000,False,000,False,False,False,3,720
+"### ||| AUTO 11- باب الشرب بالقدح
+",000,False,000,False,False,False,3,282
+"### ||| AUTO 12- باب تخمير الإناء.
+",000,False,000,False,False,False,3,235
+"### ||| AUTO 13- باب الأمر بتغطية الإناء وإيكاء السقاء
+",000,False,000,False,False,False,3,497
+"### ||| AUTO 14- باب لا تتركوا النار في بيوتكم حين تنامون
+",000,False,000,False,False,False,3,113
+"### ||| AUTO 15- باب ذكر اسم الله على الطعام
+",000,False,000,False,False,False,3,319
+"### ||| AUTO 16- باب النهي عن الأكل والشرب بالشمال
+",000,False,000,False,False,False,3,268
+"### ||| AUTO 17- باب كل مما يليك
+",000,False,000,False,False,False,3,126
+"### ||| AUTO 18- باب النهي عن اختناث الأسقية
+",000,False,000,False,False,False,3,99
+"### ||| AUTO 19- باب النهي عن الشرب قائما
+",000,False,000,False,False,False,3,202
+"### ||| AUTO 20- باب في الشرب من زمزم قائما.
+",000,False,000,False,False,False,3,174
+"### ||| AUTO 21- باب النهي عن التنفس في الإناء
+",000,False,000,False,False,False,3,43
+"### ||| AUTO 22- باب التنفس ثلاثا خارج الإناء
+",000,False,000,False,False,False,3,123
+"### || AUTO 23- كتاب الأطعمة
+",000,False,000,False,False,False,2,7164
+"### ||| AUTO 1- باب لعق الأصابع وأخذ اللقمة الساقطة
+",000,False,000,False,False,False,3,683
+"### ||| AUTO 2- باب استئذان صاحب الوليمة
+",000,False,000,False,False,False,3,350
+"### ||| AUTO 3- باب ذهاب المسلم إلى دار أخيه طلبا للطعام.
+",000,False,000,False,False,False,3,240
+"### ||| AUTO 4- باب وليمة جابر بن عبد الله
+",000,False,000,False,False,False,3,224
+"### ||| AUTO 5- باب وليمة أبي طلحة
+",000,False,000,False,False,False,3,868
+"### ||| AUTO 6- باب الدباء
+",000,False,000,False,False,False,3,202
+"### ||| AUTO 7- باب الدعاء لأصحاب الطعام
+",000,False,000,False,False,False,3,123
+"### ||| AUTO 8- باب أكل القثاء بالرطب.
+",000,False,000,False,False,False,3,47
+"### ||| AUTO 9- باب أكل التمر
+",000,False,000,False,False,False,3,96
+"### ||| AUTO 10- باب نهي الرجل أن يقرن بين تمرتين إلا أن يستأذن أصحابه
+",000,False,000,False,False,False,3,155
+"### ||| AUTO 11- باب بيت لا تمر فيه جياع أهله
+",000,False,000,False,False,False,3,103
+"### ||| AUTO 12- باب من أكل سبع تمرات من تمر المدينة
+",000,False,000,False,False,False,3,199
+"### ||| AUTO 13- باب الكمأة
+",000,False,000,False,False,False,3,322
+"### ||| AUTO 14- باب الأسود من الكباث.
+",000,False,000,False,False,False,3,73
+"### ||| AUTO 15- باب نعم الإدام الخل
+",000,False,000,False,False,False,3,349
+"### ||| AUTO 16- باب الثوم
+",000,False,000,False,False,False,3,261
+"### ||| AUTO 17- باب إكرام الضيف
+",000,False,000,False,False,False,3,1244
+"### ||| AUTO 18- باب طعام الاثنين كافي الثلاثة
+",000,False,000,False,False,False,3,219
+"### ||| AUTO 19- باب المؤمن يأكل في معى واحد
+",000,False,000,False,False,False,3,370
+"### ||| AUTO 20- باب لا يعيب الطعام.
+",000,False,000,False,False,False,3,167
+"### || AUTO 24- كتاب اللباس
+",000,False,000,False,False,False,2,9673
+"### ||| AUTO 1- باب النهي عن لبس الحرير
+",000,False,000,False,False,False,3,1751
+"### ||| AUTO 2- باب الرخصة في لبس الحرير للحكة أو الوجع
+",000,False,000,False,False,False,3,172
+"### ||| AUTO 3- باب النهي عن لبس الرجل الثوب المعصفر.
+",000,False,000,False,False,False,3,278
+"### ||| AUTO 4- باب لباس ثياب الحبرة.
+",000,False,000,False,False,False,3,71
+"### ||| AUTO 5- باب الكساء الملبد
+",000,False,000,False,False,False,3,120
+"### ||| AUTO 6- باب المرط
+",000,False,000,False,False,False,3,64
+"### ||| AUTO 7- باب الوسائد والفرش
+",000,False,000,False,False,False,3,113
+"### ||| AUTO 8- باب الأنماط.
+",000,False,000,False,False,False,3,125
+"### ||| AUTO 9- باب فراش للرجل
+",000,False,000,False,False,False,3,50
+"### ||| AUTO 10- باب من جر ثوبه خيلاء
+",000,False,000,False,False,False,3,633
+"### ||| AUTO 11- باب من تبختر في مشيته معجبا بثيابه
+",000,False,000,False,False,False,3,221
+"### ||| AUTO 12- باب نهي الرجال عن خاتم الذهب
+",000,False,000,False,False,False,3,925
+"### ||| AUTO 14- باب موضع الخاتم
+",000,False,000,False,False,False,3,114
+"### ||| AUTO 15- باب النهي عن التختم في الوسطى والتي تليها
+",000,False,000,False,False,False,3,197
+"### ||| AUTO 16- باب اسكثروا من النعال
+",000,False,000,False,False,False,3,46
+"### ||| AUTO 17- باب إذا انتعل فليبدأ باليمين
+",000,False,000,False,False,False,3,50
+"### ||| AUTO 18- باب لا يمشي أحدكم في نعل واحدة
+",000,False,000,False,False,False,3,139
+"### ||| AUTO 19- باب النهي عن اشتمال الصماء والاحتباء في ثوب واحد
+",000,False,000,False,False,False,3,130
+"### ||| AUTO 20- باب النهي عن الاستلقاء على الظهر ووضع إحدى الرجلين على الأخرى
+",000,False,000,False,False,False,3,155
+"### ||| AUTO 21- باب الاستلقاء ووضع إحدى الرجلين على الأخرى.
+",000,False,000,False,False,False,3,99
+"### ||| AUTO 22- باب النهي عن التزعفر للرجال.
+",000,False,000,False,False,False,3,90
+"### ||| AUTO 23- باب تغيير الشيب واجتناب السواد
+",000,False,000,False,False,False,3,92
+"### ||| AUTO 24- باب مخالفة اليهود والنصارى في الصبغ
+",000,False,000,False,False,False,3,59
+"### ||| AUTO 25- باب لا تدخل الملائكة بيتا فيه كلب ولا صورة.
+",000,False,000,False,False,False,3,620
+"### ||| AUTO 26- باب نقض الصور
+",000,False,000,False,False,False,3,818
+"### ||| AUTO 27- باب أشد الناس عذابا المصورون
+",000,False,000,False,False,False,3,268
+"### ||| AUTO 28- باب من صور صورة كلف يوم القيامة أن ينفخ فيها
+",000,False,000,False,False,False,3,367
+"### ||| AUTO 29- باب لا تصحب الملائكة رفقة فيها كلب ولا جرس
+",000,False,000,False,False,False,3,69
+"### ||| AUTO 30- باب الجرس مزامير الشيطان
+",000,False,000,False,False,False,3,40
+"### ||| AUTO 31- باب قطع قلادة الوتر
+",000,False,000,False,False,False,3,81
+"### ||| AUTO 32- باب النهي عن الضرب في الوجه وعن الوسم
+",000,False,000,False,False,False,3,122
+"### ||| AUTO 33- باب الوسم في غير الوجه
+",000,False,000,False,False,False,3,276
+"### ||| AUTO 34- باب النهي عن القزع
+",000,False,000,False,False,False,3,164
+"### ||| AUTO 35- باب حق الطريق
+",000,False,000,False,False,False,3,108
+"### ||| AUTO 36- باب لعن الواصلة والمستوصلة والواشمة والمستوشمة والنامصة
+",000,False,000,False,False,False,3,875
+"### ||| AUTO 37- باب النساء الكاسيات العاريات
+",000,False,000,False,False,False,3,64
+"### | AUTO المجلد السابع
+",000,False,000,False,False,False,1,56940
+"### || AUTO 13- باب يسلم الراكب على الماشي
+",000,False,000,False,False,False,2,3262
+"### ||| AUTO 14- باب حق الطريق
+",000,False,000,False,False,False,3,180
+"### ||| AUTO 15- باب حق المسلم على للمسلم
+",000,False,000,False,False,False,3,157
+"### ||| AUTO 16- باب كيف يرد السلام على أهل الكتاب
+",000,False,000,False,False,False,3,507
+"### ||| AUTO 17- باب النهي عن بدء أهل الكتاب بالسلام
+",000,False,000,False,False,False,3,113
+"### ||| AUTO 18- باب السلام على الصبيان.
+",000,False,000,False,False,False,3,98
+"### ||| AUTO 19- باب الإذن برفع الحجاب
+",000,False,000,False,False,False,3,96
+"### ||| AUTO 20- باب الإذن للنساء في الخروج لحاجتهن
+",000,False,000,False,False,False,3,270
+"### ||| AUTO 21- باب نهي الرجل المبيت عند امرأة ثيب
+",000,False,000,False,False,False,3,69
+"### ||| AUTO 22- باب الحمو الموت
+",000,False,000,False,False,False,3,108
+"### ||| AUTO 23- باب النهي عن الدخول على المغيبات
+",000,False,000,False,False,False,3,120
+"### ||| AUTO 24- باب إن الشيطان يجري من الإنسان مجرى الدم
+",000,False,000,False,False,False,3,249
+"### ||| AUTO 25- باب من أتى مجلسا فوجد فرجة
+",000,False,000,False,False,False,3,166
+"### ||| AUTO 26- باب لا يقيمن أحدكم الرجل من مجلسه
+",000,False,000,False,False,False,3,303
+"### ||| AUTO 27- باب الرجل أحق بمجلسه إذا رجع إليه
+",000,False,000,False,False,False,3,61
+"### ||| AUTO 28- باب منع المخنث من الدخول على النساء
+",000,False,000,False,False,False,3,181
+"### ||| AUTO 29- باب الغيرة
+",000,False,000,False,False,False,3,274
+"### || AUTO 26- كتاب الطب
+",000,False,000,False,False,False,2,7270
+"### ||| AUTO 1- باب العين حق والرقية منها
+",000,False,000,False,False,False,3,224
+"### ||| AUTO 2- باب السحر.
+",000,False,000,False,False,False,3,238
+"### ||| AUTO 3- باب السم.
+",000,False,000,False,False,False,3,117
+"### ||| AUTO 4- باب رقية المريض.
+",000,False,000,False,False,False,3,389
+"### ||| AUTO 5- باب رقية المريض بالمعوذات والنفث.
+",000,False,000,False,False,False,3,191
+"### ||| AUTO 6- باب الرقية من العين والنملة والحمة والنظرة.
+",000,False,000,False,False,False,3,710
+"### ||| AUTO 7- باب لا بأس بالرقى ما لم يكن فيه شرك.
+",000,False,000,False,False,False,3,60
+"### ||| AUTO 8- باب أخذ الأجرة على الرقية بالقرآن
+",000,False,000,False,False,False,3,271
+"### ||| AUTO 9- باب وضع يده على موضع الألم مع الدعاء.
+",000,False,000,False,False,False,3,82
+"### ||| AUTO 10- باب التعوذ من شيطان الوسوسة في الصلاة.
+",000,False,000,False,False,False,3,152
+"### ||| AUTO 11- باب لكل داء دواء
+",000,False,000,False,False,False,3,58
+"### ||| AUTO 12- باب الحجامة
+",000,False,000,False,False,False,3,225
+"### ||| AUTO 13- باب الكي
+",000,False,000,False,False,False,3,164
+"### ||| AUTO 14- باب أجر الحجام
+",000,False,000,False,False,False,3,89
+"### ||| AUTO 15- باب الحمى
+",000,False,000,False,False,False,3,420
+"### ||| AUTO 16- باب باللدود.
+",000,False,000,False,False,False,3,61
+"### ||| AUTO 17- باب العود الهندي
+",000,False,000,False,False,False,3,241
+"### ||| AUTO 18- باب الحبة السوداء.
+",000,False,000,False,False,False,3,191
+"### ||| AUTO 19- باب التلبينة
+",000,False,000,False,False,False,3,80
+"### ||| AUTO 20- باب العسل.
+",000,False,000,False,False,False,3,134
+"### ||| AUTO 21- باب الطاعون
+",000,False,000,False,False,False,3,1098
+"### ||| AUTO 22- باب لا عدوى
+",000,False,000,False,False,False,3,625
+"### ||| AUTO 23- باب الطيرة والفأل
+",000,False,000,False,False,False,3,262
+"### ||| AUTO 24- باب الشؤم
+",000,False,000,False,False,False,3,462
+"### ||| AUTO 25- باب الكهان.
+",000,False,000,False,False,False,3,633
+"### ||| AUTO 26- باب من أتى عرافا
+",000,False,000,False,False,False,3,52
+"### || AUTO 27- كتاب الحيوان
+",000,False,000,False,False,False,2,2187
+"### ||| AUTO 1- باب قتل الحيات
+",000,False,000,False,False,False,3,65
+"### ||| AUTO 2- باب النهي عن قتل ذوات البيوت
+",000,False,000,False,False,False,3,606
+"### ||| AUTO 3- باب المحرم يقتل الحية
+",000,False,000,False,False,False,3,164
+"### ||| AUTO 4- باب إيذان ذوات البيوت ثلاثا
+",000,False,000,False,False,False,3,357
+"### ||| AUTO 5- باب قتل الوزغ.
+",000,False,000,False,False,False,3,372
+"### ||| AUTO 6- باب النهي عن حرق النمل.
+",000,False,000,False,False,False,3,173
+"### ||| AUTO 7- باب عذبت امرأة في هرة
+",000,False,000,False,False,False,3,243
+"### || AUTO 28- كتاب الأدب
+",000,False,000,False,False,False,2,1043
+"### ||| AUTO 1- باب النهي عن سب الدهر.
+",000,False,000,False,False,False,3,225
+"### ||| AUTO 2- باب كراهة تسمية العنب كرما.
+",000,False,000,False,False,False,3,263
+"### ||| AUTO 3- باب لا يقولن أحدكم عبدي وأمتي
+",000,False,000,False,False,False,3,198
+"### ||| AUTO 4- باب لا يقولن أحدكم خبيث نفسي
+",000,False,000,False,False,False,3,118
+"### ||| AUTO 5- باب أطيب الطيب المسك
+",000,False,000,False,False,False,3,113
+"### ||| AUTO 6- باب من عرض عليه ريحان
+",000,False,000,False,False,False,3,66
+"### || AUTO 29- كتاب الشعر.
+",000,False,000,False,False,False,2,652
+"### ||| AUTO 1- باب استنشاد الشعر
+",000,False,000,False,False,False,3,165
+"### ||| AUTO 2- باب أصدق كلمة قالها شاعر
+",000,False,000,False,False,False,3,251
+"### ||| AUTO 3- باب لأن يمتلئ جوف الرجل قيحا خير من أن يمتلئ شعرا
+",000,False,000,False,False,False,3,181
+"### || AUTO 30- كتاب الرؤيا.
+",000,False,000,False,False,False,2,2461
+"### ||| AUTO 1- باب من حلم حلما يكرهه
+",000,False,000,False,False,False,3,731
+"### ||| AUTO 2- باب رؤيا المؤمن
+",000,False,000,False,False,False,3,388
+"### ||| AUTO 3- باب من رأى النبي صلى الله عليه وسلم في المنام
+",000,False,000,False,False,False,3,237
+"### ||| AUTO 4- باب لا يخبر بتلعب الشيطان به في المنام.
+",000,False,000,False,False,False,3,196
+"### ||| AUTO 5- باب في تأويل الرؤيا.
+",000,False,000,False,False,False,3,398
+"### || AUTO 31- كتاب فضائل النبي صلى الله عليه وسلم
+",000,False,000,False,False,False,2,11471
+"### ||| AUTO 1- باب فضل نسب النبي صلى الله عليه وسلم
+",000,False,000,False,False,False,3,73
+"### ||| AUTO 2- باب تسليم الحجر عليه صلى الله عليه وسلم
+",000,False,000,False,False,False,3,56
+"### ||| AUTO 3- باب مكانته صلى الله عليه وسلم يوم القيامة
+",000,False,000,False,False,False,3,59
+"### ||| AUTO 4- باب نبع الماء من بين أصابعه صلى الله عليه وسلم وكثرة الطعام
+",000,False,000,False,False,False,3,874
+"### ||| AUTO 5- باب توكله على الله تعالى
+",000,False,000,False,False,False,3,273
+"### ||| AUTO 6- باب بيان مثل ما بعث به النبي صلى الله عليه وسلم من الهدى
+",000,False,000,False,False,False,3,124
+"### ||| AUTO 7- باب بيان مثله صلى الله عليه وسلم ومثل ما بعثه الله به
+",000,False,000,False,False,False,3,101
+"### ||| AUTO 8- باب بيان مثله صلى الله عليه وسلم ومثل أمته
+",000,False,000,False,False,False,3,194
+"### ||| AUTO 9- باب بيان مثله صلى الله عليه وسلم مثل النبيين
+",000,False,000,False,False,False,3,311
+"### ||| AUTO 10- باب إذا قبض النبي صلى الله عليه وسلم قبل أمته
+",000,False,000,False,False,False,3,81
+"### ||| AUTO 11- باب الحوض
+",000,False,000,False,False,False,3,1899
+"### ||| AUTO 12- باب في قتال الملائكة عن النبي صلى الله عليه وسلم
+",000,False,000,False,False,False,3,115
+"### ||| AUTO 13- باب في شجاعته صلى الله عليه وسلم
+",000,False,000,False,False,False,3,183
+"### ||| AUTO 14- باب كان النبي صلى الله عليه وسلم أجود الناس
+",000,False,000,False,False,False,3,130
+"### ||| AUTO 15- باب في أخلاقه صلى الله عليه وسلم
+",000,False,000,False,False,False,3,349
+"### ||| AUTO 16- باب فى عطائه صلى الله عليه وسلم.
+",000,False,000,False,False,False,3,531
+"### ||| AUTO 17- باب فى رحمته صلى الله عليه وسلم
+",000,False,000,False,False,False,3,517
+"### ||| AUTO 18- باب فى حيائه صلى الله عليه وسلم.
+",000,False,000,False,False,False,3,181
+"### ||| AUTO 19- باب فى تبسمه صلى الله عليه وسلم
+",000,False,000,False,False,False,3,65
+"### ||| AUTO 20- باب في رفقه بالنساء صلى الله عليه وسلم
+",000,False,000,False,False,False,3,266
+"### ||| AUTO 21- باب في رفقه صلى الله عليه وسلم بالخدم
+",000,False,000,False,False,False,3,81
+"### ||| AUTO 22- باب أخذ الصحابة لشعره صلى الله عليه وسلم
+",000,False,000,False,False,False,3,49
+"### ||| AUTO 23- باب في تواضعه صلى الله عليه وسلم
+",000,False,000,False,False,False,3,64
+"### ||| AUTO 24- باب اختياره صلى الله عليه وسلم للأيسر وتركه الانتقام لنفسه
+",000,False,000,False,False,False,3,289
+"### ||| AUTO 25- باب طيب ريحه صلى الله عليه وسلم
+",000,False,000,False,False,False,3,197
+"### ||| AUTO 26- باب طيب عرق النبي صلى الله عليه وسلم
+",000,False,000,False,False,False,3,235
+"### ||| AUTO 27- باب نزول الوحي
+",000,False,000,False,False,False,3,203
+"### ||| AUTO 28- باب ما جاء في شعر النبي صلى الله عليه وسلم.
+",000,False,000,False,False,False,3,337
+"### ||| AUTO 29- باب في صفة وجهه وعقبيه صلى الله عليه وسلم
+",000,False,000,False,False,False,3,172
+"### ||| AUTO 30- باب شيبه صلى الله عليه وسلم.
+",000,False,000,False,False,False,3,535
+"### ||| AUTO 31- باب خاتم النبوة
+",000,False,000,False,False,False,3,328
+"### ||| AUTO 32- باب فى سنه صلى الله عليه وسلم
+",000,year,000,False,False,False,3,642
+"### ||| AUTO 33- باب في أسمائه صلى الله عليه وسلم.
+",000,False,000,False,False,False,3,250
+"### ||| AUTO 34- باب فى علمه صلى الله عليه وسلم بالله تعالى وشدة خشيته.
+",000,False,000,False,False,False,3,159
+"### ||| AUTO 35- باب الأمر بالتحكم إليه صلى الله عليه وسلم
+",000,False,000,False,False,False,3,136
+"### ||| AUTO 36- باب هلال من خالفة صلى الله عليه وسلم والنهي عن كثرة
+",000,False,000,False,False,False,3,1082
+"### ||| AUTO 37- باب أنتم أعلم بأمر دنياكم
+",000,False,000,False,False,False,3,267
+"### || AUTO 32- كتاب أحاديث الأنبياء
+",000,False,000,False,False,False,2,3519
+"### ||| AUTO 1- باب فضائل عيسى عليه السلام.
+",000,False,000,False,False,False,3,388
+"### ||| AUTO 2- باب من فضائل إبراهيم الخليل صلى الله عليه وسلم.
+",000,False,000,False,False,False,3,504
+"### ||| AUTO 3- باب من فضائل موسى صلى الله عليه وسلم.
+",000,False,000,False,False,False,3,1040
+"### ||| AUTO 4- باب فضائل يونس صلى الله عليه وسلم
+",000,False,000,False,False,False,3,137
+"### ||| AUTO 5- باب فضائل يوسف عليه السلام.
+",000,False,000,False,False,False,3,82
+"### ||| AUTO 6- باب فضائل زكريا عليه السلام.
+",000,False,000,False,False,False,3,37
+"### | AUTO المجلد الثامن
+",000,False,000,False,False,False,1,82096
+"### || AUTO 34- كتاب الآداب
+",000,False,000,False,False,False,2,12613
+"### ||| AUTO 1- باب بر الوالدين
+",000,False,000,False,False,False,3,1067
+"### ||| AUTO 2- باب صلة الرجل أهل ود أبيه
+",000,False,000,False,False,False,3,265
+"### ||| AUTO 3- باب تفسير البر والإثم.
+",000,False,000,False,False,False,3,141
+"### ||| AUTO 4- باب صلة الرحم
+",000,False,000,False,False,False,3,421
+"### ||| AUTO 5- باب النهي عن التباغض والتحاسد والتدابر.
+",000,False,000,False,False,False,3,224
+"### ||| AUTO 6- باب لا يحل لمسلم أن يهجر أخاه فوق ثلاث
+",000,False,000,False,False,False,3,204
+"### ||| AUTO 7- باب النهي عن الظن والتجسس والتنافس
+",000,False,000,False,False,False,3,199
+"### ||| AUTO 8- باب كل المسلم على المسلم حرام.
+",000,False,000,False,False,False,3,189
+"### ||| AUTO 9- باب النهي عن الشحناء.
+",000,False,000,False,False,False,3,226
+"### ||| AUTO 10- باب في فضل الحب في الله.
+",000,False,000,False,False,False,3,166
+"### ||| AUTO 11- باب فضل عيادة المريض.
+",000,False,000,False,False,False,3,344
+"### ||| AUTO 12- باب ثواب المؤمن فيما يصيبه
+",000,False,000,False,False,False,3,881
+"### ||| AUTO 13- باب تحريم الظلم.
+",000,False,000,False,False,False,3,636
+"### ||| AUTO 14- باب النهي عن دعوى الجاهلية
+",000,False,000,False,False,False,3,266
+"### ||| AUTO 15- باب المؤمن للمؤمن كالبنيان
+",000,False,000,False,False,False,3,63
+"### ||| AUTO 16- باب مثل المؤمنين في توادهم وتراحمهم
+",000,False,000,False,False,False,3,176
+"### ||| AUTO 17- باب إثم السباب على البادئ
+",000,False,000,False,False,False,3,46
+"### ||| AUTO 18- باب التواضع.
+",000,False,000,False,False,False,3,53
+"### ||| AUTO 19- باب تفسير الغيبة
+",000,False,000,False,False,False,3,65
+"### ||| AUTO 20- باب من ستره الله في الدنيا
+",000,False,000,False,False,False,3,85
+"### ||| AUTO 21- باب من تركه الناس اتقاء فحشه
+",000,False,000,False,False,False,3,132
+"### ||| AUTO 22- باب فضل الرفق.
+",000,False,000,False,False,False,3,327
+"### ||| AUTO 23- باب النهي عن اللعن
+",000,False,000,False,False,False,3,483
+"### ||| AUTO 24- باب من لعنه النبي صلى الله عليه وسلم أو سبه من المسلمين
+",000,False,000,False,False,False,3,897
+"### ||| AUTO 25- باب شر الناس ذو الوجهين
+",000,False,000,False,False,False,3,152
+"### ||| AUTO 26- باب ليس الكذاب الذي يصلح بين الناس
+",000,False,000,False,False,False,3,166
+"### ||| AUTO 27- باب تحريم النميمة.
+",000,False,000,False,False,False,3,65
+"### ||| AUTO 28- باب ما جاء في الصدق والكذب
+",000,False,000,False,False,False,3,268
+"### ||| AUTO 29- باب الذي ملك نفسه عند الغضب
+",000,False,000,False,False,False,3,245
+"### ||| AUTO 30- باب ما يذهب الغضب
+",000,False,000,False,False,False,3,193
+"### ||| AUTO 31- باب خلق الإنسان خلقا لا يتمالك.
+",000,False,000,False,False,False,3,77
+"### ||| AUTO 32- باب النهي عن ضرب الوجه.
+",000,False,000,False,False,False,3,225
+"### ||| AUTO 33- باب عذاب الذين يعذبون الناس
+",000,False,000,False,False,False,3,207
+"### ||| AUTO 34- باب من مر بمسجد أو سوق ومعه نبل فليمسك بنصالها
+",000,False,000,False,False,False,3,256
+"### ||| AUTO 35- باب النهي عن الإشارة بالسلاح إلى مسلم.
+",000,False,000,False,False,False,3,135
+"### ||| AUTO 36- باب فضل إزالة الأذى عن الطريق.
+",000,False,000,False,False,False,3,268
+"### ||| AUTO 37- باب عذبت امرأة في هرة حبستها
+",000,False,000,False,False,False,3,222
+"### ||| AUTO 38- باب تحريم الكبر.
+",000,False,000,False,False,False,3,53
+"### ||| AUTO 39- باب النهي عن التقنيط من رحمة الله تعالى.
+",000,False,000,False,False,False,3,66
+"### ||| AUTO 40- باب فضل الضعفاء والخاملين.
+",000,False,000,False,False,False,3,45
+"### ||| AUTO 41- باب إذا قال الرجل هلك الناس
+",000,False,000,False,False,False,3,115
+"### ||| AUTO 42- باب الوصية بالجار والإحسان إليه.
+",000,False,000,False,False,False,3,263
+"### ||| AUTO 43- باب طلاقة الوجه عند اللقاء.
+",000,False,000,False,False,False,3,53
+"### ||| AUTO 44- باب الشفاعة
+",000,False,000,False,False,False,3,56
+"### ||| AUTO 45- باب مثل الجليس الصالح والجليس السوء.
+",000,False,000,False,False,False,3,96
+"### ||| AUTO 46- باب فضل الإحسان إلى البنات.
+",000,False,000,False,False,False,3,262
+"### ||| AUTO 47- باب فضل من مات له ولد
+",000,False,000,False,False,False,3,565
+"### ||| AUTO 48- باب إذا أحب الله عبدا
+",000,False,000,False,False,False,3,227
+"### ||| AUTO 49- باب الأرواح جنود مجندة.
+",000,False,000,False,False,False,3,91
+"### ||| AUTO 50- باب المرء مع من أحب.
+",000,False,000,False,False,False,3,593
+"### || AUTO 35- كتاب القدر.
+",000,False,000,False,False,False,2,3650
+"### ||| AUTO 1- باب خلق الإنسان وكتابة رزقه وأجله وعمله
+",000,False,000,False,False,False,3,695
+"### ||| AUTO 2- باب كل ميسر لما خلق له
+",000,False,000,False,False,False,3,701
+"### ||| AUTO 3- باب الأعمال بالخواتيم
+",000,False,000,False,False,False,3,116
+"### ||| AUTO 4- باب حجاج آدم وموسى عليهما السلام.
+",000,False,000,False,False,False,3,461
+"### ||| AUTO 5- باب متى كتب الله المقادير
+",000,False,000,False,False,False,3,101
+"### ||| AUTO 6- باب تصريف الله تعالى القلوب كيف شاء.
+",000,False,000,False,False,False,3,87
+"### ||| AUTO 7- باب كل شيء بقدر.
+",000,False,000,False,False,False,3,131
+"### ||| AUTO 8- باب كتب على ابن آدم حظه من الزنا
+",000,False,000,False,False,False,3,147
+"### ||| AUTO 9- باب كل مولود يولد على الفطرة
+",000,False,000,False,False,False,3,394
+"### ||| AUTO 10- باب أولاد المشركين
+",000,False,000,False,False,False,3,176
+"### ||| AUTO 11- باب الغلام الذي قتله الخضر
+",000,False,000,False,False,False,3,61
+"### ||| AUTO 12- باب أهل الجنة وأهل النار
+",000,False,000,False,False,False,3,176
+"### ||| AUTO 13- باب آجال مضروبة وأيام معدودة وأرزاق مقسومة
+",000,False,000,False,False,False,3,319
+"### || AUTO 36- كتاب العلم.
+",000,False,000,False,False,False,2,1815
+"### ||| AUTO 1- باب النهي عن اتباع متشابه القرآن
+",000,False,000,False,False,False,3,104
+"### ||| AUTO 2- باب النهي عن الاختلاف في القرآن
+",000,False,000,False,False,False,3,180
+"### ||| AUTO 3- باب في الألد الخصم.
+",000,False,000,False,False,False,3,41
+"### ||| AUTO 4- باب اتباع سنن اليهود والنصارى.
+",000,False,000,False,False,False,3,113
+"### ||| AUTO 5- باب هلك المتنطعون.
+",000,False,000,False,False,False,3,50
+"### ||| AUTO 6- باب رفع العلم
+",000,False,000,False,False,False,3,952
+"### ||| AUTO 7- باب من سن سنة حسنة
+",000,year,000,False,False,False,3,296
+"### || AUTO 37- كتاب الدعوات
+",000,False,000,False,False,False,2,7587
+"### ||| AUTO 1- باب فضل الذكر
+",000,False,000,False,False,False,3,217
+"### ||| AUTO 2- باب في أسماء الله تعالى وفضل من أحصاها.
+",000,False,000,False,False,False,3,125
+"### ||| AUTO 3- باب العزم بالدعاء ولا يقل إن شئت.
+",000,False,000,False,False,False,3,168
+"### ||| AUTO 4- باب النهي عن تمني الموت
+",000,False,000,False,False,False,3,278
+"### ||| AUTO 5- باب من أحب لقاء الله
+",000,False,000,False,False,False,3,449
+"### ||| AUTO 6- باب فضل الدعاء
+",000,False,000,False,False,False,3,310
+"### ||| AUTO 7- باب ما ينهى عنه من الدعاء
+",000,False,000,False,False,False,3,196
+"### ||| AUTO 8- باب فضل مجالس الذكر.
+",000,False,000,False,False,False,3,158
+"### ||| AUTO 9- باب أكثر دعاء النبي صلى الله عليه وسلم
+",000,False,000,False,False,False,3,111
+"### ||| AUTO 10- باب فضل التهليل والتسبيح والتحميد والدعاء.
+",000,False,000,False,False,False,3,689
+"### ||| AUTO 11- باب فضل الاجتماع على تلاوة القرآن الذكر.
+",000,False,000,False,False,False,3,386
+"### ||| AUTO 12- باب في التوبة
+",000,False,000,False,False,False,3,209
+"### ||| AUTO 13- باب عن الجهر بالذكر والدعاء
+",000,False,000,False,False,False,3,317
+"### ||| AUTO 14- باب فضل لا حول ولا قوة إلا بالله
+",000,False,000,False,False,False,3,63
+"### ||| AUTO 15- باب من أدعية الصلاة
+",000,False,000,False,False,False,3,137
+"### ||| AUTO 16- باب الاستعاذة
+",000,False,000,False,False,False,3,555
+"### ||| AUTO 17- باب ما يقول عند النوم وأخذ المضجع.
+",000,False,000,False,False,False,3,801
+"### ||| AUTO 18- باب من دعاء النبي صلى الله عليه وسل
+",000,False,000,False,False,False,3,1096
+"### ||| AUTO 19- باب التسبيح أول النهار
+",000,False,000,False,False,False,3,166
+"### ||| AUTO 20- باب التكبير والتسبيح والتحميد عند النوم
+",000,False,000,False,False,False,3,334
+"### ||| AUTO 21- باب استحباب الدعاء عند صياح الديك.
+",000,False,000,False,False,False,3,54
+"### ||| AUTO 22- باب دعاء الكرب.
+",000,False,000,False,False,False,3,186
+"### ||| AUTO 23- باب فضل سبحان الله وبحمده.
+",000,False,000,False,False,False,3,117
+"### ||| AUTO 24- باب فضل الدعاء للمسلمين بظهر الغيب.
+",000,False,000,False,False,False,3,234
+"### ||| AUTO 25- باب استحباب حمد الله تعالى بعد الأكل والشرب.
+",000,False,000,False,False,False,3,79
+"### || AUTO أبواب آخر الدعوات
+",000,False,000,False,False,False,2,551
+"### ||| AUTO 27- باب أكثر أهل النار
+",000,False,000,False,False,False,3,335
+"### || AUTO 38- كتاب التوبة
+",000,False,000,False,False,False,2,15203
+"### ||| AUTO 1- باب قصة أصحاب الغارالثلاثة
+",000,False,000,False,False,False,3,501
+"### ||| AUTO 2- باب فرح الله بتوبة عبده
+",000,False,000,False,False,False,3,684
+"### ||| AUTO 3- باب لو لم تذنبوا
+",000,False,000,False,False,False,3,164
+"### ||| AUTO 4- باب ساعة وساعة
+",000,False,000,False,False,False,3,306
+"### ||| AUTO 5- باب في سعة رحمة الله تعالى
+",000,False,000,False,False,False,3,1291
+"### ||| AUTO 6- باب غيرة الله تعالى وتحريم الفواحش.
+",000,False,000,False,False,False,3,476
+"### ||| AUTO 7- باب قوله تعالى : {إن الحسنات يذهبن السيئات}
+",000,False,000,False,False,False,3,587
+"### ||| AUTO 8- باب قبول توبة القاتل
+",000,False,000,False,False,False,3,299
+"### ||| AUTO 9- باب فكاك المسلم من النار
+",000,False,000,False,False,False,3,250
+"### ||| AUTO 10- باب النجوى
+",000,False,000,False,False,False,3,88
+"### ||| AUTO 11- باب حديث توبة كعب بن مالك وصاحبيه.
+",000,False,000,False,False,False,3,1910
+"### ||| AUTO 12- باب في حديث الإفك
+",000,False,000,False,False,False,3,1774
+"### ||| AUTO 13- باب براءة حرم النبي صلى الله عليه وسلم من الريبة.
+",000,False,000,False,False,False,3,90
+"### ||| AUTO 14- باب ذكر المنافقين
+",000,False,000,False,False,False,3,1632
+"### ||| AUTO 15- باب طي السماوات والأرض يوم القيامة
+",000,False,000,False,False,False,3,533
+"### ||| AUTO 16- باب أيام الخلق
+",000,False,000,False,False,False,3,122
+"### ||| AUTO 17- باب صفة الأرض يوم القيامة
+",000,False,000,False,False,False,3,227
+"### ||| AUTO 18- باب لو تابعني عشرة من اليهود
+",000,False,000,False,False,False,3,46
+"### ||| AUTO 19- باب الروح
+",000,False,000,False,False,False,3,215
+"### ||| AUTO 20- باب في نزول {أفرأيت الذي كفر بآياتنا}
+",000,False,000,False,False,False,3,137
+"### ||| AUTO 21- باب في نزول {وما كان الله ليعذبهم وأنت فيهم}
+",000,False,000,False,False,False,3,74
+"### ||| AUTO 22- باب في نزول {كلا إن الإنسان ليطغى}
+",000,False,000,False,False,False,3,189
+"### ||| AUTO 23- باب آية الدخان.
+",000,False,000,False,False,False,3,388
+"### ||| AUTO 24- باب ما مضى من الآيات
+",000,False,000,False,False,False,3,115
+"### ||| AUTO 25- باب انشقاق القمر.
+",000,False,000,False,False,False,3,395
+"### ||| AUTO 26- باب لا أحد أصبر على أذى من الله عز وجل.
+",000,False,000,False,False,False,3,159
+"### ||| AUTO 27- باب طلب الكافر الفداء بملء الأرض ذهبا.
+",000,False,000,False,False,False,3,218
+"### ||| AUTO 28- باب يحشر الكافر على وجهه.
+",000,False,000,False,False,False,3,65
+"### ||| AUTO 29- باب صبغ أنعم أهل الدنيا في النار
+",000,False,000,False,False,False,3,108
+"### ||| AUTO 30- باب جزاء المؤمن بحسناته وجزاء الكافر
+",000,False,000,False,False,False,3,153
+"### ||| AUTO 31- باب مثل المؤمن كالزرع
+",000,False,000,False,False,False,3,330
+"### ||| AUTO 32- باب مثل المؤمن مثل النخلة.
+",000,False,000,False,False,False,3,330
+"### ||| AUTO 33- باب تحريش الشيطان
+",000,False,000,False,False,False,3,71
+"### ||| AUTO 34- باب عرش إبليس وبعث سراياه
+",000,False,000,False,False,False,3,162
+"### ||| AUTO 35- باب القرين
+",000,False,000,False,False,False,3,213
+"### ||| AUTO 36- باب لن ينجي أحدا منكم عمله
+",000,False,000,False,False,False,3,554
+"### ||| AUTO 37- باب أفلا أكون عبدا شكورا
+",000,False,000,False,False,False,3,159
+"### || AUTO 39- كتاب الجنة
+",000,False,000,False,False,False,2,2015
+"### ||| AUTO 1- باب حفت الجنة بالمكاره
+",000,False,000,False,False,False,3,65
+"### ||| AUTO 2- باب ما أعده الله لعباده الصالحين
+",000,False,000,False,False,False,3,280
+"### ||| AUTO 3- باب إن في الجنة شجرة
+",000,False,000,False,False,False,3,150
+"### ||| AUTO 4- باب إحلال الرضوان على أهل الجنة
+",000,False,000,False,False,False,3,115
+"### ||| AUTO 5- باب غرف الجنة
+",000,False,000,False,False,False,3,174
+"### ||| AUTO 6- باب فيمن يود رؤية النبي صلى الله عليه وسلم بأهله وماله.
+",000,False,000,False,False,False,3,54
+"### ||| AUTO 7- باب في سوق الجنة
+",000,False,000,False,False,False,3,74
+"### ||| AUTO 8- باب أول زمرة تدخل الجنة
+",000,False,000,False,False,False,3,583
+"### ||| AUTO 9- باب في دوام نعيم أهل الجنة
+",000,False,000,False,False,False,3,124
+"### ||| AUTO 10- باب في صفة خيام الجنة
+",000,False,000,False,False,False,3,163
+"### ||| AUTO 11- باب ما في الدنيا من أنهار الجنة.
+",000,False,000,False,False,False,3,74
+"### ||| AUTO 12- باب يدخل الجنة أقوام أفئدتهم مثل أفئدة الطير.
+",000,False,000,False,False,False,3,53
+"### || AUTO 40- كتاب صفة النار
+",000,False,000,False,False,False,2,4771
+"### ||| AUTO 1- باب ماجاء في جر الملائكة لجهنم
+",000,False,000,False,False,False,3,50
+"### ||| AUTO 2- باب ناركم جزء من سبعين جزءا من حر جهنم
+",000,False,000,False,False,False,3,101
+"### ||| AUTO 3- باب بعد قعر جهنم
+",000,False,000,False,False,False,3,98
+"### ||| AUTO 4- باب كيف تأخذ النار أهلها
+",000,False,000,False,False,False,3,130
+"### ||| AUTO 5- باب احتجت النار والجنة
+",000,False,000,False,False,False,3,340
+"### ||| AUTO 6- باب لا تزال جهنم تقول هل من مزيد
+",000,False,000,False,False,False,3,201
+"### ||| AUTO 7- باب ذبح الموت
+",000,False,000,False,False,False,3,337
+"### ||| AUTO 8- باب ضرس الكافر في جهنم وغلظ جلده
+",000,False,000,False,False,False,3,53
+"### ||| AUTO 9- باب ما بين منكبي الكافر في النار
+",000,False,000,False,False,False,3,49
+"### ||| AUTO 10- باب أهل الجنة وأهل النار
+",000,False,000,False,False,False,3,551
+"### ||| AUTO 11- باب مدة الدنيا
+",000,False,000,False,False,False,3,128
+"### ||| AUTO 12- باب صفة الحشر
+",000,False,000,False,False,False,3,381
+"### ||| AUTO 13- باب صفة العرق يوم القيامة
+",000,False,000,False,False,False,3,320
+"### ||| AUTO 14- باب صفات أهل الجنة وأهل النار.
+",000,False,000,False,False,False,3,404
+"### ||| AUTO 15- باب عرض مقعد الميت من الجنة أو النار عليه
+",000,False,000,False,False,False,3,119
+"### ||| AUTO 16- باب عذاب القبر
+",000,False,000,False,False,False,3,303
+"### ||| AUTO 17- باب في سؤال القبر
+",000,False,000,False,False,False,3,302
+"### ||| AUTO 18- باب في خروج روح المؤمن وروح الكافر
+",000,False,000,False,False,False,3,118
+"### ||| AUTO 19- باب النداء على هلكى الكفار يوم بدر
+",000,False,000,False,False,False,3,369
+"### ||| AUTO 20- باب من نوقش الحساب هلك
+",000,False,000,False,False,False,3,177
+"### ||| AUTO 21- باب الأمر بحسن الظن بالله تعالى عند الموت.
+",000,False,000,False,False,False,3,127
+"### || AUTO 41- كتاب الفتن
+",000,False,000,False,False,False,2,13263
+"### ||| AUTO 1- باب اقتراب الفتن وفتح ردم يأجوج ومأجوج.
+",000,False,000,False,False,False,3,287
+"### ||| AUTO 2- باب الخسف بالجيش الذي يغزو البيت.
+",000,False,000,False,False,False,3,435
+"### ||| AUTO 3- باب نزول الفتن كمواقع القطر.
+",000,False,000,False,False,False,3,81
+"### ||| AUTO 4- باب الساعي في الفتنة
+",000,False,000,False,False,False,3,391
+"### ||| AUTO 5- باب إذا تواجه المسلمان بسيفيهما.
+",000,False,000,False,False,False,3,215
+"### ||| AUTO 6- باب لا تقوم الساعة حتى تقتتل فئتان
+",000,False,000,False,False,False,3,60
+"### ||| AUTO 7- باب في كثرة القتل
+",000,False,000,False,False,False,3,49
+"### ||| AUTO 8- باب هلاك هذه الأمة بعضهم ببعض.
+",000,False,000,False,False,False,3,315
+"### ||| AUTO 9- باب إخبار النبي صلى الله عليه وسلم فيما يكون من الفتن
+",000,False,000,False,False,False,3,358
+"### ||| AUTO 10- باب في الفتنة التي تموج كموج البحر.
+",000,False,000,False,False,False,3,336
+"### ||| AUTO 11- باب حسر الفرات عن جبل من ذهب
+",000,False,000,False,False,False,3,288
+"### ||| AUTO 12- باب في منع الزكاة
+",000,False,000,False,False,False,3,78
+"### ||| AUTO 13- باب في فتح قسطنطينية ، وخروج الدجال ونزول عيسى ابن مريم.
+",000,False,000,False,False,False,3,159
+"### ||| AUTO 14- باب تقوم الساعة والروم أكثر الناس.
+",000,False,000,False,False,False,3,188
+"### ||| AUTO 15- باب في قتال الروم
+",000,False,000,False,False,False,3,348
+"### ||| AUTO 16- باب ما يكون من فتوحات المسلمين قبل الدجال.
+",000,False,000,False,False,False,3,124
+"### ||| AUTO 17- باب في الآيات التي تكون قبل الساعة.
+",000,False,000,False,False,False,3,369
+"### ||| AUTO 18- باب لا تقوم الساعة حتى تخرج نار من أرض الحجاز.
+",000,False,000,False,False,False,3,87
+"### ||| AUTO 19- باب ما تبلغه مساكن المدينة
+",000,False,000,False,False,False,3,55
+"### ||| AUTO 20- باب ليست السنة بأن لا تمطروا
+",000,year,000,False,False,False,3,49
+"### ||| AUTO 21- باب الفتنة فى المشرق
+",000,False,000,False,False,False,3,362
+"### ||| AUTO 22- باب لا تقوم الساعة حتى تعبد دوس ذا الخلصة.
+",000,False,000,False,False,False,3,65
+"### ||| AUTO 23- باب عبادة اللات والعزى
+",000,False,000,False,False,False,3,127
+"### ||| AUTO 24- باب لا تقوم الساعة حتى يمر الرجل بقبر الرجل فيقول يا
+",000,False,000,False,False,False,3,121
+"### ||| AUTO 25- باب فتنة القتل
+",000,False,000,False,False,False,3,132
+"### ||| AUTO 26- باب في خراب الكعبة
+",000,False,000,False,False,False,3,119
+"### ||| AUTO 27- باب في رجل قحطان
+",000,False,000,False,False,False,3,48
+"### ||| AUTO 28- باب الجهجاه
+",000,False,000,False,False,False,3,64
+"### ||| AUTO 29- باب في قتال الترك
+",000,False,000,False,False,False,3,224
+"### ||| AUTO 30- باب يكون في آخر أمتي خليفة يحثي المال حثيا
+",000,False,000,False,False,False,3,256
+"### ||| AUTO 31- باب تقتل عمارا الفئة الباغية
+",000,False,000,False,False,False,3,265
+"### ||| AUTO 32- باب يهلك أمتي هذا الحي من قريش
+",000,False,000,False,False,False,3,73
+"### ||| AUTO 33- باب إذا هلك كسرى
+",000,False,000,False,False,False,3,257
+"### ||| AUTO 34- باب غزو مدينة جانب منها في البر وجانب منها في البحر
+",000,False,000,False,False,False,3,362
+"### ||| AUTO 36- باب إن بين يدي الساعة كذابين
+",000,False,000,False,False,False,3,181
+"### ||| AUTO 37- باب ذكر ابن صياد.
+",000,False,000,False,False,False,3,1648
+"### ||| AUTO 38- باب ذكر الدجال
+",000,False,000,False,False,False,3,2214
+"### ||| AUTO 39- باب أول الآيات خروجا
+",000,False,000,False,False,False,3,172
+"### ||| AUTO 40- باب قصة الجساسة
+",000,False,000,False,False,False,3,1005
+"### ||| AUTO 41- باب الدجال لا يدخل مكة والمدينة
+",000,False,000,False,False,False,3,118
+"### ||| AUTO 42- باب في يهود أصبهان
+",000,False,000,False,False,False,3,46
+"### ||| AUTO 43- باب الفرار من الدجال وقلة العرب
+",000,False,000,False,False,False,3,77
+"### ||| AUTO 44- باب ما بين خلق آدم إلى الدجال
+",000,False,000,False,False,False,3,140
+"### ||| AUTO 45- باب بادروا بالأعمال ستا
+",000,False,000,False,False,False,3,123
+"### ||| AUTO 46- باب فضل العبادة في الهرج.
+",000,False,000,False,False,False,3,78
+"### ||| AUTO 47- باب لا تقوم الساعة إلا على شرار الناس
+",000,False,000,False,False,False,3,50
+"### ||| AUTO 48- باب قرب الساعة
+",000,False,000,False,False,False,3,464
+"### ||| AUTO 49- باب حال من تقوم عليهم الساعة
+",000,False,000,False,False,False,3,60
+"### || AUTO 42- كتاب الرقاق
+",000,False,000,False,False,False,2,8151
+"### ||| AUTO 1- باب الدنيا سجن المؤمن
+",000,False,000,False,False,False,3,38
+"### ||| AUTO 2- باب هوان الدنيا على الله
+",000,False,000,False,False,False,3,136
+"### ||| AUTO 3- باب يقول ابن آدم مالي مالي
+",000,False,000,False,False,False,3,177
+"### ||| AUTO 4- باب يتبع الميت ثلاثة
+",000,False,000,False,False,False,3,60
+"### ||| AUTO 5- باب ما يخاف من بسط الدنيا
+",000,False,000,False,False,False,3,309
+"### ||| AUTO 6- باب انظروا إلى من أسفل منك
+",000,False,000,False,False,False,3,152
+"### ||| AUTO 7- باب قصة الأبرص والأقرع والأعمى
+",000,False,000,False,False,False,3,354
+"### ||| AUTO 8- باب إن الله يحب العبد التقي الغني الخفي
+",000,False,000,False,False,False,3,446
+"### ||| AUTO 10- باب شهود الجوارح على الإنسان بما عمل
+",000,False,000,False,False,False,3,303
+"### ||| AUTO 11- باب زهده صلى الله عليه وسلم في معيشته
+",000,False,000,False,False,False,3,980
+"### ||| AUTO 12- باب فقراء المهاجرين
+",000,False,000,False,False,False,3,142
+"### ||| AUTO 13- باب النهي عن دخول مساكن الظالمين الذين وقع عليهم عذاب
+",000,False,000,False,False,False,3,227
+"### ||| AUTO 14- باب فضل الساعي على الأرملة والمسكين
+",000,False,000,False,False,False,3,52
+"### ||| AUTO 15- باب فضل كافل اليتيم
+",000,False,000,False,False,False,3,53
+"### ||| AUTO 16- باب فضل بناء المساجد.
+",000,False,000,False,False,False,3,185
+"### ||| AUTO 17- باب الصدقة في المساكين.
+",000,False,000,False,False,False,3,172
+"### ||| AUTO 18- باب من أشرك في عمله غير الله.
+",000,False,000,False,False,False,3,61
+"### ||| AUTO 19- باب من سمع سمع الله به
+",000,False,000,False,False,False,3,175
+"### ||| AUTO 20- باب التكلم بالكلمة يهوي بها في النار.
+",000,False,000,False,False,False,3,105
+"### ||| AUTO 21- باب عقوبة من يأمر بالمعروف ولا يفعله
+",000,False,000,False,False,False,3,173
+"### ||| AUTO 22- باب من جاهر بذنبه
+",000,False,000,False,False,False,3,89
+"### ||| AUTO 3- باب تشميت العاطس إذا حمد الله
+",000,False,000,False,False,False,3,243
+"### ||| AUTO 24- باب التثاؤب من الشيطان
+",000,False,000,False,False,False,3,201
+"### ||| AUTO 25- باب في خلق الملائكة والجان وآد
+",000,False,000,False,False,False,3,57
+"### ||| AUTO 26- باب في الفأر وأنه مسخ.
+",000,False,000,False,False,False,3,158
+"### ||| AUTO 27- باب لا يلدغ المؤمن من جحر مرتين.
+",000,False,000,False,False,False,3,86
+"### ||| AUTO 28- باب المؤمن أمره كله خير.
+",000,False,000,False,False,False,3,69
+"### ||| AUTO 29- باب النهي عن المدح
+",000,False,000,False,False,False,3,426
+"### ||| AUTO 30- باب مناولة الأكبر
+",000,False,000,False,False,False,3,55
+"### ||| AUTO 31- باب التريث في الكلا
+",000,False,000,False,False,False,3,61
+"### ||| AUTO 32- باب النهي عن كتابة غير القرآن
+",000,False,000,False,False,False,3,62
+"### ||| AUTO 33- باب قصة أصحاب الأخدود والساحر والراهب والغلا
+",000,False,000,False,False,False,3,540
+"### ||| AUTO 34- باب حديث جابر الطويل وقصة أبي اليسر.
+",000,False,000,False,False,False,3,1368

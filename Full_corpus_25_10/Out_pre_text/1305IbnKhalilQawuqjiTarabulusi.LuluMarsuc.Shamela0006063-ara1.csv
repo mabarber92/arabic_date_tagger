@@ -1,0 +1,1559 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | (حرف الهمزة)
+",000,False,000,False,False,False,1,4
+"### | 1 - 
+",000,False,000,False,False,False,1,21
+"### | 2 - 
+",000,False,000,False,False,False,1,14
+"### | 3 - 
+",000,False,000,False,False,False,1,16
+"### | 4 - 
+",000,False,000,False,False,False,1,17
+"### | 5 - 
+",000,False,000,False,False,False,1,23
+"### | 6 - 
+",000,False,000,False,False,False,1,24
+"### | 7 - 
+",000,False,000,False,False,False,1,17
+"### | 8 - 
+",000,False,000,False,False,False,1,21
+"### | 9 - 
+",000,False,000,False,False,False,1,43
+"### | 10 - 
+",000,False,000,False,False,False,1,16
+"### | 11 - 
+",000,False,000,False,False,False,1,23
+"### | 12 - 
+",000,False,000,False,False,False,1,19
+"### | 13 - 
+",000,False,000,False,False,False,1,17
+"### | 14 - 
+",000,False,000,False,False,False,1,13
+"### | 15 - 
+",000,False,000,False,False,False,1,28
+"### | 16 - 
+",000,False,000,False,False,False,1,15
+"### | 17 - 
+",000,False,000,False,False,False,1,32
+"### | 18 - 
+",000,False,000,False,False,False,1,17
+"### | 19 - 
+",000,False,000,False,False,False,1,71
+"### | 20 - 
+",000,False,000,False,False,False,1,13
+"### | 21 - 
+",000,False,000,False,False,False,1,29
+"### | 22 - 
+",000,False,000,False,False,False,1,26
+"### | 23 - 
+",000,False,000,False,False,False,1,22
+"### | 24 - 
+",000,False,000,False,False,False,1,21
+"### | 25 - 
+",000,False,000,False,False,False,1,32
+"### | 26 - 
+",000,False,000,False,False,False,1,31
+"### | 27 - 
+",000,False,000,False,False,False,1,27
+"### | 28 - 
+",000,False,000,False,False,False,1,31
+"### | 29 - 
+",000,False,000,False,False,False,1,19
+"### | 30 - 
+",000,False,000,False,False,False,1,25
+"### | 31 - 
+",000,False,000,False,False,False,1,32
+"### | 32 - 
+",000,False,000,False,False,False,1,12
+"### | 33 - 
+",000,False,000,False,False,False,1,27
+"### | 34 - 
+",000,False,000,False,False,False,1,19
+"### | 35 - 
+",000,False,000,False,False,False,1,23
+"### | 36 - 
+",000,False,000,False,False,False,1,27
+"### | 37 - 
+",000,False,000,False,False,False,1,12
+"### | 38 - 
+",000,False,000,False,False,False,1,26
+"### | 39 - 
+",000,False,000,False,False,False,1,15
+"### | 40 - 
+",000,False,000,False,False,False,1,62
+"### | 41 - 
+",000,False,000,False,False,False,1,16
+"### | 42 - 
+",000,False,000,False,False,False,1,23
+"### | 43 - 
+",000,False,000,False,False,False,1,29
+"### | 44 - 
+",000,False,000,False,False,False,1,24
+"### | 45 - 
+",000,False,000,False,False,False,1,34
+"### | 46 - 
+",000,False,000,False,False,False,1,17
+"### | 47 - 
+",000,False,000,False,False,False,1,19
+"### | 48 - 
+",000,False,000,False,False,False,1,15
+"### | 49 - 
+",000,False,000,False,False,False,1,24
+"### | 50 - 
+",000,False,000,False,False,False,1,17
+"### | 51 - 
+",000,False,000,False,False,False,1,9
+"### | 52 - 
+",000,False,000,False,False,False,1,19
+"### | 53 - 
+",000,False,000,False,False,False,1,11
+"### | 54 - 
+",000,False,000,False,False,False,1,13
+"### | 55 - 
+",000,False,000,False,False,False,1,13
+"### | 56 - 
+",000,False,000,False,False,False,1,13
+"### | 57 - 
+",000,False,000,False,False,False,1,38
+"### | 58 - 
+",000,False,000,False,False,False,1,62
+"### | 59 - 
+",000,False,000,False,False,False,1,14
+"### | 60 - 
+",000,False,000,False,False,False,1,21
+"### | 61 - 
+",000,False,000,False,False,False,1,9
+"### | 62 - 
+",000,False,000,False,False,False,1,16
+"### | 63 - 
+",000,False,000,False,False,False,1,11
+"### | 64 - 
+",000,False,000,False,False,False,1,11
+"### | 65 - 
+",000,False,000,False,False,False,1,13
+"### | 66 - 
+",000,False,000,False,False,False,1,17
+"### | 67 - 
+",000,False,000,False,False,False,1,25
+"### | 68 - 
+",000,False,000,False,False,False,1,21
+"### | 69 - 
+",000,False,000,False,False,False,1,17
+"### | 70 - 
+",000,False,000,False,False,False,1,17
+"### | 71 - 
+",000,False,000,False,False,False,1,9
+"### | 72 - 
+",000,False,000,False,False,False,1,23
+"### | 73 - 
+",000,False,000,False,False,False,1,30
+"### | 74 - 
+",000,False,000,False,False,False,1,21
+"### | 75 - 
+",000,False,000,False,False,False,1,17
+"### | 76 - 
+",000,False,000,False,False,False,1,23
+"### | 77 - 
+",000,False,000,False,False,False,1,32
+"### | 78 - 
+",000,False,000,False,False,False,1,22
+"### | 79 - 
+",000,False,000,False,False,False,1,25
+"### | 80 - 
+",000,False,000,False,False,False,1,17
+"### | 81 - 
+",000,False,000,False,False,False,1,17
+"### | 82 - 
+",000,False,000,False,False,False,1,27
+"### | 83 - 
+",000,False,000,False,False,False,1,28
+"### | 84 - 
+",000,False,000,False,False,False,1,36
+"### | 85 - 
+",000,False,000,False,False,False,1,31
+"### | 86 - 
+",000,False,000,False,False,False,1,19
+"### | 87 - 
+",000,False,000,False,False,False,1,15
+"### | 88 - 
+",000,False,000,False,False,False,1,32
+"### | 89 - 
+",000,False,000,False,False,False,1,17
+"### | 90 - 
+",000,False,000,False,False,False,1,27
+"### | 91 - 
+",000,False,000,False,False,False,1,16
+"### | 92 - 
+",000,False,000,False,False,False,1,27
+"### | 93 - 
+",000,False,000,False,False,False,1,30
+"### | 94 - 
+",000,False,000,False,False,False,1,26
+"### | 95 - 
+",000,False,000,False,False,False,1,25
+"### | 96 - 
+",000,False,000,False,False,False,1,52
+"### | 97 - 
+",000,False,000,False,False,False,1,39
+"### | 98 - 
+",000,False,000,False,False,False,1,13
+"### | 99 - 
+",000,False,000,False,False,False,1,32
+"### | 100 - 
+",000,False,000,False,False,False,1,19
+"### | 101 - 
+",000,False,000,False,False,False,1,33
+"### | 102 - 
+",000,False,000,False,False,False,1,14
+"### | 103 - 
+",000,False,000,False,False,False,1,21
+"### | 104 - 
+",000,False,000,False,False,False,1,44
+"### | 105 - 
+",000,False,000,False,False,False,1,14
+"### | 106 - 
+",000,False,000,False,False,False,1,25
+"### | 107 - 
+",000,False,000,False,False,False,1,21
+"### | 108 - 
+",000,False,000,False,False,False,1,13
+"### | 109 - 
+",000,False,000,False,False,False,1,23
+"### | 110 - 
+",000,False,000,False,False,False,1,23
+"### | 111 - 
+",000,False,000,False,False,False,1,19
+"### | 112 - 
+",000,False,000,False,False,False,1,36
+"### | 113 - 
+",000,False,000,False,False,False,1,21
+"### | 114 - 
+",000,False,000,False,False,False,1,22
+"### | 115 - 
+",000,False,000,False,False,False,1,33
+"### | 116 - 
+",000,False,000,False,False,False,1,27
+"### | 117 - 
+",000,False,000,False,False,False,1,42
+"### | 118 - 
+",000,False,000,False,False,False,1,31
+"### | 119 - 
+",000,False,000,False,False,False,1,32
+"### | 120 - 
+",000,False,000,False,False,False,1,22
+"### | 121 - 
+",000,False,000,False,False,False,1,20
+"### | 122 - 
+",000,False,000,False,False,False,1,31
+"### | 123 - 
+",000,False,000,False,False,False,1,42
+"### | 124 - 
+",000,False,000,False,False,False,1,20
+"### | (حرف الباء)
+",000,False,000,False,False,False,1,4
+"### | 125 - 
+",000,False,000,False,False,False,1,31
+"### | 126 - 
+",000,False,000,False,False,False,1,17
+"### | 127 - 
+",000,False,000,False,False,False,1,13
+"### | 128 - 
+",000,False,000,False,False,False,1,10
+"### | 129 - 
+",000,False,000,False,False,False,1,21
+"### | 130 - 
+",000,False,000,False,False,False,1,14
+"### | 131 - 
+",000,False,000,False,False,False,1,13
+"### | 132 - 
+",000,False,000,False,False,False,1,21
+"### | 133 - 
+",000,False,000,False,False,False,1,17
+"### | 134 - 
+",000,False,000,False,False,False,1,33
+"### | 135 - 
+",000,False,000,False,False,False,1,10
+"### | 136 - 
+",000,False,000,False,False,False,1,23
+"### | 137 - 
+",000,False,000,False,False,False,1,19
+"### | 138 - 
+",000,False,000,False,False,False,1,25
+"### | 139 - 
+",000,False,000,False,False,False,1,17
+"### | 140 - 
+",000,False,000,False,False,False,1,16
+"### | 141 - 
+",000,False,000,False,False,False,1,19
+"### | 142 - 
+",000,False,000,False,False,False,1,20
+"### | (حرف التاء الفوقية)
+",000,False,000,False,False,False,1,6
+"### | 143 - 
+",000,False,000,False,False,False,1,21
+"### | 144 - 
+",000,False,000,False,False,False,1,25
+"### | 145 - 
+",000,False,000,False,False,False,1,13
+"### | 146 - 
+",000,False,000,False,False,False,1,7
+"### | 147 - 
+",000,False,000,False,False,False,1,15
+"### | 148 - 
+",000,False,000,False,False,False,1,21
+"### | 149 - 
+",000,False,000,False,False,False,1,37
+"### | 150 - 
+",000,False,000,False,False,False,1,36
+"### | 151 - 
+",000,False,000,False,False,False,1,13
+"### | 152 - 
+",000,False,000,False,False,False,1,24
+"### | 153 - 
+",000,False,000,False,False,False,1,16
+"### | 154 - 
+",000,False,000,False,False,False,1,17
+"### | (حرف الثاء المثلثة)
+",000,False,000,False,False,False,1,6
+"### | 155 - 
+",000,False,000,False,False,False,1,25
+"### | 156 - 
+",000,False,000,False,False,False,1,39
+"### | 157 - 
+",000,False,000,False,False,False,1,18
+"### | (حرف الجيم)
+",000,False,000,False,False,False,1,4
+"### | 158 - 
+",000,False,000,False,False,False,1,21
+"### | 159 - 
+",000,False,000,False,False,False,1,25
+"### | 160 - 
+",000,False,000,False,False,False,1,22
+"### | 161 - 
+",000,False,000,False,False,False,1,25
+"### | 162 - 
+",000,False,000,False,False,False,1,25
+"### | 163 - 
+",000,False,000,False,False,False,1,15
+"### | 164 - 
+",000,False,000,False,False,False,1,17
+"### | (حرف الحاء)
+",000,False,000,False,False,False,1,4
+"### | 165 - 
+",000,False,000,False,False,False,1,25
+"### | 166 - 
+",000,False,000,False,False,False,1,15
+"### | 167 - 
+",000,False,000,False,False,False,1,26
+"### | 168 - 
+",000,False,000,False,False,False,1,36
+"### | 169 - 
+",000,False,000,False,False,False,1,23
+"### | 170 - 
+",000,False,000,False,False,False,1,23
+"### | 171 - 
+",000,False,000,False,False,False,1,25
+"### | 172 - 
+",000,False,000,False,False,False,1,12
+"### | 173 - 
+",000,False,000,False,False,False,1,17
+"### | 174 - 
+",000,False,000,False,False,False,1,18
+"### | 175 - 
+",000,False,000,False,False,False,1,17
+"### | 176 - 
+",000,False,000,False,False,False,1,16
+"### | 177 - 
+",000,False,000,False,False,False,1,27
+"### | 178 - 
+",000,False,000,False,False,False,1,27
+"### | 179 - 
+",000,False,000,False,False,False,1,25
+"### | 180 - 
+",000,False,000,False,False,False,1,25
+"### | 181 - 
+",000,False,000,False,False,False,1,15
+"### | 182 - 
+",000,False,000,False,False,False,1,9
+"### | (حرف الخاء)
+",000,False,000,False,False,False,1,4
+"### | 183 - 
+",000,False,000,False,False,False,1,14
+"### | 184 - 
+",000,False,000,False,False,False,1,28
+"### | 185 - 
+",000,False,000,False,False,False,1,13
+"### | 186 - 
+",000,False,000,False,False,False,1,17
+"### | 187 - 
+",000,False,000,False,False,False,1,11
+"### | 188 - 
+",000,False,000,False,False,False,1,17
+"### | 189 - 
+",000,False,000,False,False,False,1,14
+"### | 190 - 
+",000,False,000,False,False,False,1,27
+"### | 191 - 
+",000,False,000,False,False,False,1,19
+"### | (حرف الدال)
+",000,False,000,False,False,False,1,4
+"### | 192 - 
+",000,False,000,False,False,False,1,26
+"### | 193 - 
+",000,False,000,False,False,False,1,23
+"### | 194 - 
+",000,False,000,False,False,False,1,15
+"### | 195 - 
+",000,False,000,False,False,False,1,23
+"### | 196 - 
+",000,False,000,False,False,False,1,17
+"### | 197 - 
+",000,False,000,False,False,False,1,32
+"### | 198 - 
+",000,False,000,False,False,False,1,21
+"### | 199 - 
+",000,False,000,False,False,False,1,38
+"### | 200 - 
+",000,False,000,False,False,False,1,21
+"### | 201 - 
+",000,False,000,False,False,False,1,34
+"### | 202 - 
+",000,False,000,False,False,False,1,17
+"### | 203 - 
+",000,False,000,False,False,False,1,45
+"### | 204 - 
+",000,False,000,False,False,False,1,21
+"### | 205 - 
+",000,False,000,False,False,False,1,11
+"### | 206 - 
+",000,False,000,False,False,False,1,41
+"### | (حرف الذال)
+",000,False,000,False,False,False,1,4
+"### | 207 - 
+",000,False,000,False,False,False,1,58
+"### | 208 - 
+",000,False,000,False,False,False,1,7
+"### | 209 - 
+",000,False,000,False,False,False,1,9
+"### | 210 - 
+",000,False,000,False,False,False,1,15
+"### | 211 - 
+",000,False,000,False,False,False,1,30
+"### | (حرف الراء)
+",000,False,000,False,False,False,1,4
+"### | 212 - 
+",000,False,000,False,False,False,1,19
+"### | 213 - 
+",000,False,000,False,False,False,1,23
+"### | 214 - 
+",000,False,000,False,False,False,1,62
+"### | 215 - 
+",000,False,000,False,False,False,1,17
+"### | 216 - 
+",000,False,000,False,False,False,1,31
+"### | 217 - 
+",000,False,000,False,False,False,1,13
+"### | 218 - 
+",000,False,000,False,False,False,1,17
+"### | 219 - 
+",000,False,000,False,False,False,1,25
+"### | 220 - 
+",000,False,000,False,False,False,1,38
+"### | 221 - 
+",000,False,000,False,False,False,1,25
+"### | 222 - 
+",000,False,000,False,False,False,1,16
+"### | 223 - 
+",000,False,000,False,False,False,1,23
+"### | 224 - 
+",000,False,000,False,False,False,1,94
+"### | 225 - 
+",000,False,000,False,False,False,1,27
+"### | 226 - 
+",000,False,000,False,False,False,1,20
+"### | 227 - 
+",000,False,000,False,False,False,1,14
+"### | 228 - 
+",000,False,000,False,False,False,1,32
+"### | 229 - 
+",000,False,000,False,False,False,1,12
+"### | (حرف الزاي)
+",000,False,000,False,False,False,1,4
+"### | 230 - 
+",000,False,000,False,False,False,1,11
+"### | 231 - 
+",000,False,000,False,False,False,1,11
+"### | 232 - 
+",000,False,000,False,False,False,1,19
+"### | 233 - 
+",000,False,000,False,False,False,1,13
+"### | 234 - 
+",000,False,000,False,False,False,1,11
+"### | 235 - 
+",000,False,000,False,False,False,1,25
+"### | 236 - 
+",000,False,000,False,False,False,1,31
+"### | 237 - 
+",000,False,000,False,False,False,1,44
+"### | 238 - 
+",000,False,000,False,False,False,1,34
+"### | 239 - 
+",000,False,000,False,False,False,1,38
+"### | (حرف السين)
+",000,False,000,False,False,False,1,4
+"### | 240 - 
+",000,False,000,False,False,False,1,45
+"### | 241 - 
+",000,False,000,False,False,False,1,36
+"### | 242 - 
+",000,False,000,False,False,False,1,70
+"### | 243 - 
+",000,False,000,False,False,False,1,25
+"### | 244 - 
+",000,False,000,False,False,False,1,33
+"### | 245 - 
+",000,False,000,False,False,False,1,24
+"### | 246 - 
+",000,False,000,False,False,False,1,9
+"### | 247 - 
+",000,False,000,False,False,False,1,14
+"### | 248 - 
+",000,False,000,False,False,False,1,24
+"### | 249 - 
+",000,False,000,False,False,False,1,13
+"### | 250 - 
+",000,False,000,False,False,False,1,22
+"### | 251 - 
+",000,False,000,False,False,False,1,21
+"### | 252 - 
+",000,False,000,False,False,False,1,21
+"### | 253 - 
+",000,False,000,False,False,False,1,13
+"### | 254 - 
+",000,False,000,False,False,False,1,28
+"### | 255 - 
+",000,False,000,False,False,False,1,53
+"### | 256 - 
+",000,False,000,False,False,False,1,48
+"### | 257 - 
+",000,False,000,False,False,False,1,15
+"### | 258 - 
+",000,False,000,False,False,False,1,23
+"### | 259 - 
+",000,False,000,False,False,False,1,27
+"### | 260 - 
+",000,False,000,False,False,False,1,30
+"### | 261 - 
+",000,False,000,False,False,False,1,35
+"### | 262 - 
+",000,False,000,False,False,False,1,12
+"### | حرف الشين
+",000,False,000,False,False,False,1,4
+"### | 263 - 
+",000,False,000,False,False,False,1,17
+"### | 264 - 
+",000,False,000,False,False,False,1,19
+"### | 265 - 
+",000,False,000,False,False,False,1,9
+"### | 266 - 
+",000,False,000,False,False,False,1,13
+"### | 267 - 
+",000,False,000,False,False,False,1,11
+"### | 268 - 
+",000,False,000,False,False,False,1,17
+"### | 269 - 
+",000,False,000,False,False,False,1,21
+"### | 270 - 
+",000,False,000,False,False,False,1,17
+"### | 271 - 
+",000,False,000,False,False,False,1,14
+"### | 272 - 
+",000,False,000,False,False,False,1,31
+"### | 273 - 
+",000,False,000,False,False,False,1,15
+"### | 274 - 
+",000,False,000,False,False,False,1,13
+"### | 275 - 
+",000,False,000,False,False,False,1,15
+"### | 276 - 
+",000,False,000,False,False,False,1,18
+"### | 277 - 
+",000,False,000,False,False,False,1,18
+"### | 278 - 
+",000,False,000,False,False,False,1,15
+"### | 279 - 
+",000,False,000,False,False,False,1,17
+"### | 280 - 
+",000,False,000,False,False,False,1,29
+"### | 281 - 
+",000,False,000,False,False,False,1,10
+"### | 282 - 
+",000,False,000,False,False,False,1,21
+"### | 283 - 
+",000,False,000,False,False,False,1,13
+"### | 284 - 
+",000,False,000,False,False,False,1,22
+"### | 285 - 
+",000,False,000,False,False,False,1,21
+"### | 286 - 
+",000,False,000,False,False,False,1,19
+"### | (حرف الصاد)
+",000,False,000,False,False,False,1,4
+"### | 287 - 
+",000,False,000,False,False,False,1,9
+"### | 288 - 
+",000,False,000,False,False,False,1,17
+"### | 289 - 
+",000,False,000,False,False,False,1,25
+"### | 290 - 
+",000,False,000,False,False,False,1,16
+"### | 291 - 
+",000,False,000,False,False,False,1,53
+"### | 292 - 
+",000,False,000,False,False,False,1,40
+"### | 293 - 
+",000,False,000,False,False,False,1,26
+"### | 294 - 
+",000,False,000,False,False,False,1,36
+"### | 295 - 
+",000,False,000,False,False,False,1,14
+"### | 296 - 
+",000,False,000,False,False,False,1,24
+"### | 297 - 
+",000,False,000,False,False,False,1,35
+"### | 298 - 
+",000,False,000,False,False,False,1,18
+"### | 299 - 
+",000,False,000,False,False,False,1,14
+"### | 300 - 
+",000,False,000,False,False,False,1,15
+"### | 301 - 
+",000,False,000,False,False,False,1,7
+"### | 302 - 
+",000,False,000,False,False,False,1,9
+"### | 303 - 
+",000,False,000,False,False,False,1,21
+"### | 304 - 
+",000,False,000,False,False,False,1,33
+"### | 305 - 
+",000,False,000,False,False,False,1,21
+"### | 306 - 
+",000,False,000,False,False,False,1,29
+"### | 307 - 
+",000,False,000,False,False,False,1,25
+"### | 308 - 
+",000,False,000,False,False,False,1,39
+"### | 309 - 
+",000,False,000,False,False,False,1,17
+"### | (حرف الضاد)
+",000,False,000,False,False,False,1,4
+"### | 310 - 
+",000,False,000,False,False,False,1,25
+"### | 311 - 
+",000,False,000,False,False,False,1,17
+"### | 312 - 
+",000,False,000,False,False,False,1,22
+"### | 313 - 
+",000,False,000,False,False,False,1,15
+"### | 314 - 
+",000,False,000,False,False,False,1,9
+"### | (حرف الطاء)
+",000,False,000,False,False,False,1,4
+"### | 315 - 
+",000,False,000,False,False,False,1,32
+"### | 316 - 
+",000,False,000,False,False,False,1,27
+"### | 317 - 
+",000,False,000,False,False,False,1,19
+"### | 318 - 
+",000,False,000,False,False,False,1,27
+"### | 319 - 
+",000,False,000,False,False,False,1,18
+"### | (حرف الظاء)
+",000,False,000,False,False,False,1,4
+"### | 320 - 
+",000,False,000,False,False,False,1,15
+"### | 321 - 
+",000,False,000,False,False,False,1,16
+"### | (حرف العين)
+",000,False,000,False,False,False,1,4
+"### | 322 - 
+",000,False,000,False,False,False,1,35
+"### | 323 - 
+",000,False,000,False,False,False,1,16
+"### | 324 - 
+",000,False,000,False,False,False,1,20
+"### | 325 - 
+",000,False,000,False,False,False,1,21
+"### | 326 - 
+",000,False,000,False,False,False,1,17
+"### | 327 - 
+",000,False,000,False,False,False,1,17
+"### | 328 - 
+",000,False,000,False,False,False,1,15
+"### | 329 - 
+",000,False,000,False,False,False,1,15
+"### | 330 - 
+",000,False,000,False,False,False,1,40
+"### | 331 - 
+",000,False,000,False,False,False,1,17
+"### | 332 - 
+",000,False,000,False,False,False,1,24
+"### | 333 - 
+",000,False,000,False,False,False,1,11
+"### | 334 - 
+",000,False,000,False,False,False,1,17
+"### | 335 - 
+",000,False,000,False,False,False,1,13
+"### | 336 - 
+",000,False,000,False,False,False,1,19
+"### | 337 - 
+",000,False,000,False,False,False,1,20
+"### | 338 - 
+",000,False,000,False,False,False,1,34
+"### | 339 - 
+",000,False,000,False,False,False,1,23
+"### | 340 - 
+",000,False,000,False,False,False,1,15
+"### | 341 - 
+",000,False,000,False,False,False,1,12
+"### | 342 - 
+",000,False,000,False,False,False,1,8
+"### | 343 - 
+",000,False,000,False,False,False,1,96
+"### | 344 - 
+",000,False,000,False,False,False,1,23
+"### | 345 - 
+",000,False,000,False,False,False,1,24
+"### | 346 - 
+",000,False,000,False,False,False,1,30
+"### | 347 - 
+",000,False,000,False,False,False,1,16
+"### | 348 - 
+",000,False,000,False,False,False,1,168
+"### | (حرف الغين المعجمة)
+",000,False,000,False,False,False,1,6
+"### | 349 - 
+",000,False,000,False,False,False,1,32
+"### | 350 - 
+",000,False,000,False,False,False,1,28
+"### | 351 - 
+",000,False,000,False,False,False,1,20
+"### | (حرف الفاء)
+",000,False,000,False,False,False,1,4
+"### | 352 - 
+",000,False,000,False,False,False,1,17
+"### | 353 - 
+",000,False,000,False,False,False,1,20
+"### | 354 - 
+",000,False,000,False,False,False,1,29
+"### | 355 - 
+",000,False,000,False,False,False,1,16
+"### | 356 - 
+",000,False,000,False,False,False,1,13
+"### | 357 - 
+",000,False,000,False,False,False,1,27
+"### | 358 - 
+",000,False,000,False,False,False,1,34
+"### | 359 - 
+",000,False,000,False,False,False,1,20
+"### | 360 - 
+",000,False,000,False,False,False,1,20
+"### | 361 - 
+",000,False,000,False,False,False,1,19
+"### | 362 - 
+",000,False,000,False,False,False,1,11
+"### | 363 - 
+",000,False,000,False,False,False,1,19
+"### | 364 - 
+",000,False,000,False,False,False,1,24
+"### | 365 - 
+",000,False,000,False,False,False,1,30
+"### | (حرف القاف)
+",000,False,000,False,False,False,1,4
+"### | 366 - 
+",000,False,000,False,False,False,1,40
+"### | 367 - 
+",000,False,000,False,False,False,1,125
+"### | 368 - 
+",000,False,000,False,False,False,1,18
+"### | 369 - 
+",000,False,000,False,False,False,1,18
+"### | 370 - 
+",000,False,000,False,False,False,1,26
+"### | 371 - 
+",000,False,000,False,False,False,1,27
+"### | 372 - 
+",000,False,000,False,False,False,1,27
+"### | 373 - 
+",000,False,000,False,False,False,1,31
+"### | 374 - 
+",000,False,000,False,False,False,1,33
+"### | 375 - 
+",000,False,000,False,False,False,1,60
+"### | 376 - 
+",000,False,000,False,False,False,1,17
+"### | 377 - 
+",000,False,000,False,False,False,1,15
+"### | 378 - 
+",000,False,000,False,False,False,1,20
+"### | (حرف الكاف)
+",000,False,000,False,False,False,1,4
+"### | 379 - 
+",000,False,000,False,False,False,1,14
+"### | 380 - 
+",000,False,000,False,False,False,1,16
+"### | 381 - 
+",000,False,000,False,False,False,1,25
+"### | 382 - 
+",000,False,000,False,False,False,1,12
+"### | 383 - 
+",000,False,000,False,False,False,1,26
+"### | 384 - 
+",000,False,000,False,False,False,1,120
+"### | 385 - 
+",000,False,000,False,False,False,1,19
+"### | 386 - 
+",000,False,000,False,False,False,1,25
+"### | 387 - 
+",000,False,000,False,False,False,1,30
+"### | 388 - 
+",000,False,000,False,False,False,1,64
+"### | 389 - 
+",000,False,000,False,False,False,1,21
+"### | 390 - 
+",000,False,000,False,False,False,1,18
+"### | 391 - 
+",000,False,000,False,False,False,1,23
+"### | 392 - 
+",000,False,000,False,False,False,1,17
+"### | 393 - 
+",000,False,000,False,False,False,1,9
+"### | 394 - 
+",000,False,000,False,False,False,1,29
+"### | 395 - 
+",000,False,000,False,False,False,1,15
+"### | 396 - 
+",000,False,000,False,False,False,1,21
+"### | 397 - 
+",000,False,000,False,False,False,1,19
+"### | 398 - 
+",000,False,000,False,False,False,1,19
+"### | 399 - 
+",000,False,000,False,False,False,1,17
+"### | 400 - 
+",000,False,000,False,False,False,1,29
+"### | 401 - 
+",000,False,000,False,False,False,1,11
+"### | 402 - 
+",000,False,000,False,False,False,1,9
+"### | 403 - 
+",000,False,000,False,False,False,1,7
+"### | 404 - 
+",000,False,000,False,False,False,1,7
+"### | 405 - 
+",000,False,000,False,False,False,1,15
+"### | 406 - 
+",000,False,000,False,False,False,1,15
+"### | 407 - 
+",000,False,000,False,False,False,1,19
+"### | 408 - 
+",000,False,000,False,False,False,1,25
+"### | 409 - 
+",000,False,000,False,False,False,1,19
+"### | 410 - 
+",000,False,000,False,False,False,1,21
+"### | 411 - 
+",000,False,000,False,False,False,1,25
+"### | 412 - 
+",000,False,000,False,False,False,1,14
+"### | 413 - 
+",000,False,000,False,False,False,1,13
+"### | 414 - 
+",000,False,000,False,False,False,1,17
+"### | 415 - 
+",000,False,000,False,False,False,1,48
+"### | 416 - 
+",000,False,000,False,False,False,1,47
+"### | 417 - 
+",000,False,000,False,False,False,1,27
+"### | 418 - 
+",000,False,000,False,False,False,1,9
+"### | 419 - 
+",000,False,000,False,False,False,1,20
+"### | 420 - 
+",000,False,000,False,False,False,1,23
+"### | 421 - 
+",000,False,000,False,False,False,1,24
+"### | (حرف اللام)
+",000,False,000,False,False,False,1,4
+"### | 422 - 
+",000,False,000,False,False,False,1,19
+"### | 423 - 
+",000,False,000,False,False,False,1,42
+"### | 424 - 
+",000,False,000,False,False,False,1,18
+"### | 425 - 
+",000,False,000,False,False,False,1,88
+"### | 426 - 
+",000,False,000,False,False,False,1,33
+"### | 427 - 
+",000,False,000,False,False,False,1,37
+"### | 428 - 
+",000,False,000,False,False,False,1,13
+"### | 429 - 
+",000,False,000,False,False,False,1,25
+"### | 430 - 
+",000,False,000,False,False,False,1,10
+"### | 431 - 
+",000,False,000,False,False,False,1,9
+"### | 432 - 
+",000,False,000,False,False,False,1,32
+"### | 433 - 
+",000,False,000,False,False,False,1,9
+"### | 434 - 
+",000,False,000,False,False,False,1,19
+"### | 435 - 
+",000,False,000,False,False,False,1,9
+"### | 436 - 
+",000,False,000,False,False,False,1,8
+"### | 437 - 
+",000,False,000,False,False,False,1,29
+"### | 438 - 
+",000,False,000,False,False,False,1,90
+"### | 439 - 
+",000,False,000,False,False,False,1,35
+"### | 440 - 
+",000,False,000,False,False,False,1,38
+"### | 441 - 
+",000,False,000,False,False,False,1,47
+"### | 442 - 
+",000,False,000,False,False,False,1,27
+"### | 443 - 
+",000,False,000,False,False,False,1,23
+"### | 444 - 
+",000,False,000,False,False,False,1,22
+"### | 445 - 
+",000,False,000,False,False,False,1,24
+"### | 446 - 
+",000,False,000,False,False,False,1,22
+"### | 447 - 
+",000,False,000,False,False,False,1,44
+"### | 448 - 
+",000,False,000,False,False,False,1,21
+"### | 449 - 
+",000,False,000,False,False,False,1,49
+"### | 450 - 
+",000,False,000,False,False,False,1,33
+"### | 451 - 
+",000,False,000,False,False,False,1,41
+"### | 452 - 
+",000,False,000,False,False,False,1,21
+"### | 453 - 
+",000,False,000,False,False,False,1,21
+"### | 454 - 
+",000,False,000,False,False,False,1,15
+"### | 455 - 
+",000,False,000,False,False,False,1,25
+"### | 456 - 
+",000,False,000,False,False,False,1,15
+"### | 457 - 
+",000,False,000,False,False,False,1,46
+"### | 458 - 
+",000,False,000,False,False,False,1,31
+"### | 459 - 
+",000,False,000,False,False,False,1,36
+"### | (حرف الميم)
+",000,False,000,False,False,False,1,4
+"### | 460 - 
+",000,False,000,False,False,False,1,27
+"### | 461 - 
+",000,False,000,False,False,False,1,29
+"### | 462 - 
+",000,False,000,False,False,False,1,21
+"### | 463 - 
+",000,False,000,False,False,False,1,21
+"### | 464 - 
+",000,False,000,False,False,False,1,14
+"### | 465 - 
+",000,False,000,False,False,False,1,21
+"### | 466 - 
+",000,False,000,False,False,False,1,32
+"### | 467 - 
+",000,False,000,False,False,False,1,25
+"### | 468 - 
+",000,False,000,False,False,False,1,15
+"### | 469 - 
+",000,False,000,False,False,False,1,29
+"### | 470 - 
+",000,False,000,False,False,False,1,29
+"### | 471 - 
+",000,False,000,False,False,False,1,29
+"### | 472 - 
+",000,False,000,False,False,False,1,23
+"### | 473 - 
+",000,False,000,False,False,False,1,15
+"### | 474 - 
+",000,False,000,False,False,False,1,37
+"### | 475 - 
+",000,False,000,False,False,False,1,96
+"### | 476 - 
+",000,False,000,False,False,False,1,17
+"### | 477 - 
+",000,False,000,False,False,False,1,15
+"### | 478 - 
+",000,False,000,False,False,False,1,26
+"### | 479 - 
+",000,False,000,False,False,False,1,53
+"### | 480 - 
+",000,False,000,False,False,False,1,17
+"### | 481 - 
+",000,False,000,False,False,False,1,83
+"### | 483 - 
+",000,False,000,False,False,False,1,28
+"### | 484 - 
+",000,False,000,False,False,False,1,16
+"### | 485 - 
+",000,False,000,False,False,False,1,106
+"### | 486 - 
+",000,False,000,False,False,False,1,25
+"### | 487 - 
+",000,False,000,False,False,False,1,27
+"### | 488 - 
+",000,False,000,False,False,False,1,41
+"### | 489 - 
+",000,False,000,False,False,False,1,33
+"### | 490 - 
+",000,False,000,False,False,False,1,15
+"### | 491 - 
+",000,False,000,False,False,False,1,26
+"### | 492 - 
+",000,False,000,False,False,False,1,25
+"### | 493 - 
+",000,False,000,False,False,False,1,42
+"### | 494 - 
+",000,False,000,False,False,False,1,19
+"### | 495 - 
+",000,False,000,False,False,False,1,19
+"### | 496 - 
+",000,False,000,False,False,False,1,13
+"### | 497 - 
+",000,False,000,False,False,False,1,9
+"### | 498 - 
+",000,False,000,False,False,False,1,21
+"### | 499 - 
+",000,False,000,False,False,False,1,10
+"### | 500 - 
+",000,False,000,False,False,False,1,12
+"### | 501 - 
+",000,False,000,False,False,False,1,29
+"### | 502 - 
+",000,False,000,False,False,False,1,31
+"### | 503 - 
+",000,False,000,False,False,False,1,37
+"### | 504 - 
+",000,False,000,False,False,False,1,42
+"### | 505 - 
+",000,False,000,False,False,False,1,28
+"### | 506 - 
+",000,False,000,False,False,False,1,15
+"### | 507 - 
+",000,False,000,False,False,False,1,21
+"### | 508 - 
+",000,False,000,False,False,False,1,25
+"### | 509 - 
+",000,False,000,False,False,False,1,19
+"### | 510 - 
+",000,False,000,False,False,False,1,28
+"### | 511 - 
+",000,False,000,False,False,False,1,20
+"### | 512 - 
+",000,False,000,False,False,False,1,29
+"### | 513 - 
+",000,False,000,False,False,False,1,23
+"### | 514 - 
+",000,False,000,False,False,False,1,32
+"### | 515 - 
+",000,False,000,False,False,False,1,23
+"### | 516 - 
+",000,False,000,False,False,False,1,20
+"### | 517 - 
+",000,False,000,False,False,False,1,25
+"### | 518 - 
+",000,False,000,False,False,False,1,38
+"### | 519 - 
+",000,False,000,False,False,False,1,31
+"### | 520 - 
+",000,False,000,False,False,False,1,37
+"### | 521 - 
+",000,False,000,False,False,False,1,32
+"### | 522 - 
+",000,False,000,False,False,False,1,19
+"### | 523 - 
+",000,False,000,False,False,False,1,17
+"### | 524 - 
+",000,False,000,False,False,False,1,20
+"### | 525 - 
+",000,False,000,False,False,False,1,25
+"### | 526 - 
+",000,False,000,False,False,False,1,23
+"### | 527 - 
+",000,False,000,False,False,False,1,17
+"### | 528 - 
+",000,False,000,False,False,False,1,25
+"### | 529 - 
+",000,False,000,False,False,False,1,11
+"### | 530 - 
+",000,False,000,False,False,False,1,24
+"### | 531 - 
+",000,False,000,False,False,False,1,132
+"### | 532 - 
+",000,False,000,False,False,False,1,17
+"### | 533 - 
+",000,False,000,False,False,False,1,38
+"### | 534 - 
+",000,False,000,False,False,False,1,46
+"### | 535 - 
+",000,False,000,False,False,False,1,15
+"### | 536 - 
+",000,False,000,False,False,False,1,14
+"### | 537 - 
+",000,False,000,False,False,False,1,29
+"### | 538 - 
+",000,False,000,False,False,False,1,16
+"### | 539 - 
+",000,False,000,False,False,False,1,31
+"### | 540 - 
+",000,False,000,False,False,False,1,16
+"### | 541 - 
+",000,False,000,False,False,False,1,46
+"### | 542 - 
+",000,False,000,False,False,False,1,23
+"### | 543 - 
+",000,False,000,False,False,False,1,21
+"### | 544 - 
+",000,False,000,False,False,False,1,23
+"### | 545 - 
+",000,False,000,False,False,False,1,16
+"### | 546 - 
+",000,False,000,False,False,False,1,16
+"### | 547 - 
+",000,False,000,False,False,False,1,39
+"### | 548 - 
+",000,False,000,False,False,False,1,25
+"### | 549 - 
+",000,False,000,False,False,False,1,27
+"### | 550 - 
+",000,False,000,False,False,False,1,23
+"### | 551 - 
+",000,False,000,False,False,False,1,13
+"### | 552 - 
+",000,False,000,False,False,False,1,13
+"### | 553 - 
+",000,False,000,False,False,False,1,9
+"### | 554 - 
+",000,False,000,False,False,False,1,11
+"### | 555 - 
+",000,False,000,False,False,False,1,50
+"### | 556 - 
+",000,False,000,False,False,False,1,38
+"### | 557 - 
+",000,False,000,False,False,False,1,27
+"### | 558 - 
+",000,False,000,False,False,False,1,21
+"### | 559 - 
+",000,False,000,False,False,False,1,41
+"### | 560 - 
+",000,False,000,False,False,False,1,53
+"### | 561 - 
+",000,False,000,False,False,False,1,125
+"### | 562 - 
+",000,False,000,False,False,False,1,19
+"### | 563 - 
+",000,False,000,False,False,False,1,5
+"### | 564 - 
+",000,False,000,False,False,False,1,9
+"### | 565 - 
+",000,False,000,False,False,False,1,33
+"### | 566 - 
+",000,False,000,False,False,False,1,44
+"### | 567 - 
+",000,False,000,False,False,False,1,25
+"### | 568 - 
+",000,False,000,False,False,False,1,34
+"### | 569 - 
+",000,False,000,False,False,False,1,53
+"### | 570 - 
+",000,False,000,False,False,False,1,42
+"### | 571 - 
+",000,False,000,False,False,False,1,13
+"### | 572 - 
+",000,False,000,False,False,False,1,30
+"### | 573 - 
+",000,False,000,False,False,False,1,35
+"### | 574 - 
+",000,False,000,False,False,False,1,19
+"### | 575 - 
+",000,False,000,False,False,False,1,35
+"### | 576 - 
+",000,False,000,False,False,False,1,106
+"### | 577 - 
+",000,False,000,False,False,False,1,46
+"### | 578 - 
+",000,False,000,False,False,False,1,31
+"### | 579 - 
+",000,False,000,False,False,False,1,18
+"### | 580 - 
+",000,False,000,False,False,False,1,25
+"### | 581 - 
+",000,False,000,False,False,False,1,15
+"### | 582 - 
+",000,False,000,False,False,False,1,25
+"### | 583 - 
+",000,False,000,False,False,False,1,77
+"### | 584 - 
+",000,False,000,False,False,False,1,34
+"### | 585 - 
+",000,False,000,False,False,False,1,65
+"### | 586 - 
+",000,False,000,False,False,False,1,35
+"### | 587 - 
+",000,False,000,False,False,False,1,46
+"### | 588 - 
+",000,False,000,False,False,False,1,91
+"### | 589 - 
+",000,False,000,False,False,False,1,52
+"### | 590 - 
+",000,False,000,False,False,False,1,113
+"### | 591 - 
+",000,False,000,False,False,False,1,38
+"### | 592 - 
+",000,False,000,False,False,False,1,126
+"### | 593 - 
+",000,False,000,False,False,False,1,20
+"### | 594 - 
+",000,False,000,False,False,False,1,23
+"### | 595 - 
+",000,False,000,False,False,False,1,29
+"### | 596 - 
+",000,False,000,False,False,False,1,182
+"### | 597 - 
+",000,False,000,False,False,False,1,24
+"### | 598 - 
+",000,False,000,False,False,False,1,19
+"### | 599 - 
+",000,False,000,False,False,False,1,26
+"### | 600 - 
+",000,False,000,False,False,False,1,38
+"### | 601 - 
+",000,False,000,False,False,False,1,22
+"### | 602 - 
+",000,False,000,False,False,False,1,46
+"### | 603 - 
+",000,False,000,False,False,False,1,18
+"### | 604 - 
+",000,False,000,False,False,False,1,224
+"### | 605 - 
+",000,False,000,False,False,False,1,14
+"### | 606 - 
+",000,False,000,False,False,False,1,29
+"### | 607 - 
+",000,False,000,False,False,False,1,57
+"### | 608 - 
+",000,False,000,False,False,False,1,28
+"### | 609 - 
+",000,False,000,False,False,False,1,106
+"### | 610 - 
+",000,False,000,False,False,False,1,18
+"### | 611 - 
+",000,False,000,False,False,False,1,34
+"### | 612 - 
+",000,False,000,False,False,False,1,23
+"### | 613 - 
+",000,False,000,False,False,False,1,29
+"### | 614 - 
+",000,False,000,False,False,False,1,52
+"### | 615 - 
+",000,False,000,False,False,False,1,32
+"### | 616 - 
+",000,False,000,False,False,False,1,30
+"### | 617 - 
+",000,False,000,False,False,False,1,67
+"### | 618 - 
+",000,False,000,False,False,False,1,11
+"### | 619 - 
+",000,False,000,False,False,False,1,42
+"### | 620 - 
+",000,False,000,False,False,False,1,40
+"### | 621 - 
+",000,False,000,False,False,False,1,31
+"### | 622 - 
+",000,False,000,False,False,False,1,50
+"### | 623 - 
+",000,False,000,False,False,False,1,31
+"### | 624 - 
+",000,False,000,False,False,False,1,17
+"### | 625 - 
+",000,False,000,False,False,False,1,24
+"### | 626 - 
+",000,False,000,False,False,False,1,27
+"### | 627 - 
+",000,False,000,False,False,False,1,22
+"### | 628 - 
+",000,False,000,False,False,False,1,12
+"### | 629 - 
+",000,False,000,False,False,False,1,28
+"### | 630 - 
+",000,False,000,False,False,False,1,25
+"### | 631 - 
+",000,False,000,False,False,False,1,15
+"### | 632 - 
+",000,False,000,False,False,False,1,29
+"### | 633 - 
+",000,False,000,False,False,False,1,13
+"### | 634 - 
+",000,False,000,False,False,False,1,17
+"### | 635 - 
+",000,False,000,False,False,False,1,34
+"### | 636 - 
+",000,False,000,False,False,False,1,17
+"### | 637 - 
+",000,False,000,False,False,False,1,17
+"### | 638 - 
+",000,False,000,False,False,False,1,12
+"### | 639 - 
+",000,False,000,False,False,False,1,36
+"### | 640 - 
+",000,False,000,False,False,False,1,18
+"### | 641 - 
+",000,False,000,False,False,False,1,21
+"### | 642 - 
+",000,False,000,False,False,False,1,14
+"### | 643 - 
+",000,False,000,False,False,False,1,27
+"### | 644 - 
+",000,False,000,False,False,False,1,13
+"### | 645 - 
+",000,False,000,False,False,False,1,15
+"### | 646 - 
+",000,False,000,False,False,False,1,18
+"### | 647 - 
+",000,False,000,False,False,False,1,13
+"### | 648 - 
+",000,False,000,False,False,False,1,17
+"### | 649 - 
+",000,False,000,False,False,False,1,15
+"### | 650 - 
+",000,False,000,False,False,False,1,12
+"### | 651 - 
+",000,False,000,False,False,False,1,9
+"### | 652 - 
+",000,False,000,False,False,False,1,10
+"### | (حرف النون)
+",000,False,000,False,False,False,1,4
+"### | 653 - 
+",000,False,000,False,False,False,1,19
+"### | 654 - 
+",000,False,000,False,False,False,1,18
+"### | 655 - 
+",000,False,000,False,False,False,1,11
+"### | 656 - 
+",000,False,000,False,False,False,1,12
+"### | 657 - 
+",000,False,000,False,False,False,1,12
+"### | 658 - 
+",000,False,000,False,False,False,1,18
+"### | 659 - 
+",000,False,000,False,False,False,1,21
+"### | 660 - 
+",000,False,000,False,False,False,1,13
+"### | 661 - 
+",000,False,000,False,False,False,1,25
+"### | 662 - 
+",000,False,000,False,False,False,1,22
+"### | 663 - 
+",000,False,000,False,False,False,1,26
+"### | 664 - 
+",000,False,000,False,False,False,1,27
+"### | 665 - 
+",000,False,000,False,False,False,1,43
+"### | 666 - 
+",000,False,000,False,False,False,1,19
+"### | 667 - 
+",000,False,000,False,False,False,1,18
+"### | 668 - 
+",000,False,000,False,False,False,1,27
+"### | 669 - 
+",000,False,000,False,False,False,1,17
+"### | 670 - 
+",000,False,000,False,False,False,1,17
+"### | 671 - 
+",000,False,000,False,False,False,1,31
+"### | 672 - 
+",000,False,000,False,False,False,1,27
+"### | 673 - 
+",000,False,000,False,False,False,1,24
+"### | 674 - 
+",000,False,000,False,False,False,1,21
+"### | (حرف الهاء)
+",000,False,000,False,False,False,1,4
+"### | 675 - 
+",000,False,000,False,False,False,1,9
+"### | 676 - 
+",000,False,000,False,False,False,1,23
+"### | 677 - 
+",000,False,000,False,False,False,1,25
+"### | 678 - 
+",000,False,000,False,False,False,1,15
+"### | 679 - 
+",000,False,000,False,False,False,1,19
+"### | 680 - 
+",000,False,000,False,False,False,1,53
+"### | (حرف الواو)
+",000,False,000,False,False,False,1,4
+"### | 681 - 
+",000,False,000,False,False,False,1,16
+"### | 682 - 
+",000,False,000,False,False,False,1,41
+"### | 683 - 
+",000,False,000,False,False,False,1,23
+"### | 684 - 
+",000,False,000,False,False,False,1,26
+"### | 685 - 
+",000,False,000,False,False,False,1,21
+"### | 686 - 
+",000,False,000,False,False,False,1,14
+"### | 687 - 
+",000,False,000,False,False,False,1,15
+"### | 688 - 
+",000,False,000,False,False,False,1,25
+"### | 689 - 
+",000,False,000,False,False,False,1,21
+"### | (حرف اللام ألف)
+",000,False,000,False,False,False,1,6
+"### | 690 - 
+",000,False,000,False,False,False,1,75
+"### | 691 - 
+",000,False,000,False,False,False,1,27
+"### | 692 - 
+",000,False,000,False,False,False,1,11
+"### | 693 - 
+",000,False,000,False,False,False,1,34
+"### | 694 - 
+",000,False,000,False,False,False,1,42
+"### | 695 - 
+",000,False,000,False,False,False,1,14
+"### | 696 - 
+",000,False,000,False,False,False,1,17
+"### | 697 - 
+",000,False,000,False,False,False,1,21
+"### | 698 - 
+",000,False,000,False,False,False,1,45
+"### | 699 - 
+",000,False,000,False,False,False,1,20
+"### | 700 - 
+",000,False,000,False,False,False,1,17
+"### | 701 - 
+",000,False,000,False,False,False,1,25
+"### | 702 - 
+",000,False,000,False,False,False,1,25
+"### | 703 - 
+",000,False,000,False,False,False,1,23
+"### | 704 - 
+",000,False,000,False,False,False,1,14
+"### | 705 - 
+",000,False,000,False,False,False,1,29
+"### | 706 - 
+",000,False,000,False,False,False,1,20
+"### | 707 - 
+",000,False,000,False,False,False,1,11
+"### | 708 - 
+",000,False,000,False,False,False,1,26
+"### | 709 - 
+",000,False,000,False,False,False,1,18
+"### | 710 - 
+",000,False,000,False,False,False,1,42
+"### | 711 - 
+",000,False,000,False,False,False,1,31
+"### | 712 - 
+",000,False,000,False,False,False,1,21
+"### | 713 - 
+",000,False,000,False,False,False,1,23
+"### | 714 - 
+",000,False,000,False,False,False,1,14
+"### | 715 - 
+",000,False,000,False,False,False,1,15
+"### | 716 - 
+",000,False,000,False,False,False,1,20
+"### | 717 - 
+",000,False,000,False,False,False,1,18
+"### | (حرف الياء)
+",000,False,000,False,False,False,1,4
+"### | 718 - 
+",000,False,000,False,False,False,1,39
+"### | 719 - 
+",000,False,000,False,False,False,1,19
+"### | 720 - 
+",000,False,000,False,False,False,1,32
+"### | 721 - 
+",000,False,000,False,False,False,1,13
+"### | 722 - 
+",000,False,000,False,False,False,1,62
+"### | 723 - 
+",000,False,000,False,False,False,1,27
+"### | 724 - 
+",000,False,000,False,False,False,1,16
+"### | 725 - 
+",000,False,000,False,False,False,1,19
+"### | 726 - 
+",000,False,000,False,False,False,1,47
+"### | 727 - 
+",000,False,000,False,False,False,1,71
+"### | 728 - 
+",000,False,000,False,False,False,1,98
+"### | 729 - 
+",000,False,000,False,False,False,1,27
+"### | 730 - 
+",000,False,000,False,False,False,1,29
+"### | 731 - 
+",000,False,000,False,False,False,1,9
+"### | 732 - 
+",000,False,000,False,False,False,1,23
+"### | 733 - 
+",000,False,000,False,False,False,1,25
+"### | 734 - 
+",000,False,000,False,False,False,1,31
+"### | 735 - 
+",000,False,000,False,False,False,1,25
+"### | 736 - 
+",000,False,000,False,False,False,1,21
+"### | 737 - 
+",000,False,000,False,False,False,1,12
+"### | 738 - 
+",000,False,000,False,False,False,1,27
+"### | 739 - 
+",000,False,000,False,False,False,1,20
+"### | 740 - 
+",000,False,000,False,False,False,1,35
+"### | 741 - 
+",000,False,000,False,False,False,1,51
+"### | 742 - 
+",000,False,000,False,False,False,1,23
+"### | (خاتمة)
+",000,False,000,False,False,False,1,999
+"### | 1 - 
+",000,False,000,False,False,False,1,25
+"### | 2 - 
+",000,False,000,False,False,False,1,19
+"### | 3 - 
+",000,False,000,False,False,False,1,15
+"### | 4 - 
+",000,False,000,False,False,False,1,13
+"### | 5 - 
+",000,False,000,False,False,False,1,11
+"### | 6 - 
+",000,False,000,False,False,False,1,13
+"### | 8 - 
+",000,False,000,False,False,False,1,15
+"### | 9 - 
+",000,False,000,False,False,False,1,43

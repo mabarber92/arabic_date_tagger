@@ -1,0 +1,455 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | شرح الاسم 
+",000,False,000,False,False,False,1,203
+"### | شرح الفعل 
+",000,False,000,False,False,False,1,776
+"### | شرح الصوت 
+",000,False,000,False,False,False,1,56
+"### | ذكر الأعلام المرتجلة عند التسمية بها ولم تنقل إليها عن غيرها
+",000,False,000,False,False,False,1,1662
+"### | أول أسماء الشعراء
+",000,False,000,False,False,False,1,13868
+"### || رجل من بلعنبر 
+",000,False,000,False,False,False,2,146
+"### || الفند الزماني
+",000,False,000,False,False,False,2,373
+"### || أبو الغول الطهوي
+",000,False,000,False,False,False,2,162
+"### || جعفر بن ms12 علبة الحارثي
+",000,False,000,False,False,False,2,77
+"### || بلعاء بن قيس الكناني
+",000,False,000,False,False,False,2,49
+"### || ربيعة بن مقروم الضبي
+",000,False,000,False,False,False,2,80
+"### || تأبط شرا
+",000,False,000,False,False,False,2,113
+"### || أبو كبير الهذلي
+",000,False,000,False,False,False,2,51
+"### || بشامة بن حزن النهشلي
+",000,False,000,False,False,False,2,36
+"### || السموأل بن عادياء
+",000,False,000,False,False,False,2,31
+"### || الشميذر الحارثي
+",000,False,000,False,False,False,2,18
+"### || وداك بن ثميل المازني
+",000,False,000,False,False,False,2,92
+"### || سوار بن مضرب السعدي
+",000,False,000,False,False,False,2,83
+"### || قطري بن الفجاءة
+",000,False,000,False,False,False,2,17
+"### || الحريش بن هلال القريعي
+",000,False,000,False,False,False,2,53
+"### || ابن زيابة التيمي
+",000,False,000,False,False,False,2,62
+"### || الأشتر النخعي
+",000,False,000,False,False,False,2,24
+"### || معدان بن جواس الكندي
+",000,False,000,False,False,False,2,137
+"### || عامر بن الطفيل
+",000,False,000,False,False,False,2,153
+"### || زفر بن الحارث
+",000,False,000,False,False,False,2,52
+"### || عمرو بن معد يكرب الزبيدي
+",000,False,000,False,False,False,2,150
+"### || سيار بين قصير الطائي
+",000,False,000,False,False,False,2,101
+"### || بعض بني بولان
+",000,False,000,False,False,False,2,23
+"### || أنيف بن زبان النبهاني
+",000,False,000,False,False,False,2,72
+"### || قيس بن الخطيم الأوسي
+",000,False,000,False,False,False,2,32
+"### || الحارث بن هشام المخزومي
+",000,False,000,False,False,False,2,44
+"### || الشداخ بن يعمر الكناني
+",000,False,000,False,False,False,2,52
+"### || رجل من بني عقيل
+",000,False,000,False,False,False,2,19
+"### || الحرث بن وعلة الذهلي
+",000,False,000,False,False,False,2,37
+"### || اياس بن قبيصة الطائي
+",000,False,000,False,False,False,2,173
+"### || بعض بني فقعس
+",000,False,000,False,False,False,2,19
+"### || كبشة أخت عمرو بن معد يكرب
+",000,False,000,False,False,False,2,22
+"### || عنترة بن الأخرس المعني
+",000,False,000,False,False,False,2,43
+"### || الأحوص بن محمد
+",000,False,000,False,False,False,2,40
+"### || الفضل بن العباس بن عتبة بن أبي لهب
+",000,False,000,False,False,False,2,19
+"### || الطرماح بن حكيم
+",000,False,000,False,False,False,2,67
+"### || جابر بن رالان السنبسي
+",000,False,000,False,False,False,2,68
+"### || سبرة بن عمرو الفقعسي
+",000,False,000,False,False,False,2,24
+"### || جزء بن كليب الفقعسي
+",000,False,000,False,False,False,2,17
+"### || بعض بني جرم
+",000,False,000,False,False,False,2,25
+"### || حديث بن عناب النبهاني
+",000,False,000,False,False,False,2,59
+"### || عويف القوافي
+",000,False,000,False,False,False,2,34
+"### || بشر بن المغيرة بن الملهب بن أبي صفرة
+",000,False,000,False,False,False,2,129
+"### || الراعي النميري 
+",000,False,000,False,False,False,2,29
+"### || عمرو بن شأس
+",000,False,000,False,False,False,2,18
+"### || حيان بن ربيعة الطائي
+",000,False,000,False,False,False,2,52
+"### || أبو حنبل الطائي
+",000,False,000,False,False,False,2,29
+"### || يزيد بن حمار السكوني
+",000,False,000,False,False,False,2,30
+"### || جابر بن ثعلب الطائي
+",000,False,000,False,False,False,2,113
+"### || أبو النشناش
+",000,False,000,False,False,False,2,102
+"### || شبيب بن عوانة الطائي
+",000,False,000,False,False,False,2,41
+"### || بعض بني عبس
+",000,False,000,False,False,False,2,27
+"### || رجل من شعراء حمير
+",000,False,000,False,False,False,2,120
+"### || حسان بن نشبة أخو بني عدي بن عبد مناة بن أد
+",000,False,000,False,False,False,2,170
+"### || هلال بن رزين
+",000,False,000,False,False,False,2,61
+"### || جزء بن ضرار أخو الشماخ
+",000,False,000,False,False,False,2,21
+"### || القطامي
+",000,False,000,False,False,False,2,33
+"### || حجر بن خالد بن مرثد
+",000,False,000,False,False,False,2,63
+"### || ابن رميض العنبري
+",000,False,000,False,False,False,2,53
+"### || البرج بن مسهر الطائي
+",000,False,000,False,False,False,2,35
+"### || موسى بن جابر الحنفي
+",000,False,000,False,False,False,2,59
+"### || البعيث بن حريث
+",000,False,000,False,False,False,2,44
+"### || أرطأة بن ms23 سهية
+",000,False,000,False,False,False,2,110
+"### || عقيل بن علفة المري
+",000,False,000,False,False,False,2,96
+"### || محمد بن عبد الله الأزدي
+",000,False,000,False,False,False,2,19
+"### || شريح بن قرواش العبسي
+",000,False,000,False,False,False,2,133
+"### || طرفة الجذيمي
+",000,False,000,False,False,False,2,67
+"### || مساور بن هند
+",000,False,000,False,False,False,2,205
+"### || العباس بن مرداس
+",000,False,000,False,False,False,2,35
+"### || عبد الشارق بن عبد العزى الجهني
+",000,False,000,False,False,False,2,163
+"### || غلاق بن مروان بن الحكم بن زنباع
+",000,False,000,False,False,False,2,70
+"### || عروة بن الورد
+",000,False,000,False,False,False,2,134
+"### || هدبة بن خشرم
+",000,False,000,False,False,False,2,59
+"### || عمرو بن كلثوم الثعلبي
+",000,False,000,False,False,False,2,43
+"### || المثلم بن عمرو التنوخي
+",000,False,000,False,False,False,2,61
+"### || جحدر
+",000,False,000,False,False,False,2,11
+"### || غسان بن وعلة
+",000,False,000,False,False,False,2,94
+"### || بعض بني جهينة في وقعة لكلب مع فزارة
+",000,False,000,False,False,False,2,46
+"### || سلمي بن ربيعة من بني السيد من ضبة
+",000,False,000,False,False,False,2,126
+"### || أبي بن سلمي بن ربيعة بن زبان الضبي
+",000,False,000,False,False,False,2,395
+"### || بجالة
+",000,False,000,False,False,False,2,43
+"### || الرقاد بن المنذر
+",000,False,000,False,False,False,2,49
+"### || شمعلة بن اخضر بن هبيرة
+",000,False,000,False,False,False,2,71
+"### || حسيل بن سجيح الضبي
+",000,False,000,False,False,False,2,78
+"### || أبو ثمامة بن عاذب الضبي
+",000,False,000,False,False,False,2,24
+"### || عبد الله بن عنمة الضبي
+",000,False,000,False,False,False,2,70
+"### || عبد الرحمن المعني
+",000,False,000,False,False,False,2,112
+"### || عبيد بن ماوية الطائي
+",000,False,000,False,False,False,2,64
+"### || قبيصة بن النصراني الجرمي
+",000,False,000,False,False,False,2,107
+"### || أدهم بن أبي الزعراء
+",000,False,000,False,False,False,2,25
+"### || خفاف بن ندبة
+",000,False,000,False,False,False,2,34
+"### || معبد بن علقمة
+",000,False,000,False,False,False,2,19
+"### || أم ثواب الهزانية
+",000,False,000,False,False,False,2,29
+"### || قتادة بن مسلمة الحنفي
+",000,False,000,False,False,False,2,48
+"### || الأخنس بن شهاب
+",000,False,000,False,False,False,2,17
+"### || عاتكة بنت عبد المطلب
+",000,False,000,False,False,False,2,66
+"### || جريبه بن الأشيم الفقعسي
+",000,False,000,False,False,False,2,51
+"### || أبو خراش الهذلي
+",000,False,000,False,False,False,2,20
+"### || هشام أخو ms32 ذي الرمة
+",000,False,000,False,False,False,2,24
+"### || رجل من خثعم
+",000,False,000,False,False,False,2,74
+"### || دريد بن الصمة
+",000,False,000,False,False,False,2,77
+"### || سويد المراثد الحارثي
+",000,False,000,False,False,False,2,62
+"### || رجل من بني نصر بن قعين
+",000,False,000,False,False,False,2,27
+"### || أبو حبال البراء بن ربعي
+",000,False,000,False,False,False,2,74
+"### || أشجع السلمي
+",000,False,000,False,False,False,2,102
+"### || الشمردل بن شريك
+",000,False,000,False,False,False,2,18
+"### || نهشل بن حري
+",000,False,000,False,False,False,2,50
+"### || عتي بن مالك
+",000,False,000,False,False,False,2,98
+"### || أبو الحجناء
+",000,False,000,False,False,False,2,29
+"### || الغطمش الضبي
+",000,False,000,False,False,False,2,30
+"### || حفص بن الأخيف
+",000,False,000,False,False,False,2,95
+"### || فاطمة بنت الأجحم الخزاعية
+",000,False,000,False,False,False,2,71
+"### || السليك بن السلكة
+",000,False,000,False,False,False,2,17
+"### || العجير السلولي
+",000,False,000,False,False,False,2,53
+"### || مهلهل
+",000,False,000,False,False,False,2,57
+"### || أبو حنش
+",000,False,000,False,False,False,2,24
+"### || صفية الباهلية
+",000,False,000,False,False,False,2,116
+"### || نهار بن توسعة 
+",000,False,000,False,False,False,2,170
+"### || قسامة بن رواحة السنبسي ms36
+",000,False,000,False,False,False,2,33
+"### || سليمان بن قتة العدوي
+",000,False,000,False,False,False,2,79
+"### || قتيلة بنت النضر
+",000,False,000,False,False,False,2,158
+"### || شبيب بن عوانة
+",000,False,000,False,False,False,2,34
+"### || كعب بن زهير
+",000,False,000,False,False,False,2,102
+"### || رقيبة الجرمي
+",000,False,000,False,False,False,2,17
+"### || غوية بن سلمي بن ربيعة
+",000,False,000,False,False,False,2,73
+"### || المسجاح بن سباع الضبي
+",000,False,000,False,False,False,2,49
+"### || حزاز بن عمرو أخو بني عبد مناة
+",000,False,000,False,False,False,2,49
+"### || اياس بن الأرت
+",000,False,000,False,False,False,2,60
+"### || أبو صعترة البولاني
+",000,False,000,False,False,False,2,78
+"### || الأرقط بن زعبل العنبري
+",000,False,000,False,False,False,2,32
+"### || القلاخ
+",000,False,000,False,False,False,2,23
+"### || عصام بن عتبة الزماني
+",000,False,000,False,False,False,2,30
+"### || لبيد بن ربيعة
+",000,False,000,False,False,False,2,14
+"### || زينب بنت الطثرية
+",000,False,000,False,False,False,2,90
+"### || الأبيرد اليربوعي
+",000,False,000,False,False,False,2,63
+"### || سلمة الجعفي
+",000,False,000,False,False,False,2,77
+"### || اخت المقصقص
+",000,False,000,False,False,False,2,34
+"### || ريطة بنت عاصم
+",000,False,000,False,False,False,2,178
+"### || حريث بن عتاب
+",000,False,000,False,False,False,2,38
+"### || الكروس بن زيد
+",000,False,000,False,False,False,2,27
+"### || زفر بن الحرث الكلابي
+",000,False,000,False,False,False,2,79
+"### || ابن حبناء التميمي
+",000,False,000,False,False,False,2,77
+"### || الفرزدق
+",000,False,000,False,False,False,2,16
+"### || أبو حزابة التميمي
+",000,False,000,False,False,False,2,15
+"### || بغثر بن لقيط الاسدي
+",000,False,000,False,False,False,2,192
+"### || كنزة أم سلمة بن يرد المنقري صاحب ذي الرمة
+",000,False,000,False,False,False,2,40
+"### || شبرمة بن الطفيل
+",000,False,000,False,False,False,2,94
+"### || مسكين الدارمي
+",000,False,000,False,False,False,2,54
+"### || عمرو بن قميئة
+",000,False,000,False,False,False,2,32
+"### || إياس بن القائف
+",000,False,000,False,False,False,2,34
+"### || سالم بن وابصة
+",000,False,000,False,False,False,2,66
+"### || المعلوط بن بدل القريعي
+",000,False,000,False,False,False,2,25
+"### || منظور بن سحيم
+",000,False,000,False,False,False,2,182
+"### || حاتم بن عبد الله
+",000,False,000,False,False,False,2,30
+"### || ابن الزبير الأسدي
+",000,False,000,False,False,False,2,39
+"### || حجية بن المضرب
+",000,False,000,False,False,False,2,118
+"### || المقنع الكندي
+",000,False,000,False,False,False,2,29
+"### || قيس بن الخطيم
+",000,False,000,False,False,False,2,27
+"### || محمد بن أبي شحاذ الضبي ms44
+",000,False,000,False,False,False,2,33
+"### || حرقة بنت النعمان
+",000,False,000,False,False,False,2,139
+"### || الحكم بن عبدل
+",000,False,000,False,False,False,2,120
+"### || الصلتان العبدي
+",000,False,000,False,False,False,2,23
+"### || جران العود
+",000,False,000,False,False,False,2,27
+"### || بعض القرشيين
+",000,False,000,False,False,False,2,62
+"### || ابن هرمة
+",000,False,000,False,False,False,2,38
+"### || أبو الربيس الثعلبي
+",000,False,000,False,False,False,2,47
+"### || عبد الله بن العجلان
+",000,False,000,False,False,False,2,56
+"### || أبو الطمحان القيني
+",000,False,000,False,False,False,2,82
+"### || نفر وهو جد الطرماح
+",000,False,000,False,False,False,2,41
+"### || توبة بن الحمير
+",000,False,000,False,False,False,2,184
+"### || ابن ميادة
+",000,False,000,False,False,False,2,31
+"### || أبو دهبل
+",000,False,000,False,False,False,2,16
+"### || ابن أبي دباكل الخزاعي
+",000,False,000,False,False,False,2,13
+"### || نصيب
+",000,False,000,False,False,False,2,35
+"### || أبو حية النميري
+",000,False,000,False,False,False,2,71
+"### || أبو القمقام الأسدي
+",000,False,000,False,False,False,2,66
+"### || عمرو بن الأيهم
+",000,False,000,False,False,False,2,51
+"### || عملس بن عقيل بن علفة
+",000,False,000,False,False,False,2,23
+"### || زميل بن أبير
+",000,False,000,False,False,False,2,92
+"### || عمارة بن عقيل
+",000,False,000,False,False,False,2,35
+"### || قعنب بن أم صاحب
+",000,False,000,False,False,False,2,20
+"### || قرواش بن حوط القيني
+",000,False,000,False,False,False,2,41
+"### || سويد بن مشنوء
+",000,False,000,False,False,False,2,92
+"### || معدان بن عبيد
+",000,False,000,False,False,False,2,25
+"### || يزيد بن قنافة
+",000,False,000,False,False,False,2,67
+"### || شعيث
+",000,False,000,False,False,False,2,19
+"### || وضاح بن إسماعيل بن عبد كلال
+",000,False,000,False,False,False,2,20
+"### || جواس بن القعطل الكلبي
+",000,False,000,False,False,False,2,32
+"### || مالك بن أسماء
+",000,False,000,False,False,False,2,229
+"### || ريعان
+",000,False,000,False,False,False,2,73
+"### || أبو العتاهية
+",000,False,000,False,False,False,2,35
+"### || بنت وقدان
+",000,False,000,False,False,False,2,18
+"### || عتيبة بن بجير المازني
+",000,False,000,False,False,False,2,32
+"### || مرة بن محكان التميمي
+",000,False,000,False,False,False,2,22
+"### || سالم بن قحفان
+",000,False,000,False,False,False,2,19
+"### || رجل من بهراء واسمه فدكي 
+",000,False,000,False,False,False,2,68
+"### || العرندس الكلابي
+",000,False,000,False,False,False,2,24
+"### || شقران مولى سلامان من قضاعة
+",000,False,000,False,False,False,2,45
+"### || ليلى الأخيلية
+",000,False,000,False,False,False,2,45
+"### || العجير السلوي
+",000,False,000,False,False,False,2,59
+"### || عمرو بن الاطنابة أحد بني الخزرج
+",000,False,000,False,False,False,2,41
+"### || عبد الله الحوالى من الأزد
+",000,False,000,False,False,False,2,45
+"### || عمرو بن الأهتم
+",000,False,000,False,False,False,2,47
+"### || الهذيل بن مشجعة البولاني
+",000,False,000,False,False,False,2,15
+"### || عبد العزيز بن زرارة
+",000,False,000,False,False,False,2,18
+"### || حماس بن ثامل
+",000,False,000,False,False,False,2,54
+"### || النابغة الذبياني
+",000,False,000,False,False,False,2,26
+"### || العكلي
+",000,False,000,False,False,False,2,47
+"### || أبو كدراء العجلي
+",000,False,000,False,False,False,2,19
+"### || سوادة اليربوعي
+",000,False,000,False,False,False,2,28
+"### || حطائط بن يعفر
+",000,False,000,False,False,False,2,297
+"### || جؤية بن النضر
+",000,False,000,False,False,False,2,196
+"### || زرعة بن عمرو
+",000,False,000,False,False,False,2,17
+"### || عبد الله بن الحشرج
+",000,False,000,False,False,False,2,19
+"### || ملحة الجرمي
+",000,False,000,False,False,False,2,31
+"### || طريح بن إسماعيل الثقفي
+",000,False,000,False,False,False,2,231
+"### || أمية بن أبي الصلت
+",000,False,000,False,False,False,2,305
+"### || امرأة من اياد
+",000,False,000,False,False,False,2,81
+"### || واقد بن الغطريف
+",000,False,000,False,False,False,2,72
+"### || خندج بن خندج المري
+",000,False,000,False,False,False,2,21
+"### || بلال بن جرير
+",000,False,000,False,False,False,2,33
+"### || ام النحيف
+",000,False,000,False,False,False,2,343

@@ -1,0 +1,223 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK [أضواء على الصحيحين للشيخ محمد صادق النجمي]
+",000,False,000,False,False,False,1,4812
+"### | AUTO الفصل الاول: سير الحديث اهميته، وتدوينه PageV01P033 --- ... الصفحة 34 ... --- PageV01P034 --- ... الصفحة 35 ... ---
+",000,False,000,False,False,False,1,4813
+"### || AUTO اهمية الحديث في الكتاب:
+",000,False,000,False,False,False,2,201
+"### || AUTO اهمية الحديث في السنة:
+",000,year,000,False,False,False,2,150
+"### || AUTO الفرق بين الكتاب والسنة:
+",000,year,000,False,False,False,2,185
+"### || AUTO ملخص القول:
+",000,False,000,False,False,False,2,120
+"### || AUTO التدوين عند الشيعة:
+",000,False,000,False,False,False,2,225
+"### || AUTO التدوين في عهد الامام علي (ع):
+",000,False,000,False,False,False,2,188
+"### || AUTO الامام الباقر (ع) والصحيفة العلوية:
+",000,False,000,False,False,False,2,185
+"### || AUTO احصاء مؤلفي الحديث وطبقاتهم:
+",000,False,000,False,False,False,2,83
+"### || AUTO التدوين في عهد الامام الصادق (ع):
+",000,False,000,False,False,False,2,176
+"### || AUTO الكتب الاربعة:
+",000,False,000,False,False,False,2,161
+"### || AUTO التدوين عند اهل السنة:
+",000,year,000,False,False,False,2,87
+"### || AUTO المنع في عهد ابي بكر:
+",000,False,000,False,False,False,2,164
+"### || AUTO المنع في عهد عمر:
+",000,False,000,False,False,False,2,316
+"### || AUTO المنع عن التدوين في عهد عمر:
+",000,False,000,False,False,False,2,66
+"### || AUTO الحديث في عهد عثمان:
+",000,False,000,False,False,False,2,270
+"### || AUTO الحديث في عهد معاوية:
+",000,False,000,False,False,False,2,658
+"### || AUTO الحديث في عهد خلفاء بني امية:
+",000,False,000,False,False,False,2,96
+"### || AUTO الخطوة الاولى في تدوين الحديث:
+",000,False,000,False,False,False,2,148
+"### || AUTO تدوين الحديث في عهد عمر بن عبدالعزيز:
+",000,False,000,False,False,False,2,524
+"### || AUTO تاريخ ظهور الصحاح الستة:
+",000,False,000,False,False,False,2,275
+"### || AUTO الفرق بين الصحاح والمسانيد:
+",000,False,000,False,False,False,2,107
+"### | AUTO الفصل الثاني: ترجمة محمد بن اسماعيل البخاري ومسلم بن الحجاج
+",000,False,000,False,False,False,1,4377
+"### || AUTO لمحة عن حياة البخاري
+",000,False,000,False,False,False,2,22
+"### || AUTO مولده:
+",000,False,000,False,False,False,2,24
+"### || AUTO نشاته العلمية:
+",000,False,000,False,False,False,2,3
+"### || AUTO فقد البخاري اباه في سن مبكر وتولت امه تربيته، وبدا بطلب
+",000,False,000,False,False,False,2,136
+"### || AUTO مؤلفاته:
+",000,False,000,False,False,False,2,46
+"### || AUTO فتاوى البخاري العجيبة:
+",000,False,000,False,False,False,2,175
+"### || AUTO وفاته ومدفنه:
+",000,False,000,False,False,False,2,27
+"### || AUTO لمحة عن حياة مسلم
+",000,False,000,False,False,False,2,16
+"### || AUTO مولده ووفاته:
+",000,False,000,False,False,False,2,196
+"### || AUTO مؤلفاته:
+",000,False,000,False,False,False,2,42
+"### || AUTO سبب وفاته:
+",000,False,000,False,False,False,2,105
+"### || AUTO الفصل الثالث: الصحيحان وموقعهما العلمي عند أهل السنة PageV01P071 --- ... الصفحة 72 ... --- PageV01P072 --- ... الصفحة 73 ... ---
+",000,year,000,False,False,False,2,20
+"### || AUTO الصحاح الستة:
+",000,False,000,False,False,False,2,237
+"### || AUTO خصائص صحيح البخاري:
+",000,False,000,False,False,False,2,93
+"### || AUTO خصائص صحيح مسلم:
+",000,False,000,False,False,False,2,53
+"### || AUTO المغالاة في الصحيحين:
+",000,False,000,False,False,False,2,369
+"### || AUTO مغالاة اكثر:
+",000,False,000,False,False,False,2,313
+"### || AUTO ما قيل من الرؤى والكرامات:
+",000,False,000,False,False,False,2,44
+"### || AUTO الفربري والنبي (ص):
+",000,False,000,False,False,False,2,104
+"### || AUTO الشعراء يطرون:
+",000,False,000,False,False,False,2,117
+"### || AUTO دفاع مرير:
+",000,False,000,False,False,False,2,320
+"### || AUTO عندما تتجلى الحقيقة:
+",000,False,000,False,False,False,2,615
+"### || AUTO مسلم يرفض:
+",000,False,000,False,False,False,2,70
+"### || AUTO موقف ابي زرعة من الصحيحين:
+",000,False,000,False,False,False,2,163
+"### || AUTO موقف النووي من الصحيحين:
+",000,False,000,False,False,False,2,134
+"### || AUTO موقف ابن حجر من الصحيحين:
+",000,False,000,False,False,False,2,67
+"### || AUTO راي القاضي الباقلاني:
+",000,False,000,False,False,False,2,53
+"### || AUTO راي ابن همام:
+",000,False,000,False,False,False,2,74
+"### || AUTO ونلفت انظار القرا الى رايين من علماء مصر المعاصرين:
+",000,False,000,False,False,False,2,10
+"### || AUTO راي الشيخ محمد عبده:
+",000,False,000,False,False,False,2,210
+"### || AUTO راي احمد امين:
+",000,False,000,False,False,False,2,80
+"### || AUTO ويضيف الاديب احمد امين على ذلك شواهد تاريخية اخرى لاثبات كون
+",000,False,000,False,False,False,2,45
+"### || AUTO راي مسلمة في صحيح البخاري:
+",000,False,000,False,False,False,2,48
+"### || AUTO يقول مسلمة:
+",000,False,000,False,False,False,2,96
+"### | AUTO الفصل الرابع: أدلة ضعف الصحيحين وسقمهما PageV01P093 --- ... الصفحة 94 ... --- PageV01P094 --- ... الصفحة 95 ... ---
+",000,False,000,False,False,False,1,6707
+"### || AUTO علم الرجال ودراية الحديث:
+",000,False,000,False,False,False,2,307
+"### || AUTO الايمان شرط قبول الحديث:
+",000,False,000,False,False,False,2,79
+"### || AUTO تناقض هذه الصفات مع الايمان:
+",000,False,000,False,False,False,2,143
+"### || AUTO تقييم ايمان بعض رواة الصحيحين:
+",000,False,000,False,False,False,2,1899
+"### || AUTO الصحيحان وفضائل الامام علي (ع):
+",000,False,000,False,False,False,2,324
+"### || AUTO افتراء مسلم على الشيعة:
+",000,False,000,False,False,False,2,323
+"### || AUTO كل من الامام الصادق (ع) والبخاري اذ:
+",000,False,000,False,False,False,2,160
+"### || AUTO تبرير ابن تيمية:
+",000,False,000,False,False,False,2,815
+"### || AUTO ولكن هذا الجواب مردود:
+",000,False,000,False,False,False,2,321
+"### || AUTO وتقطيعاته:
+",000,False,000,False,False,False,2,2093
+"### | AUTO الفصل الخامس: التوحيد في الصحيحين PageV01P129 --- ... الصفحة 130 ... --- PageV01P130 --- ... الصفحة 131 ... ---
+",000,False,000,False,False,False,1,11288
+"### | AUTO الفصل السادس: النبوة في الصحيحين.
+",000,False,000,False,False,False,1,7352
+"### || AUTO الانبياء في القرآن
+",000,False,000,False,False,False,2,958
+"### ||| AUTO الاستعداد للرسالة:
+",000,False,000,False,False,False,3,291
+"### ||| AUTO عصمة الانبياء:
+",000,False,000,False,False,False,3,249
+"### || AUTO رسول الله (ص) في القرآن والسنة
+",000,year,000,False,False,False,2,2573
+"### ||| AUTO مؤهلائه في نظر القرآن:
+",000,False,000,False,False,False,3,819
+"### ||| AUTO مؤهلات النبي (ص) في الاحاديث:
+",000,False,000,False,False,False,3,407
+"### ||| AUTO اخلاق النبي (ص):
+",000,False,000,False,False,False,3,310
+"### ||| AUTO الوحي والاجتهاد: كيفية الوحي:
+",000,False,000,False,False,False,3,346
+"### |||| AUTO 1 القسم الاول: الالهام ويظهر من خلال اراء المفسرين حول
+",000,False,000,False,False,False,4,79
+"### |||| AUTO 2 القسم الثاني ms119: التكلم من ورا حجاب:
+",000,False,000,False,False,False,4,100
+"### ||| AUTO الوحي الغير قرآني:
+",000,False,000,False,False,False,3,319
+"### | AUTO الفصل السابع: رسول الله (ص) في الصحيحين PageV01P229 --- ... الصفحة 230 ... --- PageV01P230 --- ... الصفحة 231 ... ---
+",000,False,000,False,False,False,1,17398
+"### || AUTO النبي قبل البعثة
+",000,False,000,False,False,False,2,2077
+"### ||| AUTO 1 ايمان ابويه:
+",000,False,000,False,False,False,3,427
+"### ||| AUTO 2 الرسول ياكل الحرام
+",000,False,000,False,False,False,3,293
+"### ||| AUTO من هو زيد بن عمرو بن نفيل؟
+",000,False,000,False,False,False,3,411
+"### ||| AUTO 3 قصة شق الصدر
+",000,False,000,False,False,False,3,499
+"### ||| AUTO معنى انشراح الصدر:
+",000,False,000,False,False,False,3,207
+"### | AUTO الفصل الثامن: الخلافة في الصحيحين PageV01P321 --- ... الصفحة 322 ... --- PageV01P322 --- ... الصفحة 323 ... ---
+",000,False,000,False,False,False,1,43260
+"### || AUTO منهج البحث وهدفه
+",000,False,000,False,False,False,2,167
+"### || AUTO اسئلة حول الخلافة:
+",000,False,000,False,False,False,2,1151
+"### || AUTO فضائل اهل البيت (ع) في الصحيحين
+",000,False,000,False,False,False,2,3949
+"### ||| AUTO 1 آية التطهير:
+",000,False,000,False,False,False,3,151
+"### ||| AUTO 2 آية المباهلة:
+",000,False,000,False,False,False,3,138
+"### ||| AUTO 3 حديث يوم الغدير:
+",000,False,000,False,False,False,3,459
+"### ||| AUTO 4 اهل البيت (ع) قرناء الرسول (ص):
+",000,False,000,False,False,False,3,346
+"### ||| AUTO 5 الائمة الاثنا عشر (ع):
+",000,False,000,False,False,False,3,625
+"### ||| AUTO فضائل أمير المؤمنين (ع) في الصحيحين
+",000,False,000,False,False,False,3,1110
+"### |||| AUTO 1 عدو علي عدو الله:
+",000,False,000,False,False,False,4,56
+"### |||| AUTO 2 حب علي ايمان وبغضه نفاق:
+",000,False,000,False,False,False,4,44
+"### |||| AUTO 3 صلاة علي (ع) صلاة النبي (ص):
+",000,False,000,False,False,False,4,61
+"### |||| AUTO 4 ابو تراب الكنية المهداة:
+",000,False,000,False,False,False,4,125
+"### |||| AUTO 5 علي (ع) اقضى الناس:
+",000,False,000,False,False,False,4,118
+"### |||| AUTO 6 الحب المتبادل بين الله ورسوله وعلي:
+",000,False,000,False,False,False,4,196
+"### ||| AUTO فضائل فاطمة الزهرا (س)
+",000,False,000,False,False,False,3,535
+"### |||| AUTO 1 فاطمة سيدة النسا:
+",000,False,000,False,False,False,4,101
+"### |||| AUTO 2 فاطمة اول من تلتحق بالنبي (ص):
+",000,False,000,False,False,False,4,55
+"### |||| AUTO 3 فاطمة بضعة الرسول (ص):
+",000,False,000,False,False,False,4,52
+"### |||| AUTO 4 تسبيح فاطمة (س):
+",000,False,000,False,False,False,4,79
+"### |||| AUTO 5 حنان فاطمة على ابيها:
+",000,False,000,False,False,False,4,173

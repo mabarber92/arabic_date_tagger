@@ -1,0 +1,47 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | تمهيد
+",000,False,000,False,False,False,1,25
+"### | مقدمة
+",000,False,000,False,False,False,1,90
+"### | هل الإمامة بالرأي أم بسلطة لكم أم فريضة ?
+",000,False,000,False,False,False,1,590
+"### | هل تنصيب الإمام فرض أم سنة أم تكلف?
+",000,year,000,False,False,False,1,1159
+"### | تعيين الرسول أحدهم للصلاة لا يعني تعيينه للإ مامة
+",000,False,000,False,False,False,1,100
+"### | هل الإمامة من الله لواحد دود واحد أم لمن غلب ?
+",000,False,000,False,False,False,1,201
+"### | هل تجوز إمامة المفضول ?
+",000,False,000,False,False,False,1,150
+"### | دوام الإمامة
+",000,False,000,False,False,False,1,184
+"### | هل أوصى الرسول بنصب الإمام
+",000,False,000,False,False,False,1,374
+"### | أسباب أخرى مبطلة لإمامة أي بكر وعمر
+",000,False,000,False,False,False,1,1617
+"### | وجوب نص الرسول على الإمام
+",000,False,000,False,False,False,1,1505
+"### | عدم جواز استخلاف المفضول بوجود الفاضل
+",000,False,000,False,False,False,1,1474
+"### | من إمام هذا العصر?
+",000,False,000,False,False,False,1,795
+"### | وجوب النص بالإمامة كوجوب النص بالدعائم
+",000,False,000,False,False,False,1,617
+"### | عدم وجود إجماع على الص لا يعني إبطال النص
+",000,False,000,False,False,False,1,841
+"### | السنة أصل آخر بعد الكتاب
+",000,year,000,False,False,False,1,1253
+"### | عدم نشر النص على جميع الأمة لا يبطله
+",000,False,000,False,False,False,1,405
+"### | كما أن الرسول منصوص عليه كذلك أولو الأمر
+",000,False,000,False,False,False,1,574
+"### | الفرق بن السي والإمام
+",000,False,000,False,False,False,1,148
+"### | وجوب إمامة علي بن أبي طالب
+",000,False,000,False,False,False,1,1262
+"### | وجوب استخلاف الرسول أماما بعده
+",000,False,000,False,False,False,1,215
+"### | من يعقد الإمامة
+",000,False,000,False,False,False,1,4823
+"### | قرابة النسب بين الرسول والإمام
+",000,False,000,False,False,False,1,6615

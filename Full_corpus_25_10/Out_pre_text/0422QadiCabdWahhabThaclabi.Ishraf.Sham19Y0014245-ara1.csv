@@ -1,0 +1,945 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO باب الطهارة
+",000,False,000,False,False,False,1,14356
+"### || AUTO [المياه]
+",000,False,000,False,False,False,2,431
+"### || AUTO [إزالة النجاسة]
+",000,False,000,False,False,False,2,667
+"### || AUTO [استعمال أواني الذهب والفضة]
+",000,False,000,False,False,False,2,9
+"### || AUTO استعمال أواني الذهب والفضة
+",000,False,000,False,False,False,2,100
+"### || AUTO [استعمال أواني وثياب أهل الكتاب]
+",000,False,000,False,False,False,2,49
+"### || AUTO [الوضوء]
+",000,False,000,False,False,False,2,1383
+"### || AUTO [الغسل]
+",000,False,000,False,False,False,2,18
+"### || AUTO الغسل
+",000,False,000,False,False,False,2,10
+"### || AUTO الغسل
+",000,False,000,False,False,False,2,96
+"### || AUTO [ما يمنع الحدث]
+",000,False,000,False,False,False,2,416
+"### || AUTO [المسح على الخفين]
+",000,False,000,False,False,False,2,6
+"### || AUTO المسح على الخفين
+",000,False,000,False,False,False,2,995
+"### || AUTO [آداب قضاء الحاجة وحكم إزالة النجاسة]
+",000,False,000,False,False,False,2,779
+"### || CHECK باب في نواقض الوضوء وموجبات الغسل
+",000,False,000,False,False,False,2,2229
+"### || AUTO باب التيمم
+",000,False,000,False,False,False,2,3074
+"### ||| AUTO [المسح على الجبائر]
+",000,False,000,False,False,False,3,306
+"### || CHECK باب في أحكام المياه والأعيان
+",000,False,000,False,False,False,2,1869
+"### ||| AUTO [الماء المستعمل في الطهارة]
+",000,False,000,False,False,False,3,249
+"### ||| AUTO [طهارة عين الحيوان وسؤره]
+",000,False,000,False,False,False,3,706
+"### || CHECK باب في الاغتسالات المسنونة
+",000,False,000,False,False,False,2,223
+"### ||| AUTO [غسل الجمعة]
+",000,False,000,False,False,False,3,5
+"### ||| AUTO غسل الجمعة
+",000,False,000,False,False,False,3,162
+"### ||| AUTO [الغسل من تغسيل الميت]
+",000,False,000,False,False,False,3,7
+"### || AUTO باب الحيض
+",000,False,000,False,False,False,2,1987
+"### | AUTO كتاب الصلاة
+",000,False,000,False,False,False,1,24842
+"### || AUTO باب في الأذان
+",000,False,000,False,False,False,2,870
+"### || AUTO [باب في استقبال القبلة]
+",000,False,000,False,False,False,2,588
+"### || AUTO [حكم من طلعت عليه الشمس وهو يصلي الصبح]
+",000,False,000,False,False,False,2,63
+"### || AUTO [باب في صفة الصلاة]
+",000,False,000,False,False,False,2,4733
+"### ||| AUTO [النية]
+",000,False,000,False,False,False,3,12
+"### ||| AUTO تكبيرة الإحرام
+",000,False,000,False,False,False,3,40
+"### ||| AUTO النية
+",000,False,000,False,False,False,3,12
+"### ||| AUTO [تكبيرة الإحرام]
+",000,False,000,False,False,False,3,259
+"### ||| AUTO [تربص الإمام قبل الإحرام حتى تعتدل الصفوف]
+",000,False,000,False,False,False,3,105
+"### ||| AUTO [تكبيرة الإحرام بالفارسية]
+",000,False,000,False,False,False,3,90
+"### ||| AUTO [رفع اليدين عند تكبيرة الإحرام]
+",000,False,000,False,False,False,3,190
+"### ||| AUTO [القراءة في الصلاة]
+",000,False,000,False,False,False,3,1479
+"### ||| AUTO [وضع اليمنى على اليسرى]
+",000,False,000,False,False,False,3,8
+"### ||| AUTO وضع اليمنى على اليسرى
+",000,False,000,False,False,False,3,30
+"### ||| AUTO وضع اليمنى على اليسرى
+",000,False,000,False,False,False,3,16
+"### ||| AUTO وضع اليمنى على اليسرى
+",000,False,000,False,False,False,3,70
+"### ||| AUTO [القراءة في الركعتين الأخيرتين]
+",000,False,000,False,False,False,3,103
+"### ||| AUTO [التكبير عند الركوع والسجود]
+",000,False,000,False,False,False,3,68
+"### ||| AUTO [الركوع والرفع منه]
+",000,False,000,False,False,False,3,358
+"### ||| AUTO السجود
+",000,False,000,False,False,False,3,99
+"### ||| AUTO السجود)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO السجود
+",000,False,000,False,False,False,3,2
+"### ||| AUTO [السجود]
+",000,False,000,False,False,False,3,7
+"### ||| AUTO السجود
+",000,False,000,False,False,False,3,425
+"### ||| AUTO [الجلوس في الصلاة]
+",000,False,000,False,False,False,3,6
+"### ||| AUTO الجلوس في الصلاة
+",000,False,000,False,False,False,3,133
+"### ||| AUTO [التشهد والسلام]
+",000,False,000,False,False,False,3,725
+"### ||| AUTO [التكبير عند القيام من ركعتين]
+",000,False,000,False,False,False,3,56
+"### ||| AUTO [الدعاء والقنوت في الصلاة]
+",000,False,000,False,False,False,3,182
+"### ||| AUTO [الترتيب في قضاء الفوائت]
+",000,False,000,False,False,False,3,134
+"### || AUTO [مسائل مختلفة تتعلق بالصلاة]
+",000,False,000,False,False,False,2,4792
+"### ||| AUTO [ستر العورة]
+",000,False,000,False,False,False,3,8
+"### ||| AUTO ستر العورة
+",000,False,000,False,False,False,3,100
+"### ||| AUTO ستر العورة
+",000,False,000,False,False,False,3,511
+"### ||| AUTO [مبطلات الصلاة]
+",000,False,000,False,False,False,3,360
+"### ||| AUTO [قضاء الصلاة بعد سلام الإمام]
+",000,False,000,False,False,False,3,130
+"### ||| AUTO [إعادة الصلاة في جماعة]
+",000,False,000,False,False,False,3,205
+"### ||| AUTO [العجز عن القيام في الصلاة]
+",000,False,000,False,False,False,3,54
+"### ||| AUTO [مكان وقوف المرأة في صلاة الجماعة]
+",000,False,000,False,False,False,3,112
+"### ||| AUTO [سجود التلاوة]
+",000,False,000,False,False,False,3,5
+"### ||| AUTO سجود التلاوة
+",000,False,000,False,False,False,3,438
+"### ||| AUTO [الصلاة داخل الكعبة]
+",000,False,000,False,False,False,3,203
+"### ||| AUTO [الصلاة عند نقض البيت -والعياذ بالله-]
+",000,False,000,False,False,False,3,116
+"### ||| AUTO [قضاء المرتد الصلاة إذا أسلم]
+",000,False,000,False,False,False,3,144
+"### ||| AUTO [الشك في عدد ركعات الصلاة]
+",000,False,000,False,False,False,3,162
+"### ||| AUTO سجود السهو
+",000,False,000,False,False,False,3,14
+"### ||| AUTO سجود السهو
+",000,False,000,False,False,False,3,30
+"### ||| AUTO [سجود السهو]
+",000,False,000,False,False,False,3,5
+"### ||| AUTO سجود السهو
+",000,False,000,False,False,False,3,484
+"### ||| AUTO [العجز عن قراءة القرآن]
+",000,False,000,False,False,False,3,325
+"### ||| AUTO [إمامة الجنب أو المحدث]
+",000,False,000,False,False,False,3,350
+"### ||| AUTO [الصلاة في الثوب النجس]
+",000,False,000,False,False,False,3,366
+"### ||| AUTO [مسائل في النجاسة]
+",000,False,000,False,False,False,3,457
+"### ||| AUTO [الصلاة في المقبرة]
+",000,False,000,False,False,False,3,6
+"### ||| AUTO الصلاة في المقبرة
+",000,False,000,False,False,False,3,17
+"### || AUTO [باب في الصلوات غير الفرائض]
+",000,False,000,False,False,False,2,3042
+"### ||| AUTO [النافلة بعد العصر]
+",000,False,000,False,False,False,3,59
+"### ||| AUTO [قضاء الصلاة في الأوقات المنهي عنها]
+",000,False,000,False,False,False,3,39
+"### ||| AUTO [قضاء السنن بعد خروج وقتها]
+",000,False,000,False,False,False,3,38
+"### ||| AUTO [صلاة الوتر]
+",000,False,000,False,False,False,3,490
+"### ||| AUTO [عدد ركعات النوافل]
+",000,False,000,False,False,False,3,77
+"### ||| AUTO [صلاة التراويح]
+",000,False,000,False,False,False,3,5
+"### ||| AUTO صلاة التراويح
+",000,False,000,False,False,False,3,24
+"### ||| AUTO [دعاء القنوت في الوتر]
+",000,False,000,False,False,False,3,78
+"### ||| AUTO [حكم صلاة الجماعة]
+",000,False,000,False,False,False,3,70
+"### ||| AUTO [حكم ائتمام القائم بالقاعد]
+",000,False,000,False,False,False,3,293
+"### ||| AUTO [حكم العاجز عن القيام والركوع]
+",000,False,000,False,False,False,3,269
+"### ||| AUTO [ائتمام المفترض بالمتنفل]
+",000,False,000,False,False,False,3,8
+"### ||| AUTO ائتمام المفترض بالمتنفل
+",000,False,000,False,False,False,3,159
+"### ||| AUTO [إمامة الصبي]
+",000,False,000,False,False,False,3,25
+"### ||| AUTO [انتظار الإمام الداخل أثناء الركوع]
+",000,False,000,False,False,False,3,53
+"### ||| AUTO [إمامة المرأة]
+",000,False,000,False,False,False,3,84
+"### ||| AUTO [إمامة الأمي]
+",000,False,000,False,False,False,3,149
+"### ||| AUTO [إمامة الكافر]
+",000,False,000,False,False,False,3,111
+"### ||| AUTO [انتقال المنفرد إلى الجماعة أثناء الصلاة]
+",000,False,000,False,False,False,3,126
+"### ||| AUTO [وقوف المأموم وراء الإمام]
+",000,False,000,False,False,False,3,83
+"### ||| AUTO [الصلاة خلف الصف]
+",000,False,000,False,False,False,3,135
+"### ||| AUTO [الصلاة قدام الإمام]
+",000,False,000,False,False,False,3,57
+"### ||| AUTO [وقوف الإمام في مكان مرتفع]
+",000,False,000,False,False,False,3,131
+"### ||| AUTO [صلاة المأموم في الأماكن المحجورة]
+",000,False,000,False,False,False,3,78
+"### ||| AUTO [الاقتداء بالإمام من وراء نهر]
+",000,False,000,False,False,False,3,171
+"### ||| AUTO [مفارقة الإمام بعد الدخول معه]
+",000,False,000,False,False,False,3,76
+"### || AUTO [باب في صلاة المسافر]
+",000,False,000,False,False,False,2,2165
+"### ||| AUTO [قصر الصلاة في السفر وحكم المضطر للميتة فيه]
+",000,False,000,False,False,False,3,1856
+"### || AUTO [باب في صلاة الجمعة]
+",000,False,000,False,False,False,2,3449
+"### ||| AUTO [حكم السجود على ظهر إنسان من أجل الزحام]
+",000,False,000,False,False,False,3,97
+"### ||| AUTO [فوات المأموم السجود مع الإمام من أجل الزحمة]
+",000,False,000,False,False,False,3,160
+"### ||| AUTO [قطع الإمام الصلاة من أجل العذر وحكم الاستلاف]
+",000,False,000,False,False,False,3,137
+"### ||| AUTO [متى يصلي الظهر من تلزمه الجمعة؟]
+",000,False,000,False,False,False,3,192
+"### ||| AUTO [صلاة الظهر عند فوات الجمعة]
+",000,False,000,False,False,False,3,63
+"### ||| AUTO [السفر يوم الجمعة]
+",000,False,000,False,False,False,3,6
+"### ||| AUTO السفر يوم الجمعة
+",000,False,000,False,False,False,3,137
+"### ||| AUTO [تحية المسجد أثناء الخطبة]
+",000,False,000,False,False,False,3,137
+"### ||| AUTO [حكم الخطبة وصفتها]
+",000,False,000,False,False,False,3,188
+"### ||| AUTO [حكم الإنصات والكلام]
+",000,False,000,False,False,False,3,203
+"### ||| AUTO [الجلوس قبل الخطبة والقيام فيها]
+",000,False,000,False,False,False,3,131
+"### ||| AUTO [سلام الإمام على الناس إذا رقى المنبر]
+",000,False,000,False,False,False,3,61
+"### ||| AUTO [الطهارة في الخطبة]
+",000,False,000,False,False,False,3,41
+"### ||| AUTO [اشتراط حضور العدد الذي تنعقد بهم الجمعة من أول الخطبة]
+",000,False,000,False,False,False,3,88
+"### ||| AUTO [القراءة في صلاة الجمعة]
+",000,False,000,False,False,False,3,94
+"### ||| AUTO [وقت صلاة الجمعة]
+",000,False,000,False,False,False,3,74
+"### ||| AUTO [إمامة المراهق والعبد]
+",000,False,000,False,False,False,3,116
+"### ||| AUTO [تعدد الجمعة في المصر الواحد]
+",000,False,000,False,False,False,3,124
+"### ||| AUTO [اجتماع جمعة وعيد]
+",000,False,000,False,False,False,3,65
+"### || AUTO باب في صلاة الخوف
+",000,False,000,False,False,False,2,980
+"### || AUTO باب في صلاة العيدين
+",000,False,000,False,False,False,2,842
+"### || CHECK باب فصل في صلاة الكسوف
+",000,False,000,False,False,False,2,278
+"### || CHECK باب في صلاة خسوف القمر
+",000,False,000,False,False,False,2,113
+"### || CHECK باب في صلاة الاستسقاء
+",000,False,000,False,False,False,2,119
+"### | AUTO كتاب الجنائز
+",000,False,000,False,False,False,1,2361
+"### | AUTO كتاب الزكاة
+",000,False,000,False,False,False,1,9895
+"### || AUTO [زكاة الأنعام]
+",000,False,000,False,False,False,2,2270
+"### || AUTO [تلف الزكاة قبل وصولها إلى الإمام]
+",000,False,000,False,False,False,2,313
+"### || AUTO [زكاة الدين]
+",000,False,000,False,False,False,2,125
+"### || AUTO [زكاة المال الضائع والمغصوب]
+",000,False,000,False,False,False,2,100
+"### || AUTO [حكم من يكتم الساعي بعض ماله]
+",000,False,000,False,False,False,2,93
+"### || AUTO [الظباء إذا ضربت في الغنم]
+",000,False,000,False,False,False,2,69
+"### || AUTO [التنقيص من النصاب فرارا من الزكاة]
+",000,False,000,False,False,False,2,263
+"### || AUTO [تقديم إخراج الزكاة قبل الحول]
+",000,False,000,False,False,False,2,185
+"### || AUTO [حكم الزكاة في أموال المكاتب واليتامى]
+",000,False,000,False,False,False,2,124
+"### || AUTO [الزكاة في الخيل]
+",000,False,000,False,False,False,2,94
+"### || AUTO [افتقار الزكاة إلى النية]
+",000,False,000,False,False,False,2,62
+"### || AUTO [الامتناع من دفع الزكاة]
+",000,False,000,False,False,False,2,156
+"### || AUTO [إخراج القيمة في الزكاة]
+",000,False,000,False,False,False,2,9
+"### || AUTO إخراج القيمة في الزكاة
+",000,False,000,False,False,False,2,267
+"### || AUTO [إخراج الذهب عن الفضة والفضة عن الذهب]
+",000,False,000,False,False,False,2,74
+"### || AUTO [الخلطة في زكاة الماشية وتأثيرها]
+",000,False,000,False,False,False,2,282
+"### || AUTO [زكاة الحرث]
+",000,False,000,False,False,False,2,553
+"### || AUTO [زكاة العين]
+",000,False,000,False,False,False,2,732
+"### || AUTO [تمام النصاب أثناء الحول]
+",000,False,000,False,False,False,2,54
+"### || AUTO [زكاة التجارة]
+",000,False,000,False,False,False,2,1417
+"### || AUTO باب زكاة المعادن
+",000,False,000,False,False,False,2,289
+"### || AUTO باب في الركاز
+",000,False,000,False,False,False,2,209
+"### || AUTO [دعاء الإمام لصاحب الصدقة]
+",000,False,000,False,False,False,2,47
+"### || AUTO باب زكاة الفطر
+",000,False,000,False,False,False,2,1044
+"### || AUTO [مسائل مختلفة في الزكاة]
+",000,False,000,False,False,False,2,5
+"### || AUTO [إعطاء الذمي من الزكاة]
+",000,False,000,False,False,False,2,81
+"### || AUTO [الوصية بالزكاة]
+",000,False,000,False,False,False,2,154
+"### | AUTO كتاب الصيام
+",000,False,000,False,False,False,1,5041
+"### || AUTO [النية]
+",000,False,000,False,False,False,2,55
+"### || AUTO النية
+",000,False,000,False,False,False,2,11
+"### || AUTO النية
+",000,False,000,False,False,False,2,293
+"### || AUTO [اعتماد قول المنجمين لثبوت الشهر]
+",000,False,000,False,False,False,2,65
+"### || AUTO [صيام يوم الشك]
+",000,False,000,False,False,False,2,148
+"### || AUTO [أحكام في رؤية الهلال]
+",000,False,000,False,False,False,2,531
+"### || AUTO [الصائم يصبح جنبا]
+",000,False,000,False,False,False,2,86
+"### || CHECK الخطأ في غروب الشمس أو طلوعها
+",000,False,000,False,False,False,2,21
+"### || AUTO [المرأة إذا طهرت ليلا ولم تغتسل]
+",000,False,000,False,False,False,2,242
+"### || AUTO [التقيؤ عمدا]
+",000,False,000,False,False,False,2,109
+"### || AUTO [الوطء في رمضان]
+",000,False,000,False,False,False,2,223
+"### || AUTO [وجوب الكفارة والقضاء على متعمد الفطر]
+",000,False,000,False,False,False,2,396
+"### || AUTO [الفطر نسيانا]
+",000,False,000,False,False,False,2,99
+"### || AUTO [الفطر بسبب الإكراه]
+",000,False,000,False,False,False,2,54
+"### || AUTO [الإنزال بسبب النظر]
+",000,False,000,False,False,False,2,44
+"### || AUTO [الفطر قبل حصول العذر]
+",000,False,000,False,False,False,2,164
+"### || AUTO [تعمد الفطر في غير رمضان]
+",000,False,000,False,False,False,2,45
+"### || AUTO [سبق الماء إلى الحلق في المضمضة والاستنشاق]
+",000,False,000,False,False,False,2,85
+"### || AUTO [ما يحصل به الإفطار]
+",000,False,000,False,False,False,2,229
+"### || AUTO [حكم الحامل والمرضع والشيخ الهرم]
+",000,False,000,False,False,False,2,152
+"### || AUTO [حكم القبلة]
+",000,False,000,False,False,False,2,54
+"### || AUTO [حكم المغمى عليه]
+",000,False,000,False,False,False,2,277
+"### || AUTO [الأكل مع الشك في طلوع الفجر]
+",000,False,000,False,False,False,2,67
+"### || AUTO [السواك والحجامة]
+",000,False,000,False,False,False,2,158
+"### || AUTO [الفطر من أجل السفر]
+",000,False,000,False,False,False,2,475
+"### || AUTO [تأخير القضاء حتى دخل رمضان آخر]
+",000,False,000,False,False,False,2,175
+"### || AUTO [الصوم عن الغير]
+",000,False,000,False,False,False,2,74
+"### || AUTO [التتابع في صوم كفارة اليمين وقضاء رمضان]
+",000,False,000,False,False,False,2,44
+"### || AUTO [التباس الشهور على أحد في بلد العدو]
+",000,False,000,False,False,False,2,141
+"### || AUTO [نذر صوم يومي النحر والفطر]
+",000,False,000,False,False,False,2,100
+"### || AUTO [صوم أيام التشريق للمتمتع]
+",000,False,000,False,False,False,2,67
+"### || AUTO [وجوب إتمام صوم التطوع]
+",000,False,000,False,False,False,2,257
+"### || AUTO [إلغاء النية أثناء الصوم]
+",000,False,000,False,False,False,2,58
+"### || AUTO [صوم يوم الجمعة وحده]
+",000,False,000,False,False,False,2,7
+"### | AUTO كتاب الاعتكاف
+",000,False,000,False,False,False,1,1021
+"### || AUTO [ليلة القدر]
+",000,False,000,False,False,False,2,5
+"### || AUTO ليلة القدر
+",000,False,000,False,False,False,2,60
+"### || AUTO [حكم الاعتكاف]
+",000,False,000,False,False,False,2,44
+"### || AUTO [اعتكاف المرأة في المسجد]
+",000,False,000,False,False,False,2,71
+"### || AUTO [اشتراط الصوم للاعتكاف]
+",000,False,000,False,False,False,2,132
+"### || AUTO [الاعتكاف إذا تخلله يوم الجمعة]
+",000,False,000,False,False,False,2,78
+"### || AUTO [الخروج من المسجد أثناء الاعتكاف]
+",000,False,000,False,False,False,2,79
+"### || AUTO [التتابع في الاعتكاف]
+",000,False,000,False,False,False,2,59
+"### || AUTO [الوطء عمدا أثناء الاعتكاف]
+",000,False,000,False,False,False,2,29
+"### || AUTO [القبلة واللمس أثناء الاعتكاف]
+",000,False,000,False,False,False,2,68
+"### || AUTO [الوطء نسيانا أثناء الاعتكاف]
+",000,False,000,False,False,False,2,26
+"### || AUTO [اعتكاف الزوجة بعد إذن زوجها]
+",000,False,000,False,False,False,2,145
+"### || AUTO [الاشتراط في الاعتكاف]
+",000,False,000,False,False,False,2,45
+"### || AUTO [وقت الدخول إلى المعتكف]
+",000,False,000,False,False,False,2,105
+"### | AUTO كتاب المناسك في الحج
+",000,False,000,False,False,False,1,8877
+"### || AUTO [الاستطاعة]
+",000,False,000,False,False,False,2,5
+"### || AUTO الاستطاعة
+",000,False,000,False,False,False,2,118
+"### || AUTO [الحج عن الميت]
+",000,False,000,False,False,False,2,98
+"### || AUTO [حج المرأة التي لا محرم لها]
+",000,False,000,False,False,False,2,37
+"### || AUTO [الحج عن النفس قبل الحج عن الغير]
+",000,False,000,False,False,False,2,146
+"### || AUTO [النيابة والإجارة على الحج]
+",000,False,000,False,False,False,2,8
+"### || AUTO النيابة والإجارة على الحج
+",000,False,000,False,False,False,2,43
+"### || AUTO [الحج على الفور]
+",000,False,000,False,False,False,2,6
+"### || AUTO الحج على الفور
+",000,False,000,False,False,False,2,460
+"### || AUTO [أشهر الحج]
+",000,False,000,False,False,False,2,5
+"### || AUTO أشهر الحج
+",000,False,000,False,False,False,2,53
+"### || AUTO [الإحرام بالحج قبل أشهره]
+",000,False,000,False,False,False,2,142
+"### || AUTO [قران المكي]
+",000,False,000,False,False,False,2,37
+"### || AUTO [التمتع]
+",000,False,000,False,False,False,2,7
+"### || AUTO التمتع
+",000,False,000,False,False,False,2,51
+"### || AUTO التمتع
+",000,False,000,False,False,False,2,77
+"### || AUTO التمتع
+",000,False,000,False,False,False,2,447
+"### || AUTO العمرة
+",000,False,000,False,False,False,2,20
+"### || AUTO العمرة
+",000,False,000,False,False,False,2,9
+"### || AUTO العمرة
+",000,False,000,False,False,False,2,73
+"### || AUTO العمرة
+",000,False,000,False,False,False,2,75
+"### || AUTO العمرة
+",000,False,000,False,False,False,2,28
+"### || AUTO العمرة
+",000,False,000,False,False,False,2,20
+"### || AUTO [العمرة]
+",000,False,000,False,False,False,2,4
+"### || AUTO العمرة
+",000,False,000,False,False,False,2,273
+"### || AUTO [دم القران]
+",000,False,000,False,False,False,2,29
+"### || AUTO [تفضيل الإفراد]
+",000,False,000,False,False,False,2,116
+"### || AUTO [حكم التمتع]
+",000,False,000,False,False,False,2,19
+"### || AUTO [الإحرام بعد مجاوزة الميقات]
+",000,False,000,False,False,False,2,123
+"### || AUTO [الإحرام قبل الميقات]
+",000,False,000,False,False,False,2,57
+"### || AUTO [الإحرام عند استواء الراحلة]
+",000,False,000,False,False,False,2,46
+"### || AUTO [انعقاد الإحرام بمجرد النية]
+",000,False,000,False,False,False,2,55
+"### || AUTO [استحباب تأخير الإحرام حتى تستوي به الراحلة]
+",000,False,000,False,False,False,2,40
+"### || AUTO [ممنوعات الإحرام والفدية في ارتكابها]
+",000,False,000,False,False,False,2,791
+"### || AUTO [الطواف]
+",000,False,000,False,False,False,2,41
+"### || AUTO الطواف
+",000,False,000,False,False,False,2,10
+"### || AUTO (الطواف
+",000,False,000,False,False,False,2,288
+"### || AUTO [السعي بين الصفا والمروة]
+",000,False,000,False,False,False,2,105
+"### || AUTO [الحلاق والتقصير]
+",000,False,000,False,False,False,2,8
+"### || AUTO الحلاق والتقصير
+",000,False,000,False,False,False,2,176
+"### || AUTO [قطع التلبية]
+",000,False,000,False,False,False,2,83
+"### || AUTO [عمل القارن]
+",000,False,000,False,False,False,2,5
+"### || AUTO عمل القارن
+",000,False,000,False,False,False,2,153
+"### || AUTO [جزاء القارن إذا قتل صيدا]
+",000,False,000,False,False,False,2,77
+"### || AUTO [الوقوف بعرفة]
+",000,False,000,False,False,False,2,7
+"### || AUTO الوقوف بعرفة
+",000,False,000,False,False,False,2,165
+"### || AUTO [الجمع بين الصلاتين بمزدلفة]
+",000,False,000,False,False,False,2,46
+"### || AUTO [المبيت بمزدلفة]
+",000,False,000,False,False,False,2,70
+"### || AUTO [رمي الجمار]
+",000,False,000,False,False,False,2,140
+"### || CHECK وقت الرمي في أيام منى
+",000,False,000,False,False,False,2,27
+"### || AUTO [تقديم الحلق على النحر]
+",000,False,000,False,False,False,2,38
+"### || AUTO [تقديم الحلق على الرمي]
+",000,False,000,False,False,False,2,131
+"### || AUTO [رمي الحصيات دفعة واحدة]
+",000,False,000,False,False,False,2,56
+"### || AUTO [حج الصبي]
+",000,False,000,False,False,False,2,106
+"### || AUTO [نكاح المحرم والوطء أثناء الإحرام]
+",000,False,000,False,False,False,2,530
+"### || AUTO [مكان الإحرام في القضاء]
+",000,False,000,False,False,False,2,64
+"### || AUTO [حكم الفوات]
+",000,False,000,False,False,False,2,50
+"### || AUTO [بلوغ الصبي بعد الإحرام بالحج]
+",000,False,000,False,False,False,2,93
+"### || AUTO [إحرام العبد]
+",000,False,000,False,False,False,2,28
+"### || AUTO [الإهلال بحجتين أو عمرتين]
+",000,False,000,False,False,False,2,76
+"### || AUTO [عدم الجزاء في قتل السباع]
+",000,False,000,False,False,False,2,239
+"### || AUTO [الجزاء في قتل الصيد]
+",000,False,000,False,False,False,2,1718
+"### || AUTO [تفضيل المدينة على مكة]
+",000,False,000,False,False,False,2,207
+"### || AUTO [الإحصار]
+",000,False,000,False,False,False,2,268
+"### || AUTO [الهدي]
+",000,False,000,False,False,False,2,65
+"### || AUTO الهدي
+",000,False,000,False,False,False,2,22
+"### | AUTO كتاب البيوع
+",000,False,000,False,False,False,1,10539
+"### || AUTO [البيع على الصفة]
+",000,False,000,False,False,False,2,289
+"### || AUTO [الخيار]
+",000,False,000,False,False,False,2,41
+"### || AUTO الخيار
+",000,False,000,False,False,False,2,746
+"### || AUTO [الربا]
+",000,False,000,False,False,False,2,120
+"### || AUTO الربا
+",000,False,000,False,False,False,2,30
+"### || AUTO الربا
+",000,False,000,False,False,False,2,3
+"### || AUTO الربا
+",000,False,000,False,False,False,2,2724
+"### || AUTO [بيع الأصول وثمرها]
+",000,False,000,False,False,False,2,230
+"### || AUTO [بيع الثمرة قبل بدو صلاحها]
+",000,False,000,False,False,False,2,574
+"### || AUTO [بيع الجوز واللوز والباقلاء في قشره]
+",000,False,000,False,False,False,2,10
+"### || AUTO بيع الجوز واللوز والباقلاء في قشره
+",000,False,000,False,False,False,2,68
+"### || AUTO [بيع السنبل إذا يبس واستغنى عن الماء]
+",000,False,000,False,False,False,2,11
+"### || AUTO بيع السنبل إذا يبس واستغنى عن الماء
+",000,False,000,False,False,False,2,57
+"### || AUTO [بيع الثمرة جزافا مع الاستثناء]
+",000,False,000,False,False,False,2,40
+"### || AUTO [وضع الجائحة]
+",000,False,000,False,False,False,2,6
+"### || AUTO وضع الجائحة
+",000,False,000,False,False,False,2,175
+"### || AUTO [بيع المشتري السلعة قبل قبضها]
+",000,False,000,False,False,False,2,202
+"### || AUTO [التصرية]
+",000,False,000,False,False,False,2,4
+"### || AUTO التصرية
+",000,False,000,False,False,False,2,117
+"### || AUTO [أخذ الأرش مقابل العيب]
+",000,False,000,False,False,False,2,36
+"### || AUTO [اطلاع المشتري على عيب في المبيع بعد التصرف فيه]
+",000,False,000,False,False,False,2,357
+"### || AUTO [هل يفتقر الفسخ إلى حكم الحاكم]
+",000,False,000,False,False,False,2,77
+"### || AUTO [رد الأمة بالعيب]
+",000,False,000,False,False,False,2,269
+"### || AUTO [حق العبد في الملك]
+",000,False,000,False,False,False,2,251
+"### || AUTO [ضمان المشتري، متى؟]
+",000,False,000,False,False,False,2,219
+"### || AUTO [تعيين الدنانير والدراهم في العقد]
+",000,False,000,False,False,False,2,168
+"### || AUTO [البيع بشرط البراءة]
+",000,False,000,False,False,False,2,6
+"### || AUTO البيع بشرط البراءة
+",000,False,000,False,False,False,2,240
+"### || AUTO [تصرف الأعمى بالبيع والشراء]
+",000,False,000,False,False,False,2,93
+"### || AUTO [استبراء الأمة من البائع والمشتري]
+",000,False,000,False,False,False,2,191
+"### || AUTO [العلم بالعيب بعد بيع السلعة]
+",000,False,000,False,False,False,2,41
+"### || AUTO [استبراء الأمة في الإقالة وهي في يد البائع]
+",000,False,000,False,False,False,2,65
+"### || AUTO [بيع الأمة ولها زوج]
+",000,False,000,False,False,False,2,47
+"### || AUTO [رد المبيع بالعيب الباطن]
+",000,False,000,False,False,False,2,41
+"### || AUTO [البيع بشرط البراءة من الحمل]
+",000,False,000,False,False,False,2,8
+"### || AUTO البيع بشرط البراءة من الحمل
+",000,False,000,False,False,False,2,69
+"### || AUTO [بيع المرابحة]
+",000,False,000,False,False,False,2,5
+"### || AUTO بيع المرابحة
+",000,False,000,False,False,False,2,78
+"### || AUTO [تحريم بيوع الآجال]
+",000,False,000,False,False,False,2,195
+"### || AUTO [بيع ملك الغير]
+",000,False,000,False,False,False,2,146
+"### || AUTO [اجتماع الحلال والحرام في صفقة واحدة]
+",000,False,000,False,False,False,2,65
+"### || AUTO [بيع ما لا يمكن أخذه]
+",000,False,000,False,False,False,2,70
+"### || AUTO [بيع الكلب]
+",000,False,000,False,False,False,2,8
+"### || AUTO بيع الكلب
+",000,False,000,False,False,False,2,137
+"### || AUTO [بيع الآبق]
+",000,False,000,False,False,False,2,5
+"### || AUTO بيع الآبق
+",000,False,000,False,False,False,2,60
+"### || AUTO [عهدة الرقيق]
+",000,False,000,False,False,False,2,5
+"### || AUTO عهدة الرقيق
+",000,False,000,False,False,False,2,60
+"### || AUTO عهدة الرقيق
+",000,False,000,False,False,False,2,12
+"### || AUTO [بيع العبد بشرط العتق]
+",000,False,000,False,False,False,2,8
+"### || AUTO بيع العبد بشرط العتق
+",000,False,000,False,False,False,2,55
+"### || AUTO [قرض الحيوان]
+",000,False,000,False,False,False,2,5
+"### || AUTO قرض الحيوان
+",000,False,000,False,False,False,2,37
+"### || AUTO [قرض الإماء]
+",000,False,000,False,False,False,2,6
+"### || AUTO قرض الإماء
+",000,False,000,False,False,False,2,81
+"### || AUTO [تعلق دين بالعبد]
+",000,False,000,False,False,False,2,48
+"### || AUTO [إقرار العبد على نفسه]
+",000,False,000,False,False,False,2,7
+"### || AUTO إقرار العبد على نفسه
+",000,False,000,False,False,False,2,93
+"### || AUTO [الكافر يشتري عبدا مسلما]
+",000,False,000,False,False,False,2,85
+"### || AUTO [بيع السلم]
+",000,False,000,False,False,False,2,692
+"### || AUTO [الإقالة]
+",000,False,000,False,False,False,2,4
+"### || AUTO الإقالة
+",000,False,000,False,False,False,2,58
+"### || AUTO [بيع النجس]
+",000,False,000,False,False,False,2,30
+"### || AUTO [بيع شاة من غنم بدون تعيين]
+",000,False,000,False,False,False,2,81
+"### || AUTO [بيع الصوف على ظهور الغنم]
+",000,False,000,False,False,False,2,9
+"### || AUTO بيع الصوف على ظهور الغنم
+",000,False,000,False,False,False,2,45
+"### || AUTO [بيع لبن الغنم أياما معلومة]
+",000,False,000,False,False,False,2,9
+"### || AUTO بيع لبن الغنم أياما معلومة
+",000,False,000,False,False,False,2,41
+"### || AUTO [بيع النجش]
+",000,False,000,False,False,False,2,5
+"### || AUTO بيع النجش
+",000,False,000,False,False,False,2,14
+"### || AUTO بيع النجش
+",000,False,000,False,False,False,2,44
+"### || AUTO [بيع الدراهم والدنانير جزافا]
+",000,False,000,False,False,False,2,11
+"### || AUTO بيع الدراهم والدنانير جزافا
+",000,False,000,False,False,False,2,54
+"### || AUTO [بيع الصبرة كيلا]
+",000,False,000,False,False,False,2,190
+"### || AUTO [الاختلاف في مقدار الثمن]
+",000,False,000,False,False,False,2,267
+"### | AUTO كتاب الرهن
+",000,False,000,False,False,False,1,2034
+"### | AUTO كتاب التفليس
+",000,False,000,False,False,False,1,838
+"### | AUTO كتاب الحجر
+",000,False,000,False,False,False,1,726
+"### | AUTO كتاب الصلح والمرافق
+",000,False,000,False,False,False,1,536
+"### | AUTO كتاب الحوالة
+",000,False,000,False,False,False,1,328
+"### | AUTO كتاب الضمان والكفالة
+",000,False,000,False,False,False,1,343
+"### | AUTO كتاب الشركة
+",000,False,000,False,False,False,1,792
+"### | AUTO كتاب الوكالة
+",000,False,000,False,False,False,1,1170
+"### | AUTO كتاب الإقرار
+",000,False,000,False,False,False,1,2119
+"### | AUTO كتاب العارية
+",000,False,000,False,False,False,1,393
+"### | AUTO كتاب الوديعة
+",000,False,000,False,False,False,1,587
+"### | AUTO كتاب الغصب
+",000,False,000,False,False,False,1,896
+"### | AUTO كتاب الشفعة
+",000,False,000,False,False,False,1,1655
+"### | AUTO كتاب القراض
+",000,False,000,False,False,False,1,1908
+"### | AUTO كتاب المساقاة وكراء الأرض
+",000,False,000,False,False,False,1,644
+"### | AUTO كتاب الإجارة
+",000,False,000,False,False,False,1,3135
+"### | AUTO كتاب إحياء الموات
+",000,False,000,False,False,False,1,460
+"### | AUTO كتاب الحبس والوقف والهبات
+",000,False,000,False,False,False,1,1549
+"### | AUTO كتاب اللقطة
+",000,False,000,False,False,False,1,578
+"### | AUTO كتاب اللقيط
+",000,False,000,False,False,False,1,239
+"### | AUTO كتاب النكاح
+",000,False,000,False,False,False,1,7228
+"### || AUTO [النظر إلى المرأة المخطوبة]
+",000,False,000,False,False,False,2,55
+"### || AUTO [الولي]
+",000,False,000,False,False,False,2,1867
+"### || AUTO الكفاءة
+",000,False,000,False,False,False,2,18
+"### || AUTO الكفاءة
+",000,False,000,False,False,False,2,41
+"### || AUTO [الكفاءة]
+",000,False,000,False,False,False,2,4
+"### || AUTO الكفاءة
+",000,False,000,False,False,False,2,18
+"### || AUTO الكفاءة
+",000,False,000,False,False,False,2,8
+"### || AUTO الكفاءة
+",000,False,000,False,False,False,2,20
+"### || AUTO الكفاءة
+",000,False,000,False,False,False,2,130
+"### || AUTO [الإذن لوليين بالتزويج واختلافهما]
+",000,False,000,False,False,False,2,282
+"### || AUTO [الولي يزوج نفسه من وليته]
+",000,False,000,False,False,False,2,70
+"### || AUTO [انعقاد النكاح على صفة مقصودة في الزوجين]
+",000,False,000,False,False,False,2,46
+"### || AUTO [انعقاد النكاح بلفظي الهبة والبيع]
+",000,False,000,False,False,False,2,68
+"### || AUTO [الجمع بين أكثر من أربع نسوة]
+",000,False,000,False,False,False,2,11
+"### || AUTO الجمع بين أكثر من أربع نسوة
+",000,False,000,False,False,False,2,50
+"### || AUTO [حق العبد في أن يجمع بين أربعا]
+",000,False,000,False,False,False,2,105
+"### || AUTO [متى يجوز العقد على أخت المطلقة]
+",000,False,000,False,False,False,2,100
+"### || AUTO [زنا المرأة لا يفسخ العقد]
+",000,False,000,False,False,False,2,67
+"### || AUTO [كراهة التزوج بالزانية]
+",000,False,000,False,False,False,2,83
+"### || AUTO [ما يحرم من الجمع بين النساء]
+",000,False,000,False,False,False,2,111
+"### || AUTO [المحرمات من النساء وغير المحرمات]
+",000,False,000,False,False,False,2,813
+"### || AUTO [الخطبة على الخطبة]
+",000,False,000,False,False,False,2,102
+"### || AUTO [حكم الكافر إذا أسلم وعنده أكثر من أربع نسوة]
+",000,False,000,False,False,False,2,195
+"### || AUTO [حكم أنكحة الكفار]
+",000,False,000,False,False,False,2,168
+"### || AUTO [انفساخ النكاح بارتداد أحد الزوجين]
+",000,False,000,False,False,False,2,74
+"### || AUTO [أهل الذمة إذا تحاكموا إلينا]
+",000,False,000,False,False,False,2,8
+"### || AUTO أهل الذمة إذا تحاكموا إلينا
+",000,False,000,False,False,False,2,39
+"### || AUTO [حكم نكاح الشغار]
+",000,False,000,False,False,False,2,107
+"### || AUTO [حكم نكاح المتعة]
+",000,False,000,False,False,False,2,37
+"### || AUTO [العيوب التي يثبت بها الخيار]
+",000,False,000,False,False,False,2,160
+"### || AUTO [بيع الأمة المتزوجة]
+",000,False,000,False,False,False,2,53
+"### || AUTO [عتق الأمة المتزوجة بحر]
+",000,False,000,False,False,False,2,77
+"### || AUTO [ثبوت الخيار بالعنة والاعتراض]
+",000,False,000,False,False,False,2,42
+"### || AUTO [فساد النكاح بفساد المهر]
+",000,False,000,False,False,False,2,157
+"### || AUTO [مقدار أقل الصداق]
+",000,False,000,False,False,False,2,79
+"### || AUTO [تمتيع المرأة عند الطلاق]
+",000,False,000,False,False,False,2,104
+"### || AUTO [حكم الصداق في نكاح التفويض عند موت أحد الزوجين]
+",000,False,000,False,False,False,2,159
+"### || AUTO [مقدار مهر المثل]
+",000,False,000,False,False,False,2,94
+"### || AUTO [متى يستقر ملك الزوجة للصداق؟]
+",000,False,000,False,False,False,2,79
+"### || AUTO [متى ينقد الزوج الزوجة صداقها؟ والاختلاف في قبضه]
+",000,False,000,False,False,False,2,79
+"### || AUTO [اختلاف الزوجين في قدر الصداق]
+",000,False,000,False,False,False,2,51
+"### || AUTO [مسائل مختلفة حول الصداق]
+",000,False,000,False,False,False,2,1040
+"### || AUTO [القسم بين الزوجات]
+",000,False,000,False,False,False,2,6
+"### || AUTO القسم بين الزوجات
+",000,False,000,False,False,False,2,163
+"### | AUTO كتاب الخلع
+",000,False,000,False,False,False,1,2225
+"### | AUTO كتاب الطلاق
+",000,False,000,False,False,False,1,4968
+"### | AUTO كتاب الإيلاء
+",000,False,000,False,False,False,1,1333
+"### | AUTO كتاب الظهار
+",000,False,000,False,False,False,1,2744
+"### | AUTO كتاب اللعان
+",000,False,000,False,False,False,1,2294
+"### | AUTO كتاب العدة
+",000,False,000,False,False,False,1,2080
+"### | AUTO كتاب الرضاع
+",000,False,000,False,False,False,1,449
+"### | AUTO كتاب النفقات
+",000,False,000,False,False,False,1,1014
+"### || AUTO [مبيت المبتوتة في بيتها]
+",000,False,000,False,False,False,2,23
+"### || AUTO [الحضانة]
+",000,False,000,False,False,False,2,40
+"### || AUTO الحضانة
+",000,False,000,False,False,False,2,32
+"### | AUTO كتاب الجنايات
+",000,False,000,False,False,False,1,5207
+"### | AUTO كتاب القسامة
+",000,False,000,False,False,False,1,2545
+"### || AUTO [الكفارة في القتل]
+",000,False,000,False,False,False,2,437
+"### || AUTO [السحر]
+",000,False,000,False,False,False,2,4
+"### || AUTO السحر
+",000,False,000,False,False,False,2,13
+"### || AUTO السحر
+",000,False,000,False,False,False,2,13
+"### || AUTO السحر
+",000,False,000,False,False,False,2,46
+"### || AUTO السحر
+",000,False,000,False,False,False,2,135
+"### || AUTO الزنديق
+",000,False,000,False,False,False,2,3
+"### || AUTO [الزنديق]
+",000,False,000,False,False,False,2,4
+"### || AUTO الزنديق
+",000,False,000,False,False,False,2,76
+"### || AUTO [الردة]
+",000,False,000,False,False,False,2,253
+"### | AUTO كتاب الحدود [الزنا]
+",000,False,000,False,False,False,1,3999
+"### | AUTO كتاب القذف
+",000,False,000,False,False,False,1,1083
+"### | AUTO كتاب الأيمان
+",000,False,000,False,False,False,1,5126
+"### || AUTO [كفارة اليمين]
+",000,False,000,False,False,False,2,7
+"### | AUTO كتاب النذور
+",000,False,000,False,False,False,1,464
+"### | AUTO كتاب الضحايا
+",000,False,000,False,False,False,1,627
+"### | AUTO [كتاب الذكاة]
+",000,False,000,False,False,False,1,502
+"### | AUTO كتاب الصيد
+",000,False,000,False,False,False,1,730
+"### | AUTO كتاب الأطعمة
+",000,False,000,False,False,False,1,729
+"### | AUTO كتاب الأشربة
+",000,False,000,False,False,False,1,524
+"### || AUTO [التعزير]
+",000,False,000,False,False,False,2,4
+"### | CHECK كتاب العقيقة
+",000,False,000,False,False,False,1,170
+"### || AUTO العقيقة
+",000,False,000,False,False,False,2,2
+"### || AUTO [الختان]
+",000,False,000,False,False,False,2,4
+"### || AUTO الختان
+",000,False,000,False,False,False,2,26
+"### || AUTO [العقيقة]
+",000,False,000,False,False,False,2,4
+"### | AUTO كتاب الجهاد
+",000,False,000,False,False,False,1,1646
+"### | CHECK كتاب القطع في السرقة
+",000,False,000,False,False,False,1,2221
+"### || AUTO [تداخل حد القدف وحد الشرب]
+",000,False,000,False,False,False,2,43
+"### || AUTO [الغلط في قطع اليد]
+",000,False,000,False,False,False,2,72
+"### | AUTO كتاب الأقضية والشهادات
+",000,False,000,False,False,False,1,7000
+"### | AUTO كتاب العتق
+",000,False,000,False,False,False,1,1315
+"### | AUTO كتاب المدبر
+",000,False,000,False,False,False,1,196
+"### | AUTO كتاب المكاتب
+",000,False,000,False,False,False,1,1018
+"### | AUTO كتاب أمهات الأولاد
+",000,False,000,False,False,False,1,413
+"### | AUTO كتاب الوصايا
+",000,False,000,False,False,False,1,3313
+"### | AUTO كتاب المواريث والفرائض
+",000,False,000,False,False,False,1,2475

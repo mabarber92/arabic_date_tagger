@@ -1,0 +1,1237 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [مقدمة المؤلف]
+",000,False,000,False,False,False,1,769
+"### | ذكر الرءوس الثمانية
+",000,False,000,False,False,False,1,1218
+"### | ذكر طرف من هيئة الأفلاك
+",000,False,000,False,False,False,1,5640
+"### || ذكر صورة الأرض وموضع الأقاليم منها
+",000,False,000,False,False,False,2,3406
+"### | ذكر حدود مصر وجهاتها
+",000,False,000,False,False,False,1,23599
+"### || ذكر بحر القلزم
+",000,False,000,False,False,False,2,699
+"### || ذكر البحر الرومي
+",000,False,000,False,False,False,2,722
+"### || ذكر اشتقاق مصر ومعناها وتعداد أسمائها
+",000,False,000,False,False,False,2,2894
+"### || ذكر طرف من فضائل مصر
+",000,False,000,False,False,False,2,5372
+"### || ذكر العجائب التي كانت بمصر من الطلسمات والبرابي ونحو ذلك
+",000,False,000,False,False,False,2,6441
+"### || ذكر الدفائن والكنوز التي تسميها أهل مصر المطالب
+",000,False,000,False,False,False,2,1067
+"### || ذكر هلاك أموال أهل مصر
+",000,False,000,False,False,False,2,456
+"### | ذكر شيء من فضائل النيل
+",000,False,000,False,False,False,1,12794
+"### || ذكر مخرج النيل وانبعاثه
+",000,False,000,False,False,False,2,2629
+"### || فصل في الرد على من اعتقد أن النيل من سيل يفيض
+",000,False,000,False,False,False,2,1848
+"### || ذكر مقاييس النيل وزيادته
+",000,False,000,False,False,False,2,2712
+"### || ذكر الجسر الذي كان يعبر عليه في النيل
+",000,False,000,False,False,False,2,36
+"### || ذكر ما قيل في ماء النيل من مدح وذم
+",000,False,000,False,False,False,2,2200
+"### || ذكر عجائب النيل
+",000,False,000,False,False,False,2,1518
+"### || ذكر طرف من تقدمة المعرفة بحال النيل في كل سنة
+",000,year,000,False,False,False,2,733
+"### | ذكر الخلجان التي شقت من النيل
+",000,False,000,False,False,False,1,13920
+"### || ذكر ما كانت عليه أرض مصر في الزمن الأول
+",000,False,000,False,False,False,2,322
+"### || ذكر أعمال الديار المصرية وكورها
+",000,False,000,False,False,False,2,1050
+"### || ذكر ما كان يعمل في أراضي مصر من حفر الترع وعمارة الجسور ونحو ذلك من أجل ضبط ماء النيل وتصريفه في أوقاته
+",000,False,000,False,False,False,2,616
+"### || ذكر مقدار خراج مصر في الزمن الأول
+",000,False,000,False,False,False,2,688
+"### || ذكر ما عمله المسلمون عند فتح مصر في الخراج وما كان من أمر مصر في ذلك مع القبط
+",000,False,000,False,False,False,2,2278
+"### || ذكر انتقاض القبط وما كان من الأحداث في ذلك
+",000,False,000,False,False,False,2,395
+"### || ذكر نزول العرب بريف مصر واتخاذهم الزرع معاشا وما كان في نزولهم من الأحداث
+",000,False,000,False,False,False,2,1272
+"### || ذكر قبالات أراضي مصر بعد ما فشا الإسلام في القبط ونزول العرب في القرى وما كان من ذلك إلى الروك الأخير الناصري
+",000,False,000,False,False,False,2,3716
+"### | ذكر الديوان
+",000,False,000,False,False,False,1,13110
+"### || ذكر ديوان العساكر والجيوش
+",000,False,000,False,False,False,2,2747
+"### || ذكر القطائع والإقطاعات
+",000,False,000,False,False,False,2,1630
+"### || ذكر ديوان الخراج والأموال
+",000,False,000,False,False,False,2,364
+"### || ذكر خراج مصر في الإسلام
+",000,False,000,False,False,False,2,1194
+"### || ذكر أصناف أراضي مصر وأقسام زراعتها
+",000,False,000,False,False,False,2,1872
+"### | ذكر الأهرام
+",000,False,000,False,False,False,1,7392
+"### | ذكر الجبال
+",000,False,000,False,False,False,1,3066
+"### || ذكر الجبل المقطم
+",000,False,000,False,False,False,2,815
+"### || الجبل الأحمر
+",000,False,000,False,False,False,2,152
+"### || جبل يشكر
+",000,False,000,False,False,False,2,220
+"### | ذكر مدائن أرض مصر
+",000,False,000,False,False,False,1,10423
+"### || ذكر مدينة أمسوس وعجائبها وملوكها
+",000,False,000,False,False,False,2,3420
+"### | ذكر مدينة الإسكندرية
+",000,False,000,False,False,False,1,67585
+"### || ذكر الإسكندر
+",000,False,000,False,False,False,2,928
+"### || ذكر تاريخ الإسكندر
+",000,False,000,False,False,False,2,789
+"### || ذكر الفرق بين الإسكندر وذي القرنين وأنهما رجلان
+",000,False,000,False,False,False,2,657
+"### || ذكر من ولي الملك بالإسكندرية بعد الإسكندر
+",000,False,000,False,False,False,2,940
+"### || ذكر منارة الإسكندرية
+",000,False,000,False,False,False,2,1790
+"### || ذكر الملعب الذي كان بالإسكندرية وغيره من العجائب
+",000,False,000,False,False,False,2,713
+"### || ذكر عمود السواري
+",000,False,000,False,False,False,2,1775
+"### || ذكر طرف مما قيل في الإسكندرية
+",000,False,000,False,False,False,2,646
+"### || ذكر فتح الإسكندرية
+",000,False,000,False,False,False,2,2385
+"### || ذكر ما كان من فعل المسلمين بالإسكندرية وانتقاض الروم
+",000,False,000,False,False,False,2,1769
+"### || ذكر بحيرة الإسكندرية
+",000,False,000,False,False,False,2,132
+"### || ذكر خليج الإسكندرية
+",000,False,000,False,False,False,2,1791
+"### || ذكر جمل حوادث الإسكندرية
+",000,False,000,False,False,False,2,2034
+"### || ذكر مدينة أتريب
+",000,False,000,False,False,False,2,356
+"### || ذكر مدينة تنيس
+",000,False,000,False,False,False,2,3790
+"### || ذكر مدينة صا
+",000,False,000,False,False,False,2,394
+"### || رمل الغرابي
+",000,False,000,False,False,False,2,625
+"### || ذكر مدينة بلبيس
+",000,False,000,False,False,False,2,277
+"### || ذكر بلد الورادة
+",000,False,000,False,False,False,2,246
+"### || ذكر مدينة أيلة
+",000,False,000,False,False,False,2,1461
+"### || ذكر مدينة مدين
+",000,False,000,False,False,False,2,938
+"### || بقية خبر مدينة مدين
+",000,False,000,False,False,False,2,254
+"### || ذكر مدينة فاران
+",000,False,000,False,False,False,2,120
+"### || ذكر أرض الجفار
+",000,False,000,False,False,False,2,152
+"### || ذكر صعيد مصر
+",000,False,000,False,False,False,2,761
+"### || ذكر الجنادل «1» ولمع من أخبار أرض النوبة
+",000,False,000,False,False,False,2,939
+"### || ذكر تشعب النيل من بلاد علوة ومن يسكن عليه من الأمم
+",000,False,000,False,False,False,2,1485
+"### || ذكر البجة ويقال إنهم من البربر
+",000,False,000,False,False,False,2,2479
+"### || ذكر مدينة أسوان
+",000,False,000,False,False,False,2,968
+"### || ذكر بلاق
+",000,False,000,False,False,False,2,76
+"### || ذكر حائط العجوز
+",000,False,000,False,False,False,2,264
+"### || ذكر البقط
+",000,False,000,False,False,False,2,1794
+"### || ذكر صحراء عيذاب
+",000,False,000,False,False,False,2,561
+"### || ذكر مدينة الأقصر
+",000,False,000,False,False,False,2,16
+"### || ذكر البلينا
+",000,False,000,False,False,False,2,95
+"### || ذكر سمهود
+",000,False,000,False,False,False,2,32
+"### || ذكر إرجنوس 
+",000,False,000,False,False,False,2,76
+"### || ذكر أبويط
+",000,False,000,False,False,False,2,25
+"### || ذكر ملوى
+",000,False,000,False,False,False,2,91
+"### || ذكر مدينة أنصنا
+",000,False,000,False,False,False,2,271
+"### || ذكر القيس
+",000,False,000,False,False,False,2,333
+"### || ذكر دروط بلهاسة
+",000,False,000,False,False,False,2,149
+"### || ذكر سكر
+",000,False,000,False,False,False,2,120
+"### || ذكر منية الخصيب
+",000,False,000,False,False,False,2,21
+"### || ذكر منية الناسك
+",000,False,000,False,False,False,2,84
+"### || ذكر الجيزة
+",000,False,000,False,False,False,2,1362
+"### || ذكر قرية ترسا
+",000,False,000,False,False,False,2,102
+"### || ذكر منية أندونة
+",000,False,000,False,False,False,2,39
+"### || ذكر وسيم
+",000,False,000,False,False,False,2,123
+"### || ذكر منية عقبة
+",000,False,000,False,False,False,2,387
+"### || ذكر حلوان
+",000,False,000,False,False,False,2,1166
+"### || ذكر مدينة العريش
+",000,False,000,False,False,False,2,502
+"### || ذكر مدينة الفرماء
+",000,False,000,False,False,False,2,847
+"### || ذكر مدينة القلزم
+",000,False,000,False,False,False,2,231
+"### || ذكر التيه
+",000,False,000,False,False,False,2,216
+"### || ذكر مدينة دمياط
+",000,False,000,False,False,False,2,7709
+"### || ذكر شطا
+",000,False,000,False,False,False,2,490
+"### || ذكر الطريق فيما بين مدينة مصر ms0519 ودمشق
+",000,False,000,False,False,False,2,666
+"### || ذكر مدينة حطين
+",000,False,000,False,False,False,2,79
+"### || ذكر مدينة الرقة
+",000,False,000,False,False,False,2,84
+"### || ذكر عين شمس
+",000,False,000,False,False,False,2,1978
+"### || المنصورة
+",000,False,000,False,False,False,2,360
+"### || العباسة
+",000,False,000,False,False,False,2,180
+"### || ذكر مدينة قفط «1» بصعيد مصر
+",000,False,000,False,False,False,2,947
+"### || ذكر مدينة دندرة
+",000,False,000,False,False,False,2,94
+"### || ذكر الواحات الداخلة
+",000,False,000,False,False,False,2,909
+"### || ذكر مدينة سنترية 
+",000,False,000,False,False,False,2,307
+"### || ذكر الواحات الخارجة
+",000,False,000,False,False,False,2,341
+"### || ذكر مدينة قوص
+",000,False,000,False,False,False,2,383
+"### || ذكر مدينة أسنا
+",000,False,000,False,False,False,2,38
+"### || ذكر مدينة أدفو
+",000,False,000,False,False,False,2,83
+"### || إهناس
+",000,False,000,False,False,False,2,57
+"### || ذكر ms0542 مدينة البهنسا
+",000,False,000,False,False,False,2,970
+"### || ذكر مدينة الأشمونين
+",000,False,000,False,False,False,2,309
+"### || ذكر مدينة إخميم
+",000,False,000,False,False,False,2,697
+"### || ذكر مدينة العقاب
+",000,False,000,False,False,False,2,834
+"### || ذكر مدينة الفيوم
+",000,False,000,False,False,False,2,3877
+"### || ذكر ما قيل في الفيوم وخلجانها وضياعها
+",000,False,000,False,False,False,2,1433
+"### || ذكر فتح الفيوم ومبلغ خراجها وما فيها من المرافق
+",000,False,000,False,False,False,2,341
+"### | ذكر تاريخ الخليقة
+",000,False,000,False,False,False,1,23824
+"### || ذكر ما قيل في مدة أيام الدنيا ماضيها وباقيها
+",000,False,000,False,False,False,2,5149
+"### || ذكر التواريخ التي كانت للأمم قبل تاريخ القبط
+",000,False,000,False,False,False,2,1421
+"### || ذكر تاريخ القبط
+",000,False,000,False,False,False,2,880
+"### || ذكر دقلطيانوس «1» الذي يعرف تاريخ القبط به
+",000,False,000,False,False,False,2,461
+"### || ذكر أسابيع الأيام
+",000,False,000,False,False,False,2,474
+"### || ذكر أعياد القبط من النصارى بديار مصر
+",000,False,000,False,False,False,2,3539
+"### || ذكر ما يوافق أيام الشهور القبطية من الأعمال في الزراعات، وزيادة النيل، وغير ذلك على ما نقله أهل مصر عن قدمائهم واعتمدوا عليه في أمورهم
+",000,False,000,False,False,False,2,2147
+"### || ذكر تحويل السنة الخراجية القبطية إلى السنة الهلالية العربية
+",000,year,000,False,False,False,2,7939
+"### || ذكر فسطاط مصر
+",000,False,000,False,False,False,2,259
+"### || ذكر ما كان عليه موضع الفسطاط قبل الإسلام إلى أن اختطه المسلمون مدينة
+",000,False,000,False,False,False,2,510
+"### | ذكر حصار المسلمين للقصر وفتح مصر
+",000,False,000,False,False,False,1,24556
+"### || ذكر ما قيل في مصر هل فتحت بصلح أو عنوة؟
+",000,False,000,False,False,False,2,989
+"### || ذكر من شهد فتح مصر من الصحابة رضي الله عنهم
+",000,False,000,False,False,False,2,429
+"### || ذكر السبب في تسمية مدينة مصر بالفسطاط
+",000,False,000,False,False,False,2,384
+"### || ذكر الخطط التي كانت بمدينة الفسطاط
+",000,False,000,False,False,False,2,1481
+"### || ذكر أمراء الفسطاط من حين فتحت مصر إلى أن بني العسكر
+",000,False,000,False,False,False,2,3618
+"### || ذكر العسكر الذي بني بظاهر مدينة فسطاط مصر
+",000,False,000,False,False,False,2,944
+"### || ذكر من نزل العسكر من أمراء مصر من حين بني إلى أن بنيت القطائع
+",000,False,000,False,False,False,2,4891
+"### | ذكر من ولي مصر من الأمراء بعد خراب القطائع إلى أن بنيت قاهرة المعز على يد القائد جوهر
+",000,False,000,False,False,False,1,13460
+"### || ذكر ما كانت عليه مدينة الفسطاط من كثرة العمارة
+",000,False,000,False,False,False,2,2688
+"### || ذكر الآثار الواردة في خراب مصر
+",000,False,000,False,False,False,2,560
+"### || ذكر خراب الفسطاط
+",000,False,000,False,False,False,2,2936
+"### || ذكر ما قيل في مدينة فسطاط مصر
+",000,False,000,False,False,False,2,1816
+"### || ذكر ما عليه مدينة مصر الآن وصفتها
+",000,False,000,False,False,False,2,622
+"### || ذكر ساحل النيل بمدينة مصر
+",000,False,000,False,False,False,2,1285
+"### || ذكر المنشأة
+",000,False,000,False,False,False,2,1166
+"### | ذكر القاهرة قاهرة المعز لدين الله
+",000,False,000,False,False,False,1,11281
+"### || ذكر ما قيل في نسب الخلفاء الفاطميين بناة القاهرة
+",000,False,000,False,False,False,2,939
+"### || ذكر الخلفاء الفاطميين
+",000,False,000,False,False,False,2,6267
+"### || ذكر ما كان عليه موضع القاهرة قبل وضعها
+",000,False,000,False,False,False,2,621
+"### || ذكر حد القاهرة
+",000,False,000,False,False,False,2,706
+"### || ذكر بناء القاهرة وما كانت عليه في الدولة الفاطمية
+",000,False,000,False,False,False,2,1897
+"### | ذكر طرف مما قيل في القاهرة ومنتزهاتها
+",000,False,000,False,False,False,1,3301
+"### | ذكر ما قيل في مدة بقاء القاهرة ووقت خرابها
+",000,False,000,False,False,False,1,586
+"### | ذكر مسالك القاهرة وشوارعها على ما هي عليه الآن
+",000,False,000,False,False,False,1,2317
+"### | ذكر سور القاهرة
+",000,False,000,False,False,False,1,2060
+"### | ذكر أبواب القاهرة
+",000,False,000,False,False,False,1,1966
+"### || باب زويلة «1»
+",000,False,000,False,False,False,2,520
+"### || باب النصر
+",000,False,000,False,False,False,2,117
+"### || باب الفتوح
+",000,False,000,False,False,False,2,765
+"### || باب القنطرة
+",000,False,000,False,False,False,2,29
+"### || باب الشعرية
+",000,False,000,False,False,False,2,24
+"### || باب سعادة
+",000,False,000,False,False,False,2,142
+"### || الباب المحروق
+",000,False,000,False,False,False,2,336
+"### | ذكر قصور الخلفاء ومناظرهم والإلماع بطرف من مآثرهم وما صارت إليه أحوالها من بعدهم
+",000,False,000,False,False,False,1,8501
+"### || القصر الكبير
+",000,False,000,False,False,False,2,1798
+"### || كيفية سماط شهر رمضان بهذه القاعة
+",000,False,000,False,False,False,2,187
+"### || عمل سماط عيد الفطر بهذه القاعة
+",000,False,000,False,False,False,2,683
+"### | الدواوين
+",000,False,000,False,False,False,1,6357
+"### || ديوان المجلس
+",000,False,000,False,False,False,2,1907
+"### || ديوان النظر
+",000,False,000,False,False,False,2,79
+"### || ديوان التحقيق
+",000,False,000,False,False,False,2,154
+"### || ديوان الجيوش والرواتب
+",000,False,000,False,False,False,2,653
+"### || ديوان الإنشاء والمكاتبات
+",000,False,000,False,False,False,2,101
+"### || التوقيع بالقلم الدقيق في المظالم
+",000,False,000,False,False,False,2,122
+"### || التوقيع بالقلم الجليل
+",000,False,000,False,False,False,2,26
+"### || مجلس النظر في المظالم
+",000,False,000,False,False,False,2,241
+"### || رتب الأمراء
+",000,False,000,False,False,False,2,182
+"### || قاضي القضاة
+",000,False,000,False,False,False,2,326
+"### || قاعة الفضة
+",000,False,000,False,False,False,2,12
+"### || قاعة السدرة
+",000,False,000,False,False,False,2,71
+"### || قاعة الخيم
+",000,False,000,False,False,False,2,18
+"### || المناظر الثلاث
+",000,False,000,False,False,False,2,54
+"### || قصر الشوك
+",000,False,000,False,False,False,2,64
+"### || قصر أولاد الشيخ
+",000,False,000,False,False,False,2,67
+"### || الركن المخلق
+",000,False,000,False,False,False,2,40
+"### || قصر الزمرد
+",000,False,000,False,False,False,2,125
+"### || الركن المخلق
+",000,False,000,False,False,False,2,140
+"### || السقيفة
+",000,False,000,False,False,False,2,707
+"### || دار الضرب
+",000,False,000,False,False,False,2,275
+"### || خزائن السلاح
+",000,False,000,False,False,False,2,43
+"### || المارستان العتيق
+",000,False,000,False,False,False,2,147
+"### || التربة المعزية
+",000,False,000,False,False,False,2,436
+"### | الخزائن التي كانت بالقصر
+",000,False,000,False,False,False,1,34394
+"### || خزانة الكتب
+",000,False,000,False,False,False,2,719
+"### || خزانة الكسوات
+",000,False,000,False,False,False,2,2539
+"### || خزائن الجوهر والطيب والطرائف
+",000,False,000,False,False,False,2,1646
+"### || خزائن الفرش والأمتعة
+",000,False,000,False,False,False,2,517
+"### || خزائن السلاح
+",000,False,000,False,False,False,2,269
+"### || خزائن السروج
+",000,False,000,False,False,False,2,384
+"### || خزائن الخيم
+",000,False,000,False,False,False,2,826
+"### || خزانة الشراب
+",000,False,000,False,False,False,2,184
+"### || خزانة التوابل
+",000,False,000,False,False,False,2,1140
+"### || دار التعبية
+",000,False,000,False,False,False,2,97
+"### || خزانة الأدم
+",000,False,000,False,False,False,2,45
+"### || خزائن دار أفتكين
+",000,False,000,False,False,False,2,581
+"### || خزانة البنود
+",000,False,000,False,False,False,2,1314
+"### || دار الفطرة
+",000,False,000,False,False,False,2,836
+"### || المشهد الحسيني
+",000,False,000,False,False,False,2,2420
+"### || ما كان يعمل في يوم عاشوراء
+",000,False,000,False,False,False,2,737
+"### || ذكر أبواب القصر الكبير الشرقي
+",000,False,000,False,False,False,2,2346
+"### || ذكر المنحر
+",000,False,000,False,False,False,2,1506
+"### || ذكر دار الوزارة الكبرى
+",000,False,000,False,False,False,2,905
+"### || ذكر رتبة الوزارة، وهيئة خلعهم، ومقدار جاريهم، وما يتعلق بذلك
+",000,False,000,False,False,False,2,2101
+"### || ذكر الحجر «1» التي كانت برسم الصبيان الحجرية
+",000,False,000,False,False,False,2,645
+"### || ذكر المناخ السعيد
+",000,False,000,False,False,False,2,164
+"### || ذكر اصطبل الطارمة
+",000,False,000,False,False,False,2,401
+"### || ذكر دار الضرب «1» وما يتعلق بها
+",000,False,000,False,False,False,2,3291
+"### || ذكر ما كان يضرب في خميس العدس من خراريب الذهب
+",000,False,000,False,False,False,2,158
+"### || ذكر دار الوكالة الآمرية
+",000,False,000,False,False,False,2,57
+"### || ذكر مصلى العيد
+",000,False,000,False,False,False,2,49
+"### || ذكر هيئة صلاة العيد وما يتعلق بها
+",000,False,000,False,False,False,2,3751
+"### || ذكر القصر الصغير الغربي
+",000,False,000,False,False,False,2,609
+"### || أبواب القصر الغربي
+",000,False,000,False,False,False,2,182
+"### || ذكر دار العلم
+",000,False,000,False,False,False,2,1414
+"### || ذكر دار الضيافة
+",000,False,000,False,False,False,2,564
+"### || ذكر اصطبل الحجرية
+",000,False,000,False,False,False,2,67
+"### || ذكر مطبخ القصر
+",000,False,000,False,False,False,2,364
+"### || ذكر الدار المأمونية
+",000,False,000,False,False,False,2,707
+"### | ذكر المناظر التي كانت للخلفاء الفاطميين، ومواضع نزههم ما كان لهم فيها من أمور جميلة
+",000,False,000,False,False,False,1,14918
+"### || ذكر ما كان يعمل يوم فتح الخليج
+",000,False,000,False,False,False,2,8617
+"### | ذكر الأيام التي كان الخلفاء الفاطميون يتخذونها أعيادا، ومواسم تتسع بها أحوال الرعية، وتكثر نعمهم
+",000,False,000,False,False,False,1,3367
+"### || ذكر مذاهبهم في أول الشهور
+",000,False,000,False,False,False,2,455
+"### | ذكر ما كان من أمر القصرين، والمناظر بعد زوال الدولة الفاطمية
+",000,False,000,False,False,False,1,1101
+"### | ذكر حارات القاهرة وظواهرها
+",000,False,000,False,False,False,1,154415
+"### || ذكر واقعة العبيد
+",000,False,000,False,False,False,2,5223
+"### || ذكر أبي عبد الله الشيعي
+",000,False,000,False,False,False,2,1133
+"### || ذكر الأمراء البرقية ووزارة ضرغام
+",000,False,000,False,False,False,2,3012
+"### || ذكر وزارة أبي الفتح ناصر الجيوش يأنس الأرمني
+",000,False,000,False,False,False,2,433
+"### || ذكر الأمير حسن بن الخليفة الحافظ
+",000,False,000,False,False,False,2,2648
+"### || ذكر قدوم الأويراتية
+",000,False,000,False,False,False,2,849
+"### || ذكر اخطاط القاهرة وظواهرها
+",000,False,000,False,False,False,2,1591
+"### || ذكر كافور الإخشيدي
+",000,False,000,False,False,False,2,2134
+"### || ذكر مقتل الخليفة الظافر
+",000,False,000,False,False,False,2,4882
+"### || ذكر الدروب والأزقة
+",000,False,000,False,False,False,2,4984
+"### || ذكر الخوخ
+",000,False,000,False,False,False,2,1503
+"### || ذكر الرحاب
+",000,False,000,False,False,False,2,2824
+"### || ذكر الدور
+",000,False,000,False,False,False,2,18245
+"### || ذكر الحمامات
+",000,False,000,False,False,False,2,4299
+"### || ذكر القياسر
+",000,False,000,False,False,False,2,3492
+"### || ذكر الخانات والفنادق
+",000,False,000,False,False,False,2,1801
+"### || ذكر الأسواق
+",000,False,000,False,False,False,2,3709
+"### || الشارع خارج باب زويلة
+",000,False,000,False,False,False,2,4253
+"### || ذكر العوائد التي كانت بقصبة القاهرة
+",000,False,000,False,False,False,2,947
+"### || ذكر ظواهر القاهرة المعزية
+",000,False,000,False,False,False,2,1435
+"### || ذكر ميدان القبق
+",000,False,000,False,False,False,2,1544
+"### || ذكر بر الخليج الغربي
+",000,False,000,False,False,False,2,433
+"### || ذكر الأحكار التي في غربي الخليج
+",000,False,000,False,False,False,2,4407
+"### || ذكر المقس وفيه الكلام على المكس وكيف كان أصله في أول الإسلام
+",000,False,000,False,False,False,2,2483
+"### || ذكر ميدان القمح
+",000,False,000,False,False,False,2,303
+"### || ذكر أرض الطبالة
+",000,False,000,False,False,False,2,596
+"### || ذكر حشيشة الفقراء
+",000,False,000,False,False,False,2,1676
+"### || ذكر أرض البعل والتاج
+",000,False,000,False,False,False,2,269
+"### || ذكر ضواحي القاهرة
+",000,False,000,False,False,False,2,217
+"### || ذكر منية الأمراء
+",000,False,000,False,False,False,2,353
+"### || ذكر كوم الريش
+",000,False,000,False,False,False,2,219
+"### || ذكر بولاق
+",000,False,000,False,False,False,2,460
+"### || ذكر ما بين بولاق ومنشأة المهراني
+",000,False,000,False,False,False,2,631
+"### || ذكر خارج باب زويلة
+",000,False,000,False,False,False,2,2350
+"### || ذكر خارج باب الفتوح
+",000,False,000,False,False,False,2,200
+"### || ذكر الخندق
+",000,False,000,False,False,False,2,1506
+"### || ذكر خارج باب النصر
+",000,False,000,False,False,False,2,407
+"### || الريدانية
+",000,False,000,False,False,False,2,51
+"### || ذكر الخلجان التي بظاهر القاهرة
+",000,False,000,False,False,False,2,54
+"### || ذكر خليج مصر
+",000,False,000,False,False,False,2,3311
+"### || ذكر خليج فم الخور وخليج الذكر
+",000,False,000,False,False,False,2,351
+"### || ذكر الخليج الناصري
+",000,False,000,False,False,False,2,442
+"### || ذكر خليج قنطرة الفخر
+",000,False,000,False,False,False,2,70
+"### || ذكر القناطر
+",000,False,000,False,False,False,2,44
+"### || ذكر قناطر الخليج الكبير
+",000,False,000,False,False,False,2,3734
+"### || ذكر البرك
+",000,False,000,False,False,False,2,2000
+"### || ذكر المارداني
+",000,False,000,False,False,False,2,956
+"### || ذكر بساتين الوزير
+",000,False,000,False,False,False,2,1771
+"### || ذكر المعشوق
+",000,False,000,False,False,False,2,3622
+"### || ذكر الجسور
+",000,False,000,False,False,False,2,3564
+"### || وقد وجد بخط المصنف رحمه الله في أصله هنا ما صورته
+",000,False,000,False,False,False,2,4006
+"### || ذكر الجزائر
+",000,False,000,False,False,False,2,393
+"### || ذكر الروضة
+",000,False,000,False,False,False,2,3210
+"### || ذكر قلعة الروضة
+",000,False,000,False,False,False,2,2467
+"### || ذكر السجون
+",000,False,000,False,False,False,2,1430
+"### || ذكر المواضع المعروفة بالصناعة
+",000,False,000,False,False,False,2,5582
+"### || ذكر الميادين
+",000,False,000,False,False,False,2,2343
+"### || ذكر قلعة الجبل
+",000,False,000,False,False,False,2,1372
+"### || ذكر بناء قلعة الجبل
+",000,False,000,False,False,False,2,842
+"### || ذكر صفة القلعة
+",000,False,000,False,False,False,2,1611
+"### || ذكر النظر في المظالم
+",000,False,000,False,False,False,2,1053
+"### || ذكر خدمة الإيوان المعروف بدار العدل
+",000,False,000,False,False,False,2,1298
+"### || ذكر العلامة السلطانية
+",000,False,000,False,False,False,2,2999
+"### || ذكر جيوش الدولة التركية وزيها وعوايدها
+",000,False,000,False,False,False,2,2434
+"### || ذكر الحجبة
+",000,False,000,False,False,False,2,286
+"### || ذكر أحكام السياسة
+",000,False,000,False,False,False,2,6358
+"### || ذكر المياه التي بقلعة الجبل
+",000,False,000,False,False,False,2,1528
+"### || ذكر ملوك مصر منذ بنيت قلعة الجبل
+",000,False,000,False,False,False,2,255
+"### || ذكر من ملك مصر من الأكراد
+",000,False,000,False,False,False,2,2527
+"### || ذكر ms1651 دولة المماليك البحرية
+",000,False,000,False,False,False,2,2906
+"### | ذكر المساجد الجامعة
+",000,False,000,False,False,False,1,54330
+"### || ذكر الجوامع
+",000,False,000,False,False,False,2,70
+"### || الجامع العتيق
+",000,False,000,False,False,False,2,6941
+"### || ذكر المحاريب التي بديار مصر وسبب اختلافها وتعيين الصواب فيها وتبيين الخطأ منها
+",000,False,000,False,False,False,2,5133
+"### || جامع العسكر
+",000,False,000,False,False,False,2,318
+"### || ذكر العسكر
+",000,False,000,False,False,False,2,490
+"### || جامع ابن طولون
+",000,False,000,False,False,False,2,2817
+"### || ذكر دار الإمارة
+",000,False,000,False,False,False,2,218
+"### || ذكر الأذان بمصر وما كان فيه من الاختلاف
+",000,False,000,False,False,False,2,2523
+"### || الجامع الأزهر
+",000,False,000,False,False,False,2,2497
+"### || جامع الحاكم
+",000,False,000,False,False,False,2,3104
+"### || جامع راشدة
+",000,False,000,False,False,False,2,803
+"### || جامع المقس
+",000,False,000,False,False,False,2,3760
+"### || جامع الفيلة
+",000,False,000,False,False,False,2,400
+"### || جامع المقياس
+",000,False,000,False,False,False,2,20
+"### || الجامع الأقمر
+",000,False,000,False,False,False,2,1937
+"### || جامع الظافر
+",000,False,000,False,False,False,2,142
+"### || جامع الصالح
+",000,False,000,False,False,False,2,835
+"### || ذكر الأحباس وما كان يعمل فيها
+",000,False,000,False,False,False,2,1262
+"### || الجامع بجوار تربة الشافعي بالقرافة
+",000,False,000,False,False,False,2,58
+"### || جامع محمود بالقرافة
+",000,False,000,False,False,False,2,222
+"### || جامع الروضة بقلعة جزيرة الفسطاط
+",000,False,000,False,False,False,2,99
+"### || جامع غين بالروضة
+",000,False,000,False,False,False,2,547
+"### || جامع الأفرم
+",000,False,000,False,False,False,2,81
+"### || الجامع بمنشأة المهراني
+",000,False,000,False,False,False,2,339
+"### || جامع دير الطين
+",000,False,000,False,False,False,2,516
+"### || جامع الظاهر
+",000,False,000,False,False,False,2,2389
+"### || جامع ابن اللبان
+",000,False,000,False,False,False,2,128
+"### || الجامع الطيبرسي
+",000,False,000,False,False,False,2,109
+"### || الجامع الجديد الناصري
+",000,False,000,False,False,False,2,1687
+"### || الجامع بالمشهد النفيسي
+",000,False,000,False,False,False,2,82
+"### || جامع الأمير حسين
+",000,False,000,False,False,False,2,107
+"### || جامع الماس
+",000,False,000,False,False,False,2,332
+"### || جامع قوصون
+",000,False,000,False,False,False,2,474
+"### || جامع المارداني
+",000,False,000,False,False,False,2,342
+"### || جامع أصلم
+",000,False,000,False,False,False,2,195
+"### || جامع بشتاك
+",000,False,000,False,False,False,2,120
+"### || جامع آق سنقر
+",000,False,000,False,False,False,2,87
+"### || جامع آق سنقر
+",000,False,000,False,False,False,2,545
+"### || جامع آل ملك
+",000,False,000,False,False,False,2,358
+"### || جامع الفخر
+",000,False,000,False,False,False,2,583
+"### || جامع نائب الكرك
+",000,False,000,False,False,False,2,45
+"### || جامع الخطيري ببولاق
+",000,False,000,False,False,False,2,529
+"### || جامع قيدان
+",000,False,000,False,False,False,2,148
+"### || جامع الست حدق
+",000,False,000,False,False,False,2,58
+"### || جامع ابن غازي
+",000,False,000,False,False,False,2,51
+"### || جامع التركماني
+",000,False,000,False,False,False,2,177
+"### || جامع شيخو
+",000,False,000,False,False,False,2,624
+"### || جامع الجاكي
+",000,False,000,False,False,False,2,104
+"### || جامع التوبة
+",000,False,000,False,False,False,2,78
+"### || جامع صاروجا
+",000,False,000,False,False,False,2,67
+"### || جامع الطباخ
+",000,False,000,False,False,False,2,400
+"### || جامع الأسيوطي
+",000,False,000,False,False,False,2,99
+"### || جامع الملك الناصر حسن
+",000,False,000,False,False,False,2,1282
+"### || جامع القرافة
+",000,False,000,False,False,False,2,1339
+"### || جامع الجيزة
+",000,False,000,False,False,False,2,150
+"### || جامع منجك
+",000,False,000,False,False,False,2,2321
+"### || الجامع الأخضر
+",000,False,000,False,False,False,2,31
+"### || جامع البكجري
+",000,False,000,False,False,False,2,15
+"### || جامع السروجي
+",000,False,000,False,False,False,2,7
+"### || جامع كرجي
+",000,False,000,False,False,False,2,10
+"### || جامع الفاخري
+",000,False,000,False,False,False,2,62
+"### || جامع ابن عبد الظاهر
+",000,False,000,False,False,False,2,369
+"### || جامع بساتين الوزير التي على بركة الحبس «1» جامع الخندق
+",000,False,000,False,False,False,2,54
+"### || جامع جزيرة الفيل «2» جامع الطواشي
+",000,False,000,False,False,False,2,46
+"### || جامع كراي
+",000,False,000,False,False,False,2,37
+"### || جامع القلعة
+",000,False,000,False,False,False,2,142
+"### || جامع قوصون
+",000,False,000,False,False,False,2,32
+"### || جامع كوم الريش
+",000,False,000,False,False,False,2,13
+"### || جامع الجزيرة الوسطى
+",000,False,000,False,False,False,2,17
+"### || جامع ابن صارم
+",000,False,000,False,False,False,2,22
+"### || جامع الكيمختي
+",000,False,000,False,False,False,2,86
+"### || جامع الست مسكة
+",000,False,000,False,False,False,2,41
+"### || جامع ابن الفلك
+",000,False,000,False,False,False,2,16
+"### || جامع التكروري
+",000,False,000,False,False,False,2,217
+"### || جامع البرقية
+",000,False,000,False,False,False,2,38
+"### || جامع الحراني
+",000,False,000,False,False,False,2,24
+"### || جامع بركة
+",000,False,000,False,False,False,2,27
+"### || جامع بركة الرطلي
+",000,False,000,False,False,False,2,166
+"### || جامع الضوة
+",000,False,000,False,False,False,2,75
+"### || جامع الحوش
+",000,False,000,False,False,False,2,51
+"### || جامع الاصطبل
+",000,False,000,False,False,False,2,20
+"### || جامع ابن التركماني
+",000,False,000,False,False,False,2,13
+"### || جامع ... «3»
+",000,False,000,False,False,False,2,14
+"### || جامع الباسطي
+",000,False,000,False,False,False,2,37
+"### || جامع الحنفي
+",000,False,000,False,False,False,2,25
+"### || جامع ابن الرفعة
+",000,False,000,False,False,False,2,22
+"### || جامع الإسماعيلي
+",000,False,000,False,False,False,2,15
+"### || جامع الزاهد
+",000,False,000,False,False,False,2,74
+"### || جامع ابن المغربي
+",000,False,000,False,False,False,2,56
+"### || جامع الفخري
+",000,False,000,False,False,False,2,144
+"### || الجامع المؤيدي
+",000,False,000,False,False,False,2,1418
+"### || الجامع الأشرفي
+",000,False,000,False,False,False,2,71
+"### | ذكر مذاهب أهل مصر ونحلهم منذ افتتح عمرو بن العاص رضي الله عنه أرض مصر إلى أن صاروا إلى اعتقاد مذاهب الأئمة رحمهم الله تعالى، وما كان من الأحداث في ذلك
+",000,False,000,False,False,False,1,113002
+"### || ذكر فرق الخليقة واختلاف عقائدها وتباينها
+",000,False,000,False,False,False,2,7555
+"### || ذكر الحال في عقائد أهل الإسلام، منذ ابتداء الملة الإسلامية إلى أن انتشر مذهب الأشعرية
+",000,False,000,False,False,False,2,3853
+"### || قد استوى بشر على العراق
+",000,False,000,False,False,False,2,585
+"### || ذكر المدارس
+",000,False,000,False,False,False,2,24708
+"### ||| المدرسة الناصرية
+",000,False,000,False,False,False,3,351
+"### ||| المدرسة القمحية
+",000,False,000,False,False,False,3,123
+"### ||| مدرسة ms1941 يازكوج
+",000,False,000,False,False,False,3,24
+"### ||| مدرسة ابن الأرسوفي
+",000,False,000,False,False,False,3,43
+"### ||| مدرسة منازل العز
+",000,False,000,False,False,False,3,456
+"### ||| مدرسة العادل
+",000,False,000,False,False,False,3,89
+"### ||| مدرسة ابن رشيق
+",000,False,000,False,False,False,3,52
+"### ||| المدرسة الفائزية
+",000,False,000,False,False,False,3,55
+"### ||| المدرسة القطبية
+",000,False,000,False,False,False,3,54
+"### ||| المدرسة السيوفية
+",000,False,000,False,False,False,3,272
+"### ||| المدرسة الفاضلية
+",000,False,000,False,False,False,3,855
+"### ||| المدرسة الأزكشية
+",000,False,000,False,False,False,3,104
+"### ||| المدرسة الفخرية
+",000,False,000,False,False,False,3,121
+"### ||| المدرسة السيفية
+",000,False,000,False,False,False,3,199
+"### ||| المدرسة العاشورية
+",000,False,000,False,False,False,3,18
+"### ||| المدرسة القطبية
+",000,False,000,False,False,False,3,162
+"### ||| المدرسة الخروبية
+",000,False,000,False,False,False,3,63
+"### ||| مدرسة المحلي
+",000,False,000,False,False,False,3,137
+"### ||| المدرسة الفارقانية
+",000,False,000,False,False,False,3,205
+"### ||| المدرسة المهذبية
+",000,False,000,False,False,False,3,333
+"### ||| المدرسة الخروبية
+",000,False,000,False,False,False,3,61
+"### ||| المدرسة الصاحبية
+",000,False,000,False,False,False,3,875
+"### ||| المدرسة الصاحبية
+",000,False,000,False,False,False,3,1232
+"### ||| المدرسة الشريفية
+",000,False,000,False,False,False,3,410
+"### ||| المدرسة الصالحية
+",000,False,000,False,False,False,3,703
+"### ||| المدرسة الكاملية
+",000,False,000,False,False,False,3,1816
+"### ||| المدرسة الصيرمية
+",000,False,000,False,False,False,3,53
+"### ||| المدرسة المسرورية
+",000,False,000,False,False,False,3,93
+"### ||| المدرسة القوصية
+",000,False,000,False,False,False,3,20
+"### ||| مدرسة بحارة الديلم «1» المدرسة ms1971 الظاهرية
+",000,False,000,False,False,False,3,548
+"### ||| المدرسة المنصورية
+",000,False,000,False,False,False,3,1651
+"### ||| المدرسة الحجازية
+",000,False,000,False,False,False,3,359
+"### ||| المدرسة الطيبرسية
+",000,False,000,False,False,False,3,370
+"### ||| المدرسة الأقبغاوية
+",000,False,000,False,False,False,3,1403
+"### ||| المدرسة الحسامية
+",000,False,000,False,False,False,3,847
+"### ||| المدرسة المنكوتمرية
+",000,False,000,False,False,False,3,671
+"### ||| المدرسة القراسنقرية
+",000,False,000,False,False,False,3,1439
+"### ||| المدرسة الغزنوية
+",000,False,000,False,False,False,3,123
+"### ||| المدرسة البوبكرية
+",000,False,000,False,False,False,3,87
+"### ||| المدرسة البقرية
+",000,False,000,False,False,False,3,278
+"### ||| المدرسة القطبية
+",000,False,000,False,False,False,3,47
+"### ||| مدرسة ابن المغربي
+",000,False,000,False,False,False,3,70
+"### ||| المدرسة البيدرية ms1999
+",000,False,000,False,False,False,3,24
+"### ||| المدرسة البديرية
+",000,False,000,False,False,False,3,89
+"### ||| المدرسة الملكية
+",000,False,000,False,False,False,3,60
+"### ||| المدرسة الجمالية
+",000,False,000,False,False,False,3,903
+"### ||| المدرسة الفارسية
+",000,False,000,False,False,False,3,54
+"### ||| المدرسة السابقية
+",000,False,000,False,False,False,3,183
+"### ||| المدرسة القيسرانية
+",000,False,000,False,False,False,3,102
+"### ||| المدرسة الزمامية
+",000,False,000,False,False,False,3,74
+"### ||| المدرسة الصغيرة
+",000,False,000,False,False,False,3,42
+"### ||| مدرسة تربة أم الصالح
+",000,False,000,False,False,False,3,84
+"### ||| مدرسة ابن عرام
+",000,False,000,False,False,False,3,237
+"### ||| المدرسة المحمودية
+",000,False,000,False,False,False,3,1216
+"### ||| المدرسة المهذبية
+",000,False,000,False,False,False,3,44
+"### ||| المدرسة السعدية
+",000,False,000,False,False,False,3,114
+"### ||| المدرسة الطفجية
+",000,False,000,False,False,False,3,402
+"### ||| المدرسة الجاولية
+",000,False,000,False,False,False,3,511
+"### ||| المدرسة الفارقانية
+",000,False,000,False,False,False,3,47
+"### ||| المدرسة البشيرية
+",000,False,000,False,False,False,3,57
+"### ||| المدرسة المهمندارية
+",000,False,000,False,False,False,3,78
+"### ||| مدرسة ألجاي
+",000,False,000,False,False,False,3,359
+"### ||| مدرسة أم السلطان
+",000,False,000,False,False,False,3,260
+"### ||| المدرسة الأيتمشية
+",000,False,000,False,False,False,3,62
+"### ||| المدرسة المجدية الخليلية
+",000,False,000,False,False,False,3,130
+"### ||| المدرسة الناصرية بالقرافة
+",000,False,000,False,False,False,3,165
+"### ||| المدرسة المسلمية
+",000,False,000,False,False,False,3,209
+"### ||| مدرسة اينال
+",000,False,000,False,False,False,3,102
+"### ||| مدرسة الأمير جمال الدين الأستادار
+",000,False,000,False,False,False,3,1440
+"### || ذكر المارستانات
+",000,False,000,False,False,False,2,4776
+"### ||| مارستان ابن طولون
+",000,False,000,False,False,False,3,267
+"### ||| مارستان كافور
+",000,False,000,False,False,False,3,26
+"### ||| مارستان المغافر
+",000,False,000,False,False,False,3,39
+"### ||| المارستان الكبير المنصوري
+",000,False,000,False,False,False,3,1442
+"### ||| المارستان المؤيدي
+",000,False,000,False,False,False,3,121
+"### ||| ذكر المساجد
+",000,False,000,False,False,False,3,226
+"### ||| المسجد بجوار دير البعل
+",000,False,000,False,False,False,3,79
+"### ||| مسجد ابن الجباس
+",000,False,000,False,False,False,3,66
+"### ||| مسجد ابن البناء
+",000,False,000,False,False,False,3,359
+"### ||| مسجد الحلبيين
+",000,False,000,False,False,False,3,164
+"### ||| مسجد الكافوري
+",000,False,000,False,False,False,3,61
+"### ||| مسجد رشيد
+",000,False,000,False,False,False,3,29
+"### ||| المسجد المعروف بزرع النوى
+",000,False,000,False,False,False,3,377
+"### ||| مسجد الذخيرة
+",000,False,000,False,False,False,3,190
+"### ||| مسجد رسلان
+",000,False,000,False,False,False,3,47
+"### ||| مسجد ابن الشيخي
+",000,False,000,False,False,False,3,73
+"### ||| مسجد يانس
+",000,False,000,False,False,False,3,214
+"### ||| مسجد باب الخوخة
+",000,False,000,False,False,False,3,76
+"### ||| المسجد المعروف بمعبد موسى
+",000,False,000,False,False,False,3,149
+"### ||| مسجد نجم الدين
+",000,False,000,False,False,False,3,238
+"### ||| مسجد صواب
+",000,False,000,False,False,False,3,33
+"### ||| المسجد بجوار المشهد الحسيني
+",000,False,000,False,False,False,3,82
+"### ||| مسجد الفجل
+",000,False,000,False,False,False,3,128
+"### ||| مسجد تبر
+",000,False,000,False,False,False,3,227
+"### || ذكر الخوانك
+",000,False,000,False,False,False,2,7869
+"### ||| الخانكاه الصلاحية، دار سعيد السعداء، دويرة الصوفية
+",000,False,000,False,False,False,3,1008
+"### ||| خانقاه ركن الدين بيبرس
+",000,False,000,False,False,False,3,1194
+"### ||| الخانقاه الجمالية
+",000,False,000,False,False,False,3,34
+"### ||| الخانقاه الظاهرية
+",000,False,000,False,False,False,3,34
+"### ||| الخانقاه الشرابيشية
+",000,False,000,False,False,False,3,61
+"### ||| الخانقاه المهمندارية
+",000,False,000,False,False,False,3,47
+"### ||| خانقاه بشتاك
+",000,False,000,False,False,False,3,82
+"### ||| خانقاه ابن غراب
+",000,False,000,False,False,False,3,1093
+"### ||| الخانقاه البندقدارية
+",000,False,000,False,False,False,3,168
+"### ||| خانقاه شيخو
+",000,False,000,False,False,False,3,235
+"### ||| الخانقاه الجاولية
+",000,False,000,False,False,False,3,31
+"### ||| خانقاه الجيبغا المظفري
+",000,False,000,False,False,False,3,388
+"### ||| خانقاه سرياقوس
+",000,False,000,False,False,False,3,652
+"### ||| خانقاه أرسلان
+",000,False,000,False,False,False,3,331
+"### ||| خانقاه بكتمر
+",000,False,000,False,False,False,3,810
+"### ||| خانقاه قوصون
+",000,False,000,False,False,False,3,130
+"### ||| خانقاه طغاي النجمي
+",000,False,000,False,False,False,3,269
+"### ||| خانقاه أم أنوك
+",000,False,000,False,False,False,3,267
+"### ||| خانقاه يونس
+",000,False,000,False,False,False,3,268
+"### ||| خانقاه طيبرس
+",000,False,000,False,False,False,3,102
+"### ||| خانقاه أقبغا
+",000,False,000,False,False,False,3,37
+"### || ذكر الربط
+",000,False,000,False,False,False,2,1708
+"### ||| رباط الصاحب
+",000,False,000,False,False,False,3,82
+"### ||| رباط الفخري
+",000,False,000,False,False,False,3,27
+"### ||| رباط البغدادية
+",000,False,000,False,False,False,3,237
+"### ||| رباط الست كليلة
+",000,False,000,False,False,False,3,56
+"### ||| رباط الخازن
+",000,False,000,False,False,False,3,43
+"### ||| الرباط المعروف برواق ابن سليمان
+",000,False,000,False,False,False,3,69
+"### ||| رباط داود بن إبراهيم
+",000,False,000,False,False,False,3,26
+"### ||| رباط ابن أبي المنصور
+",000,False,000,False,False,False,3,85
+"### ||| رباط المشتهى
+",000,False,000,False,False,False,3,93
+"### ||| رباط الآثار
+",000,False,000,False,False,False,3,536
+"### ||| رباط الأفرم
+",000,False,000,False,False,False,3,91
+"### || ذكر الزوايا
+",000,False,000,False,False,False,2,2952
+"### ||| زاوية الدمياطي
+",000,False,000,False,False,False,3,61
+"### ||| زاوية الشيخ خضر
+",000,False,000,False,False,False,3,487
+"### ||| زاوية ابن منظور
+",000,False,000,False,False,False,3,94
+"### ||| زاوية الظاهري
+",000,False,000,False,False,False,3,170
+"### ||| زاوية الجميزة
+",000,False,000,False,False,False,3,41
+"### ||| زاوية الحلاوي
+",000,False,000,False,False,False,3,90
+"### ||| زاوية نصر
+",000,False,000,False,False,False,3,99
+"### ||| زاوية الخدام
+",000,False,000,False,False,False,3,40
+"### ||| زاوية تقي الدين
+",000,False,000,False,False,False,3,63
+"### ||| زاوية الشريف مهدي
+",000,False,000,False,False,False,3,22
+"### ||| زاوية الطراطرية
+",000,False,000,False,False,False,3,97
+"### ||| زاوية القلندرية
+",000,False,000,False,False,False,3,467
+"### ||| قبة النصر
+",000,False,000,False,False,False,3,39
+"### ||| زاوية الركراكي
+",000,False,000,False,False,False,3,81
+"### ||| زاوية إبراهيم الصائغ
+",000,False,000,False,False,False,3,74
+"### ||| زاوية الجعبري
+",000,False,000,False,False,False,3,105
+"### ||| زاوية أبي السعود
+",000,False,000,False,False,False,3,54
+"### ||| زاوية الحمصي
+",000,False,000,False,False,False,3,117
+"### ||| زاوية المغربل
+",000,False,000,False,False,False,3,38
+"### ||| زاوية القصري
+",000,False,000,False,False,False,3,52
+"### ||| زاوية الجاكي
+",000,False,000,False,False,False,3,98
+"### ||| زاوية الأبناسي
+",000,False,000,False,False,False,3,93
+"### ||| زاوية اليونسية
+",000,False,000,False,False,False,3,177
+"### ||| زاوية الخلاطي
+",000,False,000,False,False,False,3,42
+"### ||| الزاوية العدوية
+",000,False,000,False,False,False,3,350
+"### || ذكر المشاهد التي يتبرك الناس بزيارتها مشهد ms2088 زين العابدين
+",000,False,000,False,False,False,2,3228
+"### || مشهد السيدة نفيسة
+",000,False,000,False,False,False,2,1237
+"### || مشهد السيدة كلثوم
+",000,False,000,False,False,False,2,49
+"### || سنا وثنا
+",000,False,000,False,False,False,2,26
+"### || ذكر مقابر مصر والقاهرة المشهورة
+",000,False,000,False,False,False,2,311
+"### || ذكر القرافة
+",000,False,000,False,False,False,2,1185
+"### || ذكر المساجد الشهيرة بالقرافة الكبيرة
+",000,False,000,False,False,False,2,3689
+"### ||| مسجد الأقدام
+",000,False,000,False,False,False,3,156
+"### ||| مسجد الرصد
+",000,False,000,False,False,False,3,37
+"### ||| مسجد شقيق الملك
+",000,False,000,False,False,False,3,146
+"### ||| مسجد الانطاكي
+",000,False,000,False,False,False,3,38
+"### ||| مسجد النارنج
+",000,False,000,False,False,False,3,112
+"### ||| مسجد الأندلس
+",000,False,000,False,False,False,3,475
+"### ||| مسجد البقعة
+",000,False,000,False,False,False,3,10
+"### ||| مسجد الفتح
+",000,False,000,False,False,False,3,106
+"### ||| مسجد أم عباس جهة العادل بن السلار
+",000,False,000,False,False,False,3,59
+"### ||| مسجد الصالح
+",000,False,000,False,False,False,3,41
+"### ||| مسجد ولي عهد أمير المؤمنين
+",000,False,000,False,False,False,3,72
+"### ||| مسجد الرحمة
+",000,False,000,False,False,False,3,170
+"### ||| مسجد مكنون
+",000,False,000,False,False,False,3,15
+"### ||| مسجد جهة ريحان
+",000,False,000,False,False,False,3,37
+"### ||| مسجد جهة بيان
+",000,False,000,False,False,False,3,237
+"### ||| مسجد توبة
+",000,False,000,False,False,False,3,32
+"### ||| مسجد دري
+",000,False,000,False,False,False,3,220
+"### ||| مسجد ست غزال
+",000,False,000,False,False,False,3,42
+"### ||| مسجد رياض
+",000,False,000,False,False,False,3,35
+"### ||| مسجد عظيم الدولة
+",000,False,000,False,False,False,3,117
+"### ||| مسجد أبي صادق
+",000,False,000,False,False,False,3,276
+"### ||| مسجد الفراش
+",000,False,000,False,False,False,3,41
+"### ||| مسجد تاج الملوك ms2118
+",000,False,000,False,False,False,3,40
+"### ||| مسجد الثمار
+",000,False,000,False,False,False,3,15
+"### ||| مسجد الحجر
+",000,False,000,False,False,False,3,41
+"### ||| مسجد القاضي يونس
+",000,False,000,False,False,False,3,61
+"### ||| مسجد الوزيرية
+",000,False,000,False,False,False,3,169
+"### ||| مسجد ابن العكر
+",000,False,000,False,False,False,3,29
+"### ||| مسجد ابن كباس
+",000,False,000,False,False,False,3,21
+"### ||| مسجد الشهمية
+",000,False,000,False,False,False,3,41
+"### ||| مسجد زنكادة
+",000,False,000,False,False,False,3,22
+"### ||| جامع القرافة
+",000,False,000,False,False,False,3,38
+"### ||| مسجد الأطفيحي
+",000,False,000,False,False,False,3,700
+"### || ذكر الجواسيق التي بالقرافة
+",000,False,000,False,False,False,2,633
+"### || ذكر الرباطات التي كانت بالقرافة
+",000,False,000,False,False,False,2,137
+"### || ذكر المصليات والمحاريب التي بالقرافة
+",000,False,000,False,False,False,2,577
+"### || ذكر المساجد والمعابد التي بالجبل والصحراء
+",000,False,000,False,False,False,2,2689
+"### || ذكر الأحواض والآبار التي بالقرافة
+",000,False,000,False,False,False,2,258
+"### || ذكر الآبار التي ببركة الحبش والقرافة
+",000,False,000,False,False,False,2,183
+"### || ذكر السبعة التي تزار بالقرافة
+",000,False,000,False,False,False,2,1575
+"### || ذكر المقابر خارج باب النصر
+",000,False,000,False,False,False,2,614
+"### || ذكر كنائس اليهود
+",000,False,000,False,False,False,2,4790
+"### || ذكر تاريخ اليهود وأعيادهم
+",000,False,000,False,False,False,2,1544
+"### || ذكر معنى قولهم يهودي
+",000,False,000,False,False,False,2,357
+"### || ذكر معتقد اليهود وكيف وقع عندهم التبديل
+",000,False,000,False,False,False,2,709
+"### || ذكر فرق اليهود الآن
+",000,False,000,False,False,False,2,2526
+"### || ذكر قبط مصر ودياناتهم القديمة، وكيف تنصروا ثم صاروا ذمة للمسلمين، وما كان لهم في ذلك من القصص والأنباء، وذكر الخبر عن كنائسهم ودياراتهم، وكيف كان ابتداؤها ومصير أمرها
+",000,False,000,False,False,False,2,542
+"### || ذكر ديانة القبط قبل تنصرهم
+",000,False,000,False,False,False,2,565
+"### || ذكر دخول قبط مصر في دين النصرانية
+",000,False,000,False,False,False,2,6167
+"### || ذكر دخول النصارى من قبط مصر في طاعة المسلمين وأدائهم الجزية، واتخاذهم ذمة لهم، وما كان في ذلك من الحوادث والأنباء
+",000,False,000,False,False,False,2,6061
+"### || ذكر ديارات النصارى
+",000,False,000,False,False,False,2,5188

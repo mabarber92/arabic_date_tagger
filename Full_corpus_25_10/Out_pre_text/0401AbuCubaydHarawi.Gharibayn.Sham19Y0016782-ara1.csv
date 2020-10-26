@@ -1,0 +1,5711 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK [مقدمة المصنف]
+",000,False,000,False,False,False,1,696
+"### | AUTO كتاب الهمزة
+",000,False,000,False,False,False,1,10909
+"### || AUTO باب الهمزة مع الباء
+",000,False,000,False,False,False,2,407
+"### ||| AUTO (أب ب)
+",000,False,000,False,False,False,3,39
+"### ||| AUTO (أب ط)
+",000,False,000,False,False,False,3,42
+"### ||| AUTO (أب د)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (أب ر)
+",000,False,000,False,False,False,3,47
+"### ||| AUTO (أب ل)
+",000,False,000,False,False,False,3,55
+"### ||| AUTO (أب ن)
+",000,False,000,False,False,False,3,112
+"### || AUTO باب الهمزة مع التاء
+",000,False,000,False,False,False,2,257
+"### ||| AUTO (أت ب)
+",000,False,000,False,False,False,3,20
+"### || AUTO باب الهمزة مع الثاء
+",000,False,000,False,False,False,2,430
+"### ||| AUTO (أث ث)
+",000,False,000,False,False,False,3,35
+"### ||| AUTO (أث ر)
+",000,False,000,False,False,False,3,226
+"### ||| AUTO (أث ل)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (أث م)
+",000,False,000,False,False,False,3,109
+"### || AUTO باب الهمزة مع الجيم
+",000,False,000,False,False,False,2,301
+"### ||| AUTO (أج ج)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (أج ر)
+",000,False,000,False,False,False,3,146
+"### ||| AUTO (أج ل)
+",000,False,000,False,False,False,3,81
+"### ||| AUTO (أج م)
+",000,False,000,False,False,False,3,17
+"### || AUTO باب الهمزة مع الحاء
+",000,False,000,False,False,False,2,248
+"### ||| AUTO (أح د)
+",000,False,000,False,False,False,3,180
+"### || AUTO باب الهمزة مع الخاء
+",000,False,000,False,False,False,2,456
+"### ||| AUTO (أخ ذ)
+",000,False,000,False,False,False,3,216
+"### ||| AUTO (أخ ر)
+",000,False,000,False,False,False,3,64
+"### || AUTO باب الهمزة مع الدال
+",000,False,000,False,False,False,2,205
+"### ||| AUTO (أد ب)
+",000,False,000,False,False,False,3,64
+"### ||| AUTO (أد د)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (أد م)
+",000,False,000,False,False,False,3,68
+"### || AUTO باب الهمزة مع الذال
+",000,False,000,False,False,False,2,340
+"### ||| AUTO (إ ذ)
+",000,False,000,False,False,False,3,21
+"### ||| AUTO (أذ ر ب)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (أذ ن)
+",000,False,000,False,False,False,3,216
+"### || AUTO باب الهمزة مع الراء
+",000,False,000,False,False,False,2,906
+"### ||| AUTO (أر ب)
+",000,False,000,False,False,False,3,393
+"### ||| AUTO (أر ز)
+",000,False,000,False,False,False,3,55
+"### ||| AUTO (أر س)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (أر ش)
+",000,False,000,False,False,False,3,50
+"### ||| AUTO (أر ض)
+",000,False,000,False,False,False,3,56
+"### ||| AUTO (أر ف)
+",000,False,000,False,False,False,3,32
+"### ||| AUTO (أر ك)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (أر م)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (أر ن)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (أر ت)
+",000,False,000,False,False,False,3,32
+"### || AUTO باب الهمزة مع الزاي
+",000,False,000,False,False,False,2,433
+"### ||| AUTO (أز ر)
+",000,False,000,False,False,False,3,119
+"### ||| AUTO (أز ز)
+",000,False,000,False,False,False,3,111
+"### ||| AUTO (أز ف)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (أز ل)
+",000,False,000,False,False,False,3,37
+"### ||| AUTO (أز م)
+",000,False,000,False,False,False,3,95
+"### || AUTO باب الهمزة مع السين
+",000,False,000,False,False,False,2,449
+"### ||| AUTO (أس ر)
+",000,False,000,False,False,False,3,171
+"### ||| AUTO (أس ف)
+",000,False,000,False,False,False,3,76
+"### ||| AUTO (أس ل)
+",000,False,000,False,False,False,3,105
+"### ||| AUTO (أس ن)
+",000,False,000,False,False,False,3,23
+"### || AUTO باب الهمزة مع الشين
+",000,False,000,False,False,False,2,156
+"### ||| AUTO (أش أ)
+",000,False,000,False,False,False,3,26
+"### ||| AUTO (أش ب)
+",000,False,000,False,False,False,3,73
+"### ||| AUTO (أشر)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (أشر)
+",000,False,000,False,False,False,3,2
+"### || AUTO باب الهمزة مع الصاد
+",000,False,000,False,False,False,2,170
+"### ||| AUTO (أصر)
+",000,False,000,False,False,False,3,122
+"### || AUTO باب الهمزة مع الضاد
+",000,False,000,False,False,False,2,37
+"### || AUTO باب الهمزة مع الطاء
+",000,False,000,False,False,False,2,110
+"### ||| AUTO (أط ر)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (أط ط)
+",000,False,000,False,False,False,3,61
+"### || AUTO باب الهمزة مع الفاء
+",000,False,000,False,False,False,2,354
+"### ||| AUTO (أف ف)
+",000,False,000,False,False,False,3,110
+"### ||| AUTO (أفق)
+",000,False,000,False,False,False,3,43
+"### ||| AUTO (أف ك)
+",000,False,000,False,False,False,3,124
+"### ||| AUTO (أفكل)
+",000,False,000,False,False,False,3,9
+"### ||| AUTO (أفل)
+",000,False,000,False,False,False,3,16
+"### || AUTO باب الهمزة مع الكاف
+",000,False,000,False,False,False,2,314
+"### ||| AUTO (أك ل)
+",000,False,000,False,False,False,3,295
+"### || AUTO باب الهمزة مع اللام
+",000,False,000,False,False,False,2,1531
+"### ||| AUTO (ألب)
+",000,False,000,False,False,False,3,63
+"### ||| AUTO (أل ت)
+",000,False,000,False,False,False,3,157
+"### ||| AUTO (أل د)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (أل س)
+",000,False,000,False,False,False,3,99
+"### ||| AUTO (أل ف)
+",000,False,000,False,False,False,3,245
+"### ||| AUTO (أل ق)
+",000,False,000,False,False,False,3,137
+"### ||| AUTO (أل ك)
+",000,False,000,False,False,False,3,32
+"### ||| AUTO (أل ل)
+",000,False,000,False,False,False,3,164
+"### ||| AUTO (أل م)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (أل ه)
+",000,False,000,False,False,False,3,163
+"### ||| AUTO (أل و)
+",000,False,000,False,False,False,3,286
+"### || AUTO باب الهمزة مع الميم
+",000,False,000,False,False,False,2,1530
+"### ||| AUTO (أم ت)
+",000,False,000,False,False,False,3,105
+"### ||| AUTO (أم د)
+",000,False,000,False,False,False,3,53
+"### ||| AUTO (أم ر)
+",000,False,000,False,False,False,3,311
+"### ||| AUTO (أم ع)
+",000,False,000,False,False,False,3,41
+"### ||| AUTO (أم م)
+",000,False,000,False,False,False,3,702
+"### ||| AUTO (أم ن)
+",000,False,000,False,False,False,3,248
+"### || AUTO باب الهمزة مع النون
+",000,False,000,False,False,False,2,752
+"### ||| AUTO (أن ث)
+",000,False,000,False,False,False,3,71
+"### ||| AUTO (أن ح)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (أن س)
+",000,False,000,False,False,False,3,106
+"### ||| AUTO (أن ف)
+",000,False,000,False,False,False,3,223
+"### ||| AUTO (أن ق)
+",000,False,000,False,False,False,3,106
+"### ||| AUTO (أن ه)
+",000,False,000,False,False,False,3,105
+"### || AUTO باب الهمزة مع الهاء
+",000,False,000,False,False,False,2,240
+"### ||| AUTO (أه ب)
+",000,False,000,False,False,False,3,97
+"### || AUTO باب الهمزة مع الواو
+",000,False,000,False,False,False,2,606
+"### ||| AUTO (أوب)
+",000,False,000,False,False,False,3,92
+"### ||| AUTO (أود)
+",000,False,000,False,False,False,3,43
+"### ||| AUTO (أول)
+",000,False,000,False,False,False,3,266
+"### ||| AUTO (أون)
+",000,False,000,False,False,False,3,36
+"### ||| AUTO (أوه)
+",000,False,000,False,False,False,3,54
+"### | AUTO كتاب الباء
+",000,False,000,False,False,False,1,12935
+"### || AUTO باب الباء مع الهمزة
+",000,False,000,False,False,False,2,313
+"### ||| AUTO (ب أج)
+",000,False,000,False,False,False,3,26
+"### ||| AUTO (ب أر)
+",000,False,000,False,False,False,3,34
+"### ||| AUTO (ب أس)
+",000,False,000,False,False,False,3,141
+"### ||| AUTO (ببس)
+",000,False,000,False,False,False,3,67
+"### || AUTO باب الباء مع الباء
+",000,False,000,False,False,False,2,187
+"### || AUTO باب الباء مع التاء
+",000,False,000,False,False,False,2,397
+"### ||| AUTO (ب ت ت)
+",000,False,000,False,False,False,3,97
+"### ||| AUTO (ب ت ر)
+",000,False,000,False,False,False,3,125
+"### ||| AUTO (ب ت ع)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (ب ت ك)
+",000,False,000,False,False,False,3,35
+"### || AUTO باب الباء مع الثاء
+",000,False,000,False,False,False,2,322
+"### ||| AUTO (ب ث ث)
+",000,False,000,False,False,False,3,252
+"### || AUTO باب الباء مع الجيم
+",000,False,000,False,False,False,2,326
+"### ||| AUTO (ب ج ح)
+",000,False,000,False,False,False,3,43
+"### ||| AUTO (ب ج د)
+",000,False,000,False,False,False,3,23
+"### ||| AUTO (ب ج ر)
+",000,False,000,False,False,False,3,57
+"### ||| AUTO (ب ج س)
+",000,False,000,False,False,False,3,67
+"### || AUTO باب الباء مع الحاء
+",000,False,000,False,False,False,2,309
+"### ||| AUTO (ب ح ب ح)
+",000,False,000,False,False,False,3,41
+"### ||| AUTO (ب ح ث)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (ب ح ر)
+",000,False,000,False,False,False,3,213
+"### || AUTO باب الباء مع الخاء
+",000,False,000,False,False,False,2,370
+"### ||| AUTO (بخخ)
+",000,False,000,False,False,False,3,54
+"### ||| AUTO (بخس)
+",000,False,000,False,False,False,3,80
+"### ||| AUTO (بخص)
+",000,False,000,False,False,False,3,69
+"### ||| AUTO (ب خ ع)
+",000,False,000,False,False,False,3,99
+"### ||| AUTO (بخق)
+",000,False,000,False,False,False,3,45
+"### || AUTO باب الباء مع الدال
+",000,False,000,False,False,False,2,1042
+"### ||| AUTO (ب دء)
+",000,False,000,False,False,False,3,264
+"### ||| AUTO (ب د ج)
+",000,False,000,False,False,False,3,13
+"### ||| AUTO (ب د ح)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (ب د د)
+",000,False,000,False,False,False,3,193
+"### ||| AUTO (ب د ر)
+",000,False,000,False,False,False,3,65
+"### ||| AUTO (ب د ع)
+",000,False,000,False,False,False,3,101
+"### ||| AUTO (بدل)
+",000,False,000,False,False,False,3,79
+"### ||| AUTO (ب د ن)
+",000,False,000,False,False,False,3,61
+"### || AUTO باب الباء مع الذال
+",000,False,000,False,False,False,2,133
+"### ||| AUTO (ب ذ أ)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (ب ذ ج)
+",000,False,000,False,False,False,3,22
+"### ||| AUTO (ب ذ ذ)
+",000,False,000,False,False,False,3,31
+"### || AUTO باب الباء مع الراء
+",000,False,000,False,False,False,2,1406
+"### ||| AUTO (ب ر أ)
+",000,False,000,False,False,False,3,90
+"### ||| AUTO (ب ر ث)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (ب ر ج)
+",000,False,000,False,False,False,3,67
+"### ||| AUTO (ب ر ح)
+",000,False,000,False,False,False,3,122
+"### ||| AUTO (ب ر د)
+",000,False,000,False,False,False,3,420
+"### ||| AUTO (ب ر ر)
+",000,False,000,False,False,False,3,143
+"### ||| AUTO (ب ر ب ر)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (ب ر ز)
+",000,False,000,False,False,False,3,92
+"### ||| AUTO (ب ر ز خ)
+",000,False,000,False,False,False,3,91
+"### ||| AUTO (برزق)
+",000,False,000,False,False,False,3,32
+"### ||| AUTO (برشم)
+",000,False,000,False,False,False,3,13
+"### ||| AUTO (برض)
+",000,False,000,False,False,False,3,23
+"### ||| AUTO (برطش)
+",000,False,000,False,False,False,3,22
+"### ||| AUTO (برق)
+",000,False,000,False,False,False,3,130
+"### ||| AUTO (برك)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (برم)
+",000,False,000,False,False,False,3,50
+"### ||| AUTO (برهن)
+",000,False,000,False,False,False,3,20
+"### || AUTO باب الباء مع الزاي
+",000,False,000,False,False,False,2,164
+"### ||| AUTO (بزز)
+",000,False,000,False,False,False,3,50
+"### ||| AUTO (بزغ)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (بزق)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (بزل)
+",000,False,000,False,False,False,3,39
+"### || AUTO باب الباء مع السين
+",000,False,000,False,False,False,2,501
+"### ||| AUTO (بسر)
+",000,False,000,False,False,False,3,126
+"### ||| AUTO (بسس)
+",000,False,000,False,False,False,3,69
+"### ||| AUTO (بسط)
+",000,False,000,False,False,False,3,160
+"### ||| AUTO (بسق)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (بسل)
+",000,False,000,False,False,False,3,87
+"### || AUTO باب الباء مع الشين
+",000,False,000,False,False,False,2,326
+"### ||| AUTO (بشر)
+",000,False,000,False,False,False,3,201
+"### ||| AUTO (بشش)
+",000,False,000,False,False,False,3,92
+"### || AUTO باب الباء مع الصاد
+",000,False,000,False,False,False,2,403
+"### ||| AUTO (بصر)
+",000,False,000,False,False,False,3,374
+"### || AUTO باب الباء مع الضاد
+",000,False,000,False,False,False,2,307
+"### ||| AUTO (بضض)
+",000,False,000,False,False,False,3,71
+"### || AUTO باب الباء مع الطاء
+",000,False,000,False,False,False,2,466
+"### ||| AUTO (بطح)
+",000,False,000,False,False,False,3,84
+"### ||| AUTO (بطر)
+",000,False,000,False,False,False,3,90
+"### ||| AUTO (بطش)
+",000,False,000,False,False,False,3,34
+"### ||| AUTO (بطق)
+",000,False,000,False,False,False,3,43
+"### ||| AUTO (بطل)
+",000,False,000,False,False,False,3,37
+"### || AUTO باب الباء مع الظاء
+",000,False,000,False,False,False,2,30
+"### || AUTO باب الباء مع العين
+",000,False,000,False,False,False,2,651
+"### ||| AUTO (بعث)
+",000,False,000,False,False,False,3,50
+"### ||| AUTO (بعثر)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (بعثط)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (بعج)
+",000,False,000,False,False,False,3,51
+"### ||| AUTO (بعد)
+",000,False,000,False,False,False,3,93
+"### ||| AUTO (بعض)
+",000,False,000,False,False,False,3,48
+"### ||| AUTO (بعع)
+",000,False,000,False,False,False,3,32
+"### ||| AUTO (بعق)
+",000,False,000,False,False,False,3,39
+"### || AUTO باب الباء مع الغين
+",000,False,000,False,False,False,2,366
+"### ||| AUTO (بغت)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (بغش)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (بغو)
+",000,False,000,False,False,False,3,64
+"### || AUTO باب الباء مع القاف
+",000,False,000,False,False,False,2,605
+"### ||| AUTO (بقر)
+",000,False,000,False,False,False,3,108
+"### ||| AUTO (بقط)
+",000,False,000,False,False,False,3,109
+"### ||| AUTO (بقع)
+",000,False,000,False,False,False,3,149
+"### ||| AUTO (بقق)
+",000,False,000,False,False,False,3,63
+"### ||| AUTO (أخرس في السفر بقاق المنزل)
+",000,False,000,False,False,False,3,11
+"### || AUTO باب الباء مع الكاف
+",000,False,000,False,False,False,2,477
+"### ||| AUTO (بكأ)
+",000,False,000,False,False,False,3,35
+"### ||| AUTO (بكت)
+",000,False,000,False,False,False,3,26
+"### ||| AUTO (بكر)
+",000,False,000,False,False,False,3,181
+"### ||| AUTO (بكع)
+",000,False,000,False,False,False,3,37
+"### ||| AUTO (بكك)
+",000,False,000,False,False,False,3,58
+"### || AUTO باب الباء مع اللام
+",000,False,000,False,False,False,2,814
+"### ||| AUTO (بلل)
+",000,False,000,False,False,False,3,9
+"### ||| AUTO (بلج)
+",000,False,000,False,False,False,3,24
+"### ||| AUTO (بلح)
+",000,False,000,False,False,False,3,75
+"### ||| AUTO (بلس)
+",000,False,000,False,False,False,3,81
+"### ||| AUTO (بلع)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (بلغ)
+",000,False,000,False,False,False,3,182
+"### ||| AUTO (بلقع)
+",000,False,000,False,False,False,3,48
+"### ||| AUTO (بلل)
+",000,False,000,False,False,False,3,133
+"### ||| AUTO (بلا)
+",000,False,000,False,False,False,3,89
+"### ||| AUTO (بله)
+",000,False,000,False,False,False,3,97
+"### || AUTO باب الباء مع النون
+",000,False,000,False,False,False,2,266
+"### ||| AUTO (بنن)
+",000,False,000,False,False,False,3,48
+"### || AUTO باب الباء مع الواو
+",000,False,000,False,False,False,2,607
+"### ||| AUTO (بوأ)
+",000,False,000,False,False,False,3,199
+"### ||| AUTO (بوج)
+",000,False,000,False,False,False,3,26
+"### ||| AUTO (بوح)
+",000,False,000,False,False,False,3,57
+"### ||| AUTO (بور)
+",000,False,000,False,False,False,3,121
+"### ||| AUTO (بوص)
+",000,False,000,False,False,False,3,62
+"### ||| AUTO (بوع)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (بوغ)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (بوق)
+",000,False,000,False,False,False,3,26
+"### || AUTO باب الباء مع الهاء
+",000,False,000,False,False,False,2,807
+"### ||| AUTO (بهأ)
+",000,False,000,False,False,False,3,76
+"### ||| AUTO (بهت)
+",000,False,000,False,False,False,3,57
+"### ||| AUTO (بهج)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (بهر)
+",000,False,000,False,False,False,3,155
+"### ||| AUTO (بهرج)
+",000,False,000,False,False,False,3,61
+"### ||| AUTO (بهز)
+",000,False,000,False,False,False,3,13
+"### ||| AUTO (بهش)
+",000,False,000,False,False,False,3,82
+"### ||| AUTO (بهل)
+",000,False,000,False,False,False,3,64
+"### ||| AUTO (بهم)
+",000,False,000,False,False,False,3,232
+"### || AUTO باب الباء مع الياء
+",000,False,000,False,False,False,2,878
+"### ||| AUTO (بيت)
+",000,False,000,False,False,False,3,268
+"### ||| AUTO (بيد)
+",000,False,000,False,False,False,3,60
+"### ||| AUTO (بيض)
+",000,False,000,False,False,False,3,78
+"### ||| AUTO (بيع)
+",000,False,000,False,False,False,3,100
+"### ||| AUTO (بيغ)
+",000,False,000,False,False,False,3,54
+"### | AUTO كتاب التاء
+",000,False,000,False,False,False,1,2469
+"### || AUTO باب التاء مع الهمزة
+",000,False,000,False,False,False,2,475
+"### ||| AUTO (تأر)
+",000,False,000,False,False,False,3,14
+"### ||| AUTO (تأق)
+",000,False,000,False,False,False,3,21
+"### ||| AUTO (تبب)
+",000,False,000,False,False,False,3,23
+"### ||| AUTO (تبر)
+",000,False,000,False,False,False,3,63
+"### ||| AUTO (تبع)
+",000,False,000,False,False,False,3,286
+"### || AUTO باب التاء مع الجيم
+",000,False,000,False,False,False,2,34
+"### || AUTO باب التاء مع الحاء
+",000,False,000,False,False,False,2,24
+"### || AUTO باب التاء مع الخاء
+",000,False,000,False,False,False,2,69
+"### || AUTO باب التاء مع الراء
+",000,False,000,False,False,False,2,523
+"### ||| AUTO (ترب)
+",000,False,000,False,False,False,3,253
+"### ||| AUTO (ترج)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (ترر)
+",000,False,000,False,False,False,3,39
+"### ||| AUTO (ترز)
+",000,False,000,False,False,False,3,22
+"### ||| AUTO (ترص)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (ترع)
+",000,False,000,False,False,False,3,45
+"### ||| AUTO (ترف)
+",000,False,000,False,False,False,3,31
+"### || AUTO باب التاء مع السين
+",000,False,000,False,False,False,2,111
+"### ||| AUTO (تسع)
+",000,False,000,False,False,False,3,89
+"### || AUTO باب التاء مع العين
+",000,False,000,False,False,False,2,62
+"### || AUTO باب التاء مع الغين
+",000,False,000,False,False,False,2,32
+"### || AUTO باب التاء مع الفاء
+",000,False,000,False,False,False,2,131
+"### ||| AUTO (تفث)
+",000,False,000,False,False,False,3,58
+"### ||| AUTO (تفل)
+",000,False,000,False,False,False,3,38
+"### || AUTO باب التاء مع القاف
+",000,False,000,False,False,False,2,33
+"### || AUTO باب التاء مع اللام
+",000,False,000,False,False,False,2,257
+"### ||| AUTO (تلد)
+",000,False,000,False,False,False,3,72
+"### ||| AUTO (تلع)
+",000,False,000,False,False,False,3,22
+"### ||| AUTO (تلل)
+",000,False,000,False,False,False,3,87
+"### || AUTO باب التاء مع الميم
+",000,False,000,False,False,False,2,153
+"### ||| AUTO (تمر)
+",000,False,000,False,False,False,3,24
+"### || AUTO باب التاء مع النون
+",000,False,000,False,False,False,2,123
+"### ||| AUTO (تنخ)
+",000,False,000,False,False,False,3,22
+"### ||| AUTO (تنر)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (تنم)
+",000,False,000,False,False,False,3,23
+"### ||| AUTO (تنن)
+",000,False,000,False,False,False,3,28
+"### || AUTO باب التاء مع الواو
+",000,False,000,False,False,False,2,204
+"### ||| AUTO (توب)
+",000,False,000,False,False,False,3,83
+"### ||| AUTO (توخ)
+",000,False,000,False,False,False,3,26
+"### ||| AUTO (تول)
+",000,False,000,False,False,False,3,50
+"### | AUTO كتاب الثاء
+",000,False,000,False,False,False,1,3931
+"### || AUTO باب الثاء مع الهمزة
+",000,False,000,False,False,False,2,106
+"### ||| AUTO (ثأج)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (ثأد)
+",000,False,000,False,False,False,3,57
+"### || AUTO باب الثاء مع الباء
+",000,False,000,False,False,False,2,344
+"### ||| AUTO (ثبت)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (ثبج)
+",000,False,000,False,False,False,3,55
+"### ||| AUTO (ثبر)
+",000,False,000,False,False,False,3,127
+"### ||| AUTO (ثبط)
+",000,False,000,False,False,False,3,44
+"### ||| AUTO (ثبن)
+",000,False,000,False,False,False,3,43
+"### || AUTO باب الثاء مع الجيم
+",000,False,000,False,False,False,2,105
+"### ||| AUTO (ثجج)
+",000,False,000,False,False,False,3,59
+"### ||| AUTO (ثجر)
+",000,False,000,False,False,False,3,26
+"### || AUTO باب الثاء مع الخاء
+",000,False,000,False,False,False,2,76
+"### || AUTO باب الثاء مع الدال
+",000,False,000,False,False,False,2,53
+"### || AUTO باب الثاء مع الراء
+",000,False,000,False,False,False,2,321
+"### ||| AUTO (ثرب)
+",000,False,000,False,False,False,3,67
+"### ||| AUTO (ثرد)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (ثرر)
+",000,False,000,False,False,False,3,87
+"### ||| AUTO (ثرثر)
+",000,False,000,False,False,False,3,41
+"### || AUTO باب الثاء مع الطاء
+",000,False,000,False,False,False,2,89
+"### || AUTO باب الثاء مع العين
+",000,False,000,False,False,False,2,185
+"### ||| AUTO (ثعب)
+",000,False,000,False,False,False,3,34
+"### ||| AUTO (ثعجر)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (ثعر)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (ثعع)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (ثعل)
+",000,False,000,False,False,False,3,27
+"### || AUTO باب الثاء مع الغين
+",000,False,000,False,False,False,2,243
+"### ||| AUTO (ثغب)
+",000,False,000,False,False,False,3,32
+"### ||| AUTO (ثغر)
+",000,False,000,False,False,False,3,121
+"### || AUTO باب الثاء مع الفاء
+",000,False,000,False,False,False,2,272
+"### ||| AUTO (تفأ)
+",000,False,000,False,False,False,3,22
+"### ||| AUTO (ثفر)
+",000,False,000,False,False,False,3,81
+"### ||| AUTO (ثفرق)
+",000,False,000,False,False,False,3,36
+"### ||| AUTO (ثفل)
+",000,False,000,False,False,False,3,89
+"### || AUTO باب الثاء مع القاف
+",000,False,000,False,False,False,2,349
+"### ||| AUTO (ثقب)
+",000,False,000,False,False,False,3,39
+"### ||| AUTO (ثقف)
+",000,False,000,False,False,False,3,67
+"### || AUTO باب الثاء مع الكاف
+",000,False,000,False,False,False,2,148
+"### ||| AUTO (ثكم)
+",000,False,000,False,False,False,3,70
+"### || AUTO باب الثاء مع اللام
+",000,False,000,False,False,False,2,247
+"### ||| AUTO (ثلب)
+",000,False,000,False,False,False,3,33
+"### ||| AUTO (ثلث)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (ثلغ)
+",000,False,000,False,False,False,3,42
+"### || AUTO باب الثاء مع الميم
+",000,False,000,False,False,False,2,322
+"### ||| AUTO (ثمد)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (ثمر)
+",000,False,000,False,False,False,3,92
+"### ||| AUTO (ثمل)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (ثمال اليتامي عصمة للأرامل)
+",000,False,000,False,False,False,3,71
+"### ||| AUTO (ثمم)
+",000,False,000,False,False,False,3,90
+"### || AUTO باب الثاء مع النون
+",000,False,000,False,False,False,2,493
+"### ||| AUTO (ثند)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (ثنن)
+",000,False,000,False,False,False,3,40
+"### | AUTO كتاب الجيم
+",000,False,000,False,False,False,1,11134
+"### || AUTO باب الجيم مع الهمزة
+",000,False,000,False,False,False,2,923
+"### ||| AUTO (جأت)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (جأر)
+",000,False,000,False,False,False,3,37
+"### ||| AUTO (جبأ)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (جبب)
+",000,False,000,False,False,False,3,253
+"### ||| AUTO (جبت)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (جبر)
+",000,False,000,False,False,False,3,182
+"### ||| AUTO (جبل)
+",000,False,000,False,False,False,3,50
+"### ||| AUTO (جبه)
+",000,False,000,False,False,False,3,112
+"### || AUTO باب الجيم مع الثاء
+",000,False,000,False,False,False,2,67
+"### ||| AUTO (جثى)
+",000,False,000,False,False,False,3,38
+"### || AUTO باب الجيم مع الحاء
+",000,False,000,False,False,False,2,271
+"### ||| AUTO (جحح)
+",000,False,000,False,False,False,3,60
+"### ||| AUTO (جحر)
+",000,False,000,False,False,False,3,65
+"### ||| AUTO (جحش)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (جحظ)
+",000,False,000,False,False,False,3,33
+"### ||| AUTO (جحف)
+",000,False,000,False,False,False,3,33
+"### ||| AUTO (جحم)
+",000,False,000,False,False,False,3,28
+"### || AUTO باب الجيم مع الخاء
+",000,False,000,False,False,False,2,189
+"### ||| AUTO (جخخ)
+",000,False,000,False,False,False,3,110
+"### ||| AUTO (جخف)
+",000,False,000,False,False,False,3,29
+"### || AUTO باب الجيم مع الدال
+",000,False,000,False,False,False,2,691
+"### ||| AUTO (جدب)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (جدث)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (جدح)
+",000,False,000,False,False,False,3,26
+"### ||| AUTO (جدد)
+",000,False,000,False,False,False,3,226
+"### ||| AUTO (جدجد)
+",000,False,000,False,False,False,3,53
+"### ||| AUTO (جدس)
+",000,False,000,False,False,False,3,26
+"### ||| AUTO (جدف)
+",000,False,000,False,False,False,3,109
+"### ||| AUTO (جدل)
+",000,False,000,False,False,False,3,113
+"### || AUTO باب الجيم مع الذال
+",000,False,000,False,False,False,2,572
+"### ||| AUTO (جذذ)
+",000,False,000,False,False,False,3,66
+"### ||| AUTO (جذر)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (جذع)
+",000,False,000,False,False,False,3,103
+"### ||| AUTO (جذعم)
+",000,False,000,False,False,False,3,33
+"### ||| AUTO (جذل)
+",000,False,000,False,False,False,3,58
+"### ||| AUTO (جذم)
+",000,False,000,False,False,False,3,219
+"### || AUTO باب الجيم مع الراء
+",000,False,000,False,False,False,2,1327
+"### ||| AUTO (جرثم)
+",000,False,000,False,False,False,3,83
+"### ||| AUTO (جرجم)
+",000,False,000,False,False,False,3,37
+"### ||| AUTO (جرح)
+",000,False,000,False,False,False,3,65
+"### ||| AUTO (جرد)
+",000,False,000,False,False,False,3,175
+"### ||| AUTO (جرر)
+",000,False,000,False,False,False,3,309
+"### ||| AUTO (جرز)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (جرس)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (جرع)
+",000,False,000,False,False,False,3,49
+"### ||| AUTO (جرف)
+",000,False,000,False,False,False,3,66
+"### ||| AUTO (جرم)
+",000,False,000,False,False,False,3,141
+"### ||| AUTO (جرمز)
+",000,False,000,False,False,False,3,68
+"### ||| AUTO (جرن)
+",000,False,000,False,False,False,3,26
+"### || AUTO باب الجيم مع الزاي
+",000,False,000,False,False,False,2,422
+"### ||| AUTO (جزأ)
+",000,False,000,False,False,False,3,47
+"### ||| AUTO (جزر)
+",000,False,000,False,False,False,3,137
+"### ||| AUTO (جزع)
+",000,False,000,False,False,False,3,59
+"### ||| AUTO (جزل)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (جزم)
+",000,False,000,False,False,False,3,41
+"### || AUTO باب الجيم مع السين
+",000,False,000,False,False,False,2,110
+"### ||| AUTO (جسد)
+",000,False,000,False,False,False,3,23
+"### ||| AUTO (جسر)
+",000,False,000,False,False,False,3,20
+"### || AUTO باب الجيم مع الشين
+",000,False,000,False,False,False,2,104
+"### ||| AUTO (جشر)
+",000,False,000,False,False,False,3,35
+"### ||| AUTO (جشش)
+",000,False,000,False,False,False,3,38
+"### || AUTO باب الجيم مع الظاء
+",000,False,000,False,False,False,2,21
+"### || AUTO باب الجيم مع العين
+",000,False,000,False,False,False,2,490
+"### ||| AUTO (جعد)
+",000,False,000,False,False,False,3,59
+"### ||| AUTO (جعدب)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (جعر)
+",000,False,000,False,False,False,3,59
+"### ||| AUTO (جعس)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (جعظ)
+",000,False,000,False,False,False,3,22
+"### ||| AUTO (جعظر)
+",000,False,000,False,False,False,3,37
+"### ||| AUTO (جعجع)
+",000,False,000,False,False,False,3,26
+"### ||| AUTO (جعف)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (جعل)
+",000,False,000,False,False,False,3,178
+"### || AUTO باب الجيم مع الفاء
+",000,False,000,False,False,False,2,446
+"### ||| AUTO (جفأ)
+",000,False,000,False,False,False,3,79
+"### ||| AUTO (جفر)
+",000,False,000,False,False,False,3,142
+"### ||| AUTO (جفف)
+",000,False,000,False,False,False,3,58
+"### ||| AUTO (جفل)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (جفن)
+",000,False,000,False,False,False,3,65
+"### || AUTO باب الجيم مع اللام
+",000,False,000,False,False,False,2,1500
+"### ||| AUTO (جلب)
+",000,False,000,False,False,False,3,320
+"### ||| AUTO (جلب)
+",000,False,000,False,False,False,3,84
+"### ||| AUTO (جلج)
+",000,False,000,False,False,False,3,106
+"### ||| AUTO (جلح)
+",000,False,000,False,False,False,3,95
+"### ||| AUTO (جلخ)
+",000,False,000,False,False,False,3,12
+"### ||| AUTO (جلد)
+",000,False,000,False,False,False,3,159
+"### ||| AUTO (جلذ)
+",000,False,000,False,False,False,3,39
+"### ||| AUTO (جلس)
+",000,False,000,False,False,False,3,58
+"### ||| AUTO (جلظ)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (جلع)
+",000,False,000,False,False,False,3,95
+"### ||| AUTO (حلعب)
+",000,False,000,False,False,False,3,15
+"### ||| AUTO (جلف)
+",000,False,000,False,False,False,3,76
+"### ||| AUTO (جلفط)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (جلل)
+",000,False,000,False,False,False,3,138
+"### ||| AUTO (جلا)
+",000,False,000,False,False,False,3,176
+"### || AUTO باب الجيم مع الميم
+",000,False,000,False,False,False,2,1324
+"### ||| AUTO (جمح)
+",000,False,000,False,False,False,3,53
+"### ||| AUTO (جمد)
+",000,False,000,False,False,False,3,98
+"### ||| AUTO (جمر)
+",000,False,000,False,False,False,3,125
+"### ||| AUTO (جمز)
+",000,False,000,False,False,False,3,41
+"### ||| AUTO (جمس)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (جمش)
+",000,False,000,False,False,False,3,82
+"### ||| AUTO (جمع)
+",000,False,000,False,False,False,3,319
+"### ||| AUTO (جمل)
+",000,False,000,False,False,False,3,145
+"### ||| AUTO (جمم)
+",000,False,000,False,False,False,3,234
+"### ||| AUTO (جمجم)
+",000,False,000,False,False,False,3,127
+"### || AUTO باب الجيم مع النون
+",000,False,000,False,False,False,2,1173
+"### ||| AUTO (جنأ)
+",000,False,000,False,False,False,3,41
+"### ||| AUTO (جنب)
+",000,False,000,False,False,False,3,431
+"### ||| AUTO (جنبذ)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (جنح)
+",000,False,000,False,False,False,3,132
+"### ||| AUTO (جند)
+",000,False,000,False,False,False,3,14
+"### ||| AUTO (جندع)
+",000,False,000,False,False,False,3,13
+"### ||| AUTO (جنز)
+",000,False,000,False,False,False,3,43
+"### ||| AUTO (جنف)
+",000,False,000,False,False,False,3,46
+"### ||| AUTO (جنق)
+",000,False,000,False,False,False,3,35
+"### ||| AUTO (جنن)
+",000,False,000,False,False,False,3,202
+"### ||| AUTO (جنه)
+",000,False,000,False,False,False,3,56
+"### || AUTO باب الجيم مع الواو
+",000,False,000,False,False,False,2,807
+"### ||| AUTO (جوب)
+",000,False,000,False,False,False,3,134
+"### ||| AUTO (جوح)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (جود)
+",000,False,000,False,False,False,3,53
+"### ||| AUTO (جور)
+",000,False,000,False,False,False,3,66
+"### ||| AUTO (جوز)
+",000,False,000,False,False,False,3,107
+"### ||| AUTO (جوس)
+",000,False,000,False,False,False,3,66
+"### ||| AUTO (جوظ)
+",000,False,000,False,False,False,3,35
+"### ||| AUTO (جوع)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (جوف)
+",000,False,000,False,False,False,3,96
+"### ||| AUTO (جول)
+",000,False,000,False,False,False,3,64
+"### ||| AUTO (جون)
+",000,False,000,False,False,False,3,30
+"### || AUTO باب الجيم مع الهاء
+",000,False,000,False,False,False,2,620
+"### ||| AUTO (جهد)
+",000,False,000,False,False,False,3,124
+"### ||| AUTO (جهر)
+",000,False,000,False,False,False,3,155
+"### ||| AUTO (جهش)
+",000,False,000,False,False,False,3,39
+"### ||| AUTO (جهض)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (جهل)
+",000,False,000,False,False,False,3,222
+"### ||| AUTO (جهم)
+",000,False,000,False,False,False,3,11
+"### | AUTO كتاب الحاء
+",000,False,000,False,False,False,1,18247
+"### || AUTO باب الحاء مع الباء
+",000,False,000,False,False,False,2,1594
+"### ||| AUTO (حبب)
+",000,False,000,False,False,False,3,159
+"### ||| AUTO (حبج)
+",000,False,000,False,False,False,3,43
+"### ||| AUTO (حبر)
+",000,False,000,False,False,False,3,351
+"### ||| AUTO (حبس)
+",000,False,000,False,False,False,3,105
+"### ||| AUTO (حبط)
+",000,False,000,False,False,False,3,250
+"### ||| AUTO (حبنط)
+",000,False,000,False,False,False,3,21
+"### ||| AUTO (حبق)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (حبك)
+",000,False,000,False,False,False,3,133
+"### ||| AUTO (حبل)
+",000,False,000,False,False,False,3,341
+"### ||| AUTO (حبن)
+",000,False,000,False,False,False,3,55
+"### || AUTO باب الحاء مع التاء
+",000,False,000,False,False,False,2,237
+"### ||| AUTO (حت)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (حتف)
+",000,False,000,False,False,False,3,99
+"### ||| AUTO (حتك)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (حتم)
+",000,False,000,False,False,False,3,62
+"### || AUTO باب الحاء مع الثاء
+",000,False,000,False,False,False,2,87
+"### ||| AUTO (حثحث)
+",000,False,000,False,False,False,3,6
+"### ||| AUTO (حثل)
+",000,False,000,False,False,False,3,44
+"### || AUTO باب الحاء مع الجيم
+",000,False,000,False,False,False,2,772
+"### ||| AUTO (حجب)
+",000,False,000,False,False,False,3,102
+"### ||| AUTO (حجج)
+",000,False,000,False,False,False,3,58
+"### ||| AUTO (حجر)
+",000,False,000,False,False,False,3,154
+"### ||| AUTO (حجز)
+",000,False,000,False,False,False,3,181
+"### ||| AUTO (حجف)
+",000,False,000,False,False,False,3,11
+"### ||| AUTO (حجل)
+",000,False,000,False,False,False,3,75
+"### ||| AUTO (حجم)
+",000,False,000,False,False,False,3,62
+"### || AUTO باب الحاء مع الدال
+",000,False,000,False,False,False,2,628
+"### ||| AUTO (حدب)
+",000,False,000,False,False,False,3,15
+"### ||| AUTO (حدث)
+",000,False,000,False,False,False,3,85
+"### ||| AUTO (حدج)
+",000,False,000,False,False,False,3,110
+"### ||| AUTO (حدد)
+",000,False,000,False,False,False,3,233
+"### ||| AUTO (حدر)
+",000,False,000,False,False,False,3,88
+"### ||| AUTO (حدق)
+",000,False,000,False,False,False,3,26
+"### ||| AUTO (حدل)
+",000,False,000,False,False,False,3,14
+"### || AUTO باب الحاء مع الذال
+",000,False,000,False,False,False,2,231
+"### ||| AUTO (حذذ)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (حذر)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (حذف)
+",000,False,000,False,False,False,3,41
+"### ||| AUTO (حذل)
+",000,False,000,False,False,False,3,39
+"### ||| AUTO (حذم)
+",000,False,000,False,False,False,3,25
+"### || AUTO باب الحاء مع الراء
+",000,False,000,False,False,False,2,1855
+"### ||| AUTO (حرب)
+",000,False,000,False,False,False,3,191
+"### ||| AUTO (حرث)
+",000,False,000,False,False,False,3,134
+"### ||| AUTO (حرج)
+",000,False,000,False,False,False,3,115
+"### ||| AUTO (حرد)
+",000,False,000,False,False,False,3,48
+"### ||| AUTO (حرر)
+",000,False,000,False,False,False,3,193
+"### ||| AUTO (حرز)
+",000,False,000,False,False,False,3,55
+"### ||| AUTO (حرس)
+",000,False,000,False,False,False,3,55
+"### ||| AUTO (حرش)
+",000,False,000,False,False,False,3,71
+"### ||| AUTO (حرص)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (حرض)
+",000,False,000,False,False,False,3,94
+"### ||| AUTO (حرف)
+",000,False,000,False,False,False,3,210
+"### ||| AUTO (حرق)
+",000,False,000,False,False,False,3,160
+"### ||| AUTO (حرم)
+",000,False,000,False,False,False,3,428
+"### || AUTO باب الحاء مع الزاي
+",000,False,000,False,False,False,2,449
+"### ||| AUTO (حزأ)
+",000,False,000,False,False,False,3,13
+"### ||| AUTO (حزب)
+",000,False,000,False,False,False,3,50
+"### ||| AUTO (حزر)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (حز)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (حزق)
+",000,False,000,False,False,False,3,244
+"### || AUTO باب الحاء مع السين
+",000,False,000,False,False,False,2,1604
+"### ||| AUTO (حسب)
+",000,False,000,False,False,False,3,436
+"### ||| AUTO (حسد)
+",000,False,000,False,False,False,3,57
+"### ||| AUTO (حسر)
+",000,False,000,False,False,False,3,209
+"### ||| AUTO (حسس)
+",000,False,000,False,False,False,3,322
+"### ||| AUTO (حسف)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (حسك)
+",000,False,000,False,False,False,3,95
+"### ||| AUTO (حسم)
+",000,False,000,False,False,False,3,118
+"### || AUTO باب الحاء مع الشين
+",000,False,000,False,False,False,2,721
+"### ||| AUTO (حشد)
+",000,False,000,False,False,False,3,43
+"### ||| AUTO (حشر)
+",000,False,000,False,False,False,3,135
+"### ||| AUTO (حشش)
+",000,False,000,False,False,False,3,42
+"### ||| AUTO (حشش)
+",000,False,000,False,False,False,3,267
+"### ||| AUTO (حشف)
+",000,False,000,False,False,False,3,54
+"### || AUTO باب الحاء مع الصاد
+",000,False,000,False,False,False,2,987
+"### ||| AUTO (حصب)
+",000,False,000,False,False,False,3,135
+"### ||| AUTO (حصد)
+",000,False,000,False,False,False,3,92
+"### ||| AUTO (حصر)
+",000,False,000,False,False,False,3,207
+"### ||| AUTO (حصص)
+",000,False,000,False,False,False,3,279
+"### ||| AUTO (حصل)
+",000,False,000,False,False,False,3,51
+"### ||| AUTO (حصلب)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (حصن)
+",000,False,000,False,False,False,3,71
+"### || AUTO باب الحاء مع الضاد
+",000,False,000,False,False,False,2,279
+"### ||| AUTO (حضج)
+",000,False,000,False,False,False,3,59
+"### ||| AUTO (حضر)
+",000,False,000,False,False,False,3,111
+"### || AUTO باب الحاء مع الطاء
+",000,False,000,False,False,False,2,364
+"### ||| AUTO (حطب)
+",000,False,000,False,False,False,3,21
+"### ||| AUTO (حطط)
+",000,False,000,False,False,False,3,71
+"### ||| AUTO (حطم)
+",000,False,000,False,False,False,3,182
+"### || AUTO باب الحاء مع الظاء
+",000,False,000,False,False,False,2,59
+"### || AUTO باب الحاء مع الفاء
+",000,False,000,False,False,False,2,1008
+"### ||| AUTO (حقد)
+",000,False,000,False,False,False,3,132
+"### ||| AUTO (حفر)
+",000,False,000,False,False,False,3,80
+"### ||| AUTO (حفز)
+",000,False,000,False,False,False,3,66
+"### ||| AUTO (حفش)
+",000,False,000,False,False,False,3,50
+"### ||| AUTO (حفظ)
+",000,False,000,False,False,False,3,43
+"### ||| AUTO (حفف)
+",000,False,000,False,False,False,3,165
+"### ||| AUTO (حفل)
+",000,False,000,False,False,False,3,79
+"### ||| AUTO (حفن)
+",000,False,000,False,False,False,3,40
+"### || AUTO باب الحاء مع القاف
+",000,False,000,False,False,False,2,814
+"### ||| AUTO (حقب)
+",000,False,000,False,False,False,3,83
+"### ||| AUTO (حقف)
+",000,False,000,False,False,False,3,71
+"### ||| AUTO (حقق)
+",000,False,000,False,False,False,3,442
+"### ||| AUTO (حقل)
+",000,False,000,False,False,False,3,120
+"### ||| AUTO (حقن)
+",000,False,000,False,False,False,3,50
+"### || AUTO باب الحاء مع الكاف
+",000,False,000,False,False,False,2,461
+"### ||| AUTO (حكك)
+",000,False,000,False,False,False,3,116
+"### || AUTO باب الحاء مع اللام
+",000,False,000,False,False,False,2,1454
+"### ||| AUTO (حلب)
+",000,False,000,False,False,False,3,81
+"### ||| AUTO (حلج)
+",000,False,000,False,False,False,3,54
+"### ||| AUTO (حلس)
+",000,False,000,False,False,False,3,84
+"### ||| AUTO (حلف)
+",000,False,000,False,False,False,3,139
+"### ||| AUTO (حلق)
+",000,False,000,False,False,False,3,264
+"### ||| AUTO (حلل)
+",000,False,000,False,False,False,3,570
+"### ||| AUTO (حلم)
+",000,False,000,False,False,False,3,130
+"### ||| AUTO (حلن)
+",000,False,000,False,False,False,3,67
+"### || AUTO باب الحاء مع الميم
+",000,False,000,False,False,False,2,1617
+"### ||| AUTO (حمأ)
+",000,False,000,False,False,False,3,52
+"### ||| AUTO (حمج)
+",000,False,000,False,False,False,3,48
+"### ||| AUTO (حمد)
+",000,False,000,False,False,False,3,247
+"### ||| AUTO (حمر)
+",000,False,000,False,False,False,3,278
+"### ||| AUTO (حمز)
+",000,False,000,False,False,False,3,61
+"### ||| AUTO (حمس)
+",000,False,000,False,False,False,3,64
+"### ||| AUTO (حمش)
+",000,False,000,False,False,False,3,50
+"### ||| AUTO (حمص)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (حمض)
+",000,False,000,False,False,False,3,91
+"### ||| AUTO (حمل)
+",000,False,000,False,False,False,3,273
+"### || AUTO باب الحاء مع النون
+",000,False,000,False,False,False,2,640
+"### ||| AUTO (حنتم)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (حنث)
+",000,False,000,False,False,False,3,127
+"### ||| AUTO (حينئذ)
+",000,False,000,False,False,False,3,41
+"### ||| AUTO (حنن)
+",000,False,000,False,False,False,3,58
+"### ||| AUTO (حنش)
+",000,False,000,False,False,False,3,15
+"### ||| AUTO (حنط)
+",000,False,000,False,False,False,3,22
+"### ||| AUTO (حتف)
+",000,False,000,False,False,False,3,49
+"### ||| AUTO (حنق)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (حنك)
+",000,False,000,False,False,False,3,52
+"### ||| AUTO (حنن)
+",000,False,000,False,False,False,3,136
+"### || AUTO باب الحاء مع الواو
+",000,False,000,False,False,False,2,1516
+"### ||| AUTO (حوب)
+",000,False,000,False,False,False,3,147
+"### ||| AUTO (حوت)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (حوج)
+",000,False,000,False,False,False,3,65
+"### ||| AUTO (حوذ)
+",000,False,000,False,False,False,3,122
+"### ||| AUTO (حور)
+",000,False,000,False,False,False,3,333
+"### ||| AUTO (حوز)
+",000,False,000,False,False,False,3,139
+"### ||| AUTO (حوس)
+",000,False,000,False,False,False,3,70
+"### ||| AUTO (حوص)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (حوط)
+",000,False,000,False,False,False,3,62
+"### ||| AUTO (حوف)
+",000,False,000,False,False,False,3,21
+"### ||| AUTO (حوق)
+",000,False,000,False,False,False,3,62
+"### ||| AUTO (حول)
+",000,False,000,False,False,False,3,296
+"### ||| AUTO (حوم)
+",000,False,000,False,False,False,3,39
+"### | AUTO كتاب الخاء
+",000,False,000,False,False,False,1,11462
+"### || AUTO باب الخاء مع الباء
+",000,False,000,False,False,False,2,903
+"### ||| AUTO (خبأ)
+",000,False,000,False,False,False,3,24
+"### ||| AUTO (خبب)
+",000,False,000,False,False,False,3,54
+"### ||| AUTO (خبت)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (خبث)
+",000,False,000,False,False,False,3,233
+"### ||| AUTO (خبر)
+",000,False,000,False,False,False,3,156
+"### ||| AUTO (خبط)
+",000,False,000,False,False,False,3,186
+"### ||| AUTO (خبل)
+",000,False,000,False,False,False,3,136
+"### || AUTO باب الخاء مع التاء
+",000,False,000,False,False,False,2,285
+"### ||| AUTO (خنت)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (ختر)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (ختم)
+",000,False,000,False,False,False,3,127
+"### || AUTO باب الخاء مع الجيم
+",000,False,000,False,False,False,2,131
+"### ||| AUTO (خجج)
+",000,False,000,False,False,False,3,50
+"### || AUTO باب الخاء مع الدال
+",000,False,000,False,False,False,2,393
+"### ||| AUTO (خدب)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (خدج)
+",000,False,000,False,False,False,3,128
+"### ||| AUTO (خدد)
+",000,False,000,False,False,False,3,24
+"### ||| AUTO (خدع)
+",000,False,000,False,False,False,3,106
+"### ||| AUTO (خدل)
+",000,False,000,False,False,False,3,13
+"### || AUTO باب الخاء مع الذال
+",000,False,000,False,False,False,2,81
+"### ||| AUTO (حذف)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (خذق)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (خذل)
+",000,False,000,False,False,False,3,8
+"### || AUTO باب الخاء مع الراء
+",000,False,000,False,False,False,2,1615
+"### ||| AUTO (خرأ)
+",000,False,000,False,False,False,3,33
+"### ||| AUTO (خرب)
+",000,False,000,False,False,False,3,104
+"### ||| AUTO (خربش)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (خربص)
+",000,False,000,False,False,False,3,36
+"### ||| AUTO (خرت)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (خرج)
+",000,False,000,False,False,False,3,308
+"### ||| AUTO (خردل)
+",000,False,000,False,False,False,3,52
+"### ||| AUTO (خرر)
+",000,False,000,False,False,False,3,91
+"### ||| AUTO (خرس)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (خرش)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (خوص)
+",000,False,000,False,False,False,3,98
+"### ||| AUTO (خرط)
+",000,False,000,False,False,False,3,95
+"### ||| AUTO (خرطم)
+",000,False,000,False,False,False,3,65
+"### ||| AUTO (خرع)
+",000,False,000,False,False,False,3,67
+"### ||| AUTO (خرف)
+",000,False,000,False,False,False,3,378
+"### ||| AUTO (خرفج)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (خرق)
+",000,False,000,False,False,False,3,125
+"### || AUTO باب الخاء مع الزاي
+",000,False,000,False,False,False,2,433
+"### ||| AUTO (خزر)
+",000,False,000,False,False,False,3,60
+"### ||| AUTO (خزع)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (خزق)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (خزل)
+",000,False,000,False,False,False,3,13
+"### ||| AUTO (خزم)
+",000,False,000,False,False,False,3,124
+"### ||| AUTO (خزن)
+",000,False,000,False,False,False,3,74
+"### || AUTO باب الخاء مع السين
+",000,False,000,False,False,False,2,204
+"### ||| AUTO (خسأ)
+",000,False,000,False,False,False,3,24
+"### ||| AUTO (خسر)
+",000,False,000,False,False,False,3,53
+"### || AUTO باب الخاء مع الشين
+",000,False,000,False,False,False,2,456
+"### ||| AUTO (خشب)
+",000,False,000,False,False,False,3,117
+"### ||| AUTO (خشرم)
+",000,False,000,False,False,False,3,33
+"### ||| AUTO (خشش)
+",000,False,000,False,False,False,3,90
+"### ||| AUTO (خشع)
+",000,False,000,False,False,False,3,102
+"### ||| AUTO (خشف)
+",000,False,000,False,False,False,3,81
+"### || AUTO باب الخاء مع الصاد
+",000,False,000,False,False,False,2,520
+"### ||| AUTO (خصب)
+",000,False,000,False,False,False,3,14
+"### ||| AUTO (خصر)
+",000,False,000,False,False,False,3,188
+"### ||| AUTO (خصص)
+",000,False,000,False,False,False,3,26
+"### ||| AUTO (خصف)
+",000,False,000,False,False,False,3,93
+"### ||| AUTO (خصل)
+",000,False,000,False,False,False,3,76
+"### || AUTO باب الخاء مع الضاد
+",000,False,000,False,False,False,2,602
+"### ||| AUTO (خضب)
+",000,False,000,False,False,False,3,23
+"### ||| AUTO (خضد)
+",000,False,000,False,False,False,3,98
+"### ||| AUTO (خضر)
+",000,False,000,False,False,False,3,222
+"### ||| AUTO (خضرم)
+",000,False,000,False,False,False,3,83
+"### ||| AUTO (خضخض)
+",000,False,000,False,False,False,3,39
+"### ||| AUTO (خضع)
+",000,False,000,False,False,False,3,82
+"### ||| AUTO (خضل)
+",000,False,000,False,False,False,3,36
+"### || AUTO باب الخاء مع الطاء
+",000,False,000,False,False,False,2,923
+"### ||| AUTO (خطأ)
+",000,False,000,False,False,False,3,140
+"### ||| AUTO (خطب)
+",000,False,000,False,False,False,3,52
+"### ||| AUTO (خطر)
+",000,False,000,False,False,False,3,173
+"### ||| AUTO (خطط)
+",000,False,000,False,False,False,3,195
+"### ||| AUTO (خطف)
+",000,False,000,False,False,False,3,107
+"### || AUTO باب الخاء مع الفاء
+",000,False,000,False,False,False,2,640
+"### || AUTO باب الخاء مع القاف
+",000,False,000,False,False,False,2,117
+"### || AUTO باب الخاء مع اللام
+",000,False,000,False,False,False,2,1983
+"### ||| AUTO (خلق)
+",000,False,000,False,False,False,3,364
+"### ||| AUTO (خلل)
+",000,False,000,False,False,False,3,200
+"### || AUTO باب الخاء مع الميم
+",000,False,000,False,False,False,2,712
+"### ||| AUTO (خمد)
+",000,False,000,False,False,False,3,23
+"### ||| AUTO (خمر)
+",000,False,000,False,False,False,3,307
+"### ||| AUTO (خمس)
+",000,False,000,False,False,False,3,71
+"### ||| AUTO (خمش)
+",000,False,000,False,False,False,3,88
+"### ||| AUTO (خمص)
+",000,False,000,False,False,False,3,107
+"### ||| AUTO (خمط)
+",000,False,000,False,False,False,3,10
+"### ||| AUTO (خمل)
+",000,False,000,False,False,False,3,17
+"### || AUTO باب الخاء مع النون
+",000,False,000,False,False,False,2,430
+"### ||| AUTO (خنث)
+",000,False,000,False,False,False,3,58
+"### ||| AUTO (خنز)
+",000,False,000,False,False,False,3,45
+"### ||| AUTO (خنس)
+",000,False,000,False,False,False,3,112
+"### ||| AUTO (خنع)
+",000,False,000,False,False,False,3,15
+"### ||| AUTO (خنف)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (خنق)
+",000,False,000,False,False,False,3,11
+"### ||| AUTO (خنن)
+",000,False,000,False,False,False,3,137
+"### || AUTO باب الخاء مع الواو
+",000,False,000,False,False,False,2,656
+"### ||| AUTO (خوب)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (خوت)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (خوخ)
+",000,False,000,False,False,False,3,34
+"### ||| AUTO (خور)
+",000,False,000,False,False,False,3,98
+"### ||| AUTO (خوص)
+",000,False,000,False,False,False,3,48
+"### ||| AUTO (خوض)
+",000,False,000,False,False,False,3,7
+"### ||| AUTO (خوف)
+",000,False,000,False,False,False,3,73
+"### ||| AUTO (خول)
+",000,False,000,False,False,False,3,158
+"### ||| AUTO (خون)
+",000,False,000,False,False,False,3,68
+"### | AUTO كتاب الدال
+",000,False,000,False,False,False,1,7331
+"### || AUTO باب الدال مع الهمزة
+",000,False,000,False,False,False,2,122
+"### ||| AUTO (دأب)
+",000,False,000,False,False,False,3,103
+"### || AUTO باب الدال مع الباء
+",000,False,000,False,False,False,2,533
+"### ||| AUTO (دبب)
+",000,False,000,False,False,False,3,180
+"### ||| AUTO (دبر)
+",000,False,000,False,False,False,3,320
+"### || AUTO باب الدال مع الثاء
+",000,False,000,False,False,False,2,102
+"### || AUTO باب الدال مع الجيم
+",000,False,000,False,False,False,2,140
+"### ||| AUTO (دجج)
+",000,False,000,False,False,False,3,37
+"### ||| AUTO (دجل)
+",000,False,000,False,False,False,3,69
+"### || AUTO باب الدال مع الحاء
+",000,False,000,False,False,False,2,575
+"### ||| AUTO (دحح)
+",000,False,000,False,False,False,3,34
+"### ||| AUTO (دحر)
+",000,False,000,False,False,False,3,35
+"### ||| AUTO (دحس)
+",000,False,000,False,False,False,3,79
+"### ||| AUTO (دحص)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (دحض)
+",000,False,000,False,False,False,3,85
+"### ||| AUTO (دحق)
+",000,False,000,False,False,False,3,36
+"### ||| AUTO (دحل)
+",000,False,000,False,False,False,3,92
+"### ||| AUTO (دحم)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (دحمس)
+",000,False,000,False,False,False,3,22
+"### || AUTO باب الدال مع الخاء
+",000,False,000,False,False,False,2,295
+"### ||| AUTO (دخر)
+",000,False,000,False,False,False,3,5
+"### ||| AUTO (دخس)
+",000,False,000,False,False,False,3,49
+"### ||| AUTO (دخل)
+",000,False,000,False,False,False,3,169
+"### || AUTO باب الدال مع الدال
+",000,False,000,False,False,False,2,41
+"### || AUTO باب الدال مع الراء
+",000,False,000,False,False,False,2,783
+"### ||| AUTO (درأ)
+",000,False,000,False,False,False,3,217
+"### ||| AUTO (درج)
+",000,False,000,False,False,False,3,108
+"### ||| AUTO (درد)
+",000,False,000,False,False,False,3,21
+"### ||| AUTO (درر)
+",000,False,000,False,False,False,3,228
+"### ||| AUTO (درك)
+",000,False,000,False,False,False,3,70
+"### ||| AUTO (دركل)
+",000,False,000,False,False,False,3,45
+"### ||| AUTO (درن)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (دره)
+",000,False,000,False,False,False,3,41
+"### || AUTO باب الدال مع السين
+",000,False,000,False,False,False,2,332
+"### ||| AUTO (دسر)
+",000,False,000,False,False,False,3,119
+"### ||| AUTO (دسس)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (دسع)
+",000,False,000,False,False,False,3,74
+"### || AUTO باب الدال مع الشين
+",000,False,000,False,False,False,2,22
+"### || AUTO باب الدال مع العين
+",000,False,000,False,False,False,2,651
+"### ||| AUTO (دعب)
+",000,False,000,False,False,False,3,23
+"### ||| AUTO (دعثر)
+",000,False,000,False,False,False,3,13
+"### ||| AUTO (دعس)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (دعع)
+",000,False,000,False,False,False,3,157
+"### || AUTO باب الدال مع الغين
+",000,False,000,False,False,False,2,196
+"### ||| AUTO (دغر)
+",000,False,000,False,False,False,3,67
+"### ||| AUTO (دغفق)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (دغل)
+",000,False,000,False,False,False,3,42
+"### || AUTO باب الدال مع الفاء
+",000,False,000,False,False,False,2,484
+"### ||| AUTO (دفأ)
+",000,False,000,False,False,False,3,115
+"### ||| AUTO (دفر)
+",000,False,000,False,False,False,3,76
+"### ||| AUTO (دفف)
+",000,False,000,False,False,False,3,172
+"### ||| AUTO (دفق)
+",000,False,000,False,False,False,3,25
+"### || AUTO باب الدال مع القاف
+",000,False,000,False,False,False,2,70
+"### ||| AUTO (دقع)
+",000,False,000,False,False,False,3,40
+"### || AUTO باب الدال مع الكاف
+",000,False,000,False,False,False,2,172
+"### ||| AUTO (دكك)
+",000,False,000,False,False,False,3,95
+"### ||| AUTO (دكدك)
+",000,False,000,False,False,False,3,42
+"### || AUTO باب الدال مع اللام
+",000,False,000,False,False,False,2,540
+"### ||| AUTO (دلث)
+",000,False,000,False,False,False,3,15
+"### ||| AUTO (دلح)
+",000,False,000,False,False,False,3,45
+"### ||| AUTO (دلس)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (دلع)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (دلق)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (دلف)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (دلك)
+",000,False,000,False,False,False,3,88
+"### ||| AUTO (دلل)
+",000,False,000,False,False,False,3,193
+"### || AUTO باب الدال مع الميم
+",000,False,000,False,False,False,2,566
+"### ||| AUTO (دمث)
+",000,False,000,False,False,False,3,80
+"### ||| AUTO (دمج)
+",000,False,000,False,False,False,3,37
+"### ||| AUTO (دمر)
+",000,False,000,False,False,False,3,33
+"### ||| AUTO (دمس)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (دمع)
+",000,False,000,False,False,False,3,23
+"### ||| AUTO (دمغ)
+",000,False,000,False,False,False,3,42
+"### ||| AUTO (دمق)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (دمك)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (دمل)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (دملق)
+",000,False,000,False,False,False,3,32
+"### ||| AUTO (دمم)
+",000,False,000,False,False,False,3,68
+"### ||| AUTO (دمن)
+",000,False,000,False,False,False,3,94
+"### || AUTO باب الدال مع النون
+",000,False,000,False,False,False,2,159
+"### ||| AUTO (دنق)
+",000,False,000,False,False,False,3,21
+"### ||| AUTO (دندن)
+",000,False,000,False,False,False,3,28
+"### || AUTO باب الدال مع الواو
+",000,False,000,False,False,False,2,738
+"### ||| AUTO (دولج)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (دوح)
+",000,False,000,False,False,False,3,24
+"### ||| AUTO (دوخ)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (دور)
+",000,False,000,False,False,False,3,226
+"### ||| AUTO (دوس)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (دوك)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (دول)
+",000,False,000,False,False,False,3,65
+"### ||| AUTO (دوم)
+",000,False,000,False,False,False,3,220
+"### || AUTO باب الدال مع الهاء
+",000,False,000,False,False,False,2,461
+"### ||| AUTO (دهر)
+",000,False,000,False,False,False,3,139
+"### ||| AUTO (دهس)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (دهق)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (دهم)
+",000,False,000,False,False,False,3,128
+"### ||| AUTO (دهمق)
+",000,False,000,False,False,False,3,24
+"### ||| AUTO (دهن)
+",000,False,000,False,False,False,3,115
+"### | AUTO كتاب الذال
+",000,False,000,False,False,False,1,2778
+"### || AUTO باب الذال مع الهمزة
+",000,False,000,False,False,False,2,135
+"### ||| AUTO (ذأر)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (ذأل)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (ذأم)
+",000,False,000,False,False,False,3,26
+"### || AUTO باب الذال مع الباء
+",000,False,000,False,False,False,2,268
+"### ||| AUTO (ذبب)
+",000,False,000,False,False,False,3,103
+"### ||| AUTO (ذبح)
+",000,False,000,False,False,False,3,111
+"### || AUTO باب الذال مع الراء
+",000,False,000,False,False,False,2,451
+"### ||| AUTO (ذرأ)
+",000,False,000,False,False,False,3,47
+"### ||| AUTO (ذرب)
+",000,False,000,False,False,False,3,99
+"### ||| AUTO (ذرر)
+",000,False,000,False,False,False,3,65
+"### ||| AUTO (ذرع)
+",000,False,000,False,False,False,3,117
+"### ||| AUTO (ذرف)
+",000,False,000,False,False,False,3,17
+"### || AUTO باب الذال مع العين
+",000,False,000,False,False,False,2,133
+"### ||| AUTO (ذعت)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (ذعر)
+",000,False,000,False,False,False,3,47
+"### ||| AUTO (ذعع)
+",000,False,000,False,False,False,3,28
+"### || AUTO باب الذال مع القاف
+",000,False,000,False,False,False,2,56
+"### || AUTO باب الذال مع الكاف
+",000,False,000,False,False,False,2,321
+"### ||| AUTO (ذكر)
+",000,False,000,False,False,False,3,242
+"### || AUTO باب الذال مع اللام
+",000,False,000,False,False,False,2,519
+"### ||| AUTO (ذلق)
+",000,False,000,False,False,False,3,107
+"### || AUTO باب الذال مع الميم
+",000,False,000,False,False,False,2,374
+"### ||| AUTO (ذمر)
+",000,False,000,False,False,False,3,68
+"### || AUTO باب الذال مع النون
+",000,False,000,False,False,False,2,96
+"### || AUTO باب الذال مع الواو
+",000,False,000,False,False,False,2,212
+"### ||| AUTO (ذوب)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (ذود)
+",000,False,000,False,False,False,3,49
+"### ||| AUTO (ذوط)
+",000,False,000,False,False,False,3,15
+"### || AUTO باب الذال مع الهاء
+",000,False,000,False,False,False,2,58
+"### ||| AUTO (ذهب)
+",000,False,000,False,False,False,3,38
+"### | AUTO كتاب الراء
+",000,False,000,False,False,False,1,15174
+"### || AUTO باب الراء مع الهمزة
+",000,False,000,False,False,False,2,481
+"### ||| AUTO (رأس)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (رأف)
+",000,False,000,False,False,False,3,40
+"### || AUTO باب الراء مع الباء
+",000,False,000,False,False,False,2,1675
+"### ||| AUTO (ربب)
+",000,False,000,False,False,False,3,353
+"### ||| AUTO (ربث)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (ربح)
+",000,False,000,False,False,False,3,50
+"### ||| AUTO (ربد)
+",000,False,000,False,False,False,3,122
+"### ||| AUTO (ربذ)
+",000,False,000,False,False,False,3,61
+"### ||| AUTO (ربض)
+",000,False,000,False,False,False,3,202
+"### ||| AUTO (ربط)
+",000,False,000,False,False,False,3,155
+"### ||| AUTO (ربع)
+",000,False,000,False,False,False,3,284
+"### ||| AUTO (ربغ)
+",000,False,000,False,False,False,3,23
+"### ||| AUTO (ربق)
+",000,False,000,False,False,False,3,118
+"### ||| AUTO (ربك)
+",000,False,000,False,False,False,3,39
+"### ||| AUTO (ربل)
+",000,False,000,False,False,False,3,56
+"### || AUTO باب الراء مع التاء
+",000,False,000,False,False,False,2,372
+"### ||| AUTO (رتب)
+",000,False,000,False,False,False,3,42
+"### ||| AUTO (رتج)
+",000,False,000,False,False,False,3,60
+"### ||| AUTO (رتع)
+",000,False,000,False,False,False,3,102
+"### ||| AUTO (رتق)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (رتك)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (رتل)
+",000,False,000,False,False,False,3,25
+"### || AUTO باب الراء مع الثاء
+",000,False,000,False,False,False,2,237
+"### ||| AUTO (رثأ)
+",000,False,000,False,False,False,3,48
+"### ||| AUTO (رثث)
+",000,False,000,False,False,False,3,67
+"### ||| AUTO (رثد)
+",000,False,000,False,False,False,3,45
+"### ||| AUTO (رثع)
+",000,False,000,False,False,False,3,36
+"### || AUTO باب الراء مع الجيم
+",000,False,000,False,False,False,2,1124
+"### ||| AUTO (رجب)
+",000,False,000,False,False,False,3,96
+"### ||| AUTO (رجج)
+",000,False,000,False,False,False,3,102
+"### ||| AUTO (رجح)
+",000,False,000,False,False,False,3,15
+"### ||| AUTO (رجز)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (رجس)
+",000,False,000,False,False,False,3,89
+"### ||| AUTO (رجع)
+",000,False,000,False,False,False,3,223
+"### ||| AUTO (رجف)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (رجل)
+",000,False,000,False,False,False,3,233
+"### ||| AUTO (رجم)
+",000,False,000,False,False,False,3,109
+"### ||| AUTO (رجن)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (رجو)
+",000,False,000,False,False,False,3,105
+"### || AUTO باب الراء مع الحاء
+",000,False,000,False,False,False,2,816
+"### ||| AUTO (رحب)
+",000,False,000,False,False,False,3,64
+"### ||| AUTO (رحرح)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (رحض)
+",000,False,000,False,False,False,3,55
+"### ||| AUTO (رحق)
+",000,False,000,False,False,False,3,11
+"### ||| AUTO (رحل)
+",000,False,000,False,False,False,3,419
+"### ||| AUTO (رحم)
+",000,False,000,False,False,False,3,142
+"### || AUTO باب الراء مع الخاء
+",000,False,000,False,False,False,2,83
+"### ||| AUTO (رخخ)
+",000,False,000,False,False,False,3,21
+"### ||| AUTO (رخم)
+",000,False,000,False,False,False,3,37
+"### || AUTO باب الراء مع الدال
+",000,False,000,False,False,False,2,735
+"### ||| AUTO (ردأ)
+",000,False,000,False,False,False,3,9
+"### ||| AUTO (ردأ)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (ردب)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (ردح)
+",000,False,000,False,False,False,3,118
+"### ||| AUTO (ردد)
+",000,False,000,False,False,False,3,170
+"### ||| AUTO (ردع)
+",000,False,000,False,False,False,3,127
+"### ||| AUTO (ردف)
+",000,False,000,False,False,False,3,89
+"### ||| AUTO (رده)
+",000,False,000,False,False,False,3,27
+"### || AUTO باب الراء مع الذال
+",000,False,000,False,False,False,2,36
+"### ||| AUTO (رذل)
+",000,False,000,False,False,False,3,16
+"### || AUTO باب الراء مع الزاي
+",000,False,000,False,False,False,2,219
+"### ||| AUTO (رزز)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (رزغ)
+",000,False,000,False,False,False,3,21
+"### ||| AUTO (رزق)
+",000,False,000,False,False,False,3,41
+"### || AUTO باب الراء مع السين
+",000,False,000,False,False,False,2,697
+"### ||| AUTO (رسخ)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (رسس)
+",000,False,000,False,False,False,3,123
+"### ||| AUTO (رسع)
+",000,False,000,False,False,False,3,34
+"### ||| AUTO (رسل)
+",000,False,000,False,False,False,3,418
+"### ||| AUTO (رسم)
+",000,False,000,False,False,False,3,15
+"### ||| AUTO (رسن)
+",000,False,000,False,False,False,3,33
+"### || AUTO باب الراء مع الشين
+",000,False,000,False,False,False,2,99
+"### ||| AUTO (رشح)
+",000,False,000,False,False,False,3,32
+"### ||| AUTO (رشد)
+",000,False,000,False,False,False,3,41
+"### || AUTO باب الراء مع الصاد
+",000,False,000,False,False,False,2,324
+"### ||| AUTO (رصح)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (رصد)
+",000,False,000,False,False,False,3,165
+"### ||| AUTO (رصص)
+",000,False,000,False,False,False,3,53
+"### || AUTO باب الراء مع الضاد
+",000,False,000,False,False,False,2,384
+"### ||| AUTO (رضب)
+",000,False,000,False,False,False,3,50
+"### ||| AUTO (رضخ)
+",000,False,000,False,False,False,3,55
+"### ||| AUTO (رضرض)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (رضع)
+",000,False,000,False,False,False,3,118
+"### ||| AUTO (رضف)
+",000,False,000,False,False,False,3,77
+"### ||| AUTO (رضم)
+",000,False,000,False,False,False,3,40
+"### || AUTO باب الراء مع الطاء
+",000,False,000,False,False,False,2,46
+"### || AUTO باب الراء مع العين
+",000,False,000,False,False,False,2,422
+"### ||| AUTO (رعبل)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (رعث)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (رعج)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (رعص)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (رعص)
+",000,False,000,False,False,False,3,39
+"### ||| AUTO (رعرع)
+",000,False,000,False,False,False,3,24
+"### ||| AUTO (رعف)
+",000,False,000,False,False,False,3,94
+"### ||| AUTO (رعل)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (رعم)
+",000,False,000,False,False,False,3,21
+"### ||| AUTO (رعن)
+",000,False,000,False,False,False,3,41
+"### || AUTO باب الراء مع الغين
+",000,False,000,False,False,False,2,508
+"### ||| AUTO (رعب)
+",000,False,000,False,False,False,3,183
+"### ||| AUTO (رغث)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (رغد)
+",000,False,000,False,False,False,3,34
+"### ||| AUTO (رغس)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (رغل)
+",000,False,000,False,False,False,3,32
+"### ||| AUTO (رغم)
+",000,False,000,False,False,False,3,170
+"### || AUTO باب الراء مع الفاء
+",000,False,000,False,False,False,2,1102
+"### ||| AUTO (رفأ)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (رفت)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (رفث)
+",000,False,000,False,False,False,3,75
+"### ||| AUTO (رفح)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (رفد)
+",000,False,000,False,False,False,3,138
+"### ||| AUTO (رفش)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (رفع)
+",000,False,000,False,False,False,3,76
+"### ||| AUTO (رفغ)
+",000,False,000,False,False,False,3,97
+"### ||| AUTO (رفرف)
+",000,False,000,False,False,False,3,88
+"### ||| AUTO (رفف)
+",000,False,000,False,False,False,3,292
+"### ||| AUTO (رفل)
+",000,False,000,False,False,False,3,67
+"### || AUTO باب الراء مع القاف
+",000,False,000,False,False,False,2,722
+"### ||| AUTO (رقب)
+",000,False,000,False,False,False,3,130
+"### ||| AUTO (رقش)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (رقط)
+",000,False,000,False,False,False,3,99
+"### ||| AUTO (رقع)
+",000,False,000,False,False,False,3,70
+"### ||| AUTO (رقق)
+",000,False,000,False,False,False,3,260
+"### ||| AUTO (رقل)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (رقم)
+",000,False,000,False,False,False,3,86
+"### || AUTO باب الراء مع الكاف
+",000,False,000,False,False,False,2,675
+"### ||| AUTO (ركب)
+",000,False,000,False,False,False,3,131
+"### ||| AUTO (ركح)
+",000,False,000,False,False,False,3,34
+"### ||| AUTO (ركد)
+",000,False,000,False,False,False,3,26
+"### ||| AUTO (ركز)
+",000,False,000,False,False,False,3,81
+"### ||| AUTO (ركس)
+",000,False,000,False,False,False,3,74
+"### ||| AUTO (ركض)
+",000,False,000,False,False,False,3,101
+"### ||| AUTO (ركك)
+",000,False,000,False,False,False,3,47
+"### ||| AUTO (ركم)
+",000,False,000,False,False,False,3,15
+"### ||| AUTO (ركن)
+",000,False,000,False,False,False,3,120
+"### || AUTO باب الراء مع الميم
+",000,False,000,False,False,False,2,1308
+"### ||| AUTO (رمث)
+",000,False,000,False,False,False,3,24
+"### ||| AUTO (رمد)
+",000,False,000,False,False,False,3,135
+"### ||| AUTO (رمس)
+",000,False,000,False,False,False,3,33
+"### ||| AUTO (رمض)
+",000,False,000,False,False,False,3,119
+"### ||| AUTO (رمع)
+",000,False,000,False,False,False,3,59
+"### ||| AUTO (رمق)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (رمك)
+",000,False,000,False,False,False,3,11
+"### ||| AUTO (رمل)
+",000,False,000,False,False,False,3,505
+"### ||| AUTO (رمم)
+",000,False,000,False,False,False,3,270
+"### || AUTO باب الراء مع النون
+",000,False,000,False,False,False,2,104
+"### ||| AUTO (رنأ)
+",000,False,000,False,False,False,3,33
+"### ||| AUTO (رنح)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (رنف)
+",000,False,000,False,False,False,3,21
+"### || AUTO باب الراء مع الواو
+",000,False,000,False,False,False,2,1366
+"### ||| AUTO (روث)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (روح)
+",000,False,000,False,False,False,3,471
+"### ||| AUTO (رود)
+",000,False,000,False,False,False,3,234
+"### ||| AUTO (روز)
+",000,False,000,False,False,False,3,22
+"### ||| AUTO (روض)
+",000,False,000,False,False,False,3,80
+"### ||| AUTO (روع)
+",000,False,000,False,False,False,3,209
+"### ||| AUTO (روغ)
+",000,False,000,False,False,False,3,57
+"### ||| AUTO (روق)
+",000,False,000,False,False,False,3,117
+"### ||| AUTO (روم)
+",000,False,000,False,False,False,3,33
+"### || AUTO باب الراء مع الهاء
+",000,False,000,False,False,False,2,957
+"### ||| AUTO (رهب)
+",000,False,000,False,False,False,3,120
+"### ||| AUTO (رهس)
+",000,False,000,False,False,False,3,37
+"### ||| AUTO (رهص)
+",000,False,000,False,False,False,3,23
+"### ||| AUTO (رهط)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (رهق)
+",000,False,000,False,False,False,3,237
+"### ||| AUTO (رهمس)
+",000,False,000,False,False,False,3,32
+"### ||| AUTO (رهن)
+",000,False,000,False,False,False,3,82
+"### ||| AUTO (رها)
+",000,False,000,False,False,False,3,245
+"### | AUTO كتاب الزاي
+",000,False,000,False,False,False,1,4432
+"### || AUTO باب الزاي مع الباء
+",000,False,000,False,False,False,2,470
+"### ||| AUTO (زبب)
+",000,False,000,False,False,False,3,95
+"### ||| AUTO (زبد)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (زبر)
+",000,False,000,False,False,False,3,106
+"### ||| AUTO (زبع)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (زبن)
+",000,False,000,False,False,False,3,185
+"### || AUTO باب الزاي مع الجيم
+",000,False,000,False,False,False,2,117
+"### ||| AUTO (زجج)
+",000,False,000,False,False,False,3,58
+"### ||| AUTO (زجل)
+",000,False,000,False,False,False,3,21
+"### || AUTO باب الزاي مع الحاء
+",000,False,000,False,False,False,2,177
+"### ||| AUTO (زحزح)
+",000,False,000,False,False,False,3,88
+"### ||| AUTO (زحف)
+",000,False,000,False,False,False,3,34
+"### || AUTO باب الزاي مع الخاء
+",000,False,000,False,False,False,2,180
+"### ||| AUTO (زخخ)
+",000,False,000,False,False,False,3,76
+"### ||| AUTO (زخرف)
+",000,False,000,False,False,False,3,73
+"### || AUTO باب الزاي مع الراء
+",000,False,000,False,False,False,2,285
+"### ||| AUTO (زرب)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (زرر)
+",000,False,000,False,False,False,3,36
+"### ||| AUTO (زرف)
+",000,False,000,False,False,False,3,33
+"### ||| AUTO (زرق)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (زرم)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (زرنب)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (زرنق)
+",000,False,000,False,False,False,3,53
+"### ||| AUTO (زرمق)
+",000,False,000,False,False,False,3,14
+"### || AUTO باب الزاي مع العين
+",000,False,000,False,False,False,2,138
+"### ||| AUTO (زعب)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (زعنف)
+",000,False,000,False,False,False,3,38
+"### || AUTO باب الزاي مع الفاء
+",000,False,000,False,False,False,2,181
+"### ||| AUTO (زفت)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (زفر)
+",000,False,000,False,False,False,3,73
+"### || AUTO باب الزاي مع القاف
+",000,False,000,False,False,False,2,149
+"### ||| AUTO (زقف)
+",000,False,000,False,False,False,3,72
+"### || AUTO باب الزاي مع الكاف
+",000,False,000,False,False,False,2,162
+"### || AUTO باب الزاي مع اللام
+",000,False,000,False,False,False,2,548
+"### ||| AUTO (زلحف)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (زلخ)
+",000,False,000,False,False,False,3,68
+"### ||| AUTO (زلع)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (زلف)
+",000,False,000,False,False,False,3,127
+"### ||| AUTO (زلق)
+",000,False,000,False,False,False,3,56
+"### ||| AUTO (زلزل)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (زلل)
+",000,False,000,False,False,False,3,75
+"### || AUTO باب الزاي مع الميم
+",000,False,000,False,False,False,2,487
+"### ||| AUTO (زمت)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (زمر)
+",000,False,000,False,False,False,3,161
+"### ||| AUTO (زمل)
+",000,False,000,False,False,False,3,62
+"### ||| AUTO (زمم)
+",000,False,000,False,False,False,3,54
+"### ||| AUTO (زمزم)
+",000,False,000,False,False,False,3,66
+"### ||| AUTO (زمن)
+",000,False,000,False,False,False,3,94
+"### || AUTO باب الزاي مع النون
+",000,False,000,False,False,False,2,169
+"### ||| AUTO (زنأ)
+",000,False,000,False,False,False,3,58
+"### ||| AUTO (زنخ)
+",000,False,000,False,False,False,3,14
+"### ||| AUTO (زند)
+",000,False,000,False,False,False,3,10
+"### ||| AUTO (زنق)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (زنم)
+",000,False,000,False,False,False,3,22
+"### ||| AUTO (زنن)
+",000,False,000,False,False,False,3,26
+"### || AUTO باب الزاي مع الواو
+",000,False,000,False,False,False,2,582
+"### ||| AUTO (زوج)
+",000,False,000,False,False,False,3,168
+"### ||| AUTO (زور)
+",000,False,000,False,False,False,3,209
+"### ||| AUTO (زوق)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (زول)
+",000,False,000,False,False,False,3,84
+"### || AUTO باب الزاي مع الهاء
+",000,False,000,False,False,False,2,423
+"### ||| AUTO (زهد)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (زهر)
+",000,False,000,False,False,False,3,198
+"### ||| AUTO (زهق)
+",000,False,000,False,False,False,3,138
+"### | AUTO كتاب السين
+",000,False,000,False,False,False,1,14258
+"### || AUTO باب السين مع الهمزة
+",000,False,000,False,False,False,2,143
+"### ||| AUTO (سأب)
+",000,False,000,False,False,False,3,16
+"### || AUTO باب السين مع الباء
+",000,False,000,False,False,False,2,1659
+"### ||| AUTO (سبب)
+",000,False,000,False,False,False,3,159
+"### ||| AUTO (سبت)
+",000,False,000,False,False,False,3,164
+"### ||| AUTO (سبج)
+",000,False,000,False,False,False,3,32
+"### ||| AUTO (سبح)
+",000,False,000,False,False,False,3,245
+"### ||| AUTO (سبخ)
+",000,False,000,False,False,False,3,42
+"### ||| AUTO (سبد)
+",000,False,000,False,False,False,3,34
+"### ||| AUTO (سبر)
+",000,False,000,False,False,False,3,54
+"### ||| AUTO (سبط)
+",000,False,000,False,False,False,3,192
+"### ||| AUTO (سبطر)
+",000,False,000,False,False,False,3,12
+"### ||| AUTO (سبع)
+",000,False,000,False,False,False,3,348
+"### ||| AUTO (سبغ)
+",000,False,000,False,False,False,3,39
+"### ||| AUTO (سبق)
+",000,False,000,False,False,False,3,61
+"### || AUTO باب السين مع التاء
+",000,False,000,False,False,False,2,118
+"### ||| AUTO (ستر)
+",000,False,000,False,False,False,3,51
+"### ||| AUTO (ستل)
+",000,False,000,False,False,False,3,37
+"### || AUTO باب السين مع الجيم
+",000,False,000,False,False,False,2,756
+"### ||| AUTO (سجج)
+",000,False,000,False,False,False,3,63
+"### ||| AUTO (سجح)
+",000,False,000,False,False,False,3,65
+"### ||| AUTO (سجد)
+",000,False,000,False,False,False,3,263
+"### ||| AUTO (سجر)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (سجس)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (سجع)
+",000,False,000,False,False,False,3,51
+"### ||| AUTO (سجل)
+",000,False,000,False,False,False,3,204
+"### ||| AUTO (سجن)
+",000,False,000,False,False,False,3,36
+"### || AUTO باب السين مع الحاء
+",000,False,000,False,False,False,2,638
+"### ||| AUTO (سحت)
+",000,False,000,False,False,False,3,68
+"### ||| AUTO (سحح)
+",000,False,000,False,False,False,3,121
+"### ||| AUTO (سحر)
+",000,False,000,False,False,False,3,157
+"### ||| AUTO (سحط)
+",000,False,000,False,False,False,3,12
+"### ||| AUTO (سحق)
+",000,False,000,False,False,False,3,39
+"### || AUTO باب السين مع الخاء
+",000,False,000,False,False,False,2,353
+"### ||| AUTO (سخب)
+",000,False,000,False,False,False,3,73
+"### ||| AUTO (سخبر)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (سخد)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (سخر)
+",000,False,000,False,False,False,3,118
+"### ||| AUTO (سخف)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (سخل)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (سخم)
+",000,False,000,False,False,False,3,28
+"### || AUTO باب السين مع الدال
+",000,False,000,False,False,False,2,522
+"### ||| AUTO (سدد)
+",000,False,000,False,False,False,3,320
+"### ||| AUTO (سدف)
+",000,False,000,False,False,False,3,103
+"### ||| AUTO (سدل)
+",000,False,000,False,False,False,3,33
+"### ||| AUTO (سدن)
+",000,False,000,False,False,False,3,15
+"### || AUTO باب السين مع الراء
+",000,False,000,False,False,False,2,1284
+"### ||| AUTO (سرب)
+",000,False,000,False,False,False,3,134
+"### ||| AUTO (سرج)
+",000,False,000,False,False,False,3,12
+"### ||| AUTO (سرح)
+",000,False,000,False,False,False,3,170
+"### ||| AUTO (سردح)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (سرد)
+",000,False,000,False,False,False,3,48
+"### ||| AUTO (سردق)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (سرر)
+",000,False,000,False,False,False,3,401
+"### ||| AUTO (سرع)
+",000,False,000,False,False,False,3,58
+"### ||| AUTO (سرف)
+",000,False,000,False,False,False,3,81
+"### ||| AUTO (سرق)
+",000,False,000,False,False,False,3,118
+"### ||| AUTO (سرمد)
+",000,False,000,False,False,False,3,10
+"### || AUTO باب السين مع الطاء
+",000,False,000,False,False,False,2,252
+"### ||| AUTO (سطح)
+",000,False,000,False,False,False,3,53
+"### ||| AUTO (سطر)
+",000,False,000,False,False,False,3,95
+"### ||| AUTO (سطع)
+",000,False,000,False,False,False,3,63
+"### ||| AUTO (سطم)
+",000,False,000,False,False,False,3,23
+"### || AUTO باب السين مع العين
+",000,False,000,False,False,False,2,651
+"### ||| AUTO (سعد)
+",000,False,000,False,False,False,3,250
+"### ||| AUTO (سعر)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (سعسع)
+",000,False,000,False,False,False,3,41
+"### ||| AUTO (سعن)
+",000,False,000,False,False,False,3,77
+"### || AUTO باب السين مع الغين
+",000,False,000,False,False,False,2,59
+"### ||| AUTO (سغب)
+",000,False,000,False,False,False,3,40
+"### || AUTO باب السين مع الفاء
+",000,False,000,False,False,False,2,729
+"### ||| AUTO (سفح)
+",000,False,000,False,False,False,3,34
+"### ||| AUTO (سفر)
+",000,False,000,False,False,False,3,175
+"### ||| AUTO (سفع)
+",000,False,000,False,False,False,3,220
+"### ||| AUTO (سفف)
+",000,False,000,False,False,False,3,81
+"### ||| AUTO (سفسف)
+",000,False,000,False,False,False,3,33
+"### ||| AUTO (سفل)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (سفه)
+",000,False,000,False,False,False,3,130
+"### || AUTO باب السين مع القاف
+",000,False,000,False,False,False,2,281
+"### ||| AUTO (سقد)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (سقط)
+",000,False,000,False,False,False,3,70
+"### ||| AUTO (سقف)
+",000,False,000,False,False,False,3,53
+"### ||| AUTO (سقسق)
+",000,False,000,False,False,False,3,26
+"### || AUTO باب السين مع الكاف
+",000,False,000,False,False,False,2,971
+"### ||| AUTO (سكب)
+",000,False,000,False,False,False,3,86
+"### ||| AUTO (سكت)
+",000,False,000,False,False,False,3,55
+"### ||| AUTO (سكر)
+",000,False,000,False,False,False,3,192
+"### ||| AUTO (سكك)
+",000,False,000,False,False,False,3,196
+"### || AUTO باب السين مع اللام
+",000,False,000,False,False,False,2,1386
+"### ||| AUTO (سلب)
+",000,False,000,False,False,False,3,113
+"### ||| AUTO (سلت)
+",000,False,000,False,False,False,3,93
+"### ||| AUTO (سلخ)
+",000,False,000,False,False,False,3,81
+"### ||| AUTO (سلسل)
+",000,False,000,False,False,False,3,48
+"### ||| AUTO (سلط)
+",000,False,000,False,False,False,3,65
+"### ||| AUTO (سلف)
+",000,False,000,False,False,False,3,119
+"### ||| AUTO (سلفع)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (سلق)
+",000,False,000,False,False,False,3,21
+"### ||| AUTO (سلق)
+",000,False,000,False,False,False,3,119
+"### ||| AUTO (سلك)
+",000,False,000,False,False,False,3,37
+"### ||| AUTO (سلل)
+",000,False,000,False,False,False,3,66
+"### ||| AUTO (سلم)
+",000,False,000,False,False,False,3,566
+"### || AUTO باب السين مع الميم
+",000,False,000,False,False,False,2,1196
+"### ||| AUTO (سمت)
+",000,False,000,False,False,False,3,73
+"### ||| AUTO (سمح)
+",000,False,000,False,False,False,3,60
+"### ||| AUTO (سمد)
+",000,False,000,False,False,False,3,61
+"### ||| AUTO (سمر)
+",000,False,000,False,False,False,3,110
+"### ||| AUTO (سمسر)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (سمع)
+",000,False,000,False,False,False,3,481
+"### ||| AUTO (سمعمع)
+",000,False,000,False,False,False,3,11
+"### ||| AUTO (سمك)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (سمل)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (سمم)
+",000,False,000,False,False,False,3,33
+"### ||| AUTO (سمن)
+",000,False,000,False,False,False,3,55
+"### || AUTO باب السين مع النون
+",000,False,000,False,False,False,2,1078
+"### ||| AUTO (سنبك)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (سنبل)
+",000,False,000,False,False,False,3,33
+"### ||| AUTO (سنت)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (سنحنح)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (سنحف)
+",000,False,000,False,False,False,3,14
+"### ||| AUTO (سنخ)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (سند)
+",000,False,000,False,False,False,3,44
+"### ||| AUTO (سندس)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (سندر)
+",000,False,000,False,False,False,3,73
+"### ||| AUTO (سنم)
+",000,False,000,False,False,False,3,56
+"### ||| AUTO (سنن)
+",000,False,000,False,False,False,3,534
+"### || AUTO باب السين مع الواو
+",000,False,000,False,False,False,2,1676
+"### ||| AUTO (سوأ)
+",000,False,000,False,False,False,3,239
+"### ||| AUTO (سود)
+",000,False,000,False,False,False,3,423
+"### ||| AUTO (سور)
+",000,False,000,False,False,False,3,114
+"### ||| AUTO (سوط)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (سوع)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (سوف)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (سوق)
+",000,False,000,False,False,False,3,248
+"### ||| AUTO (سول)
+",000,False,000,False,False,False,3,14
+"### ||| AUTO (سوم)
+",000,False,000,False,False,False,3,260
+"### || AUTO باب السين مع الهاء
+",000,False,000,False,False,False,2,155
+"### ||| AUTO (سهر)
+",000,False,000,False,False,False,3,12
+"### ||| AUTO (سهم)
+",000,False,000,False,False,False,3,35
+"### ||| AUTO (سها)
+",000,False,000,False,False,False,3,90
+"### | AUTO كتاب الشين
+",000,False,000,False,False,False,1,12176
+"### || AUTO باب الشين مع الهمزة
+",000,False,000,False,False,False,2,181
+"### ||| AUTO (شأز)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (شأف)
+",000,False,000,False,False,False,3,91
+"### || AUTO باب الشين مع الباء
+",000,False,000,False,False,False,2,549
+"### ||| AUTO (شبب)
+",000,False,000,False,False,False,3,121
+"### ||| AUTO (شبح)
+",000,False,000,False,False,False,3,63
+"### ||| AUTO (شبدع)
+",000,False,000,False,False,False,3,32
+"### ||| AUTO (شبر)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (شبع)
+",000,False,000,False,False,False,3,65
+"### ||| AUTO (شبق)
+",000,False,000,False,False,False,3,24
+"### ||| AUTO (شبك)
+",000,False,000,False,False,False,3,47
+"### ||| AUTO (شبم)
+",000,False,000,False,False,False,3,35
+"### || AUTO باب الشين مع التاء
+",000,False,000,False,False,False,2,126
+"### ||| AUTO (شتت)
+",000,False,000,False,False,False,3,51
+"### ||| AUTO (شتر)
+",000,False,000,False,False,False,3,15
+"### || AUTO باب الشين مع الثاء
+",000,False,000,False,False,False,2,114
+"### || AUTO باب الشين مع الجيم
+",000,False,000,False,False,False,2,476
+"### ||| AUTO (شجب)
+",000,False,000,False,False,False,3,72
+"### ||| AUTO (شجج)
+",000,False,000,False,False,False,3,57
+"### ||| AUTO (شجر)
+",000,False,000,False,False,False,3,249
+"### ||| AUTO (شجع)
+",000,False,000,False,False,False,3,23
+"### ||| AUTO (شجن)
+",000,False,000,False,False,False,3,47
+"### || AUTO باب الشين مع الحاء
+",000,False,000,False,False,False,2,257
+"### ||| AUTO (شحح)
+",000,False,000,False,False,False,3,115
+"### ||| AUTO (شحط)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (شحن)
+",000,False,000,False,False,False,3,39
+"### || AUTO باب الشين مع الخاء
+",000,False,000,False,False,False,2,56
+"### ||| AUTO (شخت)
+",000,False,000,False,False,False,3,23
+"### || AUTO باب الشين مع الدال
+",000,False,000,False,False,False,2,178
+"### ||| AUTO (شدخ)
+",000,False,000,False,False,False,3,33
+"### || AUTO باب الشين مع الذال
+",000,False,000,False,False,False,2,202
+"### ||| AUTO (شذب)
+",000,False,000,False,False,False,3,87
+"### ||| AUTO (شذذ)
+",000,False,000,False,False,False,3,53
+"### || AUTO باب الشين مع الراء
+",000,False,000,False,False,False,2,2323
+"### ||| AUTO (شرب)
+",000,False,000,False,False,False,3,247
+"### ||| AUTO (شرج)
+",000,False,000,False,False,False,3,96
+"### ||| AUTO (شرح)
+",000,False,000,False,False,False,3,65
+"### ||| AUTO (شرخ)
+",000,False,000,False,False,False,3,93
+"### ||| AUTO (شرد)
+",000,False,000,False,False,False,3,76
+"### ||| AUTO (شرذ)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (شرر)
+",000,False,000,False,False,False,3,88
+"### ||| AUTO (شرشر)
+",000,False,000,False,False,False,3,11
+"### ||| AUTO (شرس)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (شرص)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (شرط)
+",000,False,000,False,False,False,3,111
+"### ||| AUTO (شرع)
+",000,False,000,False,False,False,3,241
+"### ||| AUTO (شرف)
+",000,False,000,False,False,False,3,342
+"### ||| AUTO (شرق)
+",000,False,000,False,False,False,3,374
+"### ||| AUTO (شرك)
+",000,False,000,False,False,False,3,224
+"### ||| AUTO (شرم)
+",000,False,000,False,False,False,3,101
+"### || AUTO باب الشين مع الزاي
+",000,False,000,False,False,False,2,178
+"### ||| AUTO (شزب)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (شزن)
+",000,False,000,False,False,False,3,31
+"### || AUTO باب الشين مع الصاد
+",000,False,000,False,False,False,2,45
+"### || AUTO باب الشين مع الطاء
+",000,False,000,False,False,False,2,535
+"### ||| AUTO (شطأ)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (شطب)
+",000,False,000,False,False,False,3,217
+"### ||| AUTO (شطط)
+",000,False,000,False,False,False,3,34
+"### ||| AUTO (شطن)
+",000,False,000,False,False,False,3,146
+"### || AUTO باب الشين مع الظاء
+",000,False,000,False,False,False,2,1090
+"### ||| AUTO (شظظ)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (شظف)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (شظى)
+",000,False,000,False,False,False,3,46
+"### ||| AUTO (شعب)
+",000,False,000,False,False,False,3,214
+"### ||| AUTO (شعث)
+",000,False,000,False,False,False,3,44
+"### ||| AUTO (شعر)
+",000,False,000,False,False,False,3,441
+"### ||| AUTO (شعش)
+",000,False,000,False,False,False,3,73
+"### ||| AUTO (شعع)
+",000,False,000,False,False,False,3,37
+"### ||| AUTO (شعف)
+",000,False,000,False,False,False,3,117
+"### ||| AUTO (شعل)
+",000,False,000,False,False,False,3,43
+"### || AUTO باب الشين مع العين
+",000,False,000,False,False,False,2,201
+"### ||| AUTO (شغر)
+",000,False,000,False,False,False,3,85
+"### ||| AUTO (شغف)
+",000,False,000,False,False,False,3,59
+"### ||| AUTO (شغل)
+",000,False,000,False,False,False,3,23
+"### || AUTO باب الشين مع الفاء
+",000,False,000,False,False,False,2,630
+"### ||| AUTO (شفر)
+",000,False,000,False,False,False,3,63
+"### ||| AUTO (شفع)
+",000,False,000,False,False,False,3,189
+"### ||| AUTO (شفف)
+",000,False,000,False,False,False,3,167
+"### ||| AUTO (شفق)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (شفن)
+",000,False,000,False,False,False,3,33
+"### || AUTO باب الشين مع القاف
+",000,False,000,False,False,False,2,598
+"### ||| AUTO (شقح)
+",000,False,000,False,False,False,3,115
+"### ||| AUTO (شقص)
+",000,False,000,False,False,False,3,173
+"### || AUTO باب الشين مع الكاف
+",000,False,000,False,False,False,2,827
+"### ||| AUTO (شكر)
+",000,False,000,False,False,False,3,202
+"### ||| AUTO (شكس)
+",000,False,000,False,False,False,3,9
+"### ||| AUTO (شكع)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (شكك)
+",000,False,000,False,False,False,3,184
+"### ||| AUTO (شكل)
+",000,False,000,False,False,False,3,222
+"### ||| AUTO (شكم)
+",000,False,000,False,False,False,3,68
+"### || AUTO باب الشين مع اللام
+",000,False,000,False,False,False,2,190
+"### ||| AUTO (شلح)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (شلشل)
+",000,False,000,False,False,False,3,9
+"### || AUTO باب الشين مع الميم
+",000,False,000,False,False,False,2,568
+"### ||| AUTO (شمت)
+",000,False,000,False,False,False,3,129
+"### ||| AUTO (شمر)
+",000,False,000,False,False,False,3,51
+"### ||| AUTO (شمرخ)
+",000,False,000,False,False,False,3,48
+"### ||| AUTO (شمز)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (شمع)
+",000,False,000,False,False,False,3,64
+"### ||| AUTO (شمل)
+",000,False,000,False,False,False,3,168
+"### || AUTO باب الشين مع النون
+",000,False,000,False,False,False,2,795
+"### ||| AUTO (شنا)
+",000,False,000,False,False,False,3,165
+"### ||| AUTO (شنذ)
+",000,False,000,False,False,False,3,22
+"### ||| AUTO (شنظر)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (شنع)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (شنف)
+",000,False,000,False,False,False,3,26
+"### ||| AUTO (شنق)
+",000,False,000,False,False,False,3,357
+"### || AUTO باب الشين مع الواو
+",000,False,000,False,False,False,2,641
+"### ||| AUTO (شوب)
+",000,False,000,False,False,False,3,81
+"### ||| AUTO (شوذ)
+",000,False,000,False,False,False,3,37
+"### ||| AUTO (شور)
+",000,False,000,False,False,False,3,175
+"### ||| AUTO (شوص)
+",000,False,000,False,False,False,3,33
+"### ||| AUTO (شوط)
+",000,False,000,False,False,False,3,41
+"### ||| AUTO (شوظ)
+",000,False,000,False,False,False,3,12
+"### ||| AUTO (شوك)
+",000,False,000,False,False,False,3,24
+"### ||| AUTO (شول)
+",000,False,000,False,False,False,3,71
+"### ||| AUTO (شوه)
+",000,False,000,False,False,False,3,61
+"### || AUTO باب الشين مع الهاء
+",000,False,000,False,False,False,2,851
+"### ||| AUTO (شهب)
+",000,False,000,False,False,False,3,75
+"### ||| AUTO (شهد)
+",000,False,000,False,False,False,3,498
+"### ||| AUTO (شهر)
+",000,False,000,False,False,False,3,97
+"### ||| AUTO (شهق)
+",000,False,000,False,False,False,3,48
+"### | AUTO كتاب الضاد
+",000,False,000,False,False,False,1,7824
+"### || AUTO باب الصاد مع الهمزة
+",000,False,000,False,False,False,2,56
+"### || AUTO باب الصاد مع الباء
+",000,False,000,False,False,False,2,840
+"### ||| AUTO (صبب)
+",000,False,000,False,False,False,3,150
+"### ||| AUTO (صبح)
+",000,False,000,False,False,False,3,178
+"### ||| AUTO (صبر)
+",000,False,000,False,False,False,3,281
+"### ||| AUTO (صبغ)
+",000,False,000,False,False,False,3,112
+"### || AUTO باب الصاد مع التاء
+",000,False,000,False,False,False,2,33
+"### || AUTO باب الصاد مع الحاء
+",000,False,000,False,False,False,2,220
+"### ||| AUTO (صحب)
+",000,False,000,False,False,False,3,81
+"### ||| AUTO (صحح)
+",000,False,000,False,False,False,3,50
+"### ||| AUTO (صحر)
+",000,False,000,False,False,False,3,46
+"### ||| AUTO (صحل)
+",000,False,000,False,False,False,3,18
+"### || AUTO باب الصاد مع الخاء
+",000,False,000,False,False,False,2,31
+"### ||| AUTO (صخب)
+",000,False,000,False,False,False,3,11
+"### || AUTO باب الصاد مع الدال
+",000,False,000,False,False,False,2,715
+"### ||| AUTO (صدأ)
+",000,False,000,False,False,False,3,68
+"### ||| AUTO (صدد)
+",000,False,000,False,False,False,3,95
+"### ||| AUTO (صدى)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (صدر)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (صدع)
+",000,False,000,False,False,False,3,138
+"### ||| AUTO (صدغ)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (صدف)
+",000,False,000,False,False,False,3,43
+"### ||| AUTO (صدق)
+",000,False,000,False,False,False,3,112
+"### ||| AUTO (صدم)
+",000,False,000,False,False,False,3,56
+"### || AUTO باب الصاد مع الراء
+",000,False,000,False,False,False,2,827
+"### ||| AUTO (صرب)
+",000,False,000,False,False,False,3,53
+"### ||| AUTO (صرح)
+",000,False,000,False,False,False,3,35
+"### ||| AUTO (صرخ)
+",000,False,000,False,False,False,3,70
+"### ||| AUTO (صردح)
+",000,False,000,False,False,False,3,22
+"### ||| AUTO (صرر)
+",000,False,000,False,False,False,3,152
+"### ||| AUTO (صرع)
+",000,False,000,False,False,False,3,26
+"### ||| AUTO (صرف)
+",000,False,000,False,False,False,3,170
+"### ||| AUTO (صرق)
+",000,False,000,False,False,False,3,35
+"### ||| AUTO (صرم)
+",000,False,000,False,False,False,3,141
+"### || AUTO باب الصاد مع الطاء
+",000,False,000,False,False,False,2,97
+"### ||| AUTO (صطب)
+",000,False,000,False,False,False,3,39
+"### || AUTO باب الصاد مع العين
+",000,False,000,False,False,False,2,584
+"### ||| AUTO (صعب)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (صعد)
+",000,False,000,False,False,False,3,179
+"### ||| AUTO (صعر)
+",000,False,000,False,False,False,3,69
+"### ||| AUTO (صعصع)
+",000,False,000,False,False,False,3,14
+"### ||| AUTO (صعفق)
+",000,False,000,False,False,False,3,66
+"### ||| AUTO (صعق)
+",000,False,000,False,False,False,3,157
+"### ||| AUTO (صعل)
+",000,False,000,False,False,False,3,36
+"### || AUTO باب الصاد مع الغين
+",000,False,000,False,False,False,2,120
+"### ||| AUTO (صغر)
+",000,False,000,False,False,False,3,57
+"### || AUTO باب الصاد مع الفاء
+",000,False,000,False,False,False,2,1051
+"### ||| AUTO (صفت)
+",000,False,000,False,False,False,3,26
+"### ||| AUTO (صفح)
+",000,False,000,False,False,False,3,247
+"### ||| AUTO (صفد)
+",000,False,000,False,False,False,3,49
+"### ||| AUTO (صفر)
+",000,False,000,False,False,False,3,210
+"### ||| AUTO (صنف)
+",000,False,000,False,False,False,3,58
+"### ||| AUTO (صفصف)
+",000,False,000,False,False,False,3,41
+"### ||| AUTO (صفق)
+",000,False,000,False,False,False,3,164
+"### ||| AUTO (صفن)
+",000,False,000,False,False,False,3,177
+"### || AUTO باب الصاد مع القاف
+",000,False,000,False,False,False,2,259
+"### ||| AUTO (صقب)
+",000,False,000,False,False,False,3,66
+"### ||| AUTO (صقر)
+",000,False,000,False,False,False,3,89
+"### ||| AUTO (صقع)
+",000,False,000,False,False,False,3,50
+"### || AUTO باب الصاد مع الكاف
+",000,False,000,False,False,False,2,50
+"### || AUTO باب الصاد مع اللام
+",000,False,000,False,False,False,2,1020
+"### ||| AUTO (صلب)
+",000,False,000,False,False,False,3,209
+"### ||| AUTO (صلح)
+",000,False,000,False,False,False,3,115
+"### ||| AUTO (صلخم)
+",000,False,000,False,False,False,3,15
+"### ||| AUTO (صلد)
+",000,False,000,False,False,False,3,60
+"### ||| AUTO (صلع)
+",000,False,000,False,False,False,3,109
+"### ||| AUTO (صلق)
+",000,False,000,False,False,False,3,42
+"### ||| AUTO (صلق)
+",000,False,000,False,False,False,3,36
+"### ||| AUTO (صلل)
+",000,False,000,False,False,False,3,75
+"### ||| AUTO (صلم)
+",000,False,000,False,False,False,3,44
+"### ||| AUTO (صلا)
+",000,False,000,False,False,False,3,218
+"### || AUTO باب الصاد مع الميم
+",000,False,000,False,False,False,2,383
+"### ||| AUTO (صمت)
+",000,False,000,False,False,False,3,66
+"### ||| AUTO (صمخ)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (صمد)
+",000,False,000,False,False,False,3,73
+"### ||| AUTO (صمر)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (صلع)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (صمع)
+",000,False,000,False,False,False,3,15
+"### ||| AUTO (صمغ)
+",000,False,000,False,False,False,3,44
+"### || AUTO باب الصاد مع النون
+",000,False,000,False,False,False,2,423
+"### ||| AUTO (صنب)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (صنبر)
+",000,False,000,False,False,False,3,71
+"### ||| AUTO (صنخ)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (صنع)
+",000,False,000,False,False,False,3,178
+"### ||| AUTO (صنم)
+",000,False,000,False,False,False,3,22
+"### ||| AUTO (صنن)
+",000,False,000,False,False,False,3,22
+"### || AUTO باب الصاد مع الواو
+",000,False,000,False,False,False,2,543
+"### ||| AUTO (صوب)
+",000,False,000,False,False,False,3,96
+"### ||| AUTO (صوح)
+",000,False,000,False,False,False,3,100
+"### ||| AUTO (صور)
+",000,False,000,False,False,False,3,77
+"### ||| AUTO (صوع)
+",000,False,000,False,False,False,3,115
+"### ||| AUTO (صوغ)
+",000,False,000,False,False,False,3,22
+"### ||| AUTO (صوم)
+",000,False,000,False,False,False,3,49
+"### || AUTO باب الصاد مع الهاء
+",000,False,000,False,False,False,2,145
+"### | AUTO كتاب الضاد
+",000,False,000,False,False,False,1,5359
+"### || AUTO باب الضاد مع الهمزة
+",000,False,000,False,False,False,2,52
+"### ||| AUTO (ضأن)
+",000,False,000,False,False,False,3,15
+"### ||| AUTO (ضأل)
+",000,False,000,False,False,False,3,20
+"### || AUTO باب الضاد مع الباء
+",000,False,000,False,False,False,2,487
+"### ||| AUTO (ضب)
+",000,False,000,False,False,False,3,69
+"### ||| AUTO (ضبث)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (ضبح)
+",000,False,000,False,False,False,3,52
+"### ||| AUTO (ضبر)
+",000,False,000,False,False,False,3,79
+"### ||| AUTO (ضبس)
+",000,False,000,False,False,False,3,14
+"### ||| AUTO (ضبط)
+",000,False,000,False,False,False,3,98
+"### ||| AUTO (ضبع)
+",000,False,000,False,False,False,3,17
+"### || AUTO باب الضاد مع الحاء
+",000,False,000,False,False,False,2,400
+"### ||| AUTO (ضحضح)
+",000,False,000,False,False,False,3,38
+"### || AUTO باب الضاد مع الدال
+",000,False,000,False,False,False,2,35
+"### || AUTO باب الضاد مع الراء
+",000,False,000,False,False,False,2,1060
+"### ||| AUTO (ضرب)
+",000,False,000,False,False,False,3,310
+"### ||| AUTO (ضر)
+",000,False,000,False,False,False,3,407
+"### ||| AUTO (ضرس)
+",000,False,000,False,False,False,3,70
+"### ||| AUTO (ضرط)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (ضرع)
+",000,False,000,False,False,False,3,127
+"### ||| AUTO (ضرم)
+",000,False,000,False,False,False,3,31
+"### || AUTO باب الضاد مع الزاي
+",000,False,000,False,False,False,2,60
+"### || AUTO باب الضاد مع الطاء
+",000,False,000,False,False,False,2,28
+"### || AUTO باب الضاد مع العين
+",000,False,000,False,False,False,2,350
+"### || AUTO باب الضاد مع الغين
+",000,False,000,False,False,False,2,391
+"### ||| AUTO (ضغبس)
+",000,False,000,False,False,False,3,46
+"### ||| AUTO (ضغث)
+",000,False,000,False,False,False,3,137
+"### ||| AUTO (ضغط)
+",000,False,000,False,False,False,3,133
+"### ||| AUTO (ضغم)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (ضغن)
+",000,False,000,False,False,False,3,40
+"### || AUTO باب الضاد مع الفاء
+",000,False,000,False,False,False,2,429
+"### ||| AUTO (ضفر)
+",000,False,000,False,False,False,3,115
+"### ||| AUTO (ضفز)
+",000,False,000,False,False,False,3,146
+"### ||| AUTO (ضفط)
+",000,False,000,False,False,False,3,97
+"### || AUTO باب الضاد مع اللام
+",000,False,000,False,False,False,2,763
+"### ||| AUTO (ضلع)
+",000,False,000,False,False,False,3,213
+"### || AUTO باب الضاد مع الميم
+",000,False,000,False,False,False,2,455
+"### ||| AUTO (ضمد)
+",000,False,000,False,False,False,3,47
+"### ||| AUTO (ضمر)
+",000,False,000,False,False,False,3,79
+"### ||| AUTO (ضمل)
+",000,False,000,False,False,False,3,33
+"### ||| AUTO (ضمم)
+",000,False,000,False,False,False,3,55
+"### || AUTO باب الضاد مع النون
+",000,False,000,False,False,False,2,89
+"### ||| AUTO (ضنك)
+",000,False,000,False,False,False,3,32
+"### || AUTO باب الضاد مع الواو
+",000,False,000,False,False,False,2,182
+"### || AUTO باب الضاد مع الهاء
+",000,False,000,False,False,False,2,152
+"### ||| AUTO (ضهل)
+",000,False,000,False,False,False,3,69
+"### | AUTO كتاب الطاء
+",000,False,000,False,False,False,1,5368
+"### || AUTO باب الطاء مع الهمزة
+",000,False,000,False,False,False,2,58
+"### || AUTO باب الطاء مع الباء
+",000,False,000,False,False,False,2,862
+"### ||| AUTO (طبب)
+",000,False,000,False,False,False,3,146
+"### ||| AUTO (طبج)
+",000,False,000,False,False,False,3,226
+"### ||| AUTO (طبق)
+",000,False,000,False,False,False,3,428
+"### ||| AUTO (طبن)
+",000,False,000,False,False,False,3,18
+"### || AUTO باب الطاء مع الحاء
+",000,False,000,False,False,False,2,65
+"### ||| AUTO (طحر)
+",000,False,000,False,False,False,3,27
+"### || AUTO باب الطاء مع الخاء
+",000,False,000,False,False,False,2,56
+"### || AUTO باب الطاء مع الراء
+",000,False,000,False,False,False,2,880
+"### ||| AUTO (طر)
+",000,False,000,False,False,False,3,45
+"### ||| AUTO (طرد)
+",000,False,000,False,False,False,3,65
+"### ||| AUTO (طرر)
+",000,False,000,False,False,False,3,114
+"### ||| AUTO (طرز)
+",000,False,000,False,False,False,3,58
+"### ||| AUTO (طرف)
+",000,False,000,False,False,False,3,270
+"### ||| AUTO (طرق)
+",000,False,000,False,False,False,3,282
+"### || AUTO باب الطاء مع الشين
+",000,False,000,False,False,False,2,45
+"### || AUTO باب الطاء مع العين
+",000,False,000,False,False,False,2,261
+"### ||| AUTO (طعم)
+",000,False,000,False,False,False,3,221
+"### || AUTO باب الطاء مع الغين
+",000,False,000,False,False,False,2,95
+"### || AUTO باب الطاء مع الفاء
+",000,False,000,False,False,False,2,325
+"### ||| AUTO (طفح)
+",000,False,000,False,False,False,3,35
+"### ||| AUTO (طف)
+",000,False,000,False,False,False,3,61
+"### ||| AUTO (طفق)
+",000,False,000,False,False,False,3,50
+"### ||| AUTO (طفل)
+",000,False,000,False,False,False,3,115
+"### || AUTO باب الطاء مع اللام
+",000,False,000,False,False,False,2,587
+"### ||| AUTO (طلح)
+",000,False,000,False,False,False,3,51
+"### ||| AUTO (طلخ)
+",000,False,000,False,False,False,3,47
+"### ||| AUTO (طلس)
+",000,False,000,False,False,False,3,96
+"### ||| AUTO (طلع)
+",000,False,000,False,False,False,3,179
+"### ||| AUTO (طلق)
+",000,False,000,False,False,False,3,84
+"### ||| AUTO (طل)
+",000,False,000,False,False,False,3,74
+"### ||| AUTO (طلم)
+",000,False,000,False,False,False,3,19
+"### || AUTO باب الطاء مع الميم
+",000,False,000,False,False,False,2,392
+"### ||| AUTO (طمث)
+",000,False,000,False,False,False,3,46
+"### ||| AUTO (طمر)
+",000,False,000,False,False,False,3,113
+"### ||| AUTO (طمس)
+",000,False,000,False,False,False,3,63
+"### ||| AUTO (طمم)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (طمطم)
+",000,False,000,False,False,False,3,59
+"### ||| AUTO (طمن)
+",000,False,000,False,False,False,3,47
+"### || AUTO باب الطاء مع النون
+",000,False,000,False,False,False,2,124
+"### ||| AUTO (طنب)
+",000,False,000,False,False,False,3,86
+"### || AUTO باب الطاء مع الواو
+",000,False,000,False,False,False,2,559
+"### ||| AUTO (طور)
+",000,False,000,False,False,False,3,39
+"### ||| AUTO (طوع)
+",000,False,000,False,False,False,3,96
+"### ||| AUTO (طوف)
+",000,False,000,False,False,False,3,196
+"### ||| AUTO (طوق)
+",000,False,000,False,False,False,3,58
+"### ||| AUTO (طول)
+",000,False,000,False,False,False,3,126
+"### || AUTO باب الطاء مع الهاء
+",000,False,000,False,False,False,2,245
+"### ||| AUTO (طهر)
+",000,False,000,False,False,False,3,75
+"### ||| AUTO (طهم)
+",000,False,000,False,False,False,3,67
+"### | AUTO كتاب الظاء
+",000,False,000,False,False,False,1,1903
+"### || AUTO باب الظاء مع الهمزة
+",000,False,000,False,False,False,2,217
+"### ||| AUTO (ظأر)
+",000,False,000,False,False,False,3,102
+"### || AUTO باب الظاء مع الراء
+",000,False,000,False,False,False,2,134
+"### ||| AUTO (ظرب)
+",000,False,000,False,False,False,3,49
+"### ||| AUTO (ظرر)
+",000,False,000,False,False,False,3,33
+"### || AUTO باب الظاء مع العين
+",000,False,000,False,False,False,2,25
+"### || AUTO باب الظاء مع الفاء
+",000,False,000,False,False,False,2,52
+"### || AUTO باب الظاء مع اللام
+",000,False,000,False,False,False,2,850
+"### ||| AUTO (ظلع)
+",000,False,000,False,False,False,3,71
+"### ||| AUTO (ظلف)
+",000,False,000,False,False,False,3,110
+"### ||| AUTO (ظلل)
+",000,False,000,False,False,False,3,332
+"### || AUTO باب الظاء مع النون
+",000,False,000,False,False,False,2,192
+"### | AUTO كتاب العين
+",000,False,000,False,False,False,1,22087
+"### || AUTO باب العين مع الباء
+",000,False,000,False,False,False,2,841
+"### ||| AUTO (عبأ)
+",000,False,000,False,False,False,3,121
+"### ||| AUTO (عبد)
+",000,False,000,False,False,False,3,245
+"### ||| AUTO (عبر)
+",000,False,000,False,False,False,3,130
+"### ||| AUTO (عبس)
+",000,False,000,False,False,False,3,63
+"### ||| AUTO (عبط)
+",000,False,000,False,False,False,3,89
+"### ||| AUTO (عبقر)
+",000,False,000,False,False,False,3,77
+"### || AUTO باب العين مع التاء
+",000,False,000,False,False,False,2,819
+"### ||| AUTO (عتب)
+",000,False,000,False,False,False,3,134
+"### ||| AUTO (عتت)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (عتد)
+",000,False,000,False,False,False,3,86
+"### ||| AUTO (عتر)
+",000,False,000,False,False,False,3,143
+"### ||| AUTO (عترس)
+",000,False,000,False,False,False,3,42
+"### ||| AUTO (عترف)
+",000,False,000,False,False,False,3,39
+"### ||| AUTO (عتق)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (عتك)
+",000,False,000,False,False,False,3,83
+"### ||| AUTO (عتل)
+",000,False,000,False,False,False,3,26
+"### ||| AUTO (عتم)
+",000,False,000,False,False,False,3,104
+"### || AUTO باب العين مع الثاء
+",000,False,000,False,False,False,2,301
+"### ||| AUTO (عثث)
+",000,False,000,False,False,False,3,42
+"### ||| AUTO (عثر)
+",000,False,000,False,False,False,3,123
+"### ||| AUTO (عثكل)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (عثم)
+",000,False,000,False,False,False,3,58
+"### || AUTO باب العين مع الجيم
+",000,False,000,False,False,False,2,888
+"### ||| AUTO (عجب)
+",000,False,000,False,False,False,3,171
+"### ||| AUTO (عجج)
+",000,False,000,False,False,False,3,47
+"### ||| AUTO (عجر)
+",000,False,000,False,False,False,3,86
+"### ||| AUTO (عجز)
+",000,False,000,False,False,False,3,134
+"### ||| AUTO (عجف)
+",000,False,000,False,False,False,3,24
+"### ||| AUTO (عجل)
+",000,False,000,False,False,False,3,135
+"### ||| AUTO (عجم)
+",000,False,000,False,False,False,3,212
+"### || AUTO باب العين مع الدال
+",000,False,000,False,False,False,2,944
+"### ||| AUTO (عدد)
+",000,False,000,False,False,False,3,167
+"### ||| AUTO (عدل)
+",000,False,000,False,False,False,3,140
+"### ||| AUTO (عدم)
+",000,False,000,False,False,False,3,60
+"### ||| AUTO (عدن)
+",000,False,000,False,False,False,3,14
+"### || AUTO باب العين مع الذال
+",000,False,000,False,False,False,2,594
+"### ||| AUTO (عذب)
+",000,False,000,False,False,False,3,77
+"### ||| AUTO (عذر)
+",000,False,000,False,False,False,3,332
+"### ||| AUTO (عذق)
+",000,False,000,False,False,False,3,97
+"### ||| AUTO (عذل)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (عذم)
+",000,False,000,False,False,False,3,18
+"### || AUTO باب العين مع الراء
+",000,False,000,False,False,False,2,3775
+"### ||| AUTO (عرب)
+",000,False,000,False,False,False,3,376
+"### ||| AUTO (عرج)
+",000,False,000,False,False,False,3,71
+"### ||| AUTO (عرر)
+",000,False,000,False,False,False,3,313
+"### ||| AUTO (عرس)
+",000,False,000,False,False,False,3,72
+"### ||| AUTO (عرش)
+",000,False,000,False,False,False,3,190
+"### ||| AUTO (عرص)
+",000,False,000,False,False,False,3,51
+"### ||| AUTO (عرض)
+",000,False,000,False,False,False,3,1410
+"### ||| AUTO (عرط)
+",000,False,000,False,False,False,3,24
+"### ||| AUTO (عرف)
+",000,False,000,False,False,False,3,406
+"### ||| AUTO (عرفط)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (عرق)
+",000,False,000,False,False,False,3,354
+"### ||| AUTO (عرك)
+",000,False,000,False,False,False,3,39
+"### ||| AUTO (عرم)
+",000,False,000,False,False,False,3,72
+"### ||| AUTO (عرن)
+",000,False,000,False,False,False,3,32
+"### || AUTO باب العين مع الزاي
+",000,False,000,False,False,False,2,1114
+"### ||| AUTO (عزب)
+",000,False,000,False,False,False,3,96
+"### ||| AUTO (عزر)
+",000,False,000,False,False,False,3,459
+"### ||| AUTO (عزل)
+",000,False,000,False,False,False,3,158
+"### ||| AUTO (عزم)
+",000,False,000,False,False,False,3,292
+"### || AUTO باب العين مع السين
+",000,False,000,False,False,False,2,535
+"### ||| AUTO (عسب)
+",000,False,000,False,False,False,3,106
+"### ||| AUTO (عسر)
+",000,False,000,False,False,False,3,210
+"### ||| AUTO (عسس)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (عسف)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (عسل)
+",000,False,000,False,False,False,3,140
+"### || AUTO باب العين مع الشين
+",000,False,000,False,False,False,2,694
+"### ||| AUTO (عشر)
+",000,False,000,False,False,False,3,152
+"### ||| AUTO (عشش)
+",000,False,000,False,False,False,3,106
+"### ||| AUTO (عشم)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (عشنق)
+",000,False,000,False,False,False,3,20
+"### || AUTO باب العين مع الصاد
+",000,False,000,False,False,False,2,1429
+"### ||| AUTO (عصب)
+",000,False,000,False,False,False,3,220
+"### ||| AUTO (عصر)
+",000,False,000,False,False,False,3,317
+"### ||| AUTO (عصف)
+",000,False,000,False,False,False,3,140
+"### ||| AUTO (عصفر)
+",000,False,000,False,False,False,3,13
+"### ||| AUTO (عصل)
+",000,False,000,False,False,False,3,48
+"### ||| AUTO (عصلب)
+",000,False,000,False,False,False,3,55
+"### ||| AUTO (عصم)
+",000,False,000,False,False,False,3,530
+"### || AUTO باب العين مع الضاد
+",000,False,000,False,False,False,2,626
+"### ||| AUTO (عضب)
+",000,False,000,False,False,False,3,58
+"### ||| AUTO (عضد)
+",000,False,000,False,False,False,3,172
+"### ||| AUTO (عضض)
+",000,False,000,False,False,False,3,101
+"### ||| AUTO (عضل)
+",000,False,000,False,False,False,3,146
+"### || AUTO باب العين مع الطاء
+",000,False,000,False,False,False,2,447
+"### ||| AUTO (عطب)
+",000,False,000,False,False,False,3,11
+"### ||| AUTO (عطبل)
+",000,False,000,False,False,False,3,23
+"### ||| AUTO (عطر)
+",000,False,000,False,False,False,3,34
+"### ||| AUTO (عطف)
+",000,False,000,False,False,False,3,87
+"### ||| AUTO (عطل)
+",000,False,000,False,False,False,3,52
+"### ||| AUTO (عطن)
+",000,False,000,False,False,False,3,110
+"### || AUTO باب العين مع الظاء
+",000,False,000,False,False,False,2,56
+"### || AUTO باب العين مع الفاء
+",000,False,000,False,False,False,2,923
+"### ||| AUTO (عفث)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (عفر)
+",000,False,000,False,False,False,3,351
+"### ||| AUTO (عفس)
+",000,False,000,False,False,False,3,26
+"### ||| AUTO (عفص)
+",000,False,000,False,False,False,3,32
+"### ||| AUTO (عفف)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (عفق)
+",000,False,000,False,False,False,3,24
+"### || AUTO باب العين مع القاف
+",000,False,000,False,False,False,2,1853
+"### ||| AUTO (عقب)
+",000,False,000,False,False,False,3,663
+"### ||| AUTO (عقد)
+",000,False,000,False,False,False,3,107
+"### ||| AUTO (عقر)
+",000,False,000,False,False,False,3,410
+"### ||| AUTO (عقص)
+",000,False,000,False,False,False,3,114
+"### ||| AUTO (عقف)
+",000,False,000,False,False,False,3,35
+"### ||| AUTO (عقق)
+",000,False,000,False,False,False,3,134
+"### ||| AUTO (عقل)
+",000,False,000,False,False,False,3,208
+"### ||| AUTO (عقم)
+",000,False,000,False,False,False,3,74
+"### || AUTO باب العين مع الكاف
+",000,False,000,False,False,False,2,205
+"### ||| AUTO (عكر)
+",000,False,000,False,False,False,3,85
+"### ||| AUTO (عكس)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (عكف)
+",000,False,000,False,False,False,3,46
+"### || AUTO باب العين مع اللام
+",000,False,000,False,False,False,2,1371
+"### ||| AUTO (علب)
+",000,False,000,False,False,False,3,112
+"### ||| AUTO (علج)
+",000,False,000,False,False,False,3,95
+"### ||| AUTO (علف)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (علق)
+",000,False,000,False,False,False,3,243
+"### ||| AUTO (علك)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (علل)
+",000,False,000,False,False,False,3,147
+"### ||| AUTO (علم)
+",000,False,000,False,False,False,3,303
+"### ||| AUTO (علن)
+",000,False,000,False,False,False,3,43
+"### ||| AUTO (علا)
+",000,False,000,False,False,False,3,257
+"### || AUTO باب العين مع الميم
+",000,False,000,False,False,False,2,1357
+"### ||| AUTO (عمد)
+",000,False,000,False,False,False,3,215
+"### ||| AUTO (عمر)
+",000,False,000,False,False,False,3,376
+"### ||| AUTO (عمل)
+",000,False,000,False,False,False,3,182
+"### ||| AUTO (عمم)
+",000,False,000,False,False,False,3,205
+"### ||| AUTO (عمه)
+",000,False,000,False,False,False,3,13
+"### || AUTO باب العين مع النون
+",000,False,000,False,False,False,2,971
+"### ||| AUTO (عنب)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (عنت)
+",000,False,000,False,False,False,3,121
+"### ||| AUTO (عنج)
+",000,False,000,False,False,False,3,74
+"### ||| AUTO (عند)
+",000,False,000,False,False,False,3,74
+"### ||| AUTO (عنز)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (عنس)
+",000,False,000,False,False,False,3,66
+"### ||| AUTO (عنش)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (عنق)
+",000,False,000,False,False,False,3,205
+"### ||| AUTO (عنقفيز)
+",000,False,000,False,False,False,3,11
+"### ||| AUTO (عنم)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (عنن)
+",000,False,000,False,False,False,3,88
+"### ||| AUTO (عنبل)
+",000,False,000,False,False,False,3,28
+"### || AUTO باب العين مع الواو
+",000,False,000,False,False,False,2,1007
+"### ||| AUTO (عوج)
+",000,False,000,False,False,False,3,126
+"### ||| AUTO (عود)
+",000,False,000,False,False,False,3,277
+"### ||| AUTO (عوذ)
+",000,False,000,False,False,False,3,93
+"### ||| AUTO (عور)
+",000,False,000,False,False,False,3,132
+"### ||| AUTO (عوق)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (عول)
+",000,False,000,False,False,False,3,231
+"### ||| AUTO (عون)
+",000,False,000,False,False,False,3,10
+"### ||| AUTO (عوم)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (عوه)
+",000,False,000,False,False,False,3,31
+"### || AUTO باب العين مع الهاء
+",000,False,000,False,False,False,2,223
+"### ||| AUTO (عهد)
+",000,False,000,False,False,False,3,141
+"### ||| AUTO (عهر)
+",000,False,000,False,False,False,3,39
+"### | AUTO كتاب الغين
+",000,False,000,False,False,False,1,7855
+"### || AUTO باب الغين مع الباء
+",000,False,000,False,False,False,2,601
+"### ||| AUTO (غبب)
+",000,False,000,False,False,False,3,120
+"### ||| AUTO (غبر)
+",000,False,000,False,False,False,3,288
+"### ||| AUTO (غبط)
+",000,False,000,False,False,False,3,131
+"### || AUTO باب الغين مع التاء
+",000,False,000,False,False,False,2,101
+"### || AUTO باب الغين مع الثاء
+",000,False,000,False,False,False,2,144
+"### ||| AUTO (غثث)
+",000,False,000,False,False,False,3,39
+"### ||| AUTO (غثر)
+",000,False,000,False,False,False,3,55
+"### || AUTO باب الغين مع الدال
+",000,False,000,False,False,False,2,239
+"### ||| AUTO (غدر)
+",000,False,000,False,False,False,3,96
+"### ||| AUTO (غدف)
+",000,False,000,False,False,False,3,53
+"### ||| AUTO (غدق)
+",000,False,000,False,False,False,3,52
+"### || AUTO باب الغين مع الذال
+",000,False,000,False,False,False,2,118
+"### ||| AUTO (غذم)
+",000,False,000,False,False,False,3,77
+"### || AUTO باب الغين مع الراء
+",000,False,000,False,False,False,2,1731
+"### ||| AUTO (غرب)
+",000,False,000,False,False,False,3,479
+"### ||| AUTO (غربل)
+",000,False,000,False,False,False,3,42
+"### ||| AUTO (غرر)
+",000,False,000,False,False,False,3,570
+"### ||| AUTO (غرز)
+",000,False,000,False,False,False,3,120
+"### ||| AUTO (غرض)
+",000,False,000,False,False,False,3,52
+"### ||| AUTO (غرف)
+",000,False,000,False,False,False,3,80
+"### ||| AUTO (غرق)
+",000,False,000,False,False,False,3,76
+"### ||| AUTO (غرقد)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (غرل)
+",000,False,000,False,False,False,3,42
+"### ||| AUTO (غرم)
+",000,False,000,False,False,False,3,92
+"### ||| AUTO (غرن)
+",000,False,000,False,False,False,3,118
+"### || AUTO باب الغين مع الزاي
+",000,False,000,False,False,False,2,99
+"### ||| AUTO (غزر)
+",000,False,000,False,False,False,3,48
+"### || AUTO باب الغين مع السين
+",000,False,000,False,False,False,2,410
+"### ||| AUTO (غسق)
+",000,False,000,False,False,False,3,209
+"### ||| AUTO (غسل)
+",000,False,000,False,False,False,3,63
+"### || AUTO باب الغين مع الشين
+",000,False,000,False,False,False,2,157
+"### ||| AUTO (غشم)
+",000,False,000,False,False,False,3,10
+"### ||| AUTO (غشش)
+",000,False,000,False,False,False,3,52
+"### || AUTO باب الغين مع الضاد
+",000,False,000,False,False,False,2,297
+"### ||| AUTO (غضب)
+",000,False,000,False,False,False,3,64
+"### ||| AUTO (غضض)
+",000,False,000,False,False,False,3,163
+"### || AUTO باب الغين مع الطاء
+",000,False,000,False,False,False,2,85
+"### ||| AUTO (غطر)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (غطش)
+",000,False,000,False,False,False,3,9
+"### || AUTO باب الغين مع الفاء
+",000,False,000,False,False,False,2,509
+"### ||| AUTO (غفر)
+",000,False,000,False,False,False,3,279
+"### ||| AUTO (غفق)
+",000,False,000,False,False,False,3,59
+"### ||| AUTO (غفل)
+",000,False,000,False,False,False,3,148
+"### || AUTO باب الغين مع القاف
+",000,False,000,False,False,False,2,38
+"### || AUTO باب الغين مع اللام
+",000,False,000,False,False,False,2,837
+"### ||| AUTO (غلب)
+",000,False,000,False,False,False,3,140
+"### ||| AUTO (غلظ)
+",000,False,000,False,False,False,3,37
+"### ||| AUTO (غلف)
+",000,False,000,False,False,False,3,75
+"### ||| AUTO (غلق)
+",000,False,000,False,False,False,3,219
+"### ||| AUTO (غلل)
+",000,False,000,False,False,False,3,240
+"### ||| AUTO (غلم)
+",000,False,000,False,False,False,3,102
+"### || AUTO باب الغين مع الميم
+",000,False,000,False,False,False,2,717
+"### ||| AUTO (غمد)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (غمر)
+",000,False,000,False,False,False,3,212
+"### ||| AUTO (غمس)
+",000,False,000,False,False,False,3,58
+"### ||| AUTO (غمص)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (غمط)
+",000,False,000,False,False,False,3,60
+"### ||| AUTO (غمض)
+",000,False,000,False,False,False,3,42
+"### ||| AUTO (غمق)
+",000,False,000,False,False,False,3,41
+"### ||| AUTO (غمل)
+",000,False,000,False,False,False,3,28
+"### || AUTO باب الغين مع النون
+",000,False,000,False,False,False,2,471
+"### ||| AUTO (غثر)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (غنط)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (غنم)
+",000,False,000,False,False,False,3,86
+"### || AUTO باب الغين مع الواو
+",000,False,000,False,False,False,2,426
+"### ||| AUTO (غور)
+",000,False,000,False,False,False,3,101
+"### ||| AUTO (غوط)
+",000,False,000,False,False,False,3,51
+"### ||| AUTO (غول)
+",000,False,000,False,False,False,3,179
+"### || AUTO باب الغين مع الهاء
+",000,False,000,False,False,False,2,32
+"### | AUTO كتاب الفاء
+",000,False,000,False,False,False,1,10837
+"### || AUTO باب الفاء مع الهمزة
+",000,False,000,False,False,False,2,186
+"### ||| AUTO (فأل)
+",000,False,000,False,False,False,3,112
+"### || AUTO باب الفاء مع التاء
+",000,False,000,False,False,False,2,839
+"### ||| AUTO (فتح)
+",000,False,000,False,False,False,3,170
+"### ||| AUTO (فتخ)
+",000,False,000,False,False,False,3,62
+"### ||| AUTO (فتخ)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (فتر)
+",000,False,000,False,False,False,3,39
+"### ||| AUTO (فتق)
+",000,False,000,False,False,False,3,103
+"### ||| AUTO (فتك)
+",000,False,000,False,False,False,3,35
+"### ||| AUTO (فتل)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (فتن)
+",000,False,000,False,False,False,3,254
+"### || AUTO باب الفاء مع الثاء
+",000,False,000,False,False,False,2,23
+"### || AUTO باب الفاء مع الجيم
+",000,False,000,False,False,False,2,352
+"### ||| AUTO (فجج)
+",000,False,000,False,False,False,3,113
+"### ||| AUTO (فجر)
+",000,False,000,False,False,False,3,186
+"### || AUTO باب الفاء مع الحاء
+",000,False,000,False,False,False,2,530
+"### ||| AUTO (فحج)
+",000,False,000,False,False,False,3,12
+"### ||| AUTO (فحش)
+",000,False,000,False,False,False,3,201
+"### ||| AUTO (فحص)
+",000,False,000,False,False,False,3,67
+"### ||| AUTO (فحل)
+",000,False,000,False,False,False,3,160
+"### ||| AUTO (فحم)
+",000,False,000,False,False,False,3,60
+"### || AUTO باب الفاء مع الخاء
+",000,False,000,False,False,False,2,116
+"### ||| AUTO (فخخ)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (فخذ)
+",000,False,000,False,False,False,3,20
+"### || AUTO باب الفاء مع الدال
+",000,False,000,False,False,False,2,360
+"### ||| AUTO (فدح)
+",000,False,000,False,False,False,3,35
+"### ||| AUTO (فدد)
+",000,False,000,False,False,False,3,142
+"### ||| AUTO (فدر)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (فدع)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (فدغ)
+",000,False,000,False,False,False,3,27
+"### || AUTO باب الفاء مع الراء
+",000,False,000,False,False,False,2,2659
+"### ||| AUTO (فرأ)
+",000,False,000,False,False,False,3,51
+"### ||| AUTO (فرت)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (فرث)
+",000,False,000,False,False,False,3,43
+"### ||| AUTO (فرج)
+",000,False,000,False,False,False,3,137
+"### ||| AUTO (فرخ)
+",000,False,000,False,False,False,3,80
+"### ||| AUTO (فرد)
+",000,False,000,False,False,False,3,118
+"### ||| AUTO (فردس)
+",000,False,000,False,False,False,3,15
+"### ||| AUTO (فرر)
+",000,False,000,False,False,False,3,32
+"### ||| AUTO (فرفر)
+",000,False,000,False,False,False,3,74
+"### ||| AUTO (فرز)
+",000,False,000,False,False,False,3,36
+"### ||| AUTO (فرس)
+",000,False,000,False,False,False,3,145
+"### ||| AUTO (فرسخ)
+",000,False,000,False,False,False,3,64
+"### ||| AUTO (فرش)
+",000,False,000,False,False,False,3,268
+"### ||| AUTO (فرص)
+",000,False,000,False,False,False,3,86
+"### ||| AUTO (فرض)
+",000,False,000,False,False,False,3,196
+"### ||| AUTO (فرضخ)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (فرط)
+",000,False,000,False,False,False,3,240
+"### ||| AUTO (فرطم)
+",000,False,000,False,False,False,3,43
+"### ||| AUTO (فرع)
+",000,False,000,False,False,False,3,216
+"### ||| AUTO (فرغ)
+",000,False,000,False,False,False,3,152
+"### ||| AUTO (فرق)
+",000,False,000,False,False,False,3,297
+"### ||| AUTO (فرقع)
+",000,False,000,False,False,False,3,21
+"### ||| AUTO (فرك)
+",000,False,000,False,False,False,3,24
+"### ||| AUTO (فرم)
+",000,False,000,False,False,False,3,60
+"### ||| AUTO (فرو)
+",000,False,000,False,False,False,3,97
+"### ||| AUTO (فره)
+",000,False,000,False,False,False,3,9
+"### || AUTO باب الفاء مع الزاي
+",000,False,000,False,False,False,2,271
+"### ||| AUTO (فزر)
+",000,False,000,False,False,False,3,37
+"### ||| AUTO (فزز)
+",000,False,000,False,False,False,3,21
+"### || AUTO باب الفاء مع السين
+",000,False,000,False,False,False,2,238
+"### ||| AUTO (فسح)
+",000,False,000,False,False,False,3,36
+"### ||| AUTO (فسر)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (فسط)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (فسق)
+",000,False,000,False,False,False,3,22
+"### ||| AUTO (فسكل)
+",000,False,000,False,False,False,3,35
+"### || AUTO باب الفاء مع الشين
+",000,False,000,False,False,False,2,266
+"### ||| AUTO (فشج)
+",000,False,000,False,False,False,3,26
+"### ||| AUTO (فشش)
+",000,False,000,False,False,False,3,60
+"### ||| AUTO (فشغ)
+",000,False,000,False,False,False,3,102
+"### ||| AUTO (فشل)
+",000,False,000,False,False,False,3,28
+"### || AUTO باب الفاء مع الصاد
+",000,False,000,False,False,False,2,413
+"### ||| AUTO (فصد)
+",000,False,000,False,False,False,3,86
+"### ||| AUTO (فصفص)
+",000,False,000,False,False,False,3,21
+"### ||| AUTO (فصع)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (فصل)
+",000,False,000,False,False,False,3,163
+"### ||| AUTO (فصم)
+",000,False,000,False,False,False,3,59
+"### || AUTO باب الفاء مع الضاد
+",000,False,000,False,False,False,2,766
+"### ||| AUTO (فضج)
+",000,False,000,False,False,False,3,23
+"### ||| AUTO (فضح)
+",000,False,000,False,False,False,3,32
+"### ||| AUTO (فضخ)
+",000,False,000,False,False,False,3,45
+"### ||| AUTO (فضض)
+",000,False,000,False,False,False,3,342
+"### ||| AUTO (فضل)
+",000,False,000,False,False,False,3,298
+"### || AUTO باب الفاء مع الطاء
+",000,False,000,False,False,False,2,290
+"### ||| AUTO (فطأ)
+",000,False,000,False,False,False,3,9
+"### ||| AUTO (فطر)
+",000,False,000,False,False,False,3,224
+"### || AUTO باب الفاء مع الظاء
+",000,False,000,False,False,False,2,33
+"### || AUTO باب الفاء مع العين
+",000,False,000,False,False,False,2,57
+"### ||| AUTO (فعل)
+",000,False,000,False,False,False,3,22
+"### ||| AUTO (فعم)
+",000,False,000,False,False,False,3,14
+"### || AUTO باب الفاء مع الغين
+",000,False,000,False,False,False,2,166
+"### ||| AUTO (فغر)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (فغم)
+",000,False,000,False,False,False,3,52
+"### || AUTO باب الفاء مع القاف
+",000,False,000,False,False,False,2,686
+"### ||| AUTO (فقأ)
+",000,False,000,False,False,False,3,52
+"### ||| AUTO (فقح)
+",000,False,000,False,False,False,3,34
+"### ||| AUTO (فقد)
+",000,False,000,False,False,False,3,22
+"### ||| AUTO (فقر)
+",000,False,000,False,False,False,3,421
+"### ||| AUTO (فقع)
+",000,False,000,False,False,False,3,58
+"### ||| AUTO (فقم)
+",000,False,000,False,False,False,3,31
+"### || AUTO باب الفاء مع الكاف
+",000,False,000,False,False,False,2,200
+"### ||| AUTO (فكك)
+",000,False,000,False,False,False,3,97
+"### ||| AUTO (فكن)
+",000,False,000,False,False,False,3,19
+"### || AUTO باب الفاء مع اللام
+",000,False,000,False,False,False,2,908
+"### ||| AUTO (فلت)
+",000,False,000,False,False,False,3,157
+"### ||| AUTO (فلج)
+",000,False,000,False,False,False,3,145
+"### ||| AUTO (فلح)
+",000,False,000,False,False,False,3,58
+"### ||| AUTO (بشرك الله بخير وفلح)
+",000,False,000,False,False,False,3,83
+"### ||| AUTO (فلذ)
+",000,False,000,False,False,False,3,70
+"### ||| AUTO (فلط)
+",000,False,000,False,False,False,3,14
+"### ||| AUTO (فلغ)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (فلق)
+",000,False,000,False,False,False,3,107
+"### ||| AUTO (فلك)
+",000,False,000,False,False,False,3,62
+"### ||| AUTO (فلل)
+",000,False,000,False,False,False,3,134
+"### ||| AUTO (فلم)
+",000,False,000,False,False,False,3,19
+"### || AUTO باب الفاء مع النون
+",000,False,000,False,False,False,2,307
+"### ||| AUTO (فنخ)
+",000,False,000,False,False,False,3,15
+"### ||| AUTO (فند)
+",000,False,000,False,False,False,3,136
+"### ||| AUTO (فنع)
+",000,False,000,False,False,False,3,54
+"### ||| AUTO (فنك)
+",000,False,000,False,False,False,3,43
+"### || AUTO باب الفاء مع الواو
+",000,False,000,False,False,False,2,617
+"### ||| AUTO (فوت)
+",000,False,000,False,False,False,3,109
+"### ||| AUTO (فوج)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (فوخ)
+",000,False,000,False,False,False,3,44
+"### ||| AUTO (فود)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (فور)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (فوز)
+",000,False,000,False,False,False,3,55
+"### ||| AUTO (فوض)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (فوع)
+",000,False,000,False,False,False,3,23
+"### ||| AUTO (فوق)
+",000,False,000,False,False,False,3,238
+"### ||| AUTO (فوم)
+",000,False,000,False,False,False,3,14
+"### || AUTO باب الفاء مع الهاء
+",000,False,000,False,False,False,2,177
+"### ||| AUTO (فهد)
+",000,False,000,False,False,False,3,49
+"### ||| AUTO (فهر)
+",000,False,000,False,False,False,3,57
+"### ||| AUTO (فهق)
+",000,False,000,False,False,False,3,42
+"### | AUTO كتاب القاف
+",000,False,000,False,False,False,1,15110
+"### || AUTO باب القاف مع الباء
+",000,False,000,False,False,False,2,994
+"### ||| AUTO (قبب)
+",000,False,000,False,False,False,3,51
+"### ||| AUTO (قبح)
+",000,False,000,False,False,False,3,98
+"### ||| AUTO (قبر)
+",000,False,000,False,False,False,3,61
+"### ||| AUTO (قبس)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (قبص)
+",000,False,000,False,False,False,3,39
+"### ||| AUTO (قبض)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (قبط)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (قبع)
+",000,False,000,False,False,False,3,141
+"### ||| AUTO (قبل)
+",000,False,000,False,False,False,3,469
+"### || AUTO باب القاف مع التاء
+",000,False,000,False,False,False,2,407
+"### ||| AUTO (قتب)
+",000,False,000,False,False,False,3,47
+"### ||| AUTO (قتت)
+",000,False,000,False,False,False,3,44
+"### ||| AUTO (قتر)
+",000,False,000,False,False,False,3,139
+"### ||| AUTO (قتل)
+",000,False,000,False,False,False,3,140
+"### ||| AUTO (قتن)
+",000,False,000,False,False,False,3,16
+"### || AUTO باب القاف مع الثاء
+",000,False,000,False,False,False,2,35
+"### || AUTO باب القاف مع الحاء
+",000,False,000,False,False,False,2,416
+"### ||| AUTO (قحد)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (قحر)
+",000,False,000,False,False,False,3,50
+"### ||| AUTO (قحز)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (قحط)
+",000,False,000,False,False,False,3,62
+"### ||| AUTO (قحل)
+",000,False,000,False,False,False,3,46
+"### || AUTO باب القاف مع الدال
+",000,False,000,False,False,False,2,1155
+"### ||| AUTO (قدح)
+",000,False,000,False,False,False,3,156
+"### ||| AUTO (قدد)
+",000,False,000,False,False,False,3,224
+"### ||| AUTO (قدر)
+",000,False,000,False,False,False,3,251
+"### ||| AUTO (قدس)
+",000,False,000,False,False,False,3,89
+"### ||| AUTO (قدع)
+",000,False,000,False,False,False,3,149
+"### || AUTO باب القاف مع الذال
+",000,False,000,False,False,False,2,249
+"### ||| AUTO (قذذ)
+",000,False,000,False,False,False,3,32
+"### ||| AUTO (قذر)
+",000,False,000,False,False,False,3,79
+"### ||| AUTO (قذع)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (قذف)
+",000,False,000,False,False,False,3,70
+"### || AUTO باب القاف مع الراء
+",000,False,000,False,False,False,2,3170
+"### ||| AUTO (قرأ)
+",000,False,000,False,False,False,3,222
+"### ||| AUTO (قرب)
+",000,False,000,False,False,False,3,455
+"### ||| AUTO (قرح)
+",000,False,000,False,False,False,3,54
+"### ||| AUTO (قرد)
+",000,False,000,False,False,False,3,137
+"### ||| AUTO (قردح)
+",000,False,000,False,False,False,3,35
+"### ||| AUTO (قرر)
+",000,False,000,False,False,False,3,610
+"### ||| AUTO (قرس)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (قرص)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (قرض)
+",000,False,000,False,False,False,3,221
+"### ||| AUTO (قرط)
+",000,False,000,False,False,False,3,41
+"### ||| AUTO (قرطس)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (قرع)
+",000,False,000,False,False,False,3,291
+"### ||| AUTO (قرف)
+",000,False,000,False,False,False,3,164
+"### ||| AUTO (قرفص)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (قرق)
+",000,False,000,False,False,False,3,59
+"### ||| AUTO (قرقف)
+",000,False,000,False,False,False,3,14
+"### ||| AUTO (قرم)
+",000,False,000,False,False,False,3,78
+"### ||| AUTO (قرمل)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (قرن)
+",000,False,000,False,False,False,3,521
+"### || AUTO باب القاف مع الزاي
+",000,False,000,False,False,False,2,153
+"### ||| AUTO (قزح)
+",000,False,000,False,False,False,3,98
+"### ||| AUTO (قزز)
+",000,False,000,False,False,False,3,14
+"### || AUTO باب القاف مع السين
+",000,False,000,False,False,False,2,823
+"### ||| AUTO (قسر)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (قسس)
+",000,False,000,False,False,False,3,64
+"### ||| AUTO (قسقس)
+",000,False,000,False,False,False,3,96
+"### ||| AUTO (قسط)
+",000,False,000,False,False,False,3,248
+"### ||| AUTO (قسطل)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (قسم)
+",000,False,000,False,False,False,3,258
+"### || AUTO باب القاف مع الشين
+",000,False,000,False,False,False,2,400
+"### ||| AUTO (قشب)
+",000,False,000,False,False,False,3,100
+"### ||| AUTO (قشر)
+",000,False,000,False,False,False,3,94
+"### ||| AUTO (قشقش)
+",000,False,000,False,False,False,3,34
+"### ||| AUTO (قشع)
+",000,False,000,False,False,False,3,118
+"### ||| AUTO (قشم)
+",000,False,000,False,False,False,3,21
+"### || AUTO باب القاف مع الصاد
+",000,False,000,False,False,False,2,817
+"### ||| AUTO (قصب)
+",000,False,000,False,False,False,3,80
+"### ||| AUTO (قصد)
+",000,False,000,False,False,False,3,65
+"### ||| AUTO (قصر)
+",000,False,000,False,False,False,3,176
+"### ||| AUTO (قصص)
+",000,False,000,False,False,False,3,171
+"### ||| AUTO (قصع)
+",000,False,000,False,False,False,3,97
+"### ||| AUTO (قصف)
+",000,False,000,False,False,False,3,106
+"### ||| AUTO (قصم)
+",000,False,000,False,False,False,3,90
+"### || AUTO باب القاف مع الضاد
+",000,False,000,False,False,False,2,529
+"### ||| AUTO (قضأ)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (قضب)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (قضض)
+",000,False,000,False,False,False,3,53
+"### ||| AUTO (قضقض)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (قضم)
+",000,False,000,False,False,False,3,30
+"### || AUTO باب القاف مع الطاء
+",000,False,000,False,False,False,2,920
+"### ||| AUTO (قطب)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (قطر)
+",000,False,000,False,False,False,3,130
+"### ||| AUTO (قطرب)
+",000,False,000,False,False,False,3,47
+"### ||| AUTO (قطط)
+",000,False,000,False,False,False,3,508
+"### ||| AUTO (قطف)
+",000,False,000,False,False,False,3,47
+"### ||| AUTO (قطمر)
+",000,False,000,False,False,False,3,13
+"### ||| AUTO (قطن)
+",000,False,000,False,False,False,3,56
+"### || AUTO باب القاف مع العين
+",000,False,000,False,False,False,2,434
+"### ||| AUTO (قعبر)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (قعد)
+",000,False,000,False,False,False,3,171
+"### ||| AUTO (قعر)
+",000,False,000,False,False,False,3,14
+"### ||| AUTO (قعص)
+",000,False,000,False,False,False,3,52
+"### ||| AUTO (قعط)
+",000,False,000,False,False,False,3,21
+"### ||| AUTO (قعقع)
+",000,False,000,False,False,False,3,70
+"### || AUTO باب القاف مع الفاء
+",000,False,000,False,False,False,2,601
+"### ||| AUTO (قفر)
+",000,False,000,False,False,False,3,15
+"### ||| AUTO (قفز)
+",000,False,000,False,False,False,3,59
+"### ||| AUTO (قفش)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (قفص)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (قفع)
+",000,False,000,False,False,False,3,48
+"### ||| AUTO (قفقف)
+",000,False,000,False,False,False,3,17
+"### || AUTO باب القاف مع القاف
+",000,False,000,False,False,False,2,73
+"### || AUTO باب القاف مع اللام
+",000,False,000,False,False,False,2,934
+"### ||| AUTO (قلب)
+",000,False,000,False,False,False,3,220
+"### ||| AUTO (قلت)
+",000,False,000,False,False,False,3,42
+"### ||| AUTO (قلح)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (قلد)
+",000,False,000,False,False,False,3,106
+"### ||| AUTO (قلس)
+",000,False,000,False,False,False,3,47
+"### ||| AUTO (قلع)
+",000,False,000,False,False,False,3,243
+"### ||| AUTO (قلف)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (قلل)
+",000,False,000,False,False,False,3,96
+"### ||| AUTO (قلم)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (قلن)
+",000,False,000,False,False,False,3,24
+"### ||| AUTO (قلهم)
+",000,False,000,False,False,False,3,15
+"### || AUTO باب القاف مع الميم
+",000,False,000,False,False,False,2,403
+"### ||| AUTO (قمح)
+",000,False,000,False,False,False,3,96
+"### ||| AUTO (قمر)
+",000,False,000,False,False,False,3,14
+"### ||| AUTO (قمس)
+",000,False,000,False,False,False,3,53
+"### ||| AUTO (قمص)
+",000,False,000,False,False,False,3,32
+"### ||| AUTO (قمط)
+",000,False,000,False,False,False,3,43
+"### ||| AUTO (تمطر)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (قمع)
+",000,False,000,False,False,False,3,56
+"### ||| AUTO (قمل)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (قمم)
+",000,False,000,False,False,False,3,21
+"### || AUTO باب القاف مع النون
+",000,False,000,False,False,False,2,661
+"### ||| AUTO (قنأ)
+",000,False,000,False,False,False,3,24
+"### ||| AUTO (قنب)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (قنت)
+",000,False,000,False,False,False,3,146
+"### ||| AUTO (قنزع)
+",000,False,000,False,False,False,3,44
+"### ||| AUTO (قنص)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (قنط)
+",000,False,000,False,False,False,3,14
+"### ||| AUTO (قنطر)
+",000,False,000,False,False,False,3,103
+"### ||| AUTO (قنع)
+",000,False,000,False,False,False,3,187
+"### ||| AUTO (قتن)
+",000,False,000,False,False,False,3,30
+"### || AUTO باب القاف مع الواو
+",000,False,000,False,False,False,2,1356
+"### ||| AUTO (قوب)
+",000,False,000,False,False,False,3,138
+"### ||| AUTO (قوت)
+",000,False,000,False,False,False,3,44
+"### ||| AUTO (قوح)
+",000,False,000,False,False,False,3,32
+"### ||| AUTO (قور)
+",000,False,000,False,False,False,3,53
+"### ||| AUTO (قوز)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (قوس)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (قوض)
+",000,False,000,False,False,False,3,44
+"### ||| AUTO (قول)
+",000,False,000,False,False,False,3,256
+"### ||| AUTO (قوم)
+",000,False,000,False,False,False,3,484
+"### ||| AUTO (قوا)
+",000,False,000,False,False,False,3,192
+"### || AUTO باب القاف مع الهاء
+",000,False,000,False,False,False,2,68
+"### ||| AUTO (قهز)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (قهقهر)
+",000,False,000,False,False,False,3,29
+"### | AUTO كتاب الكاف
+",000,False,000,False,False,False,1,7940
+"### || AUTO باب الكاف مع الباء
+",000,False,000,False,False,False,2,980
+"### ||| AUTO (كبب)
+",000,False,000,False,False,False,3,70
+"### ||| AUTO (كبت)
+",000,False,000,False,False,False,3,57
+"### ||| AUTO (كبث)
+",000,False,000,False,False,False,3,14
+"### ||| AUTO (كبد)
+",000,False,000,False,False,False,3,120
+"### ||| AUTO (كبر)
+",000,False,000,False,False,False,3,344
+"### ||| AUTO (كبس)
+",000,False,000,False,False,False,3,72
+"### ||| AUTO (كبش)
+",000,False,000,False,False,False,3,63
+"### ||| AUTO (كبل)
+",000,False,000,False,False,False,3,82
+"### ||| AUTO (كبن)
+",000,False,000,False,False,False,3,18
+"### || AUTO باب الكاف مع التاء
+",000,False,000,False,False,False,2,258
+"### ||| AUTO (كتب)
+",000,False,000,False,False,False,3,184
+"### ||| AUTO (كتب)
+",000,False,000,False,False,False,3,30
+"### || AUTO باب الكاف مع الثاء
+",000,False,000,False,False,False,2,291
+"### ||| AUTO (كثب)
+",000,False,000,False,False,False,3,95
+"### ||| AUTO (كثث)
+",000,False,000,False,False,False,3,58
+"### || AUTO باب الكاف مع الجيم
+",000,False,000,False,False,False,2,36
+"### || AUTO باب الكاف مع الحاء
+",000,False,000,False,False,False,2,22
+"### || AUTO باب الكاف مع الحاء
+",000,False,000,False,False,False,2,31
+"### || AUTO باب الكاف مع الدال
+",000,False,000,False,False,False,2,226
+"### ||| AUTO (كدب)
+",000,False,000,False,False,False,3,10
+"### ||| AUTO (كدح)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (كدر)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (كدس)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (كدم)
+",000,False,000,False,False,False,3,17
+"### || AUTO باب الكاف مع الذال
+",000,False,000,False,False,False,2,337
+"### || AUTO باب الكاف مع الراء
+",000,False,000,False,False,False,2,954
+"### ||| AUTO (كرب)
+",000,False,000,False,False,False,3,10
+"### ||| AUTO (كرب)
+",000,False,000,False,False,False,3,67
+"### ||| AUTO (كرد)
+",000,False,000,False,False,False,3,22
+"### ||| AUTO (كردس)
+",000,False,000,False,False,False,3,41
+"### ||| AUTO (كرر)
+",000,False,000,False,False,False,3,131
+"### ||| AUTO (كرزن)
+",000,False,000,False,False,False,3,15
+"### ||| AUTO (كرس)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (كرش)
+",000,False,000,False,False,False,3,79
+"### ||| AUTO (كرع)
+",000,False,000,False,False,False,3,93
+"### ||| AUTO (كركم)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (كرم)
+",000,False,000,False,False,False,3,270
+"### ||| AUTO (كرنف)
+",000,False,000,False,False,False,3,34
+"### ||| AUTO (كره)
+",000,False,000,False,False,False,3,103
+"### || AUTO باب الكاف مع الزاي
+",000,False,000,False,False,False,2,78
+"### || AUTO باب الكاف مع السين
+",000,False,000,False,False,False,2,333
+"### ||| AUTO (كسب)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (كسح)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (كسر)
+",000,False,000,False,False,False,3,35
+"### ||| AUTO (كسع)
+",000,False,000,False,False,False,3,65
+"### ||| AUTO (كسف)
+",000,False,000,False,False,False,3,87
+"### ||| AUTO (كسل)
+",000,False,000,False,False,False,3,41
+"### || AUTO باب الكاف مع الشين
+",000,False,000,False,False,False,2,102
+"### ||| AUTO (كشح)
+",000,False,000,False,False,False,3,21
+"### ||| AUTO (كشط)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (كشف)
+",000,False,000,False,False,False,3,30
+"### || AUTO باب الكاف مع الظاء
+",000,False,000,False,False,False,2,166
+"### ||| AUTO (كظظ)
+",000,False,000,False,False,False,3,66
+"### || AUTO باب الكاف مع العين
+",000,False,000,False,False,False,2,95
+"### ||| AUTO (كعب)
+",000,False,000,False,False,False,3,36
+"### ||| AUTO (كعكع)
+",000,False,000,False,False,False,3,16
+"### || AUTO باب الكاف مع الفاء
+",000,False,000,False,False,False,2,1533
+"### ||| AUTO (كفأ)
+",000,False,000,False,False,False,3,487
+"### ||| AUTO (كفت)
+",000,False,000,False,False,False,3,140
+"### ||| AUTO (كفح)
+",000,False,000,False,False,False,3,139
+"### ||| AUTO (كفر)
+",000,False,000,False,False,False,3,332
+"### ||| AUTO (كفف)
+",000,False,000,False,False,False,3,253
+"### ||| AUTO (كفل)
+",000,False,000,False,False,False,3,160
+"### || AUTO باب الكاف مع اللام
+",000,False,000,False,False,False,2,710
+"### ||| AUTO (كلا)
+",000,False,000,False,False,False,3,164
+"### ||| AUTO (كلب)
+",000,False,000,False,False,False,3,80
+"### ||| AUTO (كلثم)
+",000,False,000,False,False,False,3,36
+"### ||| AUTO (كلح)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (كلل)
+",000,False,000,False,False,False,3,229
+"### || AUTO باب الكاف مع الميم
+",000,False,000,False,False,False,2,328
+"### ||| AUTO (كمش)
+",000,False,000,False,False,False,3,32
+"### ||| AUTO (كمع)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (كمل)
+",000,False,000,False,False,False,3,21
+"### ||| AUTO (كمم)
+",000,False,000,False,False,False,3,108
+"### ||| AUTO (كمن)
+",000,False,000,False,False,False,3,54
+"### || AUTO باب الكاف مع النون
+",000,False,000,False,False,False,2,85
+"### ||| AUTO (كنع)
+",000,False,000,False,False,False,3,21
+"### || AUTO باب الكاف مع الواو
+",000,False,000,False,False,False,2,417
+"### ||| AUTO (كوب)
+",000,False,000,False,False,False,3,42
+"### ||| AUTO (كور)
+",000,False,000,False,False,False,3,57
+"### ||| AUTO (كوز)
+",000,False,000,False,False,False,3,14
+"### ||| AUTO (كوس)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (كوع)
+",000,False,000,False,False,False,3,36
+"### ||| AUTO (كوم)
+",000,False,000,False,False,False,3,43
+"### || AUTO باب الكاف مع الهاء
+",000,False,000,False,False,False,2,372
+"### ||| AUTO (كهر)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (كهل)
+",000,False,000,False,False,False,3,277
+"### ||| AUTO (كهه)
+",000,False,000,False,False,False,3,16
+"### | AUTO كتاب اللام
+",000,False,000,False,False,False,1,7349
+"### || AUTO باب اللام مع الهمزة
+",000,False,000,False,False,False,2,169
+"### ||| AUTO (لأم)
+",000,False,000,False,False,False,3,34
+"### ||| AUTO (لأواء)
+",000,False,000,False,False,False,3,12
+"### ||| AUTO (لألأ)
+",000,False,000,False,False,False,3,21
+"### || AUTO باب اللام مع الباء
+",000,False,000,False,False,False,2,1068
+"### ||| AUTO (لبأ)
+",000,False,000,False,False,False,3,36
+"### ||| AUTO (لبب)
+",000,False,000,False,False,False,3,235
+"### ||| AUTO (لبد)
+",000,False,000,False,False,False,3,146
+"### ||| AUTO (لبد)
+",000,False,000,False,False,False,3,136
+"### ||| AUTO (لبس)
+",000,False,000,False,False,False,3,208
+"### ||| AUTO (لبط)
+",000,False,000,False,False,False,3,109
+"### ||| AUTO (لبك)
+",000,False,000,False,False,False,3,25
+"### || AUTO باب اللام مع التاء
+",000,False,000,False,False,False,2,37
+"### || AUTO باب اللام مع الثاء
+",000,False,000,False,False,False,2,101
+"### ||| AUTO (لثث)
+",000,False,000,False,False,False,3,34
+"### ||| AUTO (لثق)
+",000,False,000,False,False,False,3,21
+"### || AUTO باب اللام مع الجيم
+",000,False,000,False,False,False,2,329
+"### ||| AUTO (لجب)
+",000,False,000,False,False,False,3,47
+"### ||| AUTO (لجج)
+",000,False,000,False,False,False,3,212
+"### || AUTO باب اللام مع الحاء
+",000,False,000,False,False,False,2,911
+"### ||| AUTO (لحب)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (لحت)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (لحح)
+",000,False,000,False,False,False,3,75
+"### ||| AUTO (لحد)
+",000,False,000,False,False,False,3,100
+"### ||| AUTO (لحط)
+",000,False,000,False,False,False,3,26
+"### ||| AUTO (لحظ)
+",000,False,000,False,False,False,3,35
+"### ||| AUTO (لحف)
+",000,False,000,False,False,False,3,79
+"### ||| AUTO (لحك)
+",000,False,000,False,False,False,3,26
+"### ||| AUTO (لحم)
+",000,False,000,False,False,False,3,173
+"### ||| AUTO (لحن)
+",000,False,000,False,False,False,3,240
+"### || AUTO باب اللام مع الخاء
+",000,False,000,False,False,False,2,102
+"### ||| AUTO (لخخ)
+",000,False,000,False,False,False,3,70
+"### || AUTO باب اللام مع الدال
+",000,False,000,False,False,False,2,275
+"### ||| AUTO (لدد)
+",000,False,000,False,False,False,3,131
+"### ||| AUTO (لدم)
+",000,False,000,False,False,False,3,90
+"### || AUTO باب اللام مع الذال
+",000,False,000,False,False,False,2,113
+"### || AUTO باب اللام مع الزاي
+",000,False,000,False,False,False,2,84
+"### ||| AUTO (لزب)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (لزز)
+",000,False,000,False,False,False,3,15
+"### || AUTO باب اللام مع السين
+",000,False,000,False,False,False,2,30
+"### || AUTO باب اللام مع الصاد
+",000,False,000,False,False,False,2,68
+"### ||| AUTO (لصق)
+",000,False,000,False,False,False,3,44
+"### || AUTO باب اللام مع الطاء
+",000,False,000,False,False,False,2,178
+"### ||| AUTO (لطأ)
+",000,False,000,False,False,False,3,12
+"### ||| AUTO (لطط)
+",000,False,000,False,False,False,3,129
+"### || AUTO باب اللام مع الظاء
+",000,False,000,False,False,False,2,42
+"### ||| AUTO (لظظ)
+",000,False,000,False,False,False,3,23
+"### || AUTO باب اللام مع العين
+",000,False,000,False,False,False,2,308
+"### ||| AUTO (لعب)
+",000,False,000,False,False,False,3,36
+"### ||| AUTO (لعثم)
+",000,False,000,False,False,False,3,37
+"### ||| AUTO (لعس)
+",000,False,000,False,False,False,3,56
+"### ||| AUTO (لعط)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (لعع)
+",000,False,000,False,False,False,3,24
+"### ||| AUTO (لعلع)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (لعق)
+",000,False,000,False,False,False,3,18
+"### || AUTO باب اللام مع الغين
+",000,False,000,False,False,False,2,334
+"### ||| AUTO (لغب)
+",000,False,000,False,False,False,3,37
+"### ||| AUTO (لغز)
+",000,False,000,False,False,False,3,49
+"### ||| AUTO (لغن)
+",000,False,000,False,False,False,3,23
+"### || AUTO باب اللام مع الفاء
+",000,False,000,False,False,False,2,423
+"### ||| AUTO (لفت)
+",000,False,000,False,False,False,3,142
+"### ||| AUTO (لفج)
+",000,False,000,False,False,False,3,61
+"### ||| AUTO (لفح)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (لفع)
+",000,False,000,False,False,False,3,37
+"### ||| AUTO (لفف)
+",000,False,000,False,False,False,3,82
+"### || AUTO باب اللام مع القاف
+",000,False,000,False,False,False,2,684
+"### ||| AUTO (لقح)
+",000,False,000,False,False,False,3,240
+"### ||| AUTO (لقس)
+",000,False,000,False,False,False,3,41
+"### ||| AUTO (لقط)
+",000,False,000,False,False,False,3,42
+"### ||| AUTO (لقع)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (لقف)
+",000,False,000,False,False,False,3,47
+"### ||| AUTO (لقلق)
+",000,False,000,False,False,False,3,24
+"### ||| AUTO (لقق)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (لقن)
+",000,False,000,False,False,False,3,47
+"### || AUTO باب اللام مع الكاف
+",000,False,000,False,False,False,2,133
+"### ||| AUTO (لكد)
+",000,False,000,False,False,False,3,19
+"### || AUTO باب اللام مع الميم
+",000,False,000,False,False,False,2,639
+"### ||| AUTO (لمأ)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (لمز)
+",000,False,000,False,False,False,3,57
+"### ||| AUTO (لمس)
+",000,False,000,False,False,False,3,56
+"### ||| AUTO (لمظ)
+",000,False,000,False,False,False,3,23
+"### ||| AUTO (لمع)
+",000,False,000,False,False,False,3,88
+"### ||| AUTO (لمم)
+",000,False,000,False,False,False,3,298
+"### ||| AUTO (لملم)
+",000,False,000,False,False,False,3,21
+"### || AUTO باب اللام مع الواو
+",000,False,000,False,False,False,2,919
+"### ||| AUTO (لوب)
+",000,False,000,False,False,False,3,86
+"### ||| AUTO (لوث)
+",000,False,000,False,False,False,3,110
+"### ||| AUTO (لوح)
+",000,False,000,False,False,False,3,81
+"### ||| AUTO (لوذ)
+",000,False,000,False,False,False,3,59
+"### ||| AUTO (لوص)
+",000,False,000,False,False,False,3,57
+"### ||| AUTO (لوط)
+",000,False,000,False,False,False,3,221
+"### ||| AUTO (لوق)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (لوم)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (لون)
+",000,False,000,False,False,False,3,51
+"### || AUTO باب اللام مع الهاء
+",000,False,000,False,False,False,2,257
+"### ||| AUTO (لهث)
+",000,False,000,False,False,False,3,54
+"### ||| AUTO (لهف)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (لهق)
+",000,False,000,False,False,False,3,33
+"### | AUTO كتاب الميم
+",000,False,000,False,False,False,1,10363
+"### || AUTO باب الميم مع الهمزة
+",000,False,000,False,False,False,2,144
+"### ||| AUTO (مأق)
+",000,False,000,False,False,False,3,85
+"### || AUTO باب الميم مع التاء
+",000,False,000,False,False,False,2,393
+"### ||| AUTO (متح)
+",000,False,000,False,False,False,3,62
+"### ||| AUTO (متخ)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (متع)
+",000,False,000,False,False,False,3,217
+"### || AUTO باب الميم مع الثاء
+",000,False,000,False,False,False,2,462
+"### ||| AUTO (مثل)
+",000,False,000,False,False,False,3,427
+"### || AUTO باب الميم مع الجيم
+",000,False,000,False,False,False,2,342
+"### ||| AUTO (مجج)
+",000,False,000,False,False,False,3,91
+"### ||| AUTO (مجد)
+",000,False,000,False,False,False,3,49
+"### ||| AUTO (مجر)
+",000,False,000,False,False,False,3,77
+"### ||| AUTO (مجع)
+",000,False,000,False,False,False,3,69
+"### || AUTO باب الميم مع الحاء
+",000,False,000,False,False,False,2,546
+"### ||| AUTO (محح)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (محش)
+",000,False,000,False,False,False,3,23
+"### ||| AUTO (محص)
+",000,False,000,False,False,False,3,85
+"### ||| AUTO (محق)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (محل)
+",000,False,000,False,False,False,3,317
+"### ||| AUTO (محن)
+",000,False,000,False,False,False,3,37
+"### || AUTO باب الميم مع الخاء
+",000,False,000,False,False,False,2,135
+"### || AUTO باب الميم مع الدال
+",000,False,000,False,False,False,2,285
+"### ||| AUTO (مدد)
+",000,False,000,False,False,False,3,114
+"### ||| AUTO (مدر)
+",000,False,000,False,False,False,3,94
+"### || AUTO باب الميم مع الذال
+",000,False,000,False,False,False,2,233
+"### ||| AUTO (مذح)
+",000,False,000,False,False,False,3,43
+"### ||| AUTO (مذق)
+",000,False,000,False,False,False,3,23
+"### ||| AUTO (مذقر)
+",000,False,000,False,False,False,3,54
+"### ||| AUTO (مذل)
+",000,False,000,False,False,False,3,67
+"### || AUTO باب الميم مع الراء
+",000,False,000,False,False,False,2,1295
+"### ||| AUTO (مرأ)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (مرث)
+",000,False,000,False,False,False,3,57
+"### ||| AUTO (مرج)
+",000,False,000,False,False,False,3,148
+"### ||| AUTO (مرخ)
+",000,False,000,False,False,False,3,116
+"### ||| AUTO (مرر)
+",000,False,000,False,False,False,3,310
+"### ||| AUTO (مرز)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (مرس)
+",000,False,000,False,False,False,3,65
+"### ||| AUTO (مرش)
+",000,False,000,False,False,False,3,50
+"### ||| AUTO (مرض)
+",000,False,000,False,False,False,3,66
+"### ||| AUTO (مرط)
+",000,False,000,False,False,False,3,57
+"### ||| AUTO (مرع)
+",000,False,000,False,False,False,3,53
+"### ||| AUTO (مرق)
+",000,False,000,False,False,False,3,41
+"### ||| AUTO (مره)
+",000,False,000,False,False,False,3,12
+"### || AUTO باب الميم مع الزاي
+",000,False,000,False,False,False,2,135
+"### ||| AUTO (مزز)
+",000,False,000,False,False,False,3,56
+"### ||| AUTO (مزع)
+",000,False,000,False,False,False,3,41
+"### || AUTO باب الميم مع السين
+",000,False,000,False,False,False,2,728
+"### ||| AUTO (مسح)
+",000,False,000,False,False,False,3,413
+"### ||| AUTO (مسد)
+",000,False,000,False,False,False,3,43
+"### ||| AUTO (مس)
+",000,False,000,False,False,False,3,74
+"### || AUTO باب الميم مع الشين
+",000,False,000,False,False,False,2,289
+"### ||| AUTO (مشج)
+",000,False,000,False,False,False,3,48
+"### ||| AUTO (مشر)
+",000,False,000,False,False,False,3,61
+"### ||| AUTO (مشش)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (مشط)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (مشع)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (مشق)
+",000,False,000,False,False,False,3,27
+"### || AUTO باب الميم مع الصاد
+",000,False,000,False,False,False,2,223
+"### ||| AUTO (مصخ)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (مصر)
+",000,False,000,False,False,False,3,54
+"### ||| AUTO (مصص)
+",000,False,000,False,False,False,3,97
+"### || AUTO باب الميم مع الضاد
+",000,False,000,False,False,False,2,161
+"### ||| AUTO (مضر)
+",000,False,000,False,False,False,3,47
+"### ||| AUTO (مضض)
+",000,False,000,False,False,False,3,47
+"### || AUTO باب الميم مع الطاء
+",000,False,000,False,False,False,2,138
+"### ||| AUTO (مطر)
+",000,False,000,False,False,False,3,32
+"### ||| AUTO (مطط)
+",000,False,000,False,False,False,3,50
+"### || AUTO باب الميم مع الظاء
+",000,False,000,False,False,False,2,50
+"### || AUTO باب الميم مع العين
+",000,False,000,False,False,False,2,547
+"### ||| AUTO (معج)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (معد)
+",000,False,000,False,False,False,3,45
+"### ||| AUTO (معر)
+",000,False,000,False,False,False,3,71
+"### ||| AUTO (معز)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (معس)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (معط)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (معمع)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (معك)
+",000,False,000,False,False,False,3,33
+"### ||| AUTO (معن)
+",000,False,000,False,False,False,3,173
+"### || AUTO باب الميم مع الغين
+",000,False,000,False,False,False,2,161
+"### ||| AUTO (مغث)
+",000,False,000,False,False,False,3,14
+"### ||| AUTO (مغر)
+",000,False,000,False,False,False,3,76
+"### ||| AUTO (مغط)
+",000,False,000,False,False,False,3,40
+"### || AUTO باب الميم مع الفاء
+",000,False,000,False,False,False,2,45
+"### || AUTO باب الميم مع القاف
+",000,False,000,False,False,False,2,241
+"### ||| AUTO (مقت)
+",000,False,000,False,False,False,3,90
+"### ||| AUTO (مقط)
+",000,False,000,False,False,False,3,26
+"### ||| AUTO (مقل)
+",000,False,000,False,False,False,3,101
+"### || AUTO باب الميم مع الكاف
+",000,False,000,False,False,False,2,372
+"### ||| AUTO (مكد)
+",000,False,000,False,False,False,3,58
+"### ||| AUTO (مكر)
+",000,False,000,False,False,False,3,82
+"### ||| AUTO (مكس)
+",000,False,000,False,False,False,3,26
+"### ||| AUTO (مكك)
+",000,False,000,False,False,False,3,33
+"### || AUTO باب الميم مع اللام
+",000,False,000,False,False,False,2,1385
+"### ||| AUTO (ملأ)
+",000,False,000,False,False,False,3,150
+"### ||| AUTO (ملج)
+",000,False,000,False,False,False,3,99
+"### ||| AUTO (ملح)
+",000,False,000,False,False,False,3,275
+"### ||| AUTO (ملخ)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (ملس)
+",000,False,000,False,False,False,3,24
+"### ||| AUTO (ملص)
+",000,False,000,False,False,False,3,42
+"### ||| AUTO (ملق)
+",000,False,000,False,False,False,3,92
+"### ||| AUTO (ملك)
+",000,False,000,False,False,False,3,8
+"### ||| AUTO (ملك)
+",000,False,000,False,False,False,3,261
+"### ||| AUTO (ملل)
+",000,False,000,False,False,False,3,356
+"### || AUTO باب الميم مع النون
+",000,False,000,False,False,False,2,713
+"### ||| AUTO (منح)
+",000,False,000,False,False,False,3,141
+"### ||| AUTO (منع)
+",000,False,000,False,False,False,3,51
+"### ||| AUTO (منن)
+",000,False,000,False,False,False,3,219
+"### || AUTO باب الميم مع الواو
+",000,False,000,False,False,False,2,215
+"### ||| AUTO (موت)
+",000,False,000,False,False,False,3,69
+"### ||| AUTO (موج)
+",000,False,000,False,False,False,3,21
+"### ||| AUTO (مور)
+",000,False,000,False,False,False,3,63
+"### ||| AUTO (موص)
+",000,False,000,False,False,False,3,30
+"### || AUTO باب الميم مع الهاء
+",000,False,000,False,False,False,2,466
+"### ||| AUTO (مهد)
+",000,False,000,False,False,False,3,42
+"### ||| AUTO (مهر)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (مهش)
+",000,False,000,False,False,False,3,46
+"### ||| AUTO (مهق)
+",000,False,000,False,False,False,3,21
+"### ||| AUTO (مهل)
+",000,False,000,False,False,False,3,102
+"### ||| AUTO (مهم)
+",000,False,000,False,False,False,3,48
+"### ||| AUTO (مهن)
+",000,False,000,False,False,False,3,72
+"### | AUTO كتاب النون
+",000,False,000,False,False,False,1,16692
+"### || AUTO باب النون مع الهمزة
+",000,False,000,False,False,False,2,111
+"### ||| AUTO (نأج)
+",000,False,000,False,False,False,3,42
+"### || AUTO باب النون مع الباء
+",000,False,000,False,False,False,2,827
+"### ||| AUTO (نبأ)
+",000,False,000,False,False,False,3,61
+"### ||| AUTO (نبب)
+",000,False,000,False,False,False,3,24
+"### ||| AUTO (نبت)
+",000,False,000,False,False,False,3,71
+"### ||| AUTO (نبذ)
+",000,False,000,False,False,False,3,274
+"### ||| AUTO (نبز)
+",000,False,000,False,False,False,3,11
+"### ||| AUTO (نبس)
+",000,False,000,False,False,False,3,13
+"### ||| AUTO (نبط)
+",000,False,000,False,False,False,3,108
+"### ||| AUTO (نبغ)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (نبل)
+",000,False,000,False,False,False,3,124
+"### ||| AUTO (نبا)
+",000,False,000,False,False,False,3,80
+"### || AUTO باب النون مع التاء
+",000,False,000,False,False,False,2,417
+"### ||| AUTO (نتج)
+",000,False,000,False,False,False,3,47
+"### ||| AUTO (نتخ)
+",000,False,000,False,False,False,3,36
+"### ||| AUTO (نتر)
+",000,False,000,False,False,False,3,86
+"### ||| AUTO (نتش)
+",000,False,000,False,False,False,3,36
+"### ||| AUTO (نتق)
+",000,False,000,False,False,False,3,106
+"### || AUTO باب النون مع الثاء
+",000,False,000,False,False,False,2,367
+"### ||| AUTO (نثث)
+",000,False,000,False,False,False,3,91
+"### ||| AUTO (نثر)
+",000,False,000,False,False,False,3,137
+"### ||| AUTO (نثط)
+",000,False,000,False,False,False,3,41
+"### ||| AUTO (نثل)
+",000,False,000,False,False,False,3,25
+"### || AUTO باب النون مع الجيم
+",000,False,000,False,False,False,2,1132
+"### ||| AUTO (نجا)
+",000,False,000,False,False,False,3,41
+"### ||| AUTO (نجب)
+",000,False,000,False,False,False,3,39
+"### ||| AUTO (نجث)
+",000,False,000,False,False,False,3,48
+"### ||| AUTO (نجد)
+",000,False,000,False,False,False,3,282
+"### ||| AUTO (نجذ)
+",000,False,000,False,False,False,3,132
+"### ||| AUTO (نجس)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (نجش)
+",000,False,000,False,False,False,3,54
+"### ||| AUTO (نجع)
+",000,False,000,False,False,False,3,76
+"### ||| AUTO (نجف)
+",000,False,000,False,False,False,3,44
+"### ||| AUTO (نجل)
+",000,False,000,False,False,False,3,74
+"### ||| AUTO (نجم)
+",000,False,000,False,False,False,3,88
+"### ||| AUTO (نجا)
+",000,False,000,False,False,False,3,207
+"### || AUTO باب النون مع الحاء
+",000,False,000,False,False,False,2,357
+"### ||| AUTO (نحب)
+",000,False,000,False,False,False,3,127
+"### ||| AUTO (نحر)
+",000,False,000,False,False,False,3,54
+"### ||| AUTO (نحس)
+",000,False,000,False,False,False,3,12
+"### ||| AUTO (نحص)
+",000,False,000,False,False,False,3,26
+"### ||| AUTO (نحل)
+",000,False,000,False,False,False,3,56
+"### ||| AUTO (نحم)
+",000,False,000,False,False,False,3,15
+"### || AUTO باب النون مع الخاء
+",000,False,000,False,False,False,2,424
+"### ||| AUTO (نخب)
+",000,False,000,False,False,False,3,48
+"### ||| AUTO (نخخ)
+",000,False,000,False,False,False,3,52
+"### ||| AUTO (نخر)
+",000,False,000,False,False,False,3,154
+"### ||| AUTO (نخس)
+",000,False,000,False,False,False,3,35
+"### ||| AUTO (نخش)
+",000,False,000,False,False,False,3,44
+"### ||| AUTO (نخع)
+",000,False,000,False,False,False,3,43
+"### ||| AUTO (نخل)
+",000,False,000,False,False,False,3,27
+"### || AUTO باب النون مع الدال
+",000,False,000,False,False,False,2,451
+"### ||| AUTO (ندب)
+",000,False,000,False,False,False,3,53
+"### ||| AUTO (ندح)
+",000,False,000,False,False,False,3,57
+"### ||| AUTO (ندد)
+",000,False,000,False,False,False,3,11
+"### ||| AUTO (ندر)
+",000,False,000,False,False,False,3,22
+"### ||| AUTO (ندس)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (ندغ)
+",000,False,000,False,False,False,3,23
+"### || AUTO باب النون مع الذال
+",000,False,000,False,False,False,2,198
+"### || AUTO باب النون مع الزاي
+",000,False,000,False,False,False,2,563
+"### ||| AUTO (نزح)
+",000,False,000,False,False,False,3,21
+"### ||| AUTO (نزر)
+",000,False,000,False,False,False,3,58
+"### ||| AUTO (نزع)
+",000,False,000,False,False,False,3,249
+"### ||| AUTO (نزغ)
+",000,False,000,False,False,False,3,36
+"### ||| AUTO (نزف)
+",000,False,000,False,False,False,3,57
+"### ||| AUTO (نزك)
+",000,False,000,False,False,False,3,53
+"### ||| AUTO (نزل)
+",000,False,000,False,False,False,3,65
+"### || AUTO باب النون مع السين
+",000,False,000,False,False,False,2,953
+"### ||| AUTO (نسأ)
+",000,False,000,False,False,False,3,171
+"### ||| AUTO (نسج)
+",000,False,000,False,False,False,3,53
+"### ||| AUTO (نسخ)
+",000,False,000,False,False,False,3,57
+"### ||| AUTO (نس)
+",000,False,000,False,False,False,3,42
+"### ||| AUTO (نسنس)
+",000,False,000,False,False,False,3,33
+"### ||| AUTO (نسف)
+",000,False,000,False,False,False,3,41
+"### ||| AUTO (نسق)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (نسك)
+",000,False,000,False,False,False,3,138
+"### ||| AUTO (نسل)
+",000,False,000,False,False,False,3,68
+"### ||| AUTO (نسم)
+",000,False,000,False,False,False,3,136
+"### || AUTO باب النون مع الشين
+",000,False,000,False,False,False,2,1444
+"### ||| AUTO (نشأ)
+",000,False,000,False,False,False,3,184
+"### ||| AUTO (نشب)
+",000,False,000,False,False,False,3,21
+"### ||| AUTO (نشج)
+",000,False,000,False,False,False,3,125
+"### ||| AUTO (نشر)
+",000,False,000,False,False,False,3,248
+"### ||| AUTO (نشز)
+",000,False,000,False,False,False,3,100
+"### ||| AUTO (نشش)
+",000,False,000,False,False,False,3,359
+"### ||| AUTO (نشط)
+",000,False,000,False,False,False,3,50
+"### ||| AUTO (نشغ)
+",000,False,000,False,False,False,3,109
+"### ||| AUTO (نشق)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (نشف)
+",000,False,000,False,False,False,3,26
+"### ||| AUTO (نشل)
+",000,False,000,False,False,False,3,53
+"### ||| AUTO (نشم)
+",000,False,000,False,False,False,3,72
+"### || AUTO باب النون مع الصاد
+",000,False,000,False,False,False,2,859
+"### ||| AUTO (نصب)
+",000,False,000,False,False,False,3,136
+"### ||| AUTO (نصت)
+",000,False,000,False,False,False,3,21
+"### ||| AUTO (نصح)
+",000,False,000,False,False,False,3,78
+"### ||| AUTO (نصر)
+",000,False,000,False,False,False,3,142
+"### ||| AUTO (نصص)
+",000,False,000,False,False,False,3,164
+"### ||| AUTO (نصنص)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (نصع)
+",000,False,000,False,False,False,3,41
+"### ||| AUTO (نصف)
+",000,False,000,False,False,False,3,65
+"### ||| AUTO (نصل)
+",000,False,000,False,False,False,3,75
+"### || AUTO باب النون مع الضاد
+",000,False,000,False,False,False,2,612
+"### ||| AUTO (نضب)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (نضج)
+",000,False,000,False,False,False,3,117
+"### ||| AUTO (نضخ)
+",000,False,000,False,False,False,3,91
+"### ||| AUTO (نضد)
+",000,False,000,False,False,False,3,122
+"### ||| AUTO (نضر)
+",000,False,000,False,False,False,3,168
+"### ||| AUTO (نضض)
+",000,False,000,False,False,False,3,65
+"### || AUTO باب النون مع الطاء
+",000,False,000,False,False,False,2,569
+"### ||| AUTO (نطح)
+",000,False,000,False,False,False,3,53
+"### ||| AUTO (نطس)
+",000,False,000,False,False,False,3,56
+"### ||| AUTO (نطنط)
+",000,False,000,False,False,False,3,24
+"### ||| AUTO (نطع)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (نطف)
+",000,False,000,False,False,False,3,75
+"### ||| AUTO (نطق)
+",000,False,000,False,False,False,3,194
+"### ||| AUTO (نطل)
+",000,False,000,False,False,False,3,23
+"### || AUTO باب النون مع الظاء
+",000,False,000,False,False,False,2,317
+"### || AUTO باب النون مع العين
+",000,False,000,False,False,False,2,717
+"### ||| AUTO (نعث)
+",000,False,000,False,False,False,3,39
+"### ||| AUTO (نعج)
+",000,False,000,False,False,False,3,24
+"### ||| AUTO (نعر)
+",000,False,000,False,False,False,3,110
+"### ||| AUTO (نعش)
+",000,False,000,False,False,False,3,41
+"### ||| AUTO (نعظ)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (نعف)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (نعق)
+",000,False,000,False,False,False,3,14
+"### ||| AUTO (نعل)
+",000,False,000,False,False,False,3,58
+"### ||| AUTO (نعم)
+",000,False,000,False,False,False,3,202
+"### || AUTO باب النون مع الغين
+",000,False,000,False,False,False,2,276
+"### ||| AUTO (نغر)
+",000,False,000,False,False,False,3,58
+"### ||| AUTO (نغش)
+",000,False,000,False,False,False,3,55
+"### ||| AUTO (نغض)
+",000,False,000,False,False,False,3,133
+"### || AUTO باب النون مع الفاء
+",000,False,000,False,False,False,2,1510
+"### ||| AUTO (نفث)
+",000,False,000,False,False,False,3,96
+"### ||| AUTO (نفج)
+",000,False,000,False,False,False,3,121
+"### ||| AUTO (نفخ)
+",000,False,000,False,False,False,3,44
+"### ||| AUTO (نفذ)
+",000,False,000,False,False,False,3,144
+"### ||| AUTO (نفر)
+",000,False,000,False,False,False,3,130
+"### ||| AUTO (نفس)
+",000,False,000,False,False,False,3,452
+"### ||| AUTO (نفش)
+",000,False,000,False,False,False,3,51
+"### ||| AUTO (نفض)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (نفق)
+",000,False,000,False,False,False,3,187
+"### ||| AUTO (نفل)
+",000,False,000,False,False,False,3,125
+"### ||| AUTO (نفه)
+",000,False,000,False,False,False,3,14
+"### || AUTO باب النون مع القاف
+",000,False,000,False,False,False,2,1078
+"### ||| AUTO (نقب)
+",000,False,000,False,False,False,3,164
+"### ||| AUTO (نقث)
+",000,False,000,False,False,False,3,33
+"### ||| AUTO (نقخ)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (نقد)
+",000,False,000,False,False,False,3,42
+"### ||| AUTO (نقذ)
+",000,False,000,False,False,False,3,14
+"### ||| AUTO (نقر)
+",000,False,000,False,False,False,3,123
+"### ||| AUTO (نقز)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (نقش)
+",000,False,000,False,False,False,3,94
+"### ||| AUTO (نقص)
+",000,False,000,False,False,False,3,22
+"### ||| AUTO (نقض)
+",000,False,000,False,False,False,3,42
+"### ||| AUTO (نقع)
+",000,False,000,False,False,False,3,287
+"### ||| AUTO (نقف)
+",000,False,000,False,False,False,3,52
+"### ||| AUTO (نقل)
+",000,False,000,False,False,False,3,47
+"### || AUTO باب النون مع الكاف
+",000,False,000,False,False,False,2,643
+"### ||| AUTO (نكب)
+",000,False,000,False,False,False,3,102
+"### ||| AUTO (نكت)
+",000,False,000,False,False,False,3,44
+"### ||| AUTO (نكث)
+",000,False,000,False,False,False,3,59
+"### ||| AUTO (نكد)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (نكر)
+",000,False,000,False,False,False,3,119
+"### ||| AUTO (نكس)
+",000,False,000,False,False,False,3,65
+"### ||| AUTO (نكش)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (نكص)
+",000,False,000,False,False,False,3,59
+"### || AUTO باب النون مع الميم
+",000,False,000,False,False,False,2,359
+"### ||| AUTO (نمر)
+",000,False,000,False,False,False,3,52
+"### ||| AUTO (نمس)
+",000,False,000,False,False,False,3,36
+"### ||| AUTO (نمص)
+",000,False,000,False,False,False,3,21
+"### ||| AUTO (نمط)
+",000,False,000,False,False,False,3,40
+"### ||| AUTO (نمل)
+",000,False,000,False,False,False,3,49
+"### || AUTO باب النون مع الواو
+",000,False,000,False,False,False,2,1480
+"### ||| AUTO (نوأ)
+",000,False,000,False,False,False,3,253
+"### ||| AUTO (نور)
+",000,False,000,False,False,False,3,435
+"### ||| AUTO (نوز)
+",000,False,000,False,False,False,3,44
+"### ||| AUTO (نوس)
+",000,False,000,False,False,False,3,55
+"### ||| AUTO (نوش)
+",000,False,000,False,False,False,3,68
+"### ||| AUTO (نوص)
+",000,False,000,False,False,False,3,44
+"### ||| AUTO (نوط)
+",000,False,000,False,False,False,3,122
+"### ||| AUTO (نوق)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (نول)
+",000,False,000,False,False,False,3,132
+"### ||| AUTO (نوم)
+",000,False,000,False,False,False,3,111
+"### ||| AUTO (نون)
+",000,False,000,False,False,False,3,123
+"### || AUTO باب النون مع الهاء
+",000,False,000,False,False,False,2,897
+"### ||| AUTO (نهبر)
+",000,False,000,False,False,False,3,77
+"### ||| AUTO (نهت)
+",000,False,000,False,False,False,3,23
+"### ||| AUTO (نهج)
+",000,False,000,False,False,False,3,72
+"### ||| AUTO (نهد)
+",000,False,000,False,False,False,3,80
+"### ||| AUTO (نهر)
+",000,False,000,False,False,False,3,77
+"### ||| AUTO (نهر)
+",000,False,000,False,False,False,3,39
+"### ||| AUTO (نهز)
+",000,False,000,False,False,False,3,88
+"### ||| AUTO (نهش)
+",000,False,000,False,False,False,3,71
+"### ||| AUTO (نهك)
+",000,False,000,False,False,False,3,107
+"### ||| AUTO (نهل)
+",000,False,000,False,False,False,3,84
+"### ||| AUTO (نهم)
+",000,False,000,False,False,False,3,38
+"### | AUTO كتاب الهاء
+",000,False,000,False,False,False,1,6930
+"### || AUTO باب الهاء مع الهمزة
+",000,False,000,False,False,False,2,76
+"### || AUTO باب الهاء مع الباء
+",000,False,000,False,False,False,2,418
+"### ||| AUTO (هبب)
+",000,False,000,False,False,False,3,99
+"### ||| AUTO (هبت)
+",000,False,000,False,False,False,3,49
+"### ||| AUTO (هبج)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (هبر)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (هبط)
+",000,False,000,False,False,False,3,77
+"### ||| AUTO (هبل)
+",000,False,000,False,False,False,3,51
+"### || AUTO باب الهاء مع التاء
+",000,False,000,False,False,False,2,183
+"### ||| AUTO (هتت)
+",000,False,000,False,False,False,3,51
+"### ||| AUTO (هتر)
+",000,False,000,False,False,False,3,93
+"### || AUTO باب الهاء مع الجيم
+",000,False,000,False,False,False,2,384
+"### ||| AUTO (هجد)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (هجر)
+",000,False,000,False,False,False,3,191
+"### ||| AUTO (هجرس)
+",000,False,000,False,False,False,3,43
+"### ||| AUTO (هجل)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (هجم)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (هجن)
+",000,False,000,False,False,False,3,59
+"### || AUTO باب الهاء مع الدال
+",000,False,000,False,False,False,2,1037
+"### ||| AUTO (هدب)
+",000,False,000,False,False,False,3,42
+"### ||| AUTO (هدد)
+",000,False,000,False,False,False,3,87
+"### ||| AUTO (هدف)
+",000,False,000,False,False,False,3,86
+"### ||| AUTO (هدم)
+",000,False,000,False,False,False,3,235
+"### ||| AUTO (هدن)
+",000,False,000,False,False,False,3,55
+"### || AUTO باب الهاء مع الذال
+",000,False,000,False,False,False,2,146
+"### ||| AUTO (هذب)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (هذذ)
+",000,False,000,False,False,False,3,33
+"### ||| AUTO (هذر)
+",000,False,000,False,False,False,3,27
+"### || AUTO باب الهاء مع الراء
+",000,False,000,False,False,False,2,540
+"### ||| AUTO (هرب)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (هرت)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (هرج)
+",000,False,000,False,False,False,3,64
+"### ||| AUTO (هرد)
+",000,False,000,False,False,False,3,277
+"### ||| AUTO (هرس)
+",000,False,000,False,False,False,3,72
+"### ||| AUTO (هرع)
+",000,False,000,False,False,False,3,28
+"### || AUTO باب الهاء مع الزاي
+",000,False,000,False,False,False,2,178
+"### ||| AUTO (هز)
+",000,False,000,False,False,False,3,95
+"### || AUTO باب الهاء مع الشين
+",000,False,000,False,False,False,2,94
+"### ||| AUTO (هش)
+",000,False,000,False,False,False,3,65
+"### || AUTO باب الهاء مع الصاد
+",000,False,000,False,False,False,2,38
+"### || AUTO باب الهاء مع الضاد
+",000,False,000,False,False,False,2,174
+"### ||| AUTO (هضب)
+",000,False,000,False,False,False,3,75
+"### || AUTO باب الهاء مع الطاء
+",000,False,000,False,False,False,2,52
+"### ||| AUTO (هطع)
+",000,False,000,False,False,False,3,26
+"### || AUTO باب الهاء مع الفاء
+",000,False,000,False,False,False,2,116
+"### ||| AUTO (هفف)
+",000,False,000,False,False,False,3,73
+"### || AUTO باب الهاء مع الكاف
+",000,False,000,False,False,False,2,42
+"### || AUTO باب الهاء مع اللام
+",000,False,000,False,False,False,2,672
+"### ||| AUTO (هلب)
+",000,False,000,False,False,False,3,79
+"### ||| AUTO (هلع)
+",000,False,000,False,False,False,3,48
+"### ||| AUTO (هلك)
+",000,False,000,False,False,False,3,271
+"### ||| AUTO (هلل)
+",000,False,000,False,False,False,3,186
+"### ||| AUTO (هلا)
+",000,False,000,False,False,False,3,49
+"### || AUTO باب الهاء مع الميم
+",000,False,000,False,False,False,2,679
+"### ||| AUTO (همج)
+",000,False,000,False,False,False,3,87
+"### ||| AUTO (همد)
+",000,False,000,False,False,False,3,52
+"### ||| AUTO (همر)
+",000,False,000,False,False,False,3,15
+"### ||| AUTO (همز)
+",000,False,000,False,False,False,3,122
+"### ||| AUTO (همط)
+",000,False,000,False,False,False,3,23
+"### ||| AUTO (همل)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (همم)
+",000,False,000,False,False,False,3,207
+"### || AUTO باب الهاء مع النون
+",000,False,000,False,False,False,2,219
+"### ||| AUTO (هنأ)
+",000,False,000,False,False,False,3,79
+"### ||| AUTO (هنبث)
+",000,False,000,False,False,False,3,24
+"### ||| AUTO (هنع)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (هنم)
+",000,False,000,False,False,False,3,17
+"### || AUTO باب الهاء مع الواو
+",000,False,000,False,False,False,2,1121
+"### ||| AUTO (هوأ)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (هوت)
+",000,False,000,False,False,False,3,98
+"### ||| AUTO (هود)
+",000,False,000,False,False,False,3,136
+"### ||| AUTO (هور)
+",000,False,000,False,False,False,3,136
+"### ||| AUTO (هوش)
+",000,False,000,False,False,False,3,95
+"### ||| AUTO (هوك)
+",000,False,000,False,False,False,3,23
+"### ||| AUTO (هول)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (هوم)
+",000,False,000,False,False,False,3,123
+"### ||| AUTO (هون)
+",000,False,000,False,False,False,3,131
+"### | AUTO كتاب الواو
+",000,False,000,False,False,False,1,12022
+"### || AUTO باب الواو مع الهمزة
+",000,False,000,False,False,False,2,119
+"### ||| AUTO (وأد)
+",000,False,000,False,False,False,3,26
+"### || AUTO باب الواو مع الباء
+",000,False,000,False,False,False,2,378
+"### ||| AUTO (وبر)
+",000,False,000,False,False,False,3,49
+"### ||| AUTO (وبش)
+",000,False,000,False,False,False,3,59
+"### ||| AUTO (وبص)
+",000,False,000,False,False,False,3,42
+"### ||| AUTO (وبق)
+",000,False,000,False,False,False,3,71
+"### || AUTO باب الواو مع التاء
+",000,False,000,False,False,False,2,407
+"### ||| AUTO (وتر)
+",000,False,000,False,False,False,3,341
+"### ||| AUTO (وتغ)
+",000,False,000,False,False,False,3,30
+"### || AUTO باب الواو مع الثاء
+",000,False,000,False,False,False,2,131
+"### ||| AUTO (وثب)
+",000,False,000,False,False,False,3,45
+"### ||| AUTO (وثق)
+",000,False,000,False,False,False,3,26
+"### || AUTO باب الواو مع الجيم
+",000,False,000,False,False,False,2,822
+"### ||| AUTO (وجأ)
+",000,False,000,False,False,False,3,79
+"### ||| AUTO (وجب)
+",000,False,000,False,False,False,3,114
+"### ||| AUTO (وجد)
+",000,False,000,False,False,False,3,77
+"### ||| AUTO (وجح)
+",000,False,000,False,False,False,3,70
+"### ||| AUTO (وجر)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (وجز)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (وجس)
+",000,False,000,False,False,False,3,41
+"### ||| AUTO (وجف)
+",000,False,000,False,False,False,3,23
+"### ||| AUTO (وجم)
+",000,False,000,False,False,False,3,29
+"### ||| AUTO (وجن)
+",000,False,000,False,False,False,3,32
+"### || AUTO باب الواو مع الحاء
+",000,False,000,False,False,False,2,415
+"### ||| AUTO (وحح)
+",000,False,000,False,False,False,3,23
+"### ||| AUTO (وحد)
+",000,False,000,False,False,False,3,128
+"### ||| AUTO (وحر)
+",000,False,000,False,False,False,3,61
+"### ||| AUTO (وحش)
+",000,False,000,False,False,False,3,59
+"### ||| AUTO (وحم)
+",000,False,000,False,False,False,3,21
+"### || AUTO باب الواو مع الخاء
+",000,False,000,False,False,False,2,162
+"### ||| AUTO (وخز)
+",000,False,000,False,False,False,3,44
+"### ||| AUTO (وخط)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (وخش)
+",000,False,000,False,False,False,3,15
+"### ||| AUTO (وخف)
+",000,False,000,False,False,False,3,34
+"### || AUTO باب الواو مع الذال
+",000,False,000,False,False,False,2,553
+"### ||| AUTO (ودد)
+",000,False,000,False,False,False,3,72
+"### ||| AUTO (ودس)
+",000,False,000,False,False,False,3,31
+"### ||| AUTO (ودع)
+",000,False,000,False,False,False,3,239
+"### ||| AUTO (ودف)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (ودق)
+",000,False,000,False,False,False,3,14
+"### ||| AUTO (ودن)
+",000,False,000,False,False,False,3,91
+"### || AUTO باب الواو مع الذال
+",000,False,000,False,False,False,2,390
+"### ||| AUTO (وذأ)
+",000,False,000,False,False,False,3,24
+"### ||| AUTO (وذر)
+",000,False,000,False,False,False,3,113
+"### ||| AUTO (وذف)
+",000,False,000,False,False,False,3,41
+"### ||| AUTO (وذل)
+",000,False,000,False,False,False,3,17
+"### || AUTO باب الواو مع الراء
+",000,False,000,False,False,False,2,1312
+"### ||| AUTO (ورب)
+",000,False,000,False,False,False,3,22
+"### ||| AUTO (ورث)
+",000,False,000,False,False,False,3,125
+"### ||| AUTO (ورد)
+",000,False,000,False,False,False,3,250
+"### ||| AUTO (ورض)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (ورط)
+",000,False,000,False,False,False,3,92
+"### ||| AUTO (ورع)
+",000,False,000,False,False,False,3,108
+"### ||| AUTO (ورق)
+",000,False,000,False,False,False,3,106
+"### ||| AUTO (ورك)
+",000,False,000,False,False,False,3,166
+"### ||| AUTO (ورم)
+",000,False,000,False,False,False,3,46
+"### || AUTO باب الواو مع الزاي
+",000,False,000,False,False,False,2,458
+"### ||| AUTO (وزر)
+",000,False,000,False,False,False,3,133
+"### ||| AUTO (وزع)
+",000,False,000,False,False,False,3,156
+"### ||| AUTO (وزغ)
+",000,False,000,False,False,False,3,31
+"### || AUTO باب الواو مع السين
+",000,False,000,False,False,False,2,513
+"### ||| AUTO (وسد)
+",000,False,000,False,False,False,3,59
+"### ||| AUTO (وسس)
+",000,False,000,False,False,False,3,23
+"### ||| AUTO (وسط)
+",000,False,000,False,False,False,3,89
+"### ||| AUTO (وسع)
+",000,False,000,False,False,False,3,117
+"### ||| AUTO (وسق)
+",000,False,000,False,False,False,3,119
+"### ||| AUTO (وسل)
+",000,False,000,False,False,False,3,7
+"### ||| AUTO (وسم)
+",000,False,000,False,False,False,3,72
+"### || AUTO باب الواو مع الشين
+",000,False,000,False,False,False,2,386
+"### ||| AUTO (وشب)
+",000,False,000,False,False,False,3,19
+"### ||| AUTO (وشج)
+",000,False,000,False,False,False,3,33
+"### ||| AUTO (وشح)
+",000,False,000,False,False,False,3,60
+"### ||| AUTO (وشظ)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (وشع)
+",000,False,000,False,False,False,3,47
+"### ||| AUTO (وشق)
+",000,False,000,False,False,False,3,47
+"### ||| AUTO (وشل)
+",000,False,000,False,False,False,3,23
+"### || AUTO باب الواو مع الصاد
+",000,False,000,False,False,False,2,567
+"### ||| AUTO (وصب)
+",000,False,000,False,False,False,3,88
+"### ||| AUTO (وصد)
+",000,False,000,False,False,False,3,22
+"### ||| AUTO (وصر)
+",000,False,000,False,False,False,3,66
+"### ||| AUTO (وصع)
+",000,False,000,False,False,False,3,25
+"### ||| AUTO (وصف)
+",000,False,000,False,False,False,3,91
+"### ||| AUTO (وصل)
+",000,False,000,False,False,False,3,206
+"### ||| AUTO (وصم)
+",000,False,000,False,False,False,3,28
+"### || AUTO باب الواو مع الضاد
+",000,False,000,False,False,False,2,608
+"### ||| AUTO (وضأ)
+",000,False,000,False,False,False,3,115
+"### ||| AUTO (وضح)
+",000,False,000,False,False,False,3,115
+"### ||| AUTO (وضر)
+",000,False,000,False,False,False,3,42
+"### ||| AUTO (وضع)
+",000,False,000,False,False,False,3,156
+"### ||| AUTO (وضم)
+",000,False,000,False,False,False,3,123
+"### || AUTO باب الواو مع الطاء
+",000,False,000,False,False,False,2,524
+"### ||| AUTO (وطأ)
+",000,False,000,False,False,False,3,392
+"### ||| AUTO (وطد)
+",000,False,000,False,False,False,3,63
+"### ||| AUTO (وطر)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (وطف)
+",000,False,000,False,False,False,3,25
+"### || AUTO باب الواو مع العين
+",000,False,000,False,False,False,2,420
+"### ||| AUTO (وعب)
+",000,False,000,False,False,False,3,115
+"### ||| AUTO (وعث)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (وعد)
+",000,False,000,False,False,False,3,71
+"### ||| AUTO (وعر)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (وعظ)
+",000,False,000,False,False,False,3,20
+"### ||| AUTO (وعق)
+",000,False,000,False,False,False,3,21
+"### ||| AUTO (وعل)
+",000,False,000,False,False,False,3,13
+"### || AUTO باب الواو مع الغين
+",000,False,000,False,False,False,2,103
+"### ||| AUTO (وغب)
+",000,False,000,False,False,False,3,48
+"### || AUTO باب الواو مع الفاء
+",000,False,000,False,False,False,2,426
+"### ||| AUTO (وفر)
+",000,False,000,False,False,False,3,51
+"### ||| AUTO (وفض)
+",000,False,000,False,False,False,3,112
+"### ||| AUTO (وفه)
+",000,False,000,False,False,False,3,53
+"### || AUTO باب الواو مع القاف
+",000,False,000,False,False,False,2,1042
+"### ||| AUTO (وقب)
+",000,False,000,False,False,False,3,34
+"### ||| AUTO (وقت)
+",000,False,000,False,False,False,3,46
+"### ||| AUTO (وقد)
+",000,False,000,False,False,False,3,28
+"### ||| AUTO (وقذ)
+",000,False,000,False,False,False,3,107
+"### ||| AUTO (وقر)
+",000,False,000,False,False,False,3,70
+"### ||| AUTO (وقش)
+",000,False,000,False,False,False,3,17
+"### ||| AUTO (وقص)
+",000,False,000,False,False,False,3,167
+"### ||| AUTO (وقط)
+",000,False,000,False,False,False,3,42
+"### ||| AUTO (وقع)
+",000,False,000,False,False,False,3,221
+"### ||| AUTO (وقف)
+",000,False,000,False,False,False,3,38
+"### ||| AUTO (وقل)
+",000,False,000,False,False,False,3,34
+"### || AUTO باب الواو مع الكاف
+",000,False,000,False,False,False,2,427
+"### ||| AUTO (وكت)
+",000,False,000,False,False,False,3,30
+"### ||| AUTO (وكد)
+",000,False,000,False,False,False,3,32
+"### ||| AUTO (وكز)
+",000,False,000,False,False,False,3,11
+"### ||| AUTO (وكع)
+",000,False,000,False,False,False,3,16
+"### ||| AUTO (وكف)
+",000,False,000,False,False,False,3,145
+"### ||| AUTO (وكل)
+",000,False,000,False,False,False,3,114
+"### || AUTO باب الواو مع اللام
+",000,False,000,False,False,False,2,905
+"### ||| AUTO (ولج)
+",000,False,000,False,False,False,3,79
+"### ||| AUTO (ولد)
+",000,False,000,False,False,False,3,121
+"### ||| AUTO (ولغ)
+",000,False,000,False,False,False,3,55
+"### ||| AUTO (ولق)
+",000,False,000,False,False,False,3,24
+"### ||| AUTO (ولم)
+",000,False,000,False,False,False,3,18
+"### ||| AUTO (وله)
+",000,False,000,False,False,False,3,49
+"### || AUTO باب الواو مع الميم
+",000,False,000,False,False,False,2,36
+"### || AUTO باب الواو مع النون
+",000,False,000,False,False,False,2,27
+"### || AUTO باب الواو مع الهاء
+",000,False,000,False,False,False,2,662
+"### ||| AUTO (وهب)
+",000,False,000,False,False,False,3,26
+"### ||| AUTO (وهز)
+",000,False,000,False,False,False,3,36
+"### ||| AUTO (وهص)
+",000,False,000,False,False,False,3,62
+"### ||| AUTO (وهط)
+",000,False,000,False,False,False,3,27
+"### ||| AUTO (وهف)
+",000,False,000,False,False,False,3,89
+"### ||| AUTO (وهق)
+",000,False,000,False,False,False,3,13
+"### ||| AUTO (وهل)
+",000,False,000,False,False,False,3,93
+"### ||| AUTO (وهم)
+",000,False,000,False,False,False,3,165
+"### ||| AUTO (وهن)
+",000,False,000,False,False,False,3,104
+"### | AUTO كتاب الياء
+",000,False,000,False,False,False,1,2234
+"### || AUTO باب الياء مع الهمزة
+",000,False,000,False,False,False,2,186
+"### || AUTO باب الياء مع التاء
+",000,False,000,False,False,False,2,92
+"### || AUTO باب الياء مع الدال
+",000,False,000,False,False,False,2,560
+"### || AUTO باب الياء مع الراء
+",000,False,000,False,False,False,2,50
+"### ||| AUTO (يرر)
+",000,False,000,False,False,False,3,18
+"### || AUTO باب الياء مع السين
+",000,False,000,False,False,False,2,244
+"### || AUTO باب الياء مع العين
+",000,False,000,False,False,False,2,34
+"### || AUTO باب الياء مع الفاء
+",000,False,000,False,False,False,2,48
+"### || AUTO باب الياء مع القاف
+",000,False,000,False,False,False,2,33
+"### ||| AUTO (يقظ)
+",000,False,000,False,False,False,3,15
+"### || AUTO باب الياء مع الميم
+",000,False,000,False,False,False,2,729
+"### ||| AUTO (يمم)
+",000,False,000,False,False,False,3,29
+"### || AUTO باب الياء مع النون
+",000,False,000,False,False,False,2,54
+"### || AUTO باب الياء مع الواو
+",000,False,000,False,False,False,2,68

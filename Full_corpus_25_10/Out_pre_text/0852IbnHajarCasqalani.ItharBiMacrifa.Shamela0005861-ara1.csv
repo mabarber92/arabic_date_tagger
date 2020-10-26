@@ -1,0 +1,59 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | 
+",000,False,000,False,False,False,1,177
+"### | حرف الألف
+",000,False,000,False,False,False,1,296
+"### | حرف الباء الموحدة
+",000,False,000,False,False,False,1,77
+"### | حرف التاء المثناة
+",000,False,000,False,False,False,1,45
+"### | حرف الثاء المثلثة
+",000,False,000,False,False,False,1,18
+"### | حرف الجيم
+",000,False,000,False,False,False,1,290
+"### | حرف الحاء المهملة
+",000,False,000,False,False,False,1,715
+"### | حرف الخاء المعجمة إلى السين
+",000,False,000,False,False,False,1,53
+"### | حرف الذال المعجمة
+",000,False,000,False,False,False,1,22
+"### | حرف الراء
+",000,False,000,False,False,False,1,42
+"### | حرف الزاي
+",000,False,000,False,False,False,1,362
+"### | حرف السين المهملة
+",000,False,000,False,False,False,1,322
+"### | حرف الشين المعجمة
+",000,False,000,False,False,False,1,158
+"### | حرف الصاد إلى العين
+",000,False,000,False,False,False,1,284
+"### | حرف الضاد المعجمة
+",000,False,000,False,False,False,1,14
+"### | حرف الطاء
+",000,False,000,False,False,False,1,52
+"### | حرف العين المهملة
+",000,False,000,False,False,False,1,1350
+"### | حرف الغين المعجمة
+",000,False,000,False,False,False,1,15
+"### | حرف الفاء خال
+",000,False,000,False,False,False,1,5
+"### | حرف القاف
+",000,False,000,False,False,False,1,43
+"### | حرف الكاف
+",000,False,000,False,False,False,1,80
+"### | حرف اللام
+",000,False,000,False,False,False,1,12
+"### | حرف الميم
+",000,False,000,False,False,False,1,1034
+"### | حرف النون
+",000,False,000,False,False,False,1,25
+"### | حرف الهاء
+",000,False,000,False,False,False,1,118
+"### | حرف الواو
+",000,False,000,False,False,False,1,81
+"### | حرف الياء آخر الحروف
+",000,False,000,False,False,False,1,389
+"### | فصل في الكنى
+",000,False,000,False,False,False,1,1158
+"### | فصل فيمن لم يسم على سياق الرواة عنهم مرتبا
+",000,False,000,False,False,False,1,1140

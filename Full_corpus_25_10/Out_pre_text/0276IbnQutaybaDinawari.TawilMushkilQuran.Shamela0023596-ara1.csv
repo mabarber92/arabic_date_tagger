@@ -1,0 +1,663 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | 1- 
+",000,False,000,False,False,False,1,9
+"### | 2- 
+",000,False,000,False,False,False,1,25
+"### | 3- 
+",000,False,000,False,False,False,1,25
+"### | 4- 
+",000,False,000,False,False,False,1,17
+"### | 5- 
+",000,False,000,False,False,False,1,17
+"### | 6- 
+",000,False,000,False,False,False,1,14
+"### | 7- 
+",000,False,000,False,False,False,1,17
+"### | 8- 
+",000,False,000,False,False,False,1,21
+"### | 9- 
+",000,False,000,False,False,False,1,21
+"### | 10- 
+",000,False,000,False,False,False,1,23
+"### | 11- 
+",000,False,000,False,False,False,1,15
+"### | 12- 
+",000,False,000,False,False,False,1,15
+"### | 13- 
+",000,False,000,False,False,False,1,25
+"### | 14- 
+",000,False,000,False,False,False,1,23
+"### | 15- 
+",000,False,000,False,False,False,1,21
+"### | 16- 
+",000,False,000,False,False,False,1,35
+"### | 1- 
+",000,False,000,False,False,False,1,15
+"### | 2- 
+",000,False,000,False,False,False,1,17
+"### | 3- 
+",000,False,000,False,False,False,1,23
+"### | 4- 
+",000,False,000,False,False,False,1,29
+"### | 5- 
+",000,False,000,False,False,False,1,17
+"### | 6- 
+",000,False,000,False,False,False,1,17
+"### | 7- 
+",000,False,000,False,False,False,1,17
+"### | 8- 
+",000,False,000,False,False,False,1,17
+"### | 9- 
+",000,False,000,False,False,False,1,23
+"### | 10- 
+",000,False,000,False,False,False,1,15
+"### | 11- 
+",000,False,000,False,False,False,1,11
+"### | 12- 
+",000,False,000,False,False,False,1,25
+"### | 13- 
+",000,False,000,False,False,False,1,36
+"### | 1- 
+",000,False,000,False,False,False,1,5
+"### | 2- 
+",000,False,000,False,False,False,1,5
+"### | 3- 
+",000,False,000,False,False,False,1,5
+"### | 4- 
+",000,False,000,False,False,False,1,5
+"### | 5- 
+",000,False,000,False,False,False,1,7
+"### | 6- 
+",000,False,000,False,False,False,1,9
+"### | 7- 
+",000,False,000,False,False,False,1,5
+"### | 8- 
+",000,False,000,False,False,False,1,5
+"### | 9- 
+",000,False,000,False,False,False,1,7
+"### | 10- 
+",000,False,000,False,False,False,1,17
+"### | 11- 
+",000,False,000,False,False,False,1,5
+"### | 12- 
+",000,False,000,False,False,False,1,5
+"### | 13- 
+",000,False,000,False,False,False,1,5
+"### | 14- 
+",000,False,000,False,False,False,1,7
+"### | 15- 
+",000,False,000,False,False,False,1,7
+"### | 16- 
+",000,False,000,False,False,False,1,5
+"### | 17- 
+",000,False,000,False,False,False,1,5
+"### | 18- 
+",000,False,000,False,False,False,1,5
+"### | 19- 
+",000,False,000,False,False,False,1,5
+"### | 20- 
+",000,False,000,False,False,False,1,5
+"### | 21- 
+",000,False,000,False,False,False,1,5
+"### | 22- 
+",000,False,000,False,False,False,1,11
+"### | 23- 
+",000,False,000,False,False,False,1,13
+"### | 24- 
+",000,False,000,False,False,False,1,5
+"### | 25- 
+",000,False,000,False,False,False,1,5
+"### | 26- 
+",000,False,000,False,False,False,1,5
+"### | 27- 
+",000,False,000,False,False,False,1,7
+"### | 28- 
+",000,False,000,False,False,False,1,9
+"### | 29- 
+",000,False,000,False,False,False,1,5
+"### | 30- 
+",000,False,000,False,False,False,1,5
+"### | 31- 
+",000,False,000,False,False,False,1,7
+"### | 32- 
+",000,False,000,False,False,False,1,11
+"### | 33- 
+",000,False,000,False,False,False,1,5
+"### | 34- 
+",000,False,000,False,False,False,1,5
+"### | 35- 
+",000,False,000,False,False,False,1,5
+"### | 36- 
+",000,False,000,False,False,False,1,9
+"### | 37- 
+",000,False,000,False,False,False,1,13
+"### | 38- 
+",000,False,000,False,False,False,1,7
+"### | 39- 
+",000,False,000,False,False,False,1,7
+"### | 40- 
+",000,False,000,False,False,False,1,5
+"### | 41- 
+",000,False,000,False,False,False,1,5
+"### | 42- 
+",000,False,000,False,False,False,1,13
+"### | 43- 
+",000,False,000,False,False,False,1,5
+"### | 44- 
+",000,False,000,False,False,False,1,13
+"### | 45- 
+",000,False,000,False,False,False,1,7
+"### | 46- 
+",000,False,000,False,False,False,1,9
+"### | 47- 
+",000,False,000,False,False,False,1,7
+"### | 48- 
+",000,False,000,False,False,False,1,5
+"### | 49- 
+",000,False,000,False,False,False,1,5
+"### | 50- 
+",000,False,000,False,False,False,1,5
+"### | 51- 
+",000,False,000,False,False,False,1,5
+"### | 52- 
+",000,False,000,False,False,False,1,2634
+"### | الحكاية عن الطاعنين
+",000,False,000,False,False,False,1,1662
+"### | وقد تدبرت وجوه الخلاف في القراءات فوجدتها سبعة أوجه
+",000,False,000,False,False,False,1,1230
+"### | باب ما ادعي على القرآن من اللحن
+",000,False,000,False,False,False,1,21135
+"### | باب الكناية والتعريض
+",000,False,000,False,False,False,1,6
+"### | الكناية أنواع، ولها مواضع
+",000,False,000,False,False,False,1,941
+"### | ومن هذا الباب (التعريض) .
+",000,False,000,False,False,False,1,1156
+"### | باب مخالفة ظاهر اللفظ معناه
+",000,False,000,False,False,False,1,10
+"### | من ذلك الدعاء على جهة الذم لا يراد به الوقوع:
+",000,False,000,False,False,False,1,148
+"### | ومن ذلك الجزاء عن الفعل بمثل لفظه والمعنيان مختلفان:
+",000,False,000,False,False,False,1,116
+"### | ومنه أن يأتي الكلام على مذهب الاستفهام وهو تقرير:
+",000,False,000,False,False,False,1,54
+"### | ومنه أن يأتي على مذهب الاستفهام وهو تعجب:
+",000,False,000,False,False,False,1,53
+"### | وأن يأتي على مذهب الاستفهام وهو توبيخ:
+",000,False,000,False,False,False,1,23
+"### | ومنه أن يأتي الكلام على لفظ الأمر وهو تهديد:
+",000,False,000,False,False,False,1,21
+"### | وأن يأتي على لفظ الأمر وهو تأديب:
+",000,False,000,False,False,False,1,22
+"### | وعلى لفظ الأمر وهو إباحة:
+",000,False,000,False,False,False,1,24
+"### | وعلى لفظ الأمر وهو فرض:
+",000,False,000,False,False,False,1,21
+"### | ومنه عام يراد به خاص:
+",000,False,000,False,False,False,1,198
+"### | ومنه جمع يراد به واحد واثنان:
+",000,False,000,False,False,False,1,151
+"### | ومنه واحد يراد به جميع:
+",000,False,000,False,False,False,1,109
+"### | ومنه أن تصف الجميع صفة الواحد:
+",000,False,000,False,False,False,1,54
+"### | ومنه أن يوصف الواحد بالجمع:
+",000,False,000,False,False,False,1,27
+"### | ومنه أن يجتمع شيئان ولأحدهما فعل فيجعل الفعل لهما:
+",000,False,000,False,False,False,1,142
+"### | ومنه أن يجتمع شيئان فيجعل الفعل لأحدهما، أو تنسبه إلى أحدهما وهو لهما:
+",000,False,000,False,False,False,1,90
+"### | ومنه أن تخاطب الشاهد بشيء ثم تجعل الخطاب له على لفظ الغائب:
+",000,False,000,False,False,False,1,110
+"### | ومنه أن يخاطب الرجل بشيء ثم يجعل الخطاب لغيره:
+",000,False,000,False,False,False,1,89
+"### | ومنه أن تأمر الواحد والاثنين والثلاثة فما فوق أمرك الاثنين: فتقول:
+",000,False,000,False,False,False,1,152
+"### | ومنه أن يخاطب الواحد بلفظ الجميع:
+",000,False,000,False,False,False,1,196
+"### | ومنه أن يأتي الفعل على بنية الماضي وهو دائم، أو مستقبل:
+",000,False,000,False,False,False,1,144
+"### | ومنه أن يجيء المفعول به على لفظ الفاعل:
+",000,False,000,False,False,False,1,96
+"### | وأن يأتي فعيل بمعنى مفعل:
+",000,False,000,False,False,False,1,38
+"### | وفعيل، يراد به فاعل ms107:
+",000,False,000,False,False,False,1,52
+"### | ومنه أن يأتي الفاعل على لفظ المفعول به، وهو قليل:
+",000,False,000,False,False,False,1,1169
+"### | في سورة سبأ
+",000,False,000,False,False,False,1,95
+"### | وعلم الله تعالى نوعان:
+",000,False,000,False,False,False,1,8
+"### | أحدهما علم ما يكون من إيمان المؤمنين، وكفر الكافرين، وذنوب العاصين، وطاعات المطيعين قبل أن تكون.
+",000,False,000,False,False,False,1,40
+"### | والآخر: علم هذه الأمور ظاهرة موجودة فيحق القول ويقع بوقوعها الجزاء.
+",000,False,000,False,False,False,1,185
+"### | في سورة الفرقان
+",000,False,000,False,False,False,1,247
+"### | في سورة يس
+",000,False,000,False,False,False,1,277
+"### | في سورة المرسلات
+",000,False,000,False,False,False,1,305
+"### | في سورة الأنعام
+",000,False,000,False,False,False,1,60
+"### | في سورة النساء
+",000,False,000,False,False,False,1,182
+"### | في سورة البقرة
+",000,False,000,False,False,False,1,233
+"### | في سورة الرعد
+",000,False,000,False,False,False,1,165
+"### | في سورة النور
+",000,False,000,False,False,False,1,474
+"### | في سورة سبأ
+",000,False,000,False,False,False,1,256
+"### | في سورة النور
+",000,False,000,False,False,False,1,455
+"### | 
+",000,False,000,False,False,False,1,0
+"### | في سورة الأنعام
+",000,False,000,False,False,False,1,624
+"### | في سورة الأنعام
+",000,False,000,False,False,False,1,317
+"### | في سورة التين
+",000,False,000,False,False,False,1,212
+"### | في سورة والشمس وضحاها
+",000,False,000,False,False,False,1,214
+"### | في لا أقسم بيوم القيامة
+",000,False,000,False,False,False,1,255
+"### | في والصافات
+",000,False,000,False,False,False,1,194
+"### | في سورة ص
+",000,False,000,False,False,False,1,290
+"### | في سورة السجدة
+",000,False,000,False,False,False,1,98
+"### | في سورة النمل
+",000,False,000,False,False,False,1,150
+"### | في سورة الامتحان
+",000,False,000,False,False,False,1,235
+"### | في سورة الحج
+",000,False,000,False,False,False,1,390
+"### | في سورة البقرة
+",000,False,000,False,False,False,1,248
+"### | في سورة المزمل
+",000,False,000,False,False,False,1,352
+"### | في سورة الفتح ms133
+",000,False,000,False,False,False,1,149
+"### | في سورة الأعراف
+",000,False,000,False,False,False,1,96
+"### | في سورة البقرة
+",000,False,000,False,False,False,1,189
+"### | في الزخرف
+",000,False,000,False,False,False,1,174
+"### | في سورة النساء
+",000,False,000,False,False,False,1,174
+"### | في سورة المائدة
+",000,False,000,False,False,False,1,577
+"### | في سورة الروم
+",000,False,000,False,False,False,1,250
+"### | في سورة النحل
+",000,False,000,False,False,False,1,235
+"### | في سورة النحل أيضا
+",000,False,000,False,False,False,1,175
+"### | في سورة الصافات
+",000,False,000,False,False,False,1,141
+"### | في سورة النساء
+",000,False,000,False,False,False,1,198
+"### | في سورة يونس
+",000,False,000,False,False,False,1,82
+"### | في سورة هود
+",000,False,000,False,False,False,1,334
+"### | في سورة الأنعام
+",000,False,000,False,False,False,1,162
+"### | في سورة المائدة
+",000,False,000,False,False,False,1,354
+"### | في سورة الأنبياء
+",000,False,000,False,False,False,1,1026
+"### | في سورة يوسف
+",000,False,000,False,False,False,1,228
+"### | في سورة لإيلاف قريش
+",000,False,000,False,False,False,1,287
+"### | في سورة النحل
+",000,False,000,False,False,False,1,343
+"### | في سورة ويل لكل همزة
+",000,False,000,False,False,False,1,76
+"### | في سورة محمد صلى الله عليه وسلم
+",000,False,000,False,False,False,1,264
+"### | في سورة ق
+",000,False,000,False,False,False,1,315
+"### | في سورة الروم
+",000,False,000,False,False,False,1,192
+"### | في سورة القصص
+",000,False,000,False,False,False,1,164
+"### | في سورة الجن
+",000,False,000,False,False,False,1,1019
+"### | في سورة البقرة
+",000,False,000,False,False,False,1,78
+"### | في سورة الأحزاب
+",000,False,000,False,False,False,1,223
+"### | في سورة الفرقان
+",000,False,000,False,False,False,1,105
+"### | باب اللفظ الواحد للمعاني المختلفة
+",000,False,000,False,False,False,1,346
+"### | 3- 
+",000,False,000,False,False,False,1,4
+"### | الأمة: 
+",000,False,000,False,False,False,1,137
+"### | ال ال
+",000,False,000,False,False,False,1,220
+"### | 5- 
+",000,False,000,False,False,False,1,3
+"### | الإل 
+",000,False,000,False,False,False,1,186
+"### | 6- 
+",000,False,000,False,False,False,1,3
+"### | القنوت: 
+",000,False,000,False,False,False,1,176
+"### | 7- 
+",000,False,000,False,False,False,1,3
+"### | الدين: 
+",000,False,000,False,False,False,1,111
+"### | 8- 
+",000,False,000,False,False,False,1,3
+"### | المولى: 
+",000,False,000,False,False,False,1,131
+"### | 9- 
+",000,False,000,False,False,False,1,3
+"### | الضلال: 
+",000,False,000,False,False,False,1,94
+"### | 10- 
+",000,False,000,False,False,False,1,3
+"### | الإمام: 
+",000,False,000,False,False,False,1,86
+"### | 11- 
+",000,False,000,False,False,False,1,3
+"### | الصلاة: 
+",000,False,000,False,False,False,1,134
+"### | 12- 
+",000,False,000,False,False,False,1,4
+"### | الكتاب: 
+",000,False,000,False,False,False,1,390
+"### | 14- 
+",000,False,000,False,False,False,1,4
+"### | الظلم 
+",000,False,000,False,False,False,1,170
+"### | 15- 
+",000,False,000,False,False,False,1,4
+"### | البلاء: 
+",000,False,000,False,False,False,1,259
+"### | 17- 
+",000,False,000,False,False,False,1,3
+"### | الفتنة: 
+",000,False,000,False,False,False,1,274
+"### | 18- 
+",000,False,000,False,False,False,1,3
+"### | الفرض: 
+",000,False,000,False,False,False,1,170
+"### | 19- 
+",000,False,000,False,False,False,1,3
+"### | الخيانة: 
+",000,False,000,False,False,False,1,114
+"### | 20- 
+",000,False,000,False,False,False,1,3
+"### | الإسلام: 
+",000,False,000,False,False,False,1,173
+"### | 21- 
+",000,False,000,False,False,False,1,3
+"### | الإيمان: 
+",000,False,000,False,False,False,1,215
+"### | 22- 
+",000,False,000,False,False,False,1,3
+"### | الضر: 
+",000,False,000,False,False,False,1,112
+"### | 23- 
+",000,False,000,False,False,False,1,3
+"### | الحرج: 
+",000,False,000,False,False,False,1,81
+"### | 24- 
+",000,False,000,False,False,False,1,3
+"### | الروح 
+",000,False,000,False,False,False,1,416
+"### | 25- 
+",000,False,000,False,False,False,1,3
+"### | الوحي: 
+",000,False,000,False,False,False,1,179
+"### | 26- 
+",000,False,000,False,False,False,1,3
+"### | الفرح: 
+",000,False,000,False,False,False,1,114
+"### | 27- 
+",000,False,000,False,False,False,1,3
+"### | الفتح: 
+",000,False,000,False,False,False,1,164
+"### | 28- 
+",000,False,000,False,False,False,1,3
+"### | الكريم: 
+",000,False,000,False,False,False,1,173
+"### | 29- 
+",000,False,000,False,False,False,1,3
+"### | المثل: 
+",000,False,000,False,False,False,1,95
+"### | 30- 
+",000,False,000,False,False,False,1,3
+"### | الضرب: 
+",000,False,000,False,False,False,1,56
+"### | 31- 
+",000,False,000,False,False,False,1,3
+"### | الزوج: 
+",000,False,000,False,False,False,1,117
+"### | 32- 
+",000,False,000,False,False,False,1,3
+"### | الرؤية: 
+",000,False,000,False,False,False,1,101
+"### | 33- 
+",000,False,000,False,False,False,1,3
+"### | النسيان: 
+",000,False,000,False,False,False,1,162
+"### | 35- 
+",000,False,000,False,False,False,1,3
+"### | الأخذ: 
+",000,False,000,False,False,False,1,133
+"### | 36- 
+",000,False,000,False,False,False,1,3
+"### | السلطان: 
+",000,False,000,False,False,False,1,87
+"### | 37- 
+",000,False,000,False,False,False,1,5
+"### | البأس والبأساء: 
+",000,False,000,False,False,False,1,86
+"### | 38- 
+",000,False,000,False,False,False,1,3
+"### | الخلق: 
+",000,False,000,False,False,False,1,129
+"### | 39- 
+",000,False,000,False,False,False,1,3
+"### | الرجم: 
+",000,False,000,False,False,False,1,138
+"### | 40- 
+",000,False,000,False,False,False,1,3
+"### | السعي: 
+",000,False,000,False,False,False,1,124
+"### | 41- 
+",000,False,000,False,False,False,1,41
+"### | المحصنات: 
+",000,False,000,False,False,False,1,58
+"### | 42- 
+",000,False,000,False,False,False,1,3
+"### | المتاع: 
+",000,False,000,False,False,False,1,112
+"### | 43- 
+",000,False,000,False,False,False,1,3
+"### | الحساب: 
+",000,False,000,False,False,False,1,73
+"### | 44- 
+",000,False,000,False,False,False,1,3
+"### | الأمر: 
+",000,False,000,False,False,False,1,164
+"### | باب تفسير حروف المعاني وما شاكلها من الأفعال التي لا تنصرف
+",000,False,000,False,False,False,1,22
+"### | كأين
+",000,False,000,False,False,False,1,79
+"### | كيف
+",000,False,000,False,False,False,1,29
+"### | سوى وسوى
+",000,False,000,False,False,False,1,77
+"### | أيان
+",000,False,000,False,False,False,1,34
+"### | الآن
+",000,False,000,False,False,False,1,19
+"### | اني
+",000,False,000,False,False,False,1,184
+"### | أنى
+",000,False,000,False,False,False,1,76
+"### | وي
+",000,False,000,False,False,False,1,2
+"### | كأن
+",000,False,000,False,False,False,1,142
+"### | لا ت
+",000,False,000,False,False,False,1,50
+"### | لات
+",000,False,000,False,False,False,1,260
+"### | مهما
+",000,False,000,False,False,False,1,105
+"### | ما ومن
+",000,False,000,False,False,False,1,27
+"### | بل
+",000,False,000,False,False,False,1,71
+"### | كاد
+",000,False,000,False,False,False,1,40
+"### | بل
+",000,False,000,False,False,False,1,70
+"### | ه ل
+",000,False,000,False,False,False,1,194
+"### | هل
+",000,False,000,False,False,False,1,166
+"### | لولا ولوما
+",000,False,000,False,False,False,1,145
+"### | (لم) أ
+",000,False,000,False,False,False,1,28
+"### | لما
+",000,False,000,False,False,False,1,95
+"### | أم
+",000,False,000,False,False,False,1,35
+"### | أو
+",000,False,000,False,False,False,1,162
+"### | أم
+",000,False,000,False,False,False,1,7
+"### | لا
+",000,False,000,False,False,False,1,156
+"### | لا
+",000,False,000,False,False,False,1,162
+"### | أولى
+",000,False,000,False,False,False,1,53
+"### | لا جرم
+",000,False,000,False,False,False,1,23
+"### | ها
+",000,False,000,False,False,False,1,61
+"### | إن الخفيفة
+",000,False,000,False,False,False,1,124
+"### | ها
+",000,False,000,False,False,False,1,50
+"### | تعال
+",000,False,000,False,False,False,1,25
+"### | هات
+",000,False,000,False,False,False,1,102
+"### | هلم
+",000,False,000,False,False,False,1,101
+"### | كلا
+",000,False,000,False,False,False,1,142
+"### | رويدا
+",000,False,000,False,False,False,1,56
+"### | ألا
+",000,False,000,False,False,False,1,49
+"### | الويل
+",000,False,000,False,False,False,1,50
+"### | لعمرك
+",000,False,000,False,False,False,1,13
+"### | إي
+",000,False,000,False,False,False,1,33
+"### | لدن
+",000,False,000,False,False,False,1,72
+"### | باب دخول حروف الصفات مكان بعض
+",000,False,000,False,False,False,1,12
+"### | «في» مكان «على»
+",000,False,000,False,False,False,1,48
+"### | «الباء» مكان «عن»
+",000,False,000,False,False,False,1,50
+"### | «عن» مكان «الباء»
+",000,False,000,False,False,False,1,29
+"### | «اللام» مكان «على»
+",000,False,000,False,False,False,1,42
+"### | «إلى» مكان «مع»
+",000,False,000,False,False,False,1,53
+"### | «اللام» مكان «إلى»
+",000,False,000,False,False,False,1,53
+"### | «على» مكان «من»
+",000,False,000,False,False,False,1,40
+"### | «من» مكان «الباء»
+",000,False,000,False,False,False,1,44
+"### | «الباء» مكان «من»
+",000,False,000,False,False,False,1,84
+"### | «من» مكان «في»
+",000,False,000,False,False,False,1,27
+"### | «من» مكان «على»
+",000,False,000,False,False,False,1,23
+"### | «عن» مكان «من»
+",000,False,000,False,False,False,1,26
+"### | «من» مكان «عن»
+",000,False,000,False,False,False,1,16
+"### | «على» بمعنى «عند»
+",000,False,000,False,False,False,1,21
+"### | «الباء» مكان «اللام»
+",000,False,000,False,False,False,1,25
+"### | 1-
+",000,False,000,False,False,False,1,86
+"### | 2-
+",000,False,000,False,False,False,1,82
+"### | 3-
+",000,False,000,False,False,False,1,35
+"### | 4-
+",000,False,000,False,False,False,1,23
+"### | 5-
+",000,False,000,False,False,False,1,71
+"### | 6-
+",000,False,000,False,False,False,1,82
+"### | 7- 
+",000,False,000,False,False,False,1,47
+"### | 8- 
+",000,False,000,False,False,False,1,72
+"### | 9-
+",000,False,000,False,False,False,1,59
+"### | 10- 
+",000,False,000,False,False,False,1,67
+"### | 11- 
+",000,False,000,False,False,False,1,23
+"### | 12- 
+",000,False,000,False,False,False,1,34
+"### | 13- 
+",000,False,000,False,False,False,1,55
+"### | 14- 
+",000,False,000,False,False,False,1,39
+"### | 15- 
+",000,False,000,False,False,False,1,38
+"### | 16- 
+",000,False,000,False,False,False,1,48
+"### | 17- 
+",000,False,000,False,False,False,1,28
+"### | 18- 
+",000,False,000,False,False,False,1,27
+"### | 19- 
+",000,False,000,False,False,False,1,21
+"### | 20- 
+",000,False,000,False,False,False,1,36
+"### | 21- 
+",000,False,000,False,False,False,1,34
+"### | 22- 
+",000,False,000,False,False,False,1,24
+"### | 23- 
+",000,False,000,False,False,False,1,57
+"### | 24- 
+",000,False,000,False,False,False,1,101
+"### | 25- 
+",000,False,000,False,False,False,1,30
+"### | 26- 
+",000,False,000,False,False,False,1,78

@@ -1,0 +1,331 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | مقدمة
+",000,False,000,False,False,False,1,203
+"### | حرف الهمزة
+",000,False,000,False,False,False,1,1069
+"### || [باب ابنه وأبيه] :
+",000,False,000,False,False,False,2,242
+"### | حرف الألف
+",000,False,000,False,False,False,1,632
+"### || باب الأوندي والأبذي
+",000,False,000,False,False,False,2,109
+"### || باب الأصبغ والأصمع
+",000,False,000,False,False,False,2,148
+"### | حرف الباء
+",000,False,000,False,False,False,1,2568
+"### || باب بابويه وباب بتنه وثنية
+",000,False,000,False,False,False,2,230
+"### ||| [باب بابويه] :
+",000,False,000,False,False,False,3,68
+"### || باب براد
+",000,False,000,False,False,False,2,82
+"### || [باب البومة والتومة والنومة] :
+",000,False,000,False,False,False,2,620
+"### || باب البادرائي
+",000,False,000,False,False,False,2,558
+"### || [باب الباوردي] :
+",000,False,000,False,False,False,2,380
+"### || [باب البختري] :
+",000,False,000,False,False,False,2,82
+"### || [باب البري] :
+",000,False,000,False,False,False,2,251
+"### || [باب البزري والبرزي والبرزي] :
+",000,False,000,False,False,False,2,235
+"### | حرف التاء والثاء
+",000,False,000,False,False,False,1,6
+"### | [
+",000,False,000,False,False,False,1,3574
+"### || باب بقي
+",000,False,000,False,False,False,2,428
+"### || [باب بقي] :
+",000,False,000,False,False,False,2,193
+"### || [باب تقية] :
+",000,False,000,False,False,False,2,735
+"### || [باب التبان والتيان] :
+",000,False,000,False,False,False,2,117
+"### || باب التبريزي
+",000,False,000,False,False,False,2,170
+"### || باب التركي
+",000,False,000,False,False,False,2,299
+"### || [باب التيتي] :
+",000,False,000,False,False,False,2,173
+"### || [باب البتتي والتنبي] :
+",000,False,000,False,False,False,2,311
+"### || [باب ثروان] :
+",000,False,000,False,False,False,2,577
+"### || [باب ثنا وييا وننا ونبأ] :
+",000,False,000,False,False,False,2,225
+"### || باب الثوري والتوري والبوري والنوري
+",000,False,000,False,False,False,2,202
+"### | حرف الجيم والحاء والخاء
+",000,False,000,False,False,False,1,5894
+"### || [باب جابر وجاير] :
+",000,False,000,False,False,False,2,222
+"### || [باب جناب وجناب وحباب والجباب والجياب وجنات وحباب] :
+",000,False,000,False,False,False,2,317
+"### || [باب جبويه وحبويه وحيويه وحمويه] :
+",000,False,000,False,False,False,2,424
+"### || [باب جري وجزي] :
+",000,False,000,False,False,False,2,231
+"### || باب جميل وجميل
+",000,False,000,False,False,False,2,76
+"### || باب جولة وخولة وباب الجيبي
+",000,False,000,False,False,False,2,288
+"### ||| [باب جولة وخولة] :
+",000,False,000,False,False,False,3,136
+"### || باب الجلي والحلي والجكي وباب الجمري والحمزي وباب الحمزي
+",000,False,000,False,False,False,2,311
+"### ||| [باب الجلي والحلي والجكي] :
+",000,False,000,False,False,False,3,163
+"### ||| [باب الجمري والحمزي] :
+",000,False,000,False,False,False,3,78
+"### || [باب الجني والجنبي والختي] :
+",000,False,000,False,False,False,2,299
+"### || [باب الجواني] :
+",000,False,000,False,False,False,2,313
+"### || [باب الجوبي والخوبي] :
+",000,False,000,False,False,False,2,125
+"### || باب الخوبي وباب حازم وخازم
+",000,False,000,False,False,False,2,436
+"### ||| [باب الخويي ms039] :
+",000,False,000,False,False,False,3,349
+"### || [باب حبيش وحبيش] :
+",000,False,000,False,False,False,2,319
+"### || باب حبيش وباب الحبري وباب حكيم وحكيم وحليم
+",000,False,000,False,False,False,2,324
+"### ||| [باب حبيش] :
+",000,False,000,False,False,False,3,101
+"### ||| [باب الحبري] :
+",000,False,000,False,False,False,3,87
+"### || باب الحناط والخياط وباب الجوبري وباب جيش
+",000,False,000,False,False,False,2,312
+"### ||| [باب الحناط والخياط] :
+",000,False,000,False,False,False,3,134
+"### ||| [باب الجوبري] :
+",000,False,000,False,False,False,3,77
+"### || باب خشيش وجشنس وباب خليف
+",000,False,000,False,False,False,2,348
+"### ||| [باب خشيش وجشنس] :
+",000,False,000,False,False,False,3,199
+"### || باب الجبلي وباب الخرقي
+",000,False,000,False,False,False,2,319
+"### ||| [باب الجبلي] :
+",000,False,000,False,False,False,3,85
+"### || [باب الخرجاني والجوخاني] :
+",000,False,000,False,False,False,2,219
+"### || [باب الحصيري] :
+",000,False,000,False,False,False,2,352
+"### || [باب الخطابي والحطاني والحطابي] :
+",000,False,000,False,False,False,2,293
+"### | حرف الدال والذال
+",000,False,000,False,False,False,1,1318
+"### || [باب دليل ودليل] :
+",000,False,000,False,False,False,2,254
+"### || [باب الدواتي] :
+",000,False,000,False,False,False,2,330
+"### || [باب الدويني] :
+",000,False,000,False,False,False,2,139
+"### || باب ذاكر
+",000,False,000,False,False,False,2,381
+"### | حرف الراء
+",000,False,000,False,False,False,1,3382
+"### || باب رافع ورايع ورابغ
+",000,False,000,False,False,False,2,96
+"### || [باب رجا ورحا] :
+",000,False,000,False,False,False,2,273
+"### || [باب الرحال] :
+",000,False,000,False,False,False,2,326
+"### || باب رزق
+",000,False,000,False,False,False,2,222
+"### || باب رويق وزريق
+",000,False,000,False,False,False,2,277
+"### || باب رزيق
+",000,False,000,False,False,False,2,249
+"### || [باب رشيق ورشيق ورشيق] :
+",000,False,000,False,False,False,2,649
+"### || [باب ريس] :
+",000,False,000,False,False,False,2,266
+"### || [باب الرفاء والرقاء] :
+",000,False,000,False,False,False,2,251
+"### || [باب رقيقة ودقيقة ورفيعة] :
+",000,False,000,False,False,False,2,157
+"### || باب رميل وزميل ودميك وباب ربيب
+",000,False,000,False,False,False,2,393
+"### ||| [باب رميل وزميل ودميك] :
+",000,False,000,False,False,False,3,236
+"### | حرف الزاي
+",000,False,000,False,False,False,1,756
+"### || باب زمام وباب زهر وهرة
+",000,False,000,False,False,False,2,347
+"### ||| [باب زمام] :
+",000,False,000,False,False,False,3,80
+"### | حرف السين والشين
+",000,False,000,False,False,False,1,5289
+"### || باب السبط وباب سقير وسفير
+",000,False,000,False,False,False,2,229
+"### ||| [باب السبط] :
+",000,False,000,False,False,False,3,90
+"### || باب السكر وباب شليل وباب سليم وسليم
+",000,False,000,False,False,False,2,506
+"### ||| [باب السكر] :
+",000,False,000,False,False,False,3,145
+"### ||| [باب شليل] :
+",000,False,000,False,False,False,3,61
+"### || باب السند وباب السابح والسائح وباب الشانج
+",000,False,000,False,False,False,2,405
+"### ||| [باب السند] :
+",000,False,000,False,False,False,3,171
+"### ||| [باب السابح والسائح] :
+",000,False,000,False,False,False,3,152
+"### || باب السيبي وباب السرتي
+",000,False,000,False,False,False,2,283
+"### ||| [باب السيبي] :
+",000,False,000,False,False,False,3,126
+"### || باب السقباني وباب السفطي والسقطي
+",000,False,000,False,False,False,2,391
+"### ||| [باب السقباني] :
+",000,False,000,False,False,False,3,133
+"### || باب شامة وباب ستيك
+",000,False,000,False,False,False,2,347
+"### ||| [باب شامة] :
+",000,False,000,False,False,False,3,249
+"### || باب السجاد وباب شعلة
+",000,False,000,False,False,False,2,342
+"### ||| [باب السجاد] :
+",000,False,000,False,False,False,3,132
+"### || [باب شكر] :
+",000,False,000,False,False,False,2,422
+"### || باب سيما وباب الساماني
+",000,False,000,False,False,False,2,217
+"### ||| [باب سيما] :
+",000,False,000,False,False,False,3,131
+"### || باب الشارعي
+",000,False,000,False,False,False,2,618
+"### || باب الشبلي وباب السبكي
+",000,False,000,False,False,False,2,397
+"### ||| [باب الشبلي] :
+",000,False,000,False,False,False,3,193
+"### || [باب السنهوري والشنهوري] :
+",000,year,000,False,False,False,2,148
+"### || باب الشعيري وباب الشقاني وباب صابر
+",000,False,000,False,False,False,2,460
+"### ||| [باب الشعيري] :
+",000,False,000,False,False,False,3,76
+"### ||| [باب الشقاني] :
+",000,False,000,False,False,False,3,138
+"### | 
+",000,False,000,False,False,False,1,292
+"### || [باب الصوري] :
+",000,False,000,False,False,False,2,217
+"### | حرف الطاء والظاء
+",000,False,000,False,False,False,1,355
+"### || باب الطاهر
+",000,False,000,False,False,False,2,123
+"### | حرف الظاء
+",000,False,000,False,False,False,1,150
+"### | حرف العين
+",000,False,000,False,False,False,1,1688
+"### || باب عابد وباب عبد
+",000,False,000,False,False,False,2,470
+"### ||| [باب عابد] :
+",000,False,000,False,False,False,3,120
+"### || باب عنبر وعنتر وباب عزون وباب عوة
+",000,False,000,False,False,False,2,408
+"### ||| [باب عنبر وعنتر] :
+",000,False,000,False,False,False,3,103
+"### ||| [باب عزون] :
+",000,False,000,False,False,False,3,208
+"### | حرف الغين
+",000,False,000,False,False,False,1,103
+"### | حرف الفاء
+",000,False,000,False,False,False,1,749
+"### || باب الفارض وباب فراس وباب فرج
+",000,False,000,False,False,False,2,260
+"### ||| [باب الفارض] :
+",000,False,000,False,False,False,3,102
+"### ||| [باب فراس] :
+",000,False,000,False,False,False,3,81
+"### | حرف القاف
+",000,False,000,False,False,False,1,668
+"### | حرف الكاف
+",000,False,000,False,False,False,1,586
+"### || [باب كريمة] :
+",000,False,000,False,False,False,2,262
+"### || باب الكببي والكتبي وباب الكنري وباب الكتامي
+",000,False,000,False,False,False,2,211
+"### ||| [باب الكببي والكتبي] :
+",000,False,000,False,False,False,3,84
+"### ||| [باب الكنري] :
+",000,False,000,False,False,False,3,94
+"### | حرف اللام
+",000,False,000,False,False,False,1,290
+"### || [باب الليثي واللبني واللبني] :
+",000,False,000,False,False,False,2,167
+"### | حرف الميم
+",000,False,000,False,False,False,1,4102
+"### || باب المجبر وباب المحب
+",000,False,000,False,False,False,2,214
+"### ||| [باب المجبر] :
+",000,False,000,False,False,False,3,99
+"### || باب مرشد وباب مرير ومزيز
+",000,False,000,False,False,False,2,338
+"### ||| [باب مرشد] :
+",000,False,000,False,False,False,3,190
+"### || [باب مسلم] :
+",000,False,000,False,False,False,2,948
+"### || باب المشمر وباب مشرف ومشرف
+",000,False,000,False,False,False,2,444
+"### ||| [باب المشمر] :
+",000,False,000,False,False,False,3,103
+"### || [باب معقل ومغفل] :
+",000,False,000,False,False,False,2,223
+"### || [باب المفضض والمقصص] :
+",000,False,000,False,False,False,2,330
+"### || باب مقداد وباب المكبر
+",000,False,000,False,False,False,2,197
+"### ||| [باب مقداد] :
+",000,False,000,False,False,False,3,107
+"### || باب ملوك وباب المهتر والمهير
+",000,False,000,False,False,False,2,240
+"### ||| [باب ملوك] :
+",000,False,000,False,False,False,3,58
+"### || [باب مهنا ومهيا] :
+",000,False,000,False,False,False,2,340
+"### || باب المباركي وباب المتيجي
+",000,False,000,False,False,False,2,489
+"### ||| [باب المباركي] :
+",000,False,000,False,False,False,3,60
+"### | حرف النون
+",000,False,000,False,False,False,1,1870
+"### || باب نجبة ونجية
+",000,False,000,False,False,False,2,311
+"### || [باب نعمة ونعمة] :
+",000,False,000,False,False,False,2,237
+"### || باب نظر وباب نفيس ونقيش وباب النجاد والنجار
+",000,False,000,False,False,False,2,854
+"### ||| [باب نظر] :
+",000,False,000,False,False,False,3,88
+"### ||| [باب نفيس ونقيش] :
+",000,False,000,False,False,False,3,101
+"### | حرف الواو
+",000,False,000,False,False,False,1,1192
+"### || باب واهب وراهب وباب الوقار والوتار
+",000,False,000,False,False,False,2,469
+"### ||| [باب واهب وراهب] :
+",000,False,000,False,False,False,3,219
+"### || [باب الوبار] :
+",000,False,000,False,False,False,2,212
+"### || باب وهبان وباب الوراق والوزان
+",000,False,000,False,False,False,2,319
+"### ||| [باب وهبان] :
+",000,False,000,False,False,False,3,58
+"### | حرف اللام ألف
+",000,False,000,False,False,False,1,82
+"### | حرف الياء
+",000,False,000,False,False,False,1,634
+"### || [باب يرحم وترخم وترجم] :
+",000,False,000,False,False,False,2,173
+"### || [باب يسر] :
+",000,False,000,False,False,False,2,252
+"### | فهرس كتاب تكملة إكمال الإكمال - فهرس الموضوعات
+",000,False,000,False,False,False,1,627

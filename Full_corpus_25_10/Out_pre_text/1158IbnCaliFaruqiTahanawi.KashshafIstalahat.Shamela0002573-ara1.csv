@@ -1,0 +1,507 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | المقدمة 
+",000,False,000,False,False,False,1,117
+"### | شكر وتقدير
+",000,False,000,False,False,False,1,254
+"### | التقديم
+",000,False,000,False,False,False,1,767
+"### | 1 - 
+",000,False,000,False,False,False,1,17
+"### | 2 - 
+",000,False,000,False,False,False,1,29
+"### | 3 - 
+",000,False,000,False,False,False,1,65
+"### | إشكالية المصطلح بين اللفظ والمعنى
+",000,False,000,False,False,False,1,10
+"### | تمهيد
+",000,False,000,False,False,False,1,790
+"### | حقول دلالة العربية
+",000,False,000,False,False,False,1,536
+"### | بنية العربية وقابليتها للتحديث
+",000,False,000,False,False,False,1,1169
+"### | علاقة المعنى باللفظ
+",000,False,000,False,False,False,1,583
+"### | دلالة المصطلح عربيا
+",000,False,000,False,False,False,1,1646
+"### | المصطلح ودراسة المبنى
+",000,False,000,False,False,False,1,893
+"### | التعريف بالمؤلف والكتاب وعملية التحقيق
+",000,False,000,False,False,False,1,21
+"### | 3 - 
+",000,False,000,False,False,False,1,13
+"### | 4 - 
+",000,False,000,False,False,False,1,5
+"### | 1 - 
+",000,False,000,False,False,False,1,1969
+"### | 1 - 
+",000,False,000,False,False,False,1,13
+"### | 2 - 
+",000,False,000,False,False,False,1,13
+"### | 3 - 
+",000,False,000,False,False,False,1,11
+"### | 4 - 
+",000,False,000,False,False,False,1,9
+"### | 5 - 
+",000,False,000,False,False,False,1,9
+"### | 6 - 
+",000,False,000,False,False,False,1,21
+"### | 7 - 
+",000,False,000,False,False,False,1,13
+"### | 8 - 
+",000,False,000,False,False,False,1,1231
+"### | مقدمة المؤلف
+",000,False,000,False,False,False,1,322
+"### | المقدمة في بيان العلوم المدونة وما يتعلق بها
+",000,False,000,False,False,False,1,533
+"### | التقسيم
+",000,False,000,False,False,False,1,733
+"### | اجزاء العلوم
+",000,False,000,False,False,False,1,1092
+"### | 
+",000,False,000,False,False,False,1,0
+"### | 
+",000,False,000,False,False,False,1,0
+"### | فائدة
+",000,False,000,False,False,False,1,283
+"### | فائدة
+",000,False,000,False,False,False,1,1121
+"### | الرءوس الثمانية
+",000,False,000,False,False,False,1,1117
+"### | العلوم العربية
+",000,False,000,False,False,False,1,63
+"### | علم الصرف
+",000,False,000,False,False,False,1,389
+"### | علم الصرف
+",000,False,000,False,False,False,1,1084
+"### | علم النحو
+",000,False,000,False,False,False,1,123
+"### | علم المعاني
+",000,False,000,False,False,False,1,310
+"### | علم المعاني
+",000,False,000,False,False,False,1,645
+"### | علم البيان
+",000,False,000,False,False,False,1,543
+"### | علم البديع
+",000,False,000,False,False,False,1,383
+"### | علم العروض
+",000,False,000,False,False,False,1,16
+"### | علم القافية
+",000,False,000,False,False,False,1,42
+"### | العلوم الشرعية
+",000,False,000,False,False,False,1,34
+"### | علم الكلام
+",000,False,000,False,False,False,1,761
+"### | فائدة علم الكلام وغايته
+",000,False,000,False,False,False,1,96
+"### | شرفه
+",000,False,000,False,False,False,1,44
+"### | مسائله
+",000,False,000,False,False,False,1,191
+"### | وجه تسميته
+",000,False,000,False,False,False,1,50
+"### | علم التفسير
+",000,False,000,False,False,False,1,177
+"### | وجه الحاجة إليه
+",000,False,000,False,False,False,1,234
+"### | شرفه
+",000,False,000,False,False,False,1,80
+"### | 
+",000,False,000,False,False,False,1,0
+"### | فائدة
+",000,False,000,False,False,False,1,216
+"### | فائدة
+",000,False,000,False,False,False,1,318
+"### | علم القراءة
+",000,False,000,False,False,False,1,21
+"### | علم الإسناد
+",000,False,000,False,False,False,1,56
+"### | علم الحديث
+",000,False,000,False,False,False,1,176
+"### | فائدة
+",000,False,000,False,False,False,1,114
+"### | علم أصول الفقه
+",000,False,000,False,False,False,1,31
+"### | تعريفه
+",000,False,000,False,False,False,1,257
+"### | تعريفه
+",000,False,000,False,False,False,1,393
+"### | تنبيه
+",000,False,000,False,False,False,1,353
+"### | موضوع ه
+",000,False,000,False,False,False,1,43
+"### | علم الفقه
+",000,False,000,False,False,False,1,682
+"### | موضوعه
+",000,False,000,False,False,False,1,37
+"### | مسائله
+",000,False,000,False,False,False,1,66
+"### | مسائله
+",000,False,000,False,False,False,1,34
+"### | علم الفرائض
+",000,False,000,False,False,False,1,49
+"### | علم السلوك
+",000,False,000,False,False,False,1,264
+"### | فائدة
+",000,False,000,False,False,False,1,66
+"### | العلوم الحقيقية
+",000,False,000,False,False,False,1,32
+"### | علم المنطق
+",000,False,000,False,False,False,1,13
+"### | علم المنطق
+",000,False,000,False,False,False,1,370
+"### | المنطق من العلوم الآلية 
+",000,False,000,False,False,False,1,427
+"### | الغرض من المنطق
+",000,False,000,False,False,False,1,110
+"### | مرتبته في القراءة
+",000,False,000,False,False,False,1,882
+"### | الحكمة
+",000,False,000,False,False,False,1,111
+"### | المنطق من العلم أم لا
+",000,False,000,False,False,False,1,329
+"### | الموضوع
+",000,False,000,False,False,False,1,199
+"### | الحكمة العملية
+",000,False,000,False,False,False,1,266
+"### | فائدة الحكمة
+",000,False,000,False,False,False,1,333
+"### | توصيفها بالأولى
+",000,False,000,False,False,False,1,248
+"### | أقسام الحكمة النظرية
+",000,False,000,False,False,False,1,246
+"### | موضوع الحكمة النظرية
+",000,False,000,False,False,False,1,25
+"### | العلم الإلهي
+",000,False,000,False,False,False,1,140
+"### | العلم الرياضي
+",000,False,000,False,False,False,1,295
+"### | فائدة
+",000,False,000,False,False,False,1,150
+"### | ال
+",000,False,000,False,False,False,1,2
+"### | علم الطب
+",000,False,000,False,False,False,1,197
+"### | علم الطب
+",000,False,000,False,False,False,1,78
+"### | علم البيطرة والبيزرة
+",000,False,000,False,False,False,1,41
+"### | علم الفراسة
+",000,False,000,False,False,False,1,29
+"### | 
+",000,False,000,False,False,False,1,0
+"### | 
+",000,False,000,False,False,False,1,0
+"### | علم تعبير الرؤيا
+",000,False,000,False,False,False,1,92
+"### | علم أحكام النجوم
+",000,False,000,False,False,False,1,23
+"### | علم السحر
+",000,False,000,False,False,False,1,63
+"### | علم الطلسمات
+",000,False,000,False,False,False,1,37
+"### | علم السيميا
+",000,False,000,False,False,False,1,53
+"### | علم الكيمياء
+",000,False,000,False,False,False,1,46
+"### | علم الفلاحة
+",000,False,000,False,False,False,1,40
+"### | علم العدد
+",000,False,000,False,False,False,1,144
+"### | الحساب العملي
+",000,False,000,False,False,False,1,164
+"### | علم الهندسة
+",000,False,000,False,False,False,1,120
+"### | علم عقود الأبنية
+",000,False,000,False,False,False,1,5
+"### | علم المناظر
+",000,False,000,False,False,False,1,4
+"### | علم المرايا المحرفة
+",000,False,000,False,False,False,1,5
+"### | علم مراكز الأثقال
+",000,False,000,False,False,False,1,235
+"### | علم مراكز الأثقال
+",000,False,000,False,False,False,1,38
+"### | علم المساحة
+",000,False,000,False,False,False,1,25
+"### | علم إنباط المياه
+",000,False,000,False,False,False,1,22
+"### | علم جر الأثقال
+",000,False,000,False,False,False,1,17
+"### | علم البنكامات
+",000,False,000,False,False,False,1,29
+"### | علم الآلات الحربية
+",000,False,000,False,False,False,1,26
+"### | علم الآلات الروحانية
+",000,False,000,False,False,False,1,27
+"### | علم الهيئة
+",000,False,000,False,False,False,1,275
+"### | موضوع كل من العلمين
+",000,False,000,False,False,False,1,151
+"### | فائدة
+",000,False,000,False,False,False,1,523
+"### | علم المواقيت
+",000,False,000,False,False,False,1,4
+"### | علم كيفية الأرصاد
+",000,False,000,False,False,False,1,42
+"### | علم الزيجات والتقاويم
+",000,False,000,False,False,False,1,122
+"### | علم كيفية الأرصاد
+",000,False,000,False,False,False,1,27
+"### | علم تسطيح الكرة
+",000,False,000,False,False,False,1,34
+"### | علم الآلات الظلية
+",000,False,000,False,False,False,1,33
+"### | علم السماء والعالم
+",000,False,000,False,False,False,1,62
+"### | علم الطب
+",000,False,000,False,False,False,1,157
+"### | علم النجوم
+",000,False,000,False,False,False,1,90
+"### | فصل في بيان العلوم المحمودة والمذمومة
+",000,False,000,False,False,False,1,911
+"### | حرف الألف
+",000,False,000,False,False,False,1,39063
+"### | 1 - 
+",000,False,000,False,False,False,1,11
+"### | 2 - 
+",000,False,000,False,False,False,1,19
+"### | 3 - 
+",000,False,000,False,False,False,1,19
+"### | 4 - 
+",000,False,000,False,False,False,1,15
+"### | 5 - 
+",000,False,000,False,False,False,1,43985
+"### | حرف الباء
+",000,False,000,False,False,False,1,18323
+"### | حرف التاء
+",000,False,000,False,False,False,1,34430
+"### | 1 - 
+",000,False,000,False,False,False,1,22991
+"### | ..... 
+",000,False,000,False,False,False,1,5242
+"### | حرف الثاء
+",000,False,000,False,False,False,1,2685
+"### | حرف الجيم
+",000,False,000,False,False,False,1,443
+"### | ..... 
+",000,False,000,False,False,False,1,1702
+"### | 1 - 
+",000,False,000,False,False,False,1,26
+"### | 3 - 
+",000,False,000,False,False,False,1,39
+"### | 5 - 
+",000,False,000,False,False,False,1,7273
+"### | ..... 
+",000,False,000,False,False,False,1,7438
+"### | 1 - 
+",000,False,000,False,False,False,1,57
+"### | 2 - 
+",000,False,000,False,False,False,1,47
+"### | 2 - 
+",000,False,000,False,False,False,1,272
+"### | 2 - 
+",000,False,000,False,False,False,1,5081
+"### | ..... 
+",000,False,000,False,False,False,1,467
+"### | حرف الجيم الفارسي
+",000,False,000,False,False,False,1,173
+"### | حرف الحاء
+",000,False,000,False,False,False,1,10435
+"### | ..... 
+",000,False,000,False,False,False,1,2979
+"### | 2 - 
+",000,False,000,False,False,False,1,13342
+"### | ..... 
+",000,False,000,False,False,False,1,15147
+"### | ..... 
+",000,False,000,False,False,False,1,5207
+"### | حرف الخاء
+",000,False,000,False,False,False,1,7365
+"### | ..... 
+",000,False,000,False,False,False,1,8695
+"### | حرف الدال
+",000,False,000,False,False,False,1,920
+"### | ..... 
+",000,False,000,False,False,False,1,11626
+"### | ..... 
+",000,False,000,False,False,False,1,2889
+"### | حرف الذال
+",000,False,000,False,False,False,1,8025
+"### | حرف الراء
+",000,False,000,False,False,False,1,22391
+"### | حرف (الزاي)
+",000,False,000,False,False,False,1,303
+"### | ..... 
+",000,False,000,False,False,False,1,4736
+"### | 1 - 
+",000,False,000,False,False,False,1,84
+"### | 2 - 
+",000,False,000,False,False,False,1,38
+"### | 3 - 
+",000,False,000,False,False,False,1,652
+"### | حرف السين
+",000,False,000,False,False,False,1,13952
+"### | ..... 
+",000,False,000,False,False,False,1,14492
+"### | حرف (الشين)
+",000,False,000,False,False,False,1,10418
+"### | ..... 
+",000,False,000,False,False,False,1,8184
+"### | حرف الصاد
+",000,False,000,False,False,False,1,12870
+"### | ..... 
+",000,False,000,False,False,False,1,5949
+"### | حرف الضاد
+",000,False,000,False,False,False,1,6023
+"### | حرف الطاء
+",000,False,000,False,False,False,1,26
+"### | ..... 
+",000,False,000,False,False,False,1,7739
+"### | حرف الظاء
+",000,False,000,False,False,False,1,4361
+"### | ..... 
+",000,False,000,False,False,False,1,484
+"### | حرف العين
+",000,False,000,False,False,False,1,11073
+"### | ..... 
+",000,False,000,False,False,False,1,19845
+"### | ..... 
+",000,False,000,False,False,False,1,4556
+"### | حرف الغين
+",000,False,000,False,False,False,1,5447
+"### | حرف الفاء
+",000,False,000,False,False,False,1,1191
+"### | ..... 
+",000,False,000,False,False,False,1,12906
+"### | حرف القاف
+",000,False,000,False,False,False,1,1203
+"### | ..... 
+",000,False,000,False,False,False,1,22907
+"### | حرف الكاف
+",000,False,000,False,False,False,1,6865
+"### | ..... 
+",000,False,000,False,False,False,1,9747
+"### | حرف ك الفارسية
+",000,False,000,False,False,False,1,108
+"### | حرف اللام
+",000,False,000,False,False,False,1,6245
+"### | ..... 
+",000,False,000,False,False,False,1,1318
+"### | حرف الميم
+",000,False,000,False,False,False,1,9444
+"### | ..... 
+",000,False,000,False,False,False,1,10819
+"### | ..... 
+",000,False,000,False,False,False,1,9997
+"### | ..... 
+",000,False,000,False,False,False,1,11655
+"### | ..... 
+",000,False,000,False,False,False,1,8722
+"### | ..... 
+",000,False,000,False,False,False,1,15987
+"### | ..... 
+",000,False,000,False,False,False,1,15328
+"### | ..... 
+",000,False,000,False,False,False,1,11039
+"### | ..... 
+",000,False,000,False,False,False,1,5041
+"### | حرف النون
+",000,False,000,False,False,False,1,6720
+"### | ..... 
+",000,False,000,False,False,False,1,16802
+"### | حرف الهاء
+",000,False,000,False,False,False,1,56
+"### | ..... 
+",000,False,000,False,False,False,1,16276
+"### | ..... 
+",000,False,000,False,False,False,1,13514
+"### | حرف الياء
+",000,False,000,False,False,False,1,2882
+"### | الفهارس العربية
+",000,False,000,False,False,False,1,2
+"### | فهرس الفرق والأعلام والقبائل
+",000,False,000,False,False,False,1,344
+"### | ..... 
+",000,False,000,False,False,False,1,2752
+"### | ..... 
+",000,False,000,False,False,False,1,2758
+"### | ..... 
+",000,False,000,False,False,False,1,271
+"### | فهرس الكتب
+",000,False,000,False,False,False,1,5612
+"### | فهرس المصطلحات
+",000,False,000,False,False,False,1,1091
+"### | ..... 
+",000,False,000,False,False,False,1,2070
+"### | ..... 
+",000,False,000,False,False,False,1,1840
+"### | ..... 
+",000,False,000,False,False,False,1,2007
+"### | ..... 
+",000,False,000,False,False,False,1,3844
+"### | ..... 
+",000,False,000,False,False,False,1,2010
+"### | ..... 
+",000,False,000,False,False,False,1,1970
+"### | ..... 
+",000,False,000,False,False,False,1,1900
+"### | ..... 
+",000,False,000,False,False,False,1,1919
+"### | ..... 
+",000,False,000,False,False,False,1,334
+"### | الفهارس الأجنبية
+",000,False,000,False,False,False,1,4
+"### | Index Francais
+",000,False,000,False,False,False,1,1379
+"### | ..... 
+",000,False,000,False,False,False,1,1391
+"### | ..... 
+",000,False,000,False,False,False,1,1463
+"### | ..... 
+",000,False,000,False,False,False,1,1370
+"### | ..... 
+",000,False,000,False,False,False,1,1339
+"### | ..... 
+",000,False,000,False,False,False,1,1500
+"### | ..... 
+",000,False,000,False,False,False,1,1609
+"### | ..... 
+",000,False,000,False,False,False,1,1712
+"### | ..... 
+",000,False,000,False,False,False,1,1527
+"### | ..... 
+",000,False,000,False,False,False,1,1393
+"### | ..... 
+",000,False,000,False,False,False,1,1624
+"### | ..... 
+",000,False,000,False,False,False,1,1475
+"### | ..... 
+",000,False,000,False,False,False,1,1558
+"### | ..... 
+",000,False,000,False,False,False,1,86
+"### | English Index
+",000,False,000,False,False,False,1,1517
+"### | ..... 
+",000,False,000,False,False,False,1,1522
+"### | ..... 
+",000,False,000,False,False,False,1,1322
+"### | ..... 
+",000,False,000,False,False,False,1,1368
+"### | ..... 
+",000,False,000,False,False,False,1,1571
+"### | ..... 
+",000,False,000,False,False,False,1,1354
+"### | ..... 
+",000,False,000,False,False,False,1,1462
+"### | ..... 
+",000,False,000,False,False,False,1,1520
+"### | ..... 
+",000,False,000,False,False,False,1,1377
+"### | ..... 
+",000,False,000,False,False,False,1,1568
+"### | ..... 
+",000,False,000,False,False,False,1,1476
+"### | ..... 
+",000,False,000,False,False,False,1,1805
+"### | ..... 
+",000,False,000,False,False,False,1,1554

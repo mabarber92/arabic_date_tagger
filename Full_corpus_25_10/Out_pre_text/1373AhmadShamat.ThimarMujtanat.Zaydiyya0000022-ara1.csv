@@ -1,0 +1,103 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO الثمار المجتناة
+",000,False,000,False,False,False,1,20
+"### | AUTO مقدمة التحقيق
+",000,False,000,False,False,False,1,5286
+"### || AUTO منهج وخطة تحقيق المخطوطة
+",000,False,000,False,False,False,2,96
+"### || AUTO منهج تحقيق النص المخطوطة
+",000,False,000,False,False,False,2,357
+"### || AUTO أماكن وجود المخطوطة (النسخ المعتمدة)
+",000,False,000,False,False,False,2,69
+"### || AUTO المصادر والمراجع التي اختلفت منها
+",000,False,000,False,False,False,2,42
+"### || AUTO التثبت من صحة المخطوطة ونسبتها لمؤلفها
+",000,False,000,False,False,False,2,92
+"### || AUTO ترجمة المؤلف
+",000,False,000,False,False,False,2,3
+"### || AUTO نسبه ونعته:
+",000,False,000,False,False,False,2,30
+"### || AUTO مولده ووفاته:
+",000,False,000,False,False,False,2,43
+"### || AUTO نشأته ومشايخه:
+",000,False,000,False,False,False,2,47
+"### || AUTO من أخذ عنه:
+",000,False,000,False,False,False,2,35
+"### || AUTO ما قاله العلماء فيه:
+",000,False,000,False,False,False,2,482
+"### || AUTO منهج المؤلف:
+",000,False,000,False,False,False,2,442
+"### || AUTO مصادر المؤلف:
+",000,False,000,False,False,False,2,686
+"### || AUTO وصف النسخ المعتمدة في التحقيق.
+",000,False,000,False,False,False,2,32
+"### || AUTO النسخة (أ)
+",000,False,000,False,False,False,2,607
+"### || AUTO النسخة (ب).
+",000,False,000,False,False,False,2,145
+"### || AUTO أهمية موضوع المخطوطة.
+",000,False,000,False,False,False,2,266
+"### || AUTO تحليل موضوع المخطوطة.
+",000,False,000,False,False,False,2,1506
+"### | AUTO [مقدمة المؤلف]
+",000,False,000,False,False,False,1,342
+"### | AUTO الباب الأول في فضيلة العلم والعلماء والمتعلمين
+",000,False,000,False,False,False,1,1642
+"### | AUTO ### || AUTO الباب الثاني في آداب العالم والمتعلم وما يتصل بذلك
+",000,False,000,False,False,False,1,4093
+"### || AUTO الباب الثاني في آداب العالم والمتعلم وما يتصل بذلك
+",000,False,000,False,False,False,2,543
+"### || AUTO [الآداب المتعلقة بطالب العلم ]
+",000,False,000,False,False,False,2,924
+"### || AUTO تنبيه: فيما يجب على الشيخ والتلميذ من الآداب:
+",000,False,000,False,False,False,2,22
+"### || AUTO [الأدب الأول]
+",000,False,000,False,False,False,2,181
+"### || AUTO [الأدب] الثاني
+",000,False,000,False,False,False,2,162
+"### || AUTO الأدب الثالث
+",000,False,000,False,False,False,2,23
+"### || AUTO الأولى: الرياء:
+",000,False,000,False,False,False,2,592
+"### || AUTO الثانية: العجب:
+",000,False,000,False,False,False,2,141
+"### || AUTO الثالثة: الحسد:
+",000,False,000,False,False,False,2,246
+"### || AUTO الرابعة: الكبر:
+",000,False,000,False,False,False,2,344
+"### | AUTO الباب الثالث في فضائل الوصي كرم الله وجهه
+",000,False,000,False,False,False,1,3233
+"### || AUTO [خبر الغدير]
+",000,False,000,False,False,False,2,278
+"### || AUTO [حديث المنزلة]
+",000,False,000,False,False,False,2,122
+"### || AUTO [خبر البساط]
+",000,False,000,False,False,False,2,208
+"### || AUTO [خبر العمامة]
+",000,False,000,False,False,False,2,223
+"### || AUTO [حديث الطير]
+",000,False,000,False,False,False,2,381
+"### | AUTO الباب الرابع فيما جاء في فضل أهل البيت وكون إجماعهم حجة وما
+",000,False,000,False,False,False,1,6442
+"### || AUTO [الاحتجاج بحديث الثقلين]
+",000,False,000,False,False,False,2,201
+"### || AUTO [الاحتجاج بحديث السفينة وحديث النجوم]
+",000,False,000,False,False,False,2,3110
+"### || AUTO [بيان المقصود بأهل البيت]
+",000,False,000,False,False,False,2,63
+"### || AUTO [الإحتجاج بآية التطهير وحديث الكساء]
+",000,False,000,False,False,False,2,2208
+"### | AUTO الباب الخامس فيما ورد في فضل الشيعة وما يتصل بذلك
+",000,False,000,False,False,False,1,12703
+"### || AUTO المسألة الأولى: [افتراق الأمة]
+",000,False,000,False,False,False,2,876
+"### || AUTO المسألة الثانية: في بيان الحق في الأصول والفروع
+",000,False,000,False,False,False,2,3130
+"### || AUTO المسألة الثالثة: في ذكر جملة مما يجب أن يحمل عليه ما اختلف
+",000,False,000,False,False,False,2,1308
+"### || AUTO المسألة الرابعة: [كيفية اتباع الأئمة من أهل البيت]
+",000,False,000,False,False,False,2,955
+"### || AUTO [خاتمة]
+",000,False,000,False,False,False,2,2255
+"### || AUTO أولا: المراجع المخطوطة
+",000,False,000,False,False,False,2,381

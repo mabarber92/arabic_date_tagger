@@ -1,0 +1,67 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | أ- السيرة النبوية والمغازي
+",000,False,000,False,False,False,1,955
+"### | ب - كتب الدلائل والشمائل والخصائص
+",000,False,000,False,False,False,1,191
+"### | ج- تراجم الصحابة والتابعين
+",000,False,000,False,False,False,1,76
+"### | د- تراجم القراء
+",000,False,000,False,False,False,1,33
+"### | ه - تراجم المفسرين
+",000,False,000,False,False,False,1,33
+"### | وتراجم المحدثين والرواة
+",000,False,000,False,False,False,1,72
+"### | ز- تراجم الفقهاء والأصوليين 
+",000,False,000,False,False,False,1,156
+"### || الحنفية
+",000,False,000,False,False,False,2,31
+"### || المالكية
+",000,False,000,False,False,False,2,59
+"### || الشافعية
+",000,False,000,False,False,False,2,41
+"### || الحنابلة
+",000,False,000,False,False,False,2,38
+"### | ح- تراجم الشيعة والمعتزلة
+",000,False,000,False,False,False,1,64
+"### | ط- تراجم الزهاد والصوفية
+",000,False,000,False,False,False,1,96
+"### | ي- تراجم اللغويين والنحاة
+",000,False,000,False,False,False,1,53
+"### | ك- تراجم الأباء والشعراء
+",000,False,000,False,False,False,1,466
+"### | ل- تراجم الأطباء والفلاسفة
+",000,False,000,False,False,False,1,58
+"### | م- تراجم القضاء
+",000,False,000,False,False,False,1,96
+"### | ن- تراجم الخلفاء
+",000,False,000,False,False,False,1,61
+"### | ص - تراجم الوزراء
+",000,False,000,False,False,False,1,63
+"### | ع- تراجم المؤرخين
+",000,False,000,False,False,False,1,23
+"### | ف- تراجم النسابين
+",000,False,000,False,False,False,1,28
+"### | ض- تراجم النساء
+",000,False,000,False,False,False,1,31
+"### | ق- التراجم على البلدان
+",000,False,000,False,False,False,1,425
+"### | ر- التراجم على القرون
+",000,False,000,False,False,False,1,233
+"### | س- التراجم العامة
+",000,False,000,False,False,False,1,157
+"### | ت- تراجم أهل المغرب والأندلس
+",000,False,000,False,False,False,1,335
+"### | ث- المراجع الهادية
+",000,False,000,False,False,False,1,643
+"### | خ-أنساب العرب
+",000,False,000,False,False,False,1,105
+"### | ذ-الأنساب بوجه عام
+",000,False,000,False,False,False,1,60
+"### | ضبط الأعلام والكنى والألقاب والأنساب
+",000,False,000,False,False,False,1,258
+"### | ظ-مراجع البلدان والمواضع والمياه والجبال
+",000,False,000,False,False,False,1,329
+"### | غ- علم قوائم الكتب والفنون أو الببليوجرافيا العربية
+",000,False,000,False,False,False,1,1000
+"### | ش- تعريفات العلوم ومصطلحاتها
+",000,False,000,False,False,False,1,384

@@ -1,0 +1,71 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK [المجلد الأول]
+",000,False,000,False,False,False,1,154912
+"### || AUTO مقدمة التحقيق
+",000,False,000,False,False,False,2,6355
+"### ||| CHECK [منهج ms0009 العمل في التحقيق]
+",000,False,000,False,False,False,3,401
+"### ||| CHECK [ترجمة الإمام علي بن المؤيد بن جبريل]
+",000,False,000,False,False,False,3,890
+"### |||| AUTO مولده:
+",000,False,000,False,False,False,4,532
+"### |||| AUTO وفاته عليه السلام:
+",000,False,000,False,False,False,4,90
+"### ||| AUTO ترجمة الإمام عزالدين عليه السلام
+",000,False,000,False,False,False,3,1369
+"### |||| AUTO أمه عليه السلام : هي الشريفة الطاهرة الفاضلة الكاملة مارية
+",000,False,000,False,False,False,4,22
+"### |||| AUTO مولده: ولد عليه السلام بهجرة فلله يوم الإثنين لسبع ليال
+",000,False,000,False,False,False,4,19
+"### |||| AUTO نشأته عليه السلام : نشأ منشأ آبائه الجحاجحة الكرام، وقفا
+",000,False,000,False,False,False,4,276
+"### |||| CHECK [رثاء مولانا المتوكل على الله شرف الدين بن شمس الدين , حي
+",000,False,000,False,False,False,4,14
+"### |||| AUTO دعوته:
+",000,False,000,False,False,False,4,2
+"### |||| AUTO قال: وكانت دعوته عليه السلام في يوم تاسع من شهر شوال سنة
+",000,year,000,False,False,False,4,595
+"### |||| CHECK [زيارة الفقيه العلامة سعد الدين المسوري للإمامين]
+",000,False,000,False,False,False,4,250
+"### |||| CHECK [أولاد الإمام عز الدين عليه السلام]
+",000,False,000,False,False,False,4,58
+"### ||| AUTO ترجمة الإمام الحسن بن عز الدين عليه السلام
+",000,False,000,False,False,False,3,537
+"### |||| AUTO مولده عليه السلام:
+",000,False,000,False,False,False,4,31
+"### |||| AUTO نشأته عليه السلام:
+",000,False,000,False,False,False,4,44
+"### |||| AUTO دراسته عليه السلام:
+",000,False,000,False,False,False,4,27
+"### |||| AUTO إهتمام والده به:
+",000,False,000,False,False,False,4,30
+"### |||| AUTO دعوته عليه السلام:
+",000,False,000,False,False,False,4,209
+"### |||| AUTO مؤلفاته:
+",000,False,000,False,False,False,4,88
+"### |||| CHECK [زيارة العلامة سعد الدين المسوري , للهجرة المقدسة]
+",000,False,000,False,False,False,4,8
+"### ||| AUTO ترجمة السيد العلامة صارم الدين الوزير
+",000,False,000,False,False,False,3,131
+"### |||| AUTO مولده ونشأته:
+",000,False,000,False,False,False,4,56
+"### ||| AUTO ترجمة القاضي عبد الله النجري
+",000,False,000,False,False,False,3,140
+"### |||| AUTO مولده: ب(حوث) سنة 825ه، ونشأ بها وقرأ على والده وأخيه، ثم
+",825,year,000,False,825,False,4,59
+"### |||| AUTO مؤلفاته:
+",000,False,000,False,False,False,4,37
+"### ||| AUTO ترجمة العلامة علي بن محمد البكري
+",000,False,000,False,False,False,3,144
+"### |||| AUTO مؤلفاته :
+",000,False,000,False,False,False,4,49
+"### ||| AUTO مصادر التراجم
+",000,False,000,False,False,False,3,128
+"### |||| AUTO أولا: المخطوطات
+",000,False,000,False,False,False,4,63
+"### || AUTO ((القسم الأول ))
+",000,False,000,False,False,False,2,61472
+"### || AUTO ((القسم الثاني ))
+",000,False,000,False,False,False,2,38685
+"### | AUTO ### || AUTO [القسم الرابع وهو المجلد الثاني]
+",000,False,000,False,False,False,1,197436

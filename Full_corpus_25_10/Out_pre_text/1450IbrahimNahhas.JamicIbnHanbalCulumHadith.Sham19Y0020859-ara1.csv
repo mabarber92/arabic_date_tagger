@@ -1,0 +1,137 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO فضل أهل الحديث
+",000,False,000,False,False,False,1,34
+"### | AUTO من هو صاحب الحديث
+",000,False,000,False,False,False,1,53
+"### | AUTO باب ما جاء في أقسام الحديث
+",000,False,000,False,False,False,1,1247
+"### || AUTO 978 - ما جاء في أصح الأسانيد
+",000,False,000,False,False,False,2,45
+"### || AUTO 979 - الحديث الغريب
+",000,False,000,False,False,False,2,108
+"### || AUTO 980 - الحديث المعنعن
+",000,False,000,False,False,False,2,45
+"### || AUTO 981 - هل الحديث المعنعن والمؤنن سواء؟
+",000,False,000,False,False,False,2,72
+"### || AUTO 982 - حكم زيادة الثقة
+",000,False,000,False,False,False,2,254
+"### || AUTO 983 - معرفة من يرجع إلى قوله عند اختلاف الثقات
+",000,False,000,False,False,False,2,34
+"### || AUTO 984 - ترجيح المراسيل بعضها على بعض
+",000,False,000,False,False,False,2,511
+"### || AUTO 985 - قول الصحابي: (من السنة) هل يقتضي سنة النبي -صلى الله عليه وسلم- ويكون بمنزلة المرفوع؟ وكذلك قول التابعي: (من السنة) هل يكون بمنزلة المرسل؟
+",000,year,000,False,False,False,2,119
+"### || AUTO 986 - الحديث المدلس
+",000,False,000,False,False,False,2,25
+"### || AUTO 987 - الحديث المنكر
+",000,False,000,False,False,False,2,25
+"### | AUTO باب الإسناد
+",000,False,000,False,False,False,1,2262
+"### || AUTO فصل: من حدث عن الإمام أحمد من مشايخه ومن الأكابر
+",000,False,000,False,False,False,2,1976
+"### ||| AUTO 991 - عبد الرزاق بن همام الصنعاني
+",000,False,000,False,False,False,3,102
+"### ||| AUTO 992 - إسماعيل ابن علية
+",000,False,000,False,False,False,3,15
+"### ||| AUTO 993 - وكيع بن الجراح
+",000,False,000,False,False,False,3,22
+"### ||| AUTO 994 - عبد الرحمن بن مهدي
+",000,False,000,False,False,False,3,75
+"### ||| AUTO 995 - محمد بن إدريس الشافعي
+",000,False,000,False,False,False,3,178
+"### ||| AUTO 996 - معروف الكرخي
+",000,False,000,False,False,False,3,76
+"### ||| AUTO 997 - أسود بن عامر المعروف ب (شاذان)
+",000,False,000,False,False,False,3,91
+"### ||| AUTO 998 - الحسن بن موسى الأشيب
+",000,False,000,False,False,False,3,85
+"### ||| AUTO 999 - داود بن عمرو الضبي
+",000,False,000,False,False,False,3,74
+"### ||| AUTO 1000 - أبو زكريا يحيى بن عبد الحميد الحماني
+",000,False,000,False,False,False,3,99
+"### ||| AUTO 1001 - خلف بن هشام البزار
+",000,False,000,False,False,False,3,73
+"### ||| AUTO 1002 - قتيبة بن سعيد
+",000,False,000,False,False,False,3,98
+"### ||| AUTO 1003 - علي بن المديني
+",000,False,000,False,False,False,3,260
+"### ||| AUTO 1004 - الحارث بن سريج النقال
+",000,False,000,False,False,False,3,98
+"### ||| AUTO 1005 - أبو جعفر محمد بن الحسين البرجلاني
+",000,False,000,False,False,False,3,80
+"### ||| AUTO 1006 - محمد بن يحيى بن أبي سمينة
+",000,False,000,False,False,False,3,75
+"### ||| AUTO 1007 - عبد الله بن عمرو بن محمد بن أبان القرشي الكوفي
+",000,False,000,False,False,False,3,99
+"### ||| AUTO 1008 - محمد بن المصفى
+",000,False,000,False,False,False,3,75
+"### ||| AUTO 1009 - أحمد بن أبي الحواري
+",000,False,000,False,False,False,3,112
+"### | AUTO باب ما جاء في الجرح والتعديل
+",000,False,000,False,False,False,1,1002
+"### | AUTO باب ما جاء في شروط قبول خبر الراوي
+",000,False,000,False,False,False,1,2377
+"### || AUTO أولا: أن يكون عدلا
+",000,False,000,False,False,False,2,1094
+"### ||| AUTO 1017 - بم تثبت العدالة؟
+",000,False,000,False,False,False,3,35
+"### ||| AUTO 1018 - هل يقبل خبر من لم تعرف عدالته؟
+",000,False,000,False,False,False,3,27
+"### ||| AUTO 1019 - هل رواية العدل عن غيره تعديلا لغيره؟
+",000,False,000,False,False,False,3,95
+"### ||| AUTO 1020 - حكم الرواية عمن يأخذ الأجرة على الحديث
+",000,False,000,False,False,False,3,55
+"### ||| AUTO 1021 - الرواية عن الكذابين
+",000,False,000,False,False,False,3,169
+"### ||| AUTO 1022 - حكم الرواية عن أهل الفسق والمعاصي
+",000,False,000,False,False,False,3,107
+"### ||| AUTO 1023 - هل المعصية تسقط العدالة؟
+",000,False,000,False,False,False,3,33
+"### ||| AUTO 1024 - حكم الرواية عن جند السلطان
+",000,False,000,False,False,False,3,42
+"### ||| AUTO 1025 - حكم الرواية عن أهل البدع
+",000,False,000,False,False,False,3,221
+"### ||| AUTO 1026 - حكم الرواية عمن أجاب في المحنة
+",000,False,000,False,False,False,3,130
+"### ||| AUTO 1027 - حكم الراوية عن أصحاب الرأي
+",000,False,000,False,False,False,3,82
+"### | AUTO باب: التحمل والأداء
+",000,False,000,False,False,False,1,1961
+"### || AUTO 1040 - شرط التحمل: أن يكون ضابطا مميزا
+",000,False,000,False,False,False,2,1219
+"### || AUTO 1041 - إن كان في سماعه عن فلان فهل يجوز أن يقول قال فلان أم لا؟
+",000,False,000,False,False,False,2,54
+"### || AUTO 1042 - جمع الحديث عن اثنين أو أكثر إذا اتفق في المعنى
+",000,False,000,False,False,False,2,48
+"### || AUTO 1043 - ما جاء في تقطيع الحديث
+",000,False,000,False,False,False,2,227
+"### || AUTO 1044 - رواية الحديث بالمعنى
+",000,False,000,False,False,False,2,217
+"### || AUTO 1045 - الحديث يجيء فيه اللحن والشيء الفاحش هل يغيره؟
+",000,False,000,False,False,False,2,140
+"### | AUTO باب: كتابة الحديث وتدوينه
+",000,False,000,False,False,False,1,1852
+"### || AUTO 1047 - تدوين الحديث, وذكر من كره ذلك
+",000,False,000,False,False,False,2,1127
+"### || AUTO 1048 - حكم كتابة الحديث بالأجرة
+",000,False,000,False,False,False,2,22
+"### || AUTO 1049 - كراهة كتابة ما دون الحديث
+",000,False,000,False,False,False,2,330
+"### || AUTO 1050 - أول من صنف الكتب
+",000,False,000,False,False,False,2,35
+"### || AUTO 1051 - ما جاء في الكتابة بخط دقيق
+",000,False,000,False,False,False,2,70
+"### || AUTO 1052 - ما جاء في ختم الكتاب
+",000,False,000,False,False,False,2,25
+"### | AUTO باب: ما جاء في مصنفات الحديث
+",000,False,000,False,False,False,1,352
+"### || AUTO فصل: ما جاء في ""مسند الإمام أحمد""
+",000,False,000,False,False,False,2,292
+"### ||| AUTO 1054 - سبب تأليف الإمام للمسند
+",000,False,000,False,False,False,3,98
+"### ||| AUTO 1055 - ما قصد الإمام جمعه من الحديث في ""المسند""
+",000,False,000,False,False,False,3,102
+"### ||| AUTO 1056 - وقت ابتداء الإمام في تصنيف ""المسند""؟
+",000,False,000,False,False,False,3,38
+"### | AUTO أخطاء طباعية واستدراكات
+",000,False,000,False,False,False,1,1622

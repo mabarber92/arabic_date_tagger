@@ -1,0 +1,61 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [ مقدمة ]
+",000,False,000,False,False,False,1,11532
+"### || مقدمات وفصول لا بد منها
+",000,False,000,False,False,False,2,1105
+"### || ذكر البحار والأنهار
+",000,False,000,False,False,False,2,2912
+"### || ذكر الأسامي واختلافها
+",000,False,000,False,False,False,2,1302
+"### || ذكر الخصائص في الأقاليم
+",000,False,000,False,False,False,2,730
+"### || ذكر المذاهب والذمة
+",000,False,000,False,False,False,2,1179
+"### || ذكر ما عاينت من الأسباب
+",000,False,000,False,False,False,2,556
+"### || ذكر المواضع المختلف فيها NoteV01P046N01
+",000,False,000,False,False,False,2,283
+"### || باب اختصرناه للفقهاء
+",000,False,000,False,False,False,2,2066
+"### | ذكر مملكة الإسلام
+",000,False,000,False,False,False,1,572
+"### | جزيرة العرب
+",000,False,000,False,False,False,1,9240
+"### | إقليم العراق
+",000,False,000,False,False,False,1,5084
+"### | إقليم أقور
+",000,False,000,False,False,False,1,3627
+"### | إقليم الشام	
+",000,False,000,False,False,False,1,9116
+"### | إقليم مصر
+",000,False,000,False,False,False,1,4979
+"### | إقليم المغرب
+",000,False,000,False,False,False,1,7088
+"### | ذكر بادية العرب
+",000,False,000,False,False,False,1,2459
+"### | إقليم المشرق
+",000,False,000,False,False,False,1,18331
+"### || جانب هيطل
+",000,False,000,False,False,False,2,3782
+"### || ذكر جيحون وما عليه
+",000,False,000,False,False,False,2,1645
+"### || ذكر المعابر والشعب NoteV01P292N03
+",000,False,000,False,False,False,2,245
+"### || جانب خراسان
+",000,False,000,False,False,False,2,5272
+"### | إقليم الديلم
+",000,False,000,False,False,False,1,4659
+"### | إقليم الرحاب
+",000,False,000,False,False,False,1,2772
+"### | إقليم الجبال
+",000,False,000,False,False,False,1,3719
+"### | إقليم خوزستان
+",000,False,000,False,False,False,1,4086
+"### | إقليم فارس
+",000,False,000,False,False,False,1,7684
+"### | إقليم كرمان
+",000,False,000,False,False,False,1,2983
+"### | إقليم السند
+",000,False,000,False,False,False,1,2730
+"### | المفازة التي بين هذه أقاليم
+",000,False,000,False,False,False,1,59095

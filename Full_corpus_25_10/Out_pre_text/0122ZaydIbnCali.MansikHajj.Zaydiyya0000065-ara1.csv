@@ -1,0 +1,133 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO مقدمة التحقيق
+",000,False,000,False,False,False,1,1568
+"### || AUTO هذا المنسك
+",000,False,000,False,False,False,2,50
+"### || AUTO عملي فيه
+",000,False,000,False,False,False,2,179
+"### | AUTO هذا منسك الحج وأحكامه
+",000,False,000,False,False,False,1,2368
+"### || AUTO [شروط ينبغي مراعاتها عند العزم لأداء الحج أو العمرة]
+",000,False,000,False,False,False,2,134
+"### || AUTO باب الإحرام
+",000,False,000,False,False,False,2,54
+"### || AUTO باب ما يقول حين يريد الإحرام
+",000,False,000,False,False,False,2,42
+"### || AUTO باب التلبية
+",000,False,000,False,False,False,2,160
+"### || AUTO محظورات الإحرام
+",000,False,000,False,False,False,2,258
+"### || AUTO باب المتمتع وقطع التلبية
+",000,False,000,False,False,False,2,29
+"### || AUTO باب ذكر دخول المسجد الحرام إذا استقبلت الحجر
+",000,False,000,False,False,False,2,46
+"### || AUTO باب استلام الحجر الأسود
+",000,False,000,False,False,False,2,22
+"### || AUTO باب الدعاء عند الاستلام
+",000,False,000,False,False,False,2,93
+"### || AUTO باب مقام إبراهيم صلى الله عليه وآله وسلم
+",000,False,000,False,False,False,2,36
+"### || AUTO باب الصعود على الصفا والمروة
+",000,False,000,False,False,False,2,84
+"### || AUTO باب الدعاء في السعي
+",000,False,000,False,False,False,2,55
+"### || AUTO باب الحل من العمرة
+",000,False,000,False,False,False,2,60
+"### || AUTO باب تحريم الصيد وأنت محرم
+",000,False,000,False,False,False,2,33
+"### || AUTO باب جزاء الفداء
+",000,False,000,False,False,False,2,48
+"### || AUTO باب الرواح إلى منى وما تقول
+",000,False,000,False,False,False,2,83
+"### || AUTO باب الذهاب إلى عرفات والدعاء
+",000,False,000,False,False,False,2,135
+"### || AUTO باب الإفاضة إلى المزدلفة
+",000,False,000,False,False,False,2,119
+"### || AUTO باب الرجوع إلى منى، ورمي الجمرة العظمى
+",000,False,000,False,False,False,2,89
+"### || AUTO [الأضحية]
+",000,False,000,False,False,False,2,42
+"### || AUTO باب ما تقول إذا ذبحت الأضحية
+",000,False,000,False,False,False,2,68
+"### || AUTO باب زيارة البيت
+",000,False,000,False,False,False,2,122
+"### || AUTO باب من لا يجد هديا
+",000,False,000,False,False,False,2,53
+"### || AUTO باب رمي الجمار
+",000,False,000,False,False,False,2,127
+"### || AUTO باب النفر من منى
+",000,False,000,False,False,False,2,53
+"### || AUTO باب التكبير أيام التشريق
+",000,False,000,False,False,False,2,64
+"### || AUTO باب الوداع
+",000,False,000,False,False,False,2,37
+"### || AUTO باب ما يصنع النساء في حجهن
+",000,False,000,False,False,False,2,72
+"### | AUTO الملحق
+",000,False,000,False,False,False,1,1465
+"### || AUTO المواقيت
+",000,False,000,False,False,False,2,129
+"### || AUTO حدود الحرم
+",000,False,000,False,False,False,2,47
+"### || AUTO مناسك الحج
+",000,False,000,False,False,False,2,138
+"### | AUTO أدعية طواف القدوم
+",000,False,000,False,False,False,1,1145
+"### || AUTO دعاء الشوط الأول
+",000,False,000,False,False,False,2,85
+"### || AUTO دعاء الشوط الثاني
+",000,False,000,False,False,False,2,76
+"### || AUTO دعاء الشوط الثالث
+",000,False,000,False,False,False,2,53
+"### || AUTO دعاء الشوط الرابع
+",000,False,000,False,False,False,2,69
+"### || AUTO دعاء الشوط الخامس
+",000,False,000,False,False,False,2,82
+"### || AUTO دعاء الشوط السادس
+",000,False,000,False,False,False,2,64
+"### || AUTO دعاء الشوط السابع
+",000,False,000,False,False,False,2,112
+"### || AUTO دعاء الملتزم
+",000,False,000,False,False,False,2,80
+"### || AUTO دعاء مقام إبراهيم عقيب ركعتي الطواف
+",000,False,000,False,False,False,2,263
+"### || AUTO دعاء حجر إسماعيل
+",000,False,000,False,False,False,2,146
+"### | AUTO أدعية أشواط السعي
+",000,False,000,False,False,False,1,4460
+"### || AUTO دعاء الشوط الأول من الصفا إلى المروة:
+",000,False,000,False,False,False,2,174
+"### || AUTO دعاء الشوط الثاني من المروة إلى الصفا
+",000,False,000,False,False,False,2,166
+"### || AUTO دعاء الشوط الثالث من الصفا إلى المروة
+",000,False,000,False,False,False,2,163
+"### || AUTO دعاء الشوط الرابع من المروة إلى الصفا
+",000,False,000,False,False,False,2,187
+"### || AUTO دعاء الشوط الخامس من الصفا إلى المروة
+",000,False,000,False,False,False,2,165
+"### || AUTO دعاء الشوط السادس من المروة إلى الصفا
+",000,False,000,False,False,False,2,173
+"### || AUTO دعاء الشوط السابع من الصفا إلى المروة
+",000,False,000,False,False,False,2,366
+"### || AUTO دعاء يوم عرفة
+",000,False,000,False,False,False,2,2204
+"### || AUTO أهم مزارات مكة المكرمة
+",000,False,000,False,False,False,2,158
+"### || AUTO أهم مزارات المدينة
+",000,False,000,False,False,False,2,127
+"### || AUTO المسافات بين الأماكن المقدسة
+",000,False,000,False,False,False,2,127
+"### | AUTO أدعية الأيام
+",000,False,000,False,False,False,1,1067
+"### || AUTO دعاء يوم الأحد
+",000,False,000,False,False,False,2,151
+"### || AUTO دعاء يوم الإثنين
+",000,False,000,False,False,False,2,222
+"### || AUTO دعاء يوم الثلاثاء
+",000,False,000,False,False,False,2,158
+"### || AUTO دعاء يوم الأربعاء
+",000,False,000,False,False,False,2,129
+"### || AUTO دعاء يوم الخميس
+",000,False,000,False,False,False,2,142
+"### || AUTO دعاء يوم الجمعة
+",000,False,000,False,False,False,2,154

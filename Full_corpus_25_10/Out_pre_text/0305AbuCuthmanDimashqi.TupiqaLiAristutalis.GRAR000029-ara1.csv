@@ -1,0 +1,181 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [book 1]
+",000,False,000,False,False,False,1,5959
+"### || [chapter 1: I 1]
+",000,False,000,False,False,False,2,437
+"### ||| المقالة الأولى من كتاب طوپيقا، نقل أبى عثمان الدمشقى 〈الجدل وموضوعه — الحجج〉
+",000,False,000,False,False,False,3,10
+"### || [chapter 2: I 2] 〈فائدة الجدل〉
+",000,False,000,False,False,False,2,170
+"### || [chapter 3: I 3] 〈المهارة فى الجدل〉
+",000,False,000,False,False,False,2,68
+"### || [chapter 4: I 4] 〈نظرة عامة إلى عناصر البرهان الجدلى〉
+",000,False,000,False,False,False,2,228
+"### || [chapter 5: I 5] 〈دراسة عناصر الجدل تفصيلا〉
+",000,False,000,False,False,False,2,657
+"### || [chapter 6: I 6] 〈دراسة الألفاظ المحمولة〉
+",000,False,000,False,False,False,2,168
+"### || [chapter 7: I 7] 〈على كم نحو يقال الشىء بعينه〉
+",000,False,000,False,False,False,2,370
+"### || [chapter 8: I 8] 〈براهين الألفاظ المحمولة〉
+",000,False,000,False,False,False,2,179
+"### || [chapter 9: I 9] 〈المقولات وصلتها بالألفاظ المحمولة〉
+",000,False,000,False,False,False,2,199
+"### || [chapter 10: I 10] 〈القضايا الجدلية〉
+",000,False,000,False,False,False,2,333
+"### || [chapter 11: I 11] 〈المسئلة الجدلية والوضع الجدلى〉
+",000,False,000,False,False,False,2,453
+"### || [chapter 12: I 12] 〈البرهان والاستقراء الجدليان〉
+",000,False,000,False,False,False,2,79
+"### || [chapter 13: I 13] 〈الآلات التى يستخرج بها القياس〉
+",000,False,000,False,False,False,2,108
+"### || [chapter 14: I 14] 〈اختيار القضايا〉
+",000,False,000,False,False,False,2,378
+"### || [chapter 15: I 15] 〈البحث عن الألفاظ المشتركة〉
+",000,False,000,False,False,False,2,1419
+"### || [chapter 16: I 16] 〈البحث عن الاختلافات〉
+",000,False,000,False,False,False,2,82
+"### || [chapter 17: I 17] 〈البحث عن المشابه〉
+",000,False,000,False,False,False,2,119
+"### | [book 2]
+",000,False,000,False,False,False,1,5423
+"### || [chapter 19: II 1]
+",000,False,000,False,False,False,2,319
+"### ||| المقالة الثانية منه 〈مواضع العرض المشتركة〉
+",000,False,000,False,False,False,3,4
+"### || [chapter 20: II 2] 〈مواضع〉
+",000,False,000,False,False,False,2,669
+"### || [chapter 21: II 3] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,643
+"### || [chapter 22: II 4] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,557
+"### || [chapter 23: II 5] 〈مواضع أخر〉
+",000,False,000,False,False,False,2,270
+"### || [chapter 24: II 6] 〈مواضع أخر〉
+",000,False,000,False,False,False,2,399
+"### || [chapter 25: II 7] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,632
+"### || [chapter 26: II 8] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,436
+"### || [chapter 27: II 9] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,386
+"### || [chapter 28: II 10] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,460
+"### | [book 3]
+",000,False,000,False,False,False,1,3484
+"### || [chapter 30: III 1]
+",000,False,000,False,False,False,2,755
+"### ||| المقالة الثالثة منه 〈تلاوة مواضع العرض〉
+",000,False,000,False,False,False,3,4
+"### || [chapter 31: III 2] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,891
+"### || [chapter 32: III 3] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,495
+"### || [chapter 33: III 4] 〈تطبيق المواضع السالفة على الحدود البسيطة〉
+",000,False,000,False,False,False,2,95
+"### || [chapter 34: III 5] 〈تعميم المواضع السالفة〉
+",000,False,000,False,False,False,2,242
+"### | [book 4]
+",000,False,000,False,False,False,1,5717
+"### || [chapter 36: IV 1]
+",000,False,000,False,False,False,2,867
+"### ||| المقالة الرابعة منه 〈المواضع المشتركة للجنس〉
+",000,False,000,False,False,False,3,4
+"### || [chapter 37: IV 2] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,1111
+"### || [chapter 38: IV 3] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,683
+"### || [chapter 39: IV 4] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,1024
+"### || [chapter 40: IV 5] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,1094
+"### | [book 5]
+",000,False,000,False,False,False,1,7406
+"### || [chapter 42: V 1]
+",000,False,000,False,False,False,2,550
+"### ||| المقالة الخامسة منه 〈المواضع المشتركة للخاصة〉
+",000,False,000,False,False,False,3,4
+"### || [chapter 43: V 2] 〈مواضع〉
+",000,False,000,False,False,False,2,1108
+"### || [chapter 44: V 3] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,986
+"### || [chapter 45: V 4] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,1217
+"### || [chapter 46: V 5] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,1014
+"### || [chapter 47: V 6] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,660
+"### || [chapter 48: V 7] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,653
+"### || [chapter 49: V 8] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,902
+"### | [book 6]
+",000,False,000,False,False,False,1,8809
+"### || [chapter 51: VI 1] المقالة السادسة منه 〈المواضع المشتركة للحد〉
+",000,False,000,False,False,False,2,291
+"### || [chapter 52: VI 2] 〈غموض الحد〉
+",000,False,000,False,False,False,2,413
+"### || [chapter 53: VI 3] 〈إسهاب الحد〉
+",000,False,000,False,False,False,2,690
+"### || [chapter 54: VI 4] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,1001
+"### || [chapter 55: VI 5] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,383
+"### || [chapter 56: VI 6] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,1693
+"### || [chapter 57: VI 7] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,355
+"### || [chapter 58: VI 8] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,533
+"### || [chapter 59: VI 9] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,677
+"### || [chapter 60: VI 10] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,454
+"### || [chapter 61: VI 11] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,382
+"### || [chapter 62: VI 12] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,502
+"### || [chapter 63: VI 13] 〈مواضع أخرى〉
+",000,False,000,False,False,False,2,1025
+"### | [book 7]
+",000,False,000,False,False,False,1,2697
+"### || [chapter 65: VII 1]
+",000,False,000,False,False,False,2,808
+"### ||| المقالة السابعة منه 〈مواضع الأشياء الواحدة — بقية مواضع التعريف〉
+",000,False,000,False,False,False,3,7
+"### || [chapter 66: VII 2] 〈فى استخدام مواضع الأشياء الواحدة فى التعريف〉
+",000,False,000,False,False,False,2,85
+"### || [chapter 67: VII 3] 〈تلاوة مواضع الحد〉
+",000,False,000,False,False,False,2,776
+"### || [chapter 68: VII 4] 〈المواضع الأشرف〉
+",000,False,000,False,False,False,2,106
+"### | [book 8]
+",000,False,000,False,False,False,1,7583
+"### || [chapter 70: VIII 1]
+",000,False,000,False,False,False,2,1413
+"### ||| المقالة الثامنة من كتاب «طوپيقا» بنقل إبراهيم بن عبد الله الكاتب، من السريانى بنقل إسحق 〈العمل بالجدل〉
+",000,False,000,False,False,False,3,14
+"### || [chapter 71: VIII 2] 〈قواعد السؤال، تتمة〉
+",000,False,000,False,False,False,2,1028
+"### || [chapter 72: VIII 3] 〈صعوبة الحجج الجدلية〉
+",000,False,000,False,False,False,2,663
+"### || [chapter 73: VIII 4] 〈دور السائل ودور المجيب〉
+",000,False,000,False,False,False,2,110
+"### || [chapter 74: VIII 5] 〈نظرية جديدة فى الارتياض الجدلى — دور المجيب〉
+",000,False,000,False,False,False,2,528
+"### || [chapter 75: VIII 6] 〈دور المجيب يتوقف على طريقة السؤال〉
+",000,False,000,False,False,False,2,282
+"### || [chapter 76: VIII 7] 〈طريقة السؤال〉
+",000,False,000,False,False,False,2,211
+"### || [chapter 77: VIII 8] 〈من الجواب إلى الاستقراء〉
+",000,False,000,False,False,False,2,202
+"### || [chapter 78: VIII 9] 〈الارتياض، والموضوعات غير المشهورة〉
+",000,False,000,False,False,False,2,104
+"### || [chapter 79: VIII 10] 〈حل الحجج الفاسدة〉
+",000,False,000,False,False,False,2,345
+"### || [chapter 80: VIII 11] 〈تبكيت الحجة وتبكيت الخصم〉
+",000,False,000,False,False,False,2,1056
+"### || [chapter 81: VIII 12] 〈وضوح الحجة. — فساد الحجة〉
+",000,False,000,False,False,False,2,345
+"### || [chapter 82: VIII 13] 〈المصادرة على المطلوب الأول، والمصادرة على المتضادات〉
+",000,False,000,False,False,False,2,398

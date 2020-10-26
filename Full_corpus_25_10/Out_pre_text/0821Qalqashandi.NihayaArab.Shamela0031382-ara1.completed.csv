@@ -1,0 +1,19 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | مقدمة
+",000,False,000,False,False,False,1,887
+"### | الباب الأول
+",000,False,000,False,False,False,1,3751
+"### || الفصل الأول
+",000,False,000,False,False,False,2,971
+"### || الفصل الثاني
+",000,False,000,False,False,False,2,390
+"### || الفصل الثالث
+",000,False,000,False,False,False,2,404
+"### || الفصل الرابع
+",000,False,000,False,False,False,2,1314
+"### | الباب الثاني
+",000,False,000,False,False,False,1,78610
+"### || الفصل الأول
+",000,False,000,False,False,False,2,1512
+"### | الباب الثالث
+",000,False,000,False,False,False,1,6307

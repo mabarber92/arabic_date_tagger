@@ -1,0 +1,261 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | مقدمات
+",000,False,000,False,False,False,1,2
+"### | ترجمة مؤلف ""المقدمة الحضرمية""
+",000,False,000,False,False,False,1,199
+"### | ترجمة ابن حجر الهيتمي مؤلف ""المنهاج القويم""
+",000,False,000,False,False,False,1,528
+"### | خطبة الكتاب
+",000,False,000,False,False,False,1,1155
+"### | باب أحكام الطهارة
+",000,False,000,False,False,False,1,6
+"### | مدخل
+",000,False,000,False,False,False,1,600
+"### | فصل: ""في الماء المكروه""
+",000,False,000,False,False,False,1,16
+"### | فصل: في الماء المستعمل
+",000,False,000,False,False,False,1,353
+"### | فصل: في الماء النجس ونحو
+",000,False,000,False,False,False,1,723
+"### | فصل: ""في الاجتهاد""
+",000,False,000,False,False,False,1,274
+"### | فصل: ""في الأواني""
+",000,False,000,False,False,False,1,574
+"### | فصل: ""في خصال الفطرة""
+",000,False,000,False,False,False,1,693
+"### | فصل: ""في الوضوء""
+",000,False,000,False,False,False,1,1040
+"### | فصل: ""في سنن الوضوء""
+",000,False,000,False,False,False,1,1700
+"### | فصل: ""في مكروهات الوضوء""
+",000,False,000,False,False,False,1,143
+"### | فصل: ""في شروط ms031 الوضوء وبعضها شروط النية""
+",000,False,000,False,False,False,1,157
+"### | فصل: ""في المسج على الخفين""
+",000,False,000,False,False,False,1,641
+"### | فصل: ""في نواقض الوضوء""
+",000,False,000,False,False,False,1,534
+"### | فصل: ""فيما يحرم بالحدث""
+",000,False,000,False,False,False,1,232
+"### | فصل: ""فيما يندب له الوضوء""
+",000,False,000,False,False,False,1,271
+"### | فصل: ""في آداب قاضي الحاجة""
+",000,False,000,False,False,False,1,1340
+"### | فصل: ""في الاستنجاء""
+",000,False,000,False,False,False,1,551
+"### | فصل: ""في موجب الغسل""
+",000,False,000,False,False,False,1,525
+"### | فصل: ""فص صفات الغسل""
+",000,False,000,False,False,False,1,557
+"### | فصل: ""في مكروهاته""
+",000,False,000,False,False,False,1,265
+"### | باب: النجاسة وإزالتها
+",000,False,000,False,False,False,1,1244
+"### | باب التيمم
+",000,False,000,False,False,False,1,4
+"### | مدخل
+",000,False,000,False,False,False,1,1400
+"### | فصل: ""في شروط التيمم""
+",000,False,000,False,False,False,1,562
+"### | فصل: ""في أركان التيمم""
+",000,False,000,False,False,False,1,268
+"### | فصل: ""في الحيض والاستحاضة والنفاس""
+",000,False,000,False,False,False,1,933
+"### | باب الصلاة
+",000,False,000,False,False,False,1,4
+"### | مدخل
+",000,False,000,False,False,False,1,1538
+"### | فصل: ""في مواقيت الصلاة""
+",000,False,000,False,False,False,1,191
+"### | فصل: ""في الاجتهاد في الوقت""
+",000,False,000,False,False,False,1,351
+"### | فصل: ""في الصلاة المحرمة من حيث الوقت""
+",000,False,000,False,False,False,1,553
+"### | فصل: ""في الأذان""
+",000,False,000,False,False,False,1,2337
+"### | باب صفة الصلاة
+",000,False,000,False,False,False,1,6
+"### | مدخل
+",000,False,000,False,False,False,1,3427
+"### | فصل: ""في سنن الصلاة""
+",000,False,000,False,False,False,1,1726
+"### | فصل: ""في سنن الركوع""
+",000,False,000,False,False,False,1,146
+"### | فصل: ""في سنن الاعتدال""
+",000,False,000,False,False,False,1,3
+"### | فصل: ""في سنن الركوع""
+",000,False,000,False,False,False,1,145
+"### | فصل: ""في سنن الاعتدال""
+",000,False,000,False,False,False,1,399
+"### | فصل: ""في سنن السجود""
+",000,False,000,False,False,False,1,282
+"### | فصل: ""في سنن الجلوس بين السجدتين""
+",000,False,000,False,False,False,1,1064
+"### | فصل: ""في سنن السلام""
+",000,False,000,False,False,False,1,285
+"### | فصل: ""في سنن بعد الصلاة وفيها""
+",000,False,000,False,False,False,1,613
+"### | فصل: ""في شروط الصلاة""
+",000,False,000,False,False,False,1,3986
+"### | فصل: ""في مكروهات الصلاة""
+",000,False,000,False,False,False,1,941
+"### | فصل: ""في سترة المصلي""
+",000,False,000,False,False,False,1,228
+"### | فصل: ""في سجود السهو""
+",000,False,000,False,False,False,1,1727
+"### | فصل: ""في سجود التلاوة""
+",000,False,000,False,False,False,1,568
+"### | فصل: ""في سجود الشكر""
+",000,False,000,False,False,False,1,300
+"### | فصل: ""في صلاة النفل""
+",000,False,000,False,False,False,1,1895
+"### | فصل: ""في صلاة الجماعة وأحكامها""
+",000,False,000,False,False,False,1,1437
+"### | فصل: ""في أعذار الجمعة والجماعة""
+",000,False,000,False,False,False,1,608
+"### | فصل: ""في شروط القدوة""
+",000,False,000,False,False,False,1,935
+"### | فصل: ""فيما يعتبر بعد توفر الشروط السابقة""
+",000,False,000,False,False,False,1,2664
+"### | فصل: ""في إدراك المسبوق الركعة""
+",000,False,000,False,False,False,1,347
+"### | فصل: ""في صفات الأئمة المستحبة""
+",000,False,000,False,False,False,1,645
+"### | فصل: ""في بعض السنن المتعلقة بالجماعة""
+",000,False,000,False,False,False,1,658
+"### | باب صلاة المسافر
+",000,False,000,False,False,False,1,6
+"### | مدخل
+",000,False,000,False,False,False,1,381
+"### | فصل: ""فيما يتحقق به السفر""
+",000,False,000,False,False,False,1,647
+"### | 
+",000,False,000,False,False,False,1,0
+"### | فصل: ""في بقية شروط القصر ونحوه""
+",000,False,000,False,False,False,1,5
+"### | فصل: ""في بقية شروط القصر ونحوه""
+",000,False,000,False,False,False,1,257
+"### | فصل: ""في الجمع بالسفر والمطر""
+",000,False,000,False,False,False,1,641
+"### | باب صلاة الجمعة
+",000,False,000,False,False,False,1,6
+"### | مدخل
+",000,False,000,False,False,False,1,622
+"### | فصل: ""للجمعة شروط زوائد""
+",000,False,000,False,False,False,1,1198
+"### | فصل: ""في بعض سنن الخطبة وصلاة الجمعة""
+",000,False,000,False,False,False,1,475
+"### | فصل: ""في سنن الجمعة""
+",000,False,000,False,False,False,1,1231
+"### | باب: صلاة الخوف
+",000,False,000,False,False,False,1,1429
+"### | باب: صلاة العيدين
+",000,False,000,False,False,False,1,1326
+"### | باب: صلاة الكسوف 
+",000,False,000,False,False,False,1,268
+"### | باب صلاة الاستقساء
+",000,False,000,False,False,False,1,6
+"### | مدخل
+",000,False,000,False,False,False,1,457
+"### | فصل: ""في توابع ما مر""
+",000,False,000,False,False,False,1,427
+"### | فصل: ""في تارك الصلاة""
+",000,False,000,False,False,False,1,253
+"### | باب الجنائز
+",000,False,000,False,False,False,1,4
+"### | مدخل
+",000,False,000,False,False,False,1,812
+"### | فصل: ""في بيان غسل الميت وما يتعلق به""
+",000,False,000,False,False,False,1,961
+"### | فصل: ""في الكفن""
+",000,False,000,False,False,False,1,975
+"### | فصل: ""في أركان الصلاة على الميت وما يتلعق بها""
+",000,False,000,False,False,False,1,807
+"### | فصل: ""في الدفن""
+",000,False,000,False,False,False,1,266
+"### | باب كتاب الزكاة
+",000,False,000,False,False,False,1,6
+"### | مدخل
+",000,False,000,False,False,False,1,705
+"### | فصل: ""في واجب البقر""
+",000,False,000,False,False,False,1,297
+"### | فصل: ""في زكاة الغنم""
+",000,False,000,False,False,False,1,82
+"### | فصل: ""في بعض ما يتعلق بما مر""
+",000,False,000,False,False,False,1,144
+"### | فصل: ""في شروط زكاة الماشية""
+",000,False,000,False,False,False,1,695
+"### | باب: زكاة النبات
+",000,False,000,False,False,False,1,462
+"### | فصل: ""في واجب ما ذكر وما يتبعه""
+",000,False,000,False,False,False,1,683
+"### | باب: زكاة النقد
+",000,False,000,False,False,False,1,728
+"### | فصل: ""في زكاة التجارة""
+",000,False,000,False,False,False,1,571
+"### | فصل: ""في زكاة الفطر""
+",000,False,000,False,False,False,1,988
+"### | فصل: ""في النية في الزكاة وفي تعجيلها""
+",000,False,000,False,False,False,1,637
+"### | فصل: ""في قسمة الزكاة على مستحقيها""
+",000,False,000,False,False,False,1,1394
+"### | فصل: ""في صدقة التطوع""
+",000,False,000,False,False,False,1,820
+"### | باب كتاب الصيام
+",000,False,000,False,False,False,1,6
+"### | مدخل
+",000,False,000,False,False,False,1,1959
+"### | فصل: ""فيمن يجب عليه الصوم""
+",000,False,000,False,False,False,1,186
+"### | فصل: ""فيما يبيح الفطر""
+",000,False,000,False,False,False,1,312
+"### | فصل: ""في سنن الصوم""
+",000,False,000,False,False,False,1,1282
+"### | فصل: ""في الجماع في رمضان وما يجب له
+",000,False,000,False,False,False,1,623
+"### | فصل: ""في الفدية الواجبة""
+",000,False,000,False,False,False,1,962
+"### | فصل: ""في صوم التطوع""
+",000,False,000,False,False,False,1,782
+"### | باب: الاعتكاف
+",000,False,000,False,False,False,1,1170
+"### | باب: كتاب الحج والعمرة
+",000,False,000,False,False,False,1,8
+"### | مدخل
+",000,False,000,False,False,False,1,1262
+"### | فصل: ""في المواقيت""
+",000,False,000,False,False,False,1,860
+"### | فصل: ""في بيان أركان الحج والعمرة""
+",000,False,000,False,False,False,1,69
+"### | فصل: ""في بيان الإحرام""
+",000,False,000,False,False,False,1,710
+"### | فصل: ""في سنن تتعلق بالنسك""
+",000,False,000,False,False,False,1,552
+"### | فصل: ""في واجبات الطواف وسننه""
+",000,False,000,False,False,False,1,1261
+"### | فصل: ""في السعي""
+",000,False,000,False,False,False,1,308
+"### | فصل: ""في الوقوف""
+",000,False,000,False,False,False,1,474
+"### | فصل: ""في الحلق""
+",000,False,000,False,False,False,1,191
+"### | فصل: ""في واجبات الحج""
+",000,False,000,False,False,False,1,69
+"### | فصل: ""في بعض سنن المبيت والرمي وشروطه""
+",000,False,000,False,False,False,1,828
+"### | فصل: ""للحج تحللان""
+",000,False,000,False,False,False,1,879
+"### | فصل: في دم الترتيب والتقدير
+",000,False,000,False,False,False,1,28
+"### | فصل: طفي محرمات الإحرام""
+",000,False,000,False,False,False,1,2616
+"### | فصل: ""في موانع الحج""
+",000,False,000,False,False,False,1,1009
+"### | باب الأضحية
+",000,False,000,False,False,False,1,4
+"### | مدخل
+",000,False,000,False,False,False,1,1278
+"### | فصل: طفي العقيقة""
+",000,False,000,False,False,False,1,444
+"### | فصل: في محرمات تتعلق بالشعر ونحوه
+",000,False,000,False,False,False,1,1044

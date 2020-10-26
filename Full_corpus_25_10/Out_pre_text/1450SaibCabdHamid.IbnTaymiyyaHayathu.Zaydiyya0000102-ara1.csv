@@ -1,0 +1,31 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO الباب الاول
+",000,False,000,False,False,False,1,11730
+"### || AUTO الفصل الاول - ابن تيميه.. اسرته
+",000,False,000,False,False,False,2,2365
+"### || AUTO الفصل الثانى- سمات عصره
+",000,False,000,False,False,False,2,3188
+"### | AUTO الباب الثانى- ميادين عقائده الكبرى
+",000,False,000,False,False,False,1,12729
+"### || AUTO الفصل الاول-الاجتهاد والتقليد
+",000,False,000,False,False,False,2,1993
+"### || AUTO الفصل الثانى- الصفات والتفسير
+",000,False,000,False,False,False,2,5740
+"### | AUTO نقول: وآل النبى الذين هم من دمه ولحمه، وما مس احد جسده الشريف
+",000,False,000,False,False,False,1,12160
+"### || AUTO الفصل الاول-علامه الشيعه ابن المطهر
+",000,False,000,False,False,False,2,2195
+"### || AUTO الفصل الثانى- منهاج السنه
+",000,year,000,False,False,False,2,2108
+"### | AUTO الباب الرابع - اهل البيت :فى عقيده ابن تيميه
+",000,False,000,False,False,False,1,26280
+"### || AUTO الفصل الاول- الاعتقاد بتقديم اهل بيت الرسول
+",000,False,000,False,False,False,2,1415
+"### || AUTO الفصل الثانى- مع فضائل اهل البيت(ع)
+",000,False,000,False,False,False,2,2766
+"### || AUTO الفصل الثالث مع خصائص على (ع)
+",000,False,000,False,False,False,2,2566
+"### || AUTO الفصل الرابع - على (ع) والخلافه
+",000,False,000,False,False,False,2,4695
+"### || AUTO الفصل الخامس- نهضه الحسين (ع) واستشهاده
+",000,False,000,False,False,False,2,7196

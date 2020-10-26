@@ -1,0 +1,55 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | مقدمة
+",000,False,000,False,False,False,1,162
+"### | كتاب الطهارة
+",000,False,000,False,False,False,1,2577
+"### | كتاب الصلاة
+",000,False,000,False,False,False,1,4924
+"### | كتاب الزكاة
+",000,False,000,False,False,False,1,2965
+"### | كتاب الصوم
+",000,False,000,False,False,False,1,1983
+"### | كتاب الحج
+",000,False,000,False,False,False,1,429
+"### | كتاب البيع
+",000,False,000,False,False,False,1,4964
+"### | كتاب الرهن
+",000,False,000,False,False,False,1,2308
+"### | كتاب الوكالة
+",000,False,000,False,False,False,1,484
+"### | كتاب الاقرار
+",000,False,000,False,False,False,1,416
+"### | كتاب الغصب
+",000,False,000,False,False,False,1,1006
+"### | كتاب الشفعة
+",000,False,000,False,False,False,1,267
+"### | كتاب الإجارة
+",000,False,000,False,False,False,1,609
+"### | كتاب المأذون
+",000,False,000,False,False,False,1,759
+"### | كتاب الوديعة ms086
+",000,False,000,False,False,False,1,54
+"### | .... 
+",000,False,000,False,False,False,1,600
+"### | كتاب النكاح
+",000,False,000,False,False,False,1,4989
+"### | كتاب الطلاق
+",000,False,000,False,False,False,1,2841
+"### | كتاب الحدود
+",000,False,000,False,False,False,1,606
+"### | كتاب السرقة
+",000,False,000,False,False,False,1,814
+"### | كتاب الجهاد
+",000,False,000,False,False,False,1,1122
+"### | كتاب الصيد
+",000,False,000,False,False,False,1,945
+"### | كتاب الأيمان
+",000,False,000,False,False,False,1,825
+"### | كتاب أدب القاضي
+",000,False,000,False,False,False,1,803
+"### | كتاب الشهادات
+",000,False,000,False,False,False,1,517
+"### | كتاب العتاق
+",000,False,000,False,False,False,1,602
+"### | خاتمة
+",000,False,000,False,False,False,1,504

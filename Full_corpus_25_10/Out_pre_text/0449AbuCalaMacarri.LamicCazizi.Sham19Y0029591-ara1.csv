@@ -1,0 +1,593 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK [مقدمة المصنف]
+",000,False,000,False,False,False,1,187
+"### | AUTO ذكر ما هو على القافية المهموزة من التي أولها
+",000,False,000,False,False,False,1,4671
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,351
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,247
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,203
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,335
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,437
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,196
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1544
+"### | AUTO حرف الباء
+",000,False,000,False,False,False,1,26122
+"### || AUTO من التي أولها
+",000,False,000,False,False,False,2,1585
+"### || AUTO ومن أبيات أجاز بها بيتا أولها
+",000,False,000,False,False,False,2,336
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,157
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,147
+"### || AUTO ومن التى أولها
+",000,False,000,False,False,False,2,1510
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,309
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,108
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,492
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1320
+"### || AUTO ومن التى أولها
+",000,False,000,False,False,False,2,1937
+"### || AUTO ومن التى أولها
+",000,False,000,False,False,False,2,816
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,133
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,131
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,143
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,150
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,344
+"### || AUTO ومن التى أولها
+",000,False,000,False,False,False,2,161
+"### || AUTO ومن الأبيات التي أولها
+",000,False,000,False,False,False,2,177
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1578
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1879
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1420
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1994
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,105
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,101
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,412
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2117
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1355
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1923
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,190
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,623
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,284
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,189
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,852
+"### | AUTO حرف التاء
+",000,False,000,False,False,False,1,3440
+"### || AUTO من أبيات أولها
+",000,False,000,False,False,False,2,133
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,295
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2869
+"### | AUTO حرف الجيم
+",000,False,000,False,False,False,1,957
+"### | AUTO قافية الحاء
+",000,False,000,False,False,False,1,3662
+"### || AUTO من التي أولها
+",000,False,000,False,False,False,2,281
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,278
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,215
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,166
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,428
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,194
+"### | AUTO حرف الدال
+",000,False,000,False,False,False,1,28239
+"### || AUTO من التي أولها
+",000,False,000,False,False,False,2,1316
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2285
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1766
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,126
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,132
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,155
+"### || AUTO 
+",000,False,000,False,False,False,2,1
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,95
+"### || AUTO 
+",000,False,000,False,False,False,2,1
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,153
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,291
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,385
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2043
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,550
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2114
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1920
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2022
+"### || AUTO 
+",000,False,000,False,False,False,2,1
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,80
+"### || AUTO 
+",000,False,000,False,False,False,2,1
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,177
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,67
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1873
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1751
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,51
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1201
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,680
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,984
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,505
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1660
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1704
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,221
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1676
+"### || AUTO 
+",000,False,000,False,False,False,2,1
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,76
+"### || AUTO 
+",000,False,000,False,False,False,2,1
+"### | AUTO قافية الذال
+",000,False,000,False,False,False,1,976
+"### | AUTO قافية الراء
+",000,False,000,False,False,False,1,17435
+"### || AUTO من التي أولها
+",000,False,000,False,False,False,2,783
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,362
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,291
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,633
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,457
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,281
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,3061
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,216
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,208
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,78
+"### || AUTO 
+",000,False,000,False,False,False,2,1
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,115
+"### || AUTO 
+",000,False,000,False,False,False,2,1
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,66
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,199
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,188
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,217
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,287
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,166
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,160
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,816
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,210
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,642
+"### || AUTO 
+",000,False,000,False,False,False,2,1
+"### || AUTO ومن الزيادة التي أولها
+",000,False,000,False,False,False,2,106
+"### || AUTO 
+",000,False,000,False,False,False,2,1
+"### || AUTO ومن الزيادة التي أولها
+",000,False,000,False,False,False,2,132
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,321
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2164
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1117
+"### || AUTO ومن أبيات أوله
+",000,False,000,False,False,False,2,335
+"### || AUTO وفي ديوان أبي الطيب هذا البيت فاردا
+",000,False,000,False,False,False,2,227
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,387
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,233
+"### | AUTO قافية الزاي
+",000,False,000,False,False,False,1,3137
+"### | AUTO قافية السين
+",000,False,000,False,False,False,1,6990
+"### || AUTO من بيتين أولهما
+",000,False,000,False,False,False,2,356
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1375
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,3637
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,155
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,112
+"### | AUTO قافية الشين
+",000,False,000,False,False,False,1,4163
+"### | AUTO قافية الضاد
+",000,False,000,False,False,False,1,640
+"### || AUTO من أبيات أولها
+",000,False,000,False,False,False,2,259
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,126
+"### | AUTO قافية العين
+",000,False,000,False,False,False,1,14596
+"### || AUTO من التي أولها
+",000,False,000,False,False,False,2,242
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,5469
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2179
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1872
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,219
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1653
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2476
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,98
+"### | AUTO قافية الفاء
+",000,False,000,False,False,False,1,3249
+"### || AUTO من التي أولها
+",000,False,000,False,False,False,2,2328
+"### || AUTO 
+",000,False,000,False,False,False,2,1
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,85
+"### || AUTO 
+",000,False,000,False,False,False,2,1
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,104
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,101
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,475
+"### | AUTO حرف القاف
+",000,False,000,False,False,False,1,15327
+"### || AUTO من التي أولها
+",000,False,000,False,False,False,2,2728
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2302
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,3521
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2150
+"### || AUTO ومن قطعة أولها
+",000,False,000,False,False,False,2,252
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1912
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1241
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,592
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,116
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,142
+"### || AUTO ومن قطعة أولها
+",000,False,000,False,False,False,2,219
+"### || AUTO ومن قطعة أولها
+",000,False,000,False,False,False,2,107
+"### | AUTO ذكر ما جاء على قافية الكاف
+",000,False,000,False,False,False,1,3032
+"### || AUTO من قطعة أولها
+",000,False,000,False,False,False,2,195
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,87
+"### || AUTO ومن قطعة أولها
+",000,False,000,False,False,False,2,180
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,66
+"### || AUTO ومن قطعة أولها
+",000,False,000,False,False,False,2,370
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,118
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1682
+"### || AUTO ومن قطعة أولها
+",000,False,000,False,False,False,2,149
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,66
+"### | AUTO ذكر ما جاء على حرف اللام
+",000,False,000,False,False,False,1,43933
+"### || AUTO من التي أولها
+",000,False,000,False,False,False,2,624
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,1546
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1905
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,811
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1405
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1887
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,199
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,917
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2471
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,235
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,74
+"### || AUTO ومن قطعة أولها
+",000,False,000,False,False,False,2,49
+"### || AUTO ومن قطعة أولها
+",000,False,000,False,False,False,2,61
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2325
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,81
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1479
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,35
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1106
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,966
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1820
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1956
+"### || AUTO ومن بيتين أولهما قوله
+",000,False,000,False,False,False,2,46
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2178
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1245
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1949
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2347
+"### || AUTO ومن قطعة أولها
+",000,False,000,False,False,False,2,139
+"### || AUTO 
+",000,False,000,False,False,False,2,1
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,92
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,19
+"### || AUTO 
+",000,False,000,False,False,False,2,1
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,65
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1090
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,936
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1534
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,21
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,696
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,741
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,423
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,317
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,143
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,218
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2112
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,170
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1571
+"### || AUTO ومن القصيدة التي أولها
+",000,False,000,False,False,False,2,1419
+"### | AUTO حرف الميم
+",000,False,000,False,False,False,1,40780
+"### || AUTO من القصيدة التي أولها
+",000,False,000,False,False,False,2,2561
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,625
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,136
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1615
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1314
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2742
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,210
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,286
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2005
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,588
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,222
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2475
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,148
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1651
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,155
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,107
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,61
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2155
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,181
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2104
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2150
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2163
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,292
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1387
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1268
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,51
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,194
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,19
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1749
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2087
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,166
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,989
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1535
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1931
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1924
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,261
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,453
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,311
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,213
+"### | AUTO حرف النون
+",000,False,000,False,False,False,1,15544
+"### || AUTO من القصيدة التي أولها
+",000,False,000,False,False,False,2,546
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,642
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,646
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1907
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,188
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,81
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2039
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2251
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,137
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,76
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,2306
+"### || AUTO 
+",000,False,000,False,False,False,2,1
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,76
+"### || AUTO 
+",000,False,000,False,False,False,2,1
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,193
+"### || AUTO ومن بيتين أولهما
+",000,False,000,False,False,False,2,73
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,1365
+"### || AUTO ومن التي أولها
+",000,False,000,False,False,False,2,849
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,76
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,154
+"### | AUTO حرف الهاء
+",000,False,000,False,False,False,1,3592
+"### || AUTO من بيتين أولهما
+",000,False,000,False,False,False,2,123
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,438
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,208
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,227
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,2336
+"### | AUTO حرف الراء
+",000,False,000,False,False,False,1,5413
+"### || AUTO من القصيدة التي أولها
+",000,False,000,False,False,False,2,3799
+"### || AUTO ومن أبيات أولها
+",000,False,000,False,False,False,2,306

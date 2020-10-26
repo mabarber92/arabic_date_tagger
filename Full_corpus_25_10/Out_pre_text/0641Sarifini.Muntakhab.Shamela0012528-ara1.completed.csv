@@ -1,0 +1,331 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | 
+",000,False,000,False,False,False,1,381
+"### | [من اسمه محمد]
+",000,False,000,False,False,False,1,13302
+"### || [من الطبقة الأولى]
+",000,False,000,False,False,False,2,2640
+"### || الطبقة الثانية
+",000,False,000,False,False,False,2,5159
+"### | [حرف الألف]
+",000,False,000,False,False,False,1,17449
+"### || ذكر من اسمه أحمد 
+",000,False,000,False,False,False,2,8528
+"### ||| من الطبقة الأولى
+",000,False,000,False,False,False,3,1713
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,3099
+"### || من اسمه إبراهيم
+",000,False,000,False,False,False,2,1234
+"### ||| من الطبقة الأولى
+",000,False,000,False,False,False,3,469
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,111
+"### || إسماعيل من الطبقات الثلاث
+",000,False,000,False,False,False,2,5706
+"### ||| فمن الطبقة الأولى
+",000,False,000,False,False,False,3,144
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,1657
+"### || من اسمه إسحاق من الطبقات الثلاث.
+",000,False,000,False,False,False,2,993
+"### ||| الطبقة الأولى
+",000,False,000,False,False,False,3,426
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,130
+"### | حرف الباء من الطبقات الثلاث
+",000,False,000,False,False,False,1,607
+"### || فمن الطبقة الأولى
+",000,False,000,False,False,False,2,119
+"### || الطبقة الثانية
+",000,False,000,False,False,False,2,319
+"### | حرف التاء
+",000,False,000,False,False,False,1,123
+"### || من الطبقة الأولى
+",000,False,000,False,False,False,2,18
+"### || الطبقة الثانية
+",000,False,000,False,False,False,2,20
+"### | حرف الثاء
+",000,False,000,False,False,False,1,185
+"### | حرف الجيم من الطبقات الثلاث
+",000,False,000,False,False,False,1,968
+"### || الطبقة الأولى
+",000,False,000,False,False,False,2,189
+"### || الطبقة الثانية
+",000,False,000,False,False,False,2,225
+"### | حرف الحاء من الطبقات الثلاث
+",000,False,000,False,False,False,1,6583
+"### || ممن اسمه الحسن</span>
+",000,False,000,False,False,False,2,2510
+"### ||| الطبقة الأولى 
+",000,False,000,False,False,False,3,420
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,989
+"### || ذكر من اسمه الحسين من الطبقات الثلاث
+",000,False,000,False,False,False,2,2650
+"### ||| فمن الطبقة الأولى
+",000,False,000,False,False,False,3,475
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,870
+"### || من اسمه حمزة من الطبقات الثلاث
+",000,False,000,False,False,False,2,615
+"### ||| فمن الطبقة الأولى
+",000,False,000,False,False,False,3,130
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,193
+"### | حرف الخاء من الطبقات الثلاث
+",000,False,000,False,False,False,1,783
+"### || الطبقة الأولى
+",000,False,000,False,False,False,2,317
+"### || الطبقة الثالثة
+",000,False,000,False,False,False,2,344
+"### | حرف الدال
+",000,False,000,False,False,False,1,357
+"### || فمن الطبقة الثانية
+",000,False,000,False,False,False,2,296
+"### | حرف الذال
+",000,False,000,False,False,False,1,130
+"### | حرف الراء
+",000,False,000,False,False,False,1,489
+"### || من الطبقة الثانية
+",000,False,000,False,False,False,2,139
+"### || الطبقة الثالثة
+",000,False,000,False,False,False,2,303
+"### | حرف الزاي من الطبقات الثلاث
+",000,False,000,False,False,False,1,1117
+"### || فمن الطبقة الأولى
+",000,False,000,False,False,False,2,127
+"### || الطبقة الثانية
+",000,False,000,False,False,False,2,549
+"### || الطبقة الثالثة ms138
+",000,False,000,False,False,False,2,392
+"### | حرف السين
+",000,False,000,False,False,False,1,3867
+"### || من اسمه سعيد من الطبقات الثلاث
+",000,False,000,False,False,False,2,2146
+"### ||| الطبقة الأولى
+",000,False,000,False,False,False,3,199
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,977
+"### || من اسمه سعد
+",000,False,000,False,False,False,2,230
+"### ||| من الطبقة الثانية
+",000,False,000,False,False,False,3,43
+"### || ذكر من اسمه سهل من الطبقات الثلاث
+",000,False,000,False,False,False,2,1143
+"### ||| الطبقة الأولى
+",000,False,000,False,False,False,3,174
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,311
+"### || بقية حرف السين
+",000,False,000,False,False,False,2,262
+"### ||| من الطبقة الثانية
+",000,False,000,False,False,False,3,72
+"### | حرف الشين
+",000,False,000,False,False,False,1,1044
+"### || الطبقة ms152 الأولى
+",000,False,000,False,False,False,2,88
+"### || الطبقة الثانية
+",000,False,000,False,False,False,2,208
+"### || الطبقة الثالثة
+",000,False,000,False,False,False,2,727
+"### | حرف الصاد
+",000,False,000,False,False,False,1,951
+"### || من الطبقة الثانية
+",000,False,000,False,False,False,2,369
+"### | حرف الضاد
+",000,False,000,False,False,False,1,146
+"### || من الطبقة الثانية
+",000,False,000,False,False,False,2,68
+"### | حرف الطاء
+",000,False,000,False,False,False,1,1357
+"### || 
+",000,False,000,False,False,False,2,1173
+"### ||| فمن الطبقة الأولى
+",000,False,000,False,False,False,3,118
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,536
+"### | حرف الظاء
+",000,False,000,False,False,False,1,342
+"### || فمن الطبقة الأولى
+",000,False,000,False,False,False,2,134
+"### || الطبقة الثالثة
+",000,False,000,False,False,False,2,173
+"### | حرف العين
+",000,False,000,False,False,False,1,25933
+"### || [مممن اسمه عبد الله]
+",000,False,000,False,False,False,2,4628
+"### ||| الطبقة الأولى
+",000,False,000,False,False,False,3,943
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,1138
+"### || من اسمه عبيد الله من الطبقات الثلاث
+",000,False,000,False,False,False,2,1236
+"### ||| فمن الطبقة الأولى
+",000,False,000,False,False,False,3,88
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,408
+"### || من اسمه عبد الرحمن من الطبقات الثلاث
+",000,False,000,False,False,False,2,3677
+"### ||| فمن الطبقة الأولى
+",000,False,000,False,False,False,3,1209
+"### ||| الطبقة الثانية ممن اسمه عبد الرحمن
+",000,False,000,False,False,False,3,804
+"### || من اسمه عبد الرحيم
+",000,False,000,False,False,False,2,886
+"### ||| فمن الطبقة الأولى
+",000,False,000,False,False,False,3,214
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,134
+"### || من اسمه عبد الملك من الطبقات الثلاث
+",000,False,000,False,False,False,2,1671
+"### ||| فمن الأولى
+",000,False,000,False,False,False,3,595
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,377
+"### || من اسمه عبد الكريم.
+",000,False,000,False,False,False,2,558
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,32
+"### || من اسمه عبد الواحد من الطبقات الثلاث
+",000,False,000,False,False,False,2,915
+"### ||| فمن الطبقة الأولى
+",000,False,000,False,False,False,3,253
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,164
+"### || من اسمه عبد الجبار
+",000,False,000,False,False,False,2,397
+"### || من اسمه عبد الحميد
+",000,False,000,False,False,False,2,435
+"### ||| من الطبقة الثانية
+",000,False,000,False,False,False,3,113
+"### || من اسمه عبد العزيز
+",000,False,000,False,False,False,2,755
+"### ||| فمن الطبقة الأولى
+",000,False,000,False,False,False,3,143
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,249
+"### || من اسمه عبد الصمد
+",000,False,000,False,False,False,2,598
+"### ||| من الطبقة الثانية
+",000,False,000,False,False,False,3,101
+"### || من اسمه عبد الوهاب
+",000,False,000,False,False,False,2,694
+"### ||| فمن الطبقة الأولى
+",000,False,000,False,False,False,3,71
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,158
+"### || من اسمه عبد الرزاق
+",000,False,000,False,False,False,2,476
+"### || - ذكر من اسمه مفتتح بعبد من الأسامي المتفرقة  ممن لا يوجد منهم إلا اثنان أو ثلاثة أو واحد من الطبقات الثلاث، 
+",000,False,000,False,False,False,2,1654
+"### ||| فمن الأولى:
+",000,False,000,False,False,False,3,112
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,622
+"### || من اسمه عمر من الطبقات الثلاث
+",000,False,000,False,False,False,2,1270
+"### ||| فمن الطبقة الأولى
+",000,False,000,False,False,False,3,259
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,167
+"### || من اسمه عثمان
+",000,False,000,False,False,False,2,211
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,63
+"### || من اسمه علي من الطبقات الثلاث
+",000,False,000,False,False,False,2,4770
+"### ||| فمن الأولى
+",000,False,000,False,False,False,3,600
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,1205
+"### | حرف الغين المعجمة
+",000,False,000,False,False,False,1,122
+"### | حرف الفاء
+",000,False,000,False,False,False,1,2949
+"### || 
+",000,False,000,False,False,False,2,2384
+"### ||| الطبقة الأولى
+",000,False,000,False,False,False,3,106
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,603
+"### | حرف القاف
+",000,False,000,False,False,False,1,764
+"### || من اسمه القاسم
+",000,False,000,False,False,False,2,514
+"### ||| من الطبقة الأولى
+",000,False,000,False,False,False,3,36
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,34
+"### | حرف الكاف
+",000,False,000,False,False,False,1,692
+"### || من الطبقة الأولى
+",000,False,000,False,False,False,2,251
+"### || الطبقة الثانية
+",000,False,000,False,False,False,2,143
+"### | حرف اللام
+",000,False,000,False,False,False,1,119
+"### || من الطبقة الثانية
+",000,False,000,False,False,False,2,86
+"### | حرف الميم سوى من اسمه محمد
+",000,False,000,False,False,False,1,5965
+"### || 
+",000,False,000,False,False,False,2,1170
+"### ||| الطبقة الأولى 
+",000,False,000,False,False,False,3,149
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,131
+"### || من اسمه منصور
+",000,False,000,False,False,False,2,1928
+"### ||| من الطبقة الأولى
+",000,False,000,False,False,False,3,247
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,453
+"### || من اسمه محمود
+",000,False,000,False,False,False,2,577
+"### ||| من الطبقة الأولى
+",000,False,000,False,False,False,3,173
+"### || من اسمه المظفر
+",000,False,000,False,False,False,2,511
+"### ||| من الطبقة الثانية
+",000,False,000,False,False,False,3,116
+"### | حرف النون
+",000,False,000,False,False,False,1,2131
+"### || من اسمه ناصر
+",000,False,000,False,False,False,2,694
+"### ||| من الطبقة الأولى
+",000,False,000,False,False,False,3,84
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,169
+"### || من اسمه نصر
+",000,False,000,False,False,False,2,1061
+"### ||| من الطبقة الأولى
+",000,False,000,False,False,False,3,70
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,371
+"### | حرف الواو
+",000,False,000,False,False,False,1,244
+"### | حرف الهاء
+",000,False,000,False,False,False,1,1337
+"### || ممن اسمه هبة الله
+",000,False,000,False,False,False,2,935
+"### ||| الطبقة الثانية 
+",000,False,000,False,False,False,3,339
+"### | حرف لا
+",000,False,000,False,False,False,1,67
+"### | حرف الياء
+",000,False,000,False,False,False,1,2693
+"### || من اسمه يحيى
+",000,False,000,False,False,False,2,1334
+"### ||| من الطبقة الأولى </span>
+",000,False,000,False,False,False,3,448
+"### ||| الطبقة الثانية
+",000,False,000,False,False,False,3,215
+"### || من اسمه يعقوب
+",000,False,000,False,False,False,2,226
+"### ||| من الطبقة الأولى </span>
+",000,False,000,False,False,False,3,49
+"### || من اسمه يوسف
+",000,False,000,False,False,False,2,639
+"### ||| من الطبقة الثانية </span>
+",000,False,000,False,False,False,3,112

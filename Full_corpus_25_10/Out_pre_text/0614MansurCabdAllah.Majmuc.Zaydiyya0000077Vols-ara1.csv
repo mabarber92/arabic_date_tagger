@@ -1,0 +1,967 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO المجموع المنصوري
+",000,False,000,False,False,False,1,39
+"### | AUTO مقدمة المحقق
+",000,False,000,False,False,False,1,3964
+"### || AUTO المطرفية ونشأتها
+",000,False,000,False,False,False,2,902
+"### || AUTO أولا: المصادر المطرفية
+",000,False,000,False,False,False,2,597
+"### || AUTO ثانيا: المصادر غير المطرفية
+",000,False,000,False,False,False,2,659
+"### || AUTO ثالثا: مصادر ثانوية وتأريخية
+",000,False,000,False,False,False,2,239
+"### || AUTO رابعا: كتابات معاصرة
+",000,False,000,False,False,False,2,612
+"### || AUTO عملي في التحقيق
+",000,False,000,False,False,False,2,219
+"### || AUTO النسخ المعتمدة في التحقيق
+",000,False,000,False,False,False,2,42
+"### | AUTO الرسالة الهادية بالأدلة البادية في تبيين أحكام أهل الردة
+",000,False,000,False,False,False,1,8730
+"### || AUTO [ بدء الكلام على المطرفية ]
+",000,False,000,False,False,False,2,262
+"### || AUTO [ الإقرار بالسبي ونفي بعض الأكاذيب ]
+",000,False,000,False,False,False,2,254
+"### || AUTO [ بيان أسباب السبي ]
+",000,False,000,False,False,False,2,66
+"### || AUTO [ الردة ]
+",000,False,000,False,False,False,2,153
+"### || AUTO [ فرق المرتدين ]
+",000,False,000,False,False,False,2,416
+"### || AUTO [ كتاب أبي بكر إلى أهل الردة ]
+",000,False,000,False,False,False,2,241
+"### || AUTO [ أحكام أهل الردة ]
+",000,False,000,False,False,False,2,396
+"### || AUTO [ موجب تكفير المطرفية ]
+",000,False,000,False,False,False,2,228
+"### || AUTO [ إنكار النبوة ]
+",000,False,000,False,False,False,2,102
+"### || AUTO [ إنكار القرآن ]
+",000,False,000,False,False,False,2,206
+"### || AUTO [ الضرر والمرض من الشيطان ]
+",000,False,000,False,False,False,2,189
+"### || AUTO [ الجمادات تضر وتنفع من دون الله وتأثير الطبائع ]
+",000,False,000,False,False,False,2,203
+"### || AUTO [ نفي أن يكون لله نعمة ومنة ]
+",000,False,000,False,False,False,2,1098
+"### || AUTO [ عودة إلى الردة ]
+",000,False,000,False,False,False,2,2128
+"### || AUTO [ القرابة مع الكفر لا تمنع السبي ]
+",000,False,000,False,False,False,2,269
+"### || AUTO [ عود إلى حديث أهل الردة والسبي في العرب ]
+",000,False,000,False,False,False,2,424
+"### || AUTO [ ردة المهرة ]
+",000,False,000,False,False,False,2,306
+"### || AUTO [ ردة تغلب ]
+",000,False,000,False,False,False,2,256
+"### || AUTO [ ردة الهذيل ]
+",000,False,000,False,False,False,2,89
+"### || AUTO [ بعض وجوه الكفر ]
+",000,False,000,False,False,False,2,204
+"### | AUTO كتاب الرسالة الموسومة بالدرة اليتيمة في تبيين أحكام السبا
+",000,False,000,False,False,False,1,15800
+"### || AUTO [ تقديم ]
+",000,False,000,False,False,False,2,517
+"### || AUTO [ دار الحرب وأحكامها ]
+",000,False,000,False,False,False,2,1498
+"### || AUTO [ موقف الأئمة من المجبرة والمشبهة ]
+",000,False,000,False,False,False,2,624
+"### || AUTO [ موقف الإمام أحمد بن سليمان ]
+",000,False,000,False,False,False,2,784
+"### || AUTO [ موقف القاسمية والهادوية ]
+",000,False,000,False,False,False,2,380
+"### || AUTO [ بحث مفيد في تغيير المنكرات وعدمه على حسب الأحوال ]
+",000,False,000,False,False,False,2,825
+"### || AUTO [ الردة وأحكامها ]
+",000,False,000,False,False,False,2,156
+"### || AUTO [ ردة المطرفية ]
+",000,False,000,False,False,False,2,861
+"### || AUTO [ دار الفسق وأحكامها ]
+",000,False,000,False,False,False,2,644
+"### || AUTO [ موقف الأئمة من السبي ]
+",000,False,000,False,False,False,2,1829
+"### || AUTO [ موقف الأئمة من المجبرة والقدرية ]
+",000,False,000,False,False,False,2,2716
+"### || AUTO [ بعض المحن التي جرت على آل البيت ]
+",000,False,000,False,False,False,2,282
+"### || AUTO [ جرائم آل حرب وآل مروان ]
+",000,False,000,False,False,False,2,341
+"### || AUTO [ جرائم بني العباس ]
+",000,False,000,False,False,False,2,267
+"### || AUTO [ إنفاق الأموال على المجرمين ]
+",000,False,000,False,False,False,2,77
+"### || AUTO [ نماذج من جرائم بني العباس ]
+",000,False,000,False,False,False,2,615
+"### || AUTO [ عود إلى ذكر القاعد ببغداد ومحن الذرية الزكية ]
+",000,False,000,False,False,False,2,285
+"### || AUTO [ شرائط الإمامة ]
+",000,False,000,False,False,False,2,352
+"### || AUTO [ مدعو الإمامة في عصر الإمام ]
+",000,False,000,False,False,False,2,115
+"### || AUTO [ لا بد من إمام ]
+",000,False,000,False,False,False,2,66
+"### || AUTO [ تنكر الأمة وكفرها ]
+",000,False,000,False,False,False,2,1264
+"### || AUTO [ من روائع الإرشادات والحكم ]
+",000,False,000,False,False,False,2,512
+"### | AUTO أجوبة مسائل تتضمن ذكر المطرفية وأحكامهم وغير ذلك له عليه السلام
+",000,False,000,False,False,False,1,10398
+"### || AUTO [ مقدمة عن المطرفية ]
+",000,False,000,False,False,False,2,96
+"### || AUTO [ كذبهم عن اعتقادهم ]
+",000,False,000,False,False,False,2,215
+"### || AUTO [ ابتداء أمر المطرفية وموقف الآل منهم ]
+",000,False,000,False,False,False,2,375
+"### || AUTO [ حكم مقلد المطرفية ]
+",000,False,000,False,False,False,2,232
+"### || AUTO [ حكم معاوية وأتباعه ]
+",000,False,000,False,False,False,2,273
+"### || AUTO [ حكم العارف ببطلان المطرفية المساير لهم ]
+",000,False,000,False,False,False,2,126
+"### || AUTO [ الشك في الإمام لبعض التصرفات ]
+",000,False,000,False,False,False,2,411
+"### || AUTO [ الجمع بين النقيضين ]
+",000,False,000,False,False,False,2,349
+"### || AUTO [ كذب المشرقي ]
+",000,False,000,False,False,False,2,158
+"### || AUTO [ حكم من بايع المشرقي ]
+",000,False,000,False,False,False,2,200
+"### || AUTO [ الدليل على كفر أهل المصانع ]
+",000,False,000,False,False,False,2,225
+"### || AUTO [ سبي امرأة لا تعتقد اعتقادهم ]
+",000,False,000,False,False,False,2,151
+"### || AUTO [ حكم والي الإمام غير المجاهد ]
+",000,False,000,False,False,False,2,130
+"### || AUTO [ اجتهاد الإمام ]
+",000,False,000,False,False,False,2,723
+"### || AUTO [ مصروفات الوالي ]
+",000,False,000,False,False,False,2,171
+"### || AUTO [ الضرائب والقبالات ]
+",000,False,000,False,False,False,2,669
+"### || AUTO [ حكم أخذ الزيادة عن الزكاة ]
+",000,False,000,False,False,False,2,345
+"### || AUTO [ الحجة على جواز تحريق المهجم ]
+",000,False,000,False,False,False,2,221
+"### || AUTO [ حكم إكراه الناس على الضيفة ]
+",000,False,000,False,False,False,2,540
+"### || AUTO [ حكم الخوارج ]
+",000,False,000,False,False,False,2,133
+"### || AUTO [ خراب دور بني محمد ]
+",000,False,000,False,False,False,2,200
+"### || AUTO [ حكم أخذ العقائب ]
+",000,False,000,False,False,False,2,660
+"### || AUTO [ قتل الأبرهي والنقيب ويحيى بن أحمد ]
+",000,False,000,False,False,False,2,594
+"### || AUTO [ حاتم بن دعفان ]
+",000,False,000,False,False,False,2,346
+"### || AUTO [ حدود طاعة الولاة وإنكارهم ]
+",000,False,000,False,False,False,2,424
+"### || AUTO [ عود إلى أخذ أكثر من الزكاة ]
+",000,False,000,False,False,False,2,145
+"### || AUTO [ ما الحجة على جواز قتل المطرفية ]
+",000,False,000,False,False,False,2,797
+"### || AUTO [ الإكراه على الزكاة ]
+",000,False,000,False,False,False,2,451
+"### || AUTO [ اختلاف نظر الأئمة عليهم السلام ]
+",000,False,000,False,False,False,2,772
+"### | AUTO كتاب الجوهرة الشفافة رادعة الطوافة
+",000,False,000,False,False,False,1,16732
+"### || AUTO المسألة الأولى [ هل العالم والعلم حقيقتان أم حقيقة واحدة ]
+",000,False,000,False,False,False,2,239
+"### || AUTO المسألة الثانية [ هل العلم والمعلوم بالوجودية دائران في
+",000,False,000,False,False,False,2,258
+"### || AUTO المسألة الثالثة [ هل يصح إثبات وجود العلم مع نفي الإضافة ]
+",000,False,000,False,False,False,2,149
+"### || AUTO المسألة الرابعة [ هل العلم عام بعموم المعلوم خاص بتخصيصه ]
+",000,False,000,False,False,False,2,190
+"### || AUTO المسألة الخامسة [ هل المعلومات صور قائمة بالعالم بها؟ ]
+",000,False,000,False,False,False,2,395
+"### || AUTO المسألة السادسة [ هل المعلومات هي نفس الذات أو معان زائدة ]
+",000,False,000,False,False,False,2,94
+"### || AUTO المسألة السابعة [ هل ما سبق يطرد في علم الله سبحانه؟ ]
+",000,False,000,False,False,False,2,130
+"### || AUTO المسألة الثامنة [ كيفية معلومات الله تعالى ]
+",000,False,000,False,False,False,2,258
+"### || AUTO المسألة التاسعة [ ما الدليل على علم الله التفصيلي؟ ]
+",000,False,000,False,False,False,2,638
+"### || AUTO المسألة العاشرة [ كيف يصح من الله الإيجاد لما يعلم تفصيله؟ ]
+",000,False,000,False,False,False,2,103
+"### || AUTO المسألة الحادية عشر [ هل المعلومات قائمة بالله سبحانه ]
+",000,False,000,False,False,False,2,160
+"### || AUTO المسألة الثانية عشر [ هل يصح أن يكون الله عالما بالمعدومات؟ ]
+",000,False,000,False,False,False,2,206
+"### || AUTO المسألة الثالثة عشر [ حول حقيقة المعلوم وما يترتب عليها ]
+",000,False,000,False,False,False,2,546
+"### || AUTO المسألة الرابعة عشر [ هل الله قادر على جميع المقدورات؟ ]
+",000,False,000,False,False,False,2,156
+"### || AUTO المسألة الخامسة عشر [ في خصائص قدرته جل جلاله ]
+",000,False,000,False,False,False,2,718
+"### || AUTO المسألة السادسة عشر [ ما الحكم المميز بين ذاتي القادر
+",000,False,000,False,False,False,2,78
+"### || AUTO المسألة السابعة عشر [ ما الذي أوجب تأخير إيجاد المقدور؟ ]
+",000,False,000,False,False,False,2,82
+"### || AUTO المسألة الثامنة عشر [ لماذا استحال وجود المقدور في الأزل؟ ]
+",000,False,000,False,False,False,2,228
+"### || AUTO المسألة التاسعة عشر [ في القدرة أيضا ]
+",000,False,000,False,False,False,2,385
+"### || AUTO المسألة العشرون [ هل الفصل بين القادر والمقدور عينا؟ ]
+",000,False,000,False,False,False,2,730
+"### || AUTO المسألة الحادية والعشرون [ هل الفضل عرض أم جوهر؟ أم جسم؟ ]
+",000,False,000,False,False,False,2,355
+"### || AUTO المسألة الثانية والعشرون [ هل الفضل حادث أم قديم؟ ]
+",000,False,000,False,False,False,2,338
+"### || AUTO المسألة الثالثة والعشرون[ هل الله تعالى مريد بإرادة أم مريد
+",000,False,000,False,False,False,2,664
+"### || AUTO المسألة الرابعة والعشرون [ في قيام الإرادة بالذات ]
+",000,False,000,False,False,False,2,322
+"### || AUTO المسألة الخامسة والعشرون [ هل الإرادة قديمة وقائمة بذاته؟ ]
+",000,False,000,False,False,False,2,164
+"### || AUTO المسألة السادسة والعشرون [ هل الإرادة محدثة وقائمة بذاته ]
+",000,False,000,False,False,False,2,228
+"### || AUTO المسألة السابعة والعشرون [ هل إرادة الله موجودة بلا محل؟ ]
+",000,False,000,False,False,False,2,171
+"### || AUTO المسألة الثامنة والعشرون [ هل أحدث الله إرادته وهل يوصف
+",000,False,000,False,False,False,2,242
+"### || AUTO المسألة التاسعة والعشرون [ هل أحدث الله إرادته بإرادة أخرى ]
+",000,False,000,False,False,False,2,328
+"### || AUTO المسألة الثلاثون [ استطراد على المسألة التي قبلها ]
+",000,False,000,False,False,False,2,124
+"### || AUTO المسألة الحادية والثلاثون [ في القدم والإرادة أيضا ]
+",000,False,000,False,False,False,2,173
+"### || AUTO المسألة الثانية والثلاثون [ في قدم الإرادة وانتقال مقاصدها ]
+",000,False,000,False,False,False,2,55
+"### || AUTO فصل
+",000,False,000,False,False,False,2,129
+"### || AUTO المسألة الثالثة والثلاثون [ في القصد والإرادة ]
+",000,False,000,False,False,False,2,234
+"### || AUTO المسألة الرابعة والثلاثون[ هل يصح أن يكون الله تعالى لا
+",000,False,000,False,False,False,2,142
+"### || AUTO المسألة الخامسة والثلاثون [ هل كان الله رازقا منعما فيما لم يزل؟ ]
+",000,False,000,False,False,False,2,595
+"### || AUTO المسألة السادسة والثلاثون [ هل يصح أن يقال أن يستحق الله صفة
+",000,False,000,False,False,False,2,556
+"### || AUTO المسألة السابعة والثلاثون [ كيف يوصف الله تعالى قبل الخلق
+",000,False,000,False,False,False,2,498
+"### || AUTO المسألة الثامنة والثلاثون [ هل كلام الله صفة ذات ]
+",000,False,000,False,False,False,2,746
+"### || AUTO المسألة التاسعة والثلاثون [ هل كلام الله قديم أم محدث؟ ]
+",000,False,000,False,False,False,2,204
+"### || AUTO المسألة الأربعون [ هل ما نعرفه من كلام الله حكاية للكلام
+",000,False,000,False,False,False,2,327
+"### || AUTO المسألة الحادية والأربعون [ هل يلزم من قدم كلام الله قدم من
+",000,False,000,False,False,False,2,397
+"### || AUTO المسألة الثانية والأربعون [ في كلام الله أيضا ]
+",000,False,000,False,False,False,2,289
+"### || AUTO المسألة الثالثة والأربعون [ هل العرش والكرسي متباينان أم
+",000,False,000,False,False,False,2,685
+"### || AUTO المسألة الرابعة والأربعون [ هل للعرش والكرسي حقيقة في
+",000,False,000,False,False,False,2,121
+"### || AUTO المسألة الخامسة والأربعون [ هل لهما ms190 لون ومقدار وهيئة؟ ]
+",000,False,000,False,False,False,2,237
+"### || AUTO المسألة السادسة والأربعون[ هل للعرش والكرسي جسم جماد أم حي؟ ]
+",000,False,000,False,False,False,2,125
+"### || AUTO المسألة السابعة والأربعون[ معنى قوله تعالى:?وسع كرسيه
+",000,False,000,False,False,False,2,756
+"### || AUTO المسألة الثامنة والأربعون [ الحكمة من خلق العرش والكرسي ]
+",000,False,000,False,False,False,2,864
+"### | AUTO هذه مسائل متفرقة مما سئل عنه عليه السلام وجوابها
+",000,False,000,False,False,False,1,3047
+"### || AUTO مسألة [ في الحركة والسكون ]
+",000,False,000,False,False,False,2,138
+"### || AUTO مسألة [ في التكليف ]
+",000,False,000,False,False,False,2,52
+"### || AUTO مسألة [ في الإحباط ]
+",000,False,000,False,False,False,2,54
+"### || AUTO مسألة [ في عدل الله وعقوبة الظالم ]
+",000,False,000,False,False,False,2,507
+"### || AUTO مسألة [ فيمن ينوي الظلم ولا يتمكن من فعله ]
+",000,False,000,False,False,False,2,106
+"### || AUTO مسألة [ الرد على من يقول بأن النبوة والإمامة جزاء على
+",000,False,000,False,False,False,2,664
+"### || AUTO مسألة [ إسقاط التوبة للعقاب ]
+",000,False,000,False,False,False,2,195
+"### || AUTO مسألة [ في تائب لا يقف عن الفكر في المعصية ]
+",000,False,000,False,False,False,2,114
+"### || AUTO مسألة [ فيمن تاب وعليه حقوق ]
+",000,False,000,False,False,False,2,107
+"### || AUTO مسألة [ فيمن يستحق الشفاعة ]
+",000,False,000,False,False,False,2,118
+"### || AUTO مسألة [ فيمن عمل صالحا ثم ختم عمره بكبيرة ]
+",000,False,000,False,False,False,2,95
+"### | AUTO [ مسائل القرطاسين ]
+",000,False,000,False,False,False,1,5031
+"### || AUTO [ الكلام في طريق الإمامة ]
+",000,False,000,False,False,False,2,252
+"### || AUTO [ الكلام في صحة ما نذهب إليه في الإمامة ]
+",000,False,000,False,False,False,2,513
+"### || AUTO [ إبطال ما يدعى طريقا للإمامة من غيرنا ]
+",000,False,000,False,False,False,2,745
+"### || AUTO [ أحكام المخالفين في الإمامة ]
+",000,False,000,False,False,False,2,463
+"### || AUTO مسألة [ قول الإمام حجة ]
+",000,False,000,False,False,False,2,94
+"### || AUTO [ دعوى الباطنية في الإمامة والرد عليها ]
+",000,False,000,False,False,False,2,306
+"### || AUTO [ تناقض من يرى إمامة أمير المؤمنين وتصويب من خالفه ]
+",000,False,000,False,False,False,2,122
+"### || AUTO مسألة [ في زواج آدم لبنيه ]
+",000,False,000,False,False,False,2,129
+"### || AUTO مسألة[ في الصحابة الذين تقدموا على علي عليه السلام ]
+",000,False,000,False,False,False,2,1040
+"### || AUTO مسألة في أبي بكر وعمر وعثمان وفي ولايتهم
+",000,False,000,False,False,False,2,81
+"### || AUTO مسألة في الترضية عن أبي بكر وعمر
+",000,False,000,False,False,False,2,108
+"### || AUTO مسألة عن الرواية[ في صلاة أمير المؤمنين خلفهما ]
+",000,False,000,False,False,False,2,147
+"### || AUTO مسألة[ القول في عثمان ]
+",000,False,000,False,False,False,2,37
+"### || AUTO مسألة[ في الجنة والنار والشفاعة ]
+",000,False,000,False,False,False,2,171
+"### || AUTO مسألة [ هامة بن لا قيس !! ]
+",000,False,000,False,False,False,2,104
+"### || AUTO مسألة[ في دعاء الصحيفة ]
+",000,False,000,False,False,False,2,429
+"### || AUTO مسألة [ في إجماع العترة ]
+",000,False,000,False,False,False,2,54
+"### || AUTO مسألة في اختلاف أهل البيت عليهم السلام
+",000,False,000,False,False,False,2,132
+"### | AUTO [ تحقيق النبوة ومسائل أخرى ]
+",000,False,000,False,False,False,1,2153
+"### || AUTO [ المسألة الأولى في معنى النبوة ]
+",000,False,000,False,False,False,2,559
+"### || AUTO المسألة الثانية [ في أن وجوب النظر فرع عن وجوب المعرفة ]
+",000,False,000,False,False,False,2,245
+"### || AUTO المسألة الثالثة [ الإحالة والتوليد ]
+",000,False,000,False,False,False,2,743
+"### || AUTO المسألة الرابعة [ في الإحداث والخلق ]
+",000,False,000,False,False,False,2,360
+"### | AUTO هذه المسائل سأل عنها السلطان الأجل الحسن بن إسماعيل الذعفاني
+",000,False,000,False,False,False,1,1149
+"### || AUTO المسألة الأولى [ الجائز للإمام من بيت المال ]
+",000,False,000,False,False,False,2,47
+"### || AUTO المسألة الثانية [ أموال بيت المال المختلطة ]
+",000,False,000,False,False,False,2,368
+"### || AUTO المسألة الثالثة[ إكراه الإمام ms236 لأحد على شيء من الأعمال ]
+",000,False,000,False,False,False,2,79
+"### || AUTO [ المسألة الرابعة في الخمس ]
+",000,False,000,False,False,False,2,355
+"### || AUTO المسألة الخامسة [ إكراه العبد على الصلاة ]
+",000,False,000,False,False,False,2,107
+"### | AUTO كتاب الرسالة النافعة بالأدلة الواقعة في تبيين الزيدية
+",000,False,000,False,False,False,1,19341
+"### || AUTO [ سبب تسمية الزيدية ]
+",000,False,000,False,False,False,2,939
+"### || AUTO [ مبادئ الزيدية ]
+",000,False,000,False,False,False,2,300
+"### || AUTO فصل [ في فضائل أهل البيت ]
+",000,False,000,False,False,False,2,9363
+"### || AUTO [ إمامة الحسن والحسين ]
+",000,False,000,False,False,False,2,584
+"### || AUTO [ الإمامة مقصورة في ذرية الحسنين ]
+",000,False,000,False,False,False,2,603
+"### || AUTO [ اختلاف الناس في الإمامة وحكم من تقدم ]
+",000,False,000,False,False,False,2,7238
+"### | AUTO www.izbacf.org
+",000,False,000,False,False,False,1,311
+"### | AUTO مسائل المدقق في الكفر البريء عن الإيمان
+",000,False,000,False,False,False,1,4674
+"### || AUTO المسألة الأولى[في الخطاب من الله يحمل على الحقيقة أو المجاز]
+",000,False,000,False,False,False,2,728
+"### || AUTO المسألة الثانية في رؤية الاعراض
+",000,False,000,False,False,False,2,304
+"### || AUTO المسألة الثالثة في سماع الأعراض
+",000,False,000,False,False,False,2,192
+"### || AUTO المسألة الرابعة في رجع الصدى
+",000,False,000,False,False,False,2,372
+"### || AUTO المسألة الخامسة [في أفعال العبيد]
+",000,False,000,False,False,False,2,371
+"### || AUTO المسألة السادسة [في العوض]
+",000,False,000,False,False,False,2,137
+"### || AUTO المسألة السابعة في المتولدات
+",000,False,000,False,False,False,2,178
+"### || AUTO المسألة الثامنة في الإرادة
+",000,False,000,False,False,False,2,396
+"### || AUTO المسألة التاسعة[في توقيت الأفعال]
+",000,False,000,False,False,False,2,398
+"### || AUTO المسألة العاشرة
+",000,False,000,False,False,False,2,271
+"### || AUTO المسألة الحادية عشر في القرآن
+",000,False,000,False,False,False,2,800
+"### || AUTO المسألة الثانية عشر في بقية رؤية الألوان بأن الأعمى يدرك ما
+",000,False,000,False,False,False,2,78
+"### | AUTO مسائل سأل عنها الشيخ الفاضل العالم أحمد بن الحسن الرصاص
+",000,False,000,False,False,False,1,942
+"### || AUTO قال أما المسألة الأولى منها في لبس الحرير المبطن
+",000,False,000,False,False,False,2,70
+"### || AUTO والثانية فيما يقبل من الزكاة لأن ينتفع به من لا يجوز له ولا
+",000,False,000,False,False,False,2,105
+"### || AUTO الثالثة فيمن يربط من بلاد (الغز) إلى (الحصن)
+",000,False,000,False,False,False,2,163
+"### || AUTO الرابعة[في قوله تعالى: وإذا أخذ ربك من بني آدم...]
+",000,False,000,False,False,False,2,466
+"### | AUTO مسائل سأل عنها القاضي الفاضل محمد بن عبد الله بن حمزة
+",000,False,000,False,False,False,1,471
+"### || AUTO الأولى
+",000,False,000,False,False,False,2,116
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,97
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,91
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,44
+"### | AUTO [فصل في تعيين العترة الطاهرة]
+",000,False,000,False,False,False,1,212
+"### | AUTO فصل [في إجماع أهل البيت عليهم السلام]
+",000,False,000,False,False,False,1,1037
+"### | AUTO مسائل وردت بصعدة من الأمير مجد الدين يحيى بن محمد بن يحيى بن
+",000,False,000,False,False,False,1,3802
+"### || AUTO الأولى منها في الخمس
+",000,False,000,False,False,False,2,486
+"### || AUTO المسألة الثانية في الجزية
+",000,False,000,False,False,False,2,227
+"### || AUTO المسألة الثالثة في ترتيب الديوان وجواز المفاضلة بينهم في العطاء
+",000,False,000,False,False,False,2,563
+"### || AUTO المسألة الرابعة
+",000,False,000,False,False,False,2,157
+"### || AUTO المسألة الخامسة
+",000,False,000,False,False,False,2,279
+"### | AUTO مسائل سأل عنها الشيخ الأجل منيف بن مفضل بن أبي زراج الرعدي
+",000,False,000,False,False,False,1,2680
+"### || AUTO المسألة الأولى[هل هناك دار للفسق]
+",000,False,000,False,False,False,2,1827
+"### || AUTO مسألة [في أخذ الولاة الأموال بغير إذن الإمام]
+",000,False,000,False,False,False,2,184
+"### || AUTO مسألة [في الدعاء في الصلاة]
+",000,False,000,False,False,False,2,267
+"### | AUTO الأجوبة الشافية عن المسائل المتنافية
+",000,False,000,False,False,False,1,14932
+"### || AUTO المسألة الأولى
+",000,False,000,False,False,False,2,643
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,323
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,2104
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,813
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,1158
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,313
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,991
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,1101
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,553
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,1051
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,642
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,939
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,517
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,1226
+"### || AUTO فصل
+",000,False,000,False,False,False,2,317
+"### || AUTO فصل
+",000,False,000,False,False,False,2,394
+"### || AUTO فصل
+",000,False,000,False,False,False,2,116
+"### || AUTO فصل
+",000,False,000,False,False,False,2,90
+"### || AUTO فصل
+",000,False,000,False,False,False,2,62
+"### || AUTO فصل
+",000,False,000,False,False,False,2,260
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,246
+"### || AUTO فصل
+",000,False,000,False,False,False,2,57
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,155
+"### | AUTO مسائل سأل عنها الشيخ المكين موسى بن إبراهيم الحجلم بصعدة في
+",000,False,000,False,False,False,1,2535
+"### || AUTO المسألة الأولى في كرسي الله وعرشه
+",000,False,000,False,False,False,2,105
+"### || AUTO المسألة الثانية في الصراط والميزان
+",000,False,000,False,False,False,2,221
+"### || AUTO المسألة الرابعة في عذاب القبر[482]
+",000,False,000,False,False,False,2,472
+"### || AUTO المسألة الخامسة فيما ذكر من اختلاف الناس في الإمامة
+",000,False,000,False,False,False,2,339
+"### || AUTO المسألة السادسة
+",000,False,000,False,False,False,2,369
+"### || AUTO المسألة السابعة
+",000,False,000,False,False,False,2,98
+"### || AUTO المسألة الثامنة في الرزق
+",000,False,000,False,False,False,2,158
+"### || AUTO المسألة التاسعة في الفضل
+",000,False,000,False,False,False,2,157
+"### || AUTO المسألة العاشرة في الأعراض
+",000,False,000,False,False,False,2,77
+"### | AUTO مسائل العلم الرجوي المرشد لكل ضال غوي
+",000,False,000,False,False,False,1,7290
+"### || AUTO المسألة الأولى
+",000,False,000,False,False,False,2,344
+"### || AUTO المسألة الثانية هل يجب أخذ أكثر من الواجب؟
+",000,False,000,False,False,False,2,164
+"### || AUTO المسألة الثالثة هل يوجد مما يجب عليه؟
+",000,False,000,False,False,False,2,80
+"### || AUTO المسألة الرابعة هل يجب كفاية المسلمين والأيتام؟
+",000,False,000,False,False,False,2,177
+"### || AUTO المسألة الخامسة هل يجوز عمالة بني هاشم وعمالة من لا يد له في
+",000,False,000,False,False,False,2,257
+"### || AUTO المسألة السادسة
+",000,False,000,False,False,False,2,83
+"### || AUTO المسألة السابعة هل يجوز أخذ الوصايا [494] المعينة للمساجد أم لا؟
+",000,False,000,False,False,False,2,112
+"### || AUTO المسألة الثامنة هل يجوز الحجاب دون الرعية؟
+",000,False,000,False,False,False,2,79
+"### || AUTO المسألة التاسعة
+",000,False,000,False,False,False,2,88
+"### || AUTO المسألة العاشرة
+",000,False,000,False,False,False,2,66
+"### || AUTO المسألة الحادية عشر في أخذ بلاد الأفراد قبل أن تبلغهم الدعوة
+",000,False,000,False,False,False,2,124
+"### || AUTO المسألة الثانية عشرة عن السيرة في الأراضي الصلحية والخراجية
+",000,False,000,False,False,False,2,233
+"### || AUTO المسألة الثالثة عشر عن قائم آل رسول الله صلى الله عليه وآله وسلم
+",000,False,000,False,False,False,2,146
+"### || AUTO المسألة الرابعة عشر هل يجب قتال من تشكك فيه؟
+",000,False,000,False,False,False,2,168
+"### || AUTO المسألة الخامسة عشر
+",000,False,000,False,False,False,2,63
+"### || AUTO المسألة السادسة عشر
+",000,False,000,False,False,False,2,145
+"### || AUTO المسألة الثامنة عشرة
+",000,False,000,False,False,False,2,78
+"### || AUTO المسألة التاسعة عشرة
+",000,False,000,False,False,False,2,88
+"### || AUTO المسألة العشرون عن أهل الإقرار إذا امتنعوا من الصلاة والصيام
+",000,False,000,False,False,False,2,137
+"### || AUTO المسألة الحادية والعشرون عن الداعي هل هو مسئول عن رعيته؟
+",000,False,000,False,False,False,2,46
+"### || AUTO المسألة الثانية والعشرون عن الوكيل هل يده يد الموكل أم لا؟
+",000,False,000,False,False,False,2,33
+"### || AUTO المسألة الثالثة والعشرون في الاعتقاد في فضل الشرف والرفعة من
+",000,False,000,False,False,False,2,61
+"### || AUTO المسألة الرابعة والعشرون عن الأجسام هل تسمع وترى أم لا تسمع
+",000,False,000,False,False,False,2,236
+"### || AUTO مسائل وردت من الأمير نور الدين محمد بن يحيى بن عبد الله
+",000,False,000,False,False,False,2,3471
+"### || AUTO [في أذان الوالي]
+",000,False,000,False,False,False,2,129
+"### || AUTO [في ترك حيى على خير العمل]
+",000,False,000,False,False,False,2,118
+"### | AUTO مسائل وردت من الأمير نور الدين على الرسالة الناصحة فأجاب عنها
+",000,False,000,False,False,False,1,2196
+"### || AUTO [ابني الخالة من هما]
+",000,False,000,False,False,False,2,49
+"### || AUTO [العلة والمعلول]
+",000,False,000,False,False,False,2,105
+"### || AUTO [الرياح]
+",000,False,000,False,False,False,2,102
+"### || AUTO [قرن الأحوال]
+",000,False,000,False,False,False,2,77
+"### || AUTO [الجدلي]
+",000,False,000,False,False,False,2,88
+"### || AUTO [الرضا والسخط]
+",000,False,000,False,False,False,2,88
+"### || AUTO [الفرق بين الفعل والغرض]
+",000,False,000,False,False,False,2,112
+"### || AUTO [ثواب الصبر]
+",000,False,000,False,False,False,2,120
+"### || AUTO [مزية رسول الله صلى الله عليه وآله وسلم في مضاعفة الثواب]
+",000,False,000,False,False,False,2,298
+"### || AUTO [حرية الإمام]
+",000,False,000,False,False,False,2,90
+"### || AUTO [السخري]
+",000,False,000,False,False,False,2,94
+"### || AUTO [النسب والسبب]
+",000,False,000,False,False,False,2,206
+"### || AUTO [الهادي وأسر ولده المرتضى]
+",000,False,000,False,False,False,2,542
+"### | AUTO مسائل وردت من الأمير نور الدين الحسن بن يحيى بن عبد الله بن
+",000,False,000,False,False,False,1,1728
+"### || AUTO المسألة الأولى : في القرآن العظيم شرفه الله تعالى
+",000,False,000,False,False,False,2,247
+"### || AUTO المسألة الثانية [الأمل على التجويز وعلى القطع]
+",000,False,000,False,False,False,2,90
+"### || AUTO المسألة الثالثة [تماثل الأجسام]
+",000,False,000,False,False,False,2,190
+"### || AUTO [حول القرآن]
+",000,False,000,False,False,False,2,310
+"### || AUTO [العاصي من أهل البيت]
+",000,False,000,False,False,False,2,246
+"### || AUTO [حول حديث من أبغض أهل البيت]
+",000,False,000,False,False,False,2,188
+"### || AUTO [استئجار المطرفي في الحج ومن هو المطرفي المرتد ms456]
+",000,False,000,False,False,False,2,217
+"### | AUTO مسائل وردت من القاضي إبراهيم أحمد الحامديولي ذمرمر في جمادى
+",000,False,000,False,False,False,1,955
+"### || AUTO [الثواب والجزاء]
+",000,False,000,False,False,False,2,487
+"### || AUTO [البديهة]
+",000,False,000,False,False,False,2,178
+"### | AUTO مسائل أخر من القاضي محمد بن أسعد اليمني
+",000,False,000,False,False,False,1,3441
+"### || AUTO المسألة الثالثة في النهي عن بيع الملاقيح والمضامين، ما هي
+",000,False,000,False,False,False,2,237
+"### || AUTO المسألة الثامنة في الإقالة هي بيع أم فسخ؟
+",000,False,000,False,False,False,2,2333
+"### || AUTO مسألة في القسامة
+",000,False,000,False,False,False,2,537
+"### | AUTO ### || AUTO مسائل سأل عنها القاضي ركن الدين عمرو بن علي العنسي
+",000,False,000,False,False,False,1,1097
+"### || AUTO مسائل سأل عنها القاضي ركن الدين عمرو بن علي العنسي
+",000,False,000,False,False,False,2,366
+"### || AUTO مسألة [في النكاح]
+",000,False,000,False,False,False,2,71
+"### | AUTO ### || AUTO مسائل الشريف أبي عزيز قتادة بن إدريس عليه السلام
+",000,False,000,False,False,False,1,1652
+"### || AUTO مسائل الشريف أبي عزيز قتادة بن إدريس عليه السلام
+",000,False,000,False,False,False,2,143
+"### || AUTO المسألة الثانية [في عين ماء لا بينة في امتلاكها]
+",000,False,000,False,False,False,2,124
+"### || AUTO المسألة الثالثة [في قرية أو حصن خراب لا بينة على امتلاكها]
+",000,False,000,False,False,False,2,102
+"### || AUTO المسألة الرابعة [في وادي لا بينة على امتلاكه]
+",000,False,000,False,False,False,2,125
+"### || AUTO المسألة الخامسة [في الأرض البيضاء]
+",000,False,000,False,False,False,2,139
+"### || AUTO المسألة السادسة [العاملون على عين الصدقة]
+",000,False,000,False,False,False,2,121
+"### || AUTO [المسألة السابعة في المعرة وفي الولاية للإمام]
+",000,False,000,False,False,False,2,349
+"### || AUTO المسألة الثامنة [في أراضي وعيون داثرة]
+",000,False,000,False,False,False,2,106
+"### || AUTO [المسألة التاسعة في أموال الظلمة]
+",000,False,000,False,False,False,2,154
+"### || AUTO [المسألة العاشرة زواج التحليل]
+",000,False,000,False,False,False,2,93
+"### || AUTO [المسألة الحادية عشر في البيع]
+",000,False,000,False,False,False,2,65
+"### | AUTO مسائل وردت من مكة حرسها الله تعالى فأجاب عليها الإمام عليه السلام
+",000,False,000,False,False,False,1,405
+"### || AUTO المسألة الأولى [في القدح والتعديل]
+",000,False,000,False,False,False,2,63
+"### || AUTO المسألة الثانية [في الطلاق]
+",000,False,000,False,False,False,2,65
+"### || AUTO المسألة الثالثة [في الظهار]
+",000,False,000,False,False,False,2,43
+"### || AUTO المسألة الرابعة [في الصلاة خلف من يعتقد خلافة صاحب بغداد]
+",000,False,000,False,False,False,2,70
+"### || AUTO المسألة الخامسة [في اليمين بالصيام]
+",000,False,000,False,False,False,2,45
+"### | AUTO مسائل أخر وردت من مكة حرسها الله
+",000,False,000,False,False,False,1,812
+"### || AUTO المسألة الأولى [عن المعاملة في دار الظالمين]
+",000,False,000,False,False,False,2,63
+"### || AUTO المسألة الثانية [في الهرج باليمين على الظن]
+",000,False,000,False,False,False,2,95
+"### || AUTO المسألة الثالثة [في مسائل أخرى]
+",000,False,000,False,False,False,2,78
+"### || AUTO المسألة الرابعة [ في وقف العبيد]
+",000,False,000,False,False,False,2,70
+"### || AUTO المسألة الخامسة [في بيع الأدم]
+",000,False,000,False,False,False,2,91
+"### || AUTO المسألة السادسة [الكفارات والخمس]
+",000,False,000,False,False,False,2,56
+"### || AUTO المسألة السابعة [إحالة المعاملات والظلامات]
+",000,False,000,False,False,False,2,194
+"### || AUTO الثامنة [زكاة الديون]
+",000,False,000,False,False,False,2,28
+"### | AUTO مسائل أخرى من حلي وردت فأجاب عنها عليه السلام
+",000,False,000,False,False,False,1,336
+"### | AUTO مسائل أخر وجوابه عليها عليه السلام
+",000,False,000,False,False,False,1,532
+"### | AUTO مسائل سأل عنها الشريف الأجل نور الدين الحسن بن يحيى بن عبد
+",000,False,000,False,False,False,1,885
+"### | AUTO جواب مسائل وردت منه أيضا
+",000,False,000,False,False,False,1,432
+"### | AUTO مسائل وردت من الشيخ الأجل محيي الدين محمد بن أحمد النجراني
+",000,False,000,False,False,False,1,462
+"### | AUTO مسائل الشريعة
+",000,False,000,False,False,False,1,1660
+"### | AUTO مسائل أخر أجاب عنها عليه السلام
+",000,False,000,False,False,False,1,1268
+"### | AUTO الأجوبة المرضية عن المسائل الفقهية
+",000,False,000,False,False,False,1,527
+"### | AUTO مسألتان لم يعلم من سأل عنهما
+",000,False,000,False,False,False,1,1214
+"### | AUTO مسائل من بازل بن عبد الله المقراني
+",000,False,000,False,False,False,1,778
+"### | AUTO مسائل أخرى في الشفعة
+",000,False,000,False,False,False,1,1013
+"### || AUTO المسألة الأولى
+",000,False,000,False,False,False,2,59
+"### || AUTO المسألة الثانية
+",000,False,000,False,False,False,2,122
+"### || AUTO المسألة الثالثة
+",000,False,000,False,False,False,2,68
+"### || AUTO المسألة الرابعة
+",000,False,000,False,False,False,2,120
+"### || AUTO المسألة الخامسة
+",000,False,000,False,False,False,2,99
+"### || AUTO المسألة السادسة
+",000,False,000,False,False,False,2,128
+"### || AUTO المسألة السابعة
+",000,False,000,False,False,False,2,103
+"### || AUTO المسألة الثامنة
+",000,False,000,False,False,False,2,60
+"### || AUTO المسألة التاسعة
+",000,False,000,False,False,False,2,91
+"### | AUTO مسائل في خطبة وصلاة الجمعة وغيرها
+",000,False,000,False,False,False,1,876
+"### | AUTO مسائل الشفعة مرة أخرى
+",000,False,000,False,False,False,1,2260
+"### | AUTO مسائل أخرى
+",000,False,000,False,False,False,1,1127
+"### | AUTO مسائل في الجواري والإماء والعتق وغيره
+",000,False,000,False,False,False,1,1900
+"### || AUTO مسألة [في القسامة]
+",000,False,000,False,False,False,2,118
+"### || AUTO مسألة [في الهبة]
+",000,False,000,False,False,False,2,146
+"### || AUTO [في الحج والإحرام]
+",000,False,000,False,False,False,2,463
+"### || AUTO مسألة في هدي الحاج
+",000,False,000,False,False,False,2,53
+"### || AUTO [في الإمام والخمس]
+",000,False,000,False,False,False,2,132
+"### | AUTO [مسائل أخرى]
+",000,False,000,False,False,False,1,1743
+"### || AUTO مسألة فيمن طلق امرأته ثلاثا بلفظ واحد،
+",000,False,000,False,False,False,2,111
+"### || AUTO مسألة فيما يحل من صيد البحر وما يحرم؟
+",000,False,000,False,False,False,2,58
+"### || AUTO مسألة في بيض ما لا يؤكل لحمه هل يحل أم لا؟ وما الفرق بينه
+",000,False,000,False,False,False,2,57
+"### || AUTO مسألة في لبن ما لا يؤكل لحمه هل يحل أم لا؟ وهل هو طاهر أو نجس؟
+",000,False,000,False,False,False,2,51
+"### || AUTO مسألة في اليربوع هل يحل أكله أم يحرم؟
+",000,False,000,False,False,False,2,26
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,182
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,195
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,64
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,81
+"### || AUTO مسألة [في الإجماع]
+",000,False,000,False,False,False,2,56
+"### | AUTO مسائل كثيرة في التفسير
+",000,False,000,False,False,False,1,2941
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,190
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,71
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,260
+"### || AUTO مسألة في تفسير الأكنة على القلوب، والوقر في الآذان،
+",000,False,000,False,False,False,2,196
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,139
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,258
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,122
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,95
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,131
+"### || AUTO مسألة[في دعاء الصحيفة وصلاة التسبيح]
+",000,False,000,False,False,False,2,376
+"### | AUTO مسائل أخرى
+",000,False,000,False,False,False,1,6477
+"### || AUTO السؤال الأول
+",000,False,000,False,False,False,2,42
+"### || AUTO السؤال الثاني
+",000,False,000,False,False,False,2,49
+"### || AUTO الثالث
+",000,False,000,False,False,False,2,56
+"### || AUTO الرابع
+",000,False,000,False,False,False,2,92
+"### || AUTO الخامس
+",000,False,000,False,False,False,2,113
+"### || AUTO السادس
+",000,False,000,False,False,False,2,89
+"### || AUTO السابع
+",000,False,000,False,False,False,2,85
+"### || AUTO الثامن
+",000,False,000,False,False,False,2,147
+"### || AUTO التاسع
+",000,False,000,False,False,False,2,62
+"### || AUTO العاشر
+",000,False,000,False,False,False,2,104
+"### || AUTO الحادي عشر
+",000,False,000,False,False,False,2,67
+"### || AUTO الثاني عشر
+",000,False,000,False,False,False,2,77
+"### || AUTO الثالث عشر
+",000,False,000,False,False,False,2,76
+"### || AUTO الرابع عشر
+",000,False,000,False,False,False,2,86
+"### || AUTO الخامس عشر ms561
+",000,False,000,False,False,False,2,76
+"### || AUTO السادس عشر
+",000,False,000,False,False,False,2,193
+"### || AUTO السابع عشر
+",000,False,000,False,False,False,2,105
+"### || AUTO الثامن عشر
+",000,False,000,False,False,False,2,153
+"### || AUTO التاسع عشر
+",000,False,000,False,False,False,2,149
+"### || AUTO العشرون
+",000,False,000,False,False,False,2,172
+"### || AUTO الحادي ms564 والعشرون
+",000,False,000,False,False,False,2,75
+"### || AUTO الثاني والعشرون
+",000,False,000,False,False,False,2,119
+"### || AUTO الثالث والعشرون
+",000,False,000,False,False,False,2,243
+"### || AUTO الرابع والعشرون
+",000,False,000,False,False,False,2,233
+"### || AUTO الخامس والعشرون
+",000,False,000,False,False,False,2,120
+"### || AUTO السادس والعشرون
+",000,False,000,False,False,False,2,74
+"### || AUTO السابع والعشرون
+",000,False,000,False,False,False,2,279
+"### || AUTO الثامن والعشرون
+",000,False,000,False,False,False,2,97
+"### || AUTO التاسع والعشرون
+",000,False,000,False,False,False,2,117
+"### || AUTO الثلاثون
+",000,False,000,False,False,False,2,77
+"### || AUTO الحادي والثلاثون
+",000,False,000,False,False,False,2,124
+"### || AUTO الثاني والثلاثون
+",000,False,000,False,False,False,2,170
+"### || AUTO الثالث والثلاثون
+",000,False,000,False,False,False,2,158
+"### || AUTO الرابع والثلاثون
+",000,False,000,False,False,False,2,155
+"### || AUTO الخامس والثلاثون
+",000,False,000,False,False,False,2,132
+"### || AUTO السادس والثلاثون
+",000,False,000,False,False,False,2,180
+"### || AUTO السابع والثلاثون
+",000,False,000,False,False,False,2,86
+"### || AUTO الثامن والثلاثون
+",000,False,000,False,False,False,2,177
+"### || AUTO التاسع والثلاثون
+",000,False,000,False,False,False,2,180
+"### || AUTO الأربعون
+",000,False,000,False,False,False,2,102
+"### || AUTO الحادي والأربعون
+",000,False,000,False,False,False,2,80
+"### || AUTO الثاني والأربعون
+",000,False,000,False,False,False,2,162
+"### || AUTO الثالث والأربعون
+",000,False,000,False,False,False,2,106
+"### || AUTO الرابع والأربعون
+",000,False,000,False,False,False,2,52
+"### || AUTO الخامس والأربعون
+",000,False,000,False,False,False,2,69
+"### || AUTO السادس والأربعون
+",000,False,000,False,False,False,2,76
+"### || AUTO السابع والأربعون
+",000,False,000,False,False,False,2,145
+"### || AUTO الثامن والأربعون
+",000,False,000,False,False,False,2,159
+"### || AUTO التاسع والأربعون
+",000,False,000,False,False,False,2,62
+"### || AUTO الخمسون
+",000,False,000,False,False,False,2,136
+"### || AUTO الحادي والخمسون
+",000,False,000,False,False,False,2,133
+"### || AUTO الثاني والخمسون
+",000,False,000,False,False,False,2,72
+"### | AUTO ### || AUTO مسائل الأمير الأجل تاج عز الأمراء سيف الخلافة
+",000,False,000,False,False,False,1,605
+"### || AUTO مسائل الأمير الأجل تاج عز الأمراء سيف الخلافة
+",000,False,000,False,False,False,2,54
+"### || AUTO المسألة الثانية
+",000,False,000,False,False,False,2,57
+"### || AUTO المسألة الثالثة
+",000,False,000,False,False,False,2,69
+"### || AUTO المسألة الرابعة
+",000,False,000,False,False,False,2,123
+"### || AUTO المسألة الخامسة
+",000,False,000,False,False,False,2,85
+"### | AUTO مسائل أخرى
+",000,False,000,False,False,False,1,1955
+"### | AUTO مسائل أخرى
+",000,False,000,False,False,False,1,859
+"### || AUTO المسألة الأولى
+",000,False,000,False,False,False,2,33
+"### || AUTO المسألة الثانية
+",000,False,000,False,False,False,2,53
+"### || AUTO المسألة الثالثة
+",000,False,000,False,False,False,2,75
+"### || AUTO المسألة الرابعة
+",000,False,000,False,False,False,2,129
+"### || AUTO المسألة الخامسة
+",000,False,000,False,False,False,2,80
+"### | AUTO مسائل الأمير الأجل أحمد بن محمد بن الهادي إلى الحق عليه السلام
+",000,False,000,False,False,False,1,5688
+"### || AUTO المسألة الأولى
+",000,False,000,False,False,False,2,4369
+"### | AUTO رسالة الإيضاح بعجمة الإفصاح جواب مطاعن القاضي محمد بن نشوان
+",000,False,000,False,False,False,1,7601
+"### | AUTO كتاب الرسالة العالمة بالأدلة الحاكمة
+",000,False,000,False,False,False,1,8608
+"### | AUTO كتاب تلقيح الألباب في أحكام السابقين وأهل الإحتساب
+",000,False,000,False,False,False,1,1804
+"### || AUTO السؤال الأول [في مسائل متعددة]
+",000,False,000,False,False,False,2,76
+"### || AUTO الأولى منها [فيمن يصلح للسبق]
+",000,False,000,False,False,False,2,93
+"### || AUTO [المسألة الثانية من يصلح للاحتساب]
+",000,False,000,False,False,False,2,39
+"### || AUTO والمسألة الثالثة [شرائط الاحتساب]
+",000,False,000,False,False,False,2,154
+"### || AUTO المسألة الرابعة [ما يجوز للمحتسب من التصرفات والأفعال]
+",000,False,000,False,False,False,2,72
+"### || AUTO [ما يختص به السابق]
+",000,False,000,False,False,False,2,45
+"### || AUTO المسألة الخامسة [جواز قيام أكثر من محتسب تباين الديار]
+",000,False,000,False,False,False,2,102
+"### || AUTO السؤال الثاني [في عزل المحتسب عند ظهورالسابق]
+",000,False,000,False,False,False,2,175
+"### || AUTO السؤال الثالث [هل للمحتسب ما إلى السابق]
+",000,False,000,False,False,False,2,117
+"### || AUTO السؤال الرابع [في أربع مسائل]
+",000,False,000,False,False,False,2,255
+"### || AUTO المسألة الثانية [تضمنتها الأولى]
+",000,False,000,False,False,False,2,32
+"### || AUTO المسألة الثالثة [ما لأهل الحل والعقد من العلماء في الموضوع]
+",000,False,000,False,False,False,2,338
+"### || AUTO المسألة الرابعة [هل يستوي فيما سبق السابق والمقتصد]
+",000,False,000,False,False,False,2,45
+"### | AUTO كتاب زبد الأدلة في معرفة الله
+",000,False,000,False,False,False,1,1194
+"### || AUTO باب القول في التوحيد
+",000,False,000,False,False,False,2,445
+"### || AUTO باب القول في العدل
+",000,False,000,False,False,False,2,336
+"### | AUTO سلسلة الذهب الإبريز والإكسير العزيز
+",000,False,000,False,False,False,1,560
+"### | AUTO كتاب وصية البنات
+",000,False,000,False,False,False,1,3602
+"### | AUTO أجوبة مسائل له عليه السلام سأل عنها الفقيه يحيى بن الحسين الريان
+",000,False,000,False,False,False,1,5560
+"### || AUTO مسألة سأل عنها عمران بن الحسن بن ناصر، فقال:
+",000,False,000,False,False,False,2,808
+"### || AUTO مسألة
+",000,False,000,False,False,False,2,480
+"### || AUTO وصية للإمام عليه السلام
+",000,False,000,False,False,False,2,324
+"### || AUTO مسألة في مسألة أسنان الإبل
+",000,False,000,False,False,False,2,315

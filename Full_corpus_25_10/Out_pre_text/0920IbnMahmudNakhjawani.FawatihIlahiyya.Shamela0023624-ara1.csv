@@ -1,0 +1,923 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | سورة الفاتحة
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الفاتحة
+",000,False,000,False,False,False,1,3
+"### | الآيات
+",000,False,000,False,False,False,1,504
+"### | خاتمة سورة الفاتحة
+",000,False,000,False,False,False,1,524
+"### | سورة البقرة
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة البقرة
+",000,False,000,False,False,False,1,61
+"### | الآيات
+",000,False,000,False,False,False,1,35167
+"### | خاتمة سورة البقرة
+",000,False,000,False,False,False,1,297
+"### | سورة آل عمران
+",000,False,000,False,False,False,1,6
+"### | فاتحة سورة آل عمران
+",000,False,000,False,False,False,1,177
+"### | الآيات
+",000,False,000,False,False,False,1,158
+"### | الآيات
+",000,False,000,False,False,False,1,19042
+"### | خاتمة سورة آل عمران
+",000,False,000,False,False,False,1,265
+"### | سورة النساء
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة النساء
+",000,False,000,False,False,False,1,149
+"### | الآيات
+",000,False,000,False,False,False,1,18133
+"### | خاتمة سورة النساء
+",000,False,000,False,False,False,1,348
+"### | سورة المائدة
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة المائدة
+",000,False,000,False,False,False,1,181
+"### | الآيات
+",000,False,000,False,False,False,1,12795
+"### | خاتمة سورة المائدة
+",000,False,000,False,False,False,1,304
+"### | سورة الأنعام
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الأنعام
+",000,False,000,False,False,False,1,293
+"### | الآيات
+",000,False,000,False,False,False,1,13115
+"### | خاتمة سورة الانعام
+",000,False,000,False,False,False,1,341
+"### | سورة الأعراف
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الأعراف
+",000,False,000,False,False,False,1,181
+"### | الآيات
+",000,False,000,False,False,False,1,16521
+"### | خاتمة سورة الأعراف
+",000,False,000,False,False,False,1,215
+"### | سورة الأنفال
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الأنفال
+",000,False,000,False,False,False,1,213
+"### | الآيات
+",000,False,000,False,False,False,1,6901
+"### | خاتمة سورة الأنفال
+",000,False,000,False,False,False,1,193
+"### | سورة البراءة
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة البراءة
+",000,False,000,False,False,False,1,302
+"### | الآيات
+",000,False,000,False,False,False,1,11469
+"### | خاتمة سورة البراءة
+",000,False,000,False,False,False,1,255
+"### | [سورة يونس عليه السلام]
+",000,False,000,False,False,False,1,8
+"### | فاتحة سورة يونس عليه السلام
+",000,False,000,False,False,False,1,397
+"### | الآيات
+",000,False,000,False,False,False,1,9379
+"### | خاتمة سورة يونس عليه السلام
+",000,False,000,False,False,False,1,232
+"### | [سورة هود عليه السلام]
+",000,False,000,False,False,False,1,8
+"### | فاتحة سورة هود عليه السلام
+",000,False,000,False,False,False,1,179
+"### | الآيات
+",000,False,000,False,False,False,1,9115
+"### | خاتمة سورة هود عليه السلام
+",000,False,000,False,False,False,1,224
+"### | [سورة يوسف عليه السلام]
+",000,False,000,False,False,False,1,8
+"### | فاتحة سورة يوسف عليه السلام
+",000,False,000,False,False,False,1,249
+"### | الآيات
+",000,False,000,False,False,False,1,9606
+"### | خاتمة سورة يوسف عليه السلام
+",000,False,000,False,False,False,1,180
+"### | سورة الرعد
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الرعد
+",000,False,000,False,False,False,1,184
+"### | الآيات
+",000,False,000,False,False,False,1,4180
+"### | خاتمة سورة الرعد
+",000,False,000,False,False,False,1,145
+"### | [سورة ابراهيم عليه السلام]
+",000,False,000,False,False,False,1,8
+"### | فاتحة سورة ابراهيم عليه السلام
+",000,False,000,False,False,False,1,157
+"### | الآيات
+",000,False,000,False,False,False,1,4538
+"### | خاتمة سورة ابراهيم عليه السلام
+",000,False,000,False,False,False,1,204
+"### | سورة الحجر
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الحجر
+",000,False,000,False,False,False,1,103
+"### | الآيات
+",000,False,000,False,False,False,1,4119
+"### | خاتمة سورة الحجر
+",000,False,000,False,False,False,1,169
+"### | سورة النحل
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة النحل
+",000,False,000,False,False,False,1,295
+"### | الآيات
+",000,False,000,False,False,False,1,10561
+"### | خاتمة سورة النحل
+",000,False,000,False,False,False,1,244
+"### | سورة الإسراء
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الإسراء
+",000,False,000,False,False,False,1,243
+"### | الآيات
+",000,False,000,False,False,False,1,11100
+"### | خاتمة سورة الإسراء
+",000,False,000,False,False,False,1,162
+"### | سورة الكهف
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الكهف
+",000,False,000,False,False,False,1,238
+"### | الآيات
+",000,False,000,False,False,False,1,10523
+"### | خاتمة سورة الكهف
+",000,False,000,False,False,False,1,183
+"### | [سورة مريم عليها السلام]
+",000,False,000,False,False,False,1,8
+"### | فاتحة سورة مريم عليها السلام
+",000,False,000,False,False,False,1,276
+"### | الآيات
+",000,False,000,False,False,False,1,6588
+"### | خاتمة سورة مريم عليها السلام
+",000,False,000,False,False,False,1,169
+"### | سورة طه
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة طه
+",000,False,000,False,False,False,1,262
+"### | الآيات
+",000,False,000,False,False,False,1,7786
+"### | الآيات
+",000,False,000,False,False,False,1,101
+"### | خاتمة سورة طه
+",000,False,000,False,False,False,1,156
+"### | [سورة الأنبياء عليهم السلام]
+",000,False,000,False,False,False,1,8
+"### | فاتحة سورة الأنبياء عليهم السلام
+",000,False,000,False,False,False,1,181
+"### | الآيات
+",000,False,000,False,False,False,1,8110
+"### | خاتمة سورة الأنبياء عليهم السلام
+",000,False,000,False,False,False,1,189
+"### | سورة الحج
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الحج
+",000,False,000,False,False,False,1,246
+"### | الآيات
+",000,False,000,False,False,False,1,8236
+"### | خاتمة سورة الحج
+",000,False,000,False,False,False,1,195
+"### | سورة المؤمنين
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة المؤمنين
+",000,False,000,False,False,False,1,254
+"### | الآيات
+",000,False,000,False,False,False,1,6542
+"### | خاتمة سورة المؤمنين
+",000,False,000,False,False,False,1,111
+"### | الجزء الثاني
+",000,False,000,False,False,False,1,17
+"### | الجزء الثاني
+",000,False,000,False,False,False,1,10
+"### | سورة النور
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة النور
+",000,False,000,False,False,False,1,227
+"### | الآيات
+",000,False,000,False,False,False,1,7406
+"### | خاتمة سورة النور
+",000,False,000,False,False,False,1,172
+"### | سورة الفرقان
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الفرقان
+",000,False,000,False,False,False,1,202
+"### | الآيات
+",000,False,000,False,False,False,1,7570
+"### | خاتمة سورة الفرقان
+",000,False,000,False,False,False,1,37
+"### | الآيات
+",000,False,000,False,False,False,1,131
+"### | سورة الشعراء
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الشعراء
+",000,False,000,False,False,False,1,8415
+"### | خاتمة سورة الشعراء
+",000,False,000,False,False,False,1,264
+"### | سورة النمل
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة النمل
+",000,False,000,False,False,False,1,190
+"### | الآيات ms1024
+",000,False,000,False,False,False,1,8395
+"### | خاتمة سورة النمل
+",000,False,000,False,False,False,1,216
+"### | سورة القصص
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة القصص
+",000,False,000,False,False,False,1,214
+"### | الآيات
+",000,False,000,False,False,False,1,9558
+"### | خاتمة سورة القصص
+",000,False,000,False,False,False,1,200
+"### | سورة العنكبوت
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة العنكبوت
+",000,False,000,False,False,False,1,210
+"### | الآيات
+",000,False,000,False,False,False,1,7782
+"### | خاتمة سورة العنكبوت
+",000,False,000,False,False,False,1,171
+"### | سورة الروم
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الروم
+",000,False,000,False,False,False,1,213
+"### | الآيات
+",000,False,000,False,False,False,1,6054
+"### | خاتمة سورة الروم
+",000,False,000,False,False,False,1,177
+"### | سورة لقمان
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة لقمان
+",000,False,000,False,False,False,1,238
+"### | الآيات
+",000,False,000,False,False,False,1,4445
+"### | خاتمة سورة لقمان
+",000,False,000,False,False,False,1,253
+"### | سورة السجدة
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة السجدة
+",000,False,000,False,False,False,1,191
+"### | الآيات
+",000,False,000,False,False,False,1,2418
+"### | خاتمة سورة السجدة
+",000,False,000,False,False,False,1,144
+"### | سورة الأحزاب
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الأحزاب
+",000,False,000,False,False,False,1,208
+"### | الآيات
+",000,False,000,False,False,False,1,9821
+"### | خاتمة سورة الأحزاب
+",000,False,000,False,False,False,1,225
+"### | سورة السبأ
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة السبأ
+",000,False,000,False,False,False,1,170
+"### | الآيات
+",000,False,000,False,False,False,1,6843
+"### | خاتمة سورة السبأ
+",000,False,000,False,False,False,1,255
+"### | سورة فاطر
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الفاطر
+",000,False,000,False,False,False,1,139
+"### | الآيات
+",000,False,000,False,False,False,1,5722
+"### | خاتمة سورة الفاطر
+",000,False,000,False,False,False,1,168
+"### | سورة يس
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة يس
+",000,False,000,False,False,False,1,209
+"### | الآيات
+",000,False,000,False,False,False,1,5914
+"### | خاتمة سورة يس
+",000,False,000,False,False,False,1,150
+"### | سورة الصافات
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الصافات
+",000,False,000,False,False,False,1,259
+"### | الآيات
+",000,False,000,False,False,False,1,7122
+"### | خاتمة سورة الصافات
+",000,False,000,False,False,False,1,173
+"### | سورة ص
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة ص
+",000,False,000,False,False,False,1,348
+"### | الآيات
+",000,False,000,False,False,False,1,5926
+"### | خاتمة سورة ص
+",000,False,000,False,False,False,1,147
+"### | سورة الزمر
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الزمر
+",000,False,000,False,False,False,1,168
+"### | الآيات
+",000,False,000,False,False,False,1,6737
+"### | الآيات
+",000,False,000,False,False,False,1,199
+"### | خاتمة سورة الزمر
+",000,False,000,False,False,False,1,63
+"### | سورة المؤمن
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة المؤمن
+",000,False,000,False,False,False,1,110
+"### | الآيات
+",000,False,000,False,False,False,1,7103
+"### | خاتمة سورة المؤمن
+",000,False,000,False,False,False,1,140
+"### | سورة فصلت
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة فصلت
+",000,False,000,False,False,False,1,23
+"### | الآيات
+",000,False,000,False,False,False,1,5327
+"### | خاتمة سورة فصلت
+",000,False,000,False,False,False,1,106
+"### | سورة الشورى
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الشورى
+",000,False,000,False,False,False,1,104
+"### | الآيات
+",000,False,000,False,False,False,1,4836
+"### | خاتمة سورة الشورى
+",000,False,000,False,False,False,1,88
+"### | سورة الزخرف ms1417
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الزخرف
+",000,False,000,False,False,False,1,174
+"### | الآيات
+",000,False,000,False,False,False,1,4823
+"### | خاتمة سورة الزخرف
+",000,False,000,False,False,False,1,118
+"### | سورة الدخان
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الدخان
+",000,False,000,False,False,False,1,161
+"### | الآيات
+",000,False,000,False,False,False,1,2330
+"### | خاتمة سورة الدخان
+",000,False,000,False,False,False,1,59
+"### | سورة الجاثية
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الجاثية
+",000,False,000,False,False,False,1,99
+"### | الآيات
+",000,False,000,False,False,False,1,2548
+"### | خاتمة سورة الجاثية
+",000,False,000,False,False,False,1,84
+"### | سورة الأحقاف
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الأحقاف
+",000,False,000,False,False,False,1,107
+"### | الآيات
+",000,False,000,False,False,False,1,3292
+"### | خاتمة سورة الأحقاف
+",000,False,000,False,False,False,1,72
+"### | سورة محمد
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة محمد صلى الله عليه وسلم
+",000,False,000,False,False,False,1,177
+"### | الآيات
+",000,False,000,False,False,False,1,2999
+"### | خاتمة سورة محمد صلى الله عليه وسلم
+",000,False,000,False,False,False,1,82
+"### | سورة الفتح
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الفتح
+",000,False,000,False,False,False,1,130
+"### | الآيات
+",000,False,000,False,False,False,1,2728
+"### | خاتمة سورة الفتح
+",000,False,000,False,False,False,1,98
+"### | سورة الحجرات
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الحجرات
+",000,False,000,False,False,False,1,87
+"### | الآيات
+",000,False,000,False,False,False,1,1867
+"### | خاتمة سورة الحجرات
+",000,False,000,False,False,False,1,109
+"### | سورة ق
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة ق
+",000,False,000,False,False,False,1,164
+"### | الآيات
+",000,False,000,False,False,False,1,2413
+"### | خاتمة سورة ق
+",000,False,000,False,False,False,1,96
+"### | سورة الذاريات
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الذاريات
+",000,False,000,False,False,False,1,97
+"### | الآيات
+",000,False,000,False,False,False,1,2492
+"### | خاتمة سورة الذاريات
+",000,False,000,False,False,False,1,73
+"### | سورة الطور
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الطور
+",000,False,000,False,False,False,1,90
+"### | الآيات
+",000,False,000,False,False,False,1,1952
+"### | خاتمة سورة الطور
+",000,False,000,False,False,False,1,113
+"### | سورة النجم
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة النجم
+",000,False,000,False,False,False,1,198
+"### | الآيات
+",000,False,000,False,False,False,1,2628
+"### | خاتمة سورة والنجم
+",000,False,000,False,False,False,1,85
+"### | سورة القمر
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة القمر
+",000,False,000,False,False,False,1,108
+"### | الآيات
+",000,False,000,False,False,False,1,2285
+"### | خاتمة سورة القمر
+",000,False,000,False,False,False,1,104
+"### | سورة الرحمن
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الرحمن
+",000,False,000,False,False,False,1,109
+"### | الآيات
+",000,False,000,False,False,False,1,2285
+"### | خاتمة سورة الرحمن
+",000,False,000,False,False,False,1,109
+"### | سورة الواقعة
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الواقعة
+",000,False,000,False,False,False,1,231
+"### | الآيات
+",000,False,000,False,False,False,1,2255
+"### | خاتمة سورة الواقعة
+",000,False,000,False,False,False,1,80
+"### | سورة الحديد
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الحديد
+",000,False,000,False,False,False,1,100
+"### | الآيات
+",000,False,000,False,False,False,1,3196
+"### | خاتمة سورة الحديد
+",000,False,000,False,False,False,1,100
+"### | سورة المجادلة
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة المجادلة
+",000,False,000,False,False,False,1,161
+"### | الآيات
+",000,False,000,False,False,False,1,2303
+"### | خاتمة سورة المجادلة
+",000,False,000,False,False,False,1,102
+"### | سورة الحشر
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الحشر
+",000,False,000,False,False,False,1,136
+"### | الآيات
+",000,False,000,False,False,False,1,2191
+"### | خاتمة سورة الحشر
+",000,False,000,False,False,False,1,145
+"### | سورة الممتحنة
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الممتحنة
+",000,False,000,False,False,False,1,140
+"### | الآيات
+",000,False,000,False,False,False,1,1650
+"### | خاتمة سورة الممتحنة
+",000,False,000,False,False,False,1,117
+"### | سورة الصف
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الصف
+",000,False,000,False,False,False,1,164
+"### | الآيات
+",000,False,000,False,False,False,1,1229
+"### | خاتمة سورة الصف
+",000,False,000,False,False,False,1,156
+"### | سورة الجمعة
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الجمعة
+",000,False,000,False,False,False,1,169
+"### | الآيات
+",000,False,000,False,False,False,1,1010
+"### | خاتمة سورة الجمعة
+",000,False,000,False,False,False,1,136
+"### | سورة المنافقين
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة المنافقين
+",000,False,000,False,False,False,1,140
+"### | الآيات
+",000,False,000,False,False,False,1,845
+"### | خاتمة سورة المنافقين
+",000,False,000,False,False,False,1,90
+"### | سورة التغابن
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة التغابن
+",000,False,000,False,False,False,1,115
+"### | الآيات
+",000,False,000,False,False,False,1,1398
+"### | خاتمة سورة التغابن
+",000,False,000,False,False,False,1,126
+"### | سورة الطلاق
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الطلاق
+",000,False,000,False,False,False,1,182
+"### | الآيات
+",000,False,000,False,False,False,1,1432
+"### | خاتمة سورة الطلاق
+",000,False,000,False,False,False,1,92
+"### | سورة التحريم
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة التحريم
+",000,False,000,False,False,False,1,109
+"### | الآيات
+",000,False,000,False,False,False,1,1619
+"### | خاتمة سورة التحريم
+",000,False,000,False,False,False,1,99
+"### | سورة الملك
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الملك
+",000,False,000,False,False,False,1,125
+"### | الآيات
+",000,False,000,False,False,False,1,1775
+"### | خاتمة سورة الملك
+",000,False,000,False,False,False,1,77
+"### | سورة القلم
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة ن
+",000,False,000,False,False,False,1,114
+"### | الآيات
+",000,False,000,False,False,False,1,1940
+"### | خاتمة سورة ن
+",000,False,000,False,False,False,1,73
+"### | سورة الحاقة
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الحاقة
+",000,False,000,False,False,False,1,137
+"### | الآيات
+",000,False,000,False,False,False,1,1562
+"### | خاتمة سورة الحاقة
+",000,False,000,False,False,False,1,134
+"### | سورة المعارج
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة المعارج
+",000,False,000,False,False,False,1,193
+"### | الآيات
+",000,False,000,False,False,False,1,1216
+"### | خاتمة سورة المعارج
+",000,False,000,False,False,False,1,142
+"### | سورة نوح
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة نوح عليه السلام
+",000,False,000,False,False,False,1,133
+"### | الآيات
+",000,False,000,False,False,False,1,1339
+"### | خاتمة سورة نوح عليه السلام
+",000,False,000,False,False,False,1,91
+"### | سورة الجن
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الجن
+",000,False,000,False,False,False,1,119
+"### | الآيات
+",000,False,000,False,False,False,1,1696
+"### | خاتمة سورة الجن
+",000,False,000,False,False,False,1,89
+"### | سورة المزمل
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة المزمل
+",000,False,000,False,False,False,1,130
+"### | الآيات
+",000,False,000,False,False,False,1,1687
+"### | خاتمة سورة المزمل
+",000,False,000,False,False,False,1,134
+"### | سورة المدثر
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة المدثر
+",000,False,000,False,False,False,1,268
+"### | الآيات
+",000,False,000,False,False,False,1,2320
+"### | خاتمة سورة المدثر
+",000,False,000,False,False,False,1,104
+"### | سورة القيامة
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة القيامة
+",000,False,000,False,False,False,1,155
+"### | الآيات
+",000,False,000,False,False,False,1,1430
+"### | خاتمة سورة القيامة
+",000,False,000,False,False,False,1,201
+"### | سورة الإنسان
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الإنسان
+",000,False,000,False,False,False,1,161
+"### | الآيات
+",000,False,000,False,False,False,1,1870
+"### | خاتمة سورة الإنسان
+",000,False,000,False,False,False,1,95
+"### | سورة المرسلات
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة المرسلات
+",000,False,000,False,False,False,1,323
+"### | الآيات
+",000,False,000,False,False,False,1,1294
+"### | خاتمة سورة المرسلات
+",000,False,000,False,False,False,1,113
+"### | سورة النبإ
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة النبأ
+",000,False,000,False,False,False,1,209
+"### | الآيات
+",000,False,000,False,False,False,1,1237
+"### | خاتمة سورة النبأ
+",000,False,000,False,False,False,1,97
+"### | سورة النازعات
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة النازعات
+",000,False,000,False,False,False,1,195
+"### | الآيات
+",000,False,000,False,False,False,1,1399
+"### | خاتمة سورة النازعات
+",000,False,000,False,False,False,1,115
+"### | سورة عبس
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة عبس
+",000,False,000,False,False,False,1,238
+"### | الآيات
+",000,False,000,False,False,False,1,959
+"### | خاتمة سورة عبس
+",000,False,000,False,False,False,1,104
+"### | سورة التكوير
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة التكوير
+",000,False,000,False,False,False,1,59
+"### | الآيات
+",000,False,000,False,False,False,1,1014
+"### | خاتمة سورة التكوير
+",000,False,000,False,False,False,1,109
+"### | سورة الانفطار
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الانفطار
+",000,False,000,False,False,False,1,93
+"### | الآيات
+",000,False,000,False,False,False,1,633
+"### | خاتمة سورة الانفطار
+",000,False,000,False,False,False,1,81
+"### | سورة المطففين
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة التطفيف
+",000,False,000,False,False,False,1,130
+"### | الآيات
+",000,False,000,False,False,False,1,1259
+"### | خاتمة سورة التطفيف
+",000,False,000,False,False,False,1,103
+"### | سورة الانشقاق
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الانشقاق
+",000,False,000,False,False,False,1,131
+"### | الآيات
+",000,False,000,False,False,False,1,773
+"### | خاتمة سورة الانشقاق
+",000,False,000,False,False,False,1,106
+"### | سورة البروج
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة البروج
+",000,False,000,False,False,False,1,189
+"### | الآيات
+",000,False,000,False,False,False,1,1029
+"### | خاتمة سورة البروج
+",000,False,000,False,False,False,1,116
+"### | سورة الطارق
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الطارق
+",000,False,000,False,False,False,1,141
+"### | الآيات
+",000,False,000,False,False,False,1,680
+"### | خاتمة سورة الطارق
+",000,False,000,False,False,False,1,72
+"### | سورة الأعلى
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الأعلى
+",000,False,000,False,False,False,1,238
+"### | الآيات
+",000,False,000,False,False,False,1,795
+"### | خاتمة سورة الأعلى
+",000,False,000,False,False,False,1,92
+"### | سورة الغاشية
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الغاشية
+",000,False,000,False,False,False,1,110
+"### | الآيات
+",000,False,000,False,False,False,1,716
+"### | خاتمة سورة الغاشية
+",000,False,000,False,False,False,1,114
+"### | سورة الفجر
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الفجر
+",000,False,000,False,False,False,1,186
+"### | الآيات
+",000,False,000,False,False,False,1,1010
+"### | خاتمة سورة الفجر
+",000,False,000,False,False,False,1,111
+"### | سورة ms1756 البلد
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة البلد
+",000,False,000,False,False,False,1,239
+"### | الآيات
+",000,False,000,False,False,False,1,671
+"### | خاتمة سورة البلد
+",000,False,000,False,False,False,1,86
+"### | سورة الشمس
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الشمس
+",000,False,000,False,False,False,1,90
+"### | الآيات
+",000,False,000,False,False,False,1,550
+"### | خاتمة سورة الشمس
+",000,False,000,False,False,False,1,72
+"### | سورة الليل
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الليل
+",000,False,000,False,False,False,1,102
+"### | الآيات
+",000,False,000,False,False,False,1,548
+"### | خاتمة سورة الليل
+",000,False,000,False,False,False,1,93
+"### | سورة الضحى
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الضحى
+",000,False,000,False,False,False,1,155
+"### | الآيات
+",000,False,000,False,False,False,1,451
+"### | خاتمة سورة الضحى
+",000,False,000,False,False,False,1,76
+"### | سورة الانشراح
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الانشراح
+",000,False,000,False,False,False,1,124
+"### | الآيات
+",000,False,000,False,False,False,1,350
+"### | خاتمة سورة الانشراح
+",000,False,000,False,False,False,1,76
+"### | سورة التين
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة التين
+",000,False,000,False,False,False,1,82
+"### | الآيات
+",000,False,000,False,False,False,1,238
+"### | خاتمة ms1770 سورة التين
+",000,False,000,False,False,False,1,68
+"### | سورة العلق
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة العلق
+",000,False,000,False,False,False,1,126
+"### | الآيات
+",000,False,000,False,False,False,1,755
+"### | خاتمة سورة العلق
+",000,False,000,False,False,False,1,72
+"### | سورة القدر
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة القدر
+",000,False,000,False,False,False,1,137
+"### | الآيات
+",000,False,000,False,False,False,1,267
+"### | خاتمة سورة ms1775 القدر
+",000,False,000,False,False,False,1,47
+"### | سورة البينة
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة البينة
+",000,False,000,False,False,False,1,15
+"### | الآيات
+",000,False,000,False,False,False,1,588
+"### | خاتمة سورة البينة
+",000,False,000,False,False,False,1,72
+"### | سورة الزلزال
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الزلزال
+",000,False,000,False,False,False,1,121
+"### | الآيات
+",000,False,000,False,False,False,1,245
+"### | خاتمة سورة الزلزال
+",000,False,000,False,False,False,1,66
+"### | سورة العاديات
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة العاديات
+",000,False,000,False,False,False,1,117
+"### | الآيات
+",000,False,000,False,False,False,1,388
+"### | خاتمة سورة العاديات
+",000,False,000,False,False,False,1,63
+"### | سورة القارعة
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة القارعة
+",000,False,000,False,False,False,1,120
+"### | الآيات
+",000,False,000,False,False,False,1,250
+"### | خاتمة سورة القارعة
+",000,False,000,False,False,False,1,74
+"### | سورة التكاثر
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة التكاثر
+",000,False,000,False,False,False,1,136
+"### | الآيات
+",000,False,000,False,False,False,1,242
+"### | خاتمة سورة التكاثر
+",000,False,000,False,False,False,1,108
+"### | سورة العصر
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة العصر
+",000,False,000,False,False,False,1,120
+"### | الآيات
+",000,False,000,False,False,False,1,131
+"### | خاتمة سورة العصر
+",000,False,000,False,False,False,1,82
+"### | سورة الهمزة
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الهمزة
+",000,False,000,False,False,False,1,129
+"### | الآيات
+",000,False,000,False,False,False,1,285
+"### | خاتمة سورة الهمزة
+",000,False,000,False,False,False,1,109
+"### | سورة الفيل
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الفيل
+",000,False,000,False,False,False,1,109
+"### | الآيات
+",000,False,000,False,False,False,1,279
+"### | خاتمة سورة الفيل
+",000,False,000,False,False,False,1,92
+"### | سورة قريش
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة قريش
+",000,False,000,False,False,False,1,120
+"### | 
+",000,False,000,False,False,False,1,0
+"### | الآيات
+",000,False,000,False,False,False,1,138
+"### | خاتمة سورة قريش
+",000,False,000,False,False,False,1,46
+"### | سورة الماعون
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الماعون
+",000,False,000,False,False,False,1,280
+"### | خاتمة سورة الماعون
+",000,False,000,False,False,False,1,79
+"### | سورة الكوثر
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الكوثر
+",000,False,000,False,False,False,1,166
+"### | الآيات
+",000,False,000,False,False,False,1,104
+"### | خاتمة سورة الكوثر
+",000,False,000,False,False,False,1,40
+"### | سورة الكافرون
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الكافرون
+",000,False,000,False,False,False,1,190
+"### | الآيات
+",000,False,000,False,False,False,1,263
+"### | خاتمة سورة الكافرون
+",000,False,000,False,False,False,1,79
+"### | سورة النصر
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة النصر
+",000,False,000,False,False,False,1,148
+"### | الآيات
+",000,False,000,False,False,False,1,178
+"### | خاتمة سورة النصر
+",000,False,000,False,False,False,1,59
+"### | سورة تبت
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة تبت
+",000,False,000,False,False,False,1,113
+"### | الآيات
+",000,False,000,False,False,False,1,305
+"### | خاتمة سورة تبت
+",000,False,000,False,False,False,1,87
+"### | سورة الإخلاص
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الإخلاص
+",000,False,000,False,False,False,1,94
+"### | الآيات
+",000,False,000,False,False,False,1,258
+"### | خاتمة سورة الإخلاص
+",000,False,000,False,False,False,1,123
+"### | سورة الفلق
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الفلق
+",000,False,000,False,False,False,1,102
+"### | الآيات
+",000,False,000,False,False,False,1,110
+"### | خاتمة سورة الفلق
+",000,False,000,False,False,False,1,56
+"### | سورة الناس
+",000,False,000,False,False,False,1,4
+"### | فاتحة سورة الناس
+",000,False,000,False,False,False,1,120
+"### | الآيات
+",000,False,000,False,False,False,1,163
+"### | خاتمة سورة الناس
+",000,False,000,False,False,False,1,1612

@@ -1,0 +1,487 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO مطلع الأقمار ومجمع الأنهار في ذكر المشاهير من علماء مدينة ذمار
+",000,False,000,False,False,False,1,25
+"### | AUTO مقدمة الدراسة والتحقيق
+",000,False,000,False,False,False,1,8940
+"### || AUTO نظرة منهجية للمخطوطة.
+",000,False,000,False,False,False,2,20
+"### || AUTO أولا: خطة ومنهج تحقيق النص.
+",000,False,000,False,False,False,2,1167
+"### || AUTO ثانيا: بين المخطوطة ومؤلفها
+",000,False,000,False,False,False,2,997
+"### || AUTO (ه) ترجمة المؤلف ومنهجه ومصادره
+",000,False,000,False,False,False,2,274
+"### || AUTO 1- نسبه
+",000,False,000,False,False,False,2,83
+"### || AUTO 2- تأريخ مولده ووفاته
+",000,False,000,False,False,False,2,45
+"### || AUTO 3- مؤلفاته
+",000,False,000,False,False,False,2,41
+"### || AUTO 4- ما قاله العلماء فيه
+",000,False,000,False,False,False,2,117
+"### || AUTO 5- مشايخه ومن أخذ عنهم
+",000,False,000,False,False,False,2,221
+"### || AUTO 6- من أخذ عنه
+",000,False,000,False,False,False,2,17
+"### || AUTO 7- نماذج من شعره
+",000,False,000,False,False,False,2,31
+"### || AUTO 8- مصادر ترجمته:
+",000,False,000,False,False,False,2,2221
+"### || AUTO مدينة ذمار
+",000,False,000,False,False,False,2,530
+"### || AUTO المدرسة الشمسية
+",000,False,000,False,False,False,2,421
+"### | AUTO [مقدمة المؤلف]
+",000,False,000,False,False,False,1,52960
+"### || AUTO [(1 )على بن أحمد السماوي ]
+",000,False,000,False,False,False,2,1042
+"### || AUTO [(2) أحمد بن محمد الحوثي]
+",000,False,000,False,False,False,2,138
+"### || AUTO [(3) صالح بن داود الآنسي]
+",000,False,000,False,False,False,2,145
+"### || AUTO [(4) يحيى بن محمد الشبيبي]
+",000,False,000,False,False,False,2,492
+"### || AUTO [(5) علي بن يحيى الشبيبي]
+",000,False,000,False,False,False,2,253
+"### || AUTO [6) مهدي بن علي الشبيبي]
+",000,False,000,False,False,False,2,107
+"### || AUTO [(7) المطهر بن محمد الحسني]
+",000,False,000,False,False,False,2,176
+"### || AUTO [(8) القاسم بن محمد لقمان]
+",000,False,000,False,False,False,2,63
+"### || AUTO [بينه وبين المتوكل إسماعيل]
+",000,False,000,False,False,False,2,104
+"### || AUTO [منزلته لدى المهدي أحمد بن الحسن]
+",000,False,000,False,False,False,2,73
+"### || AUTO [ذو الفقار وخير ضياعه]
+",000,False,000,False,False,False,2,709
+"### || AUTO [(9 ) يحيى بن علي الحبسي]
+",000,False,000,False,False,False,2,834
+"### || AUTO [(10) محمد بن يحيى الحبسي]
+",000,False,000,False,False,False,2,30
+"### || AUTO [مشايخه ومسموعاته ]
+",000,False,000,False,False,False,2,110
+"### || AUTO [(11) لطف الله بن محمد بن شمس الدين]
+",000,False,000,False,False,False,2,534
+"### || AUTO [(12)علي بن يحيىبن لطف الله الخطيب]
+",000,False,000,False,False,False,2,100
+"### || AUTO [(13) يحيى بن إسماعيل الجباري ]
+",000,False,000,False,False,False,2,53
+"### || AUTO [الأعمال التي تولاها]
+",000,False,000,False,False,False,2,133
+"### || AUTO [(14) حسين بن إسماعيل الجباري ]
+",000,False,000,False,False,False,2,71
+"### || AUTO [(15) عبد الهادي بن أحمد ذعفان ]
+",000,False,000,False,False,False,2,74
+"### || AUTO [(23) أحمد بن حاتم الريمي ]
+",000,False,000,False,False,False,2,221
+"### || AUTO [(17) محمد بن عبد الهادي ذعفان]
+",000,False,000,False,False,False,2,150
+"### || AUTO [مدارسة مع بعض علماء عصره في مسألة الصغير من أولاد الذميين]
+",000,False,000,False,False,False,2,717
+"### || AUTO [مناظرة فقهية علي بن المتوكل ووالده]
+",000,False,000,False,False,False,2,301
+"### || AUTO [(18) الحسين بن عبد الهادي ذعفان ]
+",000,False,000,False,False,False,2,80
+"### || AUTO [بينه وبين الإمام المؤيد]
+",000,False,000,False,False,False,2,202
+"### || AUTO [وفاته ومراثيه ]
+",000,False,000,False,False,False,2,191
+"### || AUTO [(19 ) محمد بن أحمد حاتم الريمي ]
+",000,False,000,False,False,False,2,105
+"### || AUTO [(20) عبد الله بن حسين فنجل ]
+",000,False,000,False,False,False,2,41
+"### || AUTO [مشايخه ومقروءاته]
+",000,False,000,False,False,False,2,123
+"### || AUTO [من أخذ عنه ]
+",000,False,000,False,False,False,2,32
+"### || AUTO [الأعمال التي تلاها]
+",000,False,000,False,False,False,2,50
+"### || AUTO [فائدة فقهية منقولة من خطه]
+",000,False,000,False,False,False,2,861
+"### || AUTO [(21) إسماعيل بن أحمد القحيف ]
+",000,False,000,False,False,False,2,102
+"### || AUTO [نماذج من شعره]
+",000,False,000,False,False,False,2,736
+"### || AUTO [وفاته ومراثيه]
+",000,False,000,False,False,False,2,275
+"### || AUTO [(22) محمد بن إبراهيم المجاهد ]
+",000,False,000,False,False,False,2,70
+"### || AUTO [(23) علي بن أحمد شرف الدين]
+",000,False,000,False,False,False,2,133
+"### || AUTO [ (24) محمد بن قاسم لقمان]
+",000,False,000,False,False,False,2,676
+"### || AUTO [وفاته]
+",000,False,000,False,False,False,2,603
+"### || AUTO [ (25) الحسين بن علي المجاهد ]
+",000,False,000,False,False,False,2,41
+"### || AUTO [الأعمال التي تولاها]
+",000,False,000,False,False,False,2,69
+"### || AUTO [ (26) إسماعيل ms071 بن علي المجاهد ]
+",000,False,000,False,False,False,2,170
+"### || AUTO [ (27) عبد الله بن علي المجاهد ]
+",000,False,000,False,False,False,2,63
+"### || AUTO [(28) صالح بن أحمد النصيري الرداعي]
+",000,False,000,False,False,False,2,94
+"### || AUTO [نماذج من شعره]
+",000,False,000,False,False,False,2,235
+"### || AUTO [ (29) الحسن بن صديق الوائلي الصعدي]
+",000,False,000,False,False,False,2,63
+"### || AUTO [ (30) علي بن محمد الأكوع ]
+",000,False,000,False,False,False,2,139
+"### || AUTO [ (31) الحسين بن محمد الأكوع ]
+",000,False,000,False,False,False,2,50
+"### || AUTO [ (32) أحمد بن محمد الأكوع ]
+",000,False,000,False,False,False,2,70
+"### || AUTO [(33) محمد بن هادي الخالدي الأنسي]
+",000,False,000,False,False,False,2,34
+"### || AUTO [مشايخه ومقرواته ]
+",000,False,000,False,False,False,2,172
+"### || AUTO [ (34) سعيد بن عبد الله العنسي ]
+",000,False,000,False,False,False,2,121
+"### || AUTO [مشايخه ومقروآته ]
+",000,False,000,False,False,False,2,133
+"### || AUTO [بعض من أخذ عنه]
+",000,False,000,False,False,False,2,247
+"### || AUTO [نماذج من شعره]
+",000,False,000,False,False,False,2,97
+"### || AUTO [35) علي بن حسين المجاهد]
+",000,False,000,False,False,False,2,78
+"### || AUTO [(36) محيي الدين بن حسين المجاهد]
+",000,False,000,False,False,False,2,130
+"### || AUTO [(37) عز الدين بن أحمد المجاهد ]
+",000,False,000,False,False,False,2,43
+"### || AUTO [(38) حسين بن حسن المجاهد ]
+",000,False,000,False,False,False,2,94
+"### || AUTO [(39) علي بن حسن الديلمي ]
+",000,False,000,False,False,False,2,116
+"### || AUTO [مشايخه ومن أخذ عنه]
+",000,False,000,False,False,False,2,516
+"### || AUTO [(40) الحسين بن يحيى الديلمي ]
+",000,False,000,False,False,False,2,120
+"### || AUTO [(41) أحمد بن مهدي الشبيبي ]
+",000,False,000,False,False,False,2,51
+"### || AUTO [نماذج من شعره]
+",000,False,000,False,False,False,2,268
+"### || AUTO [مشايخه ms082]
+",000,False,000,False,False,False,2,90
+"### || AUTO [نماذج من شعره]
+",000,False,000,False,False,False,2,799
+"### || AUTO [(42) المطهر بن صلاح الحسني]
+",000,False,000,False,False,False,2,119
+"### || AUTO [(43) محمد بن مهدي الشبيبي ]
+",000,False,000,False,False,False,2,65
+"### || AUTO [(44) زيد بن عبد الله العيزري ]
+",000,False,000,False,False,False,2,175
+"### || AUTO [(45) أحمد بن محمد الشجني ]
+",000,False,000,False,False,False,2,95
+"### || AUTO [(46) زيد بن عبد الله الأكوع ]
+",000,False,000,False,False,False,2,80
+"### || AUTO [من أخذ عنه]
+",000,False,000,False,False,False,2,205
+"### || AUTO [47 أحمد بن إسماعيل الحسني]
+",000,False,000,False,False,False,2,265
+"### || AUTO [(48) إسحاق بن يوسف بن المتوكل ]
+",000,False,000,False,False,False,2,71
+"### || AUTO [مشايخه ومقروآته]
+",000,False,000,False,False,False,2,112
+"### || AUTO [من أخذ عنه]
+",000,False,000,False,False,False,2,62
+"### || AUTO [مؤلفاته]
+",000,False,000,False,False,False,2,224
+"### || AUTO [مولده ووفاته]
+",000,False,000,False,False,False,2,18
+"### || AUTO [نماذج من شعره]
+",000,False,000,False,False,False,2,644
+"### || AUTO [(49) أحمد بن مطهر الحرازي ]
+",000,False,000,False,False,False,2,27
+"### || AUTO [(50) يحيى بن حسن الصديق]
+",000,False,000,False,False,False,2,93
+"### || AUTO [(51) محمد بن يحيى الشويطر ]
+",000,False,000,False,False,False,2,136
+"### || AUTO [الأعمال التي تولاها]
+",000,False,000,False,False,False,2,50
+"### || AUTO [نماذج من شعره]
+",000,False,000,False,False,False,2,921
+"### || AUTO [(52) عبد الله بن أحمد الأكوع ]
+",000,False,000,False,False,False,2,198
+"### || AUTO [(53) الحسن بن سعيد العنسي ]
+",000,False,000,False,False,False,2,261
+"### || AUTO [(54) أحمد بن علي المجاهد ]
+",000,False,000,False,False,False,2,54
+"### || AUTO [(55) حسين بن أحمد المجاهد ]
+",000,False,000,False,False,False,2,34
+"### || AUTO [مشايخه ومقروءاته]
+",000,False,000,False,False,False,2,43
+"### || AUTO [(56) الحسن بن أحمد بن أبي الرجال ]
+",000,False,000,False,False,False,2,49
+"### || AUTO [(57) إسماعيل بن علي بن يحيى الخطيب ]
+",000,False,000,False,False,False,2,338
+"### || AUTO [(58) الحسن بن أحمد الشبيبي ]
+",000,False,000,False,False,False,2,64
+"### || AUTO [مشايخه ومقروءاته]
+",000,False,000,False,False,False,2,369
+"### || AUTO [من أخذ عنه]
+",000,False,000,False,False,False,2,262
+"### || AUTO [(59) محيى الدين بن أحمد الشبيبي ]
+",000,False,000,False,False,False,2,9
+"### || AUTO [(60) يحيى بن أحمد الشبيبي ]
+",000,False,000,False,False,False,2,103
+"### || AUTO [(61) إبراهيم بن خالد العلفي ]
+",000,False,000,False,False,False,2,80
+"### || AUTO [مشايخه ومقرؤاته]
+",000,False,000,False,False,False,2,543
+"### || AUTO [مؤلفاته]
+",000,False,000,False,False,False,2,275
+"### || AUTO [زهده وورعه]
+",000,False,000,False,False,False,2,250
+"### || AUTO [(62) علي بن إبراهيم المجاهد ]
+",000,False,000,False,False,False,2,119
+"### || AUTO [(63)يوسف بن محمد جحاف الحسني]
+",000,False,000,False,False,False,2,65
+"### || AUTO [(64) محمد بن زيد الأكوع ]
+",000,False,000,False,False,False,2,190
+"### || AUTO [(66) الحسن بن عبد الله الريمي ]
+",000,False,000,False,False,False,2,92
+"### || AUTO [من كراماته]
+",000,False,000,False,False,False,2,139
+"### || AUTO [(67)علي بن حسن الكبسي ]
+",000,False,000,False,False,False,2,94
+"### || AUTO [(68) مهدي بن حسن الكبسي ]
+",000,False,000,False,False,False,2,40
+"### || AUTO [(69) شمس الدين بن محمد المجاهد]
+",000,False,000,False,False,False,2,139
+"### || AUTO [(70) مطهر بن علي الديلمي ]
+",000,False,000,False,False,False,2,230
+"### || AUTO [(70) سعيد بن عبد الرحمن السماوي]
+",000,False,000,False,False,False,2,37
+"### || AUTO [مشايخه ومن أخذ عنه]
+",000,False,000,False,False,False,2,39
+"### || AUTO [الأعمال التي تولاها]
+",000,False,000,False,False,False,2,55
+"### || AUTO [(72) علي بن محمد لقمان الحسني]
+",000,False,000,False,False,False,2,43
+"### || AUTO [مشايخه ومقروءاته]
+",000,False,000,False,False,False,2,27
+"### || AUTO [الأعمال التي تولاها]
+",000,False,000,False,False,False,2,52
+"### || AUTO [مكاتباته مع بعض علماء عصره]
+",000,False,000,False,False,False,2,1713
+"### || AUTO [(73) محمد بن حيدرة الحسني]
+",000,False,000,False,False,False,2,113
+"### || AUTO [(74) علي بن إسماعيل الخطيب ]
+",000,False,000,False,False,False,2,108
+"### || AUTO [(75) عبد الله بن حسين دلامة ]
+",000,False,000,False,False,False,2,326
+"### || AUTO [بعض ما قيل في مدحه]
+",000,False,000,False,False,False,2,712
+"### || AUTO [مذاكراته مع بعض علماء عصره]
+",000,False,000,False,False,False,2,1049
+"### || AUTO [بينه وبين البدر الأمير]
+",000,False,000,False,False,False,2,833
+"### || AUTO [(76) محمد بن علي المجاهد]
+",000,False,000,False,False,False,2,217
+"### || AUTO [(77) يحيى بن أحمد الكبسي ]
+",000,False,000,False,False,False,2,96
+"### || AUTO [(78) علي بن أحمد الشجني السماوي]
+",000,False,000,False,False,False,2,276
+"### || AUTO [مذاكراته مع بعض علماء عصره]
+",000,False,000,False,False,False,2,943
+"### || AUTO [(79) أحمد بن علي الشرفي]
+",000,False,000,False,False,False,2,124
+"### || AUTO [الأعمال التي تولاها]
+",000,False,000,False,False,False,2,71
+"### || AUTO [(80) علي بن محمد الفاضلي ]
+",000,False,000,False,False,False,2,113
+"### || AUTO [(81) منصر بن علي الشري]
+",000,False,000,False,False,False,2,202
+"### || AUTO [(82) إسماعيل بن يحيى الصديق]
+",000,False,000,False,False,False,2,10
+"### || AUTO [نسبه ونعته]
+",000,False,000,False,False,False,2,128
+"### || AUTO [من مذاكراته مع بعض علماء عصره]
+",000,False,000,False,False,False,2,327
+"### || AUTO [(83) زين العابدين بن يحيى الخباني الحسني]
+",000,False,000,False,False,False,2,12
+"### || AUTO [نسبه ونعته]
+",000,False,000,False,False,False,2,535
+"### || AUTO [(84) أحمد بن علي ذعفان]
+",000,False,000,False,False,False,2,82
+"### || AUTO [الأعمال التي تولاها ووفاته]
+",000,False,000,False,False,False,2,117
+"### || AUTO [(85) محمد بن يحيى الشجني ]
+",000,False,000,False,False,False,2,83
+"### || AUTO [(86) عبد الرحمن بن حسن الأكوع ]
+",000,False,000,False,False,False,2,434
+"### || AUTO [(87) يحيى بن أحمد الشبيبي ]
+",000,False,000,False,False,False,2,88
+"### || AUTO [نماذج من شعره ]
+",000,False,000,False,False,False,2,406
+"### || AUTO [(88) عبد الله بن محسن المحرابي]
+",000,False,000,False,False,False,2,94
+"### || AUTO [(89) محمد بن عبد الله الإرياني ]
+",000,False,000,False,False,False,2,11
+"### || AUTO [نسبه ونعته ]
+",000,False,000,False,False,False,2,25
+"### || AUTO [مشايخه]
+",000,False,000,False,False,False,2,57
+"### || AUTO [(90) عبد القادربن أحمد الكوكباني]
+",000,False,000,False,False,False,2,114
+"### || AUTO [مشايخه]
+",000,False,000,False,False,False,2,112
+"### || AUTO [من أخذ عنه من علماء ذمار ]
+",000,False,000,False,False,False,2,67
+"### || AUTO [مؤلفاته ]
+",000,False,000,False,False,False,2,647
+"### || AUTO [(91) عبد القادر بن حسين الشويطر ]
+",000,False,000,False,False,False,2,60
+"### || AUTO [مشايخه]
+",000,False,000,False,False,False,2,220
+"### || AUTO [مولده ووفاته ]
+",000,False,000,False,False,False,2,415
+"### || AUTO [(92) أحمد بن حسن بن أبي ms151 الرجال]
+",000,False,000,False,False,False,2,110
+"### || AUTO [وفاته ومراثيه ]
+",000,False,000,False,False,False,2,55
+"### || AUTO [مذاكراته مع بعض علماء عصره]
+",000,False,000,False,False,False,2,728
+"### || AUTO [(93) علي بن حسن الشبيبي ]
+",000,False,000,False,False,False,2,132
+"### || AUTO [(94) يحيى بن حسين الشويطر]
+",000,False,000,False,False,False,2,72
+"### || AUTO [(95) علي بن أحمد الحسني]
+",000,False,000,False,False,False,2,53
+"### || AUTO [مشايخه ومقرؤاته]
+",000,False,000,False,False,False,2,191
+"### || AUTO [(96) الحسين بن يحيى الديلمي]
+",000,False,000,False,False,False,2,89
+"### || AUTO [مشايخه ومقرؤاته]
+",000,False,000,False,False,False,2,296
+"### || AUTO [مؤلفاته]
+",000,False,000,False,False,False,2,105
+"### || AUTO [نماذج من شعره]
+",000,False,000,False,False,False,2,979
+"### || AUTO [بعض أحواله]
+",000,False,000,False,False,False,2,95
+"### || AUTO [(97) سعيد بن حسن العنسي ]
+",000,False,000,False,False,False,2,90
+"### || AUTO [مشايخه ومقرؤاته ]
+",000,False,000,False,False,False,2,337
+"### || AUTO [نماذج من شعره]
+",000,False,000,False,False,False,2,1323
+"### || AUTO [(98) حسين بن علي الشجني ]
+",000,False,000,False,False,False,2,130
+"### || AUTO [نماذج من شعره]
+",000,False,000,False,False,False,2,399
+"### || AUTO [(99) إسماعيل بن أحمد الحسني]
+",000,False,000,False,False,False,2,148
+"### || AUTO [مكاتباته مع بعض علماء عصره]
+",000,False,000,False,False,False,2,296
+"### || AUTO [(100) علي بن أحمد الحسني]
+",000,False,000,False,False,False,2,360
+"### || AUTO [(101)عبد الله بن ms172 محمد الحسني]
+",000,False,000,False,False,False,2,123
+"### || AUTO [(102)إسماعيل بن عبد الله الذماري]
+",000,False,000,False,False,False,2,317
+"### || AUTO [(103) محسن بن حسين الشويطر ]
+",000,False,000,False,False,False,2,192
+"### || AUTO [(104) محمد بن محمد الشويطر ]
+",000,False,000,False,False,False,2,166
+"### || AUTO [(105) يحيى بن محمد المغربي ]
+",000,False,000,False,False,False,2,93
+"### || AUTO [(106) محمد بن أحمد الحرازي ]
+",000,False,000,False,False,False,2,60
+"### || AUTO [(107) محمد بن أحمد الكبسي ]
+",000,False,000,False,False,False,2,77
+"### || AUTO [(108) حسين بن أحمد الكبسي ]
+",000,False,000,False,False,False,2,95
+"### || AUTO [(109) أحمد بن محمد المجاهد ]
+",000,False,000,False,False,False,2,102
+"### || AUTO [(110) عبد الله بن حسين المجاهد]
+",000,False,000,False,False,False,2,110
+"### || AUTO [(111) أحمد بن محمد المجاهد]
+",000,False,000,False,False,False,2,80
+"### || AUTO [(112) يحيى بن حسن الشبيبي ]
+",000,False,000,False,False,False,2,124
+"### || AUTO [(113) أحمد بن أحمد الديلمي]
+",000,False,000,False,False,False,2,133
+"### || AUTO [(114) إبراهيم بن أحمد الأكوع ]
+",000,False,000,False,False,False,2,93
+"### || AUTO [(115) عبد الهادي بن حسين الشويطر ]
+",000,False,000,False,False,False,2,94
+"### || AUTO [(116) محمد بن زيد الأكوع ]
+",000,False,000,False,False,False,2,53
+"### || AUTO [(117) محمد بن يحيى الكبسي ]
+",000,False,000,False,False,False,2,386
+"### || AUTO [(118) محمد بن يحيى الأكوع ]
+",000,False,000,False,False,False,2,103
+"### || AUTO [(119) أحمد بن محمد الحرازي ]
+",000,False,000,False,False,False,2,201
+"### || AUTO [(120) عبد الرحمن بن حسن الشبيبي]
+",000,False,000,False,False,False,2,92
+"### || AUTO [(121) أحمد بن يحيى الشجني ]
+",000,False,000,False,False,False,2,128
+"### || AUTO [(122) أحمد بن علي السماوي]
+",000,False,000,False,False,False,2,113
+"### || AUTO [الأعمال التي تولاها]
+",000,False,000,False,False,False,2,84
+"### || AUTO [(123) يحيى بن علي المجاهد ]
+",000,False,000,False,False,False,2,134
+"### || AUTO [(124)يحيى بن يوسف بن عامر الحسني]
+",000,False,000,False,False,False,2,10
+"### || AUTO [نسبه ونعته ]
+",000,False,000,False,False,False,2,103
+"### || AUTO [(125) حسن بن علي الشجني]
+",000,False,000,False,False,False,2,137
+"### || AUTO [(126) سعيدبن إسماعيل الرشيدي]
+",000,False,000,False,False,False,2,45
+"### || AUTO [(127) عبد الرحمن بن سعيد السماوي]
+",000,False,000,False,False,False,2,72
+"### || AUTO [الأعمال التي تولاها]
+",000,False,000,False,False,False,2,37
+"### || AUTO [(128) حسن بن أحمد الضبة ]
+",000,False,000,False,False,False,2,78
+"### || AUTO [(129) حسين بن محمد الديلمي]
+",000,False,000,False,False,False,2,79
+"### || AUTO [(130) قاسم بن أحمد لقمان الحسني]
+",000,False,000,False,False,False,2,162
+"### || AUTO [(131) محمد بن أحمد عامر الحسني]
+",000,False,000,False,False,False,2,150
+"### || AUTO [(132) حسين بن عبد الله الأكوع]
+",000,False,000,False,False,False,2,135
+"### || AUTO [(133) محمد بن محمد الشويطر ]
+",000,False,000,False,False,False,2,83
+"### || AUTO [(134)عبد الرحمن بن حسن الريمي]
+",000,False,000,False,False,False,2,383
+"### || AUTO [(135) الحسين بن حسن الملصي ]
+",000,False,000,False,False,False,2,294
+"### || AUTO [(136) حسين بن محمد دلامة ]
+",000,False,000,False,False,False,2,141
+"### || AUTO [(137)أحمد بن محمد الحسني]
+",000,False,000,False,False,False,2,135
+"### || AUTO [(138) يحيى بن سعيد العنسي]
+",000,False,000,False,False,False,2,176
+"### || AUTO [(139) عبد الله بن حسن الريمي ]
+",000,False,000,False,False,False,2,79
+"### || AUTO [(140) يحيى بن أحمد الديلمي ]
+",000,False,000,False,False,False,2,99
+"### || AUTO [(141) محمد بن عبد القادر الشويطر]
+",000,False,000,False,False,False,2,230
+"### || AUTO [(142) علي بن إسماعيل الشرفي]
+",000,False,000,False,False,False,2,596
+"### || AUTO [(143) علي بن أحمد الخباني]
+",000,False,000,False,False,False,2,98
+"### || AUTO [(144) إسماعيل بن أحمد الظاهري]
+",000,False,000,False,False,False,2,80
+"### || AUTO [(145/ ) عبد الوهاب بن حسين الديلمي]
+",000,False,000,False,False,False,2,1156
+"### || AUTO ترجمة مؤلف مطلع الأقمار:
+",000,False,000,False,False,False,2,246
+"### || AUTO [مشايخه ومقرؤاته]
+",000,False,000,False,False,False,2,260
+"### || AUTO [من أخذ عنه ]
+",000,False,000,False,False,False,2,52
+"### || AUTO [نماذج من شعره ومكاتباته مع بعض علماء عصره]
+",000,False,000,False,False,False,2,2206
+"### || AUTO قائمة المصادر والمراجع
+",000,False,000,False,False,False,2,606

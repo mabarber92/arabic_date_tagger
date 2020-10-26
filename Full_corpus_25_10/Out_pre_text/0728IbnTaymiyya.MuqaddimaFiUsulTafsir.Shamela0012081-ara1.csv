@@ -1,0 +1,25 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | مقدمة
+",000,False,000,False,False,False,1,294
+"### | في عناية الصحابة والتابعين بمعاني القرآن
+",000,False,000,False,False,False,1,296
+"### | في اختلاف السلف في التفسير اختلاف تنوع
+",000,False,000,False,False,False,1,1881
+"### | في نوعي الاختلاف في التفسير
+",000,False,000,False,False,False,1,10
+"### | النوع الأول: الخلاف الواقع في التفسير من جهة النقل
+",000,False,000,False,False,False,1,1885
+"### | النوع الثاني: في الاختلاف في التفسير باختلاف طرق الاستدلال
+",000,False,000,False,False,False,1,1353
+"### | تفسير القرآن بالقرآن، وتفسيره بالسنة، وأقوال الصحابة
+",000,year,000,False,False,False,1,233
+"### | تفسير القرآن بأقوال الصحابة
+",000,False,000,False,False,False,1,736
+"### | تفسير القرآن بأقوال التابعين
+",000,False,000,False,False,False,1,304
+"### | تفسير القرآن بمجرد الرأي
+",000,False,000,False,False,False,1,989
+"### | أقرب التفاسير إلى الكتاب والسنة
+",000,year,000,False,False,False,1,403
+"### | جمع القراءات السبع
+",000,False,000,False,False,False,1,124

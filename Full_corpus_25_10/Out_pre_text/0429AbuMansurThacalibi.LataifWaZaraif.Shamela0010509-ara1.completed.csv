@@ -1,0 +1,315 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [المدخل]
+",000,False,000,False,False,False,1,594
+"### | باب مدح الدنيا
+",000,False,000,False,False,False,1,390
+"### | باب ذم الدنيا
+",000,False,000,False,False,False,1,452
+"### | باب ms005 مدح الدهر
+",000,False,000,False,False,False,1,206
+"### | باب ذم الدهر
+",000,False,000,False,False,False,1,625
+"### | باب مدح السلطان
+",000,False,000,False,False,False,1,389
+"### | باب ذم السلطان
+",000,False,000,False,False,False,1,222
+"### | باب مدح عمل السلطان
+",000,False,000,False,False,False,1,179
+"### | باب ذم عمل السلطان
+",000,False,000,False,False,False,1,315
+"### | باب مدح الوزارة
+",000,False,000,False,False,False,1,366
+"### | باب ذم الوزارة
+",000,False,000,False,False,False,1,275
+"### | باب مدح العقل
+",000,False,000,False,False,False,1,333
+"### | باب ذم العقل
+",000,False,000,False,False,False,1,218
+"### | باب مدح العلوم
+",000,False,000,False,False,False,1,664
+"### | باب ذم العلوم
+",000,False,000,False,False,False,1,323
+"### | باب مدح الخط والقلم
+",000,False,000,False,False,False,1,398
+"### | باب ذم الخط والقلم
+",000,False,000,False,False,False,1,265
+"### | باب مدح الأدب
+",000,False,000,False,False,False,1,162
+"### | باب ذم الأدب
+",000,False,000,False,False,False,1,148
+"### | باب مدح الشعر والشعراء
+",000,False,000,False,False,False,1,496
+"### | باب ذم الشعر والشعراء
+",000,False,000,False,False,False,1,323
+"### | باب مدح الكتب والدفاتر
+",000,False,000,False,False,False,1,376
+"### | باب ذم الكتب والدفاتر
+",000,False,000,False,False,False,1,214
+"### | باب مدح التجارة
+",000,False,000,False,False,False,1,200
+"### | باب ذم التجارة
+",000,False,000,False,False,False,1,241
+"### | باب مدح الضياع
+",000,False,000,False,False,False,1,489
+"### | باب ذم الضياع
+",000,False,000,False,False,False,1,159
+"### | باب مدح الدور والأبنية
+",000,False,000,False,False,False,1,299
+"### | باب ذم الدور والأبنية
+",000,False,000,False,False,False,1,190
+"### | باب مدح الحمام
+",000,False,000,False,False,False,1,273
+"### | باب ذم الحمام
+",000,False,000,False,False,False,1,130
+"### | باب مدح المال
+",000,False,000,False,False,False,1,240
+"### | باب ms035 ذم المال
+",000,False,000,False,False,False,1,76
+"### | باب مدح الغنى
+",000,False,000,False,False,False,1,92
+"### | باب ذم الغنى
+",000,False,000,False,False,False,1,133
+"### | باب مدح الفقر
+",000,False,000,False,False,False,1,104
+"### | باب ذم الفقر
+",000,False,000,False,False,False,1,147
+"### | باب مدح القناعة
+",000,False,000,False,False,False,1,155
+"### | باب ذم القناعة
+",000,False,000,False,False,False,1,148
+"### | باب مدح القلة
+",000,False,000,False,False,False,1,258
+"### | باب ذم القلة
+",000,False,000,False,False,False,1,95
+"### | باب مدح اللسان
+",000,False,000,False,False,False,1,247
+"### | باب ذم اللسان
+",000,False,000,False,False,False,1,153
+"### | باب مدح الصمت
+",000,False,000,False,False,False,1,331
+"### | باب ذم الصمت
+",000,False,000,False,False,False,1,111
+"### | باب مدح الصبر
+",000,False,000,False,False,False,1,408
+"### | باب ذم الصبر
+",000,False,000,False,False,False,1,108
+"### | باب مدح الحلم
+",000,False,000,False,False,False,1,115
+"### | باب ذم ms044 الحلم
+",000,False,000,False,False,False,1,230
+"### | باب مدح المشورة
+",000,False,000,False,False,False,1,456
+"### | باب ذم المشورة
+",000,False,000,False,False,False,1,61
+"### | باب مدح التأني
+",000,False,000,False,False,False,1,129
+"### | باب ms047 ذم التأني
+",000,False,000,False,False,False,1,149
+"### | باب مدح الوحدة والعزلة
+",000,False,000,False,False,False,1,232
+"### | باب ذم الوحدة
+",000,False,000,False,False,False,1,93
+"### | باب مدح الشجاعة
+",000,False,000,False,False,False,1,228
+"### | باب ذم الشجاعة
+",000,False,000,False,False,False,1,114
+"### | باب مدح الجود
+",000,False,000,False,False,False,1,443
+"### | باب ذم الجود
+",000,False,000,False,False,False,1,208
+"### | باب مدح البخل
+",000,False,000,False,False,False,1,105
+"### | باب ذم البخل
+",000,False,000,False,False,False,1,252
+"### | باب مدح الحقد
+",000,False,000,False,False,False,1,97
+"### | باب ذم الحقد
+",000,False,000,False,False,False,1,239
+"### | باب مدح الحياء
+",000,False,000,False,False,False,1,100
+"### | باب ذم الحياء
+",000,False,000,False,False,False,1,123
+"### | باب مدح الإخوان والأصحاب
+",000,False,000,False,False,False,1,347
+"### | باب ذم الإخوان
+",000,False,000,False,False,False,1,382
+"### | باب مدح المزاح
+",000,False,000,False,False,False,1,167
+"### | باب ذم المزاح
+",000,False,000,False,False,False,1,181
+"### | باب مدح العتاب
+",000,False,000,False,False,False,1,90
+"### | باب ذم العتاب
+",000,False,000,False,False,False,1,169
+"### | باب مدح الحجاب
+",000,False,000,False,False,False,1,139
+"### | باب ذم الحجاب
+",000,False,000,False,False,False,1,132
+"### | باب مدح الزيارة
+",000,False,000,False,False,False,1,120
+"### | باب ذم ms061 الزيارة
+",000,False,000,False,False,False,1,133
+"### | باب مدح النساء
+",000,False,000,False,False,False,1,310
+"### | باب ذم النساء
+",000,False,000,False,False,False,1,338
+"### | باب مدح التزوج
+",000,False,000,False,False,False,1,142
+"### | باب ذم التزوج
+",000,False,000,False,False,False,1,140
+"### | باب مدح الجواري
+",000,False,000,False,False,False,1,290
+"### | باب ذم الجواري
+",000,False,000,False,False,False,1,95
+"### | باب مدح العيال
+",000,False,000,False,False,False,1,98
+"### | باب ذم العيال
+",000,False,000,False,False,False,1,110
+"### | باب مدح الولد
+",000,False,000,False,False,False,1,114
+"### | باب ذم الولد
+",000,False,000,False,False,False,1,403
+"### | باب مدح البنات
+",000,False,000,False,False,False,1,342
+"### | باب ذم البنات
+",000,False,000,False,False,False,1,129
+"### | باب مدح الغلمان
+",000,False,000,False,False,False,1,233
+"### | باب ذم الغلمان
+",000,False,000,False,False,False,1,143
+"### | باب مدح الخط والعذار
+",000,False,000,False,False,False,1,189
+"### | باب ذم الخط والعذار
+",000,False,000,False,False,False,1,142
+"### | باب مدح السماع
+",000,False,000,False,False,False,1,247
+"### | باب ذم السماع
+",000,False,000,False,False,False,1,158
+"### | باب مدح الزجاج
+",000,False,000,False,False,False,1,291
+"### | باب ذم الزجاج
+",000,False,000,False,False,False,1,176
+"### | باب مدح الذهب
+",000,False,000,False,False,False,1,461
+"### | باب ذم الذهب
+",000,False,000,False,False,False,1,68
+"### | باب مدح الشطرنج
+",000,False,000,False,False,False,1,163
+"### | باب ذم الشطرنج
+",000,False,000,False,False,False,1,286
+"### | باب مدح النرجس
+",000,False,000,False,False,False,1,249
+"### | باب ذم النرجس
+",000,False,000,False,False,False,1,184
+"### | باب مدح الورد
+",000,False,000,False,False,False,1,154
+"### | باب ذم الورد
+",000,False,000,False,False,False,1,96
+"### | باب مدح الشتاء
+",000,False,000,False,False,False,1,211
+"### | باب ذم الشتاء
+",000,False,000,False,False,False,1,138
+"### | باب مدح الصيف
+",000,False,000,False,False,False,1,53
+"### | باب ذم الصيف
+",000,False,000,False,False,False,1,123
+"### | باب مدح المطر
+",000,False,000,False,False,False,1,245
+"### | باب ذم المطر
+",000,False,000,False,False,False,1,138
+"### | باب مدح القمر
+",000,False,000,False,False,False,1,126
+"### | باب ذم القمر
+",000,False,000,False,False,False,1,113
+"### | باب مدح السفر
+",000,False,000,False,False,False,1,311
+"### | باب ذم السفر
+",000,False,000,False,False,False,1,119
+"### | باب مدح الغربة
+",000,False,000,False,False,False,1,238
+"### | باب ذم الغربة
+",000,False,000,False,False,False,1,250
+"### | باب مدح الفراق
+",000,False,000,False,False,False,1,218
+"### | باب ذم الفراق
+",000,False,000,False,False,False,1,171
+"### | باب مدح البكاء
+",000,False,000,False,False,False,1,247
+"### || فصل لأبي بكر الخوارزمي:
+",000,False,000,False,False,False,2,35
+"### || فصل لأبي إسحق الصابي:
+",000,False,000,False,False,False,2,190
+"### | باب ذم البكاء
+",000,False,000,False,False,False,1,143
+"### | باب مدح الرؤيا
+",000,False,000,False,False,False,1,125
+"### | باب ذم الرؤيا
+",000,False,000,False,False,False,1,153
+"### | باب مدح الهدية
+",000,False,000,False,False,False,1,266
+"### | باب ذم الهدية
+",000,False,000,False,False,False,1,82
+"### | باب مدح الدين
+",000,False,000,False,False,False,1,170
+"### | باب ذم الدين
+",000,False,000,False,False,False,1,118
+"### | باب مدح الشباب
+",000,False,000,False,False,False,1,413
+"### | باب ذم الشباب
+",000,False,000,False,False,False,1,89
+"### | باب مدح الشيب
+",000,False,000,False,False,False,1,440
+"### | باب ذم الشيب
+",000,False,000,False,False,False,1,255
+"### | باب مدح الخضاب
+",000,False,000,False,False,False,1,126
+"### | باب ذم الخضاب
+",000,False,000,False,False,False,1,190
+"### | باب مدح المرض
+",000,False,000,False,False,False,1,201
+"### | باب ذم المرض
+",000,False,000,False,False,False,1,119
+"### | باب مدح الموت
+",000,False,000,False,False,False,1,300
+"### | باب ذم الموت
+",000,False,000,False,False,False,1,273
+"### | باب مدح السواد
+",000,False,000,False,False,False,1,387
+"### | باب ذم السواد
+",000,False,000,False,False,False,1,124
+"### | باب مدح الغوغاء والسفهاء
+",000,False,000,False,False,False,1,101
+"### | باب ذم الغوغاء والسفهاء
+",000,False,000,False,False,False,1,238
+"### | باب مدح العمى
+",000,False,000,False,False,False,1,263
+"### | باب ذم العمى
+",000,False,000,False,False,False,1,109
+"### | باب مدح السجن
+",000,False,000,False,False,False,1,182
+"### | باب ذم السجن
+",000,False,000,False,False,False,1,123
+"### | باب مدح التعليم
+",000,False,000,False,False,False,1,129
+"### | باب ذم التعليم
+",000,False,000,False,False,False,1,151
+"### | باب مدح الرقيب
+",000,False,000,False,False,False,1,58
+"### | باب ذم الرقيب
+",000,False,000,False,False,False,1,64
+"### | باب مدح «لا»
+",000,False,000,False,False,False,1,136
+"### | باب ذم «لا»
+",000,False,000,False,False,False,1,58
+"### | باب مدح اليمين
+",000,False,000,False,False,False,1,150
+"### | باب ذم اليمين
+",000,False,000,False,False,False,1,74
+"### | باب مدح شهر رمضان
+",000,False,000,False,False,False,1,174
+"### | باب ذم شهر رمضان
+",000,False,000,False,False,False,1,251
+"### | باب مدح الوعد
+",000,False,000,False,False,False,1,119
+"### | باب ذم الوعد ms111
+",000,False,000,False,False,False,1,6694

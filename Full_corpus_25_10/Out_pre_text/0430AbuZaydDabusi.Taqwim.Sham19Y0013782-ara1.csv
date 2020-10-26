@@ -1,0 +1,249 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK مقدمة المؤلف
+",000,False,000,False,False,False,1,863
+"### | AUTO القول في أسماء أنواع الحجج
+",000,False,000,False,False,False,1,1186
+"### | AUTO القول في أنواع الحجج نفسها
+",000,False,000,False,False,False,1,181
+"### | AUTO القول في أنواع الحجج الشرعية الموجبة للعلم
+",000,False,000,False,False,False,1,154
+"### | AUTO القول في بيان حد الكتاب وكونه حجة
+",000,False,000,False,False,False,1,554
+"### | AUTO القول في تحديد المتواتر وكونه حجة موجبة
+",000,False,000,False,False,False,1,159
+"### | AUTO القول في بيان أن الإجماع من هذه الأمة حجة
+",000,False,000,False,False,False,1,1222
+"### | AUTO القول في تحديد الإجماع
+",000,False,000,False,False,False,1,976
+"### | AUTO القول في أقسام الإجماع
+",000,False,000,False,False,False,1,735
+"### | AUTO القول في أنواع التكلم وضعا وتفسيرها حقا
+",000,False,000,False,False,False,1,527
+"### | AUTO القول في حكم الأوامر المطلقة في حق المأمورين شرعا
+",000,False,000,False,False,False,1,949
+"### | AUTO القول في الأمر بالفعل ماذا حكمه في التكرار؟
+",000,False,000,False,False,False,1,1201
+"### | AUTO القول في صفة حسن المأمور به
+",000,False,000,False,False,False,1,691
+"### | AUTO القول في مطلق الأمر ماذا موجبه في حسن المأمور به من الفعل
+",000,False,000,False,False,False,1,193
+"### | AUTO القول في الأمر بفعل واجب، ماذا حكمه في ضده؟
+",000,False,000,False,False,False,1,489
+"### | AUTO القول في النهي ماذا حكمه؟
+",000,False,000,False,False,False,1,113
+"### | AUTO فصل: الأقوال في تكرار الانتهاء
+",000,False,000,False,False,False,1,86
+"### | AUTO فصل في بيان علة وجوب الانتهاء
+",000,False,000,False,False,False,1,385
+"### | AUTO القول في صفة قبح المنهي عنه وحكمه
+",000,False,000,False,False,False,1,334
+"### | AUTO القول في النهي المطلق ماذا حكمه؟ وإلى أي قسم ينصرف؟
+",000,False,000,False,False,False,1,2204
+"### | AUTO القول في بيان أسباب الشرائع
+",000,False,000,False,False,False,1,728
+"### | AUTO فصل
+",000,False,000,False,False,False,1,1236
+"### | AUTO القول في العبادات
+",000,False,000,False,False,False,1,183
+"### | AUTO فصل
+",000,False,000,False,False,False,1,336
+"### | AUTO فصل
+",000,False,000,False,False,False,1,599
+"### | AUTO فصل
+",000,False,000,False,False,False,1,2263
+"### | AUTO القول في منازل المشروعات حقا لله تعالى وبيان أحكامها
+",000,False,000,False,False,False,1,1088
+"### | AUTO القول في العزيمة والرخصة
+",000,False,000,False,False,False,1,1924
+"### | AUTO القول في الأداء والقضاء
+",000,False,000,False,False,False,1,2341
+"### | AUTO القول في أسماء الألفاظ في حق قذر تناولها المسميات، وحكمها فيما تتناوله
+",000,False,000,False,False,False,1,3596
+"### | AUTO حكم المشترك
+",000,False,000,False,False,False,1,84
+"### | AUTO القول في العام إذا خص منه شيء
+",000,False,000,False,False,False,1,1757
+"### | AUTO القول في بيان ألفاظ العموم
+",000,False,000,False,False,False,1,1572
+"### | AUTO القول في الأسماء الظاهرة التي تتفاوت معانيها ظهورا من الأسماء المستعملة بين الفقهاء
+",000,False,000,False,False,False,1,853
+"### | AUTO القول في أقسام أنواع استعمال الكلام
+",000,False,000,False,False,False,1,2531
+"### | AUTO القول في أقسام ما يترك به حقيقة اللفظ بلا معارضة
+",000,False,000,False,False,False,1,780
+"### | AUTO القول في أقسام الأحكام الثابتة بالنص الظاهر دون القياس بالرأي
+",000,False,000,False,False,False,1,6528
+"### | AUTO فصل
+",000,False,000,False,False,False,1,3280
+"### | AUTO القول في إبانة طريق المراد بمطلق الكلام
+",000,False,000,False,False,False,1,2181
+"### | AUTO القول في الحجج المجوزة من الشرعيات
+",000,False,000,False,False,False,1,141
+"### | AUTO القول في الآية المؤولة
+",000,False,000,False,False,False,1,301
+"### | AUTO القول في الخبر الواحد
+",000,False,000,False,False,False,1,1498
+"### | AUTO القول في أقسام المخبرين
+",000,False,000,False,False,False,1,484
+"### | AUTO القول في بيان أقسام ما كان خبر الواحد فيها حجة
+",000,False,000,False,False,False,1,823
+"### | AUTO القول في أقسام الرواة الذين تقبل روايتهم
+",000,False,000,False,False,False,1,1168
+"### | AUTO القول في شرائط الراوي
+",000,False,000,False,False,False,1,261
+"### | AUTO القول في حدود هذه الشروط
+",000,False,000,False,False,False,1,1867
+"### | AUTO القول في الرواية عن الخط وما فيه من بيان الضبط
+",000,False,000,False,False,False,1,876
+"### | AUTO القول في ضبط المتن ونقل الخبر بالمعنى
+",000,False,000,False,False,False,1,551
+"### | AUTO القول في انتقاد خبر الواحد بعد ثبوته عن الرسول عليه السلام مسندا أو مرسلا
+",000,False,000,False,False,False,1,1248
+"### | AUTO القول فيما يلحق الخبر بتكذيب من جهة الراوي نفسه
+",000,False,000,False,False,False,1,1060
+"### | AUTO القول في أقسام جملة الأخبار في حق العمل بها
+",000,False,000,False,False,False,1,295
+"### | AUTO القول في أقسام الصحيح من الأخبار
+",000,False,000,False,False,False,1,2219
+"### | AUTO القول في بيان المعارضة من تفسيرها وركنها وشرطها وحكمها
+",000,False,000,False,False,False,1,942
+"### | AUTO القول في بيان المخلص من المعارضات بين النصوص
+",000,False,000,False,False,False,1,1067
+"### | AUTO القول في البيان
+",000,False,000,False,False,False,1,2210
+"### | AUTO القول في النسخ تفسيرا وجوازا
+",000,False,000,False,False,False,1,655
+"### | AUTO القول في أقسام النسخ في نفسه
+",000,False,000,False,False,False,1,1308
+"### | AUTO القول في البيان ما يحتمل النسخ من الأحكام وما لا يحتمل
+",000,False,000,False,False,False,1,1077
+"### | AUTO القول فيما يجوز النسخ به
+",000,False,000,False,False,False,1,2503
+"### | AUTO القول في أفعال النبي صلى الله عليه وسلم
+",000,False,000,False,False,False,1,517
+"### | AUTO القول في شرع الرسول صلى الله عليه وسلم من تلقائه بالرأي
+",000,False,000,False,False,False,1,1066
+"### | AUTO القول في شريعة من قبلنا
+",000,False,000,False,False,False,1,866
+"### | AUTO القول في تقليد الصحابي والتابعي
+",000,False,000,False,False,False,1,825
+"### | AUTO [فصل]
+",000,False,000,False,False,False,1,114
+"### | AUTO القول في القياس
+",000,False,000,False,False,False,1,5282
+"### | AUTO القول في أقسام نفاة القياس
+",000,False,000,False,False,False,1,112
+"### | AUTO القول في بيان ما لا بد للقياس من معرفته
+",000,False,000,False,False,False,1,221
+"### | AUTO القول في بيان الشروط
+",000,False,000,False,False,False,1,4164
+"### | AUTO القول في ركن العلة
+",000,False,000,False,False,False,1,325
+"### | AUTO القول في حكم العلة
+",000,False,000,False,False,False,1,1866
+"### | AUTO القول في أسماء لا بد للقائس منها
+",000,False,000,False,False,False,1,198
+"### | AUTO القول في الأصول في أنها معلولة أم غير معلولة
+",000,False,000,False,False,False,1,863
+"### | AUTO القول في الوصف وثبوته علة يجب العمل بها
+",000,False,000,False,False,False,1,5131
+"### | AUTO القول في الاحتجاج بلا دليل
+",000,False,000,False,False,False,1,1644
+"### | AUTO القول في جملة القائلين بلا دليل مع اعتقادهم بطلان الاحتجاج به
+",000,False,000,False,False,False,1,676
+"### | AUTO القول في بيان الاعتراضات الصحيحة على العلل المؤثرة من الفاسدة
+",000,False,000,False,False,False,1,406
+"### | AUTO القول في بيان صحيح الممانعة من فاسدها
+",000,False,000,False,False,False,1,388
+"### | AUTO القول في القلب والعكس
+",000,False,000,False,False,False,1,790
+"### | AUTO القول في الموانع
+",000,False,000,False,False,False,1,424
+"### | AUTO القول في أقسام المعارضات الصحيحة والفاسدة
+",000,False,000,False,False,False,1,660
+"### | AUTO القول في بيان الترجيح
+",000,False,000,False,False,False,1,3364
+"### | AUTO القول فى المناقضة
+",000,False,000,False,False,False,1,943
+"### | AUTO القول في صحيح الاعتراضات على العلل الطردية التي لا يضلل القائل بها ويجوز العمل بها بالإجماع
+",000,False,000,False,False,False,1,99
+"### | AUTO القول بموجب العلة
+",000,False,000,False,False,False,1,6
+"### | AUTO القول بموجب العلة
+",000,False,000,False,False,False,1,675
+"### | AUTO القول في الممانعات
+",000,False,000,False,False,False,1,1126
+"### | AUTO القول في بيان فساد الوضع
+",000,False,000,False,False,False,1,1041
+"### | AUTO القول في المناقضة
+",000,False,000,False,False,False,1,561
+"### | AUTO القول في بيان الطرد الفاسد ظاهرا
+",000,False,000,False,False,False,1,885
+"### | AUTO القول في وجوه الانتقال
+",000,False,000,False,False,False,1,402
+"### | AUTO القول في الفرق بين العلة والسبب والشرط والعلامة
+",000,False,000,False,False,False,1,469
+"### | AUTO القول في أنواع السبب
+",000,False,000,False,False,False,1,1754
+"### | AUTO فصل
+",000,False,000,False,False,False,1,206
+"### | AUTO فصل
+",000,False,000,False,False,False,1,807
+"### | AUTO القول في أنواع العلل المعتبرة شرعا
+",000,False,000,False,False,False,1,473
+"### | AUTO القول في أنواع الشروط
+",000,False,000,False,False,False,1,925
+"### | AUTO القول في أنواع العلامة
+",000,False,000,False,False,False,1,73
+"### | AUTO القول في أسماء الحجج التي هي مضلة
+",000,False,000,False,False,False,1,215
+"### | AUTO القول في أقسام التقليد وما فيه من الحجة على صحته وفساده
+",000,False,000,False,False,False,1,810
+"### | AUTO القول في الإلهام
+",000,False,000,False,False,False,1,2602
+"### | AUTO القول في أقسام استصحاب الحال
+",000,False,000,False,False,False,1,510
+"### | AUTO القول في أقسام الطرد
+",000,False,000,False,False,False,1,471
+"### | AUTO القول في الاستحسان ما هو لغة؟ وحكمه؟
+",000,False,000,False,False,False,1,802
+"### | AUTO القول في صفة المجتهد في الأحكام التي تجوز الفتوى فيها بغالب الرأي
+",000,False,000,False,False,False,1,2587
+"### | AUTO القول في المخطئ من جهة المجتهدين في هذه الأبواب التي لا نص فيها
+",000,False,000,False,False,False,1,313
+"### | AUTO القول في حين أهلية الآدمي لوجوب الحقوق المشروعة عليه
+",000,False,000,False,False,False,1,918
+"### | AUTO القول في حين الخطاب شرعا
+",000,False,000,False,False,False,1,235
+"### | AUTO القول في بيان ما أسقط من الحقوق بعذر الصبي رحمة
+",000,False,000,False,False,False,1,260
+"### | AUTO فصل في بيان ما سقط من حقوق الله تعالى بأصله
+",000,False,000,False,False,False,1,2022
+"### | AUTO القول في حين صحة عبارات الصبي شرعا
+",000,False,000,False,False,False,1,760
+"### | AUTO القول في حين لزوم ما يتجدد بالشرع من الأحكام
+",000,False,000,False,False,False,1,641
+"### | AUTO باب القول في الأعذار المسقطة للوجوب بعد البلوغ
+",000,False,000,False,False,False,1,2960
+"### | AUTO القول في الحجج العقلية
+",000,False,000,False,False,False,1,509
+"### | AUTO فصل
+",000,False,000,False,False,False,1,207
+"### | AUTO فصل
+",000,False,000,False,False,False,1,1003
+"### | AUTO القول في أقسام دلائل العقل الموجبة
+",000,False,000,False,False,False,1,95
+"### | AUTO القول في مباحات العقول للحياة الدنيا
+",000,False,000,False,False,False,1,323
+"### | AUTO القول في موجبات العقول الواجبة دينا
+",000,False,000,False,False,False,1,1043
+"### | AUTO القول في محرمات العقل قطعا للدنيا
+",000,False,000,False,False,False,1,247
+"### | AUTO القول في محرمات العقل قطعا للدين
+",000,False,000,False,False,False,1,324
+"### | AUTO القول في مباحات العقول الجائزة للدنيا
+",000,False,000,False,False,False,1,1061
+"### | AUTO القول في المشروعات الدينية الجائزة بالعقول
+",000,False,000,False,False,False,1,712
+"### | AUTO القول في أحوال قلب الآدمي قبل العلم، وأحواله بعد العلم
+",000,False,000,False,False,False,1,1109

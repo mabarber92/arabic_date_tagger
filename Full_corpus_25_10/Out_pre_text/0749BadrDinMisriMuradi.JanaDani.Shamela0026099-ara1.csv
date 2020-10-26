@@ -1,0 +1,363 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | مقدمة
+",000,False,000,False,False,False,1,5
+"### | الفصل الأول
+",000,False,000,False,False,False,1,515
+"### | الفصل الثاني
+",000,False,000,False,False,False,1,235
+"### | الفصل الثالث
+",000,False,000,False,False,False,1,290
+"### | الفصل الرابع
+",000,False,000,False,False,False,1,161
+"### | الفصل الخامس
+",000,False,000,False,False,False,1,59
+"### | الباب الأول
+",000,False,000,False,False,False,1,12
+"### | الهمزة
+",000,False,000,False,False,False,1,5
+"### | التاء
+",000,False,000,False,False,False,1,2712
+"### | التاء
+",000,False,000,False,False,False,1,278
+"### | السين
+",000,False,000,False,False,False,1,172
+"### | الشين
+",000,False,000,False,False,False,1,29
+"### | الفاء
+",000,False,000,False,False,False,1,1163
+"### | مسألتان
+",000,False,000,False,False,False,1,470
+"### | الكاف
+",000,False,000,False,False,False,1,1741
+"### | اللام
+",000,False,000,False,False,False,1,734
+"### | 
+",000,False,000,False,False,False,1,0
+"### | تنبيه
+",000,False,000,False,False,False,1,527
+"### | تنبيه
+",000,False,000,False,False,False,1,233
+"### | مسألتان
+",000,False,000,False,False,False,1,648
+"### | 
+",000,False,000,False,False,False,1,0
+"### | تنبيه
+",000,False,000,False,False,False,1,822
+"### | 
+",000,False,000,False,False,False,1,0
+"### | تنبيه
+",000,False,000,False,False,False,1,225
+"### | مسألة
+",000,False,000,False,False,False,1,1106
+"### | الميم
+",000,False,000,False,False,False,1,185
+"### | النون
+",000,False,000,False,False,False,1,1050
+"### | الهاء
+",000,False,000,False,False,False,1,196
+"### | الواو
+",000,False,000,False,False,False,1,706
+"### | تنبيهات
+",000,False,000,False,False,False,1,1540
+"### | الألف
+",000,False,000,False,False,False,1,275
+"### | تنبيه
+",000,False,000,False,False,False,1,18
+"### | الياء
+",000,False,000,False,False,False,1,97
+"### | إذ
+",000,False,000,False,False,False,1,109
+"### | إذ
+",000,False,000,False,False,False,1,362
+"### | الباب الثاني
+",000,False,000,False,False,False,1,204
+"### | ال
+",000,False,000,False,False,False,1,79
+"### | 
+",000,False,000,False,False,False,1,0
+"### | تنبيه
+",000,False,000,False,False,False,1,578
+"### | أل
+",000,False,000,False,False,False,1,1152
+"### | تنبيه
+",000,False,000,False,False,False,1,15
+"### | ام 
+",000,False,000,False,False,False,1,110
+"### | أم
+",000,False,000,False,False,False,1,344
+"### | إن المكسورة الهمزة
+",000,False,000,False,False,False,1,803
+"### | أن المفتوحة الهمزة
+",000,False,000,False,False,False,1,166
+"### | 
+",000,False,000,False,False,False,1,0
+"### | تنبيه
+",000,False,000,False,False,False,1,402
+"### | تنبه
+",000,False,000,False,False,False,1,145
+"### | ا. و
+",000,False,000,False,False,False,1,41
+"### | تنبيه
+",000,False,000,False,False,False,1,359
+"### | آ
+",000,False,000,False,False,False,1,31
+"### | أو
+",000,False,000,False,False,False,1,368
+"### | آ
+",000,False,000,False,False,False,1,65
+"### | تنبيه
+",000,False,000,False,False,False,1,142
+"### | أي بفتح الهمزة
+",000,False,000,False,False,False,1,43
+"### | ذا
+",000,False,000,False,False,False,1,129
+"### | إي بكسر الهمزة
+",000,False,000,False,False,False,1,62
+"### | بل
+",000,False,000,False,False,False,1,75
+"### | تنبيه
+",000,False,000,False,False,False,1,66
+"### | عن
+",000,False,000,False,False,False,1,223
+"### | تنبيه
+",000,False,000,False,False,False,1,36
+"### | عن
+",000,False,000,False,False,False,1,261
+"### | في
+",000,False,000,False,False,False,1,20
+"### | تنبيه
+",000,False,000,False,False,False,1,268
+"### | في
+",000,False,000,False,False,False,1,49
+"### | قد
+",000,False,000,False,False,False,1,698
+"### | كم
+",000,False,000,False,False,False,1,5
+"### | قد
+",000,False,000,False,False,False,1,20
+"### | تنبيه
+",000,False,000,False,False,False,1,446
+"### | كم
+",000,False,000,False,False,False,1,330
+"### | تنبيه
+",000,False,000,False,False,False,1,95
+"### | لم
+",000,False,000,False,False,False,1,66
+"### | كي
+",000,False,000,False,False,False,1,35
+"### | لم
+",000,False,000,False,False,False,1,190
+"### | تنبيه
+",000,False,000,False,False,False,1,333
+"### | تنبيهان
+",000,False,000,False,False,False,1,167
+"### | لو
+",000,False,000,False,False,False,1,68
+"### | لن
+",000,False,000,False,False,False,1,255
+"### | لا
+",000,False,000,False,False,False,1,20
+"### | تنبيه
+",000,False,000,False,False,False,1,1339
+"### | لا
+",000,False,000,False,False,False,1,811
+"### | من
+",000,False,000,False,False,False,1,30
+"### | تنبيه
+",000,False,000,False,False,False,1,917
+"### | من
+",000,False,000,False,False,False,1,90
+"### | مع
+",000,False,000,False,False,False,1,11
+"### | مذ
+",000,False,000,False,False,False,1,9
+"### | ما
+",000,False,000,False,False,False,1,1625
+"### | ما
+",000,False,000,False,False,False,1,247
+"### | من بضم الميم
+",000,False,000,False,False,False,1,913
+"### | مسألة
+",000,False,000,False,False,False,1,1134
+"### | هل
+",000,False,000,False,False,False,1,5
+"### | ها
+",000,False,000,False,False,False,1,94
+"### | ها
+",000,False,000,False,False,False,1,163
+"### | 
+",000,False,000,False,False,False,1,0
+"### | تنبيه
+",000,False,000,False,False,False,1,415
+"### | وي
+",000,False,000,False,False,False,1,41
+"### | ، وأ
+",000,False,000,False,False,False,1,72
+"### | وا
+",000,False,000,False,False,False,1,57
+"### | ي أ
+",000,False,000,False,False,False,1,24
+"### | هو وهي وهم
+",000,False,000,False,False,False,1,146
+"### | يا
+",000,False,000,False,False,False,1,366
+"### | فائدة
+",000,False,000,False,False,False,1,191
+"### | الباب الثالث
+",000,False,000,False,False,False,1,24
+"### | أجل
+",000,False,000,False,False,False,1,3
+"### | إذن
+",000,False,000,False,False,False,1,1976
+"### | الإ
+",000,False,000,False,False,False,1,51
+"### | تنبيه
+",000,False,000,False,False,False,1,252
+"### | ألا
+",000,False,000,False,False,False,1,69
+"### | إلي
+",000,False,000,False,False,False,1,306
+"### | إلى
+",000,False,000,False,False,False,1,522
+"### | أما
+",000,False,000,False,False,False,1,71
+"### | إن
+",000,False,000,False,False,False,1,518
+"### | مسألة
+",000,False,000,False,False,False,1,442
+"### | فائدة
+",000,False,000,False,False,False,1,242
+"### | أن المفتوحة الهمزة
+",000,False,000,False,False,False,1,1467
+"### | مسألة
+",000,False,000,False,False,False,1,180
+"### | أنا وأنت وأنت
+",000,False,000,False,False,False,1,52
+"### | أي بالمد
+",000,False,000,False,False,False,1,42
+"### | أيا
+",000,False,000,False,False,False,1,54
+"### | بجل
+",000,False,000,False,False,False,1,81
+"### | بلى
+",000,False,000,False,False,False,1,352
+"### | بله
+",000,False,000,False,False,False,1,60
+"### | ثم
+",000,False,000,False,False,False,1,552
+"### | تنبيه
+",000,False,000,False,False,False,1,147
+"### | فائدة:
+",000,False,000,False,False,False,1,27
+"### | جلل
+",000,False,000,False,False,False,1,30
+"### | رب
+",000,False,000,False,False,False,1,48
+"### | جير
+",000,False,000,False,False,False,1,13
+"### | خلا
+",000,False,000,False,False,False,1,285
+"### | رب
+",000,False,000,False,False,False,1,2291
+"### | سوف
+",000,False,000,False,False,False,1,95
+"### | مسألة
+",000,False,000,False,False,False,1,84
+"### | على
+",000,False,000,False,False,False,1,29
+"### | عسى
+",000,False,000,False,False,False,1,39
+"### | عدا
+",000,False,000,False,False,False,1,287
+"### | على
+",000,False,000,False,False,False,1,11
+"### | كما
+",000,False,000,False,False,False,1,1475
+"### | لا ت
+",000,False,000,False,False,False,1,32
+"### | كما
+",000,False,000,False,False,False,1,438
+"### | لات
+",000,False,000,False,False,False,1,393
+"### | لى ت
+",000,False,000,False,False,False,1,42
+"### | فائدة
+",000,False,000,False,False,False,1,198
+"### | ليت
+",000,False,000,False,False,False,1,129
+"### | ليس
+",000,False,000,False,False,False,1,612
+"### | مسألة
+",000,False,000,False,False,False,1,73
+"### | منذ
+",000,False,000,False,False,False,1,565
+"### | متى
+",000,False,000,False,False,False,1,61
+"### | نعم
+",000,False,000,False,False,False,1,137
+"### | نحن وهما وهن
+",000,False,000,False,False,False,1,21
+"### | هيا
+",000,False,000,False,False,False,1,56
+"### | الباب الرابع
+",000,False,000,False,False,False,1,24
+"### | إذ ما
+",000,False,000,False,False,False,1,59
+"### | ألا بفتح الهمزة والتشديد
+",000,False,000,False,False,False,1,136
+"### | إلا بكسر الهمزة والتشديد
+",000,False,000,False,False,False,1,1376
+"### | أمتا بفتح الهمزة
+",000,False,000,False,False,False,1,638
+"### | إما بكسر الهمزة
+",000,False,000,False,False,False,1,682
+"### | أنتم
+",000,False,000,False,False,False,1,19
+"### | إيا في إياك وأخواته
+",000,False,000,False,False,False,1,224
+"### | أيمن المستعمل في القسم
+",000,False,000,False,False,False,1,425
+"### | حتى
+",000,False,000,False,False,False,1,785
+"### | تنبيه
+",000,False,000,False,False,False,1,911
+"### | فائدة
+",000,False,000,False,False,False,1,28
+"### | حاشا
+",000,False,000,False,False,False,1,917
+"### | كلا
+",000,False,000,False,False,False,1,29
+"### | كأن
+",000,False,000,False,False,False,1,539
+"### | كلا
+",000,False,000,False,False,False,1,77
+"### | ل، عل
+",000,False,000,False,False,False,1,563
+"### | لعل
+",000,False,000,False,False,False,1,638
+"### | لكن
+",000,False,000,False,False,False,1,496
+"### | تنبيه
+",000,False,000,False,False,False,1,137
+"### | لما
+",000,False,000,False,False,False,1,491
+"### | تنبيه
+",000,False,000,False,False,False,1,45
+"### | لولا
+",000,False,000,False,False,False,1,856
+"### | فرع
+",000,False,000,False,False,False,1,278
+"### | لوما
+",000,False,000,False,False,False,1,72
+"### | مهما
+",000,False,000,False,False,False,1,347
+"### | هلا
+",000,False,000,False,False,False,1,94
+"### | الباب الخامس
+",000,False,000,False,False,False,1,20
+"### | لكن
+",000,False,000,False,False,False,1,9
+"### | : أنتما، وأنتن، 
+",000,False,000,False,False,False,1,461
+"### | أنتما وأنتن
+",000,False,000,False,False,False,1,133

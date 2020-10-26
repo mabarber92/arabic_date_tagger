@@ -1,0 +1,1413 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK مقدمة الكتاب
+",000,False,000,False,False,False,1,8807
+"### | AUTO الكتاب الأول في الطهارات
+",000,False,000,False,False,False,1,100952
+"### || CHECK باب في الكلام على الاستنجاء
+",000,False,000,False,False,False,2,3417
+"### || CHECK باب في الوضوء
+",000,False,000,False,False,False,2,5412
+"### || CHECK باب فيما يرفع به الحدث وحكم الخبث
+",000,False,000,False,False,False,2,4410
+"### || CHECK فصل غسل إناء ولغ فيه كلب
+",000,False,000,False,False,False,2,1035
+"### || CHECK باب في نواقض الوضوء
+",000,False,000,False,False,False,2,2679
+"### || CHECK فصل اتقاء حذر شخص على نفسه أو على ما يؤدي تلفه لتلفها
+",000,False,000,False,False,False,2,3909
+"### || AUTO باب في غسل الجنابة
+",000,False,000,False,False,False,2,1947
+"### || CHECK باب في موجبات الاغتسال
+",000,False,000,False,False,False,2,1360
+"### || CHECK فصل المني والمذي والوذي
+",000,False,000,False,False,False,2,1426
+"### || CHECK باب في الحيض
+",000,False,000,False,False,False,2,1208
+"### || AUTO فصل الدماء الخارجة من الرحم ثلاثة
+",000,False,000,False,False,False,2,4113
+"### || CHECK فصل في علامات الطهر
+",000,False,000,False,False,False,2,1529
+"### || CHECK باب في الانتقال من الحيض للطهر
+",000,False,000,False,False,False,2,10275
+"### || AUTO فصل في البناء والأصول
+",000,False,000,False,False,False,2,3689
+"### || CHECK فصل في الاعتداد بالحيض
+",000,False,000,False,False,False,2,2061
+"### || CHECK فصل في الانتظار وهو التوقع والتوقع يكون في الخير والشر
+",000,False,000,False,False,False,2,1879
+"### || CHECK فصل في الانتساب
+",000,False,000,False,False,False,2,2046
+"### || CHECK فصل في الطلوع والنزول
+",000,False,000,False,False,False,2,3942
+"### || CHECK فصل تشابه وقتها في الحيض لخلل
+",000,False,000,False,False,False,2,1449
+"### || CHECK فصل في أحكام النفاس
+",000,False,000,False,False,False,2,1693
+"### || AUTO باب في أحكام الحيض والاستحاضة
+",000,False,000,False,False,False,2,2973
+"### || AUTO فائدة قضاء الحائض والنفساء الصوم
+",000,False,000,False,False,False,2,587
+"### || CHECK باب في التيمم
+",000,False,000,False,False,False,2,2263
+"### || CHECK باب من يباح له التيمم
+",000,False,000,False,False,False,2,1573
+"### || CHECK باب في شرط التيمم
+",000,False,000,False,False,False,2,3527
+"### || CHECK باب في كيفية التيمم
+",000,False,000,False,False,False,2,1133
+"### || CHECK فصل التيمم بتراب نقي نظيف طاهر منبت
+",000,False,000,False,False,False,2,1722
+"### || AUTO باب في ناقض التيمم
+",000,False,000,False,False,False,2,1402
+"### || AUTO باب في أحكام النجس
+",000,False,000,False,False,False,2,1112
+"### || AUTO باب في ذات النجس
+",000,False,000,False,False,False,2,105
+"### || CHECK باب أنواع النجاسة وأعيانها
+",000,False,000,False,False,False,2,8802
+"### || CHECK باب في كيفية التنجيس
+",000,False,000,False,False,False,2,1742
+"### || CHECK باب في مزيل النجس وكيفية الإزالة
+",000,False,000,False,False,False,2,2106
+"### || CHECK فصل في كيفية التطهير
+",000,False,000,False,False,False,2,2008
+"### || CHECK فصل في الإزالة بالمسح
+",000,False,000,False,False,False,2,1456
+"### | AUTO الكتاب الثاني في الصلاة ووظائفها
+",000,False,000,False,False,False,1,120662
+"### || CHECK باب في الأوقات
+",000,False,000,False,False,False,2,2632
+"### || CHECK باب في الأذان
+",000,False,000,False,False,False,2,1961
+"### || AUTO باب في الإقامة
+",000,False,000,False,False,False,2,984
+"### || AUTO باب في اللباس
+",000,False,000,False,False,False,2,2245
+"### || CHECK فصل في صفة اللباس
+",000,False,000,False,False,False,2,1881
+"### || CHECK فصل يصلي بثوب وإن كان نجسا أو حريرا
+",000,False,000,False,False,False,2,1896
+"### || CHECK باب سنت الصلاة على الأرض وما أنبتت
+",000,False,000,False,False,False,2,2050
+"### || CHECK فائدة في الصلاة على السقوف
+",000,False,000,False,False,False,2,472
+"### || CHECK باب في الاستقبال
+",000,False,000,False,False,False,2,1646
+"### || CHECK باب في السترة
+",000,False,000,False,False,False,2,2705
+"### || AUTO باب في القيام في الصلاة
+",000,False,000,False,False,False,2,653
+"### || CHECK فائدة يرمي المصلي بنظره نحو سجوده
+",000,False,000,False,False,False,2,130
+"### || CHECK فصل في صلاة العليل
+",000,False,000,False,False,False,2,2782
+"### || AUTO باب في التوجيه
+",000,False,000,False,False,False,2,1487
+"### || CHECK فصل في الاستعاذة
+",000,False,000,False,False,False,2,1369
+"### || CHECK باب في الإحرام
+",000,False,000,False,False,False,2,1607
+"### || CHECK باب في القراءة
+",000,False,000,False,False,False,2,1523
+"### || CHECK فصل يسر ms0494 بالقراءة في ظهر وعصر وآخرة مغرب وآخرتين
+",000,False,000,False,False,False,2,2207
+"### || AUTO فصل ينبغي السكوت بين الإحرام والقراءة
+",000,False,000,False,False,False,2,1510
+"### || AUTO باب في الركوع
+",000,False,000,False,False,False,2,2241
+"### || AUTO باب في السجود
+",000,False,000,False,False,False,2,2758
+"### || CHECK فائدة من لم يقدر على السجود على الجبهة
+",000,False,000,False,False,False,2,904
+"### || CHECK فائدة وضع يده على يد غيره في الصلاة
+",000,False,000,False,False,False,2,25
+"### || CHECK باب في التحيات
+",000,False,000,False,False,False,2,1672
+"### || CHECK فصل في تعمد ترك التحيات
+",000,False,000,False,False,False,2,2957
+"### || AUTO فصل في التسليم
+",000,False,000,False,False,False,2,943
+"### || AUTO باب في صلاة الجماعة
+",000,False,000,False,False,False,2,1391
+"### || CHECK فصل في ترتيب الأئمة
+",000,False,000,False,False,False,2,3346
+"### || AUTO فصل سن تقديم الأفضل في المجامع
+",000,False,000,False,False,False,2,4470
+"### || CHECK فائدة لا ضير بصلاة فذ وحده يسمع الإمام
+",000,False,000,False,False,False,2,317
+"### || CHECK فصل في إصلاح الفساد في الصلاة
+",000,False,000,False,False,False,2,1391
+"### || CHECK فصل أحدث الإمام بما لا يبني معه مما يفسدها
+",000,False,000,False,False,False,2,506
+"### || AUTO فصل يجب اتباع الإمام في الأقوال غير سمع الله لمن حمده
+",000,False,000,False,False,False,2,1718
+"### || CHECK باب في تنبيه الإمام في الصلاة
+",000,False,000,False,False,False,2,2512
+"### || CHECK فصل في الاستخلاف
+",000,False,000,False,False,False,2,3450
+"### || CHECK تنبيه لم يعلم الخليفة أين كان الإمام
+",000,False,000,False,False,False,2,142
+"### || CHECK فصل استخلاف مقيم لمسافر
+",000,False,000,False,False,False,2,1103
+"### || CHECK تنبيه صلى بمسافرين ركعة ثم استخلف مقيما
+",000,False,000,False,False,False,2,1998
+"### || CHECK تتمة أحرم وقد ركع الإمام
+",000,False,000,False,False,False,2,111
+"### || AUTO فصل الاستدراك وجهان
+",000,False,000,False,False,False,2,2427
+"### || CHECK باب في صلاة الجمعة
+",000,False,000,False,False,False,2,832
+"### || CHECK فصل شروط الجمعة
+",000,False,000,False,False,False,2,1489
+"### || CHECK باب صفة أداء صلاة الجمعة
+",000,False,000,False,False,False,2,774
+"### || CHECK فصل ما يسن للإمام قبل الجمعة
+",000,False,000,False,False,False,2,1259
+"### || CHECK فصل الإنصات للخطبة
+",000,False,000,False,False,False,2,1197
+"### || CHECK تتمة انتظروا الإمام وجاء وصلى بلا إعادة خطبة
+",000,False,000,False,False,False,2,249
+"### || CHECK خاتمة مسنونات الجمعة
+",000,False,000,False,False,False,2,359
+"### || CHECK باب صلاة السفر
+",000,False,000,False,False,False,2,1674
+"### || AUTO باب فرض اتخاذ الوطن عند حضور الصلاة
+",000,False,000,False,False,False,2,2758
+"### || AUTO فصل ندب اتخاذه ببلد لا يخرج منه إلا بعدو
+",000,False,000,False,False,False,2,2388
+"### || AUTO باب في كيفية اتخاذ الوطن
+",000,False,000,False,False,False,2,2007
+"### || AUTO باب في القران
+",000,False,000,False,False,False,2,1637
+"### || CHECK باب في صلاة الخوف
+",000,False,000,False,False,False,2,961
+"### || CHECK باب في سجود السهو
+",000,False,000,False,False,False,2,3026
+"### || CHECK باب في نواقض الصلاة
+",000,False,000,False,False,False,2,2135
+"### || CHECK فصل الأفعال الناقضة للصلاة
+",000,False,000,False,False,False,2,2806
+"### || CHECK فصل ما يسوغ التحول معه أثناء الصلاة
+",000,False,000,False,False,False,2,4615
+"### || CHECK فصل ينقض الصلاة سكون كقيام أو قعود فارغ قدر عمل مستقبل
+",000,False,000,False,False,False,2,2595
+"### || AUTO فصل صلاة امرأة بمخدعها
+",000,False,000,False,False,False,2,2252
+"### || CHECK باب في القضاء للصلاة
+",000,False,000,False,False,False,2,4787
+"### || AUTO باب في صلاة السنن
+",000,False,000,False,False,False,2,1569
+"### || CHECK باب في سجود التلاوة
+",000,False,000,False,False,False,2,1849
+"### || CHECK باب في قيام رمضان
+",000,False,000,False,False,False,2,2925
+"### || CHECK باب في صلاة العيدين
+",000,False,000,False,False,False,2,2775
+"### || CHECK باب في صلاة العلامة
+",000,False,000,False,False,False,2,961
+"### || CHECK خاتمة في النفل
+",000,False,000,False,False,False,2,1145
+"### | AUTO الكتاب الثالث في الجنائز
+",000,False,000,False,False,False,1,1705
+"### | AUTO باب في غسل الميت
+",000,False,000,False,False,False,1,27653
+"### || CHECK فصل من يتولى غسله
+",000,False,000,False,False,False,2,936
+"### || CHECK باب في كيفية غسل الميت
+",000,False,000,False,False,False,2,3441
+"### || AUTO باب في التكفين
+",000,False,000,False,False,False,2,4142
+"### || AUTO باب في حمل الجنازة والسير بها
+",000,False,000,False,False,False,2,1818
+"### || AUTO باب في الصلاة على الميت
+",000,False,000,False,False,False,2,1360
+"### || CHECK فصل في ترتيب المصلين على الميت
+",000,False,000,False,False,False,2,1014
+"### || CHECK فصل في وضع الجنازة
+",000,False,000,False,False,False,2,2084
+"### || AUTO باب وجب على الكفاية حفر قبر لميت ودفنه فيه
+",000,False,000,False,False,False,2,3157
+"### || CHECK فصل كيفية دفن الميت
+",000,False,000,False,False,False,2,2336
+"### || CHECK باب تجهيز الميت
+",000,False,000,False,False,False,2,1760
+"### | AUTO الكتاب الرابع في الزكاة
+",000,False,000,False,False,False,1,66469
+"### || AUTO باب في مقدار ما تجب به الزكاة
+",000,False,000,False,False,False,2,2125
+"### || AUTO باب في كمية زكاة الحبوب
+",000,False,000,False,False,False,2,1221
+"### || AUTO باب في وقت وجوب الزكاة في الحبوب الستة
+",000,False,000,False,False,False,2,3897
+"### || CHECK فصل حرث لغيره بغير أمره فجوز له
+",000,False,000,False,False,False,2,3496
+"### || CHECK باب في زكاة النقدين
+",000,False,000,False,False,False,2,2987
+"### || CHECK فصل هل يزكى الحلي على ما جعل فيه أو على
+",000,False,000,False,False,False,2,728
+"### || CHECK باب استقرار الملك شرط في الزكاة
+",000,False,000,False,False,False,2,856
+"### || CHECK فصل فرض لمتزوجة عين تتم فيه الزكاة أو لا تتم
+",000,False,000,False,False,False,2,2639
+"### || CHECK باب استكمال الحول شرط في زكاة النقدين والأنعام
+",000,False,000,False,False,False,2,3860
+"### || CHECK باب في التوقيت
+",000,False,000,False,False,False,2,3120
+"### || CHECK باب في زكاة العروض
+",000,False,000,False,False,False,2,2607
+"### || CHECK فصل هل على المقارض زكاة
+",000,False,000,False,False,False,2,3787
+"### || CHECK باب في زكاة الغنم
+",000,False,000,False,False,False,2,4293
+"### || AUTO فصل في الفائدة وثبوت الوقت وزواله
+",000,False,000,False,False,False,2,2426
+"### || CHECK فصل في ثبوت الوقت وانتقاضه أيضا وغير ذلك
+",000,False,000,False,False,False,2,2382
+"### || CHECK باب فيما يعطى في زكاة الغنم
+",000,False,000,False,False,False,2,1440
+"### || CHECK باب في زكاة الإبل
+",000,False,000,False,False,False,2,940
+"### || CHECK باب في زكاة البقر
+",000,False,000,False,False,False,2,983
+"### || CHECK باب فيمن تعطى له الزكاة وما يتفرع على ذلك
+",000,False,000,False,False,False,2,4511
+"### || CHECK باب في دفع الزكاة وكم يعطى منها إنسان
+",000,False,000,False,False,False,2,1372
+"### || CHECK فصل للإمام شراء دواب وعبيد وعدة من الزكاة
+",000,False,000,False,False,False,2,4282
+"### || CHECK باب الوكالة والخلافة في دفع الزكاة
+",000,False,000,False,False,False,2,3151
+"### || CHECK باب الاستخلاف في أخذ الزكاة
+",000,False,000,False,False,False,2,1859
+"### || CHECK تتمة إذا انقطعت الإمامة وحدث إمام انتظر حولا وأخذ
+",000,False,000,False,False,False,2,104
+"### || CHECK تتمة ترك الزكاة ms1138 سنين
+",000,False,000,False,False,False,2,47
+"### || CHECK تتمة إعطاء الزكاة لإنسان واحد
+",000,False,000,False,False,False,2,311
+"### || CHECK باب في زكاة الفطر
+",000,False,000,False,False,False,2,1919
+"### || CHECK خاتمة هل تجب زكاة الفطر بغروب آخر رمضان أو بطلوع فجر الفطر
+",000,False,000,False,False,False,2,475
+"### | AUTO الكتاب الخامس في الصوم
+",000,False,000,False,False,False,1,34684
+"### || CHECK تتمة قال السلطان صح ms1167 عندي هلال الصوم أو الإفطار
+",000,False,000,False,False,False,2,6116
+"### || CHECK باب في مبيحات الإفطار
+",000,False,000,False,False,False,2,5318
+"### || AUTO باب في القضاء وحكمه دون الأداء في الصوم
+",000,False,000,False,False,False,2,2405
+"### || AUTO باب أبيح لكبير لا يطيق صوما أن يفطر
+",000,False,000,False,False,False,2,1926
+"### || AUTO باب فيمن لا يجوز له الإفطار
+",000,False,000,False,False,False,2,7368
+"### || CHECK باب الصوم المندوب
+",000,False,000,False,False,False,2,804
+"### || CHECK فصل صوم عاشوراء
+",000,False,000,False,False,False,2,830
+"### || CHECK باب الاعتكاف
+",000,False,000,False,False,False,2,1914
+"### || CHECK جامعة لا عذر بالحياء في تأخير الغسل للصائم
+",000,False,000,False,False,False,2,3807
+"### | AUTO الكتاب السادس في الحج
+",000,False,000,False,False,False,1,58439
+"### || CHECK باب فيما يفعل مريد الحج عند خروجه
+",000,False,000,False,False,False,2,2132
+"### || CHECK باب في ms1304 المواقيت في الحج
+",000,False,000,False,False,False,2,2358
+"### || CHECK باب في كيفية الإحرام
+",000,False,000,False,False,False,2,1782
+"### || AUTO فصل المحرم إما مفرد بحج أو متمتع بعمرة أو قارن بهما
+",000,False,000,False,False,False,2,3080
+"### || CHECK باب فيما لا يفعله المحرم
+",000,False,000,False,False,False,2,3980
+"### || CHECK فصل ما يمنع المحرم منه
+",000,False,000,False,False,False,2,1412
+"### || CHECK فصل منع المحرم أيضا من الوطء
+",000,False,000,False,False,False,2,5311
+"### || CHECK باب للمحرم أن يحتجم وإن في الحرم
+",000,False,000,False,False,False,2,1264
+"### || CHECK باب كيفية دخول مكة
+",000,False,000,False,False,False,2,2132
+"### || AUTO فصل أصل الطواف
+",000,False,000,False,False,False,2,2055
+"### || CHECK باب في السعي
+",000,False,000,False,False,False,2,1136
+"### || AUTO فصل أصل السعي
+",000,False,000,False,False,False,2,1034
+"### || AUTO فصل ندب لمريد الخروج لمنى والإحرام بحج أن يغتسل ويلبس ثوبي
+",000,False,000,False,False,False,2,1280
+"### || CHECK فصل سمي يوم التروية وعرفة بذلك لسبب
+",000,False,000,False,False,False,2,3843
+"### || CHECK فصل يقول آت جمعا اللهم إن هذه جمع فاجمع لي فيها
+",000,False,000,False,False,False,2,1701
+"### || AUTO باب في الرمي والحلق والذبيحة وغير ذلك
+",000,False,000,False,False,False,2,1173
+"### || AUTO فصل إذا ذبحت فاحلق وخذ من شاربك
+",000,False,000,False,False,False,2,4565
+"### || AUTO فصل يعم البدن إبلا وبقرا
+",000,False,000,False,False,False,2,1877
+"### || CHECK فصل الحلق أو التقصير بعد النحر
+",000,False,000,False,False,False,2,2493
+"### || CHECK باب في فوات الحج ms1454 وغير ذلك
+",000,False,000,False,False,False,2,6799
+"### | AUTO الكتاب السابع في الأيمان والكفارات
+",000,False,000,False,False,False,1,30373
+"### || CHECK باب في الاستثناء في اليمين
+",000,False,000,False,False,False,2,1314
+"### || CHECK باب في معرفة موجب الحنث في الأيمان على المستقبل
+",000,False,000,False,False,False,2,6060
+"### || CHECK فصل حنثت حالفة على لباس حلي بلؤلؤ وياقوت ونحوهما
+",000,False,000,False,False,False,2,3004
+"### || CHECK فصل حلف لا يكلم رجلا فكتب إليه كتابا
+",000,False,000,False,False,False,2,1547
+"### || CHECK فصل حلف لا يأكل فاكهة ولا نية له
+",000,False,000,False,False,False,2,4101
+"### || CHECK فصل الحلف لمكره اتقاء إن خاف قتلا أو ضربا عنيفا
+",000,False,000,False,False,False,2,1798
+"### || CHECK باب في الكفارات
+",000,False,000,False,False,False,2,3330
+"### || CHECK فصل لا يصوم كفارة مالك عشرين درهما
+",000,False,000,False,False,False,2,1288
+"### | CHECK باب في النذر
+",000,False,000,False,False,False,1,4373
+"### || AUTO فصل المنذور به إما طاعة أو معصية أو مباح
+",000,False,000,False,False,False,2,1039
+"### | AUTO الكتاب الثامن في الذبائح
+",000,False,000,False,False,False,1,24582
+"### || CHECK فصل لا تؤكل ذبيحة إن حدث بها أي فيها من غيرها
+",000,False,000,False,False,False,2,2971
+"### || AUTO فصل ذكاة الجنين ذكاة أمه
+",000,False,000,False,False,False,2,1326
+"### || CHECK باب شرط الذكاة التسمية والنية
+",000,False,000,False,False,False,2,2544
+"### || CHECK باب فيما تصح به الذكاة
+",000,False,000,False,False,False,2,1052
+"### || CHECK فصل فيمن تحرم ذكاته
+",000,False,000,False,False,False,2,2270
+"### || CHECK باب في ذكاة الصيد
+",000,False,000,False,False,False,2,1776
+"### || CHECK فصل تعلم جارحة حتى تدعى فتجيب وتزجر فتنزجر
+",000,False,000,False,False,False,2,3847
+"### || CHECK فرع رمى إلى صيد كثير ولم يقصد واحدا وقد سمى
+",000,False,000,False,False,False,2,60
+"### || AUTO فصل صائد البر كالذابح جوازا ومنعا
+",000,False,000,False,False,False,2,989
+"### || AUTO فصل ذكاة صيد البحر
+",000,False,000,False,False,False,2,1068
+"### || CHECK خاتمة في النسيكة
+",000,False,000,False,False,False,2,1648
+"### | AUTO الكتاب التاسع في الحقوق
+",000,False,000,False,False,False,1,85840
+"### || CHECK باب في حقوق الولد
+",000,False,000,False,False,False,2,1969
+"### || CHECK باب في صلة الأرحام
+",000,False,000,False,False,False,2,4210
+"### || CHECK باب في حق اليتيم
+",000,False,000,False,False,False,2,2044
+"### || CHECK فصل لقائم يتيم وإن أمه أن يبيع من أصله
+",000,False,000,False,False,False,2,5169
+"### || CHECK فصل رأى قادر مال مسلم أشرف على تلفه
+",000,False,000,False,False,False,2,3162
+"### || CHECK باب في حق الجار
+",000,False,000,False,False,False,2,4234
+"### || AUTO فصل من حق الجار أن تقرضه إذا طلبك
+",000,False,000,False,False,False,2,5516
+"### || AUTO فصل تلزم الذواقة رب المال كزوجة وزوج
+",000,False,000,False,False,False,2,670
+"### || AUTO باب في حق الصاحب
+",000,False,000,False,False,False,2,4110
+"### || CHECK باب في حقوق المسلمين
+",000,False,000,False,False,False,2,2533
+"### || CHECK باب في حق ابن السبيل
+",000,False,000,False,False,False,2,2224
+"### || AUTO فصل تلزم الضيافة المشركين
+",000,False,000,False,False,False,2,997
+"### || CHECK فصل تجب الضيافة لمحتاج
+",000,False,000,False,False,False,2,1004
+"### || CHECK فصل لا يحقر الضيف ما قدم له
+",000,False,000,False,False,False,2,402
+"### || CHECK باب في حق العبيد
+",000,False,000,False,False,False,2,1618
+"### || CHECK باب في حق السيد على عبده
+",000,False,000,False,False,False,2,1571
+"### || AUTO باب في أمر المسجد
+",000,False,000,False,False,False,2,4364
+"### || CHECK فصل لزم مفسدا في المسجد وإن بلا عمد إصلاحه
+",000,False,000,False,False,False,2,2022
+"### || AUTO فصل يجعل لحيطانه وعمده وسقوفه من مال جعل له
+",000,False,000,False,False,False,2,4356
+"### || CHECK فصل لقائم مسجد أن يتسلف ما يصلح له
+",000,False,000,False,False,False,2,1465
+"### || AUTO فصل من حق مسجد على أهله اتخاذ مؤذن له أمين
+",000,False,000,False,False,False,2,2569
+"### || CHECK فصل طهرت نزهت المساجد من أن تقام فيها الحدود
+",000,False,000,False,False,False,2,4690
+"### || CHECK تنبيه الأكل والنوم في داخل المسجد أو ظهره
+",000,False,000,False,False,False,2,79
+"### || CHECK تنبيه وقف نخلة في رمضان أو غيره فلم يوجد من يأكلها
+",000,False,000,False,False,False,2,42
+"### || CHECK تنبيه احتسب في مال مسجد وتركه بعد
+",000,False,000,False,False,False,2,18
+"### || CHECK تنبيه حق المنزل
+",000,False,000,False,False,False,2,134
+"### || CHECK فصل التصافح في المسجد
+",000,False,000,False,False,False,2,768
+"### || CHECK باب في الزيارة
+",000,False,000,False,False,False,2,705
+"### || CHECK باب في المجلس وحقه
+",000,False,000,False,False,False,2,2691
+"### || CHECK باب في حق الأيام
+",000,False,000,False,False,False,2,1504
+"### || CHECK باب في السلام
+",000,False,000,False,False,False,2,4144
+"### || CHECK تنبيهات يجزي وعليكم السلام ردا على من قال السلام
+",000,False,000,False,False,False,2,126
+"### || AUTO باب في الاستئذان
+",000,False,000,False,False,False,2,1466
+"### || CHECK باب في كيفية الاستئذان والدخول
+",000,False,000,False,False,False,2,3529
+"### || CHECK باب فيما يجب فيه الاستئذان وما لا يجب فيه
+",000,False,000,False,False,False,2,2836
+"### || CHECK خاتمة استئذان الرجل في بيته
+",000,False,000,False,False,False,2,449
+"### | AUTO الكتاب العاشر في النكاح
+",000,False,000,False,False,False,1,151269
+"### || CHECK باب فيمن يرغب فيها أو عنها
+",000,False,000,False,False,False,2,1188
+"### || AUTO باب فيمن تحرم
+",000,False,000,False,False,False,2,2181
+"### || CHECK باب فيمن يحرم الجمع بينهما وما يمنع من تزوج المرأة
+",000,False,000,False,False,False,2,3953
+"### || CHECK باب آخر في ذلك حرم على الرجل نكاح مزنيته
+",000,False,000,False,False,False,2,1834
+"### || CHECK باب في الخطبة
+",000,False,000,False,False,False,2,4096
+"### || CHECK باب في التعريض
+",000,False,000,False,False,False,2,1539
+"### || CHECK باب في الهدية على التزويج
+",000,False,000,False,False,False,2,2052
+"### || CHECK باب في الإشهاد على النكاح
+",000,False,000,False,False,False,2,3109
+"### || CHECK باب في الأولياء
+",000,False,000,False,False,False,2,5031
+"### || CHECK باب في رضى المرأة وإنكارها
+",000,False,000,False,False,False,2,4965
+"### || CHECK باب في الصداق
+",000,False,000,False,False,False,2,3686
+"### || CHECK فصل اتجرت بمعلوم فربحت ثم مست فإذا هي محرمته
+",000,False,000,False,False,False,2,2146
+"### || AUTO باب في نقد الصداق وتأخيره
+",000,False,000,False,False,False,2,3873
+"### || CHECK باب أصدق لها مكيلا أو موزونا
+",000,False,000,False,False,False,2,4417
+"### || CHECK باب تزوج وأصدق فحلف بطلاقها أن يفعل كذا
+",000,False,000,False,False,False,2,5855
+"### || CHECK باب في الأمارة في التزوج والخلافة
+",000,False,000,False,False,False,2,5720
+"### || CHECK باب في القرن في الأمر
+",000,False,000,False,False,False,2,1479
+"### || AUTO باب في عقد النكاح
+",000,False,000,False,False,False,2,6313
+"### || CHECK فصل جرح رجل امرأة أو جرحته ثم تزوجا
+",000,False,000,False,False,False,2,1845
+"### || CHECK باب في الشرط في النكاح
+",000,False,000,False,False,False,2,2808
+"### || CHECK باب في نكاح المشركين إذا أسلموا
+",000,False,000,False,False,False,2,3939
+"### || CHECK فصل ارتد إلى الشرك وترك زوجة بالإسلام ثم رجع إليه
+",000,False,000,False,False,False,2,2072
+"### || CHECK باب في نكاح المتعة والشغار
+",000,False,000,False,False,False,2,1807
+"### || CHECK باب في نكاح المماليك
+",000,False,000,False,False,False,2,3340
+"### || AUTO فصل جاز لعبد نكاح امرأتين
+",000,False,000,False,False,False,2,6430
+"### || CHECK باب نكاح الطفل والمجنون
+",000,False,000,False,False,False,2,5286
+"### || CHECK باب في العيب
+",000,False,000,False,False,False,2,4135
+"### || CHECK فصل زني بامرأة قهرا أو برضى ثم خطبت بعدته
+",000,False,000,False,False,False,2,3250
+"### || CHECK باب في الدعوة في النكاح
+",000,False,000,False,False,False,2,4147
+"### || CHECK باب في المسيس وما ألحق به
+",000,False,000,False,False,False,2,2070
+"### || CHECK باب فيما يبطل الصداق
+",000,False,000,False,False,False,2,2808
+"### || CHECK باب فيما يحرم المرأة أو يبينها
+",000,False,000,False,False,False,2,2610
+"### || CHECK باب في حق الزوجين
+",000,False,000,False,False,False,2,2441
+"### || CHECK باب فيما تحتاجه المرأة
+",000,False,000,False,False,False,2,4015
+"### || AUTO باب في العدل بين النساء
+",000,False,000,False,False,False,2,3057
+"### || CHECK باب في التسري
+",000,False,000,False,False,False,2,4415
+"### || CHECK فائدة يميز الفسخ عن الثبوت تارة كاختلال شرط في بيع
+",000,False,000,False,False,False,2,6430
+"### || CHECK باب في الرضاع
+",000,False,000,False,False,False,2,4596
+"### || CHECK باب في الفقد وهو انقطاع خبر الإنسان مع إمكان الكشف
+",000,False,000,False,False,False,2,2482
+"### || CHECK فصل المدة التي يحكم فيها على الغائب بالموت
+",000,False,000,False,False,False,2,3294
+"### || CHECK باب في التخيير للمفقود وغير ذلك
+",000,False,000,False,False,False,2,2592
+"### || CHECK فصل في من فقد عن زوجة ثم تزوجت غيره
+",000,False,000,False,False,False,2,1895
+"### | CHECK باب في الظهار
+",000,False,000,False,False,False,1,19041
+"### || CHECK باب في العتق عن الظهار
+",000,False,000,False,False,False,2,3431
+"### || CHECK فصل وصح عتق لمعتق رقاب أربع عن أربع
+",000,False,000,False,False,False,2,1783
+"### || AUTO باب في الصوم عن الظهار
+",000,False,000,False,False,False,2,3085
+"### | CHECK باب في الإيلاء
+",000,False,000,False,False,False,1,15697
+"### || AUTO باب من حلف بطلاق امرأته أن يفعل كذا ولم يفعل حتى مضت
+",000,False,000,False,False,False,2,3829
+"### || AUTO فصل من حلف بالطلاق أن يأكل ما في وعاء معين
+",000,False,000,False,False,False,2,4571
+"### | AUTO باب في الفداء
+",000,False,000,False,False,False,1,19856
+"### || CHECK باب في الخلع
+",000,False,000,False,False,False,2,6579
+"### || AUTO باب في مراجعة الفداء
+",000,False,000,False,False,False,2,3816
+"### | CHECK باب في الإحصان
+",000,False,000,False,False,False,1,2184
+"### | CHECK باب في اللعان
+",000,False,000,False,False,False,1,5734
+"### | CHECK باب في المتعة
+",000,False,000,False,False,False,1,2406
+"### | CHECK باب ms2755 في نفقة المطلقة
+",000,False,000,False,False,False,1,4482
+"### | AUTO باب في العدة
+",000,False,000,False,False,False,1,6223
+"### || AUTO فائدة تتزين الرجعية لزوجها ولا تخرج من بيتها
+",000,False,000,False,False,False,2,382
+"### | CHECK باب في الطلاق
+",000,False,000,False,False,False,1,18897
+"### || AUTO باب في إفراد من الطلاق
+",000,False,000,False,False,False,2,4140
+"### || CHECK باب إن قال أنت طالق إن كلمت فلانا وفلانا وفلانا
+",000,False,000,False,False,False,2,2490
+"### || CHECK باب في طلاق المريض ونحوه
+",000,False,000,False,False,False,2,2572
+"### || CHECK باب في اليمين بالطلاق وطلاق الإجبار
+",000,False,000,False,False,False,2,1138
+"### || AUTO خاتمة في ضروب من الطلاق
+",000,False,000,False,False,False,2,4697
+"### | AUTO الكتاب الحادي عشر في البيوع
+",000,False,000,False,False,False,1,285406
+"### || CHECK باب في بيع المحرمات وبعض ما نهي عنه وغير ذلك
+",000,False,000,False,False,False,2,2562
+"### || CHECK النهي عن بيع فضل الماء
+",000,False,000,False,False,False,2,692
+"### || CHECK مباحث الربا
+",000,False,000,False,False,False,2,4632
+"### || CHECK فصل في النهي عن المزابنة
+",000,False,000,False,False,False,2,311
+"### || CHECK النهي عن المحاقلة
+",000,False,000,False,False,False,2,621
+"### || CHECK النهي عن بيع طعام قبل قبضه
+",000,False,000,False,False,False,2,179
+"### || CHECK النهي عن بيع ما لم تقبض وربح ما لم تضمن
+",000,False,000,False,False,False,2,2134
+"### || CHECK النهى عن بيع الاقتباس
+",000,False,000,False,False,False,2,333
+"### || CHECK النهي عن اجتماع بيع وسلف
+",000,False,000,False,False,False,2,414
+"### || CHECK باب في الذرائع
+",000,False,000,False,False,False,2,812
+"### || CHECK النهي عن بيع التذرع
+",000,False,000,False,False,False,2,2022
+"### || CHECK الإقالة في البيع
+",000,False,000,False,False,False,2,1727
+"### || CHECK النهي عن بيع نهي الغرر
+",000,False,000,False,False,False,2,301
+"### || CHECK النهي عن بيع الملامسة
+",000,False,000,False,False,False,2,461
+"### || CHECK النهي عن بيع المنابذة
+",000,False,000,False,False,False,2,478
+"### || CHECK النهي عن بيع حبل الحبلة
+",000,False,000,False,False,False,2,797
+"### || CHECK النهي عن بيع ms2933 تمرة وشرائها حتى تزهو
+",000,False,000,False,False,False,2,5532
+"### || CHECK النهي عن شرط في بيع
+",000,False,000,False,False,False,2,2680
+"### || CHECK باب في الشرط والاستثناء
+",000,False,000,False,False,False,2,1966
+"### || CHECK النهي عن بيع العربان
+",000,False,000,False,False,False,2,227
+"### || CHECK النهي عن بيع الثنيا
+",000,False,000,False,False,False,2,2762
+"### || CHECK النهي لضرر يقع على المشتري أو البائع
+",000,False,000,False,False,False,2,362
+"### || CHECK النهي عن تلقي الركبان
+",000,False,000,False,False,False,2,221
+"### || AUTO النهي عن بيع حاضر لباد
+",000,False,000,False,False,False,2,58
+"### || CHECK النهي عن الاحتكار في بلد فيه موحدون
+",000,False,000,False,False,False,2,200
+"### || CHECK النهي عن الغش والخديعة
+",000,False,000,False,False,False,2,3637
+"### || CHECK فصل النهي عن النجش
+",000,False,000,False,False,False,2,1662
+"### || AUTO بيع المحفلات خلابة
+",000,False,000,False,False,False,2,275
+"### || AUTO نهي عن إيهام المسلم وغرره
+",000,False,000,False,False,False,2,9
+"### || AUTO نهي عن إيهام المسلم وغرره
+",000,False,000,False,False,False,2,148
+"### || CHECK الخيار للمشتري ثلاثة أيام
+",000,False,000,False,False,False,2,1943
+"### || CHECK النهي عن البيع بالمسجد
+",000,False,000,False,False,False,2,100
+"### || CHECK النهي عن بيع وشراء وقت النداء الأول لصلاة الظهر
+",000,False,000,False,False,False,2,454
+"### || CHECK باب في ما ينعقد به البيع من الألفاظ وما يتصل
+",000,False,000,False,False,False,2,4927
+"### || CHECK باب في العاقد للبيع
+",000,False,000,False,False,False,2,940
+"### || CHECK حكم بيع المريض
+",000,False,000,False,False,False,2,365
+"### || CHECK حكم بيع الفضولي وشراؤه
+",000,False,000,False,False,False,2,312
+"### || CHECK باب فيما يعقد عليه من المبيعات والمشتريات
+",000,False,000,False,False,False,2,1162
+"### || CHECK حكم بيع الأعمى وشراؤه
+",000,False,000,False,False,False,2,2457
+"### || CHECK باب في بيع الحيوان غير العاقل
+",000,False,000,False,False,False,2,4701
+"### || AUTO باب في بيع الثياب والمتاع
+",000,False,000,False,False,False,2,1361
+"### || CHECK باب في بيع الحبوب ودخل فيها التمر
+",000,False,000,False,False,False,2,3569
+"### || CHECK باب في بيع الأصول
+",000,False,000,False,False,False,2,3296
+"### || CHECK باب في بيع غير الدمنة والتسمية
+",000,False,000,False,False,False,2,4730
+"### || AUTO باب في بيع التسمية
+",000,False,000,False,False,False,2,2145
+"### || CHECK باب لزم بائعا لسهمه تسمية سهمه من مشترك
+",000,False,000,False,False,False,2,2711
+"### || AUTO باب فيما يتبع المبيع
+",000,False,000,False,False,False,2,3765
+"### || CHECK باب في الثمن
+",000,False,000,False,False,False,2,4133
+"### || CHECK باب في العيب
+",000,False,000,False,False,False,2,538
+"### || CHECK العيوب المؤثرة في عقد البيع
+",000,False,000,False,False,False,2,790
+"### || CHECK باب في بيان ما هو عيب
+",000,False,000,False,False,False,2,1853
+"### || AUTO فصل من عيوب بئر ضيقه
+",000,False,000,False,False,False,2,2078
+"### || CHECK فصل من عيوب العبيد والإماء
+",000,False,000,False,False,False,2,1565
+"### || CHECK فصل في عيوب الحيوان
+",000,False,000,False,False,False,2,1946
+"### || CHECK فصل في عيوب الثياب والسلاح واللباس والإناء وغير ذلك
+",000,False,000,False,False,False,2,2410
+"### || CHECK تنبيه أخذت دار أو أرض أو نحو ذلك من مشتر بشفعة ونقد
+",000,False,000,False,False,False,2,1679
+"### || CHECK باب في حكم العيب
+",000,False,000,False,False,False,2,4114
+"### || AUTO باب في عيب بعض الصفقة وغير ذلك
+",000,False,000,False,False,False,2,1103
+"### || CHECK باب في بيع البراءة وغيره
+",000,False,000,False,False,False,2,6923
+"### || AUTO باب في حكم البيع الفاسد
+",000,False,000,False,False,False,2,5818
+"### || AUTO باب في الاستحقاق
+",000,False,000,False,False,False,2,2523
+"### || AUTO فصل لا يجوز لأحد أن يشتري حراما
+",000,False,000,False,False,False,2,8508
+"### || CHECK فصل يأخذ مشتر قيمة ما استحق عليه يوم الاستحقاق بالرخص
+",000,False,000,False,False,False,2,1882
+"### || CHECK باب في الصرف
+",000,False,000,False,False,False,2,6664
+"### || CHECK باب في السلم
+",000,False,000,False,False,False,2,10729
+"### || CHECK فوائد منها من أسلف إلى ذرة لوقتها لا إلى شهر معلوم
+",000,False,000,False,False,False,2,4719
+"### || CHECK فصل ومنع رهن في سلم قبل حلوله
+",000,False,000,False,False,False,2,6831
+"### || CHECK باب في بيع النقد
+",000,False,000,False,False,False,2,1405
+"### || CHECK باب في بيع الدين
+",000,False,000,False,False,False,2,7524
+"### || CHECK باب في قضاء الدين
+",000,False,000,False,False,False,2,5666
+"### || AUTO باب في اللزوم وقضاء خلاف ما في الذمة واستحقاق في
+",000,False,000,False,False,False,2,6834
+"### || CHECK باب فيما يأمر به صاحب الدين غريمه أن يجعله لدينه
+",000,False,000,False,False,False,2,4800
+"### || AUTO باب الوكالة في قبض الدين
+",000,False,000,False,False,False,2,4308
+"### || AUTO باب في إرسال الدين إلى صاحبه بغير إذنه
+",000,False,000,False,False,False,2,4166
+"### || AUTO باب في وضع الدين لصاحبه إذا أبى أن يأخذه
+",000,False,000,False,False,False,2,2031
+"### || CHECK باب في تقاضي الديون
+",000,False,000,False,False,False,2,6500
+"### || CHECK باب في التولية والإقالة
+",000,False,000,False,False,False,2,5189
+"### || CHECK باب في بيع الخيار
+",000,False,000,False,False,False,2,10164
+"### || CHECK باب في بيع المشاركة
+",000,False,000,False,False,False,2,4655
+"### || AUTO باب في بيع المرابحة
+",000,False,000,False,False,False,2,6147
+"### || CHECK باب في الطوافة
+",000,False,000,False,False,False,2,6878
+"### || AUTO فصل جاز لمريد الشراء ذوق مبيع بإذن ربه
+",000,False,000,False,False,False,2,2655
+"### || AUTO باب في الحوالة
+",000,False,000,False,False,False,2,7577
+"### || CHECK باب في الحمالة
+",000,False,000,False,False,False,2,5308
+"### || CHECK فصل لا تصح الحمالة في نفس أو جرح أو حد
+",000,False,000,False,False,False,2,2976
+"### || CHECK فصل في المحمول له إن أعطي حميلين
+",000,False,000,False,False,False,2,3724
+"### || AUTO فصل إن قضى حميل المحمول له
+",000,False,000,False,False,False,2,2456
+"### || AUTO فصل إبراء محمول له محمولا عليه
+",000,False,000,False,False,False,2,4044
+"### || AUTO باب في الوكالة على البيع والشراء
+",000,False,000,False,False,False,2,6255
+"### || AUTO فصل جاز توكيل أحد على بيع معلوم من ماله
+",000,False,000,False,False,False,2,4546
+"### || AUTO فصل لا يعقد وكيل دون صاحبه إن وكلا معا
+",000,False,000,False,False,False,2,3146
+"### || AUTO فصل لا يصح عقد بعد تغيير مبيع بصنع من موكل
+",000,False,000,False,False,False,2,3741
+"### || CHECK فصل في من وكل واحدا على بيع شيء
+",000,False,000,False,False,False,2,3206
+"### || CHECK فصل ادعى موكل توقيتا في ثمن أو محل أو شخص أو زمان
+",000,False,000,False,False,False,2,2189
+"### | AUTO الكتاب الثاني عشر في الإجارات وما معها
+",000,False,000,False,False,False,1,73053
+"### || CHECK باب في تعريف الإجارة
+",000,False,000,False,False,False,2,6703
+"### || CHECK باب في بعض الإجارات المختلف فيها
+",000,False,000,False,False,False,2,7917
+"### || CHECK باب من شرط جواز الإجارة تعيين ثمن
+",000,False,000,False,False,False,2,7802
+"### || AUTO فصل الإجارات وجهان
+",000,False,000,False,False,False,2,2751
+"### || AUTO الأولى أجرة المرضعة
+",000,False,000,False,False,False,2,442
+"### || CHECK الثانية استأجر رجل رجلا ليرعى له حيوانه مدة معلومة بأجرة معلومة
+",000,False,000,False,False,False,2,729
+"### || CHECK الثالثة استأجر لرجل عبده فأعتقه قبل المدة
+",000,False,000,False,False,False,2,295
+"### || CHECK الرابعة استأجر ms3963 أجراء أن يحصدوا له مدة معلومة أو مقدارا معلوما
+",000,False,000,False,False,False,2,980
+"### || CHECK الخامسة أراد أن يكري دارا أو بيتا
+",000,False,000,False,False,False,2,1538
+"### || CHECK السادسة استأجر قوة الدابة مدة معلومة
+",000,False,000,False,False,False,2,2142
+"### || CHECK السابعة الإجارة على شراء شيء وبيعه أو الشراء أو
+",000,False,000,False,False,False,2,306
+"### || CHECK الثامنة أعطى رجل لرجل أرضا ليغرسها بتسمية معلومة منها
+",000,False,000,False,False,False,2,1292
+"### || CHECK التاسعة الإجارة مدة على عمل كصياغة وخياطة
+",000,False,000,False,False,False,2,798
+"### || CHECK العاشرة ms3988 كثر الجهل في الإجارات
+",000,False,000,False,False,False,2,327
+"### || CHECK باب فيما يوجبه عقد الإجارة
+",000,False,000,False,False,False,2,7701
+"### || CHECK باب في أحكام الطوارئ على العقد والأجرة
+",000,False,000,False,False,False,2,1524
+"### || CHECK باب في الطوارئ على محل العمل
+",000,False,000,False,False,False,2,6855
+"### || CHECK باب في أحكام الطوارئ على الأجير والمستأجر
+",000,False,000,False,False,False,2,7535
+"### || CHECK باب في ضمان الأجير والمكتري
+",000,False,000,False,False,False,2,6978
+"### || CHECK فصل جاز لأجير منع ما بيده لأجل الأجرة
+",000,False,000,False,False,False,2,2444
+"### | AUTO باب سن جواز شركة المضاربة
+",000,False,000,False,False,False,1,9386
+"### | AUTO باب في أحكام القراض
+",000,False,000,False,False,False,1,11454
+"### || AUTO فصل لا يخلط مقارض أموال قراض
+",000,False,000,False,False,False,2,3484
+"### | CHECK كتاب الشركة
+",000,False,000,False,False,False,1,20852
+"### || CHECK باب في شركة العنان
+",000,False,000,False,False,False,2,1996
+"### || CHECK باب في شركة المفاوضة
+",000,False,000,False,False,False,2,4509
+"### || CHECK فصل في شركة الأبدان
+",000,False,000,False,False,False,2,996
+"### || CHECK باب في الشركة بلا عقد وحيازة الأب وكلام
+",000,False,000,False,False,False,2,274
+"### || CHECK فصل هل للأب أخذ وتملك من مال ولده
+",000,False,000,False,False,False,2,5842
+"### || AUTO فصل لا تقعد شركة بين ورثة
+",000,False,000,False,False,False,2,3527
+"### | CHECK باب في القسمة
+",000,False,000,False,False,False,1,44565
+"### || AUTO باب في شروط القسمة
+",000,False,000,False,False,False,2,6711
+"### || CHECK فصل تعدد الأصول في القسمة
+",000,False,000,False,False,False,2,4822
+"### || CHECK باب في دعاوى الورثة وسائر الشركاء في القسمة
+",000,False,000,False,False,False,2,5256
+"### || CHECK فصل في دعاوى القسمة
+",000,False,000,False,False,False,2,4226
+"### || CHECK باب في صفة القسمة الحقيقية
+",000,False,000,False,False,False,2,3633
+"### || CHECK فصل يخط على مقبرة ومسجد ونحو ذلك عند قسمة
+",000,False,000,False,False,False,2,2680
+"### || AUTO باب في أحكام القسمة
+",000,False,000,False,False,False,2,4893
+"### | AUTO الكتاب الثالث عشر في ms4429 الرهن
+",000,False,000,False,False,False,1,70953
+"### || CHECK فصل في صفة القبض في الرهن
+",000,False,000,False,False,False,2,2464
+"### || CHECK باب في صفة عقد الرهن
+",000,False,000,False,False,False,2,2191
+"### || CHECK فصل في شروط الرهن عند العقد أو بعده
+",000,False,000,False,False,False,2,3270
+"### || CHECK فصل الرهن السخري
+",000,False,000,False,False,False,2,4539
+"### || CHECK فصل في التسليط على الرهن
+",000,False,000,False,False,False,2,4043
+"### || CHECK باب في أحكام الرهن وما للراهن أو المرتهن أو عليهما من
+",000,False,000,False,False,False,2,5977
+"### || CHECK باب فيما للراهن أو المرتهن من الأفعال في الرهن
+",000,False,000,False,False,False,2,2754
+"### || CHECK باب في حقوق الرهن على الراهن
+",000,False,000,False,False,False,2,3923
+"### || CHECK باب فيما يكون على المرتهن من الحقوق
+",000,False,000,False,False,False,2,2249
+"### || CHECK فصل ضاع رهن بيد مرتهنه بلا تعد ولا تضييع
+",000,False,000,False,False,False,2,3763
+"### || AUTO فصل دخول صيد مرهون الحرم
+",000,False,000,False,False,False,2,4729
+"### || CHECK باب فيما لا يجوز للمرتهن أن يفعله
+",000,False,000,False,False,False,2,4787
+"### || AUTO باب فيما يجوز للمرتهن أن يفعله في الرهن
+",000,False,000,False,False,False,2,1999
+"### || CHECK فصل رهنت أمة هي زوجة مرتهنها قبل ms4625 أن ترهن
+",000,False,000,False,False,False,2,2792
+"### || CHECK باب في بيع الرهن
+",000,False,000,False,False,False,2,5240
+"### || CHECK فصل قال الراهن أو قريبه للمرتهن خذ مالك على الراهن
+",000,False,000,False,False,False,2,2643
+"### | AUTO الكتاب الرابع عشر في الشفعة
+",000,False,000,False,False,False,1,38926
+"### || CHECK باب في المشفوع فيه
+",000,False,000,False,False,False,2,1790
+"### || CHECK باب في الشافع
+",000,False,000,False,False,False,2,7157
+"### || CHECK فصل فيمن لا يشفع وربما ذكر فيه شفيع
+",000,False,000,False,False,False,2,1430
+"### || CHECK باب في المشفوع عليه
+",000,False,000,False,False,False,2,1714
+"### || CHECK باب في أخذ الشفعة
+",000,False,000,False,False,False,2,7017
+"### || CHECK باب في كمية ما يأخذ الشفيع وكمية ما له بين الشركاء
+",000,False,000,False,False,False,2,3871
+"### || CHECK باب في وقت أخذ الشفعة ووقت فواتها وما تفوت
+",000,False,000,False,False,False,2,5224
+"### || CHECK باب في أحكام الشفعة
+",000,False,000,False,False,False,2,6273
+"### | AUTO الكتاب الخامس عشر في الهبة
+",000,False,000,False,False,False,1,60228
+"### || CHECK فصل في الهدية
+",000,False,000,False,False,False,2,2124
+"### || AUTO فوائد
+",000,False,000,False,False,False,2,766
+"### || CHECK باب في العدالة في عطية الأولاد
+",000,False,000,False,False,False,2,2945
+"### || CHECK فصل فيما للوالد من مال ولده
+",000,False,000,False,False,False,2,2165
+"### || CHECK باب في الهبة من غير طيب نفس
+",000,False,000,False,False,False,2,5378
+"### || AUTO تنبيهات
+",000,False,000,False,False,False,2,552
+"### || CHECK باب في هبة المنافع
+",000,False,000,False,False,False,2,2636
+"### || CHECK فصل في العارية
+",000,False,000,False,False,False,2,8395
+"### || CHECK باب في حفظ مال المسلم
+",000,False,000,False,False,False,2,8820
+"### || CHECK باب في المتروك وما يحل أخذه
+",000,False,000,False,False,False,2,2792
+"### || CHECK باب آخر فيما يحل أخذه
+",000,False,000,False,False,False,2,5831
+"### || CHECK باب آخر فيما يؤخذ
+",000,False,000,False,False,False,2,1455
+"### || CHECK باب آخر فيما يجوز الانتفاع به من مال الناس
+",000,False,000,False,False,False,2,2428
+"### || AUTO باب فيما يباح وما لا يباح في الانتفاع
+",000,False,000,False,False,False,2,1846
+"### || CHECK فصل جاز لهم مسح يد أو معلاق وفم بمنديل
+",000,False,000,False,False,False,2,1669
+"### | AUTO الكتاب السادس عشر في الوصايا
+",000,False,000,False,False,False,1,133764
+"### || CHECK باب في وجوب الإيصاء
+",000,False,000,False,False,False,2,3706
+"### || CHECK فصل إذا أراد الرجل أن يوصي ابتدأ
+",000,False,000,False,False,False,2,776
+"### || CHECK فصل في الوصية باللسان والكتابة أوثق رأسه
+",000,False,000,False,False,False,2,288
+"### || CHECK باب من تجوز وصيته ومن لا تجوز
+",000,False,000,False,False,False,2,3848
+"### || CHECK باب فيما تجوز به الوصية
+",000,False,000,False,False,False,2,5753
+"### || CHECK فصل في من تجوز له الوصية ومن لا تجوز
+",000,False,000,False,False,False,2,4051
+"### || CHECK باب في وصية الأقرب
+",000,False,000,False,False,False,2,9027
+"### || CHECK فصل خص الموصي بالوصية أجنبيا
+",000,False,000,False,False,False,2,5138
+"### || CHECK باب فيما يخرج من الكل وما يخرج من الثلث
+",000,False,000,False,False,False,2,5148
+"### || CHECK باب في الاحتياط
+",000,False,000,False,False,False,2,6227
+"### || CHECK باب في الوصية في الأجر وفي سبيل الله
+",000,False,000,False,False,False,2,3461
+"### || CHECK باب في الوصية بالحج
+",000,False,000,False,False,False,2,4051
+"### || AUTO باب في الوصية بالحج عنه
+",000,False,000,False,False,False,2,1499
+"### || CHECK فصل هل تدفع وصية الحج من بيته
+",000,False,000,False,False,False,2,2409
+"### || CHECK فصل ينبغي لعاقل أن لا يأخذ حجة غيره بأجرة
+",000,False,000,False,False,False,2,2198
+"### || CHECK باب في الوصية بالعتق
+",000,False,000,False,False,False,2,4988
+"### || AUTO فصل جاز ما أعتق في مرضه
+",000,False,000,False,False,False,2,3837
+"### || CHECK باب في التدبير
+",000,False,000,False,False,False,2,4299
+"### || CHECK فصل في ألفاظ التدبير
+",000,False,000,False,False,False,2,787
+"### || CHECK باب فيما يكون حجة على الورثة في وصية موروثهم
+",000,False,000,False,False,False,2,2327
+"### || CHECK فصل أوصى لزيد بباق من ثلثه ولم يوص لأحد بشيء
+",000,False,000,False,False,False,2,3583
+"### || CHECK باب في الوصية بالصلاة والزكاة والصوم
+",000,False,000,False,False,False,2,3860
+"### || CHECK باب في الرجوع في الوصية
+",000,False,000,False,False,False,2,2474
+"### || CHECK باب في الشهادة على الوصية وغير ذلك
+",000,False,000,False,False,False,2,2316
+"### || CHECK باب في ضمان الوصية
+",000,False,000,False,False,False,2,2215
+"### || CHECK باب في الإيصاء بشيء يخرج من كذا أو متعدد من
+",000,False,000,False,False,False,2,3730
+"### || CHECK باب في ضمان الموصى به وتضييعه
+",000,False,000,False,False,False,2,3727
+"### || CHECK فصل باع الخليفة الموصى به وأخذ الثمن
+",000,False,000,False,False,False,2,1542
+"### || CHECK فصل ضمن الخليفة الوصية إن ضيع إنفاذها حتى مات الشهود
+",000,False,000,False,False,False,2,2140
+"### || CHECK باب في إنفاذ الوصية
+",000,False,000,False,False,False,2,2866
+"### || CHECK باب في الاستخلاف على الوصية
+",000,False,000,False,False,False,2,4371
+"### || CHECK باب في نزوع الخليفة في الوصية
+",000,False,000,False,False,False,2,1684
+"### || CHECK باب في الخلافة في الوصية
+",000,False,000,False,False,False,2,2033
+"### || CHECK فصل إن أوصى بشيء لما يخرج من الثلث وجعله في
+",000,False,000,False,False,False,2,2192
+"### || AUTO فصل إن أوصى بكذا وكذا لها
+",000,False,000,False,False,False,2,1990
+"### || AUTO باب في ms5435 الخروج من الخلافة
+",000,False,000,False,False,False,2,3715
+"### || CHECK فصل استخلاف العشيرة على اليتيم
+",000,False,000,False,False,False,2,4708
+"### || AUTO باب في الاستخلاف والنزع أيضا وقعود الأم
+",000,False,000,False,False,False,2,1027
+"### || AUTO باب في حفظ مال الشريك والرفيق والمخلط
+",000,False,000,False,False,False,2,3415
+"### | AUTO الكتاب السابع عشر في الأحكام
+",000,False,000,False,False,False,1,147179
+"### || CHECK باب في الحكم
+",000,False,000,False,False,False,2,1335
+"### || AUTO فصل في معرفة أركان القضاء
+",000,False,000,False,False,False,2,5254
+"### || AUTO باب في الأمر والنهي وغير ذلك
+",000,False,000,False,False,False,2,3429
+"### || AUTO باب في سيرة الحكم
+",000,False,000,False,False,False,2,4536
+"### || CHECK باب في تحمل الشهادة وأدائها
+",000,False,000,False,False,False,2,6977
+"### || CHECK باب فيمن تقبل شهادته
+",000,False,000,False,False,False,2,12988
+"### || AUTO باب في الشهادة أيضا هل تجزي وهل تؤدى لعارض أو نحو
+",000,False,000,False,False,False,2,4052
+"### || AUTO باب في تغير الشهود عن حال من تجوز شهادته وفيما تبطل
+",000,False,000,False,False,False,2,4968
+"### || CHECK باب في استيداع الشهادة
+",000,False,000,False,False,False,2,2766
+"### || CHECK باب في الخبر
+",000,False,000,False,False,False,2,5653
+"### || CHECK باب في التزكية والتجريح
+",000,False,000,False,False,False,2,4901
+"### || CHECK باب في الدعاوى والقعود
+",000,False,000,False,False,False,2,4781
+"### || CHECK باب في أنواع من القعود
+",000,False,000,False,False,False,2,2857
+"### || CHECK فصل وجدت ذبيحة بين قوم لا بأيديهم أو مال دارت به
+",000,False,000,False,False,False,2,2242
+"### || CHECK فصل ms5741 ادعى حر وعبد ما بأيديهما
+",000,False,000,False,False,False,2,6153
+"### || CHECK باب في الدعوى في المعاملات
+",000,False,000,False,False,False,2,8218
+"### || CHECK فصل لزم ذكر نوع الحب والحيوان في البيع
+",000,False,000,False,False,False,2,6704
+"### || CHECK باب في دعوى العبد
+",000,False,000,False,False,False,2,3010
+"### || CHECK باب في رد الأشياء بالعيب
+",000,False,000,False,False,False,2,1942
+"### || CHECK باب في دعاوى التعديات
+",000,False,000,False,False,False,2,4125
+"### || CHECK باب في التهمة وبعض مسائل الغصب وجناية الطفل والعبد والتعدية
+",000,False,000,False,False,False,2,5916
+"### || CHECK فصل يستمسك بأجير لبناء في أرض الغير بتعدية
+",000,False,000,False,False,False,2,5211
+"### || CHECK فصل فيما تكون فيه البينة على المدعي
+",000,False,000,False,False,False,2,407
+"### || CHECK باب في الحيازة
+",000,False,000,False,False,False,2,5158
+"### || CHECK باب في إحياء المواريث
+",000,False,000,False,False,False,2,4135
+"### || CHECK فصل أحيت إرثها حال كونه عند أخيها
+",000,False,000,False,False,False,2,2445
+"### || CHECK باب في قيام الإنسان بحقه
+",000,False,000,False,False,False,2,1039
+"### || AUTO باب في موت الغائب وفي الغيبة
+",000,False,000,False,False,False,2,2903
+"### || CHECK باب في الإقرار
+",000,False,000,False,False,False,2,5247
+"### || CHECK باب في المحاصة
+",000,False,000,False,False,False,2,2586
+"### || CHECK باب في التفليس
+",000,False,000,False,False,False,2,7044
+"### || CHECK باب في الصلح
+",000,False,000,False,False,False,2,3663
+"### || CHECK فصل في الاستخراج
+",000,False,000,False,False,False,2,845
+"### | AUTO الكتاب الثامن عشر في النفقات
+",000,False,000,False,False,False,1,55323
+"### || CHECK باب فيمن تجب نفقته
+",000,False,000,False,False,False,2,5204
+"### || AUTO فصل يحكم لولي على وليه بغدائه وعشائه
+",000,False,000,False,False,False,2,5996
+"### || AUTO فصل يحكم لمحتاج بغداء أو عشاء
+",000,False,000,False,False,False,2,2335
+"### || CHECK باب في العدالة
+",000,False,000,False,False,False,2,4033
+"### || CHECK فصل يعطي الأب إن عدل أي إن أراد العدل الأصل والحيوان والمتاع
+",000,False,000,False,False,False,2,3477
+"### || CHECK باب فيما يجوز للأب في مال ولده
+",000,False,000,False,False,False,2,1589
+"### || CHECK باب في النزع
+",000,False,000,False,False,False,2,4135
+"### || AUTO فصل لا يصح نزع إن خرج المنزوع لغير ولده
+",000,False,000,False,False,False,2,3508
+"### || CHECK باب في نفقة النساء على أزواجهن
+",000,False,000,False,False,False,2,4815
+"### || CHECK باب فيما تدرك المرأة على زوجها
+",000,False,000,False,False,False,2,4852
+"### || CHECK فصل إن مات حاكم فرض لها نفقتها
+",000,False,000,False,False,False,2,6158
+"### | AUTO الكتاب التاسع عشر في الدماء
+",000,False,000,False,False,False,1,113237
+"### || CHECK باب في الإمامة والدفاع ومن يصلح لها
+",000,False,000,False,False,False,2,23518
+"### || AUTO باب في طاعة إمام الدفاع
+",000,False,000,False,False,False,2,4395
+"### || CHECK باب فيما يثبت به البغي
+",000,False,000,False,False,False,2,2094
+"### || CHECK فصل فيما يعلم به الباغي
+",000,False,000,False,False,False,2,2737
+"### || AUTO باب في الاستعانة على الباغي
+",000,False,000,False,False,False,2,1469
+"### || CHECK فصل خرج على قصد القتل أو الأكل
+",000,False,000,False,False,False,2,1406
+"### || CHECK باب فيما يجوز لمن جاز عليه البغاة
+",000,False,000,False,False,False,2,4301
+"### || CHECK باب آخر في معنى الباب الذي قبله من القتال والهجوم
+",000,False,000,False,False,False,2,1535
+"### || AUTO فصل إن ساق باغ ما أخذه وأخلطه بماله
+",000,False,000,False,False,False,2,2290
+"### || CHECK فصل جاز اتباع باغ وقتله على أخذ المال .
+",000,False,000,False,False,False,2,1639
+"### || CHECK باب في وجوب دفع الإنسان عن نفسه وجواز الدفع للباغي
+",000,False,000,False,False,False,2,8742
+"### || CHECK باب في استقتال من حل قتله
+",000,False,000,False,False,False,2,2830
+"### || CHECK باب آخر لزم مبغيا عليه تخطئة الباغي
+",000,False,000,False,False,False,2,5772
+"### || CHECK باب آخر إن طلب باغ ببغيه فاحشة
+",000,False,000,False,False,False,2,2338
+"### || CHECK فصل فيما يعلم به مراد باغ
+",000,False,000,False,False,False,2,3521
+"### || CHECK باب لا تحق الفئتان في البغي
+",000,False,000,False,False,False,2,2692
+"### || CHECK فصل بغي بعض عسكر على غيره
+",000,False,000,False,False,False,2,2294
+"### || CHECK باب في السالب
+",000,False,000,False,False,False,2,3183
+"### || CHECK باب سار قوم بطريقهم فرأوا مخوفا
+",000,False,000,False,False,False,2,3292
+"### || AUTO باب في التقاء السرايا
+",000,False,000,False,False,False,2,2334
+"### || AUTO باب في عقد الصحبة وأحكامها
+",000,False,000,False,False,False,2,2186
+"### || CHECK باب في الفتنة
+",000,False,000,False,False,False,2,3789
+"### || AUTO فصل لا يقتل باغ اختلط بذوي فتنة
+",000,False,000,False,False,False,2,28
+"### || AUTO فصل لا يقتل باغ اختلط بذوي فتنة
+",000,False,000,False,False,False,2,2681
+"### || CHECK باب آخر في الفتنة
+",000,False,000,False,False,False,2,3015
+"### || CHECK باب في الحرب المحقة والمبطلة
+",000,False,000,False,False,False,2,361
+"### || AUTO فصل لا تقع هدنة من فتنة سبقت بخاصة
+",000,False,000,False,False,False,2,1988
+"### || AUTO باب فيما استوى الناس إليه
+",000,False,000,False,False,False,2,3010
+"### || CHECK باب في أواخر التبيين
+",000,False,000,False,False,False,2,3852
+"### || AUTO فصل إن تعدد الولي
+",000,False,000,False,False,False,2,886
+"### || CHECK باب في الدفاع أيضا
+",000,False,000,False,False,False,2,3330
+"### || CHECK باب يحاذر في دفاع باغ
+",000,False,000,False,False,False,2,1499
+"### | CHECK الكتاب العشرون في الديات
+",000,False,000,False,False,False,1,69164
+"### || AUTO باب في الجروح والآثار وأرش ذلك
+",000,False,000,False,False,False,2,3600
+"### || CHECK باب في دية الجوارح
+",000,False,000,False,False,False,2,5647
+"### || CHECK فصل في من له عين واحدة
+",000,False,000,False,False,False,2,3259
+"### || CHECK فصل في من يوزن شعر لحية
+",000,False,000,False,False,False,2,11328
+"### || CHECK باب في العمد وشبهه والخطأ
+",000,False,000,False,False,False,2,1957
+"### || CHECK باب في الديات أيضا
+",000,False,000,False,False,False,2,7847
+"### || CHECK باب في القسامة
+",000,False,000,False,False,False,2,3596
+"### || AUTO فصل يؤدى على مكاتب وساع ببعض قيمته ما بقي
+",000,False,000,False,False,False,2,1646
+"### || AUTO باب في القتل
+",000,False,000,False,False,False,2,4578
+"### || CHECK باب لا يعفى عن قاتل
+",000,False,000,False,False,False,2,2304
+"### || AUTO فصل من مات بجرح وإن صغيرا
+",000,False,000,False,False,False,2,3970
+"### || CHECK باب من يقيد نفسه لإمام
+",000,False,000,False,False,False,2,3168
+"### || CHECK فصل جرح عبد عبدا فعتق العبد المجروح
+",000,False,000,False,False,False,2,1170
+"### || CHECK فصل قتل عبد عبدا مدبرا
+",000,False,000,False,False,False,2,1774
+"### || CHECK باب فيما يقتل به الجاني
+",000,False,000,False,False,False,2,932
+"### || AUTO باب في القصاص
+",000,False,000,False,False,False,2,3108
+"### || CHECK باب في الوكالة في القطع
+",000,False,000,False,False,False,2,1053
+"### || CHECK باب في القياس في الجروح
+",000,False,000,False,False,False,2,3451
+"### || CHECK باب بالتنوين فما بعده مبتدأ
+",000,False,000,False,False,False,2,938
+"### || CHECK باب في ضرب كسرين في كسرين
+",000,False,000,False,False,False,2,638
+"### || CHECK باب في ضرب كسور
+",000,False,000,False,False,False,2,2047
+"### | AUTO الكتاب الحادي والعشرون في الفرائض
+",000,False,000,False,False,False,1,64261
+"### || CHECK باب في الفرض والتعصيب
+",000,False,000,False,False,False,2,3949
+"### || CHECK فصل أنواع السهام في الميراث .
+",000,False,000,False,False,False,2,4247
+"### || CHECK باب في الحجب
+",000,False,000,False,False,False,2,11798
+"### || AUTO باب في إفراد مسائل
+",000,False,000,False,False,False,2,2835
+"### || CHECK باب في الخنثى وأحكامه
+",000,False,000,False,False,False,2,2647
+"### || CHECK باب في ميراث من لم تثبت حياته بعد موت وارثه
+",000,False,000,False,False,False,2,913
+"### || CHECK فصل في ميراث المولى
+",000,False,000,False,False,False,2,2983
+"### || CHECK باب في الرد
+",000,False,000,False,False,False,2,1950
+"### || CHECK باب في ميراث ذوي الأرحام
+",000,False,000,False,False,False,2,3052
+"### || AUTO باب في أصول الحساب وبيان مخارج الفرائض
+",000,False,000,False,False,False,2,9491
+"### || CHECK فصل في العول والانكسار
+",000,False,000,False,False,False,2,8930
+"### || AUTO فصل في موافقة الأعداد بالأجزاء الصم
+",000,False,000,False,False,False,2,181
+"### | CHECK الكتاب الثاني والعشرون في الأفعال المنجية من المهلكة
+",000,False,000,False,False,False,1,293210
+"### || CHECK باب فيما يصدر الفعل منه
+",000,False,000,False,False,False,2,2455
+"### || CHECK فصل في الكبر والرياء وبغض الكفر وأهله
+",000,False,000,False,False,False,2,11720
+"### || CHECK باب في التمني والتأمين والشهرة والمنزلة وغير
+",000,False,000,False,False,False,2,7032
+"### || CHECK فصل الفخر والخيلاء كبيرتان
+",000,False,000,False,False,False,2,3667
+"### || CHECK باب الحب
+",000,False,000,False,False,False,2,4129
+"### || CHECK باب في الحسد والتمني والشمت بالمصائب
+",000,False,000,False,False,False,2,5610
+"### || CHECK باب في الحقد والغل والضغن والقساوة والرحمة والرأفة
+",000,False,000,False,False,False,2,4342
+"### || CHECK باب في الاهتمام بأمور المسلمين والإيثار
+",000,False,000,False,False,False,2,1783
+"### || CHECK فصل في الإيثار
+",000,False,000,False,False,False,2,650
+"### || CHECK فصل في إذلال النفس وتدنيسها
+",000,False,000,False,False,False,2,3441
+"### || CHECK فصل في الشهوة الخفية
+",000,False,000,False,False,False,2,1921
+"### || CHECK باب في أركان الكفر
+",000,False,000,False,False,False,2,8860
+"### || CHECK فصل في الركون
+",000,False,000,False,False,False,2,4058
+"### || CHECK باب في الحمية والعصبية والمكر والخديعة والسفه والبغي والظلم
+",000,False,000,False,False,False,2,9645
+"### || CHECK باب في الزهد والرغبة في الإسلام
+",000,False,000,False,False,False,2,10403
+"### || CHECK فصل في إهانة الإسلام وأهله وتعظيم الكفر وأهله
+",000,False,000,False,False,False,2,2913
+"### || CHECK باب في بغض المعروف وأهله والأشر والبطر والغيبة والنميمة
+",000,False,000,False,False,False,2,4470
+"### || CHECK فصل في الأشر والبطر
+",000,False,000,False,False,False,2,1674
+"### || CHECK فصل في الغيبة
+",000,False,000,False,False,False,2,8041
+"### || AUTO فصل في النميمة
+",000,False,000,False,False,False,2,3558
+"### || CHECK باب في الكسل والعجز والملامة
+",000,False,000,False,False,False,2,2065
+"### || CHECK فصل في الملامة
+",000,False,000,False,False,False,2,5309
+"### || CHECK باب في الحب والبغض والتأديب وإخراج الحق والحكم
+",000,False,000,False,False,False,2,4316
+"### || CHECK خاتمة الحب لله ورسوله
+",000,False,000,False,False,False,2,1283
+"### || CHECK فصل لا يأخذ المرء حقه بنفسه من غيره
+",000,False,000,False,False,False,2,4692
+"### || AUTO فصل لا يجوز حكم امرأة وطفل وعبد
+",000,False,000,False,False,False,2,1755
+"### || CHECK باب في اللمز والهمز والغمز
+",000,False,000,False,False,False,2,10874
+"### || CHECK خاتمة لا حنث على مغصوب
+",000,False,000,False,False,False,2,289
+"### || CHECK باب في الرجاء للعاصي
+",000,False,000,False,False,False,2,1917
+"### || CHECK باب في وجوب الخوف والرجاء
+",000,False,000,False,False,False,2,3805
+"### || CHECK التنبيه الأول الخوف والرجاء جناحان
+",000,False,000,False,False,False,2,235
+"### || AUTO التنبيه الثاني العمل على الرجاء أعلى منه على الخوف
+",000,False,000,False,False,False,2,541
+"### || AUTO التنبيه الثالث يداوي بالرجاء نفسه من واظب على الطاعة
+",000,False,000,False,False,False,2,581
+"### || CHECK التنبيه السابع ما تحصل به سعادة لقاء الله تعالى
+",000,False,000,False,False,False,2,2239
+"### || CHECK تنبيهات
+",000,False,000,False,False,False,2,413
+"### || CHECK التنبيه الثالث يداوي بالرجاء نفسه من واظب على الطاعة
+",000,False,000,False,False,False,2,397
+"### || CHECK التنبيه الثامن لا يقال الرجاء مطلقا أفضل ولا الخوف أفضل
+",000,False,000,False,False,False,2,797
+"### || CHECK التنبيه الحادي عشر من خاف الله لم يشف غيظه
+",000,False,000,False,False,False,2,1216
+"### || CHECK تنبيهات
+",000,False,000,False,False,False,2,2091
+"### || CHECK باب في الشك والارتياب
+",000,False,000,False,False,False,2,5898
+"### || AUTO فصل من الفروض ما لا يصح أداؤه إلا بالشك
+",000,False,000,False,False,False,2,6987
+"### || CHECK تنبيهات لا تصلح معرفة الشيء إلا بمعرفة ضده
+",000,False,000,False,False,False,2,1636
+"### || CHECK باب في الشك والارتياب
+",000,False,000,False,False,False,2,138
+"### || CHECK تنبيهات لا تصلح معرفة الشيء إلا بمعرفة ضده
+",000,False,000,False,False,False,2,189
+"### || CHECK باب في الشك والارتياب
+",000,False,000,False,False,False,2,641
+"### || CHECK باب في الحرام والريبة وأحكام ذلك
+",000,False,000,False,False,False,2,5836
+"### || CHECK خاتمة اشترى شيئا فأكله ثم شك أكان
+",000,False,000,False,False,False,2,210
+"### || AUTO باب عصى ظان بغير فاسق فاحشة
+",000,False,000,False,False,False,2,4127
+"### || CHECK فصل في التهمة
+",000,False,000,False,False,False,2,3396
+"### || CHECK باب في أركان الدين
+",000,False,000,False,False,False,2,22593
+"### || CHECK باب في التفكر
+",000,False,000,False,False,False,2,5292
+"### || CHECK باب في الشكر
+",000,False,000,False,False,False,2,5608
+"### || CHECK فصل في الصبر
+",000,False,000,False,False,False,2,2423
+"### || CHECK تنبهات التسلي عن نوائب الدهر
+",000,False,000,False,False,False,2,2263
+"### || CHECK باب في الكف عن الذنوب
+",000,False,000,False,False,False,2,12229
+"### || AUTO فصل من فعل ذنبا كبيرا ثم طاعة بلا قصد توبة منه
+",000,False,000,False,False,False,2,2476
+"### || CHECK فصل من شأن العبد أن يهفو أي يزل بالذنب
+",000,False,000,False,False,False,2,794
+"### || CHECK باب في تصويب الحق وتخطئة الباطل
+",000,False,000,False,False,False,2,5270
+"### || CHECK فصل إن ms7916 أخطأ موافق أو مخالف في فتواه
+",000,False,000,False,False,False,2,1465
+"### || AUTO باب في فرز دين الله من الأديان
+",000,False,000,False,False,False,2,5388
+"### || CHECK فصل في التقليد
+",000,False,000,False,False,False,2,6025
+"### || CHECK باب في الحكم في الدار والسيرة فيها
+",000,False,000,False,False,False,2,2124
+"### || AUTO فصل لا تجوز براءة من بلد أو قبيلة ظهر فيها الموافقون
+",000,False,000,False,False,False,2,6278
+"### || CHECK باب في الحكم والسيرة في دار المشركين
+",000,False,000,False,False,False,2,3011
+"### || CHECK باب في أخذ الجزية
+",000,False,000,False,False,False,2,3826
+"### || CHECK باب في التبليغ وغيره
+",000,False,000,False,False,False,2,1804
+"### || CHECK باب في الطعن في دين المسلمين
+",000,False,000,False,False,False,2,7811
+"### || CHECK فصل لا يعد من طاعن في المسلمين أن قال إني لم
+",000,False,000,False,False,False,2,2124
+"### || CHECK فصل في مانع الحق
+",000,False,000,False,False,False,2,1933
+"### || AUTO فصل إن استمسك مدعو لإجابة الحق
+",000,False,000,False,False,False,2,1478
+"### || CHECK باب في الدال على عورات المسلمين
+",000,False,000,False,False,False,2,2046
+"### || AUTO فصل إن قتل كإمام دالا بمن لا يقتل به
+",000,False,000,False,False,False,2,2804
+"### || AUTO فصل الدال على الخير كفاعله
+",000,False,000,False,False,False,2,1771
+"### || CHECK فصل لزم الخبير أن يدل الناس على الماء والطريق .
+",000,False,000,False,False,False,2,2230

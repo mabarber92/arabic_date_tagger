@@ -1,0 +1,185 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK [إرشاد العنسي]
+",000,False,000,False,False,False,1,2050
+"### | AUTO الإرشاد إلى النجاة
+",000,False,000,False,False,False,1,114740
+"### || AUTO القسم الأول وهو تهذيب النفس بترك المناهي
+",000,False,000,False,False,False,2,14769
+"### ||| AUTO تنبيه على أساس النجاة
+",000,False,000,False,False,False,3,244
+"### || AUTO القسم الثاني وهو تهذيب النفس بحسن الخلق مع المخلوق
+",000,False,000,False,False,False,2,15398
+"### ||| AUTO الإرشاد إلى حسن المعاشرة مع العباد
+",000,False,000,False,False,False,3,7009
+"### |||| AUTO الأول منها: الحلم، والصبر، وقبول العذر.
+",000,False,000,False,False,False,4,389
+"### |||| AUTO الثاني منها: المداراة والمسامحة
+",000,False,000,False,False,False,4,349
+"### |||| AUTO الثالث منها: العدل والأنصاف
+",000,False,000,False,False,False,4,200
+"### |||| AUTO الرابع منها: النصيحة للكافة
+",000,False,000,False,False,False,4,108
+"### |||| AUTO الخامس منها: الحياء والرفق والتأني
+",000,False,000,False,False,False,4,289
+"### |||| AUTO السادس منها: التواضع
+",000,False,000,False,False,False,4,206
+"### |||| AUTO السابع منها الوفاء وأداء الأمانة وترك الخيانة
+",000,False,000,False,False,False,4,136
+"### |||| AUTO الثامن منها: الارتداء بمعالي الأمور وأشرافها، والخلع
+",000,False,000,False,False,False,4,1532
+"### |||| AUTO التاسع منها: التدثر لأبواب السخاء، والامتطاء لركائب
+",000,False,000,False,False,False,4,932
+"### || AUTO القسم الثالث وهو تهذيب النفس بالخضوع إلى الله تعالى
+",000,False,000,False,False,False,2,20034
+"### ||| AUTO وكما لا نجد منعما يفعل ذلك غير الله تعالى، لا نجد ملكا
+",000,False,000,False,False,False,3,272
+"### || CHECK [الإرشاد إلى التوبة]
+",000,False,000,False,False,False,2,8366
+"### || AUTO الإرشاد إلى ترتيب الأوراد في اليوم والليلة في جميع السنة
+",000,year,000,False,False,False,2,17189
+"### ||| CHECK [المحافظة الثانية اللباس]
+",000,False,000,False,False,False,3,72
+"### ||| AUTO المحافظة الأولى
+",000,False,000,False,False,False,3,324
+"### ||| AUTO المحافظة الثالثة وهي سنة آداب قضاء الحاجة.
+",000,year,000,False,False,False,3,348
+"### ||| AUTO المحافظة الرابعة وهي سنة السواك
+",000,year,000,False,False,False,3,95
+"### ||| AUTO المحافظة الخامسة الوضوء
+",000,False,000,False,False,False,3,2215
+"### |||| AUTO أما كيفية الوضوء
+",000,False,000,False,False,False,4,457
+"### |||| AUTO وأما تمييز مفروض الوضوء من مسنونه
+",000,False,000,False,False,False,4,167
+"### |||| AUTO وأما ما يكره في الوضوء
+",000,False,000,False,False,False,4,86
+"### |||| AUTO وأما صفة الماء الذي يتطهر به
+",000,False,000,False,False,False,4,104
+"### ||| AUTO المحافظة السادسة
+",000,False,000,False,False,False,3,2559
+"### ||| AUTO المحافظة السابعة من طلوع الفجر إلى طلوع الشمس
+",000,False,000,False,False,False,3,4542
+"### |||| AUTO الوظيفة الأولى الخروج إلى المسجد
+",000,False,000,False,False,False,4,148
+"### |||| AUTO الوظيفة الثانية دخول المسجد
+",000,False,000,False,False,False,4,95
+"### |||| AUTO الوظيفة الثالثة تحية المسجد
+",000,False,000,False,False,False,4,97
+"### |||| AUTO الوظيفة الرابعة الأذان
+",000,False,000,False,False,False,4,194
+"### |||| AUTO الوظيفة الخامسة
+",000,False,000,False,False,False,4,180
+"### |||| AUTO الوظيفة السادسة الذكر ما بين طلوع الفجر إلى صلاة الفريضة
+",000,False,000,False,False,False,4,89
+"### |||| AUTO الوظيفة السابعة صلاة سنة الفجر
+",000,year,000,False,False,False,4,126
+"### |||| AUTO الوظيفة الثامنة صلاة الفريضة
+",000,False,000,False,False,False,4,155
+"### ||| AUTO المحافظة الثامنة من طلوع الشمس إلى زوالها
+",000,False,000,False,False,False,3,1241
+"### || AUTO الإرشاد إلى ما يختص الأسبوع
+",000,False,000,False,False,False,2,2696
+"### ||| AUTO ليلة الأحد
+",000,False,000,False,False,False,3,169
+"### ||| AUTO يوم الأحد
+",000,False,000,False,False,False,3,144
+"### ||| AUTO ليلة الإثنين
+",000,False,000,False,False,False,3,100
+"### ||| AUTO يوم الإثنين
+",000,False,000,False,False,False,3,148
+"### ||| AUTO ليلة الثلاثاء
+",000,False,000,False,False,False,3,31
+"### ||| AUTO يوم الثلاثاء
+",000,False,000,False,False,False,3,95
+"### ||| AUTO ليلة الأربعاء
+",000,False,000,False,False,False,3,54
+"### ||| AUTO يوم الأربعاء
+",000,False,000,False,False,False,3,73
+"### ||| AUTO ليلة الخميس
+",000,False,000,False,False,False,3,71
+"### ||| AUTO يوم الخميس
+",000,False,000,False,False,False,3,71
+"### ||| AUTO ليلة الجمعة
+",000,False,000,False,False,False,3,320
+"### ||| AUTO وقال: أكثروا على من الصلاة في الليلة الغراء واليوم إلازهر
+",000,False,000,False,False,False,3,1139
+"### ||| AUTO ليلة السبت
+",000,False,000,False,False,False,3,143
+"### || AUTO الإرشادإلى مايخص الشهور من الصلوات
+",000,False,000,False,False,False,2,3564
+"### ||| AUTO شهر المحرم
+",000,False,000,False,False,False,3,165
+"### ||| AUTO شهر رجب
+",000,False,000,False,False,False,3,685
+"### ||| AUTO شهر شعبان
+",000,False,000,False,False,False,3,320
+"### ||| AUTO شهر رمضان
+",000,False,000,False,False,False,3,1491
+"### ||| AUTO شهر شوال
+",000,False,000,False,False,False,3,406
+"### ||| AUTO يوم الجائزة
+",000,False,000,False,False,False,3,169
+"### || AUTO الإرشاد إلى العبادات التي لاتختص بأو قات ولاأسباب.
+",000,False,000,False,False,False,2,1522
+"### ||| AUTO صلاة التسبيح
+",000,False,000,False,False,False,3,246
+"### ||| AUTO ومنها صلاة أخرى
+",000,False,000,False,False,False,3,129
+"### ||| AUTO ومنها صلاة الخنادق
+",000,False,000,False,False,False,3,569
+"### || AUTO الإرشاد إلى الصلوات ذو الأسباب
+",000,False,000,False,False,False,2,95
+"### || AUTO الإرشاد إلى الصلوات الراجعة إلى أحوال المصلى
+",000,False,000,False,False,False,2,1798
+"### ||| AUTO وأما صلاة الخروج للسفر
+",000,False,000,False,False,False,3,40
+"### ||| AUTO وأما صلاة الأوبة
+",000,False,000,False,False,False,3,51
+"### ||| AUTO وأما صلاة الخوف
+",000,False,000,False,False,False,3,228
+"### ||| AUTO وأما صلاة الحاجة
+",000,False,000,False,False,False,3,219
+"### ||| AUTO وأما صلاة إلاستخارة
+",000,False,000,False,False,False,3,234
+"### ||| AUTO وأما صلاة الذنب
+",000,False,000,False,False,False,3,174
+"### ||| AUTO وأما صلاة الضرير
+",000,False,000,False,False,False,3,55
+"### ||| AUTO وأما صلاة قضاء الدين
+",000,False,000,False,False,False,3,120
+"### ||| AUTO وأما صلاة الحفظ
+",000,False,000,False,False,False,3,302
+"### ||| AUTO وأما صلاة الكفاية
+",000,False,000,False,False,False,3,96
+"### ||| AUTO وأما صلاة الآنتباه
+",000,False,000,False,False,False,3,89
+"### ||| AUTO وأما صلاة زيارة قبور أهل ms308 البيت عليهم السلام عند إلا تتمكن
+",000,False,000,False,False,False,3,41
+"### || AUTO الإرشاد إلى الصلوات ذوات الأسباب الراجعة إلى الزمان
+",000,False,000,False,False,False,2,32
+"### || AUTO الإرشاد إلى الصلوات ذوات الأسباب الراجعة إلى حدوث الحوادث
+",000,False,000,False,False,False,2,1067
+"### ||| AUTO أما صلاة الجنازة
+",000,False,000,False,False,False,3,371
+"### ||| AUTO وأما صلاة الكسوف والخسوف وسائر الآيات
+",000,False,000,False,False,False,3,235
+"### ||| AUTO وأما صلاة الاستسقاء
+",000,False,000,False,False,False,3,324
+"### || AUTO الإرشاد إلى الصلوات الفاضلة لما يرجع إلى المكان
+",000,False,000,False,False,False,2,2704
+"### ||| AUTO اعلم أن إلاماكن التي تكون سببا لفضل الصلوات قد تكون من قبيل
+",000,False,000,False,False,False,3,267
+"### ||| AUTO وأما مسجد قبا
+",000,False,000,False,False,False,3,32
+"### ||| AUTO وأما مسجد بيت المقدس
+",000,False,000,False,False,False,3,121
+"### ||| AUTO وأما سائر المساجد
+",000,False,000,False,False,False,3,294
+"### ||| AUTO وأما فضل بناء المساجد
+",000,False,000,False,False,False,3,98
+"### ||| AUTO وأما صلاة المنزل
+",000,False,000,False,False,False,3,71
+"### || AUTO الإرشاد إلى هيئة الصلاة ظاهرا وباطنا
+",000,False,000,False,False,False,2,4503
+"### || AUTO الإرشاد إلى هيئات الذكر
+",000,False,000,False,False,False,2,1162

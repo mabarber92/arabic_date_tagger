@@ -1,0 +1,33 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK مقدمة المصنف
+",000,False,000,False,False,False,1,105
+"### | CHECK الباب الأول في الحكم ولوازمه
+",000,False,000,False,False,False,1,809
+"### || AUTO الحكم
+",000,False,000,False,False,False,2,3
+"### || AUTO الحكم
+",000,False,000,False,False,False,2,18
+"### || AUTO والحاكم
+",000,False,000,False,False,False,2,18
+"### || AUTO والمحكوم عليه
+",000,False,000,False,False,False,2,6
+"### | AUTO الباب الثاني
+",000,False,000,False,False,False,1,5433
+"### || AUTO أصل الدلالة
+",000,False,000,False,False,False,2,20
+"### || AUTO والدليل يراد به
+",000,False,000,False,False,False,2,36
+"### | CHECK الباب الثالث في الاجتهاد والتقليد
+",000,False,000,False,False,False,1,13805
+"### || AUTO الاجتهاد
+",000,False,000,False,False,False,2,3
+"### || AUTO الاجتهاد
+",000,False,000,False,False,False,2,400
+"### ||| AUTO لغة
+",000,False,000,False,False,False,3,7
+"### ||| AUTO وعرفا
+",000,False,000,False,False,False,3,14
+"### || AUTO التقليد
+",000,False,000,False,False,False,2,53
+"### ||| AUTO لغة
+",000,False,000,False,False,False,3,20

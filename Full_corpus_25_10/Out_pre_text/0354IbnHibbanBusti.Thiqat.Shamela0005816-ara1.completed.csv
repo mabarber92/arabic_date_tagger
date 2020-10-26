@@ -1,0 +1,491 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | (مقدمة)
+",000,False,000,False,False,False,1,16050
+"### || ذكر الحث على لزوم سنن المصطفى صلى الله عليه وسلم 
+",000,False,000,False,False,False,2,667
+"### || ذكر الحث على نشر العلم إذ هو من خير ما يخلف المرء بعده 
+",000,False,000,False,False,False,2,63
+"### || ذكر الخبر الدال على استحباب حفظ تاريخ المحدثين
+",000,False,000,False,False,False,2,696
+"### || ذكر مولد رسول الله صلى الله عليه وسلم
+",000,False,000,False,False,False,2,700
+"### || ذكر نسب سيد ولد آدم وأول من تنشق الأرض عنه يوم القيامة صلى الله عليه وسلم 
+",000,False,000,False,False,False,2,2469
+"### || (ذكر خروج النبي صلى الله عليه وسلم إلى الشام)
+",000,False,000,False,False,False,2,730
+"### || (ذكر تفضل الله على رسوله المصطفى صلى الله عليه وسلم بالكرامة والنبوة ms0020 بين خلق آدم ونفخ الروح) فيه 
+",000,False,000,False,False,False,2,74
+"### || (ذكر صفة بدء الوحي على رسول الله صلى الله عليه وسلم)
+",000,False,000,False,False,False,2,896
+"### || وفشا ذكر الإسلام بمكة 
+",000,False,000,False,False,False,2,3342
+"### || (ذكر عرض رسول الله صلى الله عليه وسلم نفسه على القبائل)
+",000,False,000,False,False,False,2,1336
+"### || (ذكر بيعة العقبة الأولى ms0040)
+",000,False,000,False,False,False,2,826
+"### || وأول جمعة جمعت بالمدينة 
+",000,False,000,False,False,False,2,54
+"### || (ذكر الإسراء برسول الله صلى الله عليه وسلم ليلة المعراج)
+",000,False,000,False,False,False,2,931
+"### || (ذكر بيعة الأنصار بالعقبة الآخرة رسول الله) صلى الله عليه وسلم 
+",000,False,000,False,False,False,2,1331
+"### | 
+",000,False,000,False,False,False,1,1974
+"### || (ذكر قدوم النبي صلى الله عليه وسلم المدينة)
+",000,False,000,False,False,False,2,1666
+"### || 
+",000,False,000,False,False,False,2,113
+"### || 
+",000,False,000,False,False,False,2,108
+"### | (السنة الثانية من الهجرة)
+",002,year,000,False,002,352,1,9286
+"### || 
+",000,False,000,False,False,False,2,88
+"### || 
+",000,False,000,False,False,False,2,167
+"### || 
+",000,False,000,False,False,False,2,429
+"### || 
+",000,False,000,False,False,False,2,181
+"### || ثم كانت غزوة بدر 
+",000,False,000,False,False,False,2,7820
+"### || ثم كانت غزوة بني قينقاع 
+",000,False,000,False,False,False,2,235
+"### | (السنة ms0097 الثالثة من الهجرة)
+",003,year,000,False,003,351,1,3281
+"### || ثم كانت سرية الفردة 
+",000,False,000,False,False,False,2,323
+"### | (السنة الرابعة من الهجرة)
+",004,year,000,False,004,350,1,1678
+"### || (- ثم كانت غزوة الرجيع) في صفر 
+",000,False,000,False,False,False,2,37
+"### || (- ثم كانت غزوة بني النضير)
+",000,False,000,False,False,False,2,611
+"### || 
+",000,False,000,False,False,False,2,73
+"### || ثم كانت بجدر الموعد 
+",000,False,000,False,False,False,2,297
+"### | (السنة الخامسة من الهجرة)
+",005,year,000,False,005,349,1,4044
+"### || 
+",000,False,000,False,False,False,2,1429
+"### || (- ثم كانت غزوة ذات الرقاع)
+",000,False,000,False,False,False,2,243
+"### || (- ثم كانت غزوة دومة الجندل)
+",000,False,000,False,False,False,2,315
+"### || ثم غزا رسول الله صلى الله عليه وسلم غزوة المريسيع 
+",000,False,000,False,False,False,2,105
+"### || (ثم غزا ms0122 رسول الله صلى الله عليه وسلم غزوة الخندق)
+",000,False,000,False,False,False,2,152
+"### || وخرجت قريش 
+",000,False,000,False,False,False,2,59
+"### || وأقبلت قريش 
+",000,False,000,False,False,False,2,956
+"### || (غزوة بني قريظة)
+",000,False,000,False,False,False,2,693
+"### | (السنة السادسة من الهجرة)
+",006,year,000,False,006,348,1,3998
+"### || 
+",000,False,000,False,False,False,2,203
+"### || 
+",000,False,000,False,False,False,2,57
+"### || 
+",000,False,000,False,False,False,2,89
+"### || 
+",000,False,000,False,False,False,2,75
+"### || 
+",000,False,000,False,False,False,2,73
+"### || 
+",000,False,000,False,False,False,2,72
+"### || 
+",000,False,000,False,False,False,2,23
+"### || 
+",000,False,000,False,False,False,2,100
+"### || 
+",000,False,000,False,False,False,2,46
+"### || 
+",000,False,000,False,False,False,2,255
+"### || 
+",000,False,000,False,False,False,2,1159
+"### || (ثم كانت غزوة الحديبية)
+",000,False,000,False,False,False,2,1169
+"### | (السنة السابعة من الهجرة)
+",007,year,000,False,007,347,1,3107
+"### || ثم كانت غزوة خيبر 
+",000,False,000,False,False,False,2,755
+"### | السنة الثامنة من الهجرة 
+",008,year,000,False,008,346,1,5980
+"### | السنة التاسعة من الهجرة 
+",009,year,000,False,009,345,1,4812
+"### | السنة العاشرة للهجرة 
+",010,year,000,False,010,344,1,5841
+"### || (ذكر وفاة رسول الله)
+",000,False,000,False,False,False,2,2559
+"### | استخلاف أبي بكر بن أبي قحافة الصديق رضي الله عنه 
+",000,False,000,False,False,False,1,6542
+"### || 
+",000,False,000,False,False,False,2,5390
+"### | استخلاف عمر بن الخطاب رضي الله عنه 
+",000,False,000,False,False,False,1,8210
+"### || 
+",000,False,000,False,False,False,2,347
+"### || 
+",000,False,000,False,False,False,2,233
+"### || 
+",000,False,000,False,False,False,2,1213
+"### || 
+",000,False,000,False,False,False,2,489
+"### || 
+",000,False,000,False,False,False,2,287
+"### || 
+",000,False,000,False,False,False,2,200
+"### || 
+",000,False,000,False,False,False,2,717
+"### || 
+",000,False,000,False,False,False,2,1779
+"### || 
+",000,False,000,False,False,False,2,103
+"### | استخلاف عثمان بن عفان رضى اللع تعالى عنه 
+",000,False,000,False,False,False,1,3733
+"### || 
+",000,False,000,False,False,False,2,173
+"### || فلما دخلت السنة السادسة والعشرون 
+",026,year,000,False,026,328,2,374
+"### || فلما دخلت السنة السابعة والعشرون 
+",027,year,000,False,027,327,2,122
+"### || فلما دخلت السنة الثامنة والعشرون 
+",028,year,000,False,028,326,2,158
+"### || فلما دخلت السنة التاسعة والعشرون 
+",029,year,000,False,029,325,2,188
+"### || وفي السنة الثلاثين 
+",030,year,000,False,030,324,2,166
+"### || وفي السنة الحادية والثلاثين 
+",031,year,000,False,031,323,2,185
+"### || وفي السنة الثانية والثلاثين
+",032,year,000,False,032,322,2,95
+"### || وفي السنة الثالثة والثلاثين 
+",033,year,000,False,033,321,2,103
+"### || وفي السنة الرابعة والثلاثين 
+",034,year,000,False,034,320,2,96
+"### | استخلاف علي بن أبي طالب رضي الله عنه 
+",000,False,000,False,False,False,1,6396
+"### || فلما دخلت السنة السادسة والثلاثون
+",036,year,000,False,036,318,2,1211
+"### || فلما دخلت السنة السابعة والثلاثون 
+",037,year,000,False,037,317,2,1643
+"### || فلما دخلت السنة الثامنة والثلاثون 
+",038,year,000,False,038,316,2,243
+"### || فلما دخلت السنة التاسعة والثلاثون 
+",039,year,000,False,039,315,2,386
+"### | (ذكر البيان بان من ذكرناهم كانوا خلفاء ومن بعدهم كانوا ملوكا)
+",000,False,000,False,False,False,1,4861
+"### || يزيد بن معاوية أبو خالد 
+",000,False,000,False,False,False,2,1419
+"### || معاوية بن يزيد أبو ليلى 
+",000,False,000,False,False,False,2,109
+"### || مروان بن الحكم 
+",000,False,000,False,False,False,2,141
+"### || عبد الملك بن مروان أبو الوليد 
+",000,False,000,False,False,False,2,216
+"### || وليد بن عبد الملك أبو العباس 
+",000,False,000,False,False,False,2,149
+"### || سليمان بن عبد الملك أبو أيوب 
+",000,False,000,False,False,False,2,67
+"### || عمر بن عبد العزيز أبو حفص 
+",000,False,000,False,False,False,2,127
+"### || يزيد بن عبد الملك أبو خالد 
+",000,False,000,False,False,False,2,98
+"### || هشام بن عبد الملك أبو الوليد 
+",000,False,000,False,False,False,2,81
+"### || الوليد بن يزيد بن عبد الملك أبو العباس 
+",000,False,000,False,False,False,2,76
+"### || يزيد بن الوليد بن عبد الملك أبو خالد 
+",000,False,000,False,False,False,2,84
+"### || إبراهيم بن الوليد بن عبد الملك أبو إسحاق 
+",000,False,000,False,False,False,2,94
+"### || مروان بن محمد بن مروان بن الحكم أبو عبد الملك
+",000,False,000,False,False,False,2,224
+"### || السفاح أبو العباس 
+",000,False,000,False,False,False,2,114
+"### || المنصور أبو جعفر أخوه 
+",000,False,000,False,False,False,2,125
+"### || المهدي ms0314 بن المنصور أبو عبد الله 
+",000,False,000,False,False,False,2,81
+"### || الهادي بن مهدى أبو محمد 
+",000,False,000,False,False,False,2,98
+"### || الرشيد بن المهدي أبو جعفر 
+",000,False,000,False,False,False,2,100
+"### || الأمين بن الرشيد أبو عبد الله 
+",000,False,000,False,False,False,2,100
+"### || المأمون بن الرشيد أبو العباس 
+",000,False,000,False,False,False,2,85
+"### || المعتصم بن الرشيد أبو إسحاق 
+",000,False,000,False,False,False,2,104
+"### || الواثق بن المعتصم أبو جعفر 
+",000,False,000,False,False,False,2,70
+"### || المتوكل بن المعتصم أبو الفضل
+",000,False,000,False,False,False,2,101
+"### || المنتصر بن المتوكل أبو جعفر 
+",000,False,000,False,False,False,2,75
+"### || المستعين بن المعتصم أبو عبد الله 
+",000,False,000,False,False,False,2,72
+"### || المعتز بن المتوكل أبو عبد الله 
+",000,False,000,False,False,False,2,50
+"### || المهتدى بن الواثق أبو عبد الله 
+",000,False,000,False,False,False,2,54
+"### || المعتمد بن المتوكل أبو العباس 
+",000,False,000,False,False,False,2,119
+"### || المعتضد بن الموفق بن المتوكل أبو العباس 
+",000,False,000,False,False,False,2,88
+"### || المكتفي بن المعتضد أبو محمد ms0318 
+",000,False,000,False,False,False,2,49
+"### || المقتدر بن المعتضد بن الموفق بن المتوكل أبو الفضل 
+",000,False,000,False,False,False,2,247
+"### || القاهر بن المعتضد أبو العباس 
+",000,False,000,False,False,False,2,45
+"### || الراضي بن المقتدر أبو العباس 
+",000,False,000,False,False,False,2,58
+"### || المتقي بن المقتدر
+",000,False,000,False,False,False,2,28
+"### | (ذكر الخلفاء الراشدين والملوك الراغبين)
+",000,False,000,False,False,False,1,172
+"### | أول كتاب الصحابة رضي الله عنهم أجمعين 
+",000,False,000,False,False,False,1,749
+"### | أسماء الصحابة ونقصد منهم من روى عنه الأخبار 
+",000,False,000,False,False,False,1,43423
+"### || (باب الألف)
+",000,False,000,False,False,False,2,2761
+"### || (باب الباء)
+",000,False,000,False,False,False,2,1486
+"### || (باب التاء)
+",000,False,000,False,False,False,2,339
+"### || (باب الثاء)
+",000,False,000,False,False,False,2,675
+"### || (باب الجيم)
+",000,False,000,False,False,False,2,1732
+"### || (باب الحاء)
+",000,False,000,False,False,False,2,3306
+"### || (باب الخاء)
+",000,False,000,False,False,False,2,1483
+"### || (باب الدال)
+",000,False,000,False,False,False,2,157
+"### || (باب الذال)
+",000,False,000,False,False,False,2,248
+"### || (باب الراء)
+",000,False,000,False,False,False,2,1173
+"### || (باب الزاي)
+",000,False,000,False,False,False,2,1137
+"### || (باب السين)
+",000,False,000,False,False,False,2,3474
+"### || (باب الشين)
+",000,False,000,False,False,False,2,625
+"### || (باب الصاد)
+",000,False,000,False,False,False,2,773
+"### || (باب الضاد)
+",000,False,000,False,False,False,2,315
+"### || (باب الطاء)
+",000,False,000,False,False,False,2,438
+"### || (باب الظاء)
+",000,False,000,False,False,False,2,113
+"### || (باب العين)
+",000,False,000,False,False,False,2,11415
+"### || (باب الغين)
+",000,False,000,False,False,False,2,301
+"### || باب الفاء 
+",000,False,000,False,False,False,2,857
+"### || (باب القاف)
+",000,False,000,False,False,False,2,1265
+"### || (باب الكاف)
+",000,False,000,False,False,False,2,633
+"### || (باب اللام)
+",000,False,000,False,False,False,2,327
+"### || (باب الميم)
+",000,False,000,False,False,False,2,4147
+"### || (باب النون)
+",000,False,000,False,False,False,2,1131
+"### || (باب الواو)
+",000,False,000,False,False,False,2,626
+"### || (باب الهاء)
+",000,False,000,False,False,False,2,795
+"### || (باب الياء)
+",000,False,000,False,False,False,2,808
+"### | (أول كتاب التابعين)
+",000,False,000,False,False,False,1,116826
+"### || (باب الألف)
+",000,False,000,False,False,False,2,6209
+"### || (باب الباء)
+",000,False,000,False,False,False,2,2025
+"### || (باب التاء)
+",000,False,000,False,False,False,2,459
+"### || (باب الثاء)
+",000,False,000,False,False,False,2,1063
+"### || (باب الجيم)
+",000,False,000,False,False,False,2,2067
+"### || (باب الحاء)
+",000,False,000,False,False,False,2,8183
+"### || (باب الخاء)
+",000,False,000,False,False,False,2,2395
+"### || (باب الدال)
+",000,False,000,False,False,False,2,661
+"### || (باب الذال)
+",000,False,000,False,False,False,2,369
+"### || (باب الراء)
+",000,False,000,False,False,False,2,2635
+"### || (باب الزاي)
+",000,False,000,False,False,False,2,3603
+"### || (باب السين)
+",000,False,000,False,False,False,2,9871
+"### || (باب الشين)
+",000,False,000,False,False,False,2,2463
+"### || (باب ms0609 الصاد)
+",000,False,000,False,False,False,2,1699
+"### || (باب الضاد)
+",000,False,000,False,False,False,2,607
+"### || (باب الطاء)
+",000,False,000,False,False,False,2,1110
+"### || (باب الظاء)
+",000,False,000,False,False,False,2,123
+"### || (باب العين)
+",000,False,000,False,False,False,2,34053
+"### || (باب الغين)
+",000,False,000,False,False,False,2,555
+"### || (باب الفاء)
+",000,False,000,False,False,False,2,838
+"### || (باب القاف)
+",000,False,000,False,False,False,2,3092
+"### || (باب الكاف)
+",000,False,000,False,False,False,2,1963
+"### || (باب اللام)
+",000,False,000,False,False,False,2,216
+"### || (باب الميم)
+",000,False,000,False,False,False,2,14655
+"### || (باب النون)
+",000,False,000,False,False,False,2,2706
+"### || (باب الواو)
+",000,False,000,False,False,False,2,1653
+"### || (باب الهاء)
+",000,False,000,False,False,False,2,2137
+"### || (باب لا)
+",000,False,000,False,False,False,2,110
+"### || (باب الياء)
+",000,False,000,False,False,False,2,4982
+"### | أول كتاب أتباع التابعين
+",000,False,000,False,False,False,1,133252
+"### || (باب الألف)
+",000,False,000,False,False,False,2,9822
+"### || (باب الباء)
+",000,False,000,False,False,False,2,3176
+"### || (باب التاء)
+",000,False,000,False,False,False,2,289
+"### || (باب الثاء)
+",000,False,000,False,False,False,2,782
+"### || (باب الجيم)
+",000,False,000,False,False,False,2,2963
+"### || (باب الحاء)
+",000,False,000,False,False,False,2,9971
+"### || (باب الخاء)
+",000,False,000,False,False,False,2,3049
+"### || (باب الدال)
+",000,False,000,False,False,False,2,1786
+"### || (باب الذال)
+",000,False,000,False,False,False,2,113
+"### || (باب الراء)
+",000,False,000,False,False,False,2,1993
+"### || (باب الزاي)
+",000,False,000,False,False,False,2,4398
+"### || (باب السين)
+",000,False,000,False,False,False,2,9517
+"### || (باب الشين)
+",000,False,000,False,False,False,2,2035
+"### || (باب الصاد)
+",000,False,000,False,False,False,2,2783
+"### || (باب الضاد)
+",000,False,000,False,False,False,2,707
+"### || (باب الطاء)
+",000,False,000,False,False,False,2,823
+"### || (باب الظاء)
+",000,False,000,False,False,False,2,32
+"### || (باب العين)
+",000,False,000,False,False,False,2,35263
+"### || (باب الغين)
+",000,False,000,False,False,False,2,642
+"### || (باب الفاء)
+",000,False,000,False,False,False,2,1466
+"### || (باب القاف)
+",000,False,000,False,False,False,2,2707
+"### || (باب الكاف)
+",000,False,000,False,False,False,2,1293
+"### || (باب اللام)
+",000,False,000,False,False,False,2,358
+"### || (باب الميم)
+",000,False,000,False,False,False,2,20689
+"### || (باب النون)
+",000,False,000,False,False,False,2,2090
+"### || (باب الواو)
+",000,False,000,False,False,False,2,2193
+"### || (باب الهاء)
+",000,False,000,False,False,False,2,2624
+"### || (باب لا)
+",000,False,000,False,False,False,2,54
+"### || (باب الياء)
+",000,False,000,False,False,False,2,7584
+"### | 
+",000,False,000,False,False,False,1,296
+"### | وممن روى عن أتباع التابعين وشافههم من المحدثين
+",000,False,000,False,False,False,1,120980
+"### || ممن ابتدأ اسمه على الألف
+",000,False,000,False,False,False,2,17242
+"### || (باب الباء)
+",000,False,000,False,False,False,2,2523
+"### || (باب التاء)
+",000,False,000,False,False,False,2,156
+"### || (باب الثاء)
+",000,False,000,False,False,False,2,289
+"### || (باب الجيم)
+",000,False,000,False,False,False,2,1167
+"### || (باب الحاء)
+",000,False,000,False,False,False,2,7650
+"### || (باب الخاء)
+",000,False,000,False,False,False,2,2012
+"### || (باب الدال)
+",000,False,000,False,False,False,2,659
+"### || (باب الذال)
+",000,False,000,False,False,False,2,52
+"### || (باب الراء)
+",000,False,000,False,False,False,2,1217
+"### || (باب الزاي)
+",000,False,000,False,False,False,2,1688
+"### || (باب السين)
+",000,False,000,False,False,False,2,6965
+"### || (باب الشين)
+",000,False,000,False,False,False,2,1150
+"### || (باب الصاد)
+",000,False,000,False,False,False,2,1250
+"### || (باب الضاد)
+",000,False,000,False,False,False,2,132
+"### || (باب الطاء)
+",000,False,000,False,False,False,2,543
+"### || (باب الظاء)
+",000,False,000,False,False,False,2,78
+"### || (باب العين)
+",000,False,000,False,False,False,2,30719
+"### || (باب الغين)
+",000,False,000,False,False,False,2,590
+"### || (باب الفاء)
+",000,False,000,False,False,False,2,1568
+"### || (باب القاف)
+",000,False,000,False,False,False,2,1694
+"### || (باب الكاف)
+",000,False,000,False,False,False,2,582
+"### || (باب اللام)
+",000,False,000,False,False,False,2,120
+"### || (باب الميم)
+",000,False,000,False,False,False,2,27978
+"### || (باب النون)
+",000,False,000,False,False,False,2,2102
+"### || (باب الواو)
+",000,False,000,False,False,False,2,1514
+"### || (باب الهاء)
+",000,False,000,False,False,False,2,2440
+"### || (باب لا)
+",000,False,000,False,False,False,2,49

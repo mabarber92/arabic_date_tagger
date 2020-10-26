@@ -1,0 +1,65 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | القسم الأول
+",000,False,000,False,False,False,1,1463
+"### | القسم الثاني
+",000,False,000,False,False,False,1,1159
+"### | القسم الثالث
+",000,False,000,False,False,False,1,317
+"### | القسم الرابع
+",000,False,000,False,False,False,1,1035
+"### | (حرف الهمزة)
+",000,False,000,False,False,False,1,377
+"### | (حرف الباء)
+",000,False,000,False,False,False,1,351
+"### | (حرف التاء)
+",000,False,000,False,False,False,1,93
+"### | (حرف الثاء)
+",000,False,000,False,False,False,1,52
+"### | (حرف الجيم)
+",000,False,000,False,False,False,1,300
+"### | (حرف الحاء)
+",000,False,000,False,False,False,1,606
+"### | (حرف الخاء)
+",000,False,000,False,False,False,1,264
+"### | (حرف الدال)
+",000,False,000,False,False,False,1,345
+"### | (حرف الذال)
+",000,False,000,False,False,False,1,90
+"### | (حرف الراء)
+",000,False,000,False,False,False,1,394
+"### | (حرف الزاي)
+",000,False,000,False,False,False,1,226
+"### | (حرف السين)
+",000,False,000,False,False,False,1,551
+"### | (حرف الشين)
+",000,False,000,False,False,False,1,402
+"### | (حرف الصاد)
+",000,False,000,False,False,False,1,279
+"### | (حرف الضاد)
+",000,False,000,False,False,False,1,120
+"### | (حرف الطاء)
+",000,False,000,False,False,False,1,77
+"### | (حرف الظاء)
+",000,False,000,False,False,False,1,33
+"### | (حرف العين)
+",000,False,000,False,False,False,1,750
+"### | (حرف الغين)
+",000,False,000,False,False,False,1,315
+"### | (حرف الفاء)
+",000,False,000,False,False,False,1,214
+"### | (حرف القاف)
+",000,False,000,False,False,False,1,544
+"### | (حرف الكاف)
+",000,False,000,False,False,False,1,237
+"### | (حرف اللام)
+",000,False,000,False,False,False,1,186
+"### | (حرف الميم)
+",000,False,000,False,False,False,1,422
+"### | (حرف النون)
+",000,False,000,False,False,False,1,298
+"### | (حرف الواو)
+",000,False,000,False,False,False,1,201
+"### | (حرف الهاء)
+",000,False,000,False,False,False,1,51
+"### | (حرف الياء)
+",000,False,000,False,False,False,1,718

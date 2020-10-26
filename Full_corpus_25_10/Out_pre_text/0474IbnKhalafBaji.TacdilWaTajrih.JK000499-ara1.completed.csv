@@ -1,0 +1,485 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | ( باب معرفة الجرح والتعديل )
+",000,False,000,False,False,False,1,434
+"### | ( باب في جواز الجرح وأنه ليس من باب الغيبة المنهي عنها وإنما هو من الدين )
+",000,False,000,False,False,False,1,415
+"### | ( باب الجرح والتعديل )
+",000,False,000,False,False,False,1,960
+"### | ( باب وصف المجرح الذي يطرح حديثه وتمييزه من العدل الذي يؤخذ بحديثه )
+",000,False,000,False,False,False,1,332
+"### | ( باب في وجوب التحرز في الأخذ عن العدول )
+",000,False,000,False,False,False,1,506
+"### | ( باب ذكر أسانيد متفق على اطراحها )
+",000,False,000,False,False,False,1,749
+"### | ( باب في ذكر أسانيد اتفق على صحتها )
+",000,False,000,False,False,False,1,1201
+"### | ( باب نسب محمد بن إسماعيل البخاري وتاريخ مولده ووفاته )
+",000,False,000,False,False,False,1,108
+"### | ( باب في وصف حياته وعلمه )
+",000,False,000,False,False,False,1,273
+"### | ( باب في ذكر تأليفه للكتاب الجامع وحكم الكتاب ومعناه )
+",000,False,000,False,False,False,1,439
+"### | ( حرف الألف )
+",000,False,000,False,False,False,1,13812
+"### || باب أحمد
+",000,False,000,False,False,False,2,4382
+"### || 1 ( باب إبراهيم )
+",000,False,000,False,False,False,2,2124
+"### || ( باب إسماعيل )
+",000,False,000,False,False,False,2,1711
+"### || ( باب إسحاق )
+",000,False,000,False,False,False,2,1505
+"### || ( باب أيوب )
+",000,False,000,False,False,False,2,920
+"### || ( باب أنس )
+",000,False,000,False,False,False,2,377
+"### || ( باب آدم )
+",000,False,000,False,False,False,2,247
+"### || ( باب أسود )
+",000,False,000,False,False,False,2,271
+"### || ( باب أزهر )
+",000,False,000,False,False,False,2,127
+"### || ( باب أبي )
+",000,False,000,False,False,False,2,196
+"### || ( باب أسامة )
+",000,False,000,False,False,False,2,188
+"### || ( باب أيمن )
+",000,False,000,False,False,False,2,131
+"### || ( باب إسرائيل )
+",000,False,000,False,False,False,2,290
+"### || ( باب أسلم )
+",000,False,000,False,False,False,2,127
+"### || ( باب أشعث )
+",000,False,000,False,False,False,2,138
+"### || ( باب أسباط )
+",000,False,000,False,False,False,2,156
+"### | ( حرف الباء )
+",000,False,000,False,False,False,1,2934
+"### || باب بشر
+",000,False,000,False,False,False,2,828
+"### || ( باب بكر )
+",000,False,000,False,False,False,2,406
+"### || ( باب بشير )
+",000,False,000,False,False,False,2,109
+"### || ( باب بشير )
+",000,False,000,False,False,False,2,95
+"### || ( باب بسر )
+",000,False,000,False,False,False,2,202
+"### || ( باب بيان )
+",000,False,000,False,False,False,2,273
+"### | ( حرف التاء )
+",000,False,000,False,False,False,1,77
+"### | ( حرف الثاء )
+",000,False,000,False,False,False,1,1042
+"### || باب ثابت
+",000,False,000,False,False,False,2,723
+"### || ( باب ثور )
+",000,False,000,False,False,False,2,198
+"### | ( حرف الجيم )
+",000,False,000,False,False,False,1,2295
+"### || باب جعفر
+",000,False,000,False,False,False,2,407
+"### || ( باب جابر )
+",000,False,000,False,False,False,2,835
+"### || ( باب جندب )
+",000,False,000,False,False,False,2,129
+"### || ( باب جبير )
+",000,False,000,False,False,False,2,117
+"### || ( باب جعد )
+",000,False,000,False,False,False,2,105
+"### || ( باب جامع )
+",000,False,000,False,False,False,2,157
+"### || ( باب جويرية )
+",000,False,000,False,False,False,2,111
+"### | ( حرف الحاء )
+",000,False,000,False,False,False,1,8665
+"### || باب الحسن
+",000,False,000,False,False,False,2,2183
+"### || ( باب الحسين )
+",000,False,000,False,False,False,2,847
+"### || ( باب حسان )
+",000,False,000,False,False,False,2,365
+"### || ( باب حميد )
+",000,False,000,False,False,False,2,641
+"### || ( باب حفص )
+",000,False,000,False,False,False,2,580
+"### || ( باب الحارث )
+",000,False,000,False,False,False,2,294
+"### || ( باب حبيب )
+",000,False,000,False,False,False,2,296
+"### || ( باب الحجاج )
+",000,False,000,False,False,False,2,253
+"### || ( باب حماد )
+",000,False,000,False,False,False,2,706
+"### || ( باب حاتم )
+",000,False,000,False,False,False,2,224
+"### || ( باب الحكم )
+",000,False,000,False,False,False,2,463
+"### || ( باب حصين )
+",000,False,000,False,False,False,2,312
+"### || ( باب حكيم )
+",000,False,000,False,False,False,2,113
+"### || ( باب حمزة )
+",000,False,000,False,False,False,2,72
+"### || ( باب حنظلة )
+",000,False,000,False,False,False,2,134
+"### || ( باب حيوة )
+",000,False,000,False,False,False,2,244
+"### || ( باب حرمي )
+",000,False,000,False,False,False,2,91
+"### | ( حرف الخاء )
+",000,False,000,False,False,False,1,2112
+"### || باب خالد
+",000,False,000,False,False,False,2,1166
+"### || ( باب خليفة )
+",000,False,000,False,False,False,2,202
+"### | ( حرف الدال )
+",000,False,000,False,False,False,1,345
+"### | ( حرف الذال )
+",000,False,000,False,False,False,1,160
+"### || باب ذكوان
+",000,False,000,False,False,False,2,119
+"### | ( حرف الراء )
+",000,False,000,False,False,False,1,1177
+"### || باب الربيع
+",000,False,000,False,False,False,2,328
+"### || ( باب ربيعة )
+",000,False,000,False,False,False,2,235
+"### || ( باب روح )
+",000,False,000,False,False,False,2,156
+"### || ( باب رافع )
+",000,False,000,False,False,False,2,185
+"### | ( حرف الزاي )
+",000,False,000,False,False,False,1,3081
+"### || باب زيد
+",000,False,000,False,False,False,2,898
+"### || ( باب زياد )
+",000,False,000,False,False,False,2,373
+"### || ( باب الزبير )
+",000,False,000,False,False,False,2,222
+"### || ( باب زكريا )
+",000,False,000,False,False,False,2,533
+"### || ( باب زهير )
+",000,False,000,False,False,False,2,513
+"### | ( حرف الطاء )
+",000,False,000,False,False,False,1,1133
+"### || باب طلحة
+",000,False,000,False,False,False,2,718
+"### || ( باب طارق )
+",000,False,000,False,False,False,2,147
+"### | ( حرف الظاء )
+",000,False,000,False,False,False,1,151
+"### | ( حرف الكاف )
+",000,False,000,False,False,False,1,508
+"### || باب كثير
+",000,False,000,False,False,False,2,177
+"### || ( باب كعب )
+",000,False,000,False,False,False,2,91
+"### || ( باب كهمس )
+",000,False,000,False,False,False,2,95
+"### | ( حرف اللام )
+",000,False,000,False,False,False,1,135
+"### | ( حرف الميم )
+",000,False,000,False,False,False,1,20472
+"### || باب محمد
+",000,False,000,False,False,False,2,10976
+"### || ( باب مالك )
+",000,False,000,False,False,False,2,1724
+"### || ( باب موسى )
+",000,False,000,False,False,False,2,956
+"### || ( باب معاذ )
+",000,False,000,False,False,False,2,497
+"### || ( باب معاوية )
+",000,False,000,False,False,False,2,398
+"### || ( باب مسلم )
+",000,False,000,False,False,False,2,271
+"### || ( باب منصور )
+",000,False,000,False,False,False,2,594
+"### || ( باب معن )
+",000,False,000,False,False,False,2,228
+"### || ( باب معبد )
+",000,False,000,False,False,False,2,142
+"### || ( باب المغيرة )
+",000,False,000,False,False,False,2,360
+"### || ( باب مروان )
+",000,False,000,False,False,False,2,348
+"### || ( باب مطرف )
+",000,False,000,False,False,False,2,168
+"### || ( باب المنذر )
+",000,False,000,False,False,False,2,126
+"### || ( باب محمود )
+",000,False,000,False,False,False,2,87
+"### || ( باب المسيب )
+",000,False,000,False,False,False,2,113
+"### || ( باب معلى )
+",000,False,000,False,False,False,2,174
+"### || ( باب مخلد )
+",000,False,000,False,False,False,2,172
+"### || ( باب معمر )
+",000,False,000,False,False,False,2,368
+"### | ( حرف النون )
+",000,False,000,False,False,False,1,1805
+"### || باب نافع
+",000,False,000,False,False,False,2,589
+"### || ( باب النضر )
+",000,False,000,False,False,False,2,158
+"### || ( باب نصر )
+",000,False,000,False,False,False,2,165
+"### || ( باب النعمان )
+",000,False,000,False,False,False,2,384
+"### || ( باب نفيع )
+",000,False,000,False,False,False,2,120
+"### || ( باب نعيم )
+",000,False,000,False,False,False,2,184
+"### | ( حرف الصاد )
+",000,False,000,False,False,False,1,1346
+"### || باب صالح
+",000,False,000,False,False,False,2,652
+"### || ( باب صفوان )
+",000,False,000,False,False,False,2,202
+"### || ( باب صخر )
+",000,False,000,False,False,False,2,103
+"### || ( باب صدقة )
+",000,False,000,False,False,False,2,132
+"### | ( حرف الضاد )
+",000,False,000,False,False,False,1,227
+"### | ( حرف العين )
+",000,False,000,False,False,False,1,33128
+"### || باب عبد الله
+",000,False,000,False,False,False,2,8410
+"### || ( باب عبد الرحمن )
+",000,False,000,False,False,False,2,3771
+"### || ( باب عبيد الله )
+",000,False,000,False,False,False,2,1453
+"### || ( باب عبد العزيز )
+",000,False,000,False,False,False,2,1064
+"### || ( باب عبد الملك )
+",000,False,000,False,False,False,2,784
+"### || ( باب عبد الحميد )
+",000,False,000,False,False,False,2,483
+"### || ( باب عبد الواحد )
+",000,False,000,False,False,False,2,213
+"### || ( باب عبد الأعلى )
+",000,False,000,False,False,False,2,224
+"### || ( باب عبد السلام )
+",000,False,000,False,False,False,2,83
+"### || ( باب عبد الرحيم )
+",000,False,000,False,False,False,2,80
+"### || ( باب عبد القدوس )
+",000,False,000,False,False,False,2,79
+"### || ( باب عبد ربه )
+",000,False,000,False,False,False,2,203
+"### || ( باب عبد الكريم )
+",000,False,000,False,False,False,2,394
+"### || ( باب تفاريق الأسماء المعبدين )
+",000,False,000,False,False,False,2,696
+"### || ( باب عبيد )
+",000,False,000,False,False,False,2,220
+"### || ( باب عباد )
+",000,False,000,False,False,False,2,592
+"### || ( باب عبدة )
+",000,False,000,False,False,False,2,288
+"### || ( باب عبادة )
+",000,False,000,False,False,False,2,115
+"### || ( باب عبيدة )
+",000,False,000,False,False,False,2,189
+"### || ( باب عمر )
+",000,False,000,False,False,False,2,1324
+"### || ( باب عثمان ms307 )
+",000,False,000,False,False,False,2,965
+"### || ( باب علي )
+",000,False,000,False,False,False,2,1859
+"### || ( باب عمرو )
+",000,False,000,False,False,False,2,2554
+"### || ( باب عامر )
+",000,False,000,False,False,False,2,1008
+"### || ( باب عاصم )
+",000,False,000,False,False,False,2,559
+"### || ( باب عقبة )
+",000,False,000,False,False,False,2,376
+"### || ( باب عطاء )
+",000,False,000,False,False,False,2,868
+"### || ( باب العباس )
+",000,False,000,False,False,False,2,405
+"### || ( باب عمران )
+",000,False,000,False,False,False,2,362
+"### || ( باب علقمة )
+",000,False,000,False,False,False,2,161
+"### || ( باب عمير )
+",000,False,000,False,False,False,2,191
+"### || ( باب عيسى )
+",000,False,000,False,False,False,2,253
+"### || ( باب عروة )
+",000,False,000,False,False,False,2,291
+"### || ( باب عكرمة )
+",000,False,000,False,False,False,2,572
+"### || ( باب عمارة )
+",000,False,000,False,False,False,2,215
+"### || ( باب عوف )
+",000,False,000,False,False,False,2,309
+"### || ( باب عدي )
+",000,False,000,False,False,False,2,159
+"### || ( باب العلاء )
+",000,False,000,False,False,False,2,164
+"### || ( باب ms346 عتبة )
+",000,False,000,False,False,False,2,86
+"### || ( باب عنبسة )
+",000,False,000,False,False,False,2,76
+"### | ( حرف الغين )
+",000,False,000,False,False,False,1,100
+"### | ( حرف الفاء )
+",000,False,000,False,False,False,1,1137
+"### || باب فضل
+",000,False,000,False,False,False,2,498
+"### || ( باب فضيل )
+",000,False,000,False,False,False,2,273
+"### | ( حرف القاف )
+",000,False,000,False,False,False,1,1942
+"### || باب قيس
+",000,False,000,False,False,False,2,322
+"### || ( باب القاسم )
+",000,False,000,False,False,False,2,408
+"### || ( باب قتادة )
+",000,False,000,False,False,False,2,472
+"### || ( باب قبيصة )
+",000,False,000,False,False,False,2,218
+"### || ( باب قرة )
+",000,False,000,False,False,False,2,136
+"### || ( باب قريش )
+",000,False,000,False,False,False,2,91
+"### | ( حرف السين )
+",000,False,000,False,False,False,1,10977
+"### || باب سعيد
+",000,False,000,False,False,False,2,3364
+"### || ( باب سعد )
+",000,False,000,False,False,False,2,1528
+"### || ( باب سليمان )
+",000,False,000,False,False,False,2,2030
+"### || ( باب سالم )
+",000,False,000,False,False,False,2,415
+"### || ( باب سلمة )
+",000,False,000,False,False,False,2,544
+"### || ( باب سهل )
+",000,False,000,False,False,False,2,314
+"### || 
+",000,False,000,False,False,False,2,276
+"### || ( باب سفيان )
+",000,False,000,False,False,False,2,823
+"### || ( باب سلام )
+",000,False,000,False,False,False,2,160
+"### || ( باب سلم )
+",000,False,000,False,False,False,2,125
+"### || ( باب سعدان )
+",000,False,000,False,False,False,2,66
+"### || ( باب سريج )
+",000,False,000,False,False,False,2,137
+"### || ( باب سويد )
+",000,False,000,False,False,False,2,205
+"### || ( باب سيار )
+",000,False,000,False,False,False,2,71
+"### || ( باب السائب )
+",000,False,000,False,False,False,2,191
+"### || ( باب سنان )
+",000,False,000,False,False,False,2,86
+"### | ( حرف الشين )
+",000,False,000,False,False,False,1,1398
+"### || باب شعيب
+",000,False,000,False,False,False,2,225
+"### || ( باب شبيب )
+",000,False,000,False,False,False,2,142
+"### || ( باب شجاع )
+",000,False,000,False,False,False,2,188
+"### | ( حرف الهاء )
+",000,False,000,False,False,False,1,2557
+"### || باب هشام
+",000,False,000,False,False,False,2,924
+"### || ( باب هارون )
+",000,False,000,False,False,False,2,137
+"### || ( باب همام )
+",000,False,000,False,False,False,2,327
+"### || ( باب هلال )
+",000,False,000,False,False,False,2,182
+"### || ( باب هاشم )
+",000,False,000,False,False,False,2,224
+"### || ( باب الهيثم )
+",000,False,000,False,False,False,2,68
+"### | ( حرف الواو )
+",000,False,000,False,False,False,1,1629
+"### || باب الوليد
+",000,False,000,False,False,False,2,308
+"### || ( باب وهب )
+",000,False,000,False,False,False,2,347
+"### | ( حرف اللام ألف )
+",000,False,000,False,False,False,1,61
+"### | ( حرف الياء )
+",000,False,000,False,False,False,1,5730
+"### || باب يحيى
+",000,False,000,False,False,False,2,2968
+"### || ( باب يزيد )
+",000,False,000,False,False,False,2,1117
+"### || ( باب يوسف )
+",000,False,000,False,False,False,2,431
+"### || ( باب يونس )
+",000,False,000,False,False,False,2,504
+"### || ( باب يعلى )
+",000,False,000,False,False,False,2,219
+"### || ( باب يعقوب )
+",000,False,000,False,False,False,2,391
+"### | ( الكنى )
+",000,False,000,False,False,False,1,3080
+"### || حرف الألف
+",000,False,000,False,False,False,2,142
+"### || ( حرف الباء )
+",000,False,000,False,False,False,2,1013
+"### || ( حرف التاء )
+",000,False,000,False,False,False,2,27
+"### || ( حرف الثاء )
+",000,False,000,False,False,False,2,33
+"### || ( حرف الجيم )
+",000,False,000,False,False,False,2,111
+"### || ( حرف الحاء )
+",000,False,000,False,False,False,2,174
+"### || ( حرف الخاء )
+",000,False,000,False,False,False,2,49
+"### || ( حرف الدال )
+",000,False,000,False,False,False,2,22
+"### || ( حرف الذال )
+",000,False,000,False,False,False,2,28
+"### || ( حرف الراء )
+",000,False,000,False,False,False,2,60
+"### || ( حرف الزاي )
+",000,False,000,False,False,False,2,42
+"### || ( حرف الطاء )
+",000,False,000,False,False,False,2,27
+"### || ( حرف الظاء ms445 )
+",000,False,000,False,False,False,2,18
+"### || ( حرف الكاف )
+",000,False,000,False,False,False,2,50
+"### || ( حرف اللام )
+",000,False,000,False,False,False,2,18
+"### || ( حرف الميم )
+",000,False,000,False,False,False,2,207
+"### || ( حرف النون )
+",000,False,000,False,False,False,2,50
+"### || ( حرف الصاد )
+",000,False,000,False,False,False,2,52
+"### || ( حرف الضاد )
+",000,False,000,False,False,False,2,20
+"### || ( حرف العين )
+",000,False,000,False,False,False,2,440
+"### || ( حرف الغين )
+",000,False,000,False,False,False,2,26
+"### || ( حرف الفاء )
+",000,False,000,False,False,False,2,29
+"### || ( حرف القاف )
+",000,False,000,False,False,False,2,76
+"### || ( حرف السين )
+",000,False,000,False,False,False,2,244
+"### || ( حرف الشين )
+",000,False,000,False,False,False,2,64
+"### || ( حرف الهاء )
+",000,False,000,False,False,False,2,136
+"### | ( باب أسماء النساء )
+",000,False,000,False,False,False,1,2578
+"### | ( باب كنى النساء )
+",000,False,000,False,False,False,1,356

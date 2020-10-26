@@ -1,0 +1,137 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO الجزء الأول
+",000,False,000,False,False,False,1,213619
+"### || CHECK [المقدمة]
+",000,False,000,False,False,False,2,9339
+"### || AUTO الكلام في معرفة الصانع:
+",000,False,000,False,False,False,2,53844
+"### ||| AUTO القول في ماهية العلم وقسمته
+",000,False,000,False,False,False,3,20791
+"### ||| AUTO القول في وجوب معرفة الله تعالى
+",000,False,000,False,False,False,3,9191
+"### ||| AUTO القول في النظر
+",000,False,000,False,False,False,3,10634
+"### || AUTO الكلام في التوحيد
+",000,False,000,False,False,False,2,20239
+"### ||| AUTO القول في أن للعالم صانعا
+",000,False,000,False,False,False,3,14157
+"### || AUTO الكلام في الصفات والأحكام
+",000,False,000,False,False,False,2,95139
+"### ||| AUTO فائدة
+",000,False,000,False,False,False,3,7497
+"### ||| AUTO القول في أن الله تعالى قادر
+",000,False,000,False,False,False,3,7731
+"### ||| AUTO القول في أن الله تعالى عالم
+",000,False,000,False,False,False,3,3936
+"### ||| AUTO القول في أن الله تعالى حي
+",000,False,000,False,False,False,3,2765
+"### ||| AUTO القول في أن الله تعالى سميع بصير
+",000,False,000,False,False,False,3,1068
+"### ||| AUTO القول في أن الله تعالى مدرك
+",000,False,000,False,False,False,3,3834
+"### ||| AUTO القول في أن الله تعالى قديم
+",000,False,000,False,False,False,3,4319
+"### ||| AUTO القول في الصفة الأخص
+",000,False,000,False,False,False,3,4816
+"### ||| AUTO القول في كيفية استحقاقه تعالى لهذه الصفات
+",000,False,000,False,False,False,3,15299
+"### |||| AUTO فصل في أنه لايجوز أن يستحقها لمعان قديمة
+",000,False,000,False,False,False,4,910
+"### |||| AUTO فصل في إبطال كل واحد من هذه المعاني على انفراده
+",000,False,000,False,False,False,4,2533
+"### |||| AUTO فصل في ذكر بعض ما يلزم أهل هذه المقالة
+",000,False,000,False,False,False,4,529
+"### |||| AUTO فصل في إبطال قولهم لا هي الله ولا هي غيره ولابعضه
+",000,False,000,False,False,False,4,514
+"### |||| AUTO فصل في إبطال قولهم: بأنها قائمة بذات الله تعالى
+",000,False,000,False,False,False,4,325
+"### |||| AUTO فصل في شبههم في ms0472 إثبات المعاني
+",000,False,000,False,False,False,4,3327
+"### |||| AUTO فصل في أنه تعالى لايجوز أن يستحقها
+",000,False,000,False,False,False,4,2065
+"### |||| AUTO فصل في أنه يستحق هذه الصفات الأربع
+",000,False,000,False,False,False,4,225
+"### |||| AUTO فصل في أنه تعالى عالم بجميع أعيان المعلومات
+",000,False,000,False,False,False,4,461
+"### ||| AUTO القول في أن الله تعالى مريد وكاره
+",000,False,000,False,False,False,3,10193
+"### |||| AUTO فصل في الدلالة على إثبات هذه الصفات التي هي المريدية
+",000,False,000,False,False,False,4,4250
+"### ||| AUTO القول في أن الله تعالى غني
+",000,False,000,False,False,False,3,1732
+"### ||| AUTO القول في أن الله تعالى ليس بجسم ولا عرض ولايجوز عليه ما
+",000,False,000,False,False,False,3,6187
+"### ||| AUTO القول في استحالة الرؤية على الله تعالى
+",000,False,000,False,False,False,3,12259
+"### |||| AUTO فصل في شبههم ms0589 في إثبات الرؤية
+",000,False,000,False,False,False,4,923
+"### | AUTO الجزء الثاني
+",000,False,000,False,False,False,1,166424
+"### || AUTO القول في الاستطاعة
+",000,False,000,False,False,False,2,4083
+"### ||| AUTO فصل في ذكر بعض ما يلزمهم
+",000,False,000,False,False,False,3,209
+"### || AUTO القول في استحالة البدل عن الموجود الحاصل
+",000,False,000,False,False,False,2,1102
+"### || AUTO الكلام في التكليف
+",000,False,000,False,False,False,2,10274
+"### ||| AUTO فصل في بيان وجه الحكمة في ابتداء الخلق
+",000,False,000,False,False,False,3,509
+"### ||| AUTO فصل في المكلف الذي هو الإنسان ما هو؟
+",000,False,000,False,False,False,3,2008
+"### ||| AUTO فصل في حسن التكليف وبيان وجه الحكمة فيه
+",000,False,000,False,False,False,3,695
+"### ||| AUTO فصل في أن التكلف يحسن سواء قبل المكلف أو بعده
+",000,False,000,False,False,False,3,1799
+"### ||| AUTO فصل فيما يتناوله التكليف من الأفعال والتروك
+",000,False,000,False,False,False,3,154
+"### ||| AUTO فصل في شرائط حسن التكليف
+",000,False,000,False,False,False,3,2497
+"### || AUTO الكلام في الألطاف
+",000,False,000,False,False,False,2,15928
+"### ||| AUTO فصل فيما يصح أن يكون لطفا من أفعال المكلفين وما لايصح
+",000,False,000,False,False,False,3,962
+"### |||| AUTO فصل في الكلام على أهل الأصلح
+",000,False,000,False,False,False,4,419
+"### ||| AUTO القول في الآجال
+",000,False,000,False,False,False,3,1245
+"### ||| AUTO القول في الأرزاق
+",000,False,000,False,False,False,3,2093
+"### ||| AUTO القول في الأسعار
+",000,False,000,False,False,False,3,324
+"### ||| AUTO القول في الآلام والغموم
+",000,False,000,False,False,False,3,2158
+"### || AUTO الكلام في القرآن الكريم
+",000,False,000,False,False,False,2,6201
+"### ||| AUTO فصل في حقيقة الكلام والمتكلم
+",000,False,000,False,False,False,3,1753
+"### ||| AUTO القول في إبطال الكلام النفسي شاهدا وغائبا
+",000,False,000,False,False,False,3,1305
+"### ||| AUTO ### ||| AUTO القول في أن القرآن الكريم هو هذا الذي نتلوه
+",000,False,000,False,False,False,3,87
+"### ||| AUTO القول في أن القرآن الكريم محدث
+",000,False,000,False,False,False,3,1643
+"### |||| AUTO فصل في شبههم
+",000,False,000,False,False,False,4,549
+"### || AUTO الكلام في النبوات
+",000,False,000,False,False,False,2,14872
+"### ||| AUTO القول في نبوة محمد صلى الله عليه وسلم
+",000,False,000,False,False,False,3,8235
+"### || AUTO الكلام في الوعد والوعيد
+",000,False,000,False,False,False,2,59979
+"### ||| AUTO القول في الوعيد السمعي
+",000,False,000,False,False,False,3,29384
+"### |||| AUTO فصل: في إنقطاع التكليف.
+",000,False,000,False,False,False,4,16475
+"### ||| AUTO القول في خلود الفساق
+",000,False,000,False,False,False,3,1660
+"### ||| AUTO القول في الشفاعة
+",000,False,000,False,False,False,3,5852
+"### || AUTO الكلام فيما يعتد بأنه من الأحكام في أهل الوعد والوعيد
+",000,False,000,False,False,False,2,11121
+"### || AUTO الكلام في المهازلة كما سبق في المراوغة وهي من الهزل نقيض
+",000,False,000,False,False,False,2,33077
+"### ||| AUTO القول في التفسيق
+",000,False,000,False,False,False,3,1590
+"### ||| AUTO القول في الأمر بالمعروف والنهي عن المنكر
+",000,False,000,False,False,False,3,19610

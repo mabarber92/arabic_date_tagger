@@ -1,0 +1,235 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | المقدمة
+",000,False,000,False,False,False,1,540
+"### | البيان عن السناد والإقواء والإكفاء والإيطاء
+",000,False,000,False,False,False,1,2269
+"### | أولا- الشعراء الجاهليون
+",000,False,000,False,False,False,1,11129
+"### || 1- امرؤ القيس بن حجر الكندى 
+",000,False,000,False,False,False,2,2424
+"### || 2- النابغة الذبيانى 
+",000,False,000,False,False,False,2,1291
+"### || 3- زهير بن أبى سلمى 
+",000,False,000,False,False,False,2,784
+"### || 4- الأعشى أبو بصير 
+",000,False,000,False,False,False,2,1603
+"### || 5- طرفة بن العبد 
+",000,False,000,False,False,False,2,343
+"### || 6- بشر بن أبى خازم الأسدى 
+",000,False,000,False,False,False,2,224
+"### || 7- حسان بن ثابت الأنصارى 
+",000,False,000,False,False,False,2,810
+"### || 8- أوس بن حجر 
+",000,False,000,False,False,False,2,61
+"### || 9- النابغة الجعدى 
+",000,False,000,False,False,False,2,770
+"### || 10- الشماخ بن ضرار 
+",000,False,000,False,False,False,2,694
+"### || 11- لبيد بن ربيعة العامرى 
+",000,False,000,False,False,False,2,270
+"### || 12- عدى بن زيد العبادى 
+",000,False,000,False,False,False,2,264
+"### || 13- أبو دواد الإيادى 
+",000,False,000,False,False,False,2,72
+"### || 14- مهلهل بن ربيعة 
+",000,False,000,False,False,False,2,192
+"### || 15- عمرو بن الأهتم والزبرقان بن بدر التميميان 
+",000,False,000,False,False,False,2,263
+"### || 16- المتلمس الضبعى 
+",000,False,000,False,False,False,2,34
+"### || 17- المسيب بن علس الضبعى 
+",000,False,000,False,False,False,2,345
+"### || 18- أميه بن أبى الصلت الثقفى 
+",000,False,000,False,False,False,2,85
+"### || 19- النمر بن تولب 
+",000,False,000,False,False,False,2,108
+"### || 20- عمرو بن قميئة 
+",000,False,000,False,False,False,2,36
+"### || 21- قيس بن الخطيم 
+",000,False,000,False,False,False,2,149
+"### || 22- عمرو بن أحمر الباهلى 
+",000,False,000,False,False,False,2,75
+"### | [من عيوب الشعر]
+",000,False,000,False,False,False,1,3257
+"### || [من عيوب الوزن:]
+",000,False,000,False,False,False,2,303
+"### || [من عيوب المعانى:]
+",000,False,000,False,False,False,2,388
+"### || [من عيوب ائتلاف اللفظ والوزن]
+",000,False,000,False,False,False,2,85
+"### || [من عيوب ائتلاف المعنى والوزن معا]
+",000,False,000,False,False,False,2,160
+"### || [التشبيهات البعيدة- الغلو 
+",000,False,000,False,False,False,2,197
+"### || [من الأبيات التى قصر فيها أصحابها] :
+",000,False,000,False,False,False,2,612
+"### || [من الأبيات المستكرهة الألفاظ القلقة القوافى] :
+",000,False,000,False,False,False,2,270
+"### || [الشعر البعيد الغلق:]
+",000,False,000,False,False,False,2,147
+"### | [ثانيا] : الشعراء الإسلاميون
+",000,False,000,False,False,False,1,28507
+"### || 1- الفرزدق
+",000,False,000,False,False,False,2,4002
+"### || 2- جرير بن الخطفى 
+",000,False,000,False,False,False,2,3280
+"### || 3- الأخطل 
+",000,False,000,False,False,False,2,2326
+"### || 4- كثير بن عبد الرحمن 
+",000,False,000,False,False,False,2,3103
+"### || 5- راعى الإبل النميرى وعمه 
+",000,False,000,False,False,False,2,246
+"### || 6- القطامى [1]
+",000,False,000,False,False,False,2,115
+"### || 7- أخبار تشتمل على ذكر جماعة من شعراء الإسلام
+",000,False,000,False,False,False,2,2510
+"### || 8- ذو الرمة [1]
+",000,False,000,False,False,False,2,3369
+"### || 9- عبيد الله بن قيس الرقيات 
+",000,False,000,False,False,False,2,322
+"### || 10- الأحوص بن محمد 
+",000,False,000,False,False,False,2,374
+"### || 11- أبو دهيل الجمحى 
+",000,False,000,False,False,False,2,83
+"### || 12- نصيب الأسود 
+",000,False,000,False,False,False,2,245
+"### || 13- عدى بن الرقاع 
+",000,False,000,False,False,False,2,80
+"### || 14- أعشى همدان 
+",000,False,000,False,False,False,2,98
+"### || 15- الكميت بن زيد الأسدى 
+",000,False,000,False,False,False,2,1382
+"### || 16- جميل بن معمر العذرى 
+",000,False,000,False,False,False,2,603
+"### || 17- عمر بن أبى ربيعة 
+",000,False,000,False,False,False,2,1309
+"### || 18- قيس بن ذريح 
+",000,False,000,False,False,False,2,95
+"### || 19- مجنون بنى عامر 
+",000,False,000,False,False,False,2,193
+"### || 20- الطرماح 
+",000,False,000,False,False,False,2,283
+"### || 21- الحارث بن خالد المخزومى 
+",000,False,000,False,False,False,2,280
+"### || 22- عبد الله بن عمر العبلى 
+",000,False,000,False,False,False,2,176
+"### || 23- عروة بن أذينة 
+",000,False,000,False,False,False,2,295
+"### || 24- الأغلب العجلى [1]
+",000,False,000,False,False,False,2,148
+"### || 25- أبو النجم العجلى 
+",000,False,000,False,False,False,2,309
+"### || 26- العجاج 
+",000,False,000,False,False,False,2,752
+"### || 27- رؤبة بن العجاج 
+",000,False,000,False,False,False,2,111
+"### || 28- أبو نخيلة السعدى 
+",000,False,000,False,False,False,2,138
+"### || 29- مالك بن أسماء بن خارجة الفزارى 
+",000,False,000,False,False,False,2,86
+"### || 30- القحيف العامرى 
+",000,False,000,False,False,False,2,36
+"### || 31- الأقيشر الأسدى 
+",000,False,000,False,False,False,2,46
+"### || 32- أيمن بن خريم بن فاتك الأسدى 
+",000,False,000,False,False,False,2,392
+"### || 33- ابن هرمة 
+",000,False,000,False,False,False,2,400
+"### || 34- عبد الرحمن القس 
+",000,False,000,False,False,False,2,348
+"### || 35- نوح بن جرير 
+",000,False,000,False,False,False,2,224
+"### || 36- أبو حية انميرى
+",000,False,000,False,False,False,2,81
+"### || 37- ابن ميادة المرى 
+",000,False,000,False,False,False,2,417
+"### || 38- عبد الله بن مسلم بن جندب الهذلى
+",000,False,000,False,False,False,2,157
+"### || 39- الحسين بن مطير 
+",000,False,000,False,False,False,2,140
+"### | [من عيوب معانى الشعر:]
+",000,False,000,False,False,False,1,2866
+"### || [من عيوب ائتلاف اللفظ والمعنى:]
+",000,False,000,False,False,False,2,258
+"### || [من عيوب ائتلاف اللفظ والوزن:]
+",000,False,000,False,False,False,2,226
+"### || [من العيوب العامة للمعانى:]
+",000,False,000,False,False,False,2,183
+"### | [ثالثا-] الشعراء المحدثون
+",000,False,000,False,False,False,1,22003
+"### || 1- بشار بن برد العقبلى
+",000,False,000,False,False,False,2,840
+"### || 2- مروان بن أبى حفصة
+",000,False,000,False,False,False,2,779
+"### || 2- أبو العتاهية 
+",000,False,000,False,False,False,2,1779
+"### || 4- أبو نواس الحسن بن هانئ 
+",000,False,000,False,False,False,2,5135
+"### || 5- مسلم بن الوليد الأنصارى
+",000,False,000,False,False,False,2,172
+"### || 6- العباس بن الأحنف
+",000,False,000,False,False,False,2,560
+"### || 7- كلثوم بن عمرو العتابى 
+",000,False,000,False,False,False,2,396
+"### || 8- أشجع السلمى [1]
+",000,False,000,False,False,False,2,168
+"### || 9- محمد بن ms203 مناذر 
+",000,False,000,False,False,False,2,206
+"### || 10- المؤمل بن أميل المحاربى
+",000,False,000,False,False,False,2,82
+"### || 11- العمانى الراجز 
+",000,False,000,False,False,False,2,157
+"### || 12- بكر بن النطاح 
+",000,False,000,False,False,False,2,59
+"### || 13- الفضل الرقاشى 
+",000,False,000,False,False,False,2,136
+"### || 14- محمد بن يسبر الحميرى 
+",000,False,000,False,False,False,2,77
+"### || 15- محمد بن وهيب الحمبرى 
+",000,False,000,False,False,False,2,50
+"### || 16- دعبل بن على الخزاعى 
+",000,False,000,False,False,False,2,159
+"### || 17- إسحاق بن إبراهيم الموصلى
+",000,False,000,False,False,False,2,429
+"### || 18- مروان بن أبى الجنوب 
+",000,False,000,False,False,False,2,317
+"### || 19- أبو تمام الطائى 
+",000,False,000,False,False,False,2,5065
+"### || 20- أبو عبادة البحترى 
+",000,False,000,False,False,False,2,2690
+"### || 21- يزيد بن محمد المهلبى 
+",000,False,000,False,False,False,2,72
+"### || 22- أحمد بن المعذل 
+",000,False,000,False,False,False,2,174
+"### || 23- على بن الجهم
+",000,False,000,False,False,False,2,218
+"### || 24- عبد الصمد بن المعذل
+",000,False,000,False,False,False,2,87
+"### || 25- على بن محمد العلوى الكوفى
+",000,False,000,False,False,False,2,102
+"### || 26- أبو سعد المخزومى
+",000,False,000,False,False,False,2,104
+"### || 27- أحمد بن أبى فنن 
+",000,False,000,False,False,False,2,143
+"### || 28- محمود الوراق 
+",000,False,000,False,False,False,2,103
+"### || 29- إسحاق بن خلف البصرى
+",000,False,000,False,False,False,2,34
+"### || 30- أحمد بن المدبر الكاتب 
+",000,False,000,False,False,False,2,109
+"### || 31- ابن أبى عون الكاتب 
+",000,False,000,False,False,False,2,89
+"### || 32- أحمد بن على المادرائى الكاتب
+",000,False,000,False,False,False,2,103
+"### || 33- محمود بن مروان بن أبى الجنوب
+",000,False,000,False,False,False,2,75
+"### || 34- أحمد بن أبى طاهر 
+",000,False,000,False,False,False,2,156
+"### || 35- جماعة من الشعراء
+",000,False,000,False,False,False,2,815
+"### || 36- عبيد الله بن عبد الله بن طاهر 
+",000,False,000,False,False,False,2,247
+"### || 37- سليمان ms244 بن عبد الله بن طاهر
+",000,False,000,False,False,False,2,49
+"### | [رابعا]- ما جاء فى ذم الشعر الردىء
+",000,False,000,False,False,False,1,27821

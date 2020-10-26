@@ -1,0 +1,447 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | مقدمة
+",000,False,000,False,False,False,1,1224
+"### || مقدمة الطبعة الاولى
+",000,False,000,False,False,False,2,292
+"### | مقدمة المؤلف
+",000,False,000,False,False,False,1,5098
+"### || الدولة الاولى للأولياء قبل الدخول إلى أرض الميعاد
+",000,False,000,False,False,False,2,240
+"### || (آدم)
+",000,False,000,False,False,False,2,508
+"### || (شيث بن آدم)
+",000,False,000,False,False,False,2,73
+"### || (انوش بن ms008 شيث)
+",000,False,000,False,False,False,2,56
+"### || (قينان بن انوش)
+",000,False,000,False,False,False,2,35
+"### || (مهلالايل بن قينان)
+",000,False,000,False,False,False,2,38
+"### || (يرد بن مهلالايل)
+",000,False,000,False,False,False,2,76
+"### || (حنوخ [1] بن يرد)
+",000,False,000,False,False,False,2,383
+"### || (متوشلح بن حنوخ)
+",000,False,000,False,False,False,2,29
+"### || (لمك بن متوشلح)
+",000,False,000,False,False,False,2,459
+"### || (شام بن نوح)
+",000,False,000,False,False,False,2,157
+"### || (أرفخشد بن شام)
+",000,False,000,False,False,False,2,43
+"### || (قينان بن أرفخشد)
+",000,False,000,False,False,False,2,68
+"### || (شالح بن قينان)
+",000,False,000,False,False,False,2,28
+"### || (عابر بن شالح)
+",000,False,000,False,False,False,2,112
+"### || (فالغ بن عابر)
+",000,False,000,False,False,False,2,92
+"### || (ارعو بن فالغ)
+",000,False,000,False,False,False,2,140
+"### || (ساروغ بن ارعو)
+",000,False,000,False,False,False,2,84
+"### || (ناحور بن ساروغ)
+",000,False,000,False,False,False,2,51
+"### || (ترح بن ناحور)
+",000,False,000,False,False,False,2,45
+"### || (ابراهيم بن ترح)
+",000,False,000,False,False,False,2,430
+"### || (اسحق بن ابرهيم)
+",000,False,000,False,False,False,2,85
+"### || (يعقوب بن اسحق)
+",000,False,000,False,False,False,2,459
+"### || (لاوي بن يعقوب)
+",000,False,000,False,False,False,2,41
+"### || (قاهاث بن لاوي)
+",000,False,000,False,False,False,2,38
+"### || (عمرم بن قاهاث)
+",000,False,000,False,False,False,2,62
+"### | الدولة الثانية المنتقلة من الأولياء الى القضاة قضاة بني إسرائيل
+",000,False,000,False,False,False,1,1308
+"### || (أيشوع [1] بن نون)
+",000,False,000,False,False,False,2,222
+"### || (فينحاس [1] بن اليعازر بن هرون الكاهن)
+",000,False,000,False,False,False,2,105
+"### || (كوشن الأثيم [3] المتغلب)
+",000,False,000,False,False,False,2,34
+"### || (عثنائيل)
+",000,False,000,False,False,False,2,43
+"### || (عجلون)
+",000,False,000,False,False,False,2,38
+"### || (اهور بن جارا)
+",000,False,000,False,False,False,2,110
+"### || (شمغر بن عناث)
+",000,False,000,False,False,False,2,47
+"### || (يابين ملك حاصور)
+",000,False,000,False,False,False,2,47
+"### || (دبورا النبية وبارق)
+",000,False,000,False,False,False,2,119
+"### || (المذيانيون)
+",000,False,000,False,False,False,2,51
+"### || (جذعون)
+",000,False,000,False,False,False,2,55
+"### || (ابيملك بن جذعون)
+",000,False,000,False,False,False,2,29
+"### || (تولع بن فوا)
+",000,False,000,False,False,False,2,40
+"### || (يائير الجلعدي)
+",000,False,000,False,False,False,2,16
+"### || (العمونيون)
+",000,False,000,False,False,False,2,25
+"### || (يفتاح)
+",000,False,000,False,False,False,2,105
+"### || (ابيصان)
+",000,False,000,False,False,False,2,16
+"### || (الون)
+",000,False,000,False,False,False,2,29
+"### || (ابدون [3] بن هليان)
+",000,False,000,False,False,False,2,51
+"### || (الفلسطينيون)
+",000,False,000,False,False,False,2,32
+"### || (شمشون الجبار المتقشف)
+",000,False,000,False,False,False,2,25
+"### || (مشايخ الأمة)
+",000,False,000,False,False,False,2,33
+"### || (عالي الكاهن)
+",000,False,000,False,False,False,2,24
+"### | الدولة الثالثة المنتقلة من قضاة بني إسرائيل إلى ملوكهم
+",000,False,000,False,False,False,1,4464
+"### || (شاول)
+",000,False,000,False,False,False,2,818
+"### || (داود بن ايشي)
+",000,False,000,False,False,False,2,533
+"### || (سليمان بن داود)
+",000,False,000,False,False,False,2,482
+"### || (رحبعم بن سليمان)
+",000,False,000,False,False,False,2,234
+"### || (ابيا بن رحبعم)
+",000,False,000,False,False,False,2,65
+"### || (آسا بن ابيا)
+",000,False,000,False,False,False,2,99
+"### || (يوشافاط بن آسا)
+",000,False,000,False,False,False,2,194
+"### || (يورم بن يوشافاط)
+",000,False,000,False,False,False,2,27
+"### || (احزيا بن يورم)
+",000,False,000,False,False,False,2,34
+"### || (عثليا ام احازيا)
+",000,False,000,False,False,False,2,47
+"### || (يواش بن احزيا)
+",000,False,000,False,False,False,2,88
+"### || (اموصيا بن يواش)
+",000,False,000,False,False,False,2,57
+"### || (عوزيا بن اموصيا [1]
+",000,False,000,False,False,False,2,143
+"### || (يوثم بن عوزيا)
+",000,False,000,False,False,False,2,139
+"### || (أحاز بن يوثم)
+",000,False,000,False,False,False,2,390
+"### || (حزقيا بن أحاز)
+",000,False,000,False,False,False,2,326
+"### || (منشا بن حزقيا)
+",000,False,000,False,False,False,2,135
+"### || (امون بن مناشا)
+",000,False,000,False,False,False,2,165
+"### || (يوشيا بن امون)
+",000,False,000,False,False,False,2,119
+"### || (يهواحاز بن يوشيا)
+",000,False,000,False,False,False,2,33
+"### || (يوياقيم بن يوشيا)
+",000,False,000,False,False,False,2,85
+"### || (يوياخين [3] بن يوياقيم)
+",000,False,000,False,False,False,2,63
+"### | الدولة الرابعة المنتقلة من ملوك بني إسرائيل الى ملوك الكلدانيين
+",000,False,000,False,False,False,1,1104
+"### || (بختنصر بن نبوفلسر)
+",000,False,000,False,False,False,2,793
+"### || (أول مرودخ بن بختنصر)
+",000,False,000,False,False,False,2,41
+"### | الدولة الخامسة المنتقلة من ملوك الكلدانيين الى ملوك الفرس
+",000,False,000,False,False,False,1,2344
+"### || (داريوش المادي [1]
+",000,False,000,False,False,False,2,253
+"### || (كورش الفارسي)
+",000,False,000,False,False,False,2,210
+"### || (قمباسوس بن كورش)
+",000,False,000,False,False,False,2,99
+"### || (داريوش بن بشتسب [2] :
+",000,False,000,False,False,False,2,481
+"### || (احشيرش بن داريوش)
+",000,False,000,False,False,False,2,66
+"### || (ارطبانس)
+",000,False,000,False,False,False,2,15
+"### || (ارطحششت الطويل اليدين ms051)
+",000,False,000,False,False,False,2,98
+"### || (احشيرش الثاني)
+",000,False,000,False,False,False,2,28
+"### || (سغدينوس [5]
+",000,False,000,False,False,False,2,24
+"### || (داريوش نوثوش [6]
+",000,False,000,False,False,False,2,34
+"### || (ارطحششت الثاني)
+",000,False,000,False,False,False,2,92
+"### || (ارطحششت الثالث)
+",000,False,000,False,False,False,2,49
+"### || (ارسيس [3] بن اوخوس)
+",000,False,000,False,False,False,2,314
+"### | الدولة السادسة المنتقلة من ملوك الفرس المجوس إلى ملوك اليونانيين الوثنيين
+",000,False,000,False,False,False,1,1811
+"### || (الإسكندر بن فيليفوس) :
+",000,False,000,False,False,False,2,300
+"### || (بطلميوس بن لاغوس)
+",000,False,000,False,False,False,2,138
+"### || (بطلميوس فيلاذلفوس)
+",000,False,000,False,False,False,2,285
+"### || (بطلميوس اورغاطيس)
+",000,False,000,False,False,False,2,45
+"### || (بطلميوس فيليفاطور)
+",000,False,000,False,False,False,2,43
+"### || (بطلميوس افيفانوس)
+",000,False,000,False,False,False,2,168
+"### || (بطلميوس فيلوميطور)
+",000,False,000,False,False,False,2,112
+"### || (بطلميوس اورغاطيس الثاني)
+",000,False,000,False,False,False,2,109
+"### || (بطلميوس فيسقوس)
+",000,False,000,False,False,False,2,183
+"### || (بطلميوس الاكسندروس)
+",000,False,000,False,False,False,2,57
+"### || (بطلميوس فيسقوس)
+",000,False,000,False,False,False,2,35
+"### || (بطلميوس ذيانوسيوس)
+",000,False,000,False,False,False,2,61
+"### | الدولة السابعة المنتقلة من اليونانيين الوثنيين إلى ملوك الإفرنج
+",000,False,000,False,False,False,1,6666
+"### || (اغوسطس قيصر)
+",000,False,000,False,False,False,2,379
+"### || (طيباريوس قيصر)
+",000,False,000,False,False,False,2,543
+"### || (غاييوس قيصر)
+",000,False,000,False,False,False,2,88
+"### || (قلوذيوس قيصر)
+",000,False,000,False,False,False,2,154
+"### || (نارون قيصر)
+",000,False,000,False,False,False,2,78
+"### || (اسفسيانوس قيصر)
+",000,False,000,False,False,False,2,163
+"### || (طيطوس قيصر)
+",000,False,000,False,False,False,2,57
+"### || (ذوميطيانوس قيصر)
+",000,False,000,False,False,False,2,166
+"### || (طريانوس قيصر)
+",000,False,000,False,False,False,2,193
+"### || (اذريانس قيصر)
+",000,False,000,False,False,False,2,131
+"### || (طيطوس انطونيانس قيصر)
+",000,False,000,False,False,False,2,426
+"### || (مرقوس اورليوس قيصر)
+",000,False,000,False,False,False,2,142
+"### || (فرطيناخس قيصر)
+",000,False,000,False,False,False,2,16
+"### || (سوريانس قيصر)
+",000,False,000,False,False,False,2,50
+"### || (انطونيانس قيصر)
+",000,False,000,False,False,False,2,19
+"### || (ماقرينوس قيصر [2]
+",000,False,000,False,False,False,2,21
+"### || (انطونيانس قيصر المعروف باليوغالي)
+",000,False,000,False,False,False,2,32
+"### || (الإسكندروس قيصر)
+",000,False,000,False,False,False,2,57
+"### || (مكسيميانوس قيصر)
+",000,False,000,False,False,False,2,20
+"### || (غورديانس [5] قيصر)
+",000,False,000,False,False,False,2,24
+"### || (فيليبوس قيصر)
+",000,False,000,False,False,False,2,103
+"### || (ذوقيوس قيصر)
+",000,False,000,False,False,False,2,92
+"### || (غالوس قيصر)
+",000,False,000,False,False,False,2,83
+"### || (اولارينوس قيصر)
+",000,False,000,False,False,False,2,31
+"### || (غالوس قيصر الثاني)
+",000,False,000,False,False,False,2,120
+"### || (قلوذيس قيصر)
+",000,False,000,False,False,False,2,30
+"### || (اورلينوس قيصر)
+",000,False,000,False,False,False,2,324
+"### || (ططقيطوس قيصر)
+",000,False,000,False,False,False,2,27
+"### || (فروبوس قيصر)
+",000,False,000,False,False,False,2,43
+"### || (قاروس قيصر)
+",000,False,000,False,False,False,2,35
+"### || (ذيوقليطيانوس قيصر)
+",000,False,000,False,False,False,2,233
+"### || (قسطنطيس قيصر الكبير)
+",000,False,000,False,False,False,2,100
+"### || (قسطنطينوس قيصر القاهر)
+",000,False,000,False,False,False,2,542
+"### || (قسطنطينوس وقسطوس وقسطنطيس)
+",000,False,000,False,False,False,2,188
+"### || (يوليانوس قيصر)
+",000,False,000,False,False,False,2,331
+"### || (يوينيانس قيصر)
+",000,False,000,False,False,False,2,84
+"### || (اولنطيانس قيصر)
+",000,False,000,False,False,False,2,126
+"### || (واليس قيصر)
+",000,False,000,False,False,False,2,57
+"### || (غراطيانس قيصر)
+",000,False,000,False,False,False,2,41
+"### || (ثاوذوسيوس قيصر الكبير)
+",000,False,000,False,False,False,2,79
+"### || (ارقاذيوس قيصر)
+",000,False,000,False,False,False,2,216
+"### || (ثاوذوسيوس قيصر الصغير)
+",000,False,000,False,False,False,2,203
+"### || (مرقيانوس قيصر)
+",000,False,000,False,False,False,2,65
+"### || (لان قيصر) :
+",000,False,000,False,False,False,2,71
+"### || (لاونطيوس قيصر)
+",000,False,000,False,False,False,2,60
+"### || (زينون قيصر)
+",000,False,000,False,False,False,2,38
+"### || (انسطس قيصر)
+",000,False,000,False,False,False,2,140
+"### || (يوسطينيانس قيصر [4]
+",000,False,000,False,False,False,2,150
+"### || (يوسطينيانس قيصر الصغير)
+",000,False,000,False,False,False,2,256
+"### | الدولة الثامنة المنتقلة من ملوك الإفرنج إلى ملوك اليونانيين المتنصرين
+",000,False,000,False,False,False,1,1028
+"### || (طيباريوس قيصر)
+",000,False,000,False,False,False,2,89
+"### || (موريقي قيصر)
+",000,False,000,False,False,False,2,495
+"### || (فوقا قيصر) .
+",000,False,000,False,False,False,2,86
+"### | الدولة التاسعة المنتقلة من ملوك اليونانيين المتنصرين إلى ملوك العرب
+",000,False,000,False,False,False,1,58101
+"### || (محمد بن عبد الله عليه السلام)
+",000,False,000,False,False,False,2,1395
+"### || (ابو بكر الصديق)
+",000,False,000,False,False,False,2,384
+"### || (عمر بن الخطاب)
+",000,False,000,False,False,False,2,1060
+"### || (عثمان بن عفان)
+",000,False,000,False,False,False,2,48
+"### || (علي بن ابي طالب) 
+",000,False,000,False,False,False,2,519
+"### || (علي بن ابي طالب)
+",000,False,000,False,False,False,2,1078
+"### || (الحسن بن علي بن ابي طالب)
+",000,False,000,False,False,False,2,284
+"### || (معاوية بن ابي سفيان)
+",000,False,000,False,False,False,2,318
+"### || (يزيد بن معاوية)
+",000,False,000,False,False,False,2,370
+"### || (معاوية بن يزيد)
+",000,False,000,False,False,False,2,122
+"### || (مروان بن الحكم)
+",000,False,000,False,False,False,2,70
+"### || (عبد الملك بن مروان).
+",000,False,000,False,False,False,2,152
+"### || (عبد الملك بن مروان)
+",000,False,000,False,False,False,2,299
+"### || (الوليد بن عبد الملك)
+",000,False,000,False,False,False,2,282
+"### || (سليمان بن عبد الملك)
+",000,False,000,False,False,False,2,303
+"### || (عمر بن عبد العزيز)
+",000,False,000,False,False,False,2,181
+"### || (يزيد بن عبد الملك)
+",000,False,000,False,False,False,2,215
+"### || (هشام بن عبد الملك)
+",000,False,000,False,False,False,2,437
+"### || (الوليد بن يزيد بن عبد الملك)
+",000,False,000,False,False,False,2,416
+"### || (يزيد بن الوليد بن عبد الملك)
+",000,False,000,False,False,False,2,101
+"### || (ابراهيم بن الوليد بن عبد الملك)
+",000,False,000,False,False,False,2,58
+"### || (مروان بن محمد بن مروان بن الحكم)
+",000,False,000,False,False,False,2,281
+"### || (ابو العباس السفاح)
+",000,False,000,False,False,False,2,232
+"### || (ابو جعفر المنصور)
+",000,False,000,False,False,False,2,1671
+"### || (المهدي بن المنصور)
+",000,False,000,False,False,False,2,820
+"### || (الهادي بن المهدي)
+",000,False,000,False,False,False,2,188
+"### || (هرون الرشيد بن المهدي)
+",000,False,000,False,False,False,2,1273
+"### || (الأمين بن الرشيد)
+",000,False,000,False,False,False,2,634
+"### || (المأمون بن الرشيد)
+",000,False,000,False,False,False,2,1475
+"### || (المعتصم بن الرشيد)
+",000,False,000,False,False,False,2,709
+"### || (الواثق بالله هرون بن المعتصم)
+",000,False,000,False,False,False,2,428
+"### || (المتوكل على الله جعفر بن المعتصم)
+",000,False,000,False,False,False,2,1188
+"### || (المنتصر بن المتوكل)
+",000,False,000,False,False,False,2,172
+"### || (المستعين احمد بن محمد بن المعتصم)
+",000,False,000,False,False,False,2,348
+"### || (المهتدي بن الواثق)
+",000,False,000,False,False,False,2,121
+"### || (المعتمد بن المتوكل)
+",000,False,000,False,False,False,2,860
+"### || (المعتضد بن الموفق)
+",000,False,000,False,False,False,2,1129
+"### || (المكتفي بن المعتضد)
+",000,False,000,False,False,False,2,276
+"### || (المقتدر بن المعتضد)
+",000,False,000,False,False,False,2,1407
+"### || (القاهر بن المعتضد)
+",000,False,000,False,False,False,2,1314
+"### || (الراضي بن المقتدر)
+",000,False,000,False,False,False,2,521
+"### || (المتقي بن المقتدر)
+",000,False,000,False,False,False,2,533
+"### || (المستكفي بن المكتفي)
+",000,False,000,False,False,False,2,557
+"### || (المطيع بن المقتدر)
+",000,False,000,False,False,False,2,1035
+"### || (الطائع بن المطيع)
+",000,False,000,False,False,False,2,2329
+"### || (القادر بن اسحق بن المقتدر)
+",000,False,000,False,False,False,2,1617
+"### || (القائم بن القادر)
+",000,False,000,False,False,False,2,2874
+"### || (المقتدي بن محمد بن القائم)
+",000,False,000,False,False,False,2,985
+"### || (المستظهر بن المقتدي)
+",000,False,000,False,False,False,2,1687
+"### || (المسترشد بن المستظهر)
+",000,False,000,False,False,False,2,1006
+"### || (الرشيد بن المسترشد)
+",000,False,000,False,False,False,2,327
+"### || (المقتفي بن المستظهر)
+",000,False,000,False,False,False,2,1851
+"### || (المستنجد بن المقتفي)
+",000,False,000,False,False,False,2,914
+"### || (المستضي بن المستنجد)
+",000,False,000,False,False,False,2,1029
+"### || (الناصر بن المستضيء) :
+",000,False,000,False,False,False,2,7885
+"### || (الظاهر بن الناصر) :
+",000,False,000,False,False,False,2,460
+"### || (المستنصر بن الظاهر)
+",000,False,000,False,False,False,2,3542
+"### | الدولة العاشرة المنتقلة من ملوك العرب المسلمين الى ملوك المغول
+",000,False,000,False,False,False,1,7124
+"### || (هولاكو بن تولي خان [1]
+",000,False,000,False,False,False,2,1595
+"### || (جلوس قوبلاي قاان على كرسي المملكة) :
+",000,False,000,False,False,False,2,1213
+"### || (اباقا ايلخان)
+",000,False,000,False,False,False,2,1526
+"### || (السلطان احمد)
+",000,False,000,False,False,False,2,2517

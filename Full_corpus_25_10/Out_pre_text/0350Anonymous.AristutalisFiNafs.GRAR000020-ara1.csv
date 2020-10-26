@@ -1,0 +1,69 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [book 1]
+",000,False,000,False,False,False,1,5893
+"### || [chapter 1: I 1]
+",000,False,000,False,False,False,2,1034
+"### ||| هذا كتاب أرسطاطاليس وفص كلامه فى النفس ترجمة اسحق بن حنين
+",000,False,000,False,False,False,3,11
+"### ||| المقالة الأولى
+",000,False,000,False,False,False,3,2
+"### || [chapter 2: I 2] 〈مذاهب الناس فى النفس〉
+",000,False,000,False,False,False,2,1199
+"### || [chapter 3: I 3] 〈نقد نظرية النفس الحركة نفسها〉
+",000,False,000,False,False,False,2,1195
+"### || [chapter 4: I 4] 〈نظرية النفس — تأليف، ونظرية النفس عدد محرك لذاته〉
+",000,False,000,False,False,False,2,987
+"### | [book 2]
+",000,False,000,False,False,False,1,7361
+"### || [chapter 6: II 1]
+",000,False,000,False,False,False,2,554
+"### ||| المقالة الثانية من كتاب النفس
+",000,False,000,False,False,False,3,5
+"### || [chapter 7: II 2] 〈تعليل هذا الحد للنفس〉
+",000,False,000,False,False,False,2,787
+"### || [chapter 8: II 3] 〈قوى النفس فى مختلف الكائنات الحية〉
+",000,False,000,False,False,False,2,475
+"### || [chapter 9: II 4] 〈فى القوة الغاذية〉
+",000,False,000,False,False,False,2,999
+"### || [chapter 10: II 5] 〈القوة الحاسة〉
+",000,False,000,False,False,False,2,642
+"### || [chapter 11: II 6] 〈موضوعات الحواس〉
+",000,False,000,False,False,False,2,163
+"### || [chapter 12: II 7] 〈البصر والمبصرات〉
+",000,False,000,False,False,False,2,646
+"### || [chapter 13: II 8] 〈السمع والقرع〉
+",000,False,000,False,False,False,2,982
+"### || [chapter 14: II 9] 〈الشم والرائحة〉
+",000,False,000,False,False,False,2,590
+"### || [chapter 15: II 10] 〈الذوق والطعم〉
+",000,False,000,False,False,False,2,363
+"### || [chapter 16: II 11] 〈اللمس والملموس〉
+",000,False,000,False,False,False,2,837
+"### | [book 3]
+",000,False,000,False,False,False,1,6159
+"### || [chapter 18: III 1]
+",000,False,000,False,False,False,2,508
+"### ||| المقالة الثالثة من كتاب أرسطاطاليس «فى النفس»
+",000,False,000,False,False,False,3,5
+"### || [chapter 19: III 2] 〈الحس المشترك: وظيفتاه الثانية والثالثة〉
+",000,False,000,False,False,False,2,837
+"### || [chapter 20: III 3] 〈الفكر والإدراك والخيال〉
+",000,False,000,False,False,False,2,915
+"### || [chapter 21: III 4] 〈العقل المنفعل〉
+",000,False,000,False,False,False,2,588
+"### || [chapter 22: III 5] 〈العقل الفعال〉
+",000,False,000,False,False,False,2,143
+"### || [chapter 23: III 6] 〈أفعال العقل: تعقل المركبات، وتعقل البسائط〉
+",000,False,000,False,False,False,2,314
+"### || [chapter 24: III 7] 〈العقل العملى〉
+",000,False,000,False,False,False,2,439
+"### || [chapter 25: III 8] 〈العقل والحس والخيال〉
+",000,False,000,False,False,False,2,224
+"### || [chapter 26: III 9] 〈القوة المحركة〉
+",000,False,000,False,False,False,2,551
+"### || [chapter 27: III 10] 〈علة الحركة فى الكائنات الحية〉
+",000,False,000,False,False,False,2,486
+"### || [chapter 28: III 11] 〈علة الحركة فى الكائنات الحية — تابع〉
+",000,False,000,False,False,False,2,217
+"### || [chapter 29: III 12] 〈عمل الحواس المختلفة فى حفظ الكائن الحى〉
+",000,False,000,False,False,False,2,576

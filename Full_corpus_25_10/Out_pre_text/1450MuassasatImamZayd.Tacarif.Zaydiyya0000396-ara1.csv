@@ -1,0 +1,15 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK [تعاريف]
+",000,False,000,False,False,False,1,15622
+"### || AUTO أصول دين
+",000,False,000,False,False,False,2,3418
+"### || AUTO علوم القرآن
+",000,False,000,False,False,False,2,229
+"### || AUTO علوم الحديث
+",000,False,000,False,False,False,2,4052
+"### || AUTO تربية روحية
+",000,False,000,False,False,False,2,2452
+"### || AUTO سير وتراجم
+",000,False,000,False,False,False,2,3297
+"### || AUTO أدب
+",000,False,000,False,False,False,2,654

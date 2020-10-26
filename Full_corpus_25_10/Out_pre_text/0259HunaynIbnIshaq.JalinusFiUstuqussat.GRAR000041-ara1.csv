@@ -1,0 +1,29 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [book 1]
+",000,False,000,False,False,False,1,12326
+"### || [chapter 1: I 1]
+",000,False,000,False,False,False,2,303
+"### || [chapter 2: I 2]
+",000,False,000,False,False,False,2,1940
+"### || [chapter 3: I 3]
+",000,False,000,False,False,False,2,2507
+"### || [chapter 4: I 4]
+",000,False,000,False,False,False,2,1009
+"### || [chapter 5: I 5]
+",000,False,000,False,False,False,2,1324
+"### || [chapter 6: I 6]
+",000,False,000,False,False,False,2,2580
+"### || [chapter 7: I 7]
+",000,False,000,False,False,False,2,450
+"### || [chapter 8: I 8]
+",000,False,000,False,False,False,2,691
+"### | [book 2]
+",000,False,000,False,False,False,1,2504
+"### || [chapter 10: II 1] [القول الثانى]
+",000,False,000,False,False,False,2,196
+"### || [chapter 11: II 2]
+",000,False,000,False,False,False,2,722
+"### || [chapter 12: II 3]
+",000,False,000,False,False,False,2,429
+"### || [chapter 13: II 4]
+",000,False,000,False,False,False,2,804

@@ -1,0 +1,175 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | مقدمة
+",000,False,000,False,False,False,1,869
+"### | مقدمة المؤلف
+",000,False,000,False,False,False,1,65
+"### | الكلام وما يتألف منه
+",000,False,000,False,False,False,1,73
+"### | المعرب والمبني
+",000,False,000,False,False,False,1,349
+"### | النكرة والمعرفه:
+",000,False,000,False,False,False,1,198
+"### | العلم
+",000,False,000,False,False,False,1,85
+"### | اسم الإشاره:
+",000,False,000,False,False,False,1,67
+"### | الموصول
+",000,False,000,False,False,False,1,180
+"### | المعرف بأداة التعريف
+",000,False,000,False,False,False,1,71
+"### | الابتداء
+",000,False,000,False,False,False,1,290
+"### | كان وأخواتها
+",000,False,000,False,False,False,1,156
+"### | فصل في ما ولا ولات وإن المشبهات بليس
+",000,False,000,False,False,False,1,78
+"### | أفعال المقاربة
+",000,False,000,False,False,False,1,103
+"### | إن وأخواتها
+",000,False,000,False,False,False,1,238
+"### | لا التي لنفى الجنس:
+",000,False,000,False,False,False,1,99
+"### | ظل وأخواتها
+",000,False,000,False,False,False,1,142
+"### | أعلم وأرى
+",000,False,000,False,False,False,1,49
+"### | الفاعل
+",000,False,000,False,False,False,1,174
+"### | النائب عن الفاعل
+",000,False,000,False,False,False,1,131
+"### | اشتغال العامل عن المعمول
+",000,False,000,False,False,False,1,129
+"### | تعدي الفعل ولزومه
+",000,False,000,False,False,False,1,113
+"### | التنازع في العمل
+",000,False,000,False,False,False,1,83
+"### | المفعول المطلق
+",000,False,000,False,False,False,1,119
+"### | المفعول له
+",000,False,000,False,False,False,1,49
+"### | المفعول فيه وهو المسمى ظرفا
+",000,False,000,False,False,False,1,87
+"### | المفعول معه
+",000,False,000,False,False,False,1,59
+"### | الاستثناء
+",000,False,000,False,False,False,1,163
+"### | الحال
+",000,False,000,False,False,False,1,302
+"### | التمييز
+",000,False,000,False,False,False,1,10
+"### | حروف الجر
+",000,False,000,False,False,False,1,219
+"### | الإضافة
+",000,False,000,False,False,False,1,344
+"### | المضاف الى ياء المتكلم
+",000,False,000,False,False,False,1,51
+"### | إعمال المصدر
+",000,False,000,False,False,False,1,49
+"### | إعمال اسم الفاعل
+",000,False,000,False,False,False,1,123
+"### | أبنية المصادر
+",000,False,000,False,False,False,1,148
+"### | أبنية الفاعلين والمفعولين (والصفات المشبهات بها)
+",000,False,000,False,False,False,1,110
+"### | الصفة المشبهة باسم الفاعل:
+",000,False,000,False,False,False,1,76
+"### | التعجب:
+",000,False,000,False,False,False,1,111
+"### | نعم وبئس وما جرى مجراهما:
+",000,False,000,False,False,False,1,137
+"### | أفعل التفضيل
+",000,False,000,False,False,False,1,82
+"### | النعت:
+",000,False,000,False,False,False,1,132
+"### | التوكيد
+",000,False,000,False,False,False,1,133
+"### | العطف
+",000,False,000,False,False,False,1,57
+"### | عطف النسق
+",000,False,000,False,False,False,1,259
+"### | البدل
+",000,False,000,False,False,False,1,79
+"### | النداء:
+",000,False,000,False,False,False,1,123
+"### | فصل
+",000,False,000,False,False,False,1,74
+"### | المنادى المضاف الى ياء المتكلم:
+",000,False,000,False,False,False,1,42
+"### | أسماء لازمت النداء
+",000,False,000,False,False,False,1,34
+"### | الاستغاثة
+",000,False,000,False,False,False,1,33
+"### | الندبة:
+",000,False,000,False,False,False,1,76
+"### | الترخيم
+",000,False,000,False,False,False,1,124
+"### | الاختصاص
+",000,False,000,False,False,False,1,23
+"### | التحذير والأغراء:
+",000,False,000,False,False,False,1,53
+"### | أسماء الأفعال والأصوات
+",000,False,000,False,False,False,1,84
+"### | نونا التوكيد
+",000,False,000,False,False,False,1,141
+"### | ما لا ينصرف
+",000,False,000,False,False,False,1,247
+"### | إعراب الفعل
+",000,False,000,False,False,False,1,206
+"### | عوامل الجزم
+",000,False,000,False,False,False,1,142
+"### | فصل لو
+",000,False,000,False,False,False,1,35
+"### | أما ولولا ولوما:
+",000,False,000,False,False,False,1,54
+"### | الإخبار بالذي والألف واللام:
+",000,False,000,False,False,False,1,258
+"### | العدد
+",000,False,000,False,False,False,1,22
+"### | كم وكأي وكذا
+",000,False,000,False,False,False,1,50
+"### | الحكاية
+",000,False,000,False,False,False,1,87
+"### | التأنيث
+",000,False,000,False,False,False,1,109
+"### | المقصور والممدود
+",000,False,000,False,False,False,1,68
+"### | كيفية تثنية المقصور والممدود وجمعهما تصحيحا:
+",000,False,000,False,False,False,1,138
+"### | جمع التكسير
+",000,False,000,False,False,False,1,391
+"### | التصغير
+",000,False,000,False,False,False,1,212
+"### | النسب:
+",000,False,000,False,False,False,1,254
+"### | الوقف
+",000,False,000,False,False,False,1,200
+"### | الإمالة
+",000,False,000,False,False,False,1,167
+"### | التصريف
+",000,False,000,False,False,False,1,216
+"### | فصل في زيادة همزة الوصل:
+",000,False,000,False,False,False,1,56
+"### | الإبدال
+",000,False,000,False,False,False,1,223
+"### | 
+",000,False,000,False,False,False,1,0
+"### | فصل
+",000,False,000,False,False,False,1,26
+"### | 
+",000,False,000,False,False,False,1,0
+"### | فصل
+",000,False,000,False,False,False,1,107
+"### | 
+",000,False,000,False,False,False,1,0
+"### | فصل
+",000,False,000,False,False,False,1,104
+"### | 
+",000,False,000,False,False,False,1,0
+"### | فصل
+",000,False,000,False,False,False,1,26
+"### | فصل
+",000,False,000,False,False,False,1,32
+"### | الإدغام
+",000,False,000,False,False,False,1,77
+"### | الخاتمه
+",000,False,000,False,False,False,1,44

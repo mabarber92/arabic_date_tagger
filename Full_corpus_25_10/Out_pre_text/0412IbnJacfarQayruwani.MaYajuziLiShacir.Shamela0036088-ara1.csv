@@ -1,0 +1,397 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [ما يجوز للشاعر في الضرورة]
+",000,False,000,False,False,False,1,3571
+"### | مما أخذ على الشعراء من فساد المعاني
+",000,False,000,False,False,False,1,738
+"### | الإكفاء
+",000,False,000,False,False,False,1,3
+"### | الإقواء
+",000,False,000,False,False,False,1,108
+"### | الإقواء
+",000,False,000,False,False,False,1,92
+"### | : السناد، 
+",000,False,000,False,False,False,1,225
+"### | 1 - 
+",000,False,000,False,False,False,1,30
+"### | صرف ما لا ينصرف؛ 
+",000,False,000,False,False,False,1,79
+"### | 2 - 
+",000,False,000,False,False,False,1,133
+"### | 3 - 
+",000,False,000,False,False,False,1,148
+"### | 4 - 
+",000,False,000,False,False,False,1,52
+"### | 5 - 
+",000,False,000,False,False,False,1,54
+"### | 6 - 
+",000,False,000,False,False,False,1,187
+"### | 7 - 
+",000,False,000,False,False,False,1,136
+"### | 8 - 
+",000,False,000,False,False,False,1,178
+"### | 9 - 
+",000,False,000,False,False,False,1,11
+"### | اسم كان نكرة، 
+",000,False,000,False,False,False,1,344
+"### | 10 - 
+",000,False,000,False,False,False,1,110
+"### | 11 - 
+",000,False,000,False,False,False,1,7
+"### | : إظهار الضمير 
+",000,False,000,False,False,False,1,181
+"### | 12 - 
+",000,False,000,False,False,False,1,364
+"### | 13 - 
+",000,False,000,False,False,False,1,65
+"### | 14 - 
+",000,False,000,False,False,False,1,31
+"### | 15 - 
+",000,False,000,False,False,False,1,88
+"### | 16 - 
+",000,False,000,False,False,False,1,270
+"### | 17 - 
+",000,False,000,False,False,False,1,174
+"### | 18 - 
+",000,False,000,False,False,False,1,37
+"### | 19 - 
+",000,False,000,False,False,False,1,26
+"### | 20 - 
+",000,False,000,False,False,False,1,5
+"### | : إسكان المفتوح. 
+",000,False,000,False,False,False,1,138
+"### | 21 - 
+",000,False,000,False,False,False,1,134
+"### | 22 - 
+",000,False,000,False,False,False,1,9
+"### | ترك صرف ما ينصرف؛ 
+",000,False,000,False,False,False,1,244
+"### | 23 - 
+",000,False,000,False,False,False,1,271
+"### | 24 - 
+",000,False,000,False,False,False,1,94
+"### | 25 - 
+",000,False,000,False,False,False,1,7
+"### | : قطع ألف الوصل؛ 
+",000,False,000,False,False,False,1,94
+"### | 26 - 
+",000,False,000,False,False,False,1,7
+"### | تحريك الساكن 
+",000,False,000,False,False,False,1,159
+"### | 27 - 
+",000,False,000,False,False,False,1,7
+"### | : تخفيف المشدد 
+",000,False,000,False,False,False,1,79
+"### | 28 - 
+",000,False,000,False,False,False,1,9
+"### | حذف النون الخفيفة 
+",000,False,000,False,False,False,1,144
+"### | 29 - 
+",000,False,000,False,False,False,1,5
+"### | حذف التنوين 
+",000,False,000,False,False,False,1,55
+"### | 30 - 
+",000,False,000,False,False,False,1,7
+"### | : حذف لام الأمر في الغائب، 
+",000,False,000,False,False,False,1,60
+"### | 31 - 
+",000,False,000,False,False,False,1,7
+"### | : حذف بعض حروف الكلمة 
+",000,False,000,False,False,False,1,97
+"### | 32 - 
+",000,False,000,False,False,False,1,7
+"### | : إشباع الضمة، 
+",000,False,000,False,False,False,1,124
+"### | 33 - 
+",000,False,000,False,False,False,1,66
+"### | 34 - 
+",000,False,000,False,False,False,1,13
+"### | إدخال النون في العدد ms31، 
+",000,False,000,False,False,False,1,73
+"### | 35 - 
+",000,False,000,False,False,False,1,19
+"### | مد المقصور؛ 
+",000,False,000,False,False,False,1,78
+"### | 36 - 
+",000,False,000,False,False,False,1,177
+"### | 37 - 
+",000,False,000,False,False,False,1,193
+"### | 38 - 
+",000,False,000,False,False,False,1,11
+"### | : حذف باء الإلزاق، 
+",000,False,000,False,False,False,1,87
+"### | 39 - 
+",000,False,000,False,False,False,1,9
+"### | حذف (أن) من جواب عسى؛ 
+",000,False,000,False,False,False,1,84
+"### | 40 - 
+",000,False,000,False,False,False,1,51
+"### | 41 - 
+",000,False,000,False,False,False,1,17
+"### | : حذف الإعراب؛ 
+",000,False,000,False,False,False,1,237
+"### | 42 - 
+",000,False,000,False,False,False,1,7
+"### | : تشديد المخفف 
+",000,False,000,False,False,False,1,82
+"### | 43 - 
+",000,False,000,False,False,False,1,7
+"### | : حذف الهاء في الترخيم؛ 
+",000,False,000,False,False,False,1,80
+"### | 44 - 
+",000,False,000,False,False,False,1,51
+"### | 45 - 
+",000,False,000,False,False,False,1,41
+"### | 46 - 
+",000,False,000,False,False,False,1,109
+"### | 47 - 
+",000,False,000,False,False,False,1,7
+"### | : الترخيم في غير النداء، 
+",000,False,000,False,False,False,1,134
+"### | 48 - 
+",000,False,000,False,False,False,1,53
+"### | 49 - 
+",000,False,000,False,False,False,1,91
+"### | 50 - 
+",000,False,000,False,False,False,1,7
+"### | : إبدال ياء الإضافة ألفا 
+",000,False,000,False,False,False,1,86
+"### | 51 - 
+",000,False,000,False,False,False,1,75
+"### | 52 - 
+",000,False,000,False,False,False,1,7
+"### | : الجمع بين العوض والمعوض منه 
+",000,False,000,False,False,False,1,223
+"### | 53 - 
+",000,False,000,False,False,False,1,231
+"### | 54 - 
+",000,False,000,False,False,False,1,122
+"### | 55 - 
+",000,False,000,False,False,False,1,119
+"### | 56 - 
+",000,False,000,False,False,False,1,157
+"### | 57 - 
+",000,False,000,False,False,False,1,91
+"### | 58 - 
+",000,False,000,False,False,False,1,7
+"### | : حذف (ما) من (إما)، 
+",000,False,000,False,False,False,1,172
+"### | 59 - 
+",000,False,000,False,False,False,1,321
+"### | 60 - 
+",000,False,000,False,False,False,1,72
+"### | 61 - 
+",000,False,000,False,False,False,1,65
+"### | 62 - 
+",000,False,000,False,False,False,1,61
+"### | 63 - 
+",000,False,000,False,False,False,1,175
+"### | 64 - 
+",000,False,000,False,False,False,1,13
+"### | : حذف واو العطف؛ 
+",000,False,000,False,False,False,1,57
+"### | 65 - 
+",000,False,000,False,False,False,1,111
+"### | 66 - 
+",000,False,000,False,False,False,1,73
+"### | 67 - 
+",000,False,000,False,False,False,1,72
+"### | 68 - 
+",000,False,000,False,False,False,1,175
+"### | 69 - 
+",000,False,000,False,False,False,1,120
+"### | 70 - 
+",000,False,000,False,False,False,1,133
+"### | 71 - 
+",000,False,000,False,False,False,1,133
+"### | 72 - 
+",000,False,000,False,False,False,1,104
+"### | 73 - 
+",000,False,000,False,False,False,1,47
+"### | 74 - 
+",000,False,000,False,False,False,1,224
+"### | 75 - 
+",000,False,000,False,False,False,1,7
+"### | : الإيجاز في الإخبار، 
+",000,False,000,False,False,False,1,80
+"### | 76 - 
+",000,False,000,False,False,False,1,156
+"### | 77 - 
+",000,False,000,False,False,False,1,56
+"### | 78 - 
+",000,False,000,False,False,False,1,7
+"### | : ترك تنوين أذرعات، وعانات، 
+",000,False,000,False,False,False,1,42
+"### | 79 - 
+",000,False,000,False,False,False,1,82
+"### | 80 - 
+",000,False,000,False,False,False,1,69
+"### | 81 - 
+",000,False,000,False,False,False,1,7
+"### | : الحذف والتغيير، 
+",000,False,000,False,False,False,1,285
+"### | 82 - 
+",000,False,000,False,False,False,1,7
+"### | : رفع الاسم بتأويل معنى في الكلام؛ 
+",000,False,000,False,False,False,1,67
+"### | 83 - 
+",000,False,000,False,False,False,1,7
+"### | : إدخال الكاف على الكاف، 
+",000,False,000,False,False,False,1,39
+"### | 84 - 
+",000,False,000,False,False,False,1,7
+"### | : الخفض على الجوار، 
+",000,False,000,False,False,False,1,106
+"### | 85 - 
+",000,False,000,False,False,False,1,58
+"### | 86 - 
+",000,False,000,False,False,False,1,67
+"### | 87 - 
+",000,False,000,False,False,False,1,7
+"### | : إدخال لام القسم على إن، 
+",000,False,000,False,False,False,1,130
+"### | 88 - 
+",000,False,000,False,False,False,1,7
+"### | : دخول الحروف بعضها على بعض، 
+",000,False,000,False,False,False,1,96
+"### | 89 - 
+",000,False,000,False,False,False,1,111
+"### | 90 - 
+",000,False,000,False,False,False,1,159
+"### | 91 - 
+",000,False,000,False,False,False,1,94
+"### | 92 - 
+",000,False,000,False,False,False,1,7
+"### | : جمع حرفين بمعنى واحد، 
+",000,False,000,False,False,False,1,83
+"### | 93 - 
+",000,False,000,False,False,False,1,44
+"### | 94 - 
+",000,False,000,False,False,False,1,79
+"### | 95 - 
+",000,False,000,False,False,False,1,171
+"### | 96 - 
+",000,False,000,False,False,False,1,11
+"### | : إفراد واحد كلتا. 
+",000,False,000,False,False,False,1,62
+"### | 97 - 
+",000,False,000,False,False,False,1,7
+"### | : إدخال أن في جواب كاد، 
+",000,False,000,False,False,False,1,38
+"### | 98 - 
+",000,False,000,False,False,False,1,73
+"### | 99 - 
+",000,False,000,False,False,False,1,112
+"### | 100 - 
+",000,False,000,False,False,False,1,7
+"### | : بدل الهمزة 
+",000,False,000,False,False,False,1,201
+"### | 101 - 
+",000,False,000,False,False,False,1,112
+"### | 102 - 
+",000,False,000,False,False,False,1,83
+"### | 103 - 
+",000,False,000,False,False,False,1,163
+"### | 104 - 
+",000,False,000,False,False,False,1,47
+"### | 105 - 
+",000,False,000,False,False,False,1,46
+"### | 106 - 
+",000,False,000,False,False,False,1,119
+"### | 107 - 
+",000,False,000,False,False,False,1,108
+"### | 108 - 
+",000,False,000,False,False,False,1,7
+"### | : تغيير الأسماء، 
+",000,False,000,False,False,False,1,59
+"### | 109 - 
+",000,False,000,False,False,False,1,7
+"### | : حذف من، 
+",000,False,000,False,False,False,1,115
+"### | 110 - 
+",000,False,000,False,False,False,1,15
+"### | : زيادة من 
+",000,False,000,False,False,False,1,76
+"### | 111 - 
+",000,False,000,False,False,False,1,132
+"### | 112 - 
+",000,False,000,False,False,False,1,80
+"### | 113 - 
+",000,False,000,False,False,False,1,7
+"### | : تقديم هاء التنبيه على بعض الكلام، 
+",000,False,000,False,False,False,1,89
+"### | 114 - 
+",000,False,000,False,False,False,1,7
+"### | : تقديم واو العطف على المعطوف عليه، 
+",000,False,000,False,False,False,1,137
+"### | 115 - 
+",000,False,000,False,False,False,1,7
+"### | : حذف الياء، وهي لام الفعل، 
+",000,False,000,False,False,False,1,86
+"### | 116 - 
+",000,False,000,False,False,False,1,7
+"### | : تحريك الواو في الجمع، 
+",000,False,000,False,False,False,1,56
+"### | 117 - 
+",000,False,000,False,False,False,1,7
+"### | : قطع ال
+",000,False,000,False,False,False,1,76
+"### | 118 - 
+",000,False,000,False,False,False,1,11
+"### | : حذف ألف الاستفهام، 
+",000,False,000,False,False,False,1,70
+"### | 119 - 
+",000,False,000,False,False,False,1,51
+"### | 120 - 
+",000,False,000,False,False,False,1,80
+"### | 121 - 
+",000,False,000,False,False,False,1,45
+"### | 122 - 
+",000,False,000,False,False,False,1,71
+"### | 123 - 
+",000,False,000,False,False,False,1,81
+"### | 124 - 
+",000,False,000,False,False,False,1,58
+"### | 125 - 
+",000,False,000,False,False,False,1,77
+"### | 126 - 
+",000,False,000,False,False,False,1,98
+"### | 127 - 
+",000,False,000,False,False,False,1,163
+"### | 128 - 
+",000,False,000,False,False,False,1,7
+"### | : المجازاة بإذا، 
+",000,False,000,False,False,False,1,120
+"### | 129 - 
+",000,False,000,False,False,False,1,123
+"### | 130 - 
+",000,False,000,False,False,False,1,7
+"### | : حذف جواب رب، 
+",000,False,000,False,False,False,1,71
+"### | 131 - 
+",000,False,000,False,False,False,1,7
+"### | : الاجتزاء بحرف من الكلمة 
+",000,False,000,False,False,False,1,59
+"### | 132 - 
+",000,False,000,False,False,False,1,70
+"### | 133 - 
+",000,False,000,False,False,False,1,77
+"### | 134 - 
+",000,False,000,False,False,False,1,62
+"### | 135 - 
+",000,False,000,False,False,False,1,132
+"### | 136 - 
+",000,False,000,False,False,False,1,52
+"### | 137 - 
+",000,False,000,False,False,False,1,95
+"### | 138 - 
+",000,False,000,False,False,False,1,98
+"### | 139 - 
+",000,False,000,False,False,False,1,67
+"### | 140 - 
+",000,False,000,False,False,False,1,62
+"### | 141 - 
+",000,False,000,False,False,False,1,38
+"### | 142 - 
+",000,False,000,False,False,False,1,33
+"### | 143 - 
+",000,False,000,False,False,False,1,190

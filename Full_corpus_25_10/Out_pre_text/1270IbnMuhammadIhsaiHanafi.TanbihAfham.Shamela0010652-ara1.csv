@@ -1,0 +1,943 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | المقدمة
+",000,False,000,False,False,False,1,2
+"### | بسم الله الرحمن الرحيم وبه أستعين
+",000,False,000,False,False,False,1,105
+"### | تقدمة في فضل هذا العلم
+",000,False,000,False,False,False,1,239
+"### | 
+",000,False,000,False,False,False,1,0
+"### | فصل
+",000,False,000,False,False,False,1,411
+"### | 
+",000,False,000,False,False,False,1,0
+"### | فصل
+",000,False,000,False,False,False,1,320
+"### | فصل
+",000,False,000,False,False,False,1,679
+"### | الباب الأول في رؤية الله تعالى والعرش والكرسي واللوح والقلم
+",000,False,000,False,False,False,1,20
+"### | رؤية الله تعالى
+",000,False,000,False,False,False,1,178
+"### | رؤية العرش والكرسي
+",000,False,000,False,False,False,1,68
+"### | (رؤية اللوح ms007)
+",000,False,000,False,False,False,1,51
+"### | (رؤية القلم)
+",000,False,000,False,False,False,1,73
+"### | (الباب الثاني في رؤية الملائكة والأنبياء والصحابة)
+",000,False,000,False,False,False,1,14
+"### | (رؤية الملائكة)
+",000,False,000,False,False,False,1,175
+"### | (رؤية النبي صلى الله عليه وسلم)
+",000,False,000,False,False,False,1,126
+"### | ومن رأى آدم عليه السلام جماله وبهائه ولي ولاية إن كان أهلا وإلا نال من كبير عزا أو دل على أنه أذنب ذنبا فليتب فإن رأى أنه كلمه حصل له علم ومعرفة ومن رأى شيت نال نعمة وفرحا ومن رأى إدريس نال عزا ودرجة عالية
+",000,False,000,False,False,False,1,484
+"### | (رؤية الصحابة رضي الله عنهم)
+",000,False,000,False,False,False,1,78
+"### | (الباب الثالث في رؤية القيامة وأشراطها والجنة والنار)
+",000,False,000,False,False,False,1,16
+"### | (رؤية القيامة)
+",000,False,000,False,False,False,1,146
+"### | (رؤية الحساب والميزان والصراط والحوض)
+",000,False,000,False,False,False,1,74
+"### | (رؤية الجنة)
+",000,False,000,False,False,False,1,99
+"### | (رؤية النار أعاذنا الله تعالى منها)
+",000,False,000,False,False,False,1,122
+"### | (الباب الرابع في رؤية السماء والشمس والقمر والنجوم)
+",000,False,000,False,False,False,1,16
+"### | (رؤية السماء)
+",000,False,000,False,False,False,1,177
+"### | (رؤية الشمس)
+",000,False,000,False,False,False,1,228
+"### | (رؤية القمر والأنجم الخمسة السيارة)
+",000,False,000,False,False,False,1,171
+"### | (رؤية الهلال
+",000,False,000,False,False,False,1,43
+"### | (الباب الخامس في رؤية السحاب والمطر والبرد والثلج والرعد والبرق والصواعق والرياح والهواء والسراب)
+",000,False,000,False,False,False,1,28
+"### | (رؤية السحاب)
+",000,False,000,False,False,False,1,162
+"### | (رؤية المطر)
+",000,False,000,False,False,False,1,159
+"### | (رؤية البرد)
+",000,False,000,False,False,False,1,29
+"### | (رؤية الثلج)
+",000,False,000,False,False,False,1,144
+"### | (رؤية الريح)
+",000,False,000,False,False,False,1,70
+"### | (رؤية الهواء والسراب)
+",000,False,000,False,False,False,1,40
+"### | (الباب السادس في الوضوء والغسل والتيمم والصلاة)
+",000,False,000,False,False,False,1,14
+"### | (رؤية الوضوء)
+",000,False,000,False,False,False,1,132
+"### | (رؤية الغسل)
+",000,False,000,False,False,False,1,108
+"### | (رؤية التيمم)
+",000,False,000,False,False,False,1,37
+"### | (رؤية الصلاة)
+",000,False,000,False,False,False,1,305
+"### | (رؤية الإمامة في الصلاة)
+",000,False,000,False,False,False,1,150
+"### | (الباب السابع في القراءة والمصحف والكتب)
+",000,False,000,False,False,False,1,12
+"### | (رؤية القراءة والمصحف والكتب)
+",000,False,000,False,False,False,1,135
+"### | (قراءة الفاتحة)
+",000,False,000,False,False,False,1,39
+"### | (قراءة البقرة)
+",000,False,000,False,False,False,1,38
+"### | (وآل عمران)
+",000,False,000,False,False,False,1,34
+"### | (والنساء)
+",000,False,000,False,False,False,1,13
+"### | والمائدة
+",000,False,000,False,False,False,1,15
+"### | والأنعام
+",000,False,000,False,False,False,1,23
+"### | والأعراف
+",000,False,000,False,False,False,1,29
+"### | والأنفال
+",000,False,000,False,False,False,1,13
+"### | (والتوبة)
+",000,False,000,False,False,False,1,15
+"### | (ويونس)
+",000,False,000,False,False,False,1,26
+"### | (وهود)
+",000,False,000,False,False,False,1,29
+"### | ويوسف
+",000,False,000,False,False,False,1,34
+"### | والرعد
+",000,False,000,False,False,False,1,34
+"### | (وإبراهيم)
+",000,False,000,False,False,False,1,27
+"### | (والحجر)
+",000,False,000,False,False,False,1,23
+"### | والنحل
+",000,False,000,False,False,False,1,31
+"### | والإسراء
+",000,False,000,False,False,False,1,34
+"### | والكهف
+",000,False,000,False,False,False,1,19
+"### | (ومريم)
+",000,False,000,False,False,False,1,21
+"### | وطه
+",000,False,000,False,False,False,1,28
+"### | والأنبياء
+",000,False,000,False,False,False,1,25
+"### | (والحج)
+",000,False,000,False,False,False,1,31
+"### | (والمؤمنين)
+",000,False,000,False,False,False,1,18
+"### | والنور
+",000,False,000,False,False,False,1,19
+"### | (والفرقان)
+",000,False,000,False,False,False,1,19
+"### | (والشعراء)
+",000,False,000,False,False,False,1,14
+"### | والنمل
+",000,False,000,False,False,False,1,44
+"### | والقصص
+",000,False,000,False,False,False,1,15
+"### | (والعنكبوت)
+",000,False,000,False,False,False,1,19
+"### | (والروم)
+",000,False,000,False,False,False,1,35
+"### | ولقمان
+",000,False,000,False,False,False,1,17
+"### | والسجدة
+",000,False,000,False,False,False,1,25
+"### | والأحزاب
+",000,False,000,False,False,False,1,21
+"### | وسبأ
+",000,False,000,False,False,False,1,23
+"### | وفاطر
+",000,False,000,False,False,False,1,28
+"### | (ويس)
+",000,False,000,False,False,False,1,21
+"### | (والصافات)
+",000,False,000,False,False,False,1,15
+"### | وص
+",000,False,000,False,False,False,1,28
+"### | (والزمر)
+",000,False,000,False,False,False,1,18
+"### | وغافر
+",000,False,000,False,False,False,1,21
+"### | وفصلت
+",000,False,000,False,False,False,1,27
+"### | والشورى
+",000,False,000,False,False,False,1,33
+"### | والزخرف
+",000,False,000,False,False,False,1,15
+"### | (والدخان)
+",000,False,000,False,False,False,1,27
+"### | والجاثية
+",000,False,000,False,False,False,1,21
+"### | والأحقاف
+",000,False,000,False,False,False,1,45
+"### | (والقتال (محمد)
+",000,False,000,False,False,False,1,18
+"### | (والفتح)
+",000,False,000,False,False,False,1,51
+"### | والحجرات
+",000,False,000,False,False,False,1,18
+"### | وق
+",000,False,000,False,False,False,1,25
+"### | والذاريات
+",000,False,000,False,False,False,1,22
+"### | (والطور)
+",000,False,000,False,False,False,1,38
+"### | والنجم
+",000,False,000,False,False,False,1,35
+"### | (والقمر)
+",000,False,000,False,False,False,1,32
+"### | والرحمن
+",000,False,000,False,False,False,1,33
+"### | والواقعة
+",000,False,000,False,False,False,1,25
+"### | (والحديد)
+",000,False,000,False,False,False,1,33
+"### | والمجادلة
+",000,False,000,False,False,False,1,53
+"### | والحشر
+",000,False,000,False,False,False,1,30
+"### | والممتحنة
+",000,False,000,False,False,False,1,16
+"### | والصف
+",000,False,000,False,False,False,1,27
+"### | (والجمعة)
+",000,False,000,False,False,False,1,29
+"### | (والمنافقين)
+",000,False,000,False,False,False,1,31
+"### | والتغابن
+",000,False,000,False,False,False,1,21
+"### | ون
+",000,False,000,False,False,False,1,34
+"### | (والطلاق)
+",000,False,000,False,False,False,1,15
+"### | (والتحريم)
+",000,False,000,False,False,False,1,36
+"### | (والملك)
+",000,False,000,False,False,False,1,43
+"### | والحاقة
+",000,False,000,False,False,False,1,20
+"### | والمعارج
+",000,False,000,False,False,False,1,36
+"### | ونوح
+",000,False,000,False,False,False,1,47
+"### | (والجن)
+",000,False,000,False,False,False,1,21
+"### | والمزمل
+",000,False,000,False,False,False,1,27
+"### | والمدثر
+",000,False,000,False,False,False,1,20
+"### | (والقيامة)
+",000,False,000,False,False,False,1,30
+"### | (والإنسان)
+",000,False,000,False,False,False,1,37
+"### | والمرسلات
+",000,False,000,False,False,False,1,21
+"### | والنبأ
+",000,False,000,False,False,False,1,16
+"### | والنازعات
+",000,False,000,False,False,False,1,34
+"### | (وعبس)
+",000,False,000,False,False,False,1,29
+"### | والتكوير
+",000,False,000,False,False,False,1,41
+"### | والانفطار
+",000,False,000,False,False,False,1,31
+"### | والمطففين
+",000,False,000,False,False,False,1,30
+"### | والانشقاق
+",000,False,000,False,False,False,1,27
+"### | والبروج
+",000,False,000,False,False,False,1,36
+"### | والطارق
+",000,False,000,False,False,False,1,39
+"### | (وسبح)
+",000,False,000,False,False,False,1,18
+"### | والغاشية
+",000,False,000,False,False,False,1,34
+"### | (والفجر)
+",000,False,000,False,False,False,1,33
+"### | والبلد
+",000,False,000,False,False,False,1,23
+"### | (والشمس)
+",000,False,000,False,False,False,1,34
+"### | (والليل)
+",000,False,000,False,False,False,1,24
+"### | (والضحى)
+",000,False,000,False,False,False,1,47
+"### | وألم نشرح
+",000,False,000,False,False,False,1,22
+"### | والتين
+",000,False,000,False,False,False,1,35
+"### | والعلق
+",000,False,000,False,False,False,1,30
+"### | (والقدر)
+",000,False,000,False,False,False,1,31
+"### | (والبينة)
+",000,False,000,False,False,False,1,27
+"### | والزلزلة
+",000,False,000,False,False,False,1,36
+"### | (والعاديات)
+",000,False,000,False,False,False,1,45
+"### | (والقارعة)
+",000,False,000,False,False,False,1,35
+"### | (والتكاثر)
+",000,False,000,False,False,False,1,40
+"### | (والعصر)
+",000,False,000,False,False,False,1,33
+"### | والهمزة
+",000,False,000,False,False,False,1,33
+"### | والفيل
+",000,False,000,False,False,False,1,19
+"### | وقريش
+",000,False,000,False,False,False,1,36
+"### | والماعون
+",000,False,000,False,False,False,1,52
+"### | والكوثر
+",000,False,000,False,False,False,1,29
+"### | والكافرين
+",000,False,000,False,False,False,1,31
+"### | والنصر
+",000,False,000,False,False,False,1,18
+"### | وتبت
+",000,False,000,False,False,False,1,29
+"### | (والإخلاص)
+",000,False,000,False,False,False,1,52
+"### | والفلق
+",000,False,000,False,False,False,1,36
+"### | (والناس)
+",000,False,000,False,False,False,1,36
+"### | (رؤية المصحف)
+",000,False,000,False,False,False,1,322
+"### | (رؤية الكتب والصحف)
+",000,False,000,False,False,False,1,324
+"### | (رؤية قراءة التوراة والإنجيل والزبور)
+",000,False,000,False,False,False,1,141
+"### | (الباب الثامن في رؤية الأذان والدعاء والعبادة والذكر والخطبة والوعظ والصيام والصدقة والأضحية والجهاد)
+",000,False,000,False,False,False,1,28
+"### | (رؤية الأذان)
+",000,False,000,False,False,False,1,276
+"### | (رؤية الدعاء)
+",000,False,000,False,False,False,1,89
+"### | (رؤية العبادة والذكر)
+",000,False,000,False,False,False,1,172
+"### | (رؤية الخطبة والوعظ)
+",000,False,000,False,False,False,1,179
+"### | (رؤية الصوم)
+",000,False,000,False,False,False,1,77
+"### | (رؤية الصدقة)
+",000,False,000,False,False,False,1,67
+"### | (رؤية الأضحية)
+",000,False,000,False,False,False,1,64
+"### | (رؤية الجهاد)
+",000,False,000,False,False,False,1,99
+"### | (الباب التاسع في رؤية مكة والكعبة والمناسك والمدينة المنورة والمساجد والمدارس والصوامع)
+",000,False,000,False,False,False,1,24
+"### | (رؤية مكة المشرفة)
+",000,False,000,False,False,False,1,126
+"### | (رؤية الكعبة)
+",000,False,000,False,False,False,1,118
+"### | (رؤية المناسك)
+",000,False,000,False,False,False,1,164
+"### | (روية المدينة)
+",000,False,000,False,False,False,1,88
+"### | (رؤية بيت المقدس)
+",000,False,000,False,False,False,1,41
+"### | (رؤية المساجد والمدارس)
+",000,False,000,False,False,False,1,118
+"### | (رؤية المآذن)
+",000,False,000,False,False,False,1,51
+"### | (رؤية المنبر)
+",000,False,000,False,False,False,1,104
+"### | (رؤية الكنائس)
+",000,False,000,False,False,False,1,53
+"### | (الباب العاشر ms037 في رؤية السلاطين والقضاة والعلماء والصالحين)
+",000,False,000,False,False,False,1,16
+"### | (رؤية السلطان)
+",000,False,000,False,False,False,1,263
+"### | (رؤية القاضي)
+",000,False,000,False,False,False,1,92
+"### | (رؤية العالم)
+",000,False,000,False,False,False,1,127
+"### | (رؤية الأولياء والصالحين والأبدال)
+",000,False,000,False,False,False,1,66
+"### | (رؤية الوليمة)
+",000,False,000,False,False,False,1,23
+"### | (الباب الحادي عشر في رؤية الرجال والنساء والصغار والعبيد والخدم)
+",000,False,000,False,False,False,1,20
+"### | (رؤية الرجال ms039)
+",000,False,000,False,False,False,1,147
+"### | (رؤية النساء)
+",000,False,000,False,False,False,1,369
+"### | (رؤية الصغار)
+",000,False,000,False,False,False,1,134
+"### | (رؤية العبيد)
+",000,False,000,False,False,False,1,76
+"### | (رؤية الجواري)
+",000,False,000,False,False,False,1,99
+"### | (الباب الثاني عشر في رؤية الظلمة وأعوانهم وقطاع الطريق والفراعنة وأهل الأديان الباطلة والشياطين والجن والسحرة)
+",000,False,000,False,False,False,1,32
+"### | (رؤية الظلمة وأعوانهم)
+",000,False,000,False,False,False,1,264
+"### | (رؤية قطاع الطريق)
+",000,False,000,False,False,False,1,197
+"### | (رؤية الفراعنة والجبابرة)
+",000,False,000,False,False,False,1,60
+"### | (رؤية الكفار)
+",000,False,000,False,False,False,1,225
+"### | (رؤية إبليس والشياطين)
+",000,False,000,False,False,False,1,187
+"### | (رؤية الجن)
+",000,False,000,False,False,False,1,130
+"### | (رؤية السحرة)
+",000,False,000,False,False,False,1,85
+"### | (الباب الثالث عشر في رؤية التحول عن الإسلام وعبادة النار والأصنام وتحويل القبلة والخلقة إلى غيرها)
+",000,False,000,False,False,False,1,32
+"### | (رؤية التحول عن الإسلام والعبادة بالله تعالى وعبادة النار وما أشبه ذلك)
+",000,False,000,False,False,False,1,131
+"### | (رؤية تحويل القبلة)
+",000,False,000,False,False,False,1,50
+"### | (رؤية تحول الخلقة)
+",000,False,000,False,False,False,1,312
+"### | (الباب الرابع عشر في رؤية شعر الإنسان وأعضائه)
+",000,False,000,False,False,False,1,16
+"### | (رؤية الشعر)
+",000,False,000,False,False,False,1,192
+"### | (رؤية اللحية)
+",000,False,000,False,False,False,1,478
+"### | رؤية الخضاب
+",000,False,000,False,False,False,1,53
+"### | (رؤية الرأس)
+",000,False,000,False,False,False,1,155
+"### | (رؤية الأذنين)
+",000,False,000,False,False,False,1,111
+"### | (رؤية العينين)
+",000,False,000,False,False,False,1,316
+"### | (رؤية الأشفار والحاجبين والجبهة والأنف)
+",000,False,000,False,False,False,1,109
+"### | (رؤية الرأس)
+",000,False,000,False,False,False,1,212
+"### | (رؤية الأنف)
+",000,False,000,False,False,False,1,116
+"### | (رؤية الوجه)
+",000,False,000,False,False,False,1,101
+"### | (رؤية الشفتين)
+",000,False,000,False,False,False,1,85
+"### | (رؤية الفم)
+",000,False,000,False,False,False,1,105
+"### | (رؤية اللسان)
+",000,False,000,False,False,False,1,156
+"### | (رؤية الأسنان)
+",000,False,000,False,False,False,1,357
+"### | (رؤية الصوت)
+",000,False,000,False,False,False,1,110
+"### | (رؤية العنق والعاتق)
+",000,False,000,False,False,False,1,108
+"### | (رؤية المنكبين والعضدين واليدين)
+",000,False,000,False,False,False,1,237
+"### | (رؤية الأصابع)
+",000,False,000,False,False,False,1,111
+"### | (رؤية الأظافر)
+",000,False,000,False,False,False,1,31
+"### | (رؤية الصدر)
+",000,False,000,False,False,False,1,67
+"### | (رؤية الثديين)
+",000,False,000,False,False,False,1,107
+"### | (رؤية البطن)
+",000,False,000,False,False,False,1,76
+"### | (رؤية الكبد)
+",000,False,000,False,False,False,1,47
+"### | (رؤية الرئة والطحال)
+",000,False,000,False,False,False,1,63
+"### | (رؤية السرة)
+",000,False,000,False,False,False,1,21
+"### | (رؤية الأضلاع)
+",000,False,000,False,False,False,1,28
+"### | (رؤية الصلب والظهر)
+",000,False,000,False,False,False,1,128
+"### | (رؤية القلب)
+",000,False,000,False,False,False,1,57
+"### | (رؤية الأليتين والذكر)
+",000,False,000,False,False,False,1,163
+"### | (رؤية الخصيتين)
+",000,False,000,False,False,False,1,115
+"### | (رؤية الفرج)
+",000,False,000,False,False,False,1,113
+"### | (رؤية الدبر)
+",000,False,000,False,False,False,1,55
+"### | (رؤية الفخذ والركبتين والساقين)
+",000,False,000,False,False,False,1,103
+"### | (رؤية الرجلين)
+",000,False,000,False,False,False,1,97
+"### | (رؤية العظام)
+",000,False,000,False,False,False,1,116
+"### | (رؤية الأعصاب)
+",000,False,000,False,False,False,1,66
+"### | (رؤية الجلد)
+",000,False,000,False,False,False,1,69
+"### | (رؤية اللحم)
+",000,False,000,False,False,False,1,28
+"### | (الباب الخامس عشر في رؤية ما يلحق الإنسان من الأمراض)
+",000,False,000,False,False,False,1,20
+"### | (رؤية المرض)
+",000,False,000,False,False,False,1,275
+"### | (رؤية الطاعون)
+",000,False,000,False,False,False,1,43
+"### | (رؤية السم)
+",000,False,000,False,False,False,1,51
+"### | (رؤية الجنون)
+",000,False,000,False,False,False,1,92
+"### | (رؤية الجذام والبرص)
+",000,False,000,False,False,False,1,55
+"### | (رؤية القويا)
+",000,False,000,False,False,False,1,24
+"### | (رؤية القروح والجروح)
+",000,False,000,False,False,False,1,38
+"### | (رؤية الحمى الحارة والباردة)
+",000,False,000,False,False,False,1,67
+"### | (رؤية الجرب)
+",000,False,000,False,False,False,1,61
+"### | (رؤية الدم)
+",000,False,000,False,False,False,1,211
+"### | (رؤية القيح)
+",000,False,000,False,False,False,1,55
+"### | (رؤية القيء)
+",000,False,000,False,False,False,1,72
+"### | (رؤية البول)
+",000,False,000,False,False,False,1,113
+"### | (رؤية الغائط)
+",000,False,000,False,False,False,1,139
+"### | (رؤية الريح)
+",000,False,000,False,False,False,1,66
+"### | (رؤية الفصد)
+",000,False,000,False,False,False,1,95
+"### | (رؤية الحجامة)
+",000,False,000,False,False,False,1,111
+"### | (رؤية الكي)
+",000,False,000,False,False,False,1,57
+"### | (رؤية شرب الدواء)
+",000,False,000,False,False,False,1,47
+"### | (رؤية الادهان)
+",000,False,000,False,False,False,1,50
+"### | (الباب السادس عشر في رؤية أحوال تكون من الإنسان في يقظته مما يأتي ذكره إن شاء الله تعالى مفصلا)
+",000,False,000,False,False,False,1,38
+"### | (رؤية الانقلاب والبكاء)
+",000,False,000,False,False,False,1,165
+"### | (رؤية الضحك)
+",000,False,000,False,False,False,1,27
+"### | (رؤية النوم والاستيقاظ)
+",000,False,000,False,False,False,1,60
+"### | (رؤية العطاس ms070)
+",000,False,000,False,False,False,1,42
+"### | (رؤية المخاط)
+",000,False,000,False,False,False,1,71
+"### | (رؤية البصاق والريق)
+",000,False,000,False,False,False,1,101
+"### | (رؤية الغناء)
+",000,False,000,False,False,False,1,50
+"### | (رؤية الشعر)
+",000,False,000,False,False,False,1,42
+"### | (رؤية اللطم والنياحة)
+",000,False,000,False,False,False,1,47
+"### | (رؤية الحزن)
+",000,False,000,False,False,False,1,37
+"### | (رؤية الفرح)
+",000,False,000,False,False,False,1,49
+"### | (رؤية الغيظ)
+",000,False,000,False,False,False,1,33
+"### | (رؤية الرجم)
+",000,False,000,False,False,False,1,27
+"### | (رؤية النداء)
+",000,False,000,False,False,False,1,88
+"### | (رؤية الأنين)
+",000,False,000,False,False,False,1,28
+"### | (رؤية العناق والوداع والكنس)
+",000,False,000,False,False,False,1,79
+"### | (رؤية الخوف والعجلة)
+",000,False,000,False,False,False,1,45
+"### | (رؤية الجوع والشبع والعطش والري)
+",000,False,000,False,False,False,1,84
+"### | (رؤية الغنى والفقر والالتقاط)
+",000,False,000,False,False,False,1,66
+"### | (رؤية العداوة والإحسان)
+",000,False,000,False,False,False,1,36
+"### | (رؤية التقوى والمعصية)
+",000,False,000,False,False,False,1,45
+"### | (رؤية الجري والعدو)
+",000,False,000,False,False,False,1,54
+"### | (رؤية المشي)
+",000,False,000,False,False,False,1,139
+"### | (رؤية السقوط)
+",000,False,000,False,False,False,1,84
+"### | (رؤية الهدية ms074 والهبة)
+",000,False,000,False,False,False,1,93
+"### | (رؤية التدلي)
+",000,False,000,False,False,False,1,31
+"### | (رؤية التعزية)
+",000,False,000,False,False,False,1,40
+"### | (رؤية تغيير الإسم)
+",000,False,000,False,False,False,1,34
+"### | (رؤية السؤال والطلب)
+",000,False,000,False,False,False,1,53
+"### | (رؤية العفو واللوم والعتاب)
+",000,False,000,False,False,False,1,48
+"### | (الباب السابع عشر في رؤية القتل والصلب والحرب والذبح والسلخ والضرب والتكتيف والربط والغل والقيد والسجن والأسر والشتم والمنازعة والبغي والظلم وأكل لحم الإنسان)
+",000,False,000,False,False,False,1,48
+"### | (رؤية القتل)
+",000,False,000,False,False,False,1,146
+"### | (رؤية الصلب)
+",000,False,000,False,False,False,1,102
+"### | (رؤية الحرب)
+",000,False,000,False,False,False,1,57
+"### | (رؤية الذبح)
+",000,False,000,False,False,False,1,74
+"### | (رؤية السلخ)
+",000,False,000,False,False,False,1,72
+"### | (رؤية الضرب)
+",000,False,000,False,False,False,1,155
+"### | (رؤية التكتيف)
+",000,False,000,False,False,False,1,43
+"### | (رؤية الربط)
+",000,False,000,False,False,False,1,111
+"### | (رؤية الغل والقيد)
+",000,False,000,False,False,False,1,105
+"### | (رؤية السجن)
+",000,False,000,False,False,False,1,122
+"### | (رؤية الأسر)
+",000,False,000,False,False,False,1,43
+"### | (رؤية الشتم)
+",000,False,000,False,False,False,1,72
+"### | (رؤية المنازعة)
+",000,False,000,False,False,False,1,43
+"### | (رؤية البغي والظلم)
+",000,False,000,False,False,False,1,53
+"### | (رؤية أكل لحم الإنسان)
+",000,False,000,False,False,False,1,62
+"### | (الباب الثامن عشر في رؤية الخطبة والتزويج والعرس والطلاق والجماع والقبلة والملامسة والحيض والحمل والوضع والرضاع)
+",000,False,000,False,False,False,1,32
+"### | (رؤية الخطبة)
+",000,False,000,False,False,False,1,71
+"### | (رؤية التزويج)
+",000,False,000,False,False,False,1,215
+"### | (رؤية العرس)
+",000,False,000,False,False,False,1,60
+"### | (رؤية الطلاق)
+",000,False,000,False,False,False,1,73
+"### | (رؤية الجماع)
+",000,False,000,False,False,False,1,260
+"### | (رؤية القبلة)
+",000,False,000,False,False,False,1,123
+"### | (رؤية الملامسة)
+",000,False,000,False,False,False,1,59
+"### | (رؤية الجنابة)
+",000,False,000,False,False,False,1,120
+"### | (رؤية الحيض)
+",000,False,000,False,False,False,1,88
+"### | (رؤية الحمل)
+",000,False,000,False,False,False,1,68
+"### | (رؤية الوضع)
+",000,False,000,False,False,False,1,83
+"### | (رؤية الرضاع)
+",000,False,000,False,False,False,1,159
+"### | (الباب التاسع عشر في رؤية الموت والغسل والكفن والجنائز والقبور والدفن والنبش ورؤية الأموات ومخالطتهم والأخذ منهم والإعطاء لهم)
+",000,False,000,False,False,False,1,38
+"### | (رؤية الموت)
+",000,False,000,False,False,False,1,643
+"### | (رؤية الغسل)
+",000,False,000,False,False,False,1,85
+"### | (رؤية الكفن)
+",000,False,000,False,False,False,1,172
+"### | (رؤية الجنائز)
+",000,False,000,False,False,False,1,127
+"### | (رؤية القبور والدفن)
+",000,False,000,False,False,False,1,159
+"### | (رؤية النبش)
+",000,False,000,False,False,False,1,122
+"### | (رؤية الأموات ومخالطتهم)
+",000,False,000,False,False,False,1,505
+"### | (رؤية مجامعة الأموات)
+",000,False,000,False,False,False,1,94
+"### | (رؤية الإعطاء للأموات والأخذ منهم)
+",000,False,000,False,False,False,1,255
+"### | (الباب العشرون في رؤية المدائن والقرى والحصون والأبراج والأسوار والأرض وما يحدث فيها من زلزلة وخسف ورؤية الحفر والهدم والدور والأبواب والمفاتيح والسقوف والحيطان والبناء)
+",000,False,000,False,False,False,1,50
+"### | (رؤية المدائن)
+",000,False,000,False,False,False,1,77
+"### | (رؤية القرى)
+",000,False,000,False,False,False,1,100
+"### | (رؤية الحصون)
+",000,False,000,False,False,False,1,62
+"### | (رؤية الأبراج والأسوار)
+",000,False,000,False,False,False,1,70
+"### | (رؤية الأرض)
+",000,False,000,False,False,False,1,150
+"### | (رؤية الزلزلة والخسف)
+",000,False,000,False,False,False,1,45
+"### | (رؤية الحفر)
+",000,False,000,False,False,False,1,139
+"### | (رؤية البناء والهدم)
+",000,False,000,False,False,False,1,147
+"### | (رؤية الدور والبيوت والغرف)
+",000,False,000,False,False,False,1,176
+"### | (رؤية الأبواب)
+",000,False,000,False,False,False,1,108
+"### | (رؤية المفاتيح والغلق)
+",000,False,000,False,False,False,1,104
+"### | (رؤية السقوف والحيطان)
+",000,False,000,False,False,False,1,99
+"### | (الباب الحادي والعشرون في رؤية الجبال والصخور والحصى والمواضع المرتفعة والدرج والسلالم)
+",000,False,000,False,False,False,1,24
+"### | (رؤية الجبال)
+",000,False,000,False,False,False,1,151
+"### | (رؤية الصخور)
+",000,False,000,False,False,False,1,101
+"### | (رؤية الحصى)
+",000,False,000,False,False,False,1,56
+"### | (رؤية المواضع المرتفعة والبروج والسلالم)
+",000,False,000,False,False,False,1,162
+"### | (الباب الثاني والعشرون في رؤية البحر والنهر والعيون والآبار والسيل والوحل والسفن والحمام)
+",000,False,000,False,False,False,1,26
+"### | (رؤية البحر والنهر)
+",000,False,000,False,False,False,1,475
+"### | (رؤية العيون)
+",000,False,000,False,False,False,1,67
+"### | (رؤية الآبار)
+",000,False,000,False,False,False,1,148
+"### | (رؤية السيل)
+",000,False,000,False,False,False,1,74
+"### | (رؤية الوحل)
+",000,False,000,False,False,False,1,54
+"### | (رؤية الطين)
+",000,False,000,False,False,False,1,34
+"### | (رؤية السفينة)
+",000,False,000,False,False,False,1,233
+"### | (رؤية الحمام)
+",000,False,000,False,False,False,1,73
+"### | (الباب الثالث والعشرون في رؤية البساتين والرياض والأشجار والأثمار ورؤية القرع والبطيخ والقثاء والبقول وأنواع الزرع والحرث ورؤية الحبوب والرياحين)
+",000,False,000,False,False,False,1,40
+"### | (رؤية البساتين)
+",000,False,000,False,False,False,1,102
+"### | (رؤية الرياض)
+",000,False,000,False,False,False,1,52
+"### | (رؤية الأشجار والنخيل)
+",000,False,000,False,False,False,1,49
+"### | (رؤية الثمار)
+",000,False,000,False,False,False,1,114
+"### | ومن رأى أنه أعطى جوزا أو لوزا فإنه يصيب مالا بقدر ذلك والسدر رجل كبير شريف كريم مخصب والتين مال حاضر لا يكذب وليس شيء من الثمار يعدلة وشجرة الزيتون رجل مبارك نفاع وثمره هم وحزن لمن أصابه أو أكله وشجرة الرمان رجل على قدرها والرمان كورة عامرة لمن 
+",000,False,000,False,False,False,1,521
+"### | (رؤية القرع والبطيخ والقثاء والخيار)
+",000,False,000,False,False,False,1,60
+"### | (رؤية البقول وكل نبت مستعمل)
+",000,False,000,False,False,False,1,106
+"### | (رؤية الخضرة والزرع والحشيش)
+",000,False,000,False,False,False,1,127
+"### | (رؤية الحرث والزراعة)
+",000,False,000,False,False,False,1,203
+"### | (رؤية الرياحين)
+",000,False,000,False,False,False,1,33
+"### | (الباب الرابع والعشرون في رؤية الدقيق وما يصنع منه وضروب الأكل واللحم والشحم والبيض والملح وسائر الأبزار واللبن والعسل والسكر والخمر والكأس)
+",000,False,000,False,False,False,1,44
+"### | (رؤية الدقيق وما يصنع ms106 منه)
+",000,False,000,False,False,False,1,96
+"### | (رؤية ضروب الأكل)
+",000,False,000,False,False,False,1,115
+"### | (رؤية اللحم)
+",000,False,000,False,False,False,1,360
+"### | (رؤية الشحم والبيض)
+",000,False,000,False,False,False,1,59
+"### | (رؤية الملح وسائر الأبزار)
+",000,False,000,False,False,False,1,54
+"### | (رؤية اللبن)
+",000,False,000,False,False,False,1,180
+"### | (رؤية السمن والزبد والجبن)
+",000,False,000,False,False,False,1,258
+"### | (الباب الخامس والعشرون في رؤية الثياب واللباس والتجرد ورؤية النعل والخف والنسج والفتل والغزل والحرير والصوف ونحوهما والخياطة)
+",000,False,000,False,False,False,1,36
+"### | (رؤية القميص)
+",000,False,000,False,False,False,1,154
+"### | (رؤية السراويل والإزار)
+",000,False,000,False,False,False,1,187
+"### | (رؤية لبس ألوان الثياب)
+",000,False,000,False,False,False,1,188
+"### | (رؤية الرداء)
+",000,False,000,False,False,False,1,50
+"### | (رؤية اللحفة والطيلسان والقلنسوة)
+",000,False,000,False,False,False,1,108
+"### | (رؤية العمامة)
+",000,False,000,False,False,False,1,64
+"### | (رؤية الخمار)
+",000,False,000,False,False,False,1,109
+"### | (رؤية التجرد)
+",000,False,000,False,False,False,1,156
+"### | (رؤية النعل)
+",000,False,000,False,False,False,1,116
+"### | (رؤية الخف والجورب)
+",000,False,000,False,False,False,1,101
+"### | (رؤية النسيج)
+",000,False,000,False,False,False,1,69
+"### | (رؤية الفتل والغزل)
+",000,False,000,False,False,False,1,141
+"### | (رؤية الحرير والصوف ونحوهما)
+",000,False,000,False,False,False,1,39
+"### | (رؤية الخياطة)
+",000,False,000,False,False,False,1,104
+"### | (الباب السادس والعشرون في رؤية السرادقات والأخبية والبسط والفرش والوسائد والأسرة والكراسي والتوابيت والأوعية ونحوها)
+",000,False,000,False,False,False,1,30
+"### | (رؤية السرادقات والأخبية)
+",000,False,000,False,False,False,1,104
+"### | (رؤية البسط والحصير)
+",000,False,000,False,False,False,1,95
+"### | (رؤية الفرش)
+",000,False,000,False,False,False,1,61
+"### | (رؤية الوسائد)
+",000,False,000,False,False,False,1,45
+"### | (رؤية الأسرة والكراسي)
+",000,False,000,False,False,False,1,90
+"### | (رؤية التوابيت والأوعية ونحوها)
+",000,False,000,False,False,False,1,239
+"### | (الباب السابع والعشرون في رؤية الذهب والفضة والأموال والجواهر واللآلئ والزمرد والخرز والقلائد والعقود والقرط والتاج والطوق والمنطقة والخاتم والأساورة والخلاخل والمرآة)
+",000,False,000,False,False,False,1,44
+"### | (رؤية الذهب)
+",000,False,000,False,False,False,1,151
+"### | (رؤية الفضة)
+",000,False,000,False,False,False,1,119
+"### | (رؤية الأموال)
+",000,False,000,False,False,False,1,79
+"### | (رؤية الجواهر)
+",000,False,000,False,False,False,1,110
+"### | (رؤية الزمرد والخرز)
+",000,False,000,False,False,False,1,126
+"### | (رؤية القرط)
+",000,False,000,False,False,False,1,44
+"### | (رؤية التاج)
+",000,False,000,False,False,False,1,40
+"### | (رؤية الطوق والمنطقة)
+",000,False,000,False,False,False,1,59
+"### | (رؤية الخاتم)
+",000,False,000,False,False,False,1,160
+"### | (رؤية الأساورة والخلاخل)
+",000,False,000,False,False,False,1,63
+"### | (رؤية المرآة)
+",000,False,000,False,False,False,1,113
+"### | (الباب الثامن والعشرون في رؤية السيف والسكين والسوط والعصا واللواء والتسلح والسرج واللجام ورؤية الحديد والصفر والرصاص والتراب والرمل والمزبلة)
+",000,False,000,False,False,False,1,40
+"### | (رؤية السيف)
+",000,False,000,False,False,False,1,176
+"### | (رؤية السكين)
+",000,False,000,False,False,False,1,42
+"### | (رؤية السوط والعصا)
+",000,False,000,False,False,False,1,73
+"### | (رؤية اللواء)
+",000,False,000,False,False,False,1,62
+"### | (رؤية التسلح)
+",000,False,000,False,False,False,1,73
+"### | (رؤية السرج)
+",000,False,000,False,False,False,1,31
+"### | (رؤية الحديد والرصاص والصفر)
+",000,False,000,False,False,False,1,86
+"### | (رؤية التراب والرمل)
+",000,False,000,False,False,False,1,72
+"### | (رؤية المزبلة)
+",000,False,000,False,False,False,1,41
+"### | (الباب التاسع والعشرون في رؤية الخيل والبغال والحمير والإبل والبقر والغنم)
+",000,False,000,False,False,False,1,22
+"### | (رؤية الخيل)
+",000,False,000,False,False,False,1,202
+"### | (رؤية الرمكة)
+",000,False,000,False,False,False,1,92
+"### | (رؤية البغال والحمير)
+",000,False,000,False,False,False,1,164
+"### | (رؤية الإبل)
+",000,False,000,False,False,False,1,223
+"### | (رؤية البقر)
+",000,False,000,False,False,False,1,194
+"### | (رؤية الغنم)
+",000,False,000,False,False,False,1,310
+"### | (الباب الثلاثون في رؤية أصناف الوحش)
+",000,False,000,False,False,False,1,12
+"### | (رؤية حمار الوحش)
+",000,False,000,False,False,False,1,90
+"### | (رؤية بقر الوحش والظباء والأرانب)
+",000,False,000,False,False,False,1,81
+"### | (رؤية الفيل)
+",000,False,000,False,False,False,1,92
+"### | (رؤية السباع)
+",000,False,000,False,False,False,1,144
+"### | (رؤية النمر والدب)
+",000,False,000,False,False,False,1,49
+"### | (رؤية الضبع)
+",000,False,000,False,False,False,1,72
+"### | (رؤية الذئب)
+",000,False,000,False,False,False,1,49
+"### | (رؤية الثعلب)
+",000,False,000,False,False,False,1,61
+"### | (رؤية الكلب)
+",000,False,000,False,False,False,1,125
+"### | (رؤية السنور)
+",000,False,000,False,False,False,1,101
+"### | (رؤية القرد)
+",000,False,000,False,False,False,1,89
+"### | (رؤية الخنزير)
+",000,False,000,False,False,False,1,59
+"### | (رؤية الطير والنسر)
+",000,False,000,False,False,False,1,94
+"### | (رؤية العقاب والحدأة)
+",000,False,000,False,False,False,1,69
+"### | (رؤية الصقر والباز)
+",000,False,000,False,False,False,1,65
+"### | (رؤية الغراب)
+",000,False,000,False,False,False,1,71
+"### | (رؤية الطاووس)
+",000,False,000,False,False,False,1,46
+"### | (رؤية الحمام)
+",000,False,000,False,False,False,1,96
+"### | (رؤية الدجاج والديكة)
+",000,False,000,False,False,False,1,121
+"### | (رؤية النعام)
+",000,False,000,False,False,False,1,58
+"### | (رؤية العصفور)
+",000,False,000,False,False,False,1,115
+"### | (رؤية الخفاش)
+",000,False,000,False,False,False,1,19
+"### | (رؤية الهدهد)
+",000,False,000,False,False,False,1,78
+"### | (رؤية طير الماء)
+",000,False,000,False,False,False,1,73
+"### | (رؤية النحل والزنبور واليعسوب والذباب)
+",000,False,000,False,False,False,1,74
+"### | (رؤية الجراد)
+",000,False,000,False,False,False,1,75
+"### | (رؤية الحيتان ودواب الماء)
+",000,False,000,False,False,False,1,191
+"### | (رؤية الضفدع)
+",000,False,000,False,False,False,1,41
+"### | (رؤية التمساح والسلحفاة)
+",000,False,000,False,False,False,1,74
+"### | (رؤية السرطان ودواب البحر)
+",000,False,000,False,False,False,1,79
+"### | (رؤية الحيات والعقارب)
+",000,False,000,False,False,False,1,234
+"### | (رؤية الثعبان)
+",000,False,000,False,False,False,1,22
+"### | (رؤية العقرب)
+",000,False,000,False,False,False,1,67
+"### | (رؤية الفئران)
+",000,False,000,False,False,False,1,113
+"### | (رؤية الخنفساء)
+",000,False,000,False,False,False,1,20
+"### | (رؤية البق)
+",000,False,000,False,False,False,1,26
+"### | (رؤية النمل)
+",000,False,000,False,False,False,1,50
+"### | (رؤية العنكبوت والسوس)
+",000,False,000,False,False,False,1,60
+"### | (رؤية الوزغ)
+",000,False,000,False,False,False,1,31
+"### | (الخاتمة في ذكر بعض نوادر يستعان بها في التعبير)
+",000,False,000,False,False,False,1,843

@@ -1,0 +1,357 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | تنبيه على اسم الكتاب
+",000,False,000,False,False,False,1,195
+"### | ذكر تعداد أنواع الحديث
+",000,False,000,False,False,False,1,262
+"### | النوع الأول
+",000,False,000,False,False,False,1,4
+"### | الصحيح
+",000,False,000,False,False,False,1,2
+"### | تقسيم الحديث إلى أنواعه صحة وضعفا
+",000,False,000,False,False,False,1,62
+"### | تعريف الحديث الصحيح
+",000,False,000,False,False,False,1,182
+"### | أول من جمع صحاح الحديث
+",000,False,000,False,False,False,1,118
+"### | عدد ما في الصحيحين من الحديث
+",000,False,000,False,False,False,1,35
+"### | الزيادات على الصحيحين
+",000,False,000,False,False,False,1,319
+"### | موطأ مالك
+",000,False,000,False,False,False,1,148
+"### | إطلاق اسم "" الصحيح "" على الترمذي والنسائي
+",000,False,000,False,False,False,1,82
+"### | مسند الإمام أحمد
+",000,False,000,False,False,False,1,78
+"### | الكتب الخمسة وغيرها
+",000,False,000,False,False,False,1,75
+"### | التعليقات التي في الصحيحين
+",000,False,000,False,False,False,1,368
+"### | النوع الثاني
+",000,False,000,False,False,False,1,4
+"### | الحسن
+",000,False,000,False,False,False,1,110
+"### | تعريف الترمذي للحديث الحسن
+",000,False,000,False,False,False,1,74
+"### | تعريفات أخرى للحسن
+",000,False,000,False,False,False,1,207
+"### | الترمذي ms08 أصل في الحديث الحسن
+",000,False,000,False,False,False,1,39
+"### | أبو داود من مظان الحديث الحسن
+",000,False,000,False,False,False,1,139
+"### | كتاب المصابيح للبغوي
+",000,False,000,False,False,False,1,43
+"### | صحة الإسناد لا يلزم منها صحة الحديث
+",000,False,000,False,False,False,1,32
+"### | قول الترمذي حسن صحيح
+",000,False,000,False,False,False,1,118
+"### | النوع الثالث
+",000,False,000,False,False,False,1,4
+"### | الحديث الضعيف
+",000,False,000,False,False,False,1,45
+"### | النوع الرابع
+",000,False,000,False,False,False,1,4
+"### | المسند
+",000,False,000,False,False,False,1,54
+"### | النوع الخامس
+",000,False,000,False,False,False,1,4
+"### | المتصل
+",000,False,000,False,False,False,1,23
+"### | الموقوف
+",000,False,000,False,False,False,1,11
+"### | النوع السادس
+",000,False,000,False,False,False,1,4
+"### | المرفوع
+",000,False,000,False,False,False,1,45
+"### | النوع السابع
+",000,False,000,False,False,False,1,75
+"### | النوع الثامن
+",000,False,000,False,False,False,1,4
+"### | المقطوع
+",000,False,000,False,False,False,1,17
+"### | المنقطع
+",000,False,000,False,False,False,1,175
+"### | النوع التاسع
+",000,False,000,False,False,False,1,4
+"### | المرسل
+",000,False,000,False,False,False,1,347
+"### | النوع العاشر
+",000,False,000,False,False,False,1,189
+"### | النوع الحادي عشر
+",000,False,000,False,False,False,1,6
+"### | المعضل
+",000,False,000,False,False,False,1,384
+"### | النوع الثاني عشر
+",000,False,000,False,False,False,1,6
+"### | المدلس
+",000,False,000,False,False,False,1,277
+"### | النوع الثالث عشر
+",000,False,000,False,False,False,1,6
+"### | الشاذ
+",000,False,000,False,False,False,1,288
+"### | النوع الرابع عشر
+",000,False,000,False,False,False,1,6
+"### | المنكر
+",000,False,000,False,False,False,1,40
+"### | النوع الخامس عشر
+",000,False,000,False,False,False,1,6
+"### | في الاعتبارات والمتابعات والشواهد
+",000,False,000,False,False,False,1,114
+"### | النوع السادس عشر
+",000,False,000,False,False,False,1,6
+"### | في الأفراد
+",000,False,000,False,False,False,1,67
+"### | النوع السابع عشر
+",000,False,000,False,False,False,1,6
+"### | في زيادة الثقة
+",000,False,000,False,False,False,1,235
+"### | النوع الثامن عشر
+",000,False,000,False,False,False,1,6
+"### | المعلل من الحديث
+",000,False,000,False,False,False,1,250
+"### | النوع التاسع عشر
+",000,False,000,False,False,False,1,6
+"### | المضطرب
+",000,False,000,False,False,False,1,35
+"### | النوع العشرون
+",000,False,000,False,False,False,1,4
+"### | معرفة المدرج
+",000,False,000,False,False,False,1,58
+"### | النوع الحادي والعشرون
+",000,False,000,False,False,False,1,6
+"### | معرفة الموضوع المختلق المصنوع
+",000,False,000,False,False,False,1,302
+"### | النوع الثاني والعشرون
+",000,False,000,False,False,False,1,6
+"### | المقلوب
+",000,False,000,False,False,False,1,217
+"### | النوع الثالث والعشرون
+",000,False,000,False,False,False,1,6
+"### | معرفة من تقبل روايته
+",000,False,000,False,False,False,1,8
+"### | ومن لا تقبل وبيان الجرح والتعديل
+",000,False,000,False,False,False,1,1348
+"### | النوع الرابع والعشرون
+",000,False,000,False,False,False,1,6
+"### | كيفية سماع الحديث وتحمله وضبطه
+",000,False,000,False,False,False,1,91
+"### | السماع
+",000,False,000,False,False,False,1,85
+"### | القسم الأول
+",000,False,000,False,False,False,1,142
+"### | القسم الثاني
+",000,False,000,False,False,False,1,4
+"### | القراءة على الشيخ حفظا أو من كتاب
+",000,False,000,False,False,False,1,770
+"### | القسم الثالث
+",000,False,000,False,False,False,1,4
+"### | الإجازة
+",000,False,000,False,False,False,1,122
+"### | 2 - 
+",000,False,000,False,False,False,1,30
+"### | 3 - 
+",000,False,000,False,False,False,1,58
+"### | 4 - 
+",000,False,000,False,False,False,1,281
+"### | القسم الرابع
+",000,False,000,False,False,False,1,4
+"### | المناولة
+",000,False,000,False,False,False,1,284
+"### | القسم الخامس
+",000,False,000,False,False,False,1,4
+"### | المكاتبة
+",000,False,000,False,False,False,1,62
+"### | القسم السادس
+",000,False,000,False,False,False,1,4
+"### | الإعلام
+",000,False,000,False,False,False,1,2
+"### | إعلام الشيخ أن هذا الكتاب سماعه من فلان
+",000,False,000,False,False,False,1,64
+"### | القسم السابع
+",000,False,000,False,False,False,1,4
+"### | الوصية
+",000,False,000,False,False,False,1,45
+"### | الوجادة
+",000,False,000,False,False,False,1,5
+"### | القسم الثامن
+",000,False,000,False,False,False,1,250
+"### | النوع الخامس والعشرون
+",000,False,000,False,False,False,1,6
+"### | كتابة الحديث وضبطه وتقييده
+",000,False,000,False,False,False,1,418
+"### | النوع السادس والعشرون
+",000,False,000,False,False,False,1,6
+"### | صفة رواية الحديث
+",000,False,000,False,False,False,1,1471
+"### | النوع السابع والعشرون
+",000,False,000,False,False,False,1,6
+"### | آداب المحدث
+",000,False,000,False,False,False,1,396
+"### | النوع الثامن والعشرون
+",000,False,000,False,False,False,1,6
+"### | آداب طالب الحديث
+",000,False,000,False,False,False,1,250
+"### | النوع التاسع والعشرون
+",000,False,000,False,False,False,1,6
+"### | معرفة الإسناد العالي والنازل
+",000,False,000,False,False,False,1,330
+"### | النع الثلاثون
+",000,False,000,False,False,False,1,4
+"### | معرفة المشهور
+",000,False,000,False,False,False,1,126
+"### | النوع الحادي والثلاثون
+",000,False,000,False,False,False,1,6
+"### | معرفة الغريب والعزيز
+",000,False,000,False,False,False,1,91
+"### | النوع الثاني والثلاثون
+",000,False,000,False,False,False,1,6
+"### | معرفة غريب ألفاظ الحديث
+",000,False,000,False,False,False,1,81
+"### | النوع الثالث والثلاثون
+",000,False,000,False,False,False,1,6
+"### | معرفة المسلسل
+",000,False,000,False,False,False,1,68
+"### | النوع الرابع والثلاثون
+",000,False,000,False,False,False,1,6
+"### | معرفة ناسخ الحديث ومنسوخه
+",000,False,000,False,False,False,1,152
+"### | النوع الخامس والثلاثون
+",000,False,000,False,False,False,1,6
+"### | معرفة ضبط ألفاظ الحديث
+",000,False,000,False,False,False,1,8
+"### | متنا وإسنادا والاحتراز من التصحيف فيها
+",000,False,000,False,False,False,1,238
+"### | النوع السادس والثلاثون
+",000,False,000,False,False,False,1,6
+"### | معرفة مختلف الحديث
+",000,False,000,False,False,False,1,107
+"### | النوع السابع والثلاثون
+",000,False,000,False,False,False,1,6
+"### | معرفة المزيد في متصل الأسانيد
+",000,False,000,False,False,False,1,110
+"### | النوع الثامن والثلاثون
+",000,False,000,False,False,False,1,6
+"### | معرفة الخفي من المراسيل
+",000,False,000,False,False,False,1,138
+"### | النوع التاسع والثلاثون
+",000,False,000,False,False,False,1,6
+"### | معرفة الصحابة رضي الله عنهم أجمعين
+",000,False,000,False,False,False,1,1145
+"### | النوع الموفى أربعين
+",000,False,000,False,False,False,1,6
+"### | معرفة التابعين
+",000,False,000,False,False,False,1,521
+"### | النوع الحادي والأربعون
+",000,False,000,False,False,False,1,6
+"### | معرفة رواية الأكابر عن الأصاغر
+",000,False,000,False,False,False,1,169
+"### | النوع الثاني والأربعون
+",000,False,000,False,False,False,1,6
+"### | معرفة المدبج
+",000,False,000,False,False,False,1,48
+"### | النوع الثالث والأربعون
+",000,False,000,False,False,False,1,6
+"### | معرفة الأخوة والأخوات من الرواة
+",000,False,000,False,False,False,1,280
+"### | النوع الرابع والأربعون
+",000,False,000,False,False,False,1,6
+"### | معرفة رواية الآباء عن الأبناء
+",000,False,000,False,False,False,1,334
+"### | النوع الخامس والأربعون
+",000,False,000,False,False,False,1,6
+"### | رواية الأبناء عن الآباء
+",000,False,000,False,False,False,1,128
+"### | النوع السادس والأربعون
+",000,False,000,False,False,False,1,6
+"### | معرفة رواية السابق واللاحق
+",000,False,000,False,False,False,1,121
+"### | النوع السابع والأربعون
+",000,False,000,False,False,False,1,6
+"### | معرفة من لم يرو عنه إلا راو واحد
+",000,False,000,False,False,False,1,16
+"### | من صحابي وتابعي وغيرهم
+",000,False,000,False,False,False,1,348
+"### | النوع الثامن والأربعون
+",000,False,000,False,False,False,1,6
+"### | معرفة من له أسماء متعددة
+",000,False,000,False,False,False,1,143
+"### | النوع التاسع والأربعون
+",000,False,000,False,False,False,1,6
+"### | معرفة الأسماء المفردة
+",000,False,000,False,False,False,1,6
+"### | والكنى التي لا يكون منها في كل حرف سواه
+",000,False,000,False,False,False,1,394
+"### | النوع الموفى خمسين
+",000,False,000,False,False,False,1,6
+"### | معرفة الأسماء والكنى
+",000,False,000,False,False,False,1,581
+"### | النوع الحادي والخمسون
+",000,False,000,False,False,False,1,6
+"### | معرفة من اشتهر بالاسم دون الكنية
+",000,False,000,False,False,False,1,103
+"### | النوع الثاني والخمسون
+",000,False,000,False,False,False,1,6
+"### | معرفة الألقاب
+",000,False,000,False,False,False,1,426
+"### | النوع الثالث والخمسون
+",000,False,000,False,False,False,1,6
+"### | معرفة المؤتلف والمختلف
+",000,False,000,False,False,False,1,6
+"### | في الأسماء والأنساب وما أشبه ذلك
+",000,False,000,False,False,False,1,151
+"### | النوع الرابع والخمسون
+",000,False,000,False,False,False,1,6
+"### | معرفة المتفق والمفترق
+",000,False,000,False,False,False,1,6
+"### | من الأسماء والأنساب
+",000,False,000,False,False,False,1,232
+"### | النوع الخامس والخمسون
+",000,False,000,False,False,False,1,6
+"### | نوع يتركب من النوعين قبله
+",000,False,000,False,False,False,1,74
+"### | النوع السادس والخمسون
+",000,False,000,False,False,False,1,6
+"### | في صنف آخر مما تقدم
+",000,False,000,False,False,False,1,113
+"### | النوع السابع والخمسون
+",000,False,000,False,False,False,1,6
+"### | معرفة المنسوبين إلى غير آبائهم
+",000,False,000,False,False,False,1,476
+"### | النوع الثامن والخمسون
+",000,False,000,False,False,False,1,6
+"### | في النسب التي على خلاف ظاهرها
+",000,False,000,False,False,False,1,160
+"### | النوع التاسع والخمسون
+",000,False,000,False,False,False,1,6
+"### | في معرفة المبهمات
+",000,False,000,False,False,False,1,6
+"### | من أسماء الرجال والنساء
+",000,False,000,False,False,False,1,158
+"### | النوع الموفى ستين
+",000,False,000,False,False,False,1,6
+"### | معرفة وفيات الرواة
+",000,False,000,False,False,False,1,6
+"### | ومواليدهم ومقدار أعمارهم
+",000,False,000,False,False,False,1,812
+"### | النوع الحادي والستون
+",000,False,000,False,False,False,1,6
+"### | معرفة الثقاة والضعفاء
+",000,False,000,False,False,False,1,6
+"### | من الرواة وغيرهم
+",000,False,000,False,False,False,1,279
+"### | النوع الثاني والستون
+",000,False,000,False,False,False,1,6
+"### | معرفة من اختلط في آخر عمره
+",000,False,000,False,False,False,1,187
+"### | النوع الثالث والستون
+",000,False,000,False,False,False,1,6
+"### | معرفة الطبقات
+",000,False,000,False,False,False,1,83
+"### | النوع الرابع والستون
+",000,False,000,False,False,False,1,6
+"### | معرفة الموالي من الرواة والعلماء
+",000,False,000,False,False,False,1,342
+"### | النوع الخامس والستون
+",000,False,000,False,False,False,1,6
+"### | معرفة أوطان الرواة وبلدانهم
+",000,False,000,False,False,False,1,154

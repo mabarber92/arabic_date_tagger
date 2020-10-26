@@ -1,0 +1,59 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | الأمر
+",000,False,000,False,False,False,1,40
+"### | النهي
+",000,False,000,False,False,False,1,32
+"### | الخبر
+",000,False,000,False,False,False,1,26
+"### | الاستخبار
+",000,False,000,False,False,False,1,37
+"### | المدح
+",000,False,000,False,False,False,1,23
+"### | الهجاء
+",000,False,000,False,False,False,1,52
+"### | المرثية
+",000,False,000,False,False,False,1,23
+"### | الاعتذار
+",000,False,000,False,False,False,1,35
+"### | التشبيه
+",000,False,000,False,False,False,1,20
+"### | التشبيب
+",000,False,000,False,False,False,1,15
+"### | اقتصاص الأخبار
+",000,False,000,False,False,False,1,17
+"### | التشبيه الخارج عن التعدي والتقصير
+",000,False,000,False,False,False,1,543
+"### | الإفراط في الإغراق
+",000,False,000,False,False,False,1,517
+"### | الاستعارة
+",000,False,000,False,False,False,1,182
+"### | حسن الخروج
+",000,False,000,False,False,False,1,182
+"### | مجاورة الأضداد
+",000,False,000,False,False,False,1,159
+"### | المطابق
+",000,False,000,False,False,False,1,183
+"### | جزالة اللفظ
+",000,False,000,False,False,False,1,34
+"### | اتساق النظم
+",000,False,000,False,False,False,1,12
+"### | السناد
+",000,False,000,False,False,False,1,3
+"### | الإقواء
+",000,False,000,False,False,False,1,3
+"### | الإكفاء
+",000,False,000,False,False,False,1,3
+"### | الإجازة
+",000,False,000,False,False,False,1,3
+"### | الإيطاء
+",000,False,000,False,False,False,1,251
+"### | المعدل من أبيات الشعر
+",000,False,000,False,False,False,1,299
+"### | الأبيات الغر
+",000,False,000,False,False,False,1,246
+"### | الأبيات المحجلة
+",000,False,000,False,False,False,1,248
+"### | الأبيات الموضحة
+",000,False,000,False,False,False,1,246
+"### | الأبيات المرجلة
+",000,False,000,False,False,False,1,248

@@ -1,0 +1,17 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK [غلاف الجزء]
+",000,False,000,False,False,False,1,165
+"### | CHECK [الأول من حديث سعدان بن نصر]
+",000,False,000,False,False,False,1,15
+"### | AUTO مقدمة التحقيق
+",000,False,000,False,False,False,1,430
+"### | AUTO ترجمة المصنف (¬1)
+",000,False,000,False,False,False,1,221
+"### | AUTO وصف النسخة الخطية:
+",000,False,000,False,False,False,1,68
+"### | AUTO خطة العمل في هذا الجزء:
+",000,False,000,False,False,False,1,121
+"### | AUTO الأول من حديث سعدان بن نصر بن منصور البزاز أبي عثمان
+",000,False,000,False,False,False,1,6814
+"### | AUTO السماعات لهذا الجزء
+",000,False,000,False,False,False,1,9402

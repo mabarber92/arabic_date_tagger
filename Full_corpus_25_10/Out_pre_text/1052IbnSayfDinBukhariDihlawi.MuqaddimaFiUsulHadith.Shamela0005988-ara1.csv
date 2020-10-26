@@ -1,0 +1,347 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | الفصل الأول في تعريف الحديث وأنواعه
+",000,False,000,False,False,False,1,12
+"### | تعريف مصطلح الحديث
+",000,False,000,False,False,False,1,77
+"### | الموقوف
+",000,False,000,False,False,False,1,36
+"### | المقطوع
+",000,False,000,False,False,False,1,15
+"### | الحديث والأثر
+",000,False,000,False,False,False,1,12
+"### | المرفوع
+",000,False,000,False,False,False,1,61
+"### | الخبر والحديث
+",000,False,000,False,False,False,1,48
+"### | الرفع قسمان صريح وحكمي
+",000,False,000,False,False,False,1,18
+"### | القولي الصريح
+",000,False,000,False,False,False,1,51
+"### | الفعلي الصريح
+",000,False,000,False,False,False,1,39
+"### | التقريري الصريح
+",000,False,000,False,False,False,1,33
+"### | القولي الحكمي
+",000,False,000,False,False,False,1,59
+"### | الفعلي الحكمي
+",000,False,000,False,False,False,1,18
+"### | التقريري الحكمي
+",000,False,000,False,False,False,1,57
+"### | الفصل الثاني في تعريف السند و
+",000,False,000,False,False,False,1,12
+"### | المتن
+",000,False,000,False,False,False,1,1
+"### | السند
+",000,False,000,False,False,False,1,11
+"### | الإسناد
+",000,False,000,False,False,False,1,18
+"### | المتصل
+",000,False,000,False,False,False,1,25
+"### | المنقطع
+",000,False,000,False,False,False,1,21
+"### | المعلق
+",000,False,000,False,False,False,1,40
+"### | تعليقات البخاري
+",000,False,000,False,False,False,1,36
+"### | حكم التعليق بصيغة المعلوم والمجهول
+",000,False,000,False,False,False,1,55
+"### | المرسل
+",000,False,000,False,False,False,1,40
+"### | حكم المرسل
+",000,False,000,False,False,False,1,122
+"### | المعضل
+",000,False,000,False,False,False,1,17
+"### | المنقطع
+",000,False,000,False,False,False,1,46
+"### | طريق معرفة الانقطاع
+",000,False,000,False,False,False,1,47
+"### | المدلس
+",000,False,000,False,False,False,1,21
+"### | تعريف التدليس ms03 اصطلاحا
+",000,False,000,False,False,False,1,30
+"### | تعريف التدليس لغة
+",000,False,000,False,False,False,1,31
+"### | وجه التسمية به
+",000,False,000,False,False,False,1,13
+"### | حكم المدلس
+",000,False,000,False,False,False,1,32
+"### | حكم التدليس
+",000,False,000,False,False,False,1,29
+"### | حكم رواية المدلس
+",000,False,000,False,False,False,1,71
+"### | أسباب التدليس
+",000,False,000,False,False,False,1,31
+"### | تدليس الأكابر
+",000,False,000,False,False,False,1,53
+"### | المضطرب
+",000,False,000,False,False,False,1,53
+"### | حكم المضطرب من الروايات
+",000,False,000,False,False,False,1,16
+"### | المدرج
+",000,False,000,False,False,False,1,32
+"### | تنبيه
+",000,False,000,False,False,False,1,2
+"### | الرواية بالمعنى
+",000,False,000,False,False,False,1,79
+"### | رواية اللفظ أولى
+",000,False,000,False,False,False,1,41
+"### | العنعنة
+",000,False,000,False,False,False,1,17
+"### | المعنعن
+",000,False,000,False,False,False,1,11
+"### | شروط العنعنة
+",000,False,000,False,False,False,1,31
+"### | المسند
+",000,False,000,False,False,False,1,36
+"### | الفصل الثالث في الشاذ و
+",000,False,000,False,False,False,1,10
+"### | المنكر 
+",000,False,000,False,False,False,1,14
+"### | الشاذ لغة
+",000,False,000,False,False,False,1,20
+"### | الشاذ اصطلاحا
+",000,False,000,False,False,False,1,31
+"### | المحفوظ
+",000,False,000,False,False,False,1,8
+"### | المنكر
+",000,False,000,False,False,False,1,15
+"### | حكم المعروف والمنكر والشاذ والمحفوظ
+",000,False,000,False,False,False,1,7
+"### | المعروف
+",000,False,000,False,False,False,1,29
+"### | تعريف آخر للشاذ
+",000,False,000,False,False,False,1,44
+"### | تعريف ثالث للشاذ
+",000,False,000,False,False,False,1,15
+"### | تعريف آخر للمنكر
+",000,False,000,False,False,False,1,27
+"### | المعلل
+",000,False,000,False,False,False,1,41
+"### | المتابع
+",000,False,000,False,False,False,1,34
+"### | فائدة المتابعة
+",000,False,000,False,False,False,1,19
+"### | درجات المتابعة
+",000,False,000,False,False,False,1,32
+"### | متى يستعمل مثله
+",000,False,000,False,False,False,1,14
+"### | استعمال نحوه
+",000,False,000,False,False,False,1,18
+"### | شرط المتابعة
+",000,False,000,False,False,False,1,20
+"### | الشاهد
+",000,False,000,False,False,False,1,28
+"### | تعريف آخر للمتابع والشاهد
+",000,False,000,False,False,False,1,24
+"### | تعريف ثالث لهما
+",000,False,000,False,False,False,1,23
+"### | الاعتبار
+",000,False,000,False,False,False,1,13
+"### | الفصل الرابع في الصحيح والحسن والضعيف
+",000,False,000,False,False,False,1,33
+"### | الصحيح
+",000,False,000,False,False,False,1,23
+"### | الصحيح لذاته
+",000,False,000,False,False,False,1,24
+"### | الصحيح لغيره
+",000,False,000,False,False,False,1,18
+"### | الحسن لذاته
+",000,False,000,False,False,False,1,34
+"### | الحسن لغيره
+",000,False,000,False,False,False,1,4
+"### | الضعيف
+",000,False,000,False,False,False,1,17
+"### | النقصان المعتبر في الحسن
+",000,False,000,False,False,False,1,35
+"### | الفصل الخامس في العدالة ووجوه الطعن المتعلقة بها
+",000,False,000,False,False,False,1,16
+"### | العدالة
+",000,False,000,False,False,False,1,19
+"### | المروءة
+",000,False,000,False,False,False,1,2
+"### | التقوى
+",000,False,000,False,False,False,1,30
+"### | المروءة
+",000,False,000,False,False,False,1,33
+"### | عدل الرواية أعم من عدل الشهادة
+",000,False,000,False,False,False,1,30
+"### | الضبط
+",000,False,000,False,False,False,1,21
+"### | الضبط قسمان
+",000,False,000,False,False,False,1,4
+"### | ضبط الصدر وضبط الكتاب
+",000,False,000,False,False,False,1,32
+"### | وجوه الطعن المتعلقة بالعدالة
+",000,False,000,False,False,False,1,18
+"### | 1 - 
+",000,False,000,False,False,False,1,18
+"### | 1 - 
+",000,False,000,False,False,False,1,29
+"### | الموضوع
+",000,False,000,False,False,False,1,11
+"### | حكم متعمد الكذب
+",000,False,000,False,False,False,1,11
+"### | الكذب 
+",000,False,000,False,False,False,1,22
+"### | المراد بالموضوع
+",000,False,000,False,False,False,1,22
+"### | مسألة الحكم بالوضع ظنية
+",000,False,000,False,False,False,1,58
+"### | 2 - 
+",000,False,000,False,False,False,1,6
+"### | اتهام الراوي بالكذب 
+",000,False,000,False,False,False,1,18
+"### | المتروك
+",000,False,000,False,False,False,1,37
+"### | حكم المتهم بالكذب
+",000,False,000,False,False,False,1,16
+"### | حكم من يكذب نادرا
+",000,False,000,False,False,False,1,35
+"### | 3 - 
+",000,False,000,False,False,False,1,4
+"### | الفسق 
+",000,False,000,False,False,False,1,35
+"### | 4 - 
+",000,False,000,False,False,False,1,5
+"### | جهالة الراوي 
+",000,False,000,False,False,False,1,35
+"### | المبهم
+",000,False,000,False,False,False,1,15
+"### | حكم المبهم
+",000,False,000,False,False,False,1,52
+"### | 5 - 
+",000,False,000,False,False,False,1,4
+"### | البدعة 
+",000,False,000,False,False,False,1,39
+"### | حكم حديث المبتدع
+",000,False,000,False,False,False,1,166
+"### | وجوه الطعن المتعلقة بالضبط
+",000,False,000,False,False,False,1,20
+"### | 1 - 
+",000,False,000,False,False,False,1,19
+"### | مخالفة الثقات 
+",000,False,000,False,False,False,1,33
+"### | 3 - 
+",000,False,000,False,False,False,1,36
+"### | مخالفة الثقات 
+",000,False,000,False,False,False,1,22
+"### | 4 - 
+",000,False,000,False,False,False,1,8
+"### | الوهم 
+",000,False,000,False,False,False,1,32
+"### | غموض علم العلة ودقته
+",000,False,000,False,False,False,1,50
+"### | 5 - 
+",000,False,000,False,False,False,1,5
+"### | سوء الحفظ 
+",000,False,000,False,False,False,1,42
+"### | حكم سيىء الحفظ
+",000,False,000,False,False,False,1,33
+"### | المختلط
+",000,False,000,False,False,False,1,27
+"### | حكم المختلط
+",000,False,000,False,False,False,1,41
+"### | الفصل السادس في الغريب و
+",000,False,000,False,False,False,1,10
+"### | العزيز
+",000,False,000,False,False,False,1,5
+"### | المتواتر
+",000,False,000,False,False,False,1,1
+"### | الغريب
+",000,False,000,False,False,False,1,20
+"### | المشهور
+",000,False,000,False,False,False,1,9
+"### | المتواتر
+",000,False,000,False,False,False,1,16
+"### | الفرد
+",000,False,000,False,False,False,1,9
+"### | الفرد النسبي
+",000,False,000,False,False,False,1,19
+"### | الفرد المطلق
+",000,False,000,False,False,False,1,13
+"### | المراد بكون الراوي اثنين أو أكثر
+",000,False,000,False,False,False,1,65
+"### | لا تنافي بين الغرابة والصحة
+",000,False,000,False,False,False,1,32
+"### | الغريب بمعنى الشاذ
+",000,False,000,False,False,False,1,68
+"### | الفصل السابع في تعدد مراتب الضعيف والصحيح وغيره وبعض اصطلاحات الترمذي
+",000,False,000,False,False,False,1,22
+"### | الضعيف
+",000,False,000,False,False,False,1,28
+"### | تعدد أقسام الضعيف
+",000,False,000,False,False,False,1,13
+"### | تعدد مراتب الصحيح والحسن
+",000,False,000,False,False,False,1,53
+"### | أصح الأسانيد
+",000,False,000,False,False,False,1,99
+"### | اصطلاحات الترمذي
+",000,False,000,False,False,False,1,39
+"### | إشكال اجتماع الغرابة والحسن
+",000,False,000,False,False,False,1,21
+"### | جواب الإشكال
+",000,False,000,False,False,False,1,74
+"### | الفصل الثامن في الاحتجاج بالحديث الصحيح والحسن والضعيف
+",000,False,000,False,False,False,1,16
+"### | الاحتجاج بالصحيح والحسن
+",000,False,000,False,False,False,1,50
+"### | الاحتجاج بالضعيف
+",000,False,000,False,False,False,1,91
+"### | الفصل التاسع في مراتب الصحيح وعدد الصحاح وكتبها
+",000,False,000,False,False,False,1,16
+"### | صحيح البخاري أعلى الصحاح
+",000,False,000,False,False,False,1,43
+"### | وجه ترجيح صحيح مسلم عند بعض المغاربة
+",000,False,000,False,False,False,1,73
+"### | المتفق عليه
+",000,False,000,False,False,False,1,28
+"### | عدد الأحاديث المتفق عليها
+",000,False,000,False,False,False,1,15
+"### | درجات الصحاح
+",000,False,000,False,False,False,1,20
+"### | 2 - 
+",000,False,000,False,False,False,1,11
+"### | 3 - 
+",000,False,000,False,False,False,1,11
+"### | 4 - 
+",000,False,000,False,False,False,1,10
+"### | 5 - 
+",000,False,000,False,False,False,1,13
+"### | 6 - 
+",000,False,000,False,False,False,1,13
+"### | 7 - 
+",000,False,000,False,False,False,1,17
+"### | معنى شرط البخاري ومسلم
+",000,False,000,False,False,False,1,52
+"### | البخاري ومسلم لم يستوعبا الصحاح
+",000,False,000,False,False,False,1,92
+"### | مستدرك الحاكم
+",000,False,000,False,False,False,1,38
+"### | الطعن بقلة الأحاديث الصحيحة ورده
+",000,False,000,False,False,False,1,87
+"### | صحيح ابن خزيمة
+",000,False,000,False,False,False,1,54
+"### | صحيح ابن حبان
+",000,False,000,False,False,False,1,33
+"### | صحيح الحاكم المستدرك
+",000,False,000,False,False,False,1,35
+"### | المختارة للمقدسي
+",000,False,000,False,False,False,1,31
+"### | صحاح أخرى
+",000,False,000,False,False,False,1,32
+"### | الفصل العاشر في الكتب الستة المشهورة
+",000,False,000,False,False,False,1,12
+"### | الكتب الستة
+",000,False,000,False,False,False,1,26
+"### | 1 - 
+",000,False,000,False,False,False,1,32
+"### | أحاديث الكتب الأربعة
+",000,False,000,False,False,False,1,22
+"### | اصطلاح البغوي
+",000,False,000,False,False,False,1,24
+"### | كتاب الدارمي
+",000,False,000,False,False,False,1,50
+"### | مصادر السيوطي في جمع الجوامع
+",000,False,000,False,False,False,1,36
+"### | جماعة من الأئمة المتقنين
+",000,False,000,False,False,False,1,121

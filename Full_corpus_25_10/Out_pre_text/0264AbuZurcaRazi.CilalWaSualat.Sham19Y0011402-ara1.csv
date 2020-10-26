@@ -1,0 +1,21 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK المجلد الأول
+",000,False,000,False,False,False,1,39075
+"### || AUTO مقدمة
+",000,False,000,False,False,False,2,12
+"### || AUTO مقدمة
+",000,False,000,False,False,False,2,2018
+"### | CHECK المجلد الثاني
+",000,False,000,False,False,False,1,32885
+"### || AUTO التمهيد
+",000,False,000,False,False,False,2,6273
+"### | CHECK المجلد الثالث
+",000,False,000,False,False,False,1,196406
+"### || AUTO الباب الثالث
+",000,False,000,False,False,False,2,34990
+"### ||| AUTO الفصل الأول: الرواة الذين جرحهم أبو زرعة
+",000,False,000,False,False,False,3,5416
+"### ||| AUTO الفصل الثاني: الرواة الذين عدلهم أبو زرعة
+",000,False,000,False,False,False,3,16757
+"### ||| AUTO الفصل الثالث: الرواة الذين روي عنه، تعديلهم وتجريحهم
+",000,False,000,False,False,False,3,1100

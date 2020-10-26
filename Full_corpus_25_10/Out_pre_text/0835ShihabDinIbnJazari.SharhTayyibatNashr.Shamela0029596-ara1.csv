@@ -1,0 +1,175 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [المقدمة]
+",000,False,000,False,False,False,1,341
+"### | ترجمة يسيرة عن المؤلف ابن الجزري
+",000,False,000,False,False,False,1,58
+"### | [خطبة الطيبة]
+",000,False,000,False,False,False,1,227
+"### | باب التراجم
+",000,False,000,False,False,False,1,4
+"### | ترجمة نافع وراوييه
+",000,False,000,False,False,False,1,191
+"### | ترجمة ابن كثير وراوييه
+",000,False,000,False,False,False,1,250
+"### | ترجمة ابى عمر وراوييه
+",000,False,000,False,False,False,1,124
+"### | ترجمة ابن عامر وراوييه
+",000,False,000,False,False,False,1,181
+"### | ترجمة عاصم وراوييه
+",000,False,000,False,False,False,1,168
+"### | ترجمة حمزة وراوييه
+",000,False,000,False,False,False,1,161
+"### | ترجمة الكسائى وراوييه
+",000,False,000,False,False,False,1,128
+"### | ترجمة ابى جعفر وراوييه
+",000,False,000,False,False,False,1,200
+"### | ترجمة يعقوب وراوييه
+",000,False,000,False,False,False,1,136
+"### | [ترجمة خلف البزاز وراوييه]
+",000,False,000,False,False,False,1,118
+"### | باب فى بعض مباحث التراجم
+",000,False,000,False,False,False,1,10
+"### | مبحث طرق الطيبة وراوييه
+",000,False,000,False,False,False,1,497
+"### | مبحث رموز الائمة العشرة ورواتهم
+",000,False,000,False,False,False,1,2839
+"### | مبحث التجويد
+",000,False,000,False,False,False,1,4146
+"### | مبحث الوقف والابتداء
+",000,False,000,False,False,False,1,404
+"### | باب الاستعاذة
+",000,False,000,False,False,False,1,554
+"### | باب البسملة
+",000,False,000,False,False,False,1,533
+"### | تنبيه [فى استثناء سورة التوبة]
+",000,False,000,False,False,False,1,129
+"### | سورة أم القرآن
+",000,False,000,False,False,False,1,1424
+"### | باب الإدغام الكبير
+",000,False,000,False,False,False,1,3415
+"### | باب هاء الكناية
+",000,False,000,False,False,False,1,1523
+"### | باب المد والقصر
+",000,False,000,False,False,False,1,1530
+"### | باب الهمزتين من كلمة
+",000,False,000,False,False,False,1,2538
+"### | باب الهمزتين من كلمتين
+",000,False,000,False,False,False,1,568
+"### | باب الهمزة المفرد
+",000,False,000,False,False,False,1,1981
+"### | باب نقل حركة الهمزة إلى الساكن قبلها
+",000,False,000,False,False,False,1,758
+"### | باب السكت على الساكن قبل الهمزة وغيره
+",000,False,000,False,False,False,1,632
+"### | باب وقف حمزة وهشام على الهمز
+",000,False,000,False,False,False,1,1654
+"### | باب الإدغام الصغير
+",000,False,000,False,False,False,1,6
+"### | فصل ذال إذ ms099
+",000,False,000,False,False,False,1,185
+"### | فصل دال قد
+",000,False,000,False,False,False,1,222
+"### | فصل تاء التأنيث
+",000,False,000,False,False,False,1,255
+"### | فصل لام هل وبل
+",000,False,000,False,False,False,1,277
+"### | باب حروف قربت مخارجها
+",000,False,000,False,False,False,1,843
+"### | باب أحكام النون الساكنة والتنوين
+",000,False,000,False,False,False,1,476
+"### | باب الفتح والإمالة وبين اللفظين
+",000,False,000,False,False,False,1,4749
+"### | باب إمالة هاء التأنيث وما قبلها في الوقف
+",000,False,000,False,False,False,1,414
+"### | باب مذاهبهم في الراءات
+",000,False,000,False,False,False,1,1562
+"### | باب اللامات
+",000,False,000,False,False,False,1,512
+"### | باب الوقف على أواخر ms134 الكلم
+",000,False,000,False,False,False,1,518
+"### | باب الوقف على مرسوم الحظ
+",000,False,000,False,False,False,1,1455
+"### | باب مذاهبهم في ياءات الإضافة
+",000,False,000,False,False,False,1,2114
+"### | باب مذاهبهم في الزوائد
+",000,False,000,False,False,False,1,1805
+"### | باب إفراد القراءات وجمعها
+",000,False,000,False,False,False,1,1195
+"### | باب فرش الحروف
+",000,False,000,False,False,False,1,6
+"### | سورة البقرة
+",000,False,000,False,False,False,1,10082
+"### | سورة آل عمران
+",000,False,000,False,False,False,1,1949
+"### | سورة النساء
+",000,False,000,False,False,False,1,1512
+"### | سورة المائدة
+",000,False,000,False,False,False,1,740
+"### | سورة الأنعام
+",000,False,000,False,False,False,1,2348
+"### | سورة الأعراف
+",000,False,000,False,False,False,1,2885
+"### | سورة الأنفال
+",000,False,000,False,False,False,1,862
+"### | سورة التوبة
+",000,False,000,False,False,False,1,736
+"### | سورة يونس عليه السلام
+",000,False,000,False,False,False,1,377
+"### | .... 
+",000,False,000,False,False,False,1,321
+"### | سورة هود عليه السلام
+",000,False,000,False,False,False,1,830
+"### | سورة يوسف عليه السلام
+",000,False,000,False,False,False,1,833
+"### | سورة الرعد وأختيها
+",000,False,000,False,False,False,1,884
+"### | سورة النحل
+",000,False,000,False,False,False,1,561
+"### | سورة الإسراء
+",000,False,000,False,False,False,1,1022
+"### | سورة الكهف
+",000,False,000,False,False,False,1,1266
+"### | سورة مريم عليها السلام
+",000,False,000,False,False,False,1,449
+"### | سورة طه
+",000,False,000,False,False,False,1,1067
+"### | سورة الأنبياء عليهم السلام
+",000,False,000,False,False,False,1,568
+"### | سورة الحج والمؤمنون
+",000,False,000,False,False,False,1,1244
+"### | سورة النور والفرقان
+",000,False,000,False,False,False,1,1005
+"### | سورة الشعراء وأختيها
+",000,False,000,False,False,False,1,1226
+"### | سورة العنكبوت والروم
+",000,False,000,False,False,False,1,432
+"### | ومن سورة لقمان إلى سورة يس
+",000,False,000,False,False,False,1,1386
+"### | سورة يس الصلاة والسلام
+",000,False,000,False,False,False,1,487
+"### | سورة الصافات
+",000,False,000,False,False,False,1,302
+"### | ومن سورة ص إلى سورة الأحقاف
+",000,False,000,False,False,False,1,1499
+"### | سورة الأحقاف وأختيها
+",000,False,000,False,False,False,1,466
+"### | ومن سورة الحجرات إلى 
+",000,False,000,False,False,False,1,8
+"### | سورة الرحمن عز وجل
+",000,False,000,False,False,False,1,491
+"### | سورة الرحمن عز وجل
+",000,False,000,False,False,False,1,230
+"### | ومن سورة الواقعة إلى سورة التغابن
+",000,False,000,False,False,False,1,895
+"### | ومن سورة التغابن إلى سورة الإنسان
+",000,False,000,False,False,False,1,994
+"### | سورة الإنسان والمرسلات
+",000,False,000,False,False,False,1,633
+"### | ومن سورة النبأ إلى سورة التطفيف
+",000,False,000,False,False,False,1,579
+"### | ومن سورة التطفيف إلى سورة الشمس
+",000,False,000,False,False,False,1,576
+"### | ومن سورة الشمس إلى آخر القرآن
+",000,False,000,False,False,False,1,373
+"### | باب التكبير
+",000,False,000,False,False,False,1,2174

@@ -1,0 +1,765 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | مقدمة المؤلف 
+",000,False,000,False,False,False,1,240
+"### | الهمزة
+",000,False,000,False,False,False,1,2185
+"### || "" الأزد "" 
+",000,False,000,False,False,False,2,46
+"### || "" الأزد ""، 
+",000,False,000,False,False,False,2,151
+"### || "" الألة "":
+",000,False,000,False,False,False,2,154
+"### || "" الأوس "".
+",000,False,000,False,False,False,2,27
+"### || "" أسلم "" 
+",000,False,000,False,False,False,2,449
+"### || 
+",000,False,000,False,False,False,2,290
+"### || "" أسلم "":
+",000,False,000,False,False,False,2,113
+"### || "" أبامة "":
+",000,False,000,False,False,False,2,39
+"### || "" أبامة "":
+",000,False,000,False,False,False,2,46
+"### || "" أفصى "":
+",000,False,000,False,False,False,2,52
+"### || "" أعور "":
+",000,False,000,False,False,False,2,193
+"### || "" الأغلب "":
+",000,False,000,False,False,False,2,59
+"### || "" أدعة "": 
+",000,False,000,False,False,False,2,15
+"### || "" إياد "":
+",000,False,000,False,False,False,2,25
+"### || "" أسيد "":
+",000,False,000,False,False,False,2,33
+"### || "" أسيد "":
+",000,False,000,False,False,False,2,19
+"### || "" أفرك "":
+",000,False,000,False,False,False,2,30
+"### || "" أكلب "":
+",000,False,000,False,False,False,2,35
+"### || أكلب:
+",000,False,000,False,False,False,2,24
+"### || "" إلاءة "":
+",000,False,000,False,False,False,2,32
+"### || "" إلة "":
+",000,False,000,False,False,False,2,13
+"### || "" ألة "":
+",000,False,000,False,False,False,2,40
+"### || "" بنو إل "": 
+",000,False,000,False,False,False,2,18
+"### || "" أليهة "":
+",000,False,000,False,False,False,2,38
+"### || "" أصمع "":
+",000,False,000,False,False,False,2,60
+"### || "" أمية "":
+",000,False,000,False,False,False,2,83
+"### || "" أمة "":
+",000,False,000,False,False,False,2,54
+"### || "" أسد "": 
+",000,False,000,False,False,False,2,63
+"### || "" الأقروع "": 
+",000,False,000,False,False,False,2,13
+"### || "" أيمن "":
+",000,False,000,False,False,False,2,13
+"### || "" أبين "":
+",000,False,000,False,False,False,2,21
+"### || "" ألحج "":
+",000,False,000,False,False,False,2,9
+"### || "" أمين "":
+",000,False,000,False,False,False,2,13
+"### || "" الأوزاع: ""
+",000,False,000,False,False,False,2,13
+"### || "" الأكلوب "":
+",000,False,000,False,False,False,2,13
+"### || "" الأشروع "":
+",000,False,000,False,False,False,2,17
+"### || "" أذرح "": 
+",000,False,000,False,False,False,2,19
+"### || "" أجرم "":
+",000,False,000,False,False,False,2,23
+"### || "" أخزم "": 
+",000,False,000,False,False,False,2,20
+"### || "" أيثع "":
+",000,False,000,False,False,False,2,23
+"### | الباء
+",000,False,000,False,False,False,1,602
+"### || "" بكر "":
+",000,False,000,False,False,False,2,82
+"### || "" بولان "":
+",000,False,000,False,False,False,2,27
+"### || "" بحير "":
+",000,False,000,False,False,False,2,40
+"### || "" بجير "":
+",000,False,000,False,False,False,2,11
+"### || "" بحير "":
+",000,False,000,False,False,False,2,2
+"### || "" بشر "":
+",000,False,000,False,False,False,2,17
+"### || "" بسر "":
+",000,False,000,False,False,False,2,52
+"### || "" بلي "":
+",000,False,000,False,False,False,2,63
+"### || "" بثيرة "":
+",000,False,000,False,False,False,2,46
+"### || "" بسيل "":
+",000,False,000,False,False,False,2,122
+"### || "" بتيرة "":
+",000,False,000,False,False,False,2,31
+"### || "" برباط "":
+",000,False,000,False,False,False,2,27
+"### || "" بربط "": 
+",000,False,000,False,False,False,2,27
+"### || "" بجاد "":
+",000,False,000,False,False,False,2,37
+"### || "" بدا "":
+",000,False,000,False,False,False,2,15
+"### || "" بداء "":
+",000,False,000,False,False,False,2,40
+"### || "" بدا"":
+",000,False,000,False,False,False,2,18
+"### || "" أبذي "":
+",000,False,000,False,False,False,2,13
+"### || "" بكيل "":
+",000,False,000,False,False,False,2,32
+"### || "" بذيل "":
+",000,False,000,False,False,False,2,23
+"### | التاء
+",000,False,000,False,False,False,1,336
+"### || 
+",000,False,000,False,False,False,2,237
+"### || "" تديل "":
+",000,False,000,False,False,False,2,15
+"### || "" تويل "":
+",000,False,000,False,False,False,2,28
+"### || "" تزيد "": 
+",000,False,000,False,False,False,2,39
+"### | الجيم
+",000,False,000,False,False,False,1,813
+"### || "" جدان "":
+",000,False,000,False,False,False,2,32
+"### || "" الجلاح "":
+",000,False,000,False,False,False,2,11
+"### || "" الجلاخ "":
+",000,False,000,False,False,False,2,104
+"### || "" جلد "":
+",000,False,000,False,False,False,2,11
+"### || 
+",000,False,000,False,False,False,2,26
+"### || "" جذرة "":
+",000,False,000,False,False,False,2,40
+"### || "" جسان "":
+",000,False,000,False,False,False,2,55
+"### || "" جلس "":
+",000,False,000,False,False,False,2,41
+"### || "" جل "":
+",000,False,000,False,False,False,2,25
+"### || "" جل "":
+",000,False,000,False,False,False,2,15
+"### || "" جرم "":
+",000,False,000,False,False,False,2,53
+"### || "" جروة "":
+",000,False,000,False,False,False,2,30
+"### || "" جروة "":
+",000,False,000,False,False,False,2,26
+"### || "" جديلة "":
+",000,False,000,False,False,False,2,56
+"### || "" جز "":
+",000,False,000,False,False,False,2,32
+"### || "" جساس "":
+",000,False,000,False,False,False,2,52
+"### || "" جمل "":
+",000,False,000,False,False,False,2,38
+"### || "" جوب "":
+",000,False,000,False,False,False,2,21
+"### || "" جمان "":
+",000,False,000,False,False,False,2,25
+"### || "" جلوان "":
+",000,False,000,False,False,False,2,143
+"### || "" جارية "":
+",000,False,000,False,False,False,2,62
+"### || "" جمرة "":
+",000,False,000,False,False,False,2,14
+"### || "" جرس "":
+",000,False,000,False,False,False,2,19
+"### || "" جرش "":
+",000,False,000,False,False,False,2,23
+"### | الحاء
+",000,False,000,False,False,False,1,3096
+"### || "" حدان "":
+",000,False,000,False,False,False,2,258
+"### || 
+",000,False,000,False,False,False,2,26
+"### || "" حلس "":
+",000,False,000,False,False,False,2,17
+"### || "" حمل "": ""
+",000,False,000,False,False,False,2,65
+"### || "" حلف "":
+",000,False,000,False,False,False,2,19
+"### || "" حوب "":
+",000,False,000,False,False,False,2,19
+"### || "" حوث "":
+",000,False,000,False,False,False,2,20
+"### || "" حمان "":
+",000,False,000,False,False,False,2,27
+"### || "" حداد "":
+",000,False,000,False,False,False,2,64
+"### || "" حلمة "":
+",000,False,000,False,False,False,2,51
+"### || "" حرفة "":
+",000,False,000,False,False,False,2,54
+"### || "" حزيمة "":
+",000,False,000,False,False,False,2,75
+"### || "" حشم "":
+",000,False,000,False,False,False,2,11
+"### || "" حيشم "":
+",000,False,000,False,False,False,2,19
+"### || حبشية:
+",000,False,000,False,False,False,2,997
+"### || "" حبشية "":
+",000,False,000,False,False,False,2,99
+"### || "" حبيب "":
+",000,False,000,False,False,False,2,117
+"### || 
+",000,False,000,False,False,False,2,56
+"### || "" حبيب "": 
+",000,False,000,False,False,False,2,287
+"### || "" حرام "":
+",000,False,000,False,False,False,2,55
+"### || "" حزام "":
+",000,False,000,False,False,False,2,23
+"### || "" حبتر "":
+",000,False,000,False,False,False,2,15
+"### || "" حنثر "":
+",000,False,000,False,False,False,2,47
+"### || "" الحرمز "":
+",000,False,000,False,False,False,2,30
+"### || "" حزيمة "":
+",000,False,000,False,False,False,2,80
+"### || "" حشم "":
+",000,False,000,False,False,False,2,11
+"### || "" حيشم "":
+",000,False,000,False,False,False,2,17
+"### || "" حلوان "":
+",000,False,000,False,False,False,2,19
+"### || "" أبو حرة "":
+",000,False,000,False,False,False,2,67
+"### || "" الحلاف "":
+",000,False,000,False,False,False,2,42
+"### || "" حديلة "":
+",000,False,000,False,False,False,2,47
+"### || "" حسين "":
+",000,False,000,False,False,False,2,32
+"### || "" حرب "":
+",000,False,000,False,False,False,2,44
+"### || "" حدال "":
+",000,False,000,False,False,False,2,25
+"### || "" حربش "":
+",000,False,000,False,False,False,2,16
+"### || "" حريش "":
+",000,False,000,False,False,False,2,28
+"### || "" حذاقة "":
+",000,False,000,False,False,False,2,40
+"### || "" حذافة "":
+",000,False,000,False,False,False,2,32
+"### || "" حميس "":
+",000,False,000,False,False,False,2,41
+"### || "" حمرة "":
+",000,False,000,False,False,False,2,12
+"### || "" حمرة "":
+",000,False,000,False,False,False,2,36
+"### || "" حرس "":
+",000,False,000,False,False,False,2,17
+"### || "" حدس "":
+",000,False,000,False,False,False,2,20
+"### || "" الحدأ "":
+",000,False,000,False,False,False,2,16
+"### || "" الحداء "":
+",000,False,000,False,False,False,2,21
+"### || "" حسل "":
+",000,False,000,False,False,False,2,34
+"### || "" حسن "":
+",000,False,000,False,False,False,2,16
+"### || "" حشيش "":
+",000,False,000,False,False,False,2,65
+"### || "" أبو حنش "":
+",000,False,000,False,False,False,2,56
+"### || "" أبو حبيش "":
+",000,False,000,False,False,False,2,70
+"### || "" أبو حازم "":
+",000,False,000,False,False,False,2,20
+"### || "" حليف "":
+",000,False,000,False,False,False,2,31
+"### || "" حطمة "":
+",000,False,000,False,False,False,2,50
+"### | الخاء
+",000,False,000,False,False,False,1,382
+"### || "" خدان "":
+",000,False,000,False,False,False,2,49
+"### || "" خلدة "":
+",000,False,000,False,False,False,2,29
+"### || 
+",000,False,000,False,False,False,2,70
+"### || "" خدرة "":
+",000,False,000,False,False,False,2,40
+"### || "" خمل "":
+",000,False,000,False,False,False,2,26
+"### || "" أبو خازم "":
+",000,False,000,False,False,False,2,48
+"### || "" الخزج "":
+",000,False,000,False,False,False,2,65
+"### || "" الخزرج "":
+",000,False,000,False,False,False,2,13
+"### || "" خمة "":
+",000,False,000,False,False,False,2,13
+"### || "" خشين "":
+",000,False,000,False,False,False,2,15
+"### || "" خطمة "":
+",000,False,000,False,False,False,2,36
+"### || "" خشان "":
+",000,False,000,False,False,False,2,13
+"### || "" خزيمة "":
+",000,False,000,False,False,False,2,15
+"### || "" وفي مضر "":
+",000,False,000,False,False,False,2,8
+"### | الدال
+",000,False,000,False,False,False,1,675
+"### || "" دحية "":
+",000,False,000,False,False,False,2,17
+"### || "" دكين "":
+",000,False,000,False,False,False,2,13
+"### || "" دهن "":
+",000,False,000,False,False,False,2,39
+"### || "" دهي "":
+",000,False,000,False,False,False,2,30
+"### || "" دألان "":
+",000,False,000,False,False,False,2,19
+"### || 
+",000,False,000,False,False,False,2,16
+"### || "" الديل "":
+",000,False,000,False,False,False,2,157
+"### || "" الدئل "":
+",000,False,000,False,False,False,2,82
+"### || "" الدول "":
+",000,False,000,False,False,False,2,50
+"### | الذال
+",000,False,000,False,False,False,1,202
+"### || "" ذؤيب "": 
+",000,False,000,False,False,False,2,44
+"### || "" ذئب "":
+",000,False,000,False,False,False,2,96
+"### | الراء
+",000,False,000,False,False,False,1,270
+"### || "" ريث "":
+",000,False,000,False,False,False,2,17
+"### || "" ربث "":
+",000,False,000,False,False,False,2,15
+"### || "" رواحة "":
+",000,False,000,False,False,False,2,40
+"### || "" ربيل "":
+",000,False,000,False,False,False,2,31
+"### || "" رسن "":
+",000,False,000,False,False,False,2,35
+"### || "" راسب "":
+",000,False,000,False,False,False,2,40
+"### || "" ريان "":
+",000,False,000,False,False,False,2,68
+"### || "" رمان "":
+",000,False,000,False,False,False,2,29
+"### || "" زمان ""،
+",000,False,000,False,False,False,2,11
+"### | الزاي
+",000,False,000,False,False,False,1,1736
+"### || "" زبان "":
+",000,False,000,False,False,False,2,357
+"### || "" زبان "":
+",000,False,000,False,False,False,2,327
+"### || "" الزبير "":
+",000,False,000,False,False,False,2,371
+"### || 
+",000,False,000,False,False,False,2,637
+"### | السين
+",000,False,000,False,False,False,1,2675
+"### || "" سدوس ""
+",000,False,000,False,False,False,2,383
+"### || "" سدوس "":
+",000,False,000,False,False,False,2,64
+"### || "" سلم "":
+",000,False,000,False,False,False,2,30
+"### || "" سيل "":
+",000,False,000,False,False,False,2,417
+"### || "" سبل "":
+",000,False,000,False,False,False,2,40
+"### || "" سامة ""
+",000,False,000,False,False,False,2,1396
+"### || 
+",000,False,000,False,False,False,2,20
+"### || "" سكن ""
+",000,False,000,False,False,False,2,16
+"### || "" سلهم "":
+",000,False,000,False,False,False,2,19
+"### || "" سلامان "":
+",000,False,000,False,False,False,2,35
+"### || "" سلمان "":
+",000,False,000,False,False,False,2,16
+"### || "" سليمة "":
+",000,False,000,False,False,False,2,30
+"### || "" سلمة "":
+",000,False,000,False,False,False,2,30
+"### || "" سلمة "":
+",000,False,000,False,False,False,2,57
+"### || "" سواءة "":
+",000,False,000,False,False,False,2,46
+"### || "" سلول "":
+",000,False,000,False,False,False,2,47
+"### || "" سحمة "":
+",000,False,000,False,False,False,2,89
+"### | الشين
+",000,False,000,False,False,False,1,466
+"### || "" شحب "":
+",000,False,000,False,False,False,2,23
+"### || "" شجب "":
+",000,False,000,False,False,False,2,27
+"### || "" شجع "":
+",000,False,000,False,False,False,2,51
+"### || "" شقرة "":
+",000,False,000,False,False,False,2,39
+"### || "" شقرة "":
+",000,False,000,False,False,False,2,46
+"### || "" شكل "":
+",000,False,000,False,False,False,2,286
+"### | الصاد
+",000,False,000,False,False,False,1,175
+"### || "" صرد "":
+",000,False,000,False,False,False,2,23
+"### || "" صرد "":
+",000,False,000,False,False,False,2,19
+"### || "" صباح "":
+",000,False,000,False,False,False,2,66
+"### || "" الصحصح "":
+",000,False,000,False,False,False,2,45
+"### || "" صحب "":
+",000,False,000,False,False,False,2,28
+"### | الضاد
+",000,False,000,False,False,False,1,623
+"### || "" ضبة "":
+",000,False,000,False,False,False,2,105
+"### || "" ضنة "":
+",000,False,000,False,False,False,2,357
+"### || "" ضباري "":
+",000,False,000,False,False,False,2,36
+"### || "" ضباري "":
+",000,False,000,False,False,False,2,45
+"### || "" ضباب "":
+",000,False,000,False,False,False,2,58
+"### || "" الضباب "":
+",000,False,000,False,False,False,2,18
+"### || "" ضبيب "":
+",000,False,000,False,False,False,2,35
+"### || "" ضجر "":
+",000,False,000,False,False,False,2,13
+"### | العين
+",000,False,000,False,False,False,1,2739
+"### || "" عيث "":
+",000,False,000,False,False,False,2,15
+"### || "" عيث "":
+",000,False,000,False,False,False,2,39
+"### || "" عذرة "":
+",000,False,000,False,False,False,2,62
+"### || "" عدسة "":
+",000,False,000,False,False,False,2,54
+"### || 
+",000,False,000,False,False,False,2,29
+"### || "" عصر "":
+",000,False,000,False,False,False,2,60
+"### || "" عجل "":
+",000,False,000,False,False,False,2,34
+"### || "" عنة "": 
+",000,False,000,False,False,False,2,39
+"### || "" عمم "":
+",000,False,000,False,False,False,2,62
+"### || "" عمي "":
+",000,False,000,False,False,False,2,41
+"### || "" عدس "":
+",000,False,000,False,False,False,2,501
+"### || "" عدس "":
+",000,False,000,False,False,False,2,12
+"### || "" عبشمس "":
+",000,False,000,False,False,False,2,560
+"### || "" عبشمس "":
+",000,False,000,False,False,False,2,327
+"### || "" عصبة "":
+",000,False,000,False,False,False,2,100
+"### || "" عصية "":
+",000,False,000,False,False,False,2,18
+"### || "" علي "":
+",000,False,000,False,False,False,2,49
+"### || "" علي "":
+",000,False,000,False,False,False,2,70
+"### || "" عنزة "":
+",000,False,000,False,False,False,2,47
+"### || "" عبرة "":
+",000,False,000,False,False,False,2,22
+"### || "" عترة "":
+",000,False,000,False,False,False,2,47
+"### || "" عنس "":
+",000,False,000,False,False,False,2,13
+"### || "" عبس "":
+",000,False,000,False,False,False,2,33
+"### || "" عيش "":
+",000,False,000,False,False,False,2,46
+"### || "" عيش "":
+",000,False,000,False,False,False,2,27
+"### || "" عرينة "":
+",000,False,000,False,False,False,2,24
+"### || "" عراينة "":
+",000,False,000,False,False,False,2,24
+"### || "" عرين "":
+",000,False,000,False,False,False,2,28
+"### || "" العجلان "":
+",000,False,000,False,False,False,2,50
+"### || "" العاض "":
+",000,False,000,False,False,False,2,21
+"### || "" علة "":
+",000,False,000,False,False,False,2,23
+"### || "" علة "":
+",000,False,000,False,False,False,2,38
+"### || "" عدنان "":
+",000,False,000,False,False,False,2,17
+"### || "" عدثان "":
+",000,False,000,False,False,False,2,13
+"### || "" عجب "":
+",000,False,000,False,False,False,2,38
+"### || "" أعجب "":
+",000,False,000,False,False,False,2,19
+"### || "" عائذ "":
+",000,False,000,False,False,False,2,23
+"### || "" علقة "":
+",000,False,000,False,False,False,2,50
+"### || "" علفة ms58 "":
+",000,False,000,False,False,False,2,41
+"### || "" عذر "":
+",000,False,000,False,False,False,2,22
+"### || "" عذر "":
+",000,False,000,False,False,False,2,77
+"### || "" عنز "":
+",000,False,000,False,False,False,2,11
+"### || "" عتر "":
+",000,False,000,False,False,False,2,92
+"### || "" عتر "":
+",000,False,000,False,False,False,2,19
+"### || "" عتر "":
+",000,False,000,False,False,False,2,21
+"### || "" عترة "":
+",000,False,000,False,False,False,2,21
+"### || "" عدي - عدي "":
+",000,False,000,False,False,False,2,42
+"### || "" عبدة "":
+",000,False,000,False,False,False,2,17
+"### || "" عبدة "":
+",000,False,000,False,False,False,2,13
+"### | الغين
+",000,False,000,False,False,False,1,283
+"### || "" غنم "":
+",000,False,000,False,False,False,2,31
+"### || "" غضب "":
+",000,False,000,False,False,False,2,30
+"### || "" غبر "":
+",000,False,000,False,False,False,2,32
+"### || "" غراب "":
+",000,False,000,False,False,False,2,28
+"### || "" غطفان "":
+",000,False,000,False,False,False,2,49
+"### || "" غيرة "":
+",000,False,000,False,False,False,2,38
+"### || "" غفيلة "":
+",000,False,000,False,False,False,2,32
+"### || "" الغوث "":
+",000,False,000,False,False,False,2,29
+"### || "" غاضرة "":
+",000,False,000,False,False,False,2,48
+"### || "" غنث "":
+",000,False,000,False,False,False,2,21
+"### | الفاء
+",000,False,000,False,False,False,1,158
+"### || "" فهم "":
+",000,False,000,False,False,False,2,51
+"### || "" فرافضة "": 
+",000,False,000,False,False,False,2,32
+"### || "" فران "":
+",000,False,000,False,False,False,2,13
+"### || "" الفزع "": 
+",000,False,000,False,False,False,2,17
+"### || "" الفزع "":
+",000,False,000,False,False,False,2,30
+"### | القاف
+",000,False,000,False,False,False,1,350
+"### || "" قهم "":
+",000,False,000,False,False,False,2,54
+"### || "" والقهم:
+",000,False,000,False,False,False,2,12
+"### || "" قرار "":
+",000,False,000,False,False,False,2,19
+"### || "" قميري "":
+",000,False,000,False,False,False,2,96
+"### || "" قرن "":
+",000,False,000,False,False,False,2,17
+"### || "" قرن "":
+",000,False,000,False,False,False,2,16
+"### || "" قطيعة "":
+",000,False,000,False,False,False,2,32
+"### || "" قدم "":
+",000,False,000,False,False,False,2,15
+"### || "" قدم "":
+",000,False,000,False,False,False,2,24
+"### || "" القرية "":
+",000,False,000,False,False,False,2,26
+"### || "" قزيع "":
+",000,False,000,False,False,False,2,16
+"### || "" قريع "":
+",000,False,000,False,False,False,2,38
+"### || "" قرثع "":
+",000,False,000,False,False,False,2,17
+"### | الكاف
+",000,False,000,False,False,False,1,149
+"### || "" كباثة "": 
+",000,False,000,False,False,False,2,43
+"### || "" كليب "":
+",000,False,000,False,False,False,2,34
+"### || "" كوز "":
+",000,False,000,False,False,False,2,57
+"### | اللام
+",000,False,000,False,False,False,1,318
+"### || "" لجيم "":
+",000,False,000,False,False,False,2,46
+"### || "" لؤي "":
+",000,False,000,False,False,False,2,31
+"### || "" لهب "":
+",000,False,000,False,False,False,2,24
+"### || "" لهب "":
+",000,False,000,False,False,False,2,136
+"### || "" اللهبة ""،
+",000,False,000,False,False,False,2,84
+"### | الميم
+",000,False,000,False,False,False,1,868
+"### || "" معد "":
+",000,False,000,False,False,False,2,11
+"### || "" معد "":
+",000,False,000,False,False,False,2,59
+"### || "" معوية "":
+",000,False,000,False,False,False,2,36
+"### || "" معاوية "":
+",000,False,000,False,False,False,2,41
+"### || "" مغوية "":
+",000,False,000,False,False,False,2,29
+"### || "" معير "":
+",000,False,000,False,False,False,2,27
+"### || 
+",000,False,000,False,False,False,2,18
+"### || "" المجر "":
+",000,False,000,False,False,False,2,34
+"### || "" المجر "": 
+",000,False,000,False,False,False,2,46
+"### || "" المجر ""
+",000,False,000,False,False,False,2,23
+"### || "" مزدلف "":
+",000,False,000,False,False,False,2,40
+"### || "" مشر "":
+",000,False,000,False,False,False,2,47
+"### || "" مبشر "":
+",000,False,000,False,False,False,2,52
+"### || "" مجاسر "":
+",000,False,000,False,False,False,2,46
+"### || "" محاسن "":
+",000,False,000,False,False,False,2,71
+"### || "" معتب "":
+",000,False,000,False,False,False,2,16
+"### || "" معتب "": 
+",000,False,000,False,False,False,2,30
+"### || "" مليح "":
+",000,False,000,False,False,False,2,43
+"### || "" ملكان ms65 "": 
+",000,False,000,False,False,False,2,55
+"### || "" ملكان "":
+",000,False,000,False,False,False,2,78
+"### || "" مجمع "":
+",000,False,000,False,False,False,2,41
+"### || "" مرئي "":
+",000,False,000,False,False,False,2,38
+"### || "" مر "":
+",000,False,000,False,False,False,2,77
+"### || "" مري "":
+",000,False,000,False,False,False,2,76
+"### || "" محرز "":
+",000,False,000,False,False,False,2,16
+"### | النون
+",000,False,000,False,False,False,1,771
+"### || "" نزار "": 
+",000,False,000,False,False,False,2,117
+"### || "" نيار "":
+",000,False,000,False,False,False,2,104
+"### || "" نصر "":
+",000,False,000,False,False,False,2,27
+"### || "" نضر "":
+",000,False,000,False,False,False,2,37
+"### || "" نبيت "": 
+",000,False,000,False,False,False,2,26
+"### || "" نسر "":
+",000,False,000,False,False,False,2,19
+"### || "" نشر "":
+",000,False,000,False,False,False,2,15
+"### || "" ناجية "":
+",000,False,000,False,False,False,2,63
+"### || "" نهد "": 
+",000,False,000,False,False,False,2,55
+"### || "" نمارة "":
+",000,False,000,False,False,False,2,18
+"### || "" النمر "":
+",000,False,000,False,False,False,2,46
+"### || "" نهم "":
+",000,False,000,False,False,False,2,50
+"### || "" نهم "":
+",000,False,000,False,False,False,2,168
+"### | الواو
+",000,False,000,False,False,False,1,161
+"### || "" واثلة "": 
+",000,False,000,False,False,False,2,38
+"### || "" وائلة "":
+",000,False,000,False,False,False,2,58
+"### || "" واتلة "":
+",000,False,000,False,False,False,2,19
+"### || "" وادعة "":
+",000,False,000,False,False,False,2,35
+"### | الهاء
+",000,False,000,False,False,False,1,995
+"### || "" هذمة "":
+",000,False,000,False,False,False,2,231
+"### || "" هزومة "": 
+",000,False,000,False,False,False,2,34
+"### || "" هرمة "":
+",000,False,000,False,False,False,2,503
+"### || "" هنئ "":
+",000,False,000,False,False,False,2,19
+"### || "" هلال "":
+",000,False,000,False,False,False,2,85
+"### || "" هصان "":
+",000,False,000,False,False,False,2,29
+"### || "" هصيص "":
+",000,False,000,False,False,False,2,68
+"### || "" هنيئة "":
+",000,False,000,False,False,False,2,47
+"### | الياء
+",000,False,000,False,False,False,1,544
+"### || "" يعرب "":
+",000,False,000,False,False,False,2,38
+"### || "" يشجب "":
+",000,False,000,False,False,False,2,131
+"### || "" يثيع "":
+",000,False,000,False,False,False,2,59
+"### || "" يشكر "": 
+",000,False,000,False,False,False,2,86
+"### || "" يام "":
+",000,False,000,False,False,False,2,32
+"### || "" الياس "":
+",000,False,000,False,False,False,2,21

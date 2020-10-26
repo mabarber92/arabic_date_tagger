@@ -1,0 +1,147 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [book 1]
+",000,False,000,False,False,False,1,21296
+"### || [chapter 1: I 1] بسم الله الرحمن الرحيم أنولوطيقا الأولى، نقل تذارى المقالة الأولى 〈نظرية القياس〉
+",000,False,000,False,False,False,2,421
+"### || [chapter 2: I 2] 〈عكس القضايا المطلقة〉
+",000,False,000,False,False,False,2,258
+"### || [chapter 3: I 3] 〈عكس القضايا ذوات الجهة〉
+",000,False,000,False,False,False,2,364
+"### || [chapter 4: I 4] 〈القياس الحملى من الشكل الأول〉
+",000,False,000,False,False,False,2,887
+"### || [chapter 5: I 5] الشكل الثانى
+",000,False,000,False,False,False,2,1016
+"### || [chapter 6: I 6] 〈الشكل الثالث〉
+",000,False,000,False,False,False,2,887
+"### || [chapter 7: I 7] 〈الضروب غير المباشرة فى الأشكال الثلاثة. — رد الأقيسة〉
+",000,False,000,False,False,False,2,485
+"### || [chapter 8: I 8] فى تأليف القياسات 〈القياسات ذوات الجهة — الأقيسة ذوات المقدمتين الاضطرار يتين〉
+",000,False,000,False,False,False,2,213
+"### || [chapter 9: I 9] تأليف الوجودى والاضطرارى فى الشكل الأول
+",000,False,000,False,False,False,2,269
+"### || [chapter 10: I 10] 〈أقيسة الشكل الثالث التى فيها إحدى المقدمتين اضطرارية والأخرى وجودية〉
+",000,False,000,False,False,False,2,452
+"### || [chapter 11: I 11] 〈أقيسة الشكل الثالث التى فيها إحدى المقدمتين اضطرارية والأخرى وجودية〉
+",000,False,000,False,False,False,2,578
+"### || [chapter 12: I 12] 〈مقارنة بين الأقيسة الحملية وبين الأقيسة ذات الجهة الاضطراربة〉
+",000,False,000,False,False,False,2,93
+"### || [chapter 13: I 13] فى الممكن ms021
+",000,False,000,False,False,False,2,605
+"### || [chapter 14: I 14] تأليف الممكن فى الشكل الأول
+",000,False,000,False,False,False,2,631
+"### || [chapter 15: I 15] تأليف الممكن والوجودى فى الشكل الأول
+",000,False,000,False,False,False,2,1415
+"### || [chapter 16: I 16] تأليف الضرورى والممكن فى الشكل الأول
+",000,False,000,False,False,False,2,777
+"### || [chapter 17: I 17] تأليف الممكن فى الشكل الثانى
+",000,False,000,False,False,False,2,717
+"### || [chapter 18: I 18] تأليف الممكن والوجودى فى الشكل الثانى
+",000,False,000,False,False,False,2,268
+"### || [chapter 19: I 19] تأليف الممكن والضرورى فى الشكل الثانى
+",000,False,000,False,False,False,2,622
+"### || [chapter 20: I 20] تأليف الممكن فى الشكل الثالث
+",000,False,000,False,False,False,2,350
+"### || [chapter 21: I 21] تأليف الممكن والوجودى فى الشكل الثالث
+",000,False,000,False,False,False,2,267
+"### || [chapter 22: I 22] تأليف الممكن والضرورى فى الشكل الثالث
+",000,False,000,False,False,False,2,425
+"### || [chapter 23: I 23] 〈التطبيق الكلى للأشكال. — الرد إلى الشكل الأول〉
+",000,False,000,False,False,False,2,606
+"### || [chapter 24: I 24] 〈الكيف والكم فى المقدمات〉
+",000,False,000,False,False,False,2,267
+"### || [chapter 25: I 25] 〈تعيين عدد الحدود والمقدمات والنتائج〉
+",000,False,000,False,False,False,2,679
+"### || [chapter 26: I 26] 〈أنواع القضايا التى تثبت أو تبطل فى كل شكل〉
+",000,False,000,False,False,False,2,288
+"### || [chapter 27: I 27] 〈قواعد عامة للأقيسة الحملية〉 الفصل الثانى على اكتساب المقدمات
+",000,False,000,False,False,False,2,542
+"### || [chapter 28: I 28] 〈قواعد خاصة بالبحث عن الأوسط فى الحمليات〉
+",000,False,000,False,False,False,2,1107
+"### || [chapter 29: I 29] 〈تفقد الأوسط فى المقاييس التى ترفع إلى المحال، وفى المقاييس الشرطية، والمقاييس ذوات الجهة〉
+",000,False,000,False,False,False,2,561
+"### || [chapter 30: I 30] 〈البحث عن الأوسط فى الفلسفة وسائر العلوم والصناعات〉
+",000,False,000,False,False,False,2,226
+"### || [chapter 31: I 31] 〈القسمة〉
+",000,False,000,False,False,False,2,465
+"### || [chapter 32: I 32] 〈قواعد لاختبار المقدمات والحدود والأوسط والشكل〉 الفصل الثالث
+",000,False,000,False,False,False,2,515
+"### || [chapter 33: I 33] 〈الكم فى المقدمات〉
+",000,False,000,False,False,False,2,234
+"### || [chapter 34: I 34] 〈الحدود المجردة والحدود العينية〉
+",000,False,000,False,False,False,2,239
+"### || [chapter 35: I 35] 〈الحدود المركبة〉
+",000,False,000,False,False,False,2,107
+"### || [chapter 36: I 36] 〈الحدود فى مختلف الأحوال〉
+",000,False,000,False,False,False,2,405
+"### || [chapter 37: I 37] 〈أنواع الحمل〉
+",000,False,000,False,False,False,2,47
+"### || [chapter 38: I 38] 〈تكرار حد بعينه〉
+",000,False,000,False,False,False,2,278
+"### || [chapter 39: I 39] 〈استبدال الأقوال المتساوية〉
+",000,False,000,False,False,False,2,58
+"### || [chapter 40: I 40] 〈استعمال الأداة〉
+",000,False,000,False,False,False,2,54
+"### || [chapter 41: I 41] 〈تفسير بعض العبارات〉
+",000,False,000,False,False,False,2,347
+"### || [chapter 42: I 42] 〈حل الأقيسة المركبة〉
+",000,False,000,False,False,False,2,26
+"### || [chapter 43: I 43] 〈رد الحدود〉
+",000,False,000,False,False,False,2,48
+"### || [chapter 44: I 44] 〈حل البرهان بالرفع إلى المحال وبقية الأقيسة الشرطية〉
+",000,False,000,False,False,False,2,265
+"### || [chapter 45: I 45] 〈رد الأقيسة من شكل إلى آخر〉
+",000,False,000,False,False,False,2,809
+"### | [book 2]
+",000,False,000,False,False,False,1,14345
+"### || [chapter 47: II 1] بسم الله الرحمن الرحيم المقالة الثانية من انالوطيقا الأولى 〈خصائص القياس. — النتائج الكاذبة. — أنواع الاستدلال الشبيهة بالقياس.〉
+",000,False,000,False,False,False,2,478
+"### || [chapter 48: II 2] 〈الإنتاج كذبا من مقدمات صادقة، والإنتاج بالصدق من مقدمات كاذبة — فى الشكل الأول〉
+",000,False,000,False,False,False,2,1651
+"### || [chapter 49: II 3] 〈الإنتاج صدقا من مقدمات كاذبة فى الشكل الثانى〉
+",000,False,000,False,False,False,2,831
+"### || [chapter 50: II 4] 〈الإنتاج صدقا من مقدمات كاذبة، فى الشكل الثالث〉
+",000,False,000,False,False,False,2,1036
+"### || [chapter 51: II 5] 〈البرهان الدورى فى الشكل الأول〉
+",000,False,000,False,False,False,2,681
+"### || [chapter 52: II 6] 〈البرهان الدورى فى الشكل الثانى〉
+",000,False,000,False,False,False,2,225
+"### || [chapter 53: II 7] 〈البرهان الدورى فى الشكل الثالث〉
+",000,False,000,False,False,False,2,435
+"### || [chapter 54: II 8] 〈انعكاس القياس فى الشكل الأول〉
+",000,False,000,False,False,False,2,514
+"### || [chapter 55: II 9] 〈انعكاس القياس فى الشكل الثانى〉
+",000,False,000,False,False,False,2,342
+"### || [chapter 56: II 10] 〈انعكاس القياس فى الشكل الثالث〉
+",000,False,000,False,False,False,2,594
+"### || [chapter 57: II 11] 〈الرفع إلى المحال فى الشكل الأول〉
+",000,False,000,False,False,False,2,836
+"### || [chapter 58: II 12] 〈الرفع إلى المحال فى الشكل الثانى〉
+",000,False,000,False,False,False,2,321
+"### || [chapter 59: II 13] 〈الرفع إلى المحال فى الشكل الثالث〉
+",000,False,000,False,False,False,2,308
+"### || [chapter 60: II 14] 〈الفرق بين البرهان بالخلف والبرهان المستقيم〉
+",000,False,000,False,False,False,2,696
+"### || [chapter 61: II 15] 〈النتائج المستخلصة من مقدمات متقابلة〉
+",000,False,000,False,False,False,2,739
+"### || [chapter 62: II 16] 〈وضع المطلوب الأول〉
+",000,False,000,False,False,False,2,443
+"### || [chapter 63: II 17] 〈البرهان بواسطة: «ليس من هذه الجهة وجب الكذب»〉
+",000,False,000,False,False,False,2,598
+"### || [chapter 64: II 18] 〈كذب النتيجة بكذب المقدمات〉
+",000,False,000,False,False,False,2,91
+"### || [chapter 65: II 19] 〈القياس المضاد〉
+",000,False,000,False,False,False,2,178
+"### || [chapter 66: II 20] 〈التبكيت (=التفنيد)〉
+",000,False,000,False,False,False,2,129
+"### || [chapter 67: II 21] 〈الخطأ〉
+",000,False,000,False,False,False,2,846
+"### || [chapter 68: II 22] 〈قواعد لعكس الأشياء المرغوب فيها أو التى تنتخب، ومقارنتها〉
+",000,False,000,False,False,False,2,620
+"### || [chapter 69: II 23] 〈نظرية الاستقراء〉
+",000,False,000,False,False,False,2,229
+"### || [chapter 70: II 24] 〈البرهان بالمثال〉
+",000,False,000,False,False,False,2,216
+"### || [chapter 71: II 25] 〈نظرية البرهان الأباغوجى〉
+",000,False,000,False,False,False,2,197
+"### || [chapter 72: II 26] 〈الأنسطاسيس〉
+",000,False,000,False,False,False,2,423

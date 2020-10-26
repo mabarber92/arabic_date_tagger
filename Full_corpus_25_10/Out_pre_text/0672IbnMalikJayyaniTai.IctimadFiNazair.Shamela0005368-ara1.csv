@@ -1,0 +1,229 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | الهمزة
+",000,False,000,False,False,False,1,2
+"### | أضل وأظل
+",000,False,000,False,False,False,1,203
+"### | حرف الباء الموحدة من تحتها
+",000,False,000,False,False,False,1,10
+"### | البض والبظ
+",000,False,000,False,False,False,1,228
+"### | حرف التاء المثئاة من فوقها باثنتين
+",000,False,000,False,False,False,1,12
+"### | التضفير والتظفير
+",000,False,000,False,False,False,1,204
+"### | حرف الحاء المهملة
+",000,False,000,False,False,False,1,6
+"### | الحاضر والحاظر
+",000,False,000,False,False,False,1,159
+"### | الحافض والحافظ
+",000,False,000,False,False,False,1,185
+"### | الحض والحظ
+",000,False,000,False,False,False,1,90
+"### | (66ب) الحضل والحظل
+",000,False,000,False,False,False,1,133
+"### | حرف الخاء المعجمة بواحدة من فوق
+",000,False,000,False,False,False,1,12
+"### | الحضل والحظل
+",000,False,000,False,False,False,1,58
+"### | حرف الضاد المعجمة بواحدة من فوق
+",000,False,000,False,False,False,1,12
+"### | الضال والظال
+",000,False,000,False,False,False,1,80
+"### | الضراب والظراب
+",000,False,000,False,False,False,1,85
+"### | الضرار والظرار
+",000,False,000,False,False,False,1,101
+"### | الضرير والظرير
+",000,False,000,False,False,False,1,203
+"### | الضن والظن
+",000,False,000,False,False,False,1,117
+"### | الضهروالظهر
+",000,False,000,False,False,False,1,225
+"### | الضفرة والظفرة
+",000,False,000,False,False,False,1,104
+"### | الضلع والظلع
+",000,False,000,False,False,False,1,129
+"### | حرف العين المهملة
+",000,False,000,False,False,False,1,6
+"### | العضب والعظب
+",000,False,000,False,False,False,1,133
+"### | العض والعظ
+",000,False,000,False,False,False,1,147
+"### | العضل والعظل
+",000,False,000,False,False,False,1,193
+"### | العضم والعظم
+",000,False,000,False,False,False,1,77
+"### | العضة والعظة
+",000,False,000,False,False,False,1,94
+"### | حرف الغين المعجمة بواحدة من فوق
+",000,False,000,False,False,False,1,12
+"### | الغياض والغياظ
+",000,False,000,False,False,False,1,55
+"### | الغيض والغيظ
+",000,False,000,False,False,False,1,129
+"### | حرف الفاء
+",000,False,000,False,False,False,1,4
+"### | الفض والفظ
+",000,False,000,False,False,False,1,106
+"### | الفيض والفيظ
+",000,False,000,False,False,False,1,101
+"### | حرف القاف
+",000,False,000,False,False,False,1,4
+"### | القارض والقارظ
+",000,False,000,False,False,False,1,215
+"### | القيض والقيظ
+",000,False,000,False,False,False,1,113
+"### | حرف اللام
+",000,False,000,False,False,False,1,4
+"### | اللضلضة واللظلظة
+",000,False,000,False,False,False,1,59
+"### | حرف الميم
+",000,False,000,False,False,False,1,4
+"### | المض والمظ
+",000,False,000,False,False,False,1,140
+"### | حرف النون
+",000,False,000,False,False,False,1,4
+"### | (75أ) الناضر والناظر
+",000,False,000,False,False,False,1,112
+"### | النضير والنظير
+",000,False,000,False,False,False,1,113
+"### | فائت نظائر الظاء والضاد
+",000,False,000,False,False,False,1,12
+"### | (حرف الهمزة)
+",000,False,000,False,False,False,1,4
+"### | الأرض والأرظ
+",000,False,000,False,False,False,1,34
+"### | الأضلال والأظلال
+",000,False,000,False,False,False,1,22
+"### | الأفضاض والأفظاظ
+",000,False,000,False,False,False,1,24
+"### | أفضع وأفظع
+",000,False,000,False,False,False,1,17
+"### | أمض وأمظ
+",000,False,000,False,False,False,1,24
+"### | الإنضار والإنظار
+",000,False,000,False,False,False,1,23
+"### | (حرف التاء)
+",000,False,000,False,False,False,1,4
+"### | التعضيب والتعظيب
+",000,False,000,False,False,False,1,13
+"### | التعضيل والتعظيل
+",000,False,000,False,False,False,1,36
+"### | (حرف الجيم)
+",000,False,000,False,False,False,1,4
+"### | الجائض والجائظ
+",000,False,000,False,False,False,1,19
+"### | الجض والجظ
+",000,False,000,False,False,False,1,22
+"### | (حرف الحاء)
+",000,False,000,False,False,False,1,4
+"### | حضار وحظار
+",000,False,000,False,False,False,1,30
+"### | الحضار والحظار
+",000,False,000,False,False,False,1,28
+"### | الحضر والحظر
+",000,False,000,False,False,False,1,16
+"### | الحضيرة والحظيرة
+",000,False,000,False,False,False,1,22
+"### | الحضيض والحظيظ
+",000,False,000,False,False,False,1,18
+"### | الحفاض والحفاظ
+",000,False,000,False,False,False,1,34
+"### | الحنضلة والحنظلة
+",000,False,000,False,False,False,1,27
+"### | (حرف الخاء)
+",000,False,000,False,False,False,1,4
+"### | الخضرفة والخظرفة
+",000,False,000,False,False,False,1,21
+"### | (حرف الراء)
+",000,False,000,False,False,False,1,4
+"### | ربض وربظ
+",000,False,000,False,False,False,1,14
+"### | (حرف الضاد)
+",000,False,000,False,False,False,1,4
+"### | ضاف وظاف
+",000,False,000,False,False,False,1,34
+"### | الضاهر والظاهر
+",000,False,000,False,False,False,1,19
+"### | الضائر والظائر
+",000,False,000,False,False,False,1,35
+"### | الضب والظب
+",000,False,000,False,False,False,1,33
+"### | الضرب والظرب
+",000,False,000,False,False,False,1,24
+"### | الضر والظر
+",000,False,000,False,False,False,1,24
+"### | الضرى والظرى
+",000,False,000,False,False,False,1,16
+"### | الضعن والظعن
+",000,False,000,False,False,False,1,31
+"### | الضفر والظفر
+",000,False,000,False,False,False,1,19
+"### | الضف والظف
+",000,False,000,False,False,False,1,20
+"### | الضل والظل
+",000,False,000,False,False,False,1,21
+"### | الضنين والظنين
+",000,False,000,False,False,False,1,14
+"### | (حرف العين)
+",000,False,000,False,False,False,1,4
+"### | العضام ms16 والعظام
+",000,False,000,False,False,False,1,18
+"### | (حرف الغين)
+",000,False,000,False,False,False,1,4
+"### | غاض وغاظ
+",000,False,000,False,False,False,1,17
+"### | (حرف الفاء)
+",000,False,000,False,False,False,1,4
+"### | فاض وفاظ
+",000,False,000,False,False,False,1,21
+"### | الفضا والفظا
+",000,False,000,False,False,False,1,15
+"### | الفضيض والفظيظ
+",000,False,000,False,False,False,1,42
+"### | (حرف القاف)
+",000,False,000,False,False,False,1,4
+"### | القرض والقرظ
+",000,False,000,False,False,False,1,30
+"### | قعض وقعظ
+",000,False,000,False,False,False,1,18
+"### | (حرف الكاف)
+",000,False,000,False,False,False,1,4
+"### | الكضكضة والكظكظة
+",000,False,000,False,False,False,1,18
+"### | (حرف اللام)
+",000,False,000,False,False,False,1,4
+"### | اللض واللظ
+",000,False,000,False,False,False,1,19
+"### | (حرف الميم)
+",000,False,000,False,False,False,1,4
+"### | المرض والمرظ
+",000,False,000,False,False,False,1,14
+"### | المضاضة والمظاظة
+",000,False,000,False,False,False,1,11
+"### | المضرة والمظرة
+",000,False,000,False,False,False,1,22
+"### | المقيضة والمقيظة
+",000,False,000,False,False,False,1,25
+"### | (حرف النون)
+",000,False,000,False,False,False,1,4
+"### | نضر ونظر
+",000,False,000,False,False,False,1,27
+"### | النضرة والنظرة
+",000,False,000,False,False,False,1,33
+"### | نض ونظ
+",000,False,000,False,False,False,1,21
+"### | نضف ونظف
+",000,False,000,False,False,False,1,27
+"### | النضم والنظم
+",000,False,000,False,False,False,1,31
+"### | نعض ونعظ
+",000,False,000,False,False,False,1,22
+"### | النكض والنكظ
+",000,False,000,False,False,False,1,14
+"### | (حرف الواو)
+",000,False,000,False,False,False,1,4
+"### | الوضر والوظر
+",000,False,000,False,False,False,1,18
+"### | وضف ووظف
+",000,False,000,False,False,False,1,33

@@ -1,0 +1,1001 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### |  فصل دور القران الكريم
+",000,False,000,False,False,False,1,1439
+"### || 1 - دار القران الخيضرية
+",000,False,000,False,False,False,2,135
+"### || دار القران الكريم الجزرية
+",000,False,000,False,False,False,2,90
+"### || دار القران الكريم الدلامية
+",000,False,000,False,False,False,2,250
+"### || 4 دار القران الكريم الرشائية
+",000,False,000,False,False,False,2,243
+"### || 5 دار القرآن الكريم السنجارية
+",000,False,000,False,False,False,2,140
+"### || 6 دار القرآن الكريم الصابونية
+",000,False,000,False,False,False,2,462
+"### | فصل دور الحديث الشريف
+",000,False,000,False,False,False,1,17574
+"### || 8 دار الحديث الإشرفية
+",000,False,000,False,False,False,2,4714
+"### || 9 دار الحديث الأشرفية البرانية
+",000,False,000,False,False,False,2,1280
+"### || 10 دار الحديث البهائية
+",000,False,000,False,False,False,2,632
+"### || 11 دار الحديث الحمصية
+",000,False,000,False,False,False,2,965
+"### || 12 دار الحديث الدوادارية والمدرسة والرباط
+",000,False,000,False,False,False,2,1134
+"### || 13 دار الحديث السامرية
+",000,False,000,False,False,False,2,405
+"### || 14 دار الحديث السكرية
+",000,False,000,False,False,False,2,1095
+"### || 15 دار الحديث الشقيشقية
+",000,False,000,False,False,False,2,238
+"### || 16 دار الحديث العروية
+",000,False,000,False,False,False,2,1396
+"### || 17 دار الحديث الفاضلية
+",000,False,000,False,False,False,2,1138
+"### || 18 دار الحديث القلانسية
+",000,False,000,False,False,False,2,213
+"### || 19 دار الحديث القوصية
+",000,False,000,False,False,False,2,218
+"### || 20 دار الحديث الكروسية
+",000,False,000,False,False,False,2,100
+"### || 21 دار الحديث النورية
+",000,False,000,False,False,False,2,2591
+"### || 22 دار الحديث النفيسية
+",000,False,000,False,False,False,2,260
+"### | فصل دور القرآن والحديث معا
+",000,False,000,False,False,False,1,1040
+"### || 24 دار القرآن والحديث التنكزية
+",000,False,000,False,False,False,2,897
+"### || 25 دار القرآن والحديث الصبابية
+",000,False,000,False,False,False,2,91
+"### | فصل مدارس الشافعية
+",000,False,000,False,False,False,1,68473
+"### || 27 المدرسة الأتابكية
+",000,False,000,False,False,False,2,4179
+"### || 28 المدرسه الأسعردية
+",000,False,000,False,False,False,2,224
+"### || 29 المدرسة الأسدية
+",000,False,000,False,False,False,2,1085
+"### || 30 المدرسة الأصفهانية
+",000,False,000,False,False,False,2,113
+"### || 31 المدرسة الاقبالية
+",000,False,000,False,False,False,2,1360
+"### || 32 المدرسة الأكزية
+",000,False,000,False,False,False,2,529
+"### || 33 المدرسة الأمجدية
+",000,False,000,False,False,False,2,1619
+"### || 34 المدرسة الأمينية
+",000,False,000,False,False,False,2,5557
+"### || 35 المدرسة البادرائية
+",000,False,000,False,False,False,2,2078
+"### || 36 المدرسة البهنسية
+",000,False,000,False,False,False,2,225
+"### || 37 المدرسة التقوية
+",000,False,000,False,False,False,2,1645
+"### || 38 المدرسة الجاروخية
+",000,False,000,False,False,False,2,1374
+"### || 39 المدرسة الحمصية
+",000,False,000,False,False,False,2,56
+"### || 40 المدرسة الحلبية
+",000,False,000,False,False,False,2,288
+"### || 41 المدرسة الخبيصية
+",000,False,000,False,False,False,2,258
+"### || 42 المدرسة الخليلية
+",000,False,000,False,False,False,2,40
+"### || 43 المدرسة الدماغية
+",000,False,000,False,False,False,2,1298
+"### || 44 المدرسة الدولعية
+",000,False,000,False,False,False,2,2032
+"### || 45 المدرسة الركنية الجوانية الشافعية
+",000,False,000,False,False,False,2,2523
+"### || 46 المدرسة الرواحية
+",000,False,000,False,False,False,2,2048
+"### || 47 المدرسة الخضرية
+",000,False,000,False,False,False,2,144
+"### || 48 المدرسة الساوجية
+",000,False,000,False,False,False,2,31
+"### || 49 المدرسة الشامية البرانية
+",000,False,000,False,False,False,2,5106
+"### || 50 المدرسة الشامية الجوانية
+",000,False,000,False,False,False,2,2560
+"### || 51 المدرسة الشاهينية
+",000,False,000,False,False,False,2,474
+"### || 52 المدرسة الشومانية
+",000,False,000,False,False,False,2,67
+"### || 53 المدرسة الشريفية
+",000,False,000,False,False,False,2,44
+"### || 45 المدرسة الصالحية
+",000,False,000,False,False,False,2,2064
+"### || 55 المدرسة الصارمية
+",000,False,000,False,False,False,2,962
+"### || 56 المدرسة الصلاحية
+",000,False,000,False,False,False,2,504
+"### || 57 المدرسة التقطائية
+",000,False,000,False,False,False,2,376
+"### || 58 المدرسة الطبرية
+",000,False,000,False,False,False,2,125
+"### || 59 المدرسة الطيبة
+",000,False,000,False,False,False,2,610
+"### || 60 المدرسة الظبيانية
+",000,False,000,False,False,False,2,46
+"### || 61 المدرسة الظاهرية البرانية
+",000,False,000,False,False,False,2,1613
+"### || 62 المدرسة الظاهرية الجوانية
+",000,False,000,False,False,False,2,2058
+"### || 63 المدرسة العادلية الكبرى
+",000,False,000,False,False,False,2,1949
+"### || 64 المدرسة العادلية الصغرى
+",000,False,000,False,False,False,2,1204
+"### || 65 المدرسة العذراوية
+",000,False,000,False,False,False,2,1851
+"### || 66 المدرسة العزيزية
+",000,False,000,False,False,False,2,3360
+"### || 67 المدرسة العصرونية
+",000,False,000,False,False,False,2,1548
+"### || 38 المدرسة العمادءية
+",000,False,000,False,False,False,2,1184
+"### || 69 المدرسةالغزالية
+",000,False,000,False,False,False,2,2690
+"### || 70 المدرسة الفارسية
+",000,False,000,False,False,False,2,469
+"### || 71 المدرسة الفتحية
+",000,False,000,False,False,False,2,225
+"### || 73 المدرسة الفخرية
+",000,False,000,False,False,False,2,235
+"### || 73 المدرسة الفلكية
+",000,False,000,False,False,False,2,541
+"### || 74 المدرسة القليجية
+",000,False,000,False,False,False,2,502
+"### || 75 المدرسة القواسية
+",000,False,000,False,False,False,2,329
+"### || 76 المدرسة القوصية
+",000,False,000,False,False,False,2,642
+"### || 77 المدرسة القيمرية
+",000,False,000,False,False,False,2,1061
+"### || 78 القيمرية الصغرى
+",000,False,000,False,False,False,2,44
+"### || 79 المدرسة الكروسية
+",000,False,000,False,False,False,2,272
+"### || 80 المدرسة الكلاسة
+",000,False,000,False,False,False,2,837
+"### || 81 المدرسة المجاهدية
+",000,False,000,False,False,False,2,901
+"### || 82 المدرسة المجاهدية البرانية
+",000,False,000,False,False,False,2,64
+"### || 83 المدرسة المسرورية
+",000,False,000,False,False,False,2,865
+"### || 84المدرسة المنكلائية
+",000,False,000,False,False,False,2,33
+"### || 85 المدرسة الناصرية الجوانية
+",000,False,000,False,False,False,2,1708
+"### || 86 المدرسة المجنونية
+",000,False,000,False,False,False,2,176
+"### | فصل  مدارس الحنفية
+",000,False,000,False,False,False,1,36611
+"### || 88 المدرسة الأسدية
+",000,False,000,False,False,False,2,147
+"### || 89 المدرسة الإقبالية
+",000,False,000,False,False,False,2,617
+"### || 90 المدرسة الآمدية
+",000,False,000,False,False,False,2,59
+"### || 91 المدرسة البدرية
+",000,False,000,False,False,False,2,772
+"### || 92 المدرسة البلخية
+",000,False,000,False,False,False,2,436
+"### || 93 المدرسة التاجية
+",000,False,000,False,False,False,2,748
+"### || 94 المدرسى التاشية
+",000,False,000,False,False,False,2,216
+"### || 95 المدرسة الجلالية ms328
+",000,False,000,False,False,False,2,30
+"### || 96 المدرسة الجمالية
+",000,False,000,False,False,False,2,28
+"### || 97 المدرسة الجقمقية
+",000,False,000,False,False,False,2,1489
+"### || 98 المدرسة الجركسية
+",000,False,000,False,False,False,2,492
+"### || 99 المدرسة الجوهرية
+",000,False,000,False,False,False,2,546
+"### || 100 المدرسة الحاجبية
+",000,False,000,False,False,False,2,258
+"### || 101المدرسة الخاتونية البرانية
+",000,False,000,False,False,False,2,937
+"### || 102 المدرسة الخاتونية
+",000,False,000,False,False,False,2,2511
+"### || 103 المدرسة الدماغية
+",000,False,000,False,False,False,2,196
+"### || 104 المدرسة الركنية البرانية
+",000,False,000,False,False,False,2,646
+"### || 105 المدرسة الريحانية
+",000,False,000,False,False,False,2,761
+"### || 106 المدرسة الزنجارية
+",000,False,000,False,False,False,2,734
+"### || 107 المدرسة السفينية
+",000,False,000,False,False,False,2,117
+"### || 108 المدرسة السيبائية
+",000,False,000,False,False,False,2,30
+"### || 109 المدرسة الشبلية البرانية
+",000,False,000,False,False,False,2,1404
+"### || 110 المدرسة الشبلية الجوانية
+",000,False,000,False,False,False,2,75
+"### || 111 المدرسة الصادرية
+",000,False,000,False,False,False,2,411
+"### || 112 المدرسة الطرخانية
+",000,False,000,False,False,False,2,588
+"### || 113 المدرسة الطومانية
+",000,False,000,False,False,False,2,195
+"### || 114 المدرسة الظاهرية الجوانية
+",000,False,000,False,False,False,2,1022
+"### || 115 المدرسة العذراوية
+",000,False,000,False,False,False,2,108
+"### || 116 المدرسة العزيزية
+",000,False,000,False,False,False,2,235
+"### || 117 المدرسة العزية البرانية
+",000,False,000,False,False,False,2,945
+"### || 118 المدرسة العزية الجوانية
+",000,False,000,False,False,False,2,395
+"### || 119 المدرسة العزية الحنفية
+",000,False,000,False,False,False,2,130
+"### || 120 المدرسة العلمية
+",000,False,000,False,False,False,2,376
+"### || 121 المدرسة الفتحية ms380
+",000,False,000,False,False,False,2,239
+"### || 122 المدرسة الفرخشاهية
+",000,False,000,False,False,False,2,722
+"### || 123 المدرسةالقجماسية
+",000,False,000,False,False,False,2,104
+"### || 124 امدرسة القصاعية
+",000,False,000,False,False,False,2,826
+"### || 125 المدرسة القاهرية بالصالحية
+",000,False,000,False,False,False,2,23
+"### || 126 المدرسة القليجية
+",000,False,000,False,False,False,2,458
+"### || 127 المدرسة القيمازية
+",000,False,000,False,False,False,2,990
+"### || 128 المدرسة المرشدية
+",000,False,000,False,False,False,2,515
+"### || 129 المدرسة المعظمية
+",000,False,000,False,False,False,2,1790
+"### || 130 المدرسة المعينية
+",000,False,000,False,False,False,2,928
+"### || 131 المدرسة الماردانية
+",000,False,000,False,False,False,2,404
+"### || 132 المدرسةالمقدمية الجوانية
+",000,False,000,False,False,False,2,1271
+"### || 133 المدرسة المقدمية البرانية
+",000,False,000,False,False,False,2,188
+"### || 134 المدرسة المنجكية
+",000,False,000,False,False,False,2,755
+"### || 135 المدرسة الميطورية
+",000,False,000,False,False,False,2,160
+"### || 136 المدرسة المقصورة الحنفية
+",000,False,000,False,False,False,2,407
+"### || 137 المدرسة النورية الكبرى
+",000,False,000,False,False,False,2,9141
+"### || 138 المدرسة النورية الحنفية الصغرى
+",000,False,000,False,False,False,2,147
+"### | فصل المدارس المالكيه
+",000,False,000,False,False,False,1,5343
+"### || 140 الزاويه المالكيه
+",000,False,000,False,False,False,2,856
+"### || 141 المدرسه الشرابيشيه
+",000,False,000,False,False,False,2,131
+"### || 142 المدرسه الصمصاميه
+",000,False,000,False,False,False,2,302
+"### | فصل مدارس الحنابله
+",000,False,000,False,False,False,1,20847
+"### || 144 المدرسه الجوزية
+",000,False,000,False,False,False,2,7588
+"### || 145 المدرسة الجاموسيه
+",000,False,000,False,False,False,2,109
+"### || 146 المدرسةالحنبلية الشريفية
+",000,False,000,False,False,False,2,3140
+"### || 147 المدرسة الصاحبيه
+",000,False,000,False,False,False,2,1386
+"### || 148 المدرسة الصدرية
+",000,False,000,False,False,False,2,1032
+"### || 149 المدرسه الضيائيه المحمديه
+",000,False,000,False,False,False,2,1412
+"### || 150 المدرسة الضيائية المحاسنية
+",000,False,000,False,False,False,2,182
+"### || 151 المدرسة العمرية الشيخية
+",000,False,000,False,False,False,2,2802
+"### || 152 المدرسة العالمة
+",000,False,000,False,False,False,2,345
+"### ||  153 المدرسةالمسمارية
+",000,False,000,False,False,False,2,1392
+"### | فصل مدارس الطب
+",000,False,000,False,False,False,1,2240
+"### || 155 المدرسة الدخوارية
+",000,False,000,False,False,False,2,1305
+"### || 156 المدرسة الدنيسرية
+",000,False,000,False,False,False,2,341
+"### | فصل الخوانق
+",000,False,000,False,False,False,1,10365
+"### || 158 الخانقاه الاسدية
+",000,False,000,False,False,False,2,278
+"### || 159 الخانقاه الاسكافية
+",000,False,000,False,False,False,2,24
+"### || 160 الخانقاه الاندلسية المشهورة
+",000,False,000,False,False,False,2,127
+"### || 161 الخانقاه الباسطية
+",000,False,000,False,False,False,2,277
+"### || 162 الخانقاه الحسامية
+",000,False,000,False,False,False,2,226
+"### || 163 الخانقاه الخاتونية
+",000,False,000,False,False,False,2,467
+"### || 164 الخانقاه الدويرية
+",000,False,000,False,False,False,2,862
+"### || 165 الخانقاه الروزنهارية
+",000,False,000,False,False,False,2,71
+"### || 166 الخانقاه السميساطية
+",000,False,000,False,False,False,2,2190
+"### || 166 الخانقاه الشومانية
+",000,False,000,False,False,False,2,18
+"### || 167 الخانقاه الشهابية
+",000,False,000,False,False,False,2,250
+"### || 168 الخانقاه الشبلية
+",000,False,000,False,False,False,2,112
+"### || 169 الخانقاه الشنباشية
+",000,False,000,False,False,False,2,15
+"### || 170 الخانقاه الشريفية ms568
+",000,False,000,False,False,False,2,126
+"### || 171 الخانقاه المعروفة بخانقاه الطاحون
+",000,False,000,False,False,False,2,70
+"### || 172 الخانقاه الطواويسية
+",000,False,000,False,False,False,2,403
+"### || 173 الخانقاه العزية
+",000,False,000,False,False,False,2,136
+"### || 174 خانقاه القصر
+",000,False,000,False,False,False,2,80
+"### || 175 الخانقاه القصاعية
+",000,False,000,False,False,False,2,88
+"### || 176 الخانقاه الكججانية
+",000,False,000,False,False,False,2,81
+"### || 177 الخانقاه المجاهدية
+",000,False,000,False,False,False,2,371
+"### || 178 الخانقاه النجيبية
+",000,False,000,False,False,False,2,530
+"### || 179 الخانقاه النحاسية
+",000,False,000,False,False,False,2,37
+"### || 180 الخانقاه النجمية
+",000,False,000,False,False,False,2,733
+"### || 181 الخانقاه الناصرية
+",000,False,000,False,False,False,2,51
+"### || 182 الخانقاه الناصريه
+",000,False,000,False,False,False,2,2285
+"### || 183 الخانقاه النهرية
+",000,False,000,False,False,False,2,285
+"### || 184 الخانقاه اليونسيه
+",000,False,000,False,False,False,2,233
+"### | فصل الرباطات
+",000,False,000,False,False,False,1,524
+"### || 186 الرباط البياني
+",000,False,000,False,False,False,2,159
+"### || 187 الرباط التكريتي
+",000,False,000,False,False,False,2,96
+"### || 188 رباط صفية
+",000,False,000,False,False,False,2,38
+"### | فصل الزوايا
+",000,False,000,False,False,False,1,5185
+"### || 207 الزواية الارموية
+",000,False,000,False,False,False,2,149
+"### || 208 الزاويه الروميه الشرقيه
+",000,False,000,False,False,False,2,62
+"### || 209 الزاوية الحريرية
+",000,False,000,False,False,False,2,410
+"### || 210 الزاويه الحريرية الاعقفية
+",000,False,000,False,False,False,2,85
+"### || 211 الزاوية الدهستانية
+",000,False,000,False,False,False,2,83
+"### || 212 الزاوية الحصنية
+",000,False,000,False,False,False,2,129
+"### || 213 الزاوية الدينورية
+",000,False,000,False,False,False,2,168
+"### || 214 الزاوية الدينورية الشيخية
+",000,False,000,False,False,False,2,32
+"### || 215 الزاوية السيوفية
+",000,False,000,False,False,False,2,84
+"### || 216 الزاوية الداودية
+",000,False,000,False,False,False,2,166
+"### || 217 الزاوية السراجية
+",000,False,000,False,False,False,2,92
+"### || 218 الزاوية الشريفية التغاراتية
+",000,False,000,False,False,False,2,37
+"### || 219 الزاوية الطالبية الرفاعية
+",000,False,000,False,False,False,2,41
+"### || 220 الزاوية الوطية
+",000,False,000,False,False,False,2,59
+"### || 221 الزاوية الطيبية
+",000,False,000,False,False,False,2,59
+"### || 222 الزاوية العمادية المقدسية
+",000,False,000,False,False,False,2,91
+"### || 223 الزاوية الغسولية
+",000,False,000,False,False,False,2,57
+"### || 224 الزاوية الفقاعية
+",000,False,000,False,False,False,2,61
+"### || 225 الزاوية الفرنثية
+",000,False,000,False,False,False,2,251
+"### || 226 الزاوية القوامية البالسية
+",000,False,000,False,False,False,2,425
+"### || 227 الزاوية القلندرية الدركزينية
+",000,False,000,False,False,False,2,635
+"### || 228 الزاوية القلندرية الحيدرية
+",000,False,000,False,False,False,2,72
+"### || 229 الزاوية اليونسية
+",000,False,000,False,False,False,2,1027
+"### || 230 الزاوية العمرية
+",000,False,000,False,False,False,2,273
+"### || 231 الزاوية الصمادية
+",000,False,000,False,False,False,2,477
+"### | فصل الترب
+",000,False,000,False,False,False,1,14380
+"### || 233 التربة الاسدية
+",000,False,000,False,False,False,2,85
+"### || 234 التربة الافريدونية
+",000,False,000,False,False,False,2,149
+"### || 235 التربة الايدمرية
+",000,False,000,False,False,False,2,89
+"### || 236 التربة الايدمورية
+",000,False,000,False,False,False,2,79
+"### || 237 التربة الاكزية
+",000,False,000,False,False,False,2,223
+"### || 238 التربة الاستدارية
+",000,False,000,False,False,False,2,59
+"### || 239 التربة الجيبغائية
+",000,False,000,False,False,False,2,57
+"### || 240 التربة البزورية
+",000,False,000,False,False,False,2,62
+"### || 241 التربة البهادرآصية
+",000,False,000,False,False,False,2,459
+"### || 242 التربة البلبانية
+",000,False,000,False,False,False,2,166
+"### || 243 التربة البلبانية
+",000,False,000,False,False,False,2,169
+"### || 244 التربة البلبانية
+",000,False,000,False,False,False,2,35
+"### || 245 التربة البصية
+",000,False,000,False,False,False,2,267
+"### || 246 التربة البدرية
+",000,False,000,False,False,False,2,68
+"### || 247 التربة البدرية
+",000,False,000,False,False,False,2,186
+"### || 248 التربة البهنسية
+",000,False,000,False,False,False,2,46
+"### || 249 التربة البرسيائية الناصرية
+",000,False,000,False,False,False,2,89
+"### || 250 التربة البهائية
+",000,False,000,False,False,False,2,242
+"### || 251 التربة التكريتية
+",000,False,000,False,False,False,2,201
+"### || 252 التربة التنكزية
+",000,False,000,False,False,False,2,170
+"### || 253 التربة التغربورمشية
+",000,False,000,False,False,False,2,206
+"### || 254 التربة التورزية
+",000,False,000,False,False,False,2,139
+"### || 255 التربة التبكميقية
+",000,False,000,False,False,False,2,72
+"### || 256 التربة الجمالية الاسنائية القوصية
+",000,False,000,False,False,False,2,123
+"### || 257 التربة الجماليه المصرية
+",000,False,000,False,False,False,2,108
+"### || 258 التربة الجوكندارية
+",000,False,000,False,False,False,2,112
+"### || 259 التربة الحافظية
+",000,False,000,False,False,False,2,108
+"### || 260التربة الخطابية
+",000,False,000,False,False,False,2,81
+"### || 261 التربة الخاتونية
+",000,False,000,False,False,False,2,159
+"### || 262 التربيه الدوباجية الجيلانية
+",000,False,000,False,False,False,2,189
+"### || 263 التربة الرحبية ms622
+",000,False,000,False,False,False,2,144
+"### || 264 التربة الزويزانية
+",000,False,000,False,False,False,2,152
+"### || 265 التربة الزاهرية
+",000,False,000,False,False,False,2,244
+"### || 166 التربة السنقرية الصلاحية
+",000,False,000,False,False,False,2,119
+"### || 267 التربة السلامية
+",000,False,000,False,False,False,2,327
+"### || 268 التربة السنبلية
+",000,False,000,False,False,False,2,49
+"### || 269 التربة السودونية
+",000,False,000,False,False,False,2,58
+"### || 270 التربة الشهيدية
+",000,False,000,False,False,False,2,222
+"### || 271 التربة الشهابية
+",000,False,000,False,False,False,2,49
+"### || 272 التربة الشرابيشية
+",000,False,000,False,False,False,2,70
+"### || 273 التربة الصصرية ms627
+",000,False,000,False,False,False,2,23
+"### || 274 التربة الصوابية
+",000,False,000,False,False,False,2,208
+"### || 275 التربة الصارمية البرغشية العادلية
+",000,False,000,False,False,False,2,76
+"### || 276 التربة الطوغانية الناصرية
+",000,False,000,False,False,False,2,90
+"### || 277 التربة العزية والمسجد الحلبيين
+",000,False,000,False,False,False,2,145
+"### ||  278 التربة العلائية الاميرية
+",000,False,000,False,False,False,2,90
+"### || 279 التربة العزية الايبكية الحموية
+",000,False,000,False,False,False,2,77
+"### || 280 التربة العديمية
+",000,False,000,False,False,False,2,88
+"### || 281 التربة العمادية
+",000,False,000,False,False,False,2,113
+"### || 282 التربه العزيه البدرانيه
+",000,False,000,False,False,False,2,71
+"### || 283 التربه العادليه البرانيه
+",000,False,000,False,False,False,2,261
+"### || 284 التربة العادلية الجوانيه بالمدرسة
+",000,False,000,False,False,False,2,1643
+"### || 285 التربة الغرلية
+",000,False,000,False,False,False,2,52
+"### || 286 التربة القراجية الصلاحية
+",000,False,000,False,False,False,2,59
+"### || 287 التربة القراجية
+",000,False,000,False,False,False,2,30
+"### || 288 التربة القيمرية
+",000,False,000,False,False,False,2,119
+"### || 289 التربة القطلوبكية
+",000,False,000,False,False,False,2,58
+"### || 290 التربية القطينية
+",000,False,000,False,False,False,2,108
+"### || 291 التربة القمارية
+",000,False,000,False,False,False,2,43
+"### || 292 التربة القانبائية البهلوانية
+",000,False,000,False,False,False,2,52
+"### || 293 التربة الكركية الاياسية
+",000,False,000,False,False,False,2,104
+"### || 294 التربة الكوكبائية
+",000,False,000,False,False,False,2,193
+"### || 295 التربة الكندية
+",000,False,000,False,False,False,2,50
+"### || 296 التربة الكاملية الصلاحية البرانية
+",000,False,000,False,False,False,2,255
+"### || 297 التربة الكاملية
+",000,False,000,False,False,False,2,2132
+"### || 298 التربة المختارية الطواشية
+",000,False,000,False,False,False,2,109
+"### || 299 التربة المؤيدية الشيخية
+",000,False,000,False,False,False,2,134
+"### || 300 التربة المؤيدية الصوفية
+",000,False,000,False,False,False,2,40
+"### || 301 التربة المراغية
+",000,False,000,False,False,False,2,100
+"### || 302 التربة المنكبائية
+",000,False,000,False,False,False,2,160
+"### || 303 التربة المزلقيه
+",000,False,000,False,False,False,2,307
+"### || 304 التربة الملكية الاشرفية
+",000,False,000,False,False,False,2,1430
+"### || 305 التربة المحمدية الأمينية العيشية
+",000,False,000,False,False,False,2,130
+"### || 306 التربة المنجكية
+",000,False,000,False,False,False,2,64
+"### || 307 التربة النجمية
+",000,False,000,False,False,False,2,134
+"### || 308 التربة النشابية
+",000,False,000,False,False,False,2,101
+"### || 309 التربة اليونسية
+",000,False,000,False,False,False,2,34
+"### | فصل في ذكر المساجد بدمشق
+",000,False,000,False,False,False,1,8312
+"### || داخلها
+",000,False,000,False,False,False,2,4454
+"### ||| مسجد القسطيين
+",000,False,000,False,False,False,3,43
+"### ||| مسجد الصهرجتي
+",000,False,000,False,False,False,3,31
+"### ||| مسجد ابن طغان
+",000,False,000,False,False,False,3,42
+"### ||| مسجد العجمي
+",000,False,000,False,False,False,3,22
+"### ||| مسجد الامير حسن
+",000,False,000,False,False,False,3,31
+"### ||| مسجد ابن البيطار
+",000,False,000,False,False,False,3,33
+"### ||| مسجد ايمن
+",000,False,000,False,False,False,3,67
+"### ||| مسجد ابن حميد
+",000,False,000,False,False,False,3,29
+"### ||| مسجد ابن هشام
+",000,False,000,False,False,False,3,71
+"### ||| مسجد ابن حفاظ
+",000,False,000,False,False,False,3,27
+"### ||| مسجد الفرجه
+",000,False,000,False,False,False,3,22
+"### ||| مسجد الديوان
+",000,False,000,False,False,False,3,81
+"### ||| مسجد القلنسيين
+",000,False,000,False,False,False,3,17
+"### ||| مسجد الرماحين
+",000,False,000,False,False,False,3,71
+"### ||| مسجد ابن العميد
+",000,False,000,False,False,False,3,43
+"### ||| مسجد الجلادين
+",000,False,000,False,False,False,3,76
+"### ||| مسجد الجلادين
+",000,False,000,False,False,False,3,22
+"### ||| مسجد ابن القصيفة
+",000,False,000,False,False,False,3,27
+"### ||| مسجد واثله
+",000,False,000,False,False,False,3,35
+"### ||| مسجد ابن أبي العود
+",000,False,000,False,False,False,3,47
+"### ||| مسجد القطانين
+",000,False,000,False,False,False,3,33
+"### ||| مسجد المزين
+",000,False,000,False,False,False,3,44
+"### ||| مسجد الجلادين
+",000,False,000,False,False,False,3,91
+"### ||| مسجد الكف
+",000,False,000,False,False,False,3,75
+"### ||| مسجد ابن المقانعية
+",000,False,000,False,False,False,3,27
+"### ||| مسجد الزبيب
+",000,False,000,False,False,False,3,27
+"### ||| مسجد ابن العرباض
+",000,False,000,False,False,False,3,23
+"### ||| مسجد ابن عنقود
+",000,False,000,False,False,False,3,233
+"### ||| مسجد الطباخين
+",000,False,000,False,False,False,3,80
+"### ||| مسجد الحدادين
+",000,False,000,False,False,False,3,36
+"### ||| مسجد سوق اللؤلؤ
+",000,False,000,False,False,False,3,57
+"### ||| مسجد سوق الطير
+",000,False,000,False,False,False,3,18
+"### ||| مسجد سوق الطير
+",000,False,000,False,False,False,3,92
+"### ||| مسجد دار البطيخ
+",000,False,000,False,False,False,3,19
+"### ||| مسجد الاجابة
+",000,False,000,False,False,False,3,33
+"### ||| مسجد بني علان
+",000,False,000,False,False,False,3,33
+"### ||| مسجد الخشابين
+",000,False,000,False,False,False,3,19
+"### ||| مسجد السكاكينيين
+",000,False,000,False,False,False,3,15
+"### ||| مسجد التاشي
+",000,False,000,False,False,False,3,23
+"### ||| مسجد الكشك
+",000,False,000,False,False,False,3,45
+"### ||| مسجد السلالين
+",000,False,000,False,False,False,3,31
+"### ||| مسجد دوس
+",000,False,000,False,False,False,3,58
+"### ||| مسجد صدقه
+",000,False,000,False,False,False,3,61
+"### ||| مسجد الثلاج
+",000,False,000,False,False,False,3,50
+"### ||| مسجد عقيل
+",000,False,000,False,False,False,3,54
+"### ||| مسجد ابن الشهرزوري
+",000,False,000,False,False,False,3,37
+"### ||| مسجد كليلة
+",000,False,000,False,False,False,3,29
+"### ||| مسجد درب الحجر
+",000,False,000,False,False,False,3,27
+"### ||| مسجد ابن الجسطار
+",000,False,000,False,False,False,3,69
+"### ||| مسجد ابن الاعمى الفاخوري
+",000,False,000,False,False,False,3,26
+"### ||| مسجد موسى الكردي
+",000,False,000,False,False,False,3,59
+"### ||| مسجد الوزير
+",000,False,000,False,False,False,3,32
+"### ||| مسجد ابن باقي
+",000,False,000,False,False,False,3,51
+"### ||| مسجد الحراقلة
+",000,False,000,False,False,False,3,41
+"### ||| مسجد النيبطون
+",000,False,000,False,False,False,3,57
+"### ||| مسجد أبي الصرف
+",000,False,000,False,False,False,3,26
+"### ||| مسجد ابن عطاف
+",000,False,000,False,False,False,3,150
+"### ||| مسجد الظلم
+",000,False,000,False,False,False,3,17
+"### ||| مسجد القطيطة
+",000,False,000,False,False,False,3,27
+"### ||| مسجد الزينبي
+",000,False,000,False,False,False,3,18
+"### ||| مسجد صعلوك
+",000,False,000,False,False,False,3,24
+"### ||| مسجد النوري
+",000,False,000,False,False,False,3,54
+"### ||| مسجد الفران
+",000,False,000,False,False,False,3,65
+"### ||| مسجد ابن عمير
+",000,False,000,False,False,False,3,26
+"### ||| مسجد ابن الفراش
+",000,False,000,False,False,False,3,56
+"### ||| مسجد ابن البياعة
+",000,False,000,False,False,False,3,37
+"### ||| مسجد الشريف خير الهاشمي
+",000,False,000,False,False,False,3,24
+"### ||| مسجد ابن أبي الحديد
+",000,False,000,False,False,False,3,25
+"### ||| مسجد ابن عوف
+",000,False,000,False,False,False,3,18
+"### ||| مسجد فيروز
+",000,False,000,False,False,False,3,217
+"### ||| مسجد ابن المخشي
+",000,False,000,False,False,False,3,64
+"### ||| مسجد الجينيق
+",000,False,000,False,False,False,3,56
+"### ||| مسجد الجينيق
+",000,False,000,False,False,False,3,86
+"### ||| مسجد ابن خمار
+",000,False,000,False,False,False,3,31
+"### ||| مسجد العباسي
+",000,False,000,False,False,False,3,36
+"### ||| مسجد خواجا يعقوب
+",000,False,000,False,False,False,3,60
+"### ||| مسجد رحبة البصل
+",000,False,000,False,False,False,3,66
+"### ||| مسجد السراجين
+",000,False,000,False,False,False,3,194
+"### ||| مسجد الراس
+",000,False,000,False,False,False,3,42
+"### ||| مسجد عمر
+",000,False,000,False,False,False,3,75
+"### ||| مسجد باب الفراديس
+",000,False,000,False,False,False,3,41
+"### ||| مسجد ابن عبدان
+",000,False,000,False,False,False,3,116
+"### ||| مسجد درب ا لعميان
+",000,False,000,False,False,False,3,98
+"### ||| مسجد عائشة
+",000,False,000,False,False,False,3,75
+"### ||| مسجد ابن القاشي
+",000,False,000,False,False,False,3,74
+"### ||| مسجد حجر الذهب
+",000,False,000,False,False,False,3,184
+"### ||| مسجد عطية
+",000,False,000,False,False,False,3,294
+"### || [Mosques in the tribal areas around Damascus]
+",000,False,000,False,False,False,2,442
+"### ||| مسجد شجاع أو مسجد الباشورة
+",000,False,000,False,False,False,3,47
+"### ||| مسجد عبد الملك
+",000,False,000,False,False,False,3,23
+"### ||| مسجد العنابة
+",000,False,000,False,False,False,3,15
+"### ||| مسجد مسعود
+",000,False,000,False,False,False,3,24
+"### ||| مسجد نصر الله
+",000,False,000,False,False,False,3,39
+"### ||| مسجد القبة
+",000,False,000,False,False,False,3,26
+"### ||| مسجد قبيبة النور أو مسجد اللباد
+",000,False,000,False,False,False,3,151
+"### ||| مسجد الجنائز
+",000,False,000,False,False,False,3,55
+"### ||| مسجد سكينة
+",000,False,000,False,False,False,3,39
+"### ||| مسجد الخضر
+",000,False,000,False,False,False,3,20
+"### ||| مسجد الصفصافية
+",000,False,000,False,False,False,3,18
+"### ||| مسجد السماقة
+",000,False,000,False,False,False,3,21
+"### ||| مسجد فذايا
+",000,False,000,False,False,False,3,16
+"### || [Mosques in the eastern tribal areas of Damascus]
+",000,False,000,False,False,False,2,1608
+"### ||| مسجد الجنائز
+",000,False,000,False,False,False,3,28
+"### ||| مسجد عطاء
+",000,False,000,False,False,False,3,92
+"### ||| مسجد بلاشو الكردي
+",000,False,000,False,False,False,3,42
+"### ||| مسجد أبي صالح
+",000,False,000,False,False,False,3,74
+"### ||| مسجد خالد بن الوليد
+",000,False,000,False,False,False,3,44
+"### ||| مسجد الاوزاعي
+",000,False,000,False,False,False,3,28
+"### ||| مسجد الكنيسة
+",000,False,000,False,False,False,3,35
+"### ||| مسجد التبكير
+",000,False,000,False,False,False,3,42
+"### ||| مسجد السبعة انابيب
+",000,False,000,False,False,False,3,87
+"### ||| مسجد النبي
+",000,False,000,False,False,False,3,77
+"### ||| مسجد القاعة
+",000,False,000,False,False,False,3,18
+"### ||| مسجد سطرا
+",000,False,000,False,False,False,3,36
+"### ||| مسجد القصب
+",000,False,000,False,False,False,3,70
+"### ||| مسجد العجمي
+",000,False,000,False,False,False,3,10
+"### ||| مسجد النحاس
+",000,False,000,False,False,False,3,13
+"### ||| مسجد التوبة ويعرف بمسجد النقاش
+",000,False,000,False,False,False,3,79
+"### ||| مسجد الجوزة
+",000,False,000,False,False,False,3,46
+"### ||| مسجد نصر الحلبي
+",000,False,000,False,False,False,3,31
+"### ||| مسجد الزيتونة
+",000,False,000,False,False,False,3,18
+"### ||| مسجد جعفر الضرير
+",000,False,000,False,False,False,3,85
+"### ||| مسجد شواقة
+",000,False,000,False,False,False,3,29
+"### ||| مسجد ادم
+",000,False,000,False,False,False,3,65
+"### ||| مسجد الخادم
+",000,False,000,False,False,False,3,53
+"### ||| مسجد الصرف
+",000,False,000,False,False,False,3,108
+"### ||| مسجد أم البنين
+",000,False,000,False,False,False,3,25
+"### ||| مسجد التمرتاشية
+",000,False,000,False,False,False,3,30
+"### ||| مسجد دير شعبان
+",000,False,000,False,False,False,3,197
+"### ||| مسجد مغارة ms679 الدم
+",000,False,000,False,False,False,3,19
+"### ||| مسجد الدير
+",000,False,000,False,False,False,3,37
+"### ||| مسجد جناح الدولة
+",000,False,000,False,False,False,3,26
+"### ||| مسجد الدهان
+",000,False,000,False,False,False,3,27
+"### ||| مسجد خاتون المعينية
+",000,False,000,False,False,False,3,81
+"### ||| مسجدعوينة الحمى
+",000,False,000,False,False,False,3,27
+"### ||| مسجد المزدقاني
+",000,False,000,False,False,False,3,23
+"### ||| مسجد بروس
+",000,False,000,False,False,False,3,14
+"### ||| مسجد خطلخ
+",000,False,000,False,False,False,3,43
+"### ||| مسجد ارزة
+",000,False,000,False,False,False,3,68
+"### || [Mosques in the western regions of Damascus]
+",000,False,000,False,False,False,2,1112
+"### ||| مسجد الشاطبي
+",000,False,000,False,False,False,3,20
+"### ||| مسجد عزيز الدولة
+",000,False,000,False,False,False,3,25
+"### ||| مسجد الجفاني
+",000,False,000,False,False,False,3,103
+"### ||| مسجد النيراب
+",000,False,000,False,False,False,3,28
+"### ||| مسجد العنابة
+",000,False,000,False,False,False,3,10
+"### ||| مسجد ا لخلخال
+",000,False,000,False,False,False,3,17
+"### ||| مسجد بني عمير
+",000,False,000,False,False,False,3,13
+"### ||| مسجد بني ضبة
+",000,False,000,False,False,False,3,13
+"### ||| مسجد العامري
+",000,False,000,False,False,False,3,20
+"### ||| مسجد صفي الدين الخادم
+",000,False,000,False,False,False,3,16
+"### ||| مسجد المرج
+",000,False,000,False,False,False,3,18
+"### ||| مسجد البسطامي
+",000,False,000,False,False,False,3,16
+"### ||| مسجد حميص
+",000,False,000,False,False,False,3,14
+"### ||| مسجد الريس
+",000,False,000,False,False,False,3,16
+"### ||| مسجد عمري
+",000,False,000,False,False,False,3,12
+"### ||| مسجد الريس
+",000,False,000,False,False,False,3,10
+"### ||| مسجد الأشراف
+",000,False,000,False,False,False,3,10
+"### ||| مسجد الديليمي
+",000,False,000,False,False,False,3,16
+"### ||| مسجد باب الجنان
+",000,False,000,False,False,False,3,129
+"### ||| مسجد الفراش
+",000,False,000,False,False,False,3,28
+"### ||| مسجد زمرد خاتون
+",000,False,000,False,False,False,3,61
+"### ||| مسجد ابن حسان
+",000,False,000,False,False,False,3,43
+"### ||| مسجد معاوية
+",000,False,000,False,False,False,3,20
+"### ||| مسجد الجنودة
+",000,False,000,False,False,False,3,24
+"### ||| مسجد الكرامية
+",000,False,000,False,False,False,3,20
+"### ||| مسجد خواجا
+",000,False,000,False,False,False,3,24
+"### ||| مسجد الشليلا
+",000,False,000,False,False,False,3,68
+"### ||| مسجد بني ملتهم
+",000,False,000,False,False,False,3,25
+"### ||| مسجد ms682 منصور المؤذن
+",000,False,000,False,False,False,3,72
+"### ||| مسجد الكشك
+",000,False,000,False,False,False,3,20
+"### ||| مسجدالجزورية
+",000,False,000,False,False,False,3,22
+"### ||| مسجد الحجر
+",000,False,000,False,False,False,3,31
+"### ||| مسجد فلوس
+",000,False,000,False,False,False,3,51
+"### | الذيل في ذكر الجوامع من ملحقات سيدي الوالد الماجد
+",000,False,000,False,False,False,1,15033
+"### || جامع بني امية
+",000,False,000,False,False,False,2,9466
+"### || جامع الكريمي
+",000,False,000,False,False,False,2,548
+"### || جامع المصلي
+",000,False,000,False,False,False,2,202
+"### || جامع جراح
+",000,False,000,False,False,False,2,136
+"### || جامع الملاح
+",000,False,000,False,False,False,2,103
+"### || جامع الخليخاني
+",000,False,000,False,False,False,2,72
+"### || جامع المزاز
+",000,False,000,False,False,False,2,75
+"### || جامع الطواشي
+",000,False,000,False,False,False,2,192
+"### || جامع يلبغا
+",000,False,000,False,False,False,2,487
+"### || جامع تنكز
+",000,False,000,False,False,False,2,138
+"### || جامع السلطان
+",000,False,000,False,False,False,2,55
+"### || جامع التوبة
+",000,False,000,False,False,False,2,245
+"### || جامع العقبية
+",000,False,000,False,False,False,2,41
+"### || جامع الجوزة
+",000,False,000,False,False,False,2,315
+"### || جامع مسجد الاقصاب
+",000,False,000,False,False,False,2,248
+"### || جامع السقيفة
+",000,False,000,False,False,False,2,135
+"### || جامع القابون
+",000,False,000,False,False,False,2,47
+"### || جامع داريا الكبرى
+",000,False,000,False,False,False,2,72
+"### || جامع المزة
+",000,False,000,False,False,False,2,548
+"### || جامع الافرم
+",000,False,000,False,False,False,2,42
+"### || جامع الجبل
+",000,False,000,False,False,False,2,674
+"### || جامع حرستا
+",000,False,000,False,False,False,2,28
+"### || جامع النيرب
+",000,False,000,False,False,False,2,312
+"### || جامع الربوة
+",000,False,000,False,False,False,2,48
+"### || جامع ابن العنبري
+",000,False,000,False,False,False,2,133
+"### || جامع الحاجب
+",000,False,000,False,False,False,2,83
+"### || جامع النحاس
+",000,False,000,False,False,False,2,148
+"### || جامع المرجاني
+",000,False,000,False,False,False,2,92
+"### || جامع قلعة دمشق
+",000,False,000,False,False,False,2,153
+"### || جامع الثابتيه
+",000,False,000,False,False,False,2,87

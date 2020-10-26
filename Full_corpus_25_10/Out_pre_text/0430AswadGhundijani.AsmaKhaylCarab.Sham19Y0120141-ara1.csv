@@ -1,0 +1,1257 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO [المقدمات]
+",000,False,000,False,False,False,1,3007
+"### || AUTO فهرس الموضوعات
+",000,False,000,False,False,False,2,53
+"### || AUTO تقديم
+",000,False,000,False,False,False,2,385
+"### || AUTO المؤلف والكتاب
+",000,False,000,False,False,False,2,241
+"### || AUTO في موضوع الكتاب
+",000,False,000,False,False,False,2,1990
+"### ||| AUTO الخيل في حياة العرب
+",000,False,000,False,False,False,3,72
+"### ||| AUTO موطنها الأول
+",000,False,000,False,False,False,3,175
+"### ||| AUTO ما قيل في عروبتها
+",000,False,000,False,False,False,3,91
+"### ||| AUTO مكانتها في العصر الجاهلي
+",000,False,000,False,False,False,3,1007
+"### || AUTO [النص والتحقيق]
+",000,False,000,False,False,False,2,224
+"### || AUTO [مقدمة المؤلف]
+",000,False,000,False,False,False,2,107
+"### | AUTO حرف الهمزة
+",000,False,000,False,False,False,1,1928
+"### || AUTO 1 - الأبجر
+",000,False,000,False,False,False,2,25
+"### || AUTO 3 - أثال
+",000,False,000,False,False,False,2,19
+"### || AUTO 4 - أجدل
+",000,False,000,False,False,False,2,23
+"### || AUTO 5 - الأرن
+",000,False,000,False,False,False,2,7
+"### || AUTO 6 - الأجدل
+",000,False,000,False,False,False,2,6
+"### || AUTO 7 - الأبجر
+",000,False,000,False,False,False,2,15
+"### || AUTO 8 - الأسطع: هو ذو القلادة.
+",000,False,000,False,False,False,2,13
+"### || AUTO 9 - الأعرابي
+",000,False,000,False,False,False,2,36
+"### || AUTO 10 - الأغر
+",000,False,000,False,False,False,2,143
+"### || AUTO 11 - آفق
+",000,False,000,False,False,False,2,47
+"### || AUTO 12 - أطلال
+",000,False,000,False,False,False,2,64
+"### || AUTO 13 - الأغر
+",000,False,000,False,False,False,2,44
+"### || AUTO 14 - أشقر مروان
+",000,False,000,False,False,False,2,43
+"### || AUTO 15 - أعوج الأكبر
+",000,False,000,False,False,False,2,169
+"### || AUTO 16 - أعوج الأصغر
+",000,False,000,False,False,False,2,11
+"### || AUTO 17 - الأغر
+",000,False,000,False,False,False,2,21
+"### || AUTO 18 - الأدهم
+",000,False,000,False,False,False,2,8
+"### || AUTO 19 - الأغر
+",000,False,000,False,False,False,2,29
+"### || AUTO 20 - الأحوى
+",000,False,000,False,False,False,2,18
+"### || AUTO 21 - الأغر
+",000,False,000,False,False,False,2,29
+"### || AUTO 22 - الأدهم
+",000,False,000,False,False,False,2,34
+"### || AUTO 23 - الأغر
+",000,False,000,False,False,False,2,44
+"### || AUTO 24 - الأشقر
+",000,False,000,False,False,False,2,276
+"### || AUTO 25 - الأغر
+",000,False,000,False,False,False,2,20
+"### || AUTO 26 - الأحوى
+",000,False,000,False,False,False,2,29
+"### || AUTO 27 - الأدهم
+",000,False,000,False,False,False,2,38
+"### || AUTO 28 - الأشقر
+",000,False,000,False,False,False,2,18
+"### || AUTO 29 - أبهر
+",000,False,000,False,False,False,2,22
+"### || AUTO 30 - الأدهم
+",000,False,000,False,False,False,2,31
+"### || AUTO 31 - الأغن
+",000,False,000,False,False,False,2,10
+"### || AUTO 32 - الأغر
+",000,False,000,False,False,False,2,18
+"### || AUTO 33 - الأديم
+",000,False,000,False,False,False,2,17
+"### || AUTO 34 - الأسك
+",000,False,000,False,False,False,2,11
+"### || AUTO 35 - أهلوب
+",000,False,000,False,False,False,2,25
+"### || AUTO 36 - الأحزم
+",000,False,000,False,False,False,2,52
+"### || AUTO 37 - الأزور
+",000,False,000,False,False,False,2,32
+"### || AUTO 38 - أزاهيق
+",000,False,000,False,False,False,2,55
+"### || AUTO 39 - أحجار
+",000,False,000,False,False,False,2,10
+"### || AUTO 40 - أجدل
+",000,False,000,False,False,False,2,6
+"### || AUTO 41 - الأحوى
+",000,False,000,False,False,False,2,9
+"### || AUTO 42 - الأشقر
+",000,False,000,False,False,False,2,7
+"### || AUTO 43 - أعنق
+",000,False,000,False,False,False,2,13
+"### || AUTO المستدركات على حرف
+",000,False,000,False,False,False,2,368
+"### ||| AUTO 44 - الأدهم
+",000,False,000,False,False,False,3,103
+"### ||| AUTO 45 - الأبلق
+",000,False,000,False,False,False,3,31
+"### ||| AUTO 46 - الأدهم
+",000,False,000,False,False,False,3,42
+"### ||| AUTO 47 - الأحوى
+",000,False,000,False,False,False,3,18
+"### ||| AUTO 48 - أخدر
+",000,False,000,False,False,False,3,25
+"### ||| AUTO 49 - أعوج
+",000,False,000,False,False,False,3,28
+"### ||| AUTO 50 - الأغر
+",000,False,000,False,False,False,3,13
+"### ||| AUTO 51 - الأغر
+",000,False,000,False,False,False,3,40
+"### ||| AUTO 52 - أهلوب
+",000,False,000,False,False,False,3,25
+"### || CHECK 56 - البطين أبو الذائد
+",000,False,000,False,False,False,2,5
+"### | AUTO حرف الباء
+",000,False,000,False,False,False,1,685
+"### || AUTO 54 - البرق
+",000,False,000,False,False,False,2,53
+"### || AUTO 57 - البعيث
+",000,False,000,False,False,False,2,11
+"### || AUTO 58 - البواب
+",000,False,000,False,False,False,2,17
+"### || AUTO 59 - البيضاء
+",000,False,000,False,False,False,2,52
+"### || AUTO 60 - بلعاء
+",000,False,000,False,False,False,2,11
+"### || AUTO 61 - بذوة
+",000,False,000,False,False,False,2,20
+"### || AUTO 62 - بهرام
+",000,False,000,False,False,False,2,19
+"### || AUTO 63 - برزة
+",000,False,000,False,False,False,2,21
+"### || AUTO 64 - برجة
+",000,False,000,False,False,False,2,38
+"### || AUTO 65 - البريت
+",000,False,000,False,False,False,2,52
+"### || AUTO 66 - بذوة
+",000,False,000,False,False,False,2,19
+"### || AUTO 67 - بزخاء
+",000,False,000,False,False,False,2,30
+"### || AUTO 68 - البشير
+",000,False,000,False,False,False,2,31
+"### || AUTO 69 - بشرة
+",000,False,000,False,False,False,2,24
+"### | AUTO حرف التاء
+",000,False,000,False,False,False,1,51
+"### | AUTO حرف الثاء
+",000,False,000,False,False,False,1,250
+"### || AUTO 85 - ثادق
+",000,False,000,False,False,False,2,87
+"### || AUTO 86 - ثادق
+",000,False,000,False,False,False,2,71
+"### || AUTO 87 - ثادق
+",000,False,000,False,False,False,2,74
+"### | AUTO حرف الجيم
+",000,False,000,False,False,False,1,1150
+"### || AUTO 89 - الجرادة
+",000,False,000,False,False,False,2,17
+"### || AUTO 90 - الجرادة
+",000,False,000,False,False,False,2,7
+"### || AUTO 91 - جلاز
+",000,False,000,False,False,False,2,9
+"### || AUTO 92 - الجناح
+",000,False,000,False,False,False,2,7
+"### || AUTO 93 - جناح
+",000,False,000,False,False,False,2,27
+"### || AUTO 94 - الجون
+",000,False,000,False,False,False,2,23
+"### || AUTO 95 - الجون الأصغر
+",000,False,000,False,False,False,2,39
+"### || AUTO 96 - جروة
+",000,False,000,False,False,False,2,37
+"### || AUTO 97 - الجون
+",000,False,000,False,False,False,2,28
+"### || AUTO 98 - جلوى الكبرى
+",000,False,000,False,False,False,2,23
+"### || AUTO 99 - جلوى الصغرى
+",000,False,000,False,False,False,2,35
+"### || AUTO 100 - الجرداء
+",000,False,000,False,False,False,2,14
+"### || AUTO 101 - جنبر
+",000,False,000,False,False,False,2,43
+"### || AUTO 102 - جهنام
+",000,False,000,False,False,False,2,24
+"### || AUTO 103 - الجمازة
+",000,False,000,False,False,False,2,12
+"### || AUTO 104 - الجون
+",000,False,000,False,False,False,2,21
+"### || AUTO 105 - جناح
+",000,False,000,False,False,False,2,30
+"### || AUTO 106 - جروة
+",000,False,000,False,False,False,2,42
+"### || AUTO 107 - الجون
+",000,False,000,False,False,False,2,31
+"### || AUTO 108 - جلوى
+",000,False,000,False,False,False,2,27
+"### || AUTO 109 - الجون
+",000,False,000,False,False,False,2,8
+"### || AUTO 110 - الجون
+",000,False,000,False,False,False,2,36
+"### || AUTO 111 - الجون
+",000,False,000,False,False,False,2,31
+"### || AUTO 112 - جروة
+",000,False,000,False,False,False,2,7
+"### || AUTO 113 - الجموح
+",000,False,000,False,False,False,2,18
+"### || AUTO 114 - الجون
+",000,False,000,False,False,False,2,58
+"### || AUTO 115 - جافل
+",000,False,000,False,False,False,2,26
+"### || AUTO 116 - الجون
+",000,False,000,False,False,False,2,32
+"### || AUTO 117 - الجديد
+",000,False,000,False,False,False,2,18
+"### || AUTO 118 - الجون
+",000,False,000,False,False,False,2,28
+"### || AUTO 119 - الجون
+",000,False,000,False,False,False,2,9
+"### || AUTO 120 - الجمانة
+",000,False,000,False,False,False,2,6
+"### | AUTO حرف الحاء
+",000,False,000,False,False,False,1,1579
+"### || AUTO 138 - حيزوم
+",000,False,000,False,False,False,2,14
+"### || AUTO 139 - الحرون بن الأثاثي بن الخزز بن ذي الصوفة بن اعوج
+",000,False,000,False,False,False,2,55
+"### || AUTO 140 - الحسير
+",000,False,000,False,False,False,2,100
+"### || AUTO 141 - الحليل
+",000,False,000,False,False,False,2,54
+"### || AUTO 142 - الحصاء
+",000,False,000,False,False,False,2,55
+"### || AUTO 143 - الحمالة
+",000,False,000,False,False,False,2,19
+"### || AUTO 144 - الحمامة
+",000,False,000,False,False,False,2,8
+"### || AUTO 145 - الحواء
+",000,False,000,False,False,False,2,41
+"### || AUTO 146 - الحواء
+",000,False,000,False,False,False,2,17
+"### || AUTO 147 - الحمالة
+",000,False,000,False,False,False,2,37
+"### || AUTO 148 - الحمامة
+",000,False,000,False,False,False,2,7
+"### || AUTO 149 - حليمة
+",000,False,000,False,False,False,2,8
+"### || AUTO 150 - حلوة
+",000,False,000,False,False,False,2,7
+"### || AUTO 151 - الحمامة
+",000,False,000,False,False,False,2,20
+"### || AUTO 152 - الحواء
+",000,False,000,False,False,False,2,20
+"### || AUTO 153 - الحنفاء
+",000,False,000,False,False,False,2,7
+"### || AUTO 154 - حذفة
+",000,False,000,False,False,False,2,54
+"### || AUTO 155 - حزمة
+",000,False,000,False,False,False,2,230
+"### || AUTO 156 - حلاب
+",000,False,000,False,False,False,2,18
+"### || AUTO 157 - حومل
+",000,False,000,False,False,False,2,34
+"### || AUTO 158 - الحواء
+",000,False,000,False,False,False,2,27
+"### || AUTO 159 - الحمامة الصغرى
+",000,False,000,False,False,False,2,8
+"### || AUTO 160 - حديرة
+",000,False,000,False,False,False,2,23
+"### || AUTO 161 - الحفار
+",000,False,000,False,False,False,2,29
+"### || AUTO 162 - الحسامية
+",000,False,000,False,False,False,2,55
+"### || AUTO 163 - الحواء
+",000,False,000,False,False,False,2,31
+"### || AUTO 164 - الحرداء
+",000,False,000,False,False,False,2,14
+"### || AUTO 165 - حزمة
+",000,False,000,False,False,False,2,38
+"### || AUTO 166 - الحرير
+",000,False,000,False,False,False,2,27
+"### || AUTO 167 - الحواء
+",000,False,000,False,False,False,2,6
+"### || AUTO 168 - حذفة الحواء
+",000,False,000,False,False,False,2,25
+"### || AUTO 169 - الحميراء
+",000,False,000,False,False,False,2,8
+"### || AUTO 170 - الحمال
+",000,False,000,False,False,False,2,24
+"### || AUTO 171 - الحمالة
+",000,False,000,False,False,False,2,13
+"### | AUTO حرف الخاء
+",000,False,000,False,False,False,1,1047
+"### || AUTO 188 - الخذواء
+",000,False,000,False,False,False,2,39
+"### || AUTO 189 - الخرماء
+",000,False,000,False,False,False,2,22
+"### || AUTO 190 - الخزز
+",000,False,000,False,False,False,2,11
+"### || AUTO 191 - الخطار
+",000,False,000,False,False,False,2,6
+"### || AUTO 192 - الخطاف
+",000,False,000,False,False,False,2,30
+"### || AUTO 193 - الخنثى
+",000,False,000,False,False,False,2,52
+"### || AUTO 194 - الخوصاء
+",000,False,000,False,False,False,2,24
+"### || AUTO 195 - الخوصاء: أيضا
+",000,False,000,False,False,False,2,9
+"### || AUTO 196 - خرقة
+",000,False,000,False,False,False,2,36
+"### || AUTO 197 - الخطار
+",000,False,000,False,False,False,2,8
+"### || AUTO 198 - خباس
+",000,False,000,False,False,False,2,14
+"### || AUTO 199 - خذام
+",000,False,000,False,False,False,2,63
+"### || AUTO 200 - خرقة
+",000,False,000,False,False,False,2,16
+"### || AUTO 201 - الخضراء
+",000,False,000,False,False,False,2,33
+"### || AUTO 202 - خصاف
+",000,False,000,False,False,False,2,40
+"### || AUTO 203 - خصاف
+",000,False,000,False,False,False,2,53
+"### || AUTO 204 - خصاف
+",000,False,000,False,False,False,2,44
+"### || AUTO 205 - خميرة
+",000,False,000,False,False,False,2,21
+"### || AUTO 206 - الخصي
+",000,False,000,False,False,False,2,14
+"### || AUTO 207 - خروب
+",000,False,000,False,False,False,2,26
+"### || AUTO 208 - الخنساء
+",000,False,000,False,False,False,2,18
+"### || AUTO 209 - الخضراء
+",000,False,000,False,False,False,2,35
+"### || AUTO 210 - خطاف
+",000,False,000,False,False,False,2,35
+"### || AUTO 211 - الخرماء
+",000,False,000,False,False,False,2,16
+"### || AUTO 212 - خذم
+",000,False,000,False,False,False,2,40
+"### || AUTO 213 - الخطار
+",000,False,000,False,False,False,2,32
+"### || AUTO 214 - الخضراء
+",000,False,000,False,False,False,2,19
+"### || AUTO 215 - خيفق
+",000,False,000,False,False,False,2,13
+"### || AUTO 216 - الخنذيذ
+",000,False,000,False,False,False,2,28
+"### || AUTO 217 - الخصي
+",000,False,000,False,False,False,2,41
+"### || AUTO 218 - خدار
+",000,False,000,False,False,False,2,25
+"### || AUTO 219 - خراج
+",000,False,000,False,False,False,2,60
+"### || AUTO 220 - الخضراء
+",000,False,000,False,False,False,2,9
+"### || AUTO 221 - الخفيدد
+",000,False,000,False,False,False,2,8
+"### || AUTO 222 - خذم
+",000,False,000,False,False,False,2,19
+"### | AUTO حرف الدال
+",000,False,000,False,False,False,1,529
+"### || AUTO 227 - الدموك
+",000,False,000,False,False,False,2,25
+"### || AUTO 228 - داحس
+",000,False,000,False,False,False,2,45
+"### || AUTO 229 - داعق
+",000,False,000,False,False,False,2,9
+"### || AUTO 230 - درهم
+",000,False,000,False,False,False,2,58
+"### || AUTO 231 - دعلج
+",000,False,000,False,False,False,2,40
+"### || AUTO 232 - دوأب
+",000,False,000,False,False,False,2,22
+"### || AUTO 233 - الدهماء
+",000,False,000,False,False,False,2,33
+"### || AUTO 234 - دباس
+",000,False,000,False,False,False,2,36
+"### || AUTO 235 - الدهماء
+",000,False,000,False,False,False,2,29
+"### || AUTO 236 - ديسق
+",000,False,000,False,False,False,2,16
+"### | AUTO حرف الذال
+",000,False,000,False,False,False,1,691
+"### || AUTO 244 - الذائد
+",000,False,000,False,False,False,2,55
+"### || AUTO 245 - ذو الريش
+",000,False,000,False,False,False,2,27
+"### || AUTO 246 - الذفوف
+",000,False,000,False,False,False,2,6
+"### || AUTO 247 - ذات العجم
+",000,False,000,False,False,False,2,26
+"### || AUTO 248 - ذات النسوع
+",000,False,000,False,False,False,2,12
+"### || AUTO 249 - ذو الخمار
+",000,False,000,False,False,False,2,35
+"### || AUTO 250 - ذو الصوفة
+",000,False,000,False,False,False,2,9
+"### || AUTO 251 - ذو العقال
+",000,False,000,False,False,False,2,25
+"### || AUTO 252 - ذو العنق
+",000,False,000,False,False,False,2,8
+"### || AUTO 253 - ذو اللمة
+",000,False,000,False,False,False,2,9
+"### || AUTO 254 - ذو الموتة
+",000,False,000,False,False,False,2,17
+"### || AUTO 255 - ذو الوشوم
+",000,False,000,False,False,False,2,22
+"### || AUTO 256 - ذو الوقوف
+",000,False,000,False,False,False,2,35
+"### || AUTO 257 - ذو طلال
+",000,False,000,False,False,False,2,31
+"### || AUTO 258 - ذات الجلال
+",000,False,000,False,False,False,2,38
+"### || AUTO 259 - ذو ذيل
+",000,False,000,False,False,False,2,40
+"### || AUTO 260 - ذو الشمراخ
+",000,False,000,False,False,False,2,29
+"### || AUTO 261 - ذات الرماح
+",000,False,000,False,False,False,2,20
+"### || AUTO 262 - ذئبة
+",000,False,000,False,False,False,2,7
+"### || AUTO 263 - ذو الرحل
+",000,False,000,False,False,False,2,14
+"### || AUTO 264 - ذات النعال
+",000,False,000,False,False,False,2,7
+"### | AUTO حرف الراء
+",000,False,000,False,False,False,1,424
+"### || AUTO 273 - الرحى
+",000,False,000,False,False,False,2,25
+"### || AUTO 274 - الرحالة
+",000,False,000,False,False,False,2,41
+"### || AUTO 275 - الرعشاء
+",000,False,000,False,False,False,2,39
+"### || AUTO 276 - الرقعاء
+",000,False,000,False,False,False,2,23
+"### || AUTO 277 - الرقيب
+",000,False,000,False,False,False,2,20
+"### || AUTO 278 - الركاح
+",000,False,000,False,False,False,2,26
+"### || AUTO 279 - ربسى
+",000,False,000,False,False,False,2,11
+"### || AUTO 280 - ردين
+",000,False,000,False,False,False,2,27
+"### || AUTO 281 - الرخيل
+",000,False,000,False,False,False,2,7
+"### || AUTO 282 - الرقيم
+",000,False,000,False,False,False,2,37
+"### || AUTO 283 - رعشن
+",000,False,000,False,False,False,2,27
+"### || AUTO 284 - رغوة
+",000,False,000,False,False,False,2,7
+"### || AUTO 285 - الرعشاء
+",000,False,000,False,False,False,2,7
+"### || AUTO 286 - رضوى
+",000,False,000,False,False,False,2,8
+"### | AUTO حرف الزاي
+",000,False,000,False,False,False,1,750
+"### || AUTO 290 - الزبد
+",000,False,000,False,False,False,2,9
+"### || AUTO 291 - الزعفران
+",000,False,000,False,False,False,2,61
+"### || AUTO 292 - الزعفران
+",000,False,000,False,False,False,2,30
+"### || AUTO 293 - زاد الركب
+",000,False,000,False,False,False,2,45
+"### || AUTO 294 - الزينية
+",000,False,000,False,False,False,2,35
+"### || AUTO 295 - زامل
+",000,False,000,False,False,False,2,32
+"### || AUTO 296 - زوبر
+",000,False,000,False,False,False,2,92
+"### || AUTO 297 - زهدم
+",000,False,000,False,False,False,2,17
+"### || AUTO 298 - زيم
+",000,False,000,False,False,False,2,13
+"### || AUTO 299 - زهدم
+",000,False,000,False,False,False,2,69
+"### || AUTO 300 - الزلوج
+",000,False,000,False,False,False,2,36
+"### || AUTO 301 - زرة
+",000,False,000,False,False,False,2,46
+"### || AUTO 302 - الزعيل
+",000,False,000,False,False,False,2,30
+"### || AUTO 303 - زاحل
+",000,False,000,False,False,False,2,7
+"### || AUTO 304 - الزعفران
+",000,False,000,False,False,False,2,17
+"### | AUTO حرف السين
+",000,False,000,False,False,False,1,1177
+"### || AUTO 315 - السرحان
+",000,False,000,False,False,False,2,23
+"### || AUTO 316 - ساهم
+",000,False,000,False,False,False,2,19
+"### || AUTO 317 - السرحان
+",000,False,000,False,False,False,2,12
+"### || AUTO 318 - السلس
+",000,False,000,False,False,False,2,22
+"### || AUTO 319 - سبل
+",000,False,000,False,False,False,2,21
+"### || AUTO 320 - سحم
+",000,False,000,False,False,False,2,27
+"### || AUTO 321 - سحيم
+",000,False,000,False,False,False,2,47
+"### || AUTO 322 - سكاب
+",000,False,000,False,False,False,2,81
+"### || AUTO 323 - سلم
+",000,False,000,False,False,False,2,32
+"### || AUTO 324 - سمحة
+",000,False,000,False,False,False,2,24
+"### || AUTO 325 - سمحة
+",000,False,000,False,False,False,2,12
+"### || AUTO 326 - السكب
+",000,False,000,False,False,False,2,17
+"### || AUTO 327 - السوسة
+",000,False,000,False,False,False,2,16
+"### || AUTO 328 - سبحة
+",000,False,000,False,False,False,2,62
+"### || AUTO 329 - سراج
+",000,False,000,False,False,False,2,32
+"### || AUTO 330 - السندي
+",000,False,000,False,False,False,2,8
+"### || AUTO 331 - ساطع
+",000,False,000,False,False,False,2,22
+"### || AUTO 332 - السكب
+",000,False,000,False,False,False,2,10
+"### || AUTO 333 - السيد
+",000,False,000,False,False,False,2,7
+"### || AUTO 334 - السرحان
+",000,False,000,False,False,False,2,8
+"### | AUTO حرف الشين
+",000,False,000,False,False,False,1,1032
+"### || AUTO 350 - الشعور
+",000,False,000,False,False,False,2,18
+"### || AUTO 351 - الشقراء
+",000,False,000,False,False,False,2,18
+"### || AUTO 352 - الشمطاء
+",000,False,000,False,False,False,2,32
+"### || AUTO 353 - الشموس
+",000,False,000,False,False,False,2,27
+"### || AUTO 354 - الشموس
+",000,False,000,False,False,False,2,17
+"### || AUTO 355 - الشوهاء
+",000,False,000,False,False,False,2,40
+"### || AUTO 356 - الشوهاء
+",000,False,000,False,False,False,2,30
+"### || AUTO 357 - شاغر
+",000,False,000,False,False,False,2,23
+"### || AUTO 358 - الشيط
+",000,False,000,False,False,False,2,39
+"### || AUTO 359 - الشيط
+",000,False,000,False,False,False,2,11
+"### || AUTO 360 - الشقراء
+",000,False,000,False,False,False,2,35
+"### || AUTO 361 - الشقراء
+",000,False,000,False,False,False,2,20
+"### || AUTO 362 - شمر
+",000,False,000,False,False,False,2,22
+"### || AUTO 363 - شولة
+",000,False,000,False,False,False,2,32
+"### || AUTO 364 - الشقراء
+",000,False,000,False,False,False,2,72
+"### || AUTO 365 - شنخوب
+",000,False,000,False,False,False,2,8
+"### || AUTO 366 - الشهباء
+",000,False,000,False,False,False,2,32
+"### || AUTO 367 - شرعة
+",000,False,000,False,False,False,2,18
+"### || AUTO 368 - الشموس
+",000,False,000,False,False,False,2,7
+"### || AUTO 369 - الشقراء
+",000,False,000,False,False,False,2,18
+"### || AUTO 370 - شعفر
+",000,False,000,False,False,False,2,32
+"### || AUTO 371 - الشقراء
+",000,False,000,False,False,False,2,27
+"### || AUTO 372 - الشيماء
+",000,False,000,False,False,False,2,14
+"### || AUTO 373 - الشقراء
+",000,False,000,False,False,False,2,11
+"### || AUTO 374 - شعلة
+",000,False,000,False,False,False,2,20
+"### || AUTO 375 - الشقراء
+",000,False,000,False,False,False,2,19
+"### | AUTO حرف الصاد
+",000,False,000,False,False,False,1,981
+"### || AUTO 384 - الصاحب
+",000,False,000,False,False,False,2,7
+"### || AUTO 385 - الصبيح
+",000,False,000,False,False,False,2,19
+"### || AUTO 386 - الصريح
+",000,False,000,False,False,False,2,22
+"### || AUTO 387 - الصريح
+",000,False,000,False,False,False,2,7
+"### || AUTO 388 - الصموت
+",000,False,000,False,False,False,2,16
+"### || AUTO 389 - الصيود
+",000,False,000,False,False,False,2,27
+"### || AUTO 390 - صدام
+",000,False,000,False,False,False,2,26
+"### || AUTO 391 - الصبور
+",000,False,000,False,False,False,2,20
+"### || AUTO 392 - صمعر
+",000,False,000,False,False,False,2,19
+"### || AUTO 393 - صمعر
+",000,False,000,False,False,False,2,18
+"### || AUTO 394 - صوبة
+",000,False,000,False,False,False,2,14
+"### || AUTO 395 - صوبة
+",000,False,000,False,False,False,2,18
+"### || AUTO 396 - صهبى
+",000,False,000,False,False,False,2,30
+"### || AUTO 397 - صاعد
+",000,False,000,False,False,False,2,29
+"### || AUTO 398 - الصدي
+",000,False,000,False,False,False,2,17
+"### || AUTO 399 - صاعد
+",000,False,000,False,False,False,2,34
+"### || AUTO 400 - صادق
+",000,False,000,False,False,False,2,53
+"### || AUTO 401 - صافن
+",000,False,000,False,False,False,2,18
+"### || AUTO 402 - صدام
+",000,False,000,False,False,False,2,7
+"### || AUTO 403 - صادق
+",000,False,000,False,False,False,2,9
+"### || AUTO 404 - الصبحاء
+",000,False,000,False,False,False,2,10
+"### || AUTO 405 - صهوى
+",000,False,000,False,False,False,2,36
+"### || AUTO 406 - صعدة
+",000,False,000,False,False,False,2,8
+"### || AUTO 407 - الصهال
+",000,False,000,False,False,False,2,66
+"### | AUTO حرف الضاد
+",000,False,000,False,False,False,1,475
+"### || AUTO 421 - الضبيب
+",000,False,000,False,False,False,2,47
+"### || AUTO 422 - الضبيح
+",000,False,000,False,False,False,2,29
+"### || AUTO 423 - الضحياء
+",000,False,000,False,False,False,2,25
+"### || AUTO 424 - الضيف
+",000,False,000,False,False,False,2,19
+"### || AUTO 425 - الضبيح
+",000,False,000,False,False,False,2,33
+"### || AUTO 426 - الضبيح
+",000,False,000,False,False,False,2,24
+"### || AUTO 427 - الضبيح
+",000,False,000,False,False,False,2,18
+"### || AUTO 428 - الضبيب
+",000,False,000,False,False,False,2,50
+"### || AUTO 429 - الضبيح
+",000,False,000,False,False,False,2,20
+"### | AUTO حرف الطاء
+",000,False,000,False,False,False,1,285
+"### || AUTO 438 - طلقة
+",000,False,000,False,False,False,2,39
+"### || AUTO 439 - طملال
+",000,False,000,False,False,False,2,37
+"### || AUTO 440 - الطائر
+",000,False,000,False,False,False,2,7
+"### || AUTO 441 - طريق
+",000,False,000,False,False,False,2,7
+"### | AUTO حرف الظاء
+",000,False,000,False,False,False,1,282
+"### || AUTO 447 - الظرب
+",000,False,000,False,False,False,2,55
+"### || AUTO 448 - ظبية
+",000,False,000,False,False,False,2,38
+"### | AUTO حرف العين
+",000,False,000,False,False,False,1,1831
+"### || AUTO 454 - العباية
+",000,False,000,False,False,False,2,23
+"### || AUTO 455 - العالية
+",000,False,000,False,False,False,2,18
+"### || AUTO 456 - العبيد
+",000,False,000,False,False,False,2,29
+"### || AUTO 457 - العذبات
+",000,False,000,False,False,False,2,48
+"### || AUTO 458 - العرادة
+",000,False,000,False,False,False,2,24
+"### || AUTO 459 - العرادة
+",000,False,000,False,False,False,2,18
+"### || AUTO 460 - العرادة
+",000,False,000,False,False,False,2,18
+"### || AUTO 461 - العرن
+",000,False,000,False,False,False,2,66
+"### || AUTO 462 - العروض
+",000,False,000,False,False,False,2,23
+"### || AUTO 463 - العسجدي
+",000,False,000,False,False,False,2,24
+"### || AUTO 464 - العصا
+",000,False,000,False,False,False,2,31
+"### || AUTO 465 - العصا
+",000,False,000,False,False,False,2,37
+"### || AUTO 466 - العصا
+",000,False,000,False,False,False,2,25
+"### || AUTO 467 - العصا
+",000,False,000,False,False,False,2,15
+"### || AUTO 468 - العصية
+",000,False,000,False,False,False,2,17
+"### || AUTO 469 - العصفري
+",000,False,000,False,False,False,2,11
+"### || AUTO 470 - العطاس
+",000,False,000,False,False,False,2,30
+"### || AUTO 471 - العناب
+",000,False,000,False,False,False,2,29
+"### || AUTO 472 - العفير
+",000,False,000,False,False,False,2,4
+"### || AUTO 473 - العطار
+",000,False,000,False,False,False,2,80
+"### || AUTO 474 - العنز
+",000,False,000,False,False,False,2,32
+"### || AUTO 475 - العود
+",000,False,000,False,False,False,2,11
+"### || AUTO 476 - العيار
+",000,False,000,False,False,False,2,20
+"### || AUTO 477 - العصماء
+",000,False,000,False,False,False,2,5
+"### || AUTO 478 - عجلى
+",000,False,000,False,False,False,2,19
+"### || AUTO 479 - العلاة
+",000,False,000,False,False,False,2,7
+"### || AUTO 480 - العزلاء
+",000,False,000,False,False,False,2,43
+"### || AUTO 481 - عقرب
+",000,False,000,False,False,False,2,19
+"### || AUTO 482 - علوى
+",000,False,000,False,False,False,2,20
+"### || AUTO 483 - عوسج
+",000,False,000,False,False,False,2,9
+"### || AUTO 484 - العقاب
+",000,False,000,False,False,False,2,26
+"### || AUTO 485 - العود
+",000,False,000,False,False,False,2,29
+"### || AUTO 486 - عرقوب
+",000,False,000,False,False,False,2,35
+"### || AUTO 487 - عجلى
+",000,False,000,False,False,False,2,21
+"### || AUTO 488 - عجرة
+",000,False,000,False,False,False,2,20
+"### || AUTO 489 - العصا
+",000,False,000,False,False,False,2,9
+"### || AUTO 490 - علوى
+",000,False,000,False,False,False,2,29
+"### || AUTO 491 - عريب
+",000,False,000,False,False,False,2,26
+"### || AUTO 492 - العناق
+",000,False,000,False,False,False,2,7
+"### || AUTO 493 - عراد
+",000,False,000,False,False,False,2,36
+"### || AUTO 494 - العارم
+",000,False,000,False,False,False,2,29
+"### || AUTO 495 - العرقة
+",000,False,000,False,False,False,2,8
+"### || AUTO 496 - العمرد
+",000,False,000,False,False,False,2,7
+"### || AUTO 497 - العضوض
+",000,False,000,False,False,False,2,31
+"### || AUTO 498 - العضواء
+",000,False,000,False,False,False,2,18
+"### || AUTO 499 - العود
+",000,False,000,False,False,False,2,6
+"### || AUTO 500 - عليان
+",000,False,000,False,False,False,2,7
+"### || AUTO 501 - العوجاء
+",000,False,000,False,False,False,2,8
+"### | AUTO حرف الغين
+",000,False,000,False,False,False,1,708
+"### || AUTO 517 - الغبراء
+",000,False,000,False,False,False,2,27
+"### || AUTO 518 - الغراء
+",000,False,000,False,False,False,2,24
+"### || AUTO 519 - الغراب
+",000,False,000,False,False,False,2,36
+"### || AUTO 520 - الغريب
+",000,False,000,False,False,False,2,40
+"### || AUTO 521 - الغراف
+",000,False,000,False,False,False,2,160
+"### || AUTO 522 - الغطيفي
+",000,False,000,False,False,False,2,26
+"### || AUTO 523 - غطيف
+",000,False,000,False,False,False,2,11
+"### || AUTO 524 - الغمامة
+",000,False,000,False,False,False,2,46
+"### || AUTO 525 - الغبراء
+",000,False,000,False,False,False,2,9
+"### || AUTO 526 - غضور
+",000,False,000,False,False,False,2,7
+"### || AUTO 527 - غيرة
+",000,False,000,False,False,False,2,39
+"### || AUTO 528 - غضبى
+",000,False,000,False,False,False,2,23
+"### || AUTO 529 - الغمر
+",000,False,000,False,False,False,2,33
+"### || AUTO 530 - الغزالة
+",000,False,000,False,False,False,2,9
+"### || AUTO 531 - الغراء
+",000,False,000,False,False,False,2,10
+"### || AUTO 532 - الغريرة
+",000,False,000,False,False,False,2,7
+"### || AUTO 533 - الغمامة
+",000,False,000,False,False,False,2,7
+"### || AUTO 534 - الغراب
+",000,False,000,False,False,False,2,7
+"### || AUTO 535 - غطيف
+",000,False,000,False,False,False,2,8
+"### || AUTO 536 - الغراء
+",000,False,000,False,False,False,2,7
+"### | AUTO حرف الفاء
+",000,False,000,False,False,False,1,166
+"### || AUTO 541 - الفيض
+",000,False,000,False,False,False,2,43
+"### || AUTO 542 - فياض
+",000,False,000,False,False,False,2,12
+"### || AUTO 543 - الفينان
+",000,False,000,False,False,False,2,16
+"### || AUTO 544 - الفطير
+",000,False,000,False,False,False,2,32
+"### || AUTO 545 - الفهد
+",000,False,000,False,False,False,2,7
+"### | AUTO حرف القاف
+",000,False,000,False,False,False,1,811
+"### || AUTO 547 - القتادة
+",000,False,000,False,False,False,2,9
+"### || AUTO 548 - القتادي
+",000,False,000,False,False,False,2,15
+"### || AUTO 549 - القدح
+",000,False,000,False,False,False,2,8
+"### || AUTO 550 - القريط
+",000,False,000,False,False,False,2,12
+"### || AUTO 551 - القراع
+",000,False,000,False,False,False,2,19
+"### || AUTO 552 - قرزل
+",000,False,000,False,False,False,2,22
+"### || AUTO 553 - القراقر
+",000,False,000,False,False,False,2,28
+"### || AUTO 554 - القريط
+",000,False,000,False,False,False,2,11
+"### || AUTO 555 - القصاف
+",000,False,000,False,False,False,2,31
+"### || AUTO 556 - القطران
+",000,False,000,False,False,False,2,9
+"### || AUTO 557 - القطيب
+",000,False,000,False,False,False,2,12
+"### || AUTO 558 - القعساء
+",000,False,000,False,False,False,2,30
+"### || AUTO 559 - القويس
+",000,False,000,False,False,False,2,20
+"### || AUTO 560 - قرزل
+",000,False,000,False,False,False,2,27
+"### || AUTO 561 - قسام
+",000,False,000,False,False,False,2,19
+"### || AUTO 562 - قيار
+",000,False,000,False,False,False,2,18
+"### || AUTO 563 - قيد
+",000,False,000,False,False,False,2,11
+"### || AUTO 564 - قادم
+",000,False,000,False,False,False,2,27
+"### || AUTO 565 - القطوف
+",000,False,000,False,False,False,2,25
+"### || AUTO 566 - القرحاء
+",000,False,000,False,False,False,2,76
+"### || AUTO 567 - قسام
+",000,False,000,False,False,False,2,29
+"### || AUTO 568 - قدام
+",000,False,000,False,False,False,2,28
+"### || AUTO 569 - القطران
+",000,False,000,False,False,False,2,9
+"### || AUTO 570 - القبيلة
+",000,False,000,False,False,False,2,26
+"### || AUTO 571 - القعساء
+",000,False,000,False,False,False,2,7
+"### || AUTO 572 - القرحاء
+",000,False,000,False,False,False,2,7
+"### || AUTO 573 - القراقر
+",000,False,000,False,False,False,2,11
+"### | AUTO حرف الكاف
+",000,False,000,False,False,False,1,1157
+"### || AUTO 582 - الكامل
+",000,False,000,False,False,False,2,50
+"### || AUTO 583 - كامل
+",000,False,000,False,False,False,2,34
+"### || AUTO 584 - الكاملة
+",000,False,000,False,False,False,2,153
+"### || AUTO 585 - الكلب
+",000,False,000,False,False,False,2,82
+"### || AUTO 586 - الكميت
+",000,False,000,False,False,False,2,11
+"### || AUTO 587 - الكميت
+",000,False,000,False,False,False,2,44
+"### || AUTO 588 - الكميت
+",000,False,000,False,False,False,2,18
+"### || AUTO 589 - كنزة
+",000,False,000,False,False,False,2,58
+"### || AUTO 590 - كامل
+",000,False,000,False,False,False,2,22
+"### || AUTO 591 - كامل
+",000,False,000,False,False,False,2,8
+"### || AUTO 592 - الكميت
+",000,False,000,False,False,False,2,11
+"### || AUTO 593 - الكميت
+",000,False,000,False,False,False,2,24
+"### || AUTO 594 - كزاز
+",000,False,000,False,False,False,2,58
+"### || AUTO 595 - الكرشاء
+",000,False,000,False,False,False,2,19
+"### || AUTO 596 - الكميت
+",000,False,000,False,False,False,2,29
+"### || AUTO 597 - الكميت
+",000,False,000,False,False,False,2,59
+"### || AUTO 598 - كهمس
+",000,False,000,False,False,False,2,21
+"### || AUTO 599 - الكميت
+",000,False,000,False,False,False,2,28
+"### || AUTO 600 - الكاملة
+",000,False,000,False,False,False,2,7
+"### || AUTO 601 - الكامل
+",000,False,000,False,False,False,2,21
+"### || AUTO 602 - الكامل
+",000,False,000,False,False,False,2,6
+"### || AUTO 603 - الكميت
+",000,False,000,False,False,False,2,16
+"### | AUTO حرف اللام
+",000,False,000,False,False,False,1,448
+"### || AUTO 615 - اللطيم
+",000,False,000,False,False,False,2,43
+"### || AUTO 616 - لاحق
+",000,False,000,False,False,False,2,22
+"### || AUTO 617 - لاحق الأصغر
+",000,False,000,False,False,False,2,16
+"### || AUTO 618 - لاحق
+",000,False,000,False,False,False,2,36
+"### || AUTO 619 - ولاحق أيضا
+",000,False,000,False,False,False,2,21
+"### || AUTO 620 - لازم
+",000,False,000,False,False,False,2,37
+"### || AUTO 621 - لبنى
+",000,False,000,False,False,False,2,40
+"### || AUTO 622 - اللجام
+",000,False,000,False,False,False,2,19
+"### || AUTO 623 - اللكاع
+",000,False,000,False,False,False,2,17
+"### || AUTO 624 - لاحق
+",000,False,000,False,False,False,2,7
+"### || AUTO 625 - 626 - اللحيف ولزاز
+",000,False,000,False,False,False,2,11
+"### | AUTO حرف الميم
+",000,False,000,False,False,False,1,2721
+"### || AUTO 634 - المتمطر
+",000,False,000,False,False,False,2,23
+"### || AUTO 635 - المدعاس
+",000,False,000,False,False,False,2,16
+"### || AUTO 636 - المشهور
+",000,False,000,False,False,False,2,31
+"### || AUTO 637 - المصبح
+",000,False,000,False,False,False,2,31
+"### || AUTO 638 - المعلى
+",000,False,000,False,False,False,2,29
+"### || AUTO 639 - المحلقة
+",000,False,000,False,False,False,2,10
+"### || AUTO 640 - المكسر
+",000,False,000,False,False,False,2,45
+"### || AUTO 641 - المنكدر
+",000,False,000,False,False,False,2,15
+"### || AUTO 642 - مبدوع
+",000,False,000,False,False,False,2,48
+"### || AUTO 643 - محاج
+",000,False,000,False,False,False,2,20
+"### || AUTO 644 - المحبر
+",000,False,000,False,False,False,2,74
+"### || AUTO 645 - مجلز
+",000,False,000,False,False,False,2,27
+"### || AUTO 646 - المائح
+",000,False,000,False,False,False,2,56
+"### || AUTO 647 - منشال
+",000,False,000,False,False,False,2,14
+"### || AUTO 648 - مذهب
+",000,False,000,False,False,False,2,19
+"### || AUTO 649 - مسمار
+",000,False,000,False,False,False,2,15
+"### || AUTO 650 - مصاد
+",000,False,000,False,False,False,2,45
+"### || AUTO 651 - معروف
+",000,False,000,False,False,False,2,35
+"### || AUTO 652 - مكتوم
+",000,False,000,False,False,False,2,19
+"### || AUTO 653 - المرتجز
+",000,False,000,False,False,False,2,26
+"### || AUTO 654 - مناهب
+",000,False,000,False,False,False,2,23
+"### || AUTO 655 - المصك
+",000,False,000,False,False,False,2,12
+"### || AUTO 656 - منحاز
+",000,False,000,False,False,False,2,29
+"### || AUTO 657 - مندوب
+",000,False,000,False,False,False,2,72
+"### || AUTO 658 - مزلق
+",000,False,000,False,False,False,2,8
+"### || AUTO 659 - مودون
+",000,False,000,False,False,False,2,24
+"### || AUTO 660 - موكل
+",000,False,000,False,False,False,2,29
+"### || AUTO 661 - مردود
+",000,False,000,False,False,False,2,35
+"### || AUTO 662 - مياس
+",000,False,000,False,False,False,2,37
+"### || AUTO 663 - محلاج
+",000,False,000,False,False,False,2,11
+"### || AUTO 664 - المضيح
+",000,False,000,False,False,False,2,29
+"### || AUTO 665 - المجذام
+",000,False,000,False,False,False,2,39
+"### || AUTO 666 - المتهجر
+",000,False,000,False,False,False,2,17
+"### || AUTO 667 - مسفوح
+",000,False,000,False,False,False,2,33
+"### || AUTO 668 - المنيح
+",000,False,000,False,False,False,2,51
+"### || AUTO 669 - المتمهل
+",000,False,000,False,False,False,2,7
+"### || AUTO 670 - مودوع
+",000,False,000,False,False,False,2,30
+"### || AUTO 671 - منهب
+",000,False,000,False,False,False,2,36
+"### || AUTO 672 - الموسوم
+",000,False,000,False,False,False,2,23
+"### || AUTO 673 - ميار
+",000,False,000,False,False,False,2,43
+"### || CHECK 675 - 676 - مزنوق ومساور
+",000,False,000,False,False,False,2,5
+"### || AUTO 674 - مكحول
+",000,False,000,False,False,False,2,30
+"### || AUTO 677 - المسنون
+",000,False,000,False,False,False,2,7
+"### || AUTO 678 - مندوب
+",000,False,000,False,False,False,2,11
+"### || AUTO 679 - مرهوب
+",000,False,000,False,False,False,2,115
+"### || AUTO 680 - مخالس
+",000,False,000,False,False,False,2,11
+"### || AUTO 681 - معروف
+",000,False,000,False,False,False,2,7
+"### || AUTO 682 - المنيحة
+",000,False,000,False,False,False,2,17
+"### || AUTO 683 - المنكدر
+",000,False,000,False,False,False,2,12
+"### || AUTO 684 - مطامير
+",000,False,000,False,False,False,2,7
+"### || AUTO 685 - المتفجر
+",000,False,000,False,False,False,2,17
+"### || AUTO 686 - مألوق
+",000,False,000,False,False,False,2,8
+"### || AUTO 687 - محراث
+",000,False,000,False,False,False,2,20
+"### || AUTO 688 - المشبه
+",000,False,000,False,False,False,2,8
+"### || AUTO 689 - المعلى
+",000,False,000,False,False,False,2,8
+"### || AUTO 690 - المعجاز
+",000,False,000,False,False,False,2,18
+"### || AUTO 691 - مزاحم
+",000,False,000,False,False,False,2,11
+"### | AUTO حرف النون
+",000,False,000,False,False,False,1,900
+"### || AUTO 727 - النحام
+",000,False,000,False,False,False,2,37
+"### || AUTO 728 - النعامة
+",000,False,000,False,False,False,2,17
+"### || AUTO 729 - النعامة
+",000,False,000,False,False,False,2,37
+"### || AUTO 730 - النعامة
+",000,False,000,False,False,False,2,72
+"### || AUTO 731 - النعامة
+",000,False,000,False,False,False,2,38
+"### || AUTO 732 - ناتل
+",000,False,000,False,False,False,2,24
+"### || AUTO 733 - النبيز
+",000,False,000,False,False,False,2,90
+"### || AUTO 734 - ناصح
+",000,False,000,False,False,False,2,39
+"### || AUTO 735 - نباك
+",000,False,000,False,False,False,2,24
+"### || AUTO 736 - النعامة
+",000,False,000,False,False,False,2,19
+"### || AUTO 737 - ناعق
+",000,False,000,False,False,False,2,11
+"### || AUTO 738 - نحلة
+",000,False,000,False,False,False,2,10
+"### || AUTO 739 - نحلة
+",000,False,000,False,False,False,2,58
+"### || AUTO 740 - النعامة
+",000,False,000,False,False,False,2,67
+"### || AUTO 741 - نصاب
+",000,False,000,False,False,False,2,77
+"### || AUTO 742 - ناصح
+",000,False,000,False,False,False,2,8
+"### || AUTO 743 - الناصب
+",000,False,000,False,False,False,2,6
+"### || AUTO 744 - نهاب
+",000,False,000,False,False,False,2,8
+"### || AUTO 745 - النعامة
+",000,False,000,False,False,False,2,5
+"### || AUTO 746 - النهام
+",000,False,000,False,False,False,2,20
+"### | AUTO حرف الواو
+",000,False,000,False,False,False,1,1509
+"### || AUTO 757 - الوجيه
+",000,False,000,False,False,False,2,19
+"### || AUTO 758 - الوحيف
+",000,False,000,False,False,False,2,48
+"### || AUTO 759 - الورد
+",000,False,000,False,False,False,2,17
+"### || AUTO 760 - الورد
+",000,False,000,False,False,False,2,69
+"### || AUTO 761 - الورد
+",000,False,000,False,False,False,2,37
+"### || AUTO 762 - الورد
+",000,False,000,False,False,False,2,22
+"### || AUTO 763 - الورهاء
+",000,False,000,False,False,False,2,22
+"### || AUTO 764 - الورهاء
+",000,False,000,False,False,False,2,29
+"### || AUTO 765 - الوريعة
+",000,False,000,False,False,False,2,21
+"### || AUTO 766 - الوشيك
+",000,False,000,False,False,False,2,11
+"### || AUTO 767 - وجزة
+",000,False,000,False,False,False,2,31
+"### || AUTO 768 - وحفة
+",000,False,000,False,False,False,2,21
+"### || AUTO 769 - الورد
+",000,False,000,False,False,False,2,20
+"### || AUTO 770 - الورد
+",000,False,000,False,False,False,2,17
+"### || AUTO 771 - الورد
+",000,False,000,False,False,False,2,17
+"### || AUTO 772 - الوجيه
+",000,False,000,False,False,False,2,22
+"### || AUTO 773 - الوالقي
+",000,False,000,False,False,False,2,15
+"### || AUTO 774 - الورد
+",000,False,000,False,False,False,2,50
+"### || AUTO 775 - الورد
+",000,False,000,False,False,False,2,46
+"### || AUTO 776 - الورد
+",000,False,000,False,False,False,2,15
+"### || AUTO 777 - الورد
+",000,False,000,False,False,False,2,67
+"### || AUTO 778 - الورد
+",000,False,000,False,False,False,2,47
+"### || AUTO 779 - الورد
+",000,False,000,False,False,False,2,30
+"### || AUTO 780 - الورد
+",000,False,000,False,False,False,2,35
+"### || AUTO 781 - الورد
+",000,False,000,False,False,False,2,34
+"### || AUTO 782 - الورد
+",000,False,000,False,False,False,2,29
+"### || AUTO 783 - الورد
+",000,False,000,False,False,False,2,17
+"### || AUTO 784 - الورد
+",000,False,000,False,False,False,2,26
+"### || AUTO 785 - الورد
+",000,False,000,False,False,False,2,27
+"### || AUTO 786 - الورد
+",000,False,000,False,False,False,2,30
+"### || AUTO 787 - الورد
+",000,False,000,False,False,False,2,6
+"### || AUTO 788 - الورد
+",000,False,000,False,False,False,2,6
+"### || AUTO 789 - الورد
+",000,False,000,False,False,False,2,17
+"### || AUTO 790 - الورد
+",000,False,000,False,False,False,2,26
+"### | AUTO حرف الهاء
+",000,False,000,False,False,False,1,509
+"### || AUTO 806 - الهجيسي
+",000,False,000,False,False,False,2,5
+"### || AUTO 807 - الهداج
+",000,False,000,False,False,False,2,7
+"### || AUTO 808 - هداج
+",000,False,000,False,False,False,2,28
+"### || AUTO 809 - الهذلول
+",000,False,000,False,False,False,2,11
+"### || AUTO 810 - الهراوة
+",000,False,000,False,False,False,2,135
+"### || AUTO 811 - الهرار
+",000,False,000,False,False,False,2,20
+"### || AUTO 812 - الهطال
+",000,False,000,False,False,False,2,16
+"### || AUTO 813 - هبود
+",000,False,000,False,False,False,2,27
+"### || AUTO 814 - هجل
+",000,False,000,False,False,False,2,8
+"### || AUTO 815 - هلاب
+",000,False,000,False,False,False,2,19
+"### || AUTO 816 - هيفاء
+",000,False,000,False,False,False,2,9
+"### || AUTO 817 - هذلول
+",000,False,000,False,False,False,2,8
+"### | AUTO حرف الياء
+",000,False,000,False,False,False,1,353
+"### || AUTO 824 - اليحموم
+",000,False,000,False,False,False,2,13
+"### || AUTO 825 - اليحموم
+",000,False,000,False,False,False,2,17
+"### || AUTO 826 - اليحموم
+",000,False,000,False,False,False,2,11
+"### || AUTO 827 - اليحموم
+",000,False,000,False,False,False,2,23
+"### || AUTO 828 - يعبوب
+",000,False,000,False,False,False,2,12
+"### || AUTO 829 - اليسير
+",000,False,000,False,False,False,2,37
+"### || AUTO 830 - اليعبوب
+",000,False,000,False,False,False,2,40
+"### || AUTO 831 - اليعسوب
+",000,False,000,False,False,False,2,27
+"### || AUTO 832 - يسار
+",000,False,000,False,False,False,2,31
+"### || AUTO 833 - يافع
+",000,False,000,False,False,False,2,28
+"### || AUTO 834 - يسار
+",000,False,000,False,False,False,2,27
+"### || AUTO 835 - اليعبوب
+",000,False,000,False,False,False,2,6
+"### || AUTO 836 - اليعسوب
+",000,False,000,False,False,False,2,33
+"### | AUTO المصادر والمراجع
+",000,False,000,False,False,False,1,21559
+"### || AUTO مصادر الخيل المطبوعة
+",000,False,000,False,False,False,2,143
+"### || AUTO مصادر الخيل المخطوطة
+",000,False,000,False,False,False,2,16
+"### || AUTO المصادر القديمة
+",000,False,000,False,False,False,2,656

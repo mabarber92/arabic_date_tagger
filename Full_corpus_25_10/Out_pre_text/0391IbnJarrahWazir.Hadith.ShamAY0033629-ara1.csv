@@ -1,0 +1,17 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK [الغلاف]
+",000,False,000,False,False,False,1,89
+"### | AUTO بسم الله الرحمن الرحيم
+",000,False,000,False,False,False,1,1303
+"### | AUTO مجلس ثامن مجلس يوم الاثنين الثامن من ذي الحجة سنة تسع وثمانين
+",089,year,000,False,089,302,1,921
+"### | AUTO مجلس يوم الاثنين على الولاء من ذي الحجة سنة تسع وثمانين
+",089,year,000,False,089,302,1,1038
+"### | AUTO المجلس العاشر
+",000,False,000,False,False,False,1,1376
+"### | AUTO المجلس الحادي عشر
+",000,False,000,False,False,False,1,1251
+"### | AUTO المجلس الثاني عشر
+",000,False,000,False,False,False,1,1095
+"### | AUTO المجلس الثالث عشر
+",000,False,000,False,False,False,1,1350

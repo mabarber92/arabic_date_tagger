@@ -1,0 +1,193 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO متن الأزهار
+",000,False,000,False,False,False,1,30704
+"### || AUTO مقدمة لا يسع المقلد جهلها.
+",000,False,000,False,False,False,2,308
+"### || AUTO كتاب الطهارة
+",000,False,000,False,False,False,2,1463
+"### ||| AUTO (8) باب النجاسات:
+",000,False,000,False,False,False,3,218
+"### ||| AUTO باب المياه:
+",000,False,000,False,False,False,3,145
+"### ||| AUTO (14) باب في آداب قضاء الحاجة
+",000,False,000,False,False,False,3,91
+"### ||| AUTO (15) باب الوضوء
+",000,False,000,False,False,False,3,257
+"### ||| AUTO باب الغسل :
+",000,False,000,False,False,False,3,157
+"### ||| AUTO باب التيمم:
+",000,False,000,False,False,False,3,306
+"### || AUTO كتاب الصلاة.
+",000,False,000,False,False,False,2,2276
+"### ||| AUTO (39) باب الأوقات
+",000,False,000,False,False,False,3,135
+"### ||| AUTO (41) باب الأذان والإقامة
+",000,False,000,False,False,False,3,99
+"### ||| AUTO (44) باب صفة الصلاة
+",000,False,000,False,False,False,3,428
+"### ||| AUTO (49) باب: وصلاة الجماعة
+",000,False,000,False,False,False,3,359
+"### ||| AUTO (56) باب: وسجود السهو
+",000,False,000,False,False,False,3,227
+"### ||| AUTO (59) باب والقضاء
+",000,False,000,False,False,False,3,94
+"### ||| AUTO (61) باب وصلاة الجمعة
+",000,False,000,False,False,False,3,184
+"### ||| AUTO (63) باب صلاة السفر
+",000,False,000,False,False,False,3,117
+"### ||| AUTO (66) باب صلاة الخوف
+",000,False,000,False,False,False,3,94
+"### ||| AUTO (68) باب صلاة العيد
+",000,False,000,False,False,False,3,112
+"### || AUTO كتاب الجنائز
+",000,False,000,False,False,False,2,528
+"### || AUTO كتاب الزكاة
+",000,False,000,False,False,False,2,1186
+"### ||| AUTO (84) باب في زكاة الذهب والفضة
+",000,False,000,False,False,False,3,171
+"### ||| AUTO (88) باب زكاة الإبل
+",000,False,000,False,False,False,3,79
+"### ||| AUTO (89) باب زكاة البقر
+",000,False,000,False,False,False,3,36
+"### ||| AUTO (90) باب زكاة الغنم
+",000,False,000,False,False,False,3,89
+"### ||| AUTO (92) باب زكاة ما أخرجت الأرض
+",000,False,000,False,False,False,3,128
+"### ||| AUTO (93) باب من تصرف فيه الزكاة
+",000,False,000,False,False,False,3,407
+"### || AUTO كتاب الخمس.
+",000,False,000,False,False,False,2,338
+"### || AUTO (105) كتاب الصيام
+",000,False,000,False,False,False,2,558
+"### ||| AUTO (111) باب وشروط النذر بالصوم
+",000,False,000,False,False,False,3,107
+"### || AUTO كتاب الحج
+",000,False,000,False,False,False,2,1767
+"### ||| AUTO (126) باب والمتمتع
+",000,False,000,False,False,False,3,143
+"### || AUTO كتاب النكاح
+",000,False,000,False,False,False,2,1731
+"### ||| AUTO الاختلاف بين الزوجين
+",000,False,000,False,False,False,3,99
+"### ||| AUTO (159) باب وعلى واهب الأمة:
+",000,False,000,False,False,False,3,182
+"### || AUTO (166) كتاب الطلاق
+",000,False,000,False,False,False,2,2317
+"### ||| AUTO (171) باب الخلع
+",000,False,000,False,False,False,3,291
+"### ||| AUTO (176) باب العدة
+",000,False,000,False,False,False,3,429
+"### ||| AUTO باب الظهار
+",000,False,000,False,False,False,3,181
+"### ||| AUTO باب الإيلاء
+",000,False,000,False,False,False,3,107
+"### ||| AUTO باب اللعان
+",000,False,000,False,False,False,3,188
+"### ||| AUTO (187) باب الحضانة
+",000,False,000,False,False,False,3,196
+"### ||| AUTO باب النفقات
+",000,False,000,False,False,False,3,300
+"### || AUTO كتاب البيع
+",000,False,000,False,False,False,2,3118
+"### ||| AUTO باب الشروط المقارنة للعقد
+",000,False,000,False,False,False,3,176
+"### ||| AUTO باب الربويات
+",000,False,000,False,False,False,3,203
+"### ||| AUTO (207) باب الخيارات.
+",000,False,000,False,False,False,3,552
+"### ||| AUTO باب ما يدخل في المبيع وتلفه واستحقاقه
+",000,False,000,False,False,False,3,263
+"### ||| AUTO باب البيع غير الصحيح
+",000,False,000,False,False,False,3,125
+"### ||| AUTO باب المأذون
+",000,False,000,False,False,False,3,177
+"### ||| AUTO (224) باب المرابحة
+",000,False,000,False,False,False,3,129
+"### ||| AUTO (227) باب الإقالة
+",000,False,000,False,False,False,3,61
+"### ||| AUTO (228) باب القرض
+",000,False,000,False,False,False,3,175
+"### ||| AUTO (233) باب الصرف
+",000,False,000,False,False,False,3,150
+"### || AUTO كتاب الشفعة
+",000,False,000,False,False,False,2,473
+"### || AUTO كتاب الإجارة
+",000,False,000,False,False,False,2,1514
+"### ||| AUTO باب إجارة الآدميين
+",000,False,000,False,False,False,3,560
+"### ||| AUTO باب المزارعة
+",000,False,000,False,False,False,3,140
+"### ||| AUTO باب الإحياء والتحجر
+",000,False,000,False,False,False,3,144
+"### || AUTO (270) كتاب الشركة
+",000,False,000,False,False,False,2,746
+"### ||| AUTO باب شركة الأملاك
+",000,False,000,False,False,False,3,337
+"### || AUTO (282) كتاب الرهن
+",000,False,000,False,False,False,2,394
+"### || AUTO (287) كتاب العارية
+",000,False,000,False,False,False,2,133
+"### || AUTO كتاب الهبة
+",000,False,000,False,False,False,2,264
+"### || AUTO كتاب الوقف
+",000,False,000,False,False,False,2,699
+"### || AUTO (304) كتاب الوديعة
+",000,False,000,False,False,False,2,137
+"### || AUTO (305) كتاب الغصب.
+",000,False,000,False,False,False,2,561
+"### || AUTO كتاب العتق
+",000,False,000,False,False,False,2,759
+"### ||| AUTO (319) باب والتدبير
+",000,False,000,False,False,False,3,74
+"### ||| AUTO باب والكتابة
+",000,False,000,False,False,False,3,171
+"### || AUTO كتاب الأيمان
+",000,False,000,False,False,False,2,1660
+"### ||| AUTO (329) باب والكفارة
+",000,False,000,False,False,False,3,160
+"### ||| AUTO (330) باب النذر
+",000,False,000,False,False,False,3,191
+"### ||| AUTO باب الضالة واللقطة واللقيط
+",000,False,000,False,False,False,3,160
+"### ||| AUTO باب الصيد
+",000,False,000,False,False,False,3,100
+"### ||| AUTO باب الذبح
+",000,False,000,False,False,False,3,72
+"### ||| AUTO (336) باب والأضحية
+",000,False,000,False,False,False,3,149
+"### ||| AUTO باب الأطعمة والأشربة
+",000,False,000,False,False,False,3,167
+"### || AUTO كتاب الدعاوى
+",000,False,000,False,False,False,2,546
+"### || AUTO كتاب الإقرار
+",000,False,000,False,False,False,2,433
+"### || AUTO كتاب الشهادات
+",000,False,000,False,False,False,2,765
+"### || AUTO كتاب الوكالة
+",000,False,000,False,False,False,2,1694
+"### ||| AUTO (385) باب ms087 الكفالة
+",000,False,000,False,False,False,3,227
+"### ||| AUTO (390) باب الحوالة
+",000,False,000,False,False,False,3,94
+"### ||| AUTO (392) باب التفليس
+",000,False,000,False,False,False,3,141
+"### ||| AUTO باب الحجر
+",000,False,000,False,False,False,3,114
+"### ||| AUTO (396) باب الصلح
+",000,False,000,False,False,False,3,94
+"### ||| AUTO (398) باب الإبراء
+",000,False,000,False,False,False,3,88
+"### ||| AUTO (400) باب الإكراه
+",000,False,000,False,False,False,3,43
+"### || AUTO كتاب الحدود
+",000,False,000,False,False,False,2,828
+"### ||| AUTO (410) باب حد القذف
+",000,False,000,False,False,False,3,134
+"### ||| AUTO (411) باب حد الشرب
+",000,False,000,False,False,False,3,41
+"### || AUTO كتاب الجنايات
+",000,False,000,False,False,False,2,1492
+"### ||| AUTO باب الديات
+",000,False,000,False,False,False,3,315
+"### || AUTO كتاب الوصايا
+",000,False,000,False,False,False,2,646

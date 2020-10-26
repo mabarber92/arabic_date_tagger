@@ -1,0 +1,473 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | حرف الألف
+",000,False,000,False,False,False,1,28286
+"### || من اسمه أحمد
+",000,False,000,False,False,False,2,16904
+"### || من اسمه إبراهيم
+",000,False,000,False,False,False,2,2232
+"### || من اسمه إسماعيل
+",000,False,000,False,False,False,2,6173
+"### || من اسمه أسعد
+",000,False,000,False,False,False,2,1870
+"### || من اسمه إسحاق
+",000,False,000,False,False,False,2,362
+"### || من اسمه إدريس
+",000,False,000,False,False,False,2,182
+"### | حرف الباء
+",000,False,000,False,False,False,1,3013
+"### || من اسمه بختيار
+",000,False,000,False,False,False,2,337
+"### || من اسمه بدر
+",000,False,000,False,False,False,2,187
+"### || من اسمه بدل، وبزيادة الياء أيضا وهو بديل
+",000,False,000,False,False,False,2,487
+"### || من اسمه بركات
+",000,False,000,False,False,False,2,175
+"### || من اسمه بكر
+",000,False,000,False,False,False,2,1017
+"### || من اسمه بندار
+",000,False,000,False,False,False,2,365
+"### | حرف التاء
+",000,False,000,False,False,False,1,785
+"### || من اسمه تميم
+",000,False,000,False,False,False,2,723
+"### | حرف الثاء
+",000,False,000,False,False,False,1,845
+"### || من اسمه ثابت
+",000,False,000,False,False,False,2,584
+"### || من اسمه ثامر
+",000,False,000,False,False,False,2,190
+"### | حرف الجيم
+",000,False,000,False,False,False,1,3906
+"### || من اسمه جابر
+",000,False,000,False,False,False,2,626
+"### || من اسمه جامع
+",000,False,000,False,False,False,2,796
+"### || من اسمه جعفر
+",000,False,000,False,False,False,2,1003
+"### || من اسمه الجنيد
+",000,False,000,False,False,False,2,961
+"### | حرف الحاء
+",000,False,000,False,False,False,1,18756
+"### || من اسمه الحسن
+",000,False,000,False,False,False,2,10297
+"### || من اسمه الحسين
+",000,False,000,False,False,False,2,5502
+"### || 
+",000,False,000,False,False,False,2,185
+"### || من اسمه حسان
+",000,False,000,False,False,False,2,149
+"### || من اسمه حمد
+",000,False,000,False,False,False,2,966
+"### || من اسمه حمزة
+",000,False,000,False,False,False,2,1237
+"### || من اسمه حيدر
+",000,False,000,False,False,False,2,217
+"### | حرف الخاء
+",000,False,000,False,False,False,1,1818
+"### || من اسمه خالد
+",000,False,000,False,False,False,2,348
+"### || من اسمه الخضر
+",000,False,000,False,False,False,2,255
+"### || من اسمه خلف
+",000,False,000,False,False,False,2,471
+"### || من اسمه الخليل
+",000,False,000,False,False,False,2,211
+"### || من اسمه خمارتاش
+",000,False,000,False,False,False,2,96
+"### || من اسمه خليفة
+",000,False,000,False,False,False,2,121
+"### | حرف الدال
+",000,False,000,False,False,False,1,376
+"### || من اسمه داود
+",000,False,000,False,False,False,2,279
+"### | حرف الذال
+",000,False,000,False,False,False,1,563
+"### || من اسمه ذاكر
+",000,False,000,False,False,False,2,280
+"### | حرف الراء ms206
+",000,False,000,False,False,False,1,1155
+"### || من اسمه راشد
+",000,False,000,False,False,False,2,93
+"### || من اسمه رجاء
+",000,False,000,False,False,False,2,236
+"### || من اسمه رزق الله
+",000,False,000,False,False,False,2,143
+"### || 
+",000,False,000,False,False,False,2,180
+"### || 
+",000,False,000,False,False,False,2,228
+"### | حرف الزاي
+",000,False,000,False,False,False,1,949
+"### || من اسمه زاهر
+",000,False,000,False,False,False,2,127
+"### || من اسمه زياد
+",000,False,000,False,False,False,2,48
+"### || من اسمه زيد
+",000,False,000,False,False,False,2,449
+"### || من اسمه زكريا
+",000,False,000,False,False,False,2,159
+"### | حرف السين
+",000,False,000,False,False,False,1,6863
+"### || من اسمه سالم
+",000,False,000,False,False,False,2,164
+"### || من اسمه سعد
+",000,False,000,False,False,False,2,1397
+"### || من اسمه سعيد
+",000,False,000,False,False,False,2,3203
+"### || من اسمه سليمان
+",000,False,000,False,False,False,2,304
+"### || 
+",000,False,000,False,False,False,2,159
+"### || من اسمه سهل
+",000,False,000,False,False,False,2,1304
+"### | حرف الشين
+",000,False,000,False,False,False,1,1764
+"### || من اسمه شاكر
+",000,False,000,False,False,False,2,149
+"### || 
+",000,False,000,False,False,False,2,296
+"### | حرف الصاد
+",000,False,000,False,False,False,1,1302
+"### || من اسمه صاعد
+",000,False,000,False,False,False,2,971
+"### || من ms246 اسمه صالح
+",000,False,000,False,False,False,2,130
+"### | حرف الضاد
+",000,False,000,False,False,False,1,202
+"### || من اسمه الضحاك
+",000,False,000,False,False,False,2,140
+"### | حرف الطاء
+",000,False,000,False,False,False,1,1552
+"### || من اسمه طاهر
+",000,False,000,False,False,False,2,491
+"### || من اسمه طلحة
+",000,False,000,False,False,False,2,569
+"### || من اسمه الطيب
+",000,False,000,False,False,False,2,242
+"### | حرف الظاء
+",000,False,000,False,False,False,1,508
+"### || من اسمه ظفر
+",000,False,000,False,False,False,2,242
+"### || من اسمه ظهير
+",000,False,000,False,False,False,2,71
+"### | حرف العين
+",000,False,000,False,False,False,1,39898
+"### || من اسمه عبد الله
+",000,False,000,False,False,False,2,3728
+"### || من اسمه عبيد الله
+",000,False,000,False,False,False,2,1527
+"### || من اسمه عبد الرحمن
+",000,False,000,False,False,False,2,5064
+"### || من اسمه عبد الرحيم
+",000,False,000,False,False,False,2,552
+"### || من اسمه عبد الأعلى
+",000,False,000,False,False,False,2,156
+"### || من اسمه عبد الباقي
+",000,False,000,False,False,False,2,130
+"### || من ms293 اسمه عبد الجبار
+",000,False,000,False,False,False,2,1390
+"### || من اسمه عبد الجليل
+",000,False,000,False,False,False,2,440
+"### || من اسمه عبد الحميد
+",000,False,000,False,False,False,2,333
+"### || من اسمه عبد الخالق
+",000,False,000,False,False,False,2,405
+"### || من اسمه عبد الرزاق غير مرتب
+",000,False,000,False,False,False,2,560
+"### || من اسمه عبد الرشيد
+",000,False,000,False,False,False,2,524
+"### || من اسمه عبد السلام
+",000,False,000,False,False,False,2,756
+"### || من ms308 اسمه عبد السميع
+",000,False,000,False,False,False,2,54
+"### || من اسمه عبد السيد
+",000,False,000,False,False,False,2,198
+"### || من اسمه عبد الصمد
+",000,False,000,False,False,False,2,1259
+"### || من اسمه عبد العزيز
+",000,False,000,False,False,False,2,316
+"### || من اسمه عبد الغفار
+",000,False,000,False,False,False,2,545
+"### || من اسمه عبد الغني
+",000,False,000,False,False,False,2,71
+"### || من اسمه عبد الفتاح
+",000,False,000,False,False,False,2,280
+"### || من اسمه عبد القادر
+",000,False,000,False,False,False,2,213
+"### || من اسمه عبد الكريم
+",000,False,000,False,False,False,2,1493
+"### || من اسمه عبد اللطيف
+",000,False,000,False,False,False,2,93
+"### || من اسمه عبد المجيد
+",000,False,000,False,False,False,2,115
+"### || من اسمه عبد المعز
+",000,False,000,False,False,False,2,282
+"### || من اسمه عبد المغيث
+",000,False,000,False,False,False,2,150
+"### || من اسمه عبد الملك
+",000,False,000,False,False,False,2,1198
+"### || من اسمه عبد المنعم
+",000,False,000,False,False,False,2,236
+"### || 
+",000,False,000,False,False,False,2,103
+"### || من اسمه عبد الواحد
+",000,False,000,False,False,False,2,590
+"### || من اسمه عبد الواسع
+",000,False,000,False,False,False,2,387
+"### || من اسمه عبد الوهاب
+",000,False,000,False,False,False,2,699
+"### || مفاريد الأسماء في عبيد الله
+",000,False,000,False,False,False,2,920
+"### || الأسماء على التعبيد من غير اسم الله
+",000,False,000,False,False,False,2,468
+"### ||| من اسمه عباد
+",000,False,000,False,False,False,3,254
+"### || من اسمه عمر
+",000,False,000,False,False,False,2,3841
+"### || من اسمه عثمان
+",000,False,000,False,False,False,2,2006
+"### || من اسمه علي
+",000,False,000,False,False,False,2,5982
+"### || من اسمه العباس
+",000,False,000,False,False,False,2,269
+"### || من اسمه عرفة
+",000,False,000,False,False,False,2,83
+"### || من اسمه عتيق
+",000,False,000,False,False,False,2,723
+"### || من ms385 اسمه عيسى
+",000,False,000,False,False,False,2,278
+"### | ومن حرف الفاء
+",000,False,000,False,False,False,1,2290
+"### || من اسمه فضل الله
+",000,False,000,False,False,False,2,885
+"### || من اسمه فضائل
+",000,False,000,False,False,False,2,88
+"### || من اسمه الفتح
+",000,False,000,False,False,False,2,216
+"### | حرف القاف
+",000,False,000,False,False,False,1,340
+"### | حرف الكاف
+",000,False,000,False,False,False,1,254
+"### || من اسمه كامل
+",000,False,000,False,False,False,2,161
+"### | حرف اللام
+",000,False,000,False,False,False,1,399
+"### || من اسمه الليث
+",000,False,000,False,False,False,2,249
+"### | حرف الميم
+",000,False,000,False,False,False,1,47045
+"### || من اسمه محمد
+",000,False,000,False,False,False,2,35048
+"### ||| 
+",000,False,000,False,False,False,3,6790
+"### |||| من اسمه محمد واسم أبيه إبراهيم
+",000,False,000,False,False,False,4,982
+"### |||| من اسمه محمد، واسم أبيه أحمد
+",000,False,000,False,False,False,4,5500
+"### ||| حرف الباء في آباء المحمدين
+",000,False,000,False,False,False,3,366
+"### ||| حرف الجيم في آبائهم
+",000,False,000,False,False,False,3,205
+"### ||| 
+",000,False,000,False,False,False,3,3684
+"### |||| من اسمه محمد واسم أبيه الحسن
+",000,False,000,False,False,False,4,3135
+"### ||| حرف الدال
+",000,False,000,False,False,False,3,199
+"### ||| 
+",000,False,000,False,False,False,3,79
+"### ||| 
+",000,False,000,False,False,False,3,687
+"### |||| 
+",000,False,000,False,False,False,4,162
+"### ||| 
+",000,False,000,False,False,False,3,336
+"### ||| 
+",000,False,000,False,False,False,3,48
+"### ||| حرف الطاء
+",000,False,000,False,False,False,3,250
+"### ||| حرف الظاء
+",000,False,000,False,False,False,3,170
+"### ||| 
+",000,False,000,False,False,False,3,11018
+"### |||| 
+",000,False,000,False,False,False,4,1409
+"### |||| محمد بن عبيد الله
+",000,False,000,False,False,False,4,76
+"### |||| 
+",000,False,000,False,False,False,4,1524
+"### |||| محمد بن عبد الخالق
+",000,False,000,False,False,False,4,129
+"### |||| محمد بن عبد الحميد
+",000,False,000,False,False,False,4,112
+"### |||| محمد بن عبد الصمد
+",000,False,000,False,False,False,4,270
+"### |||| محمد بن عبد الغفار
+",000,False,000,False,False,False,4,171
+"### |||| محمد بن عبد الكريم
+",000,False,000,False,False,False,4,148
+"### |||| محمد بن عبد الواحد
+",000,False,000,False,False,False,4,1179
+"### |||| محمد بن عمر
+",000,False,000,False,False,False,4,943
+"### |||| 
+",000,False,000,False,False,False,4,4531
+"### ||| 
+",000,False,000,False,False,False,3,1594
+"### |||| 
+",000,False,000,False,False,False,4,1200
+"### ||| 
+",000,False,000,False,False,False,3,707
+"### ||| 
+",000,False,000,False,False,False,3,5161
+"### |||| 
+",000,False,000,False,False,False,4,3339
+"### |||| 
+",000,False,000,False,False,False,4,225
+"### |||| محمد بن معمر
+",000,False,000,False,False,False,4,62
+"### |||| محمد بن المفضل
+",000,False,000,False,False,False,4,392
+"### |||| محمد بن منصور
+",000,False,000,False,False,False,4,335
+"### |||| محمد بن الموفق
+",000,False,000,False,False,False,4,101
+"### |||| محمد بن ناصر
+",000,False,000,False,False,False,4,145
+"### ||| 
+",000,False,000,False,False,False,3,698
+"### |||| محمد بن هبة الله
+",000,False,000,False,False,False,4,580
+"### ||| 
+",000,False,000,False,False,False,3,576
+"### |||| 
+",000,False,000,False,False,False,4,516
+"### || من اسمه مأمون
+",000,False,000,False,False,False,2,110
+"### || من اسمه المحسن
+",000,False,000,False,False,False,2,181
+"### || من اسمه محمود
+",000,False,000,False,False,False,2,3740
+"### || من اسمه المختار
+",000,False,000,False,False,False,2,174
+"### || من اسمه المرتضى
+",000,False,000,False,False,False,2,251
+"### || من اسمه مسعود
+",000,False,000,False,False,False,2,2431
+"### || من اسمه مصعب
+",000,False,000,False,False,False,2,222
+"### || من اسمه المطهر
+",000,False,000,False,False,False,2,443
+"### || من اسمه معمر
+",000,False,000,False,False,False,2,94
+"### || من اسمه المفرج
+",000,False,000,False,False,False,2,55
+"### || من اسمه المفضل
+",000,False,000,False,False,False,2,108
+"### || من اسمه مكرم
+",000,False,000,False,False,False,2,182
+"### || من اسمه مكي
+",000,False,000,False,False,False,2,93
+"### || من اسمه منصور
+",000,False,000,False,False,False,2,2023
+"### || 
+",000,False,000,False,False,False,2,279
+"### || من اسمه المؤيد
+",000,False,000,False,False,False,2,237
+"### || من اسمه ميمون
+",000,False,000,False,False,False,2,136
+"### | حرف النون
+",000,False,000,False,False,False,1,2704
+"### || من اسمه ناصر
+",000,False,000,False,False,False,2,978
+"### || من اسمه نصر
+",000,False,000,False,False,False,2,980
+"### || 
+",000,False,000,False,False,False,2,233
+"### || من اسمه نوح
+",000,False,000,False,False,False,2,83
+"### || من اسمه نوشتكين
+",000,False,000,False,False,False,2,86
+"### | حرف الواو
+",000,False,000,False,False,False,1,616
+"### || من اسمه واضح
+",000,False,000,False,False,False,2,285
+"### || من اسمه وهب الله
+",000,False,000,False,False,False,2,156
+"### | حرف الهاء
+",000,False,000,False,False,False,1,3064
+"### || من اسمه هلال
+",000,False,000,False,False,False,2,222
+"### || من اسمه الهيثم
+",000,False,000,False,False,False,2,271
+"### | حرف اللام
+",000,False,000,False,False,False,1,194
+"### || من اسمه لاحق
+",000,False,000,False,False,False,2,58
+"### | حرف الياء
+",000,False,000,False,False,False,1,3584
+"### || من اسمه يحيى
+",000,False,000,False,False,False,2,2085
+"### || من اسمه يوسف
+",000,False,000,False,False,False,2,1406
+"### | من اشتهر بالكنية ولم أعرف اسمه
+",000,False,000,False,False,False,1,154
+"### | النسوة اللواتي كتبت عنهن رتبت أسماءهن على حروف المعجم
+",000,False,000,False,False,False,1,6144
+"### || حرف الألف
+",000,False,000,False,False,False,2,224
+"### ||| من اسمها آمنة
+",000,False,000,False,False,False,3,143
+"### || حرف التاء
+",000,False,000,False,False,False,2,131
+"### || حرف الجيم
+",000,False,000,False,False,False,2,446
+"### ||| من اسمها جوهرناز
+",000,False,000,False,False,False,3,150
+"### || حرف الحاء
+",000,False,000,False,False,False,2,203
+"### ||| من اسمها حوراء
+",000,False,000,False,False,False,3,57
+"### || حرف الخاء
+",000,False,000,False,False,False,2,227
+"### || حرف الدال
+",000,False,000,False,False,False,2,145
+"### || حرف الراء
+",000,False,000,False,False,False,2,181
+"### || حرف الزاي
+",000,False,000,False,False,False,2,275
+"### ||| من اسمها زليخا
+",000,False,000,False,False,False,3,76
+"### ||| من اسمها زينب
+",000,False,000,False,False,False,3,135
+"### || حرف السين
+",000,False,000,False,False,False,2,716
+"### ||| من اسمها ست أزرمية
+",000,False,000,False,False,False,3,73
+"### || حرف الشين
+",000,False,000,False,False,False,2,352
+"### || حرف الضاد
+",000,False,000,False,False,False,2,230
+"### ||| من اسمها ضوء
+",000,False,000,False,False,False,3,144
+"### || حرف الطاء
+",000,False,000,False,False,False,2,107
+"### || حرف الظاء
+",000,False,000,False,False,False,2,174
+"### || حرف العين
+",000,False,000,False,False,False,2,813
+"### ||| من اسمها عائشة
+",000,False,000,False,False,False,3,531
+"### || حرف الفاء
+",000,False,000,False,False,False,2,1235
+"### ||| 
+",000,False,000,False,False,False,3,1161
+"### || حرف الكاف
+",000,False,000,False,False,False,2,330
+"### || حرف اللام
+",000,False,000,False,False,False,2,43
+"### || حرف الميم
+",000,False,000,False,False,False,2,162
+"### || حرف النون
+",000,False,000,False,False,False,2,135

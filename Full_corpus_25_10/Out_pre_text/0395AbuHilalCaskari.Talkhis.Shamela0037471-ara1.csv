@@ -1,0 +1,701 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | الباب الأول في
+",000,False,000,False,False,False,1,480
+"### | فصل في جماعة خلق الإنسان
+",000,False,000,False,False,False,1,28
+"### | فصل في ذكر القامة
+",000,False,000,False,False,False,1,62
+"### | فصل في ذكر الرأس
+",000,False,000,False,False,False,1,236
+"### | فصل في صفات الرأس
+",000,False,000,False,False,False,1,39
+"### | فصل في ذكر الأذنين
+",000,False,000,False,False,False,1,102
+"### | فصل في صفات الأذن
+",000,False,000,False,False,False,1,175
+"### | فصل في ذكر الشعر
+",000,False,000,False,False,False,1,306
+"### | فصل في ألوان الشعر
+",000,False,000,False,False,False,1,54
+"### | فصل في ذكر اللحية
+",000,False,000,False,False,False,1,53
+"### | فصل في صفة اللحية
+",000,False,000,False,False,False,1,99
+"### | فصل في ذكر الوجه
+",000,False,000,False,False,False,1,170
+"### | فصل في صفة الجبهة
+",000,False,000,False,False,False,1,36
+"### | فصل في ذكر العين
+",000,False,000,False,False,False,1,124
+"### | فصل في صفة العين
+",000,False,000,False,False,False,1,441
+"### | فصل في ذكر الأنف
+",000,False,000,False,False,False,1,84
+"### | فصل في صفة الأنف
+",000,False,000,False,False,False,1,110
+"### | فصل في ذكر الفم
+",000,False,000,False,False,False,1,164
+"### | فصل في صفات الشفة
+",000,False,000,False,False,False,1,232
+"### | فصل في صفة الأسنان
+",000,False,000,False,False,False,1,232
+"### | فصل في صفة الفم
+",000,False,000,False,False,False,1,46
+"### | ذكر ما في الفم
+",000,False,000,False,False,False,1,164
+"### | فصل في ذكر اللسان
+",000,False,000,False,False,False,1,63
+"### | فصل في صفة اللسان
+",000,False,000,False,False,False,1,68
+"### | فصل في ذكر العنق
+",000,False,000,False,False,False,1,152
+"### | فصل في صفة العنق
+",000,False,000,False,False,False,1,122
+"### | فصل في ذكر المنكب
+",000,False,000,False,False,False,1,69
+"### | فصل في ذكر الكتف
+",000,False,000,False,False,False,1,95
+"### | فصل في ذكر العضد
+",000,False,000,False,False,False,1,85
+"### | فصل في ذكر الذراع
+",000,False,000,False,False,False,1,171
+"### | فصل في ذكر الكف
+",000,False,000,False,False,False,1,211
+"### | فصل في صفة الكف
+",000,False,000,False,False,False,1,156
+"### | فصل في ذكر الظهر
+",000,False,000,False,False,False,1,134
+"### | فصل في صفة الظهر
+",000,False,000,False,False,False,1,66
+"### | فصل في ذكر الجنبين
+",000,False,000,False,False,False,1,89
+"### | فصل في ذكر الصدر
+",000,False,000,False,False,False,1,193
+"### | فصل في صفات الصدر
+",000,False,000,False,False,False,1,22
+"### | ذكر الجوف
+",000,False,000,False,False,False,1,61
+"### | ذكر البطن
+",000,False,000,False,False,False,1,213
+"### | فصل في صفة البطن
+",000,False,000,False,False,False,1,63
+"### | فصل في ذكر الذكر
+",000,False,000,False,False,False,1,110
+"### | فصل في ذكر الخصيتين
+",000,False,000,False,False,False,1,49
+"### | فصل في ذكر الوركين
+",000,False,000,False,False,False,1,99
+"### | فصل في صفة الأعجاز
+",000,False,000,False,False,False,1,51
+"### | فصل في ذكر الإست
+",000,False,000,False,False,False,1,33
+"### | فرج المرأة
+",000,False,000,False,False,False,1,222
+"### | فصل في ذكر الفخذين
+",000,False,000,False,False,False,1,85
+"### | فصل قي صفة الفخذ
+",000,False,000,False,False,False,1,52
+"### | فصل في ذكر الركبة
+",000,False,000,False,False,False,1,57
+"### | فصل في ذكر الساق
+",000,False,000,False,False,False,1,50
+"### | فصل في صفة الساقين
+",000,False,000,False,False,False,1,45
+"### | فصل في ذكر القدم
+",000,False,000,False,False,False,1,46
+"### | فصل في صفة القدم
+",000,False,000,False,False,False,1,178
+"### | فصل في ذكر الجبر
+",000,False,000,False,False,False,1,75
+"### | فصل في تقلب أحوال الإنسان
+",000,False,000,False,False,False,1,295
+"### | ذكر أصل الإنسان
+",000,False,000,False,False,False,1,27
+"### | صفة الإنسان في خلقته
+",000,False,000,False,False,False,1,142
+"### | أسماء نفس الإنسان
+",000,False,000,False,False,False,1,46
+"### | الباب الثاني في
+",000,False,000,False,False,False,1,18
+"### | ذكر سجية الإنسان
+",000,False,000,False,False,False,1,33
+"### | ما يمدح به الإنسان من العقل والحزم والرأي
+",000,False,000,False,False,False,1,52
+"### | ومما هو في معنى العقل وصحة الرأي
+",000,False,000,False,False,False,1,137
+"### | ذكر ما يذم به من الأفن والحمق
+",000,False,000,False,False,False,1,40
+"### | أسماء الشجعان من الناس
+",000,False,000,False,False,False,1,94
+"### | أسماء الجبناء من الناس
+",000,False,000,False,False,False,1,104
+"### | أسماء الأسخياء من الناس
+",000,False,000,False,False,False,1,53
+"### | أسماء العطية
+",000,False,000,False,False,False,1,88
+"### | الحرمان
+",000,False,000,False,False,False,1,23
+"### | أسماء البخلاء من الناس
+",000,False,000,False,False,False,1,82
+"### | أسماء الأغنياء من الناس
+",000,False,000,False,False,False,1,48
+"### | أسماء الفقراء من الناس
+",000,False,000,False,False,False,1,38
+"### | أسماء الأشداء من الناس
+",000,False,000,False,False,False,1,16
+"### | أسماء الضعفاء من الناس
+",000,False,000,False,False,False,1,28
+"### | أسماء الذكي من الناس
+",000,False,000,False,False,False,1,37
+"### | أسماء الوضعاء من الناس والسقاط منهم
+",000,False,000,False,False,False,1,56
+"### | ذكر حسن الخلق وما يجري معه
+",000,False,000,False,False,False,1,44
+"### | ذكر سوء الخلق
+",000,False,000,False,False,False,1,30
+"### | ذكر الجمال
+",000,False,000,False,False,False,1,56
+"### | ذكر القبح
+",000,False,000,False,False,False,1,32
+"### | ذكر الفرح
+",000,False,000,False,False,False,1,19
+"### | ذكر الحزن
+",000,False,000,False,False,False,1,76
+"### | ذكر الحب
+",000,False,000,False,False,False,1,74
+"### | ذكر البغض
+",000,False,000,False,False,False,1,50
+"### | ذكر الضراعة
+",000,False,000,False,False,False,1,24
+"### | ذكر العدل
+",000,False,000,False,False,False,1,24
+"### | ذكر الجور
+",000,False,000,False,False,False,1,55
+"### | ذكر طيب الرائحة
+",000,False,000,False,False,False,1,66
+"### | ذكر نتن الريح
+",000,False,000,False,False,False,1,92
+"### | ذكر الراحة
+",000,False,000,False,False,False,1,12
+"### | ذكر الإعياء
+",000,False,000,False,False,False,1,48
+"### | ذكر الهزال
+",000,False,000,False,False,False,1,75
+"### | ذكر الفزع
+",000,False,000,False,False,False,1,68
+"### | ذكر النميمة
+",000,False,000,False,False,False,1,49
+"### | ذكر كلوح الوجه
+",000,False,000,False,False,False,1,26
+"### | ذكر النشاط
+",000,False,000,False,False,False,1,32
+"### | ذكر الكذب
+",000,False,000,False,False,False,1,95
+"### | ذكر العزيمة
+",000,False,000,False,False,False,1,29
+"### | ذكر الكبر
+",000,False,000,False,False,False,1,61
+"### | ذكر الزينة
+",000,False,000,False,False,False,1,16
+"### | ذكر التمتع بالمرأة
+",000,False,000,False,False,False,1,22
+"### | ذكر الرضا
+",000,False,000,False,False,False,1,22
+"### | ذكر الغضب
+",000,False,000,False,False,False,1,57
+"### | ذكر العداوة
+",000,False,000,False,False,False,1,52
+"### | ذكر الرحمة والعطف
+",000,False,000,False,False,False,1,40
+"### | ذكر الجوع
+",000,False,000,False,False,False,1,32
+"### | ذكر العطش
+",000,False,000,False,False,False,1,55
+"### | ذكر الري
+",000,False,000,False,False,False,1,78
+"### | ذكر الشبع
+",000,False,000,False,False,False,1,63
+"### | ذكر الطمع
+",000,False,000,False,False,False,1,26
+"### | ذكر الحرص
+",000,False,000,False,False,False,1,25
+"### | ذكر البلاغة
+",000,False,000,False,False,False,1,68
+"### | ذكر العي
+",000,False,000,False,False,False,1,82
+"### | صفات مختلفة جارية في المدح
+",000,False,000,False,False,False,1,82
+"### | صفات مختلفة جارية في الذم
+",000,False,000,False,False,False,1,292
+"### | ذكر السؤدد والحلم
+",000,False,000,False,False,False,1,81
+"### | ذكر البكاء
+",000,False,000,False,False,False,1,70
+"### | ذكر القرب
+",000,False,000,False,False,False,1,65
+"### | ذكر البعد
+",000,False,000,False,False,False,1,76
+"### | ذكر الوعد والإنجاز
+",000,False,000,False,False,False,1,33
+"### | ذكر دفع الحق والمطل
+",000,False,000,False,False,False,1,29
+"### | ذكر الجماعات من الناس
+",000,False,000,False,False,False,1,85
+"### | ذكر الفرق المختلفة
+",000,False,000,False,False,False,1,95
+"### | ذكر اجتماع القوم
+",000,False,000,False,False,False,1,73
+"### | ذكر العساكر
+",000,False,000,False,False,False,1,69
+"### | ذكر الشعوب والقبائل
+",000,False,000,False,False,False,1,67
+"### | ذكر تفرق القوم وتبددهم
+",000,False,000,False,False,False,1,53
+"### | ذكر النوم
+",000,False,000,False,False,False,1,56
+"### | ذكر السهر
+",000,False,000,False,False,False,1,33
+"### | ذكر الضحك
+",000,False,000,False,False,False,1,40
+"### | ذكر كسب الإنسان
+",000,False,000,False,False,False,1,63
+"### | ذكر حرفة الإنسان
+",000,False,000,False,False,False,1,42
+"### | ذكر الإصلاح بين الناس
+",000,False,000,False,False,False,1,38
+"### | ذكر الإفساد بين الناس
+",000,False,000,False,False,False,1,29
+"### | ذكر سعة العيش
+",000,False,000,False,False,False,1,22
+"### | ذكر ضيق العيش
+",000,False,000,False,False,False,1,76
+"### | ذكر إصلاح المال
+",000,False,000,False,False,False,1,32
+"### | ذكر إفساد المال
+",000,False,000,False,False,False,1,88
+"### | ذكر زيادة المال
+",000,False,000,False,False,False,1,61
+"### | ذكر نقصان المال وقلته
+",000,False,000,False,False,False,1,87
+"### | ذكر التعرض للمعروف
+",000,False,000,False,False,False,1,80
+"### | ذكر الكنف
+",000,False,000,False,False,False,1,21
+"### | ذكر إخفاء الصوت وإسرار الأمر
+",000,False,000,False,False,False,1,78
+"### | ذكر إعلان السر
+",000,False,000,False,False,False,1,37
+"### | ذكر الحاجة
+",000,False,000,False,False,False,1,46
+"### | ذكر التندم
+",000,False,000,False,False,False,1,26
+"### | ذكر اللهج
+",000,False,000,False,False,False,1,64
+"### | ذكر الإقامة
+",000,False,000,False,False,False,1,28
+"### | ذكر العجلة
+",000,False,000,False,False,False,1,41
+"### | ذكر التعمد
+",000,False,000,False,False,False,1,42
+"### | ذكر الضلال
+",000,False,000,False,False,False,1,38
+"### | ذكر إشكال الأمر
+",000,False,000,False,False,False,1,23
+"### | ذكر العون
+",000,False,000,False,False,False,1,20
+"### | ذكر الإضطرار
+",000,False,000,False,False,False,1,31
+"### | ذكر الصرف
+",000,False,000,False,False,False,1,29
+"### | ذكر الإبرام
+",000,False,000,False,False,False,1,17
+"### | ذكر إهمال الشيء
+",000,False,000,False,False,False,1,29
+"### | ذكر الاختيار
+",000,False,000,False,False,False,1,20
+"### | ذكر التربية
+",000,False,000,False,False,False,1,24
+"### | ذكر الحياء
+",000,False,000,False,False,False,1,24
+"### | ذكر الكتب
+",000,False,000,False,False,False,1,26
+"### | ذكر السير
+",000,False,000,False,False,False,1,80
+"### | ذكر علة الإنسان
+",000,False,000,False,False,False,1,547
+"### | ذكر الشجاج
+",000,False,000,False,False,False,1,110
+"### | ذكر الخروج من العلة
+",000,False,000,False,False,False,1,63
+"### | ذكر الرحيل
+",000,False,000,False,False,False,1,24
+"### | ذكر النزول
+",000,False,000,False,False,False,1,16
+"### | ذكر حسن غذاء الولد
+",000,False,000,False,False,False,1,12
+"### | ذكر سوء غذائه
+",000,False,000,False,False,False,1,32
+"### | فصل آخر
+",000,False,000,False,False,False,1,285
+"### | ذكر الموت
+",000,False,000,False,False,False,1,169
+"### | الباب الثالث في
+",000,False,000,False,False,False,1,1270
+"### | الباب الرابع في
+",000,False,000,False,False,False,1,106
+"### | أحسن بيت أهرا وبزا
+",000,False,000,False,False,False,1,481
+"### | 
+",000,False,000,False,False,False,1,0
+"### | فصل آخر
+",000,False,000,False,False,False,1,83
+"### | 
+",000,False,000,False,False,False,1,0
+"### | فصل آخر
+",000,False,000,False,False,False,1,157
+"### | فصل آخر
+",000,False,000,False,False,False,1,308
+"### | فصل في ذكر ما في القميص
+",000,False,000,False,False,False,1,263
+"### | فصل آخر
+",000,False,000,False,False,False,1,93
+"### | صفة الثوب
+",000,False,000,False,False,False,1,154
+"### | 
+",000,False,000,False,False,False,1,0
+"### | فصل آخر
+",000,False,000,False,False,False,1,138
+"### | 
+",000,False,000,False,False,False,1,0
+"### | فصل آخر
+",000,False,000,False,False,False,1,92
+"### | 
+",000,False,000,False,False,False,1,0
+"### | فصل
+",000,False,000,False,False,False,1,149
+"### | أسماء الأكسية
+",000,False,000,False,False,False,1,129
+"### | فصل آخر
+",000,False,000,False,False,False,1,47
+"### | ذكر آلات الحاكة وغير ذلك
+",000,False,000,False,False,False,1,544
+"### | فصل آخر
+",000,False,000,False,False,False,1,139
+"### | الباب الخامس في
+",000,False,000,False,False,False,1,535
+"### | الباب السادس في
+",000,False,000,False,False,False,1,715
+"### | الباب السابع في
+",000,False,000,False,False,False,1,13
+"### | أدوات البنائين
+",000,False,000,False,False,False,1,1596
+"### | أدوات البنائين
+",000,False,000,False,False,False,1,120
+"### | الباب الثامن في
+",000,False,000,False,False,False,1,11
+"### | أدوات النجارين
+",000,False,000,False,False,False,1,513
+"### | أدوات النجارين
+",000,False,000,False,False,False,1,244
+"### | الباب التاسع في
+",000,False,000,False,False,False,1,2410
+"### | الباب العاشر في
+",000,False,000,False,False,False,1,528
+"### | أسماء المكاييل
+",000,False,000,False,False,False,1,219
+"### | الباب الحادي عشر في
+",000,False,000,False,False,False,1,480
+"### | الباب الثاني عشر في
+",000,False,000,False,False,False,1,195
+"### | الباب الثالث عشر في
+",000,False,000,False,False,False,1,390
+"### | الباب الرابع عشر في
+",000,False,000,False,False,False,1,805
+"### | الباب الخامس عشر في
+",000,False,000,False,False,False,1,192
+"### | الباب السادس عشر في
+",000,False,000,False,False,False,1,310
+"### | ومن أدوات الخبازين
+",000,False,000,False,False,False,1,72
+"### | ومن أسماء الطعام
+",000,False,000,False,False,False,1,1012
+"### | الباب السابع عشر في
+",000,False,000,False,False,False,1,242
+"### | استعمال الطيب ورائحته ولصوقه
+",000,False,000,False,False,False,1,119
+"### | معالجة الطيب
+",000,False,000,False,False,False,1,32
+"### | فصل آخر
+",000,False,000,False,False,False,1,46
+"### | لصوق الطيب
+",000,False,000,False,False,False,1,115
+"### | الباب الثامن عشر في
+",000,False,000,False,False,False,1,481
+"### | أسماء البروج
+",000,False,000,False,False,False,1,25
+"### | منازل القمر
+",000,False,000,False,False,False,1,1053
+"### | 
+",000,False,000,False,False,False,1,0
+"### | فصل
+",000,False,000,False,False,False,1,45
+"### | فصل آخر
+",000,False,000,False,False,False,1,57
+"### | أسماء الأيام في الجاهلية
+",000,False,000,False,False,False,1,212
+"### | فصل
+",000,False,000,False,False,False,1,287
+"### | الحر والبرد
+",000,False,000,False,False,False,1,152
+"### | الباب التاسع عشر في
+",000,False,000,False,False,False,1,248
+"### | الباب العشرون في
+",000,False,000,False,False,False,1,188
+"### | أسماء المطر
+",000,False,000,False,False,False,1,317
+"### | أسماء البرق
+",000,False,000,False,False,False,1,117
+"### | أسماء الرعد
+",000,False,000,False,False,False,1,120
+"### | الباب الحادي والعشرون في
+",000,False,000,False,False,False,1,700
+"### | أسماء الأرشية
+",000,False,000,False,False,False,1,134
+"### | الباب الثاني والعشرون في
+",000,False,000,False,False,False,1,462
+"### | الباب الثالث والعشرون في
+",000,False,000,False,False,False,1,512
+"### | أسماء الرياحين
+",000,False,000,False,False,False,1,204
+"### | أسماء البقول
+",000,False,000,False,False,False,1,213
+"### | 
+",000,False,000,False,False,False,1,0
+"### | فصل آخر
+",000,False,000,False,False,False,1,98
+"### | فصل آخر
+",000,False,000,False,False,False,1,61
+"### | الباب الرابع والعشرون في
+",000,False,000,False,False,False,1,11
+"### | أسماء الحبوب
+",000,False,000,False,False,False,1,425
+"### | أسماء الحبوب
+",000,False,000,False,False,False,1,172
+"### | الباب الخامس والعشرون في
+",000,False,000,False,False,False,1,455
+"### | صفات النخل
+",000,False,000,False,False,False,1,590
+"### | فصل
+",000,False,000,False,False,False,1,225
+"### | الباب السادس والعشرون في
+",000,False,000,False,False,False,1,195
+"### | فصل في أسماء الخمر وصفاتها
+",000,False,000,False,False,False,1,401
+"### | أسماء أنواع الفاكهة
+",000,False,000,False,False,False,1,195
+"### | الباب السابع والعشرون في
+",000,False,000,False,False,False,1,14
+"### | فصل في أسماء الأرضين
+",000,False,000,False,False,False,1,489
+"### | أسماء الفلوات
+",000,False,000,False,False,False,1,170
+"### | صفة الجبال وأسماءها
+",000,False,000,False,False,False,1,189
+"### | أسماء الرمال
+",000,False,000,False,False,False,1,131
+"### | الباب الثامن والعشرون في
+",000,False,000,False,False,False,1,215
+"### | ثم ما في السيف
+",000,False,000,False,False,False,1,198
+"### | فضل في ذكر ما يفعل بالسيف
+",000,False,000,False,False,False,1,81
+"### | أسماء الرمح وصفاته
+",000,False,000,False,False,False,1,203
+"### | أسماء الدروع
+",000,False,000,False,False,False,1,221
+"### | أسماء القسي
+",000,False,000,False,False,False,1,126
+"### | ومن صفات القوس
+",000,False,000,False,False,False,1,28
+"### | ثم الوتر
+",000,False,000,False,False,False,1,63
+"### | أسماء السهام
+",000,False,000,False,False,False,1,109
+"### | ثم ما في السهم
+",000,False,000,False,False,False,1,169
+"### | ثم السوط
+",000,False,000,False,False,False,1,71
+"### | أسماء مواضع الحرب
+",000,False,000,False,False,False,1,17
+"### | وأما صفات الجيوش
+",000,False,000,False,False,False,1,82
+"### | ومن أسماء الحرب
+",000,False,000,False,False,False,1,59
+"### | الباب التاسع والعشرون في
+",000,False,000,False,False,False,1,101
+"### | تنقل الفرس في سنه
+",000,year,000,False,False,False,1,71
+"### | خلق الفرس
+",000,False,000,False,False,False,1,348
+"### | صفات الفرس
+",000,False,000,False,False,False,1,38
+"### | شية الفرس
+",000,False,000,False,False,False,1,190
+"### | ألوان الفرس
+",000,False,000,False,False,False,1,77
+"### | ما يستحب في الفرس
+",000,False,000,False,False,False,1,128
+"### | ما يكره في الفرس
+",000,False,000,False,False,False,1,85
+"### | عيوب الفرس
+",000,False,000,False,False,False,1,150
+"### | العيوب الحادثة
+",000,False,000,False,False,False,1,88
+"### | جري الفرس
+",000,False,000,False,False,False,1,185
+"### | ومن عيوب الجري
+",000,False,000,False,False,False,1,26
+"### | أصوات الخيل
+",000,False,000,False,False,False,1,123
+"### | قيام الخيل
+",000,False,000,False,False,False,1,68
+"### | ثم النشاط
+",000,False,000,False,False,False,1,47
+"### | صفات مختلفة
+",000,False,000,False,False,False,1,162
+"### | أسماء خيل الرهان
+",000,False,000,False,False,False,1,40
+"### | اللجام
+",000,False,000,False,False,False,1,139
+"### | السرج
+",000,False,000,False,False,False,1,342
+"### | الباب الثلاثون في
+",000,False,000,False,False,False,1,695
+"### | أسنان الإبل
+",000,False,000,False,False,False,1,328
+"### | ومن صفات الإبل
+",000,False,000,False,False,False,1,484
+"### | ومما ms152 يذكر من غزر الإبل
+",000,False,000,False,False,False,1,45
+"### | ومما يذكر من البكي
+",000,False,000,False,False,False,1,24
+"### | ومن صفات أخر
+",000,False,000,False,False,False,1,542
+"### | أدواء الإبل
+",000,False,000,False,False,False,1,462
+"### | سير الإبل
+",000,False,000,False,False,False,1,176
+"### | ومن سيرها
+",000,False,000,False,False,False,1,120
+"### | ألوان الإبل
+",000,False,000,False,False,False,1,160
+"### | المواسم
+",000,False,000,False,False,False,1,94
+"### | ومن أظماء الإبل
+",000,False,000,False,False,False,1,197
+"### | أسماء قطع الإبل وجماعتها
+",000,False,000,False,False,False,1,77
+"### | أصوات الإبل
+",000,False,000,False,False,False,1,73
+"### | أمر الفحل
+",000,False,000,False,False,False,1,76
+"### | فصل ms159 آخر
+",000,False,000,False,False,False,1,63
+"### | أسماء الرحل والقتب
+",000,False,000,False,False,False,1,6
+"### | ومايجري مع ذلك
+",000,False,000,False,False,False,1,445
+"### | الباب الحادي والثلاثون في
+",000,False,000,False,False,False,1,116
+"### | ومن أسنان البقر
+",000,False,000,False,False,False,1,95
+"### | القول في الغنم
+",000,False,000,False,False,False,1,216
+"### | فصل آخر
+",000,False,000,False,False,False,1,153
+"### | صفات الغنم
+",000,False,000,False,False,False,1,369
+"### | ومن عيوب المعز
+",000,False,000,False,False,False,1,352
+"### | أسماء اللبن
+",000,False,000,False,False,False,1,212
+"### | ومن أسماء الزبد
+",000,False,000,False,False,False,1,69
+"### | الباب الثاني والثلاثون في
+",000,False,000,False,False,False,1,82
+"### | ومن أسماء بقر الوحش
+",000,False,000,False,False,False,1,78
+"### | ومن أسماء أقاطيعها
+",000,False,000,False,False,False,1,28
+"### | أسماء الظباء وصفاتها
+",000,False,000,False,False,False,1,124
+"### | أسماء الوعول وصفاتها
+",000,False,000,False,False,False,1,59
+"### | ومن أسماء النعام وصفاتها
+",000,False,000,False,False,False,1,72
+"### | فصل
+",000,False,000,False,False,False,1,25
+"### | الباب الثالث والثلاثون في
+",000,False,000,False,False,False,1,196
+"### | أسماء الذئاب وصفاتها
+",000,False,000,False,False,False,1,84
+"### | أسماء الضباع وصفاتها
+",000,False,000,False,False,False,1,76
+"### | أسماء الثعالب
+",000,False,000,False,False,False,1,28
+"### | أسماء الأرانب
+",000,False,000,False,False,False,1,30
+"### | ومن السباع
+",000,False,000,False,False,False,1,290
+"### | فصل آخر
+",000,False,000,False,False,False,1,62
+"### | الباب الرابع والثلاثون في
+",000,False,000,False,False,False,1,62
+"### | النمل
+",000,False,000,False,False,False,1,757
+"### | الباب الخامس والثلاثون في
+",000,False,000,False,False,False,1,875
+"### | أصوات الطير وغيرها
+",000,False,000,False,False,False,1,97
+"### | الباب السادس والثلاثون في
+",000,False,000,False,False,False,1,188
+"### | 
+",000,False,000,False,False,False,1,0
+"### | فصل آخر
+",000,False,000,False,False,False,1,208
+"### | فصل آخر
+",000,False,000,False,False,False,1,303
+"### | الباب السابع والثلاثون في
+",000,False,000,False,False,False,1,170
+"### | ومن الأصباغ
+",000,False,000,False,False,False,1,155
+"### | الباب الثامن والثلاثون في
+",000,False,000,False,False,False,1,1103
+"### | الباب التاسع والثلاثون في
+",000,False,000,False,False,False,1,467
+"### | الباب الأربعون في
+",000,False,000,False,False,False,1,121
+"### | 
+",000,False,000,False,False,False,1,0
+"### | فصل آخر
+",000,False,000,False,False,False,1,63
+"### | أدوات الحدادين والصاغة
+",000,False,000,False,False,False,1,131
+"### | فصل آخر
+",000,False,000,False,False,False,1,85
+"### | ذكر الميسر
+",000,False,000,False,False,False,1,522
+"### | 
+",000,False,000,False,False,False,1,0
+"### | فصل آخر
+",000,False,000,False,False,False,1,269
+"### | 
+",000,False,000,False,False,False,1,0
+"### | فصل آخر
+",000,False,000,False,False,False,1,108
+"### | فصل آخر
+",000,False,000,False,False,False,1,169
+"### | أسماء الدواهي
+",000,False,000,False,False,False,1,82
+"### | فصل آخر
+",000,False,000,False,False,False,1,25

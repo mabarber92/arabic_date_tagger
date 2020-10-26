@@ -1,0 +1,2581 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [1 - سورة الفاتحة]
+",000,False,000,False,False,False,1,833
+"### || [1.1]
+",000,False,000,False,False,False,2,142
+"### || [1.2]
+",000,False,000,False,False,False,2,89
+"### || [1.3]
+",000,False,000,False,False,False,2,29
+"### || [1.4]
+",000,False,000,False,False,False,2,108
+"### || [1.5]
+",000,False,000,False,False,False,2,99
+"### || [1.6]
+",000,False,000,False,False,False,2,84
+"### | [2 - سورة البقرة]
+",000,False,000,False,False,False,1,42037
+"### || [2.1-5]
+",000,False,000,False,False,False,2,600
+"### || [2.6-7]
+",000,False,000,False,False,False,2,194
+"### || [2.8-10]
+",000,False,000,False,False,False,2,220
+"### || [2.11-13]
+",000,False,000,False,False,False,2,177
+"### || [2.14-16]
+",000,False,000,False,False,False,2,304
+"### || [2.17-20]
+",000,False,000,False,False,False,2,386
+"### || [2.21-22]
+",000,False,000,False,False,False,2,205
+"### || [2.23-24]
+",000,False,000,False,False,False,2,197
+"### || [2.25]
+",000,False,000,False,False,False,2,176
+"### || [2.26-27]
+",000,False,000,False,False,False,2,317
+"### || [2.28-29]
+",000,False,000,False,False,False,2,240
+"### || [2.30]
+",000,False,000,False,False,False,2,189
+"### || [2.31-33]
+",000,False,000,False,False,False,2,213
+"### || [2.34]
+",000,False,000,False,False,False,2,178
+"### || [2.35-37]
+",000,False,000,False,False,False,2,267
+"### || [2.38-39]
+",000,False,000,False,False,False,2,168
+"### || [2.40-43]
+",000,False,000,False,False,False,2,371
+"### || [2.44-46]
+",000,False,000,False,False,False,2,227
+"### || [2.47-48]
+",000,False,000,False,False,False,2,201
+"### || [2.49-53]
+",000,False,000,False,False,False,2,397
+"### || [2.54-57]
+",000,False,000,False,False,False,2,401
+"### || [2.58-59]
+",000,False,000,False,False,False,2,285
+"### || [2.60-61]
+",000,False,000,False,False,False,2,504
+"### || [2.62]
+",000,False,000,False,False,False,2,283
+"### || [2.63-66]
+",000,False,000,False,False,False,2,224
+"### || [2.67-71]
+",000,False,000,False,False,False,2,341
+"### || [2.72-74]
+",000,False,000,False,False,False,2,256
+"### || [2.75-78]
+",000,False,000,False,False,False,2,393
+"### || [2.79-81]
+",000,False,000,False,False,False,2,331
+"### || [2.82-86]
+",000,False,000,False,False,False,2,330
+"### || [2.87-90]
+",000,False,000,False,False,False,2,361
+"### || [2.91-93]
+",000,False,000,False,False,False,2,241
+"### || [2.94-98]
+",000,False,000,False,False,False,2,464
+"### || [2.99-101]
+",000,False,000,False,False,False,2,337
+"### || [2.102-103]
+",000,False,000,False,False,False,2,503
+"### || [2.104-105]
+",000,False,000,False,False,False,2,312
+"### || [2.106-108]
+",000,False,000,False,False,False,2,403
+"### || [2.109-110]
+",000,False,000,False,False,False,2,254
+"### || [2.111-113]
+",000,False,000,False,False,False,2,382
+"### || [2.114-115]
+",000,False,000,False,False,False,2,355
+"### || [2.116-119]
+",000,False,000,False,False,False,2,428
+"### || [2.120-121]
+",000,False,000,False,False,False,2,325
+"### || [2.122-123]
+",000,False,000,False,False,False,2,183
+"### || [2.124]
+",000,False,000,False,False,False,2,237
+"### || [2.125-126]
+",000,False,000,False,False,False,2,381
+"### || [2.127-129]
+",000,False,000,False,False,False,2,384
+"### || [2.130-134]
+",000,False,000,False,False,False,2,486
+"### || [2.135-138]
+",000,False,000,False,False,False,2,347
+"### || [2.139-141]
+",000,False,000,False,False,False,2,293
+"### || [2.142-143]
+",000,False,000,False,False,False,2,490
+"### || [2.144-147]
+",000,False,000,False,False,False,2,474
+"### || [2.148-152]
+",000,False,000,False,False,False,2,534
+"### || [2.153-157]
+",000,False,000,False,False,False,2,488
+"### || [2.158]
+",000,False,000,False,False,False,2,317
+"### || [2.159-162]
+",000,False,000,False,False,False,2,366
+"### || [2.163-164]
+",000,False,000,False,False,False,2,410
+"### || [2.165-167]
+",000,False,000,False,False,False,2,289
+"### || [2.168-170]
+",000,False,000,False,False,False,2,363
+"### || [2.171]
+",000,False,000,False,False,False,2,266
+"### || [2.172-173]
+",000,False,000,False,False,False,2,315
+"### || [2.174-176]
+",000,False,000,False,False,False,2,318
+"### || [2.177]
+",000,False,000,False,False,False,2,476
+"### || [2.178-179]
+",000,False,000,False,False,False,2,567
+"### || [2.180-182]
+",000,False,000,False,False,False,2,368
+"### || [2.183-184]
+",000,False,000,False,False,False,2,466
+"### || [2.185]
+",000,False,000,False,False,False,2,456
+"### || [2.186]
+",000,False,000,False,False,False,2,184
+"### || [2.187]
+",000,False,000,False,False,False,2,524
+"### || [2.188]
+",000,False,000,False,False,False,2,204
+"### || [2.189]
+",000,False,000,False,False,False,2,304
+"### || [2.190-193]
+",000,False,000,False,False,False,2,314
+"### || [2.194-195]
+",000,False,000,False,False,False,2,255
+"### || [2.196]
+",000,False,000,False,False,False,2,495
+"### || [2.197-199]
+",000,False,000,False,False,False,2,410
+"### || [2.200-203]
+",000,False,000,False,False,False,2,484
+"### || [2.204-207]
+",000,False,000,False,False,False,2,469
+"### || [2.208-210]
+",000,False,000,False,False,False,2,385
+"### || [2.211-212]
+",000,False,000,False,False,False,2,355
+"### || [2.213]
+",000,False,000,False,False,False,2,445
+"### || [2.214]
+",000,False,000,False,False,False,2,156
+"### || [2.215]
+",000,False,000,False,False,False,2,153
+"### || [2.216]
+",000,False,000,False,False,False,2,222
+"### || [2.217-218]
+",000,False,000,False,False,False,2,446
+"### || [2.219-220]
+",000,False,000,False,False,False,2,735
+"### || [2.221]
+",000,False,000,False,False,False,2,259
+"### || [2.222-223]
+",000,False,000,False,False,False,2,502
+"### || [2.224-227]
+",000,False,000,False,False,False,2,610
+"### || [2.228]
+",000,False,000,False,False,False,2,429
+"### || [2.229]
+",000,False,000,False,False,False,2,403
+"### || [2.230]
+",000,False,000,False,False,False,2,257
+"### || [2.231]
+",000,False,000,False,False,False,2,304
+"### || [2.232]
+",000,False,000,False,False,False,2,244
+"### || [2.233]
+",000,False,000,False,False,False,2,419
+"### || [2.234-235]
+",000,False,000,False,False,False,2,546
+"### || [2.236-239]
+",000,False,000,False,False,False,2,589
+"### || [2.240-242]
+",000,False,000,False,False,False,2,343
+"### || [2.243-245]
+",000,False,000,False,False,False,2,300
+"### || [2.246-247]
+",000,False,000,False,False,False,2,509
+"### || [2.248]
+",000,False,000,False,False,False,2,268
+"### || [2.249]
+",000,False,000,False,False,False,2,231
+"### || [2.250-252]
+",000,False,000,False,False,False,2,341
+"### || [2.253-254]
+",000,False,000,False,False,False,2,462
+"### || [2.255]
+",000,False,000,False,False,False,2,340
+"### || [2.256-257]
+",000,False,000,False,False,False,2,352
+"### || [2.258]
+",000,False,000,False,False,False,2,232
+"### || [2.259]
+",000,False,000,False,False,False,2,444
+"### || [2.260]
+",000,False,000,False,False,False,2,290
+"### || [2.261-263]
+",000,False,000,False,False,False,2,364
+"### || [2.264]
+",000,False,000,False,False,False,2,214
+"### || [2.265-266]
+",000,False,000,False,False,False,2,381
+"### || [2.267-269]
+",000,False,000,False,False,False,2,446
+"### || [2.270-271]
+",000,False,000,False,False,False,2,306
+"### || [2.272-274]
+",000,False,000,False,False,False,2,459
+"### || [2.275-277]
+",000,False,000,False,False,False,2,557
+"### || [2.278-281]
+",000,False,000,False,False,False,2,366
+"### || [2.282]
+",000,False,000,False,False,False,2,651
+"### || [2.283-284]
+",000,False,000,False,False,False,2,364
+"### | [3 - سورة آل عمران]
+",000,False,000,False,False,False,1,26866
+"### || [3.1-6]
+",000,False,000,False,False,False,2,684
+"### || [3.7-9]
+",000,False,000,False,False,False,2,519
+"### || [3.10-13]
+",000,False,000,False,False,False,2,531
+"### || [3.14]
+",000,False,000,False,False,False,2,364
+"### || [3.15-17]
+",000,False,000,False,False,False,2,322
+"### || [3.18-20]
+",000,False,000,False,False,False,2,641
+"### || [3.21-22]
+",000,False,000,False,False,False,2,209
+"### || [3.23-25]
+",000,False,000,False,False,False,2,392
+"### || [3.26-27]
+",000,False,000,False,False,False,2,422
+"### || [3.28-30]
+",000,False,000,False,False,False,2,408
+"### || [3.31-32]
+",000,False,000,False,False,False,2,309
+"### || [3.33-37]
+",000,False,000,False,False,False,2,560
+"### || [3.38-41]
+",000,False,000,False,False,False,2,369
+"### || [3.42-44]
+",000,False,000,False,False,False,2,481
+"### || [3.45-47]
+",000,False,000,False,False,False,2,276
+"### || [3.48-51]
+",000,False,000,False,False,False,2,323
+"### || [3.52-58]
+",000,False,000,False,False,False,2,495
+"### || [3.59-63]
+",000,False,000,False,False,False,2,406
+"### || [3.64-68]
+",000,False,000,False,False,False,2,491
+"### || [3.69-71]
+",000,False,000,False,False,False,2,278
+"### || [3.72-74]
+",000,False,000,False,False,False,2,546
+"### || [3.75-77]
+",000,False,000,False,False,False,2,414
+"### || [3.78]
+",000,False,000,False,False,False,2,150
+"### || [3.79-80]
+",000,False,000,False,False,False,2,327
+"### || [3.81-83]
+",000,False,000,False,False,False,2,312
+"### || [3.84-85]
+",000,False,000,False,False,False,2,257
+"### || [3.86-89]
+",000,False,000,False,False,False,2,311
+"### || [3.90-91]
+",000,False,000,False,False,False,2,238
+"### || [3.92]
+",000,False,000,False,False,False,2,212
+"### || [3.93-97]
+",000,False,000,False,False,False,2,824
+"### || [3.98-99]
+",000,False,000,False,False,False,2,292
+"### || [3.100-103]
+",000,False,000,False,False,False,2,556
+"### || [3.104-109]
+",000,False,000,False,False,False,2,577
+"### || [3.110-112]
+",000,False,000,False,False,False,2,475
+"### || [3.113-115]
+",000,False,000,False,False,False,2,290
+"### || [3.116-117]
+",000,False,000,False,False,False,2,390
+"### || [3.118-120]
+",000,False,000,False,False,False,2,667
+"### || [3.121-123]
+",000,False,000,False,False,False,2,462
+"### || [3.124-127]
+",000,False,000,False,False,False,2,534
+"### || [3.128-132]
+",000,False,000,False,False,False,2,539
+"### || [3.133-136]
+",000,False,000,False,False,False,2,589
+"### || [3.137-141]
+",000,False,000,False,False,False,2,553
+"### || [3.142-145]
+",000,False,000,False,False,False,2,690
+"### || [3.146-148]
+",000,False,000,False,False,False,2,402
+"### || [3.149-151]
+",000,False,000,False,False,False,2,447
+"### || [3.152-153]
+",000,False,000,False,False,False,2,847
+"### || [3.154-155]
+",000,False,000,False,False,False,2,663
+"### || [3.156-158]
+",000,False,000,False,False,False,2,367
+"### || [3.159-160]
+",000,False,000,False,False,False,2,293
+"### || [3.161-164]
+",000,False,000,False,False,False,2,458
+"### || [3.165-168]
+",000,False,000,False,False,False,2,476
+"### || [3.169-171]
+",000,False,000,False,False,False,2,208
+"### || [3.172-175]
+",000,False,000,False,False,False,2,586
+"### || [3.176-178]
+",000,False,000,False,False,False,2,365
+"### || [3.179-180]
+",000,False,000,False,False,False,2,429
+"### || [3.181-184]
+",000,False,000,False,False,False,2,530
+"### || [3.185-186]
+",000,False,000,False,False,False,2,353
+"### || [3.187-189]
+",000,False,000,False,False,False,2,404
+"### || [3.190-195]
+",000,False,000,False,False,False,2,681
+"### | [4 - سورة النساء]
+",000,False,000,False,False,False,1,27361
+"### || [4.1]
+",000,False,000,False,False,False,2,319
+"### || [4.2-4]
+",000,False,000,False,False,False,2,479
+"### || [4.5-6]
+",000,False,000,False,False,False,2,473
+"### || [4.7-10]
+",000,False,000,False,False,False,2,529
+"### || [4.11]
+",000,False,000,False,False,False,2,474
+"### || [4.12]
+",000,False,000,False,False,False,2,452
+"### || [4.13-14]
+",000,False,000,False,False,False,2,178
+"### || [4.15-18]
+",000,False,000,False,False,False,2,680
+"### || [4.19-21]
+",000,False,000,False,False,False,2,604
+"### || [4.22-23]
+",000,False,000,False,False,False,2,493
+"### || [4.24-25]
+",000,False,000,False,False,False,2,831
+"### || [4.26-28]
+",000,False,000,False,False,False,2,408
+"### || [4.29-30]
+",000,False,000,False,False,False,2,352
+"### || [4.31]
+",000,False,000,False,False,False,2,208
+"### || [4.32-33]
+",000,False,000,False,False,False,2,495
+"### || [4.34-35]
+",000,False,000,False,False,False,2,905
+"### || [4.36-39]
+",000,False,000,False,False,False,2,649
+"### || [4.40-42]
+",000,False,000,False,False,False,2,517
+"### || [4.43]
+",000,False,000,False,False,False,2,517
+"### || [4.44-46]
+",000,False,000,False,False,False,2,509
+"### || [4.47]
+",000,False,000,False,False,False,2,291
+"### || [4.48]
+",000,False,000,False,False,False,2,243
+"### || [4.49-50]
+",000,False,000,False,False,False,2,270
+"### || [4.51-55]
+",000,False,000,False,False,False,2,497
+"### || [4.56-57]
+",000,False,000,False,False,False,2,278
+"### || [4.58-59]
+",000,False,000,False,False,False,2,552
+"### || [4.60-63]
+",000,False,000,False,False,False,2,385
+"### || [4.64-65]
+",000,False,000,False,False,False,2,423
+"### || [4.66-70]
+",000,False,000,False,False,False,2,492
+"### || [4.71-73]
+",000,False,000,False,False,False,2,264
+"### || [4.74-76]
+",000,False,000,False,False,False,2,367
+"### || [4.77-79]
+",000,False,000,False,False,False,2,548
+"### || [4.80-83]
+",000,False,000,False,False,False,2,569
+"### || [4.84-86]
+",000,False,000,False,False,False,2,443
+"### || [4.87-91]
+",000,False,000,False,False,False,2,751
+"### || [4.92-93]
+",000,False,000,False,False,False,2,488
+"### || [4.94]
+",000,False,000,False,False,False,2,251
+"### || [4.95-96]
+",000,False,000,False,False,False,2,222
+"### || [4.97-100]
+",000,False,000,False,False,False,2,427
+"### || [4.101-104]
+",000,False,000,False,False,False,2,658
+"### || [4.105-109]
+",000,False,000,False,False,False,2,450
+"### || [4.110-113]
+",000,False,000,False,False,False,2,391
+"### || [4.114-115]
+",000,False,000,False,False,False,2,310
+"### || [4.116-121]
+",000,False,000,False,False,False,2,458
+"### || [4.122]
+",000,False,000,False,False,False,2,132
+"### || [4.123-126]
+",000,False,000,False,False,False,2,475
+"### || [4.127-130]
+",000,False,000,False,False,False,2,875
+"### || [4.131-134]
+",000,False,000,False,False,False,2,337
+"### || [4.135-137]
+",000,False,000,False,False,False,2,417
+"### || [4.138-141]
+",000,False,000,False,False,False,2,568
+"### || [4.142-143]
+",000,False,000,False,False,False,2,217
+"### || [4.144-147]
+",000,False,000,False,False,False,2,336
+"### || [4.148-149]
+",000,False,000,False,False,False,2,225
+"### || [4.150-152]
+",000,False,000,False,False,False,2,331
+"### || [4.153-154]
+",000,False,000,False,False,False,2,455
+"### || [4.155-159]
+",000,False,000,False,False,False,2,595
+"### || [4.160-162]
+",000,False,000,False,False,False,2,344
+"### || [4.163-166]
+",000,False,000,False,False,False,2,436
+"### || [4.167-170]
+",000,False,000,False,False,False,2,360
+"### || [4.171-173]
+",000,False,000,False,False,False,2,535
+"### || [4.174-175]
+",000,False,000,False,False,False,2,250
+"### | [5 - سورة المائدة]
+",000,False,000,False,False,False,1,19376
+"### || [5.1-2]
+",000,False,000,False,False,False,2,595
+"### || [5.3]
+",000,False,000,False,False,False,2,866
+"### || [5.4-5]
+",000,False,000,False,False,False,2,653
+"### || [5.6-7]
+",000,False,000,False,False,False,2,1040
+"### || [5.8-11]
+",000,False,000,False,False,False,2,591
+"### || [5.12]
+",000,False,000,False,False,False,2,300
+"### || [5.13-14]
+",000,False,000,False,False,False,2,441
+"### || [5.15-16]
+",000,False,000,False,False,False,2,368
+"### || [5.17-19]
+",000,False,000,False,False,False,2,626
+"### || [5.20-23]
+",000,False,000,False,False,False,2,426
+"### || [5.24-26]
+",000,False,000,False,False,False,2,252
+"### || [5.27-31]
+",000,False,000,False,False,False,2,497
+"### || [5.32]
+",000,False,000,False,False,False,2,359
+"### || [5.33-34]
+",000,False,000,False,False,False,2,444
+"### || [5.35-37]
+",000,False,000,False,False,False,2,310
+"### || [5.38-40]
+",000,False,000,False,False,False,2,368
+"### || [5.41-43]
+",000,False,000,False,False,False,2,558
+"### || [5.44-47]
+",000,False,000,False,False,False,2,574
+"### || [5.48-50]
+",000,False,000,False,False,False,2,535
+"### || [5.51-53]
+",000,False,000,False,False,False,2,469
+"### || [5.54-56]
+",000,False,000,False,False,False,2,412
+"### || [5.57-60]
+",000,False,000,False,False,False,2,531
+"### || [5.61-63]
+",000,False,000,False,False,False,2,273
+"### || [5.64-66]
+",000,False,000,False,False,False,2,655
+"### || [5.67-69]
+",000,False,000,False,False,False,2,476
+"### || [5.70-72]
+",000,False,000,False,False,False,2,358
+"### || [5.73-76]
+",000,False,000,False,False,False,2,465
+"### || [5.77-81]
+",000,False,000,False,False,False,2,730
+"### || [5.82-86]
+",000,False,000,False,False,False,2,538
+"### || [5.87-89]
+",000,False,000,False,False,False,2,633
+"### || [5.90-93]
+",000,False,000,False,False,False,2,495
+"### || [5.94-96]
+",000,False,000,False,False,False,2,541
+"### || [5.97-100]
+",000,False,000,False,False,False,2,539
+"### || [5.101-104]
+",000,False,000,False,False,False,2,521
+"### || [5.105]
+",000,False,000,False,False,False,2,245
+"### || [5.106-108]
+",000,False,000,False,False,False,2,400
+"### || [5.109-111]
+",000,False,000,False,False,False,2,477
+"### || [5.112-115]
+",000,False,000,False,False,False,2,341
+"### | [6 - سورة الأنعام]
+",000,False,000,False,False,False,1,20521
+"### || [6.1-3]
+",000,False,000,False,False,False,2,382
+"### || [6.4-6]
+",000,False,000,False,False,False,2,315
+"### || [6.7-11]
+",000,False,000,False,False,False,2,430
+"### || [6.12-16]
+",000,False,000,False,False,False,2,489
+"### || [6.17-19]
+",000,False,000,False,False,False,2,380
+"### || [6.20-24]
+",000,False,000,False,False,False,2,367
+"### || [6.25-29]
+",000,False,000,False,False,False,2,477
+"### || [6.30-32]
+",000,False,000,False,False,False,2,411
+"### || [6.33-35]
+",000,False,000,False,False,False,2,447
+"### || [6.36-39]
+",000,False,000,False,False,False,2,513
+"### || [6.40-45]
+",000,False,000,False,False,False,2,402
+"### || [6.46-49]
+",000,False,000,False,False,False,2,378
+"### || [6.50-53]
+",000,False,000,False,False,False,2,511
+"### || [6.54-58]
+",000,False,000,False,False,False,2,542
+"### || [6.59-62]
+",000,False,000,False,False,False,2,488
+"### || [6.63-67]
+",000,False,000,False,False,False,2,432
+"### || [6.68-70]
+",000,False,000,False,False,False,2,525
+"### || [6.71-73]
+",000,False,000,False,False,False,2,428
+"### || [6.74-79]
+",000,False,000,False,False,False,2,382
+"### || [6.80-83]
+",000,False,000,False,False,False,2,399
+"### || [6.84-87]
+",000,False,000,False,False,False,2,395
+"### || [6.88-90]
+",000,False,000,False,False,False,2,415
+"### || [6.91-92]
+",000,False,000,False,False,False,2,431
+"### || [6.93-94]
+",000,False,000,False,False,False,2,366
+"### || [6.95-99]
+",000,False,000,False,False,False,2,735
+"### || [6.100-103]
+",000,False,000,False,False,False,2,564
+"### || [6.104-107]
+",000,False,000,False,False,False,2,356
+"### || [6.108-110]
+",000,False,000,False,False,False,2,418
+"### || [6.111-113]
+",000,False,000,False,False,False,2,395
+"### || [6.114-117]
+",000,False,000,False,False,False,2,485
+"### || [6.118-121]
+",000,False,000,False,False,False,2,544
+"### || [6.122-124]
+",000,False,000,False,False,False,2,436
+"### || [6.125-128]
+",000,False,000,False,False,False,2,694
+"### || [6.129-132]
+",000,False,000,False,False,False,2,465
+"### || [6.133-135]
+",000,False,000,False,False,False,2,350
+"### || [6.136-140]
+",000,False,000,False,False,False,2,750
+"### || [6.141-144]
+",000,False,000,False,False,False,2,687
+"### || [6.145-147]
+",000,False,000,False,False,False,2,618
+"### || [6.148-150]
+",000,False,000,False,False,False,2,439
+"### || [6.151-153]
+",000,False,000,False,False,False,2,907
+"### || [6.154-157]
+",000,False,000,False,False,False,2,549
+"### || [6.158-160]
+",000,False,000,False,False,False,2,427
+"### | [7 - سورة الأعراف]
+",000,False,000,False,False,False,1,22963
+"### || [7.1-5]
+",000,False,000,False,False,False,2,267
+"### || [7.6-10]
+",000,False,000,False,False,False,2,462
+"### || [7.11-18]
+",000,False,000,False,False,False,2,445
+"### || [7.19-22]
+",000,False,000,False,False,False,2,283
+"### || [7.23-25]
+",000,False,000,False,False,False,2,236
+"### || [7.26-28]
+",000,False,000,False,False,False,2,417
+"### || [7.29-31]
+",000,False,000,False,False,False,2,362
+"### || [7.32-34]
+",000,False,000,False,False,False,2,587
+"### || [7.35-36]
+",000,False,000,False,False,False,2,253
+"### || [7.37-41]
+",000,False,000,False,False,False,2,495
+"### || [7.42-43]
+",000,False,000,False,False,False,2,285
+"### || [7.44-47]
+",000,False,000,False,False,False,2,397
+"### || [7.48-51]
+",000,False,000,False,False,False,2,281
+"### || [7.52-54]
+",000,False,000,False,False,False,2,515
+"### || [7.55-56]
+",000,False,000,False,False,False,2,338
+"### || [7.57-58]
+",000,False,000,False,False,False,2,490
+"### || [7.59-64]
+",000,False,000,False,False,False,2,561
+"### || [7.65-69]
+",000,False,000,False,False,False,2,497
+"### || [7.70-72]
+",000,False,000,False,False,False,2,224
+"### || [7.73-76]
+",000,False,000,False,False,False,2,485
+"### || [7.77-79]
+",000,False,000,False,False,False,2,309
+"### || [7.80-84]
+",000,False,000,False,False,False,2,351
+"### || [7.85-87]
+",000,False,000,False,False,False,2,470
+"### || [7.88-89]
+",000,False,000,False,False,False,2,441
+"### || [7.90-93]
+",000,False,000,False,False,False,2,287
+"### || [7.94-95]
+",000,False,000,False,False,False,2,268
+"### || [7.96-100]
+",000,False,000,False,False,False,2,452
+"### || [7.101-102]
+",000,False,000,False,False,False,2,363
+"### || [7.103-108]
+",000,False,000,False,False,False,2,400
+"### || [7.109-112]
+",000,False,000,False,False,False,2,298
+"### || [7.113-116]
+",000,False,000,False,False,False,2,296
+"### || [7.117-122]
+",000,False,000,False,False,False,2,242
+"### || [7.123-126]
+",000,False,000,False,False,False,2,440
+"### || [7.127-129]
+",000,False,000,False,False,False,2,482
+"### || [7.130-133]
+",000,False,000,False,False,False,2,466
+"### || [7.134-137]
+",000,False,000,False,False,False,2,521
+"### || [7.138-141]
+",000,False,000,False,False,False,2,516
+"### || [7.142-145]
+",000,False,000,False,False,False,2,514
+"### || [7.146-147]
+",000,False,000,False,False,False,2,341
+"### || [7.148-149]
+",000,False,000,False,False,False,2,406
+"### || [7.150-154]
+",000,False,000,False,False,False,2,538
+"### || [7.155-157]
+",000,False,000,False,False,False,2,667
+"### || [7.158-162]
+",000,False,000,False,False,False,2,946
+"### || [7.163-166]
+",000,False,000,False,False,False,2,563
+"### || [7.167-170]
+",000,False,000,False,False,False,2,484
+"### || [7.171-174]
+",000,False,000,False,False,False,2,449
+"### || [7.175-178]
+",000,False,000,False,False,False,2,456
+"### || [7.179-181]
+",000,False,000,False,False,False,2,560
+"### || [7.182-186]
+",000,False,000,False,False,False,2,506
+"### || [7.187-188]
+",000,False,000,False,False,False,2,474
+"### || [7.189-193]
+",000,False,000,False,False,False,2,406
+"### || [7.194-198]
+",000,False,000,False,False,False,2,373
+"### || [7.199-202]
+",000,False,000,False,False,False,2,358
+"### | [8 - سورة الأنفال]
+",000,False,000,False,False,False,1,9359
+"### || [8.1-4]
+",000,False,000,False,False,False,2,347
+"### || [8.5-8]
+",000,False,000,False,False,False,2,490
+"### || [8.9-14]
+",000,False,000,False,False,False,2,521
+"### || [8.15-19]
+",000,False,000,False,False,False,2,638
+"### || [8.20-23]
+",000,False,000,False,False,False,2,360
+"### || [8.24-26]
+",000,False,000,False,False,False,2,438
+"### || [8.27-29]
+",000,False,000,False,False,False,2,344
+"### || [8.30-31]
+",000,False,000,False,False,False,2,313
+"### || [8.32-35]
+",000,False,000,False,False,False,2,364
+"### || [8.36-37]
+",000,False,000,False,False,False,2,279
+"### || [8.38-40]
+",000,False,000,False,False,False,2,314
+"### || [8.41-44]
+",000,False,000,False,False,False,2,733
+"### || [8.45-49]
+",000,False,000,False,False,False,2,671
+"### || [8.50-54]
+",000,False,000,False,False,False,2,471
+"### || [8.55-59]
+",000,False,000,False,False,False,2,569
+"### || [8.60-63]
+",000,False,000,False,False,False,2,595
+"### || [8.64-66]
+",000,False,000,False,False,False,2,498
+"### || [8.67-69]
+",000,False,000,False,False,False,2,469
+"### || [8.70-71]
+",000,False,000,False,False,False,2,324
+"### | [9 - سورة التوبة]
+",000,False,000,False,False,False,1,18207
+"### || [9.1-4]
+",000,False,000,False,False,False,2,491
+"### || [9.5-8]
+",000,False,000,False,False,False,2,594
+"### || [9.9-12]
+",000,False,000,False,False,False,2,395
+"### || [9.13-16]
+",000,False,000,False,False,False,2,483
+"### || [9.17-18]
+",000,False,000,False,False,False,2,322
+"### || [9.19-22]
+",000,False,000,False,False,False,2,260
+"### || [9.23-24]
+",000,False,000,False,False,False,2,288
+"### || [9.25-28]
+",000,False,000,False,False,False,2,630
+"### || [9.29]
+",000,False,000,False,False,False,2,367
+"### || [9.30-33]
+",000,False,000,False,False,False,2,469
+"### || [9.34-35]
+",000,False,000,False,False,False,2,356
+"### || [9.36-37]
+",000,False,000,False,False,False,2,520
+"### || [9.38-40]
+",000,False,000,False,False,False,2,502
+"### || [9.41-43]
+",000,False,000,False,False,False,2,407
+"### || [9.44-46]
+",000,False,000,False,False,False,2,292
+"### || [9.47-48]
+",000,False,000,False,False,False,2,373
+"### || [9.49-52]
+",000,False,000,False,False,False,2,405
+"### || [9.53-55]
+",000,False,000,False,False,False,2,385
+"### || [9.56-59]
+",000,False,000,False,False,False,2,371
+"### || [9.60]
+",000,False,000,False,False,False,2,471
+"### || [9.61-63]
+",000,False,000,False,False,False,2,508
+"### || [9.64-66]
+",000,False,000,False,False,False,2,357
+"### || [9.67-70]
+",000,False,000,False,False,False,2,611
+"### || [9.71-72]
+",000,False,000,False,False,False,2,363
+"### || [9.73-74]
+",000,False,000,False,False,False,2,507
+"### || [9.75-78]
+",000,False,000,False,False,False,2,294
+"### || [9.79-80]
+",000,False,000,False,False,False,2,253
+"### || [9.81-83]
+",000,False,000,False,False,False,2,312
+"### || [9.84-85]
+",000,False,000,False,False,False,2,256
+"### || [9.86-90]
+",000,False,000,False,False,False,2,429
+"### || [9.91-92]
+",000,False,000,False,False,False,2,347
+"### || [9.93-96]
+",000,False,000,False,False,False,2,405
+"### || [9.97-99]
+",000,False,000,False,False,False,2,425
+"### || [9.100-102]
+",000,False,000,False,False,False,2,417
+"### || [9.103-106]
+",000,False,000,False,False,False,2,417
+"### || [9.107-110]
+",000,False,000,False,False,False,2,872
+"### || [9.111-112]
+",000,False,000,False,False,False,2,482
+"### || [9.113-116]
+",000,False,000,False,False,False,2,466
+"### || [9.117-119]
+",000,False,000,False,False,False,2,447
+"### || [9.120-122]
+",000,False,000,False,False,False,2,657
+"### || [9.123]
+",000,False,000,False,False,False,2,285
+"### || [9.124-127]
+",000,False,000,False,False,False,2,420
+"### | [10 - سورة يونس]
+",000,False,000,False,False,False,1,13072
+"### || [10.1-2]
+",000,False,000,False,False,False,2,281
+"### || [10.3-6]
+",000,False,000,False,False,False,2,716
+"### || [10.7-10]
+",000,False,000,False,False,False,2,362
+"### || [10.11-14]
+",000,False,000,False,False,False,2,582
+"### || [10.15-18]
+",000,False,000,False,False,False,2,502
+"### || [10.19-20]
+",000,False,000,False,False,False,2,299
+"### || [10.21-23]
+",000,False,000,False,False,False,2,565
+"### || [10.24-25]
+",000,False,000,False,False,False,2,367
+"### || [10.26-30]
+",000,False,000,False,False,False,2,494
+"### || [10.31-33]
+",000,False,000,False,False,False,2,409
+"### || [10.34-36]
+",000,False,000,False,False,False,2,371
+"### || [10.37-39]
+",000,False,000,False,False,False,2,477
+"### || [10.40-44]
+",000,False,000,False,False,False,2,367
+"### || [10.45-48]
+",000,False,000,False,False,False,2,335
+"### || [10.49-53]
+",000,False,000,False,False,False,2,415
+"### || [10.54-58]
+",000,False,000,False,False,False,2,501
+"### || [10.59-61]
+",000,False,000,False,False,False,2,446
+"### || [10.62-64]
+",000,False,000,False,False,False,2,349
+"### || [10.65-67]
+",000,False,000,False,False,False,2,393
+"### || [10.68-70]
+",000,False,000,False,False,False,2,379
+"### || [10.71-73]
+",000,False,000,False,False,False,2,412
+"### || [10.74-78]
+",000,False,000,False,False,False,2,399
+"### || [10.79-82]
+",000,False,000,False,False,False,2,221
+"### || [10.83-87]
+",000,False,000,False,False,False,2,429
+"### || [10.88-89]
+",000,False,000,False,False,False,2,301
+"### || [10.90-92]
+",000,False,000,False,False,False,2,397
+"### || [10.93]
+",000,False,000,False,False,False,2,285
+"### || [10.94-97]
+",000,False,000,False,False,False,2,432
+"### || [10.98-100]
+",000,False,000,False,False,False,2,440
+"### || [10.101-103]
+",000,False,000,False,False,False,2,310
+"### || [10.104-107]
+",000,False,000,False,False,False,2,489
+"### | [11 - سورة هود]
+",000,False,000,False,False,False,1,13028
+"### || [11.1-5]
+",000,False,000,False,False,False,2,707
+"### || [11.6-8]
+",000,False,000,False,False,False,2,529
+"### || [11.9-11]
+",000,False,000,False,False,False,2,259
+"### || [11.12-14]
+",000,False,000,False,False,False,2,369
+"### || [11.15-17]
+",000,False,000,False,False,False,2,481
+"### || [11.18-20]
+",000,False,000,False,False,False,2,411
+"### || [11.21-24]
+",000,False,000,False,False,False,2,348
+"### || [11.25-27]
+",000,False,000,False,False,False,2,312
+"### || [11.28-31]
+",000,False,000,False,False,False,2,493
+"### || [11.32-34]
+",000,False,000,False,False,False,2,306
+"### || [11.35]
+",000,False,000,False,False,False,2,180
+"### || [11.36-39]
+",000,False,000,False,False,False,2,317
+"### || [11.40-44]
+",000,False,000,False,False,False,2,447
+"### || [11.45-49]
+",000,False,000,False,False,False,2,499
+"### || [11.50-52]
+",000,False,000,False,False,False,2,434
+"### || [11.53-57]
+",000,False,000,False,False,False,2,458
+"### || [11.58-60]
+",000,False,000,False,False,False,2,257
+"### || [11.61-63]
+",000,False,000,False,False,False,2,470
+"### || [11.64-68]
+",000,False,000,False,False,False,2,447
+"### || [11.69-73]
+",000,False,000,False,False,False,2,380
+"### || [11.74-76]
+",000,False,000,False,False,False,2,264
+"### || [11.77-80]
+",000,False,000,False,False,False,2,336
+"### || [11.81-83]
+",000,False,000,False,False,False,2,314
+"### || [11.84-86]
+",000,False,000,False,False,False,2,388
+"### || [11.87-90]
+",000,False,000,False,False,False,2,582
+"### || [11.91-95]
+",000,False,000,False,False,False,2,425
+"### || [11.96-99]
+",000,False,000,False,False,False,2,308
+"### || [11.100-102]
+",000,False,000,False,False,False,2,304
+"### || [11.103-109]
+",000,False,000,False,False,False,2,527
+"### || [11.110-113]
+",000,False,000,False,False,False,2,487
+"### || [11.114-115]
+",000,False,000,False,False,False,2,248
+"### || [11.116-119]
+",000,False,000,False,False,False,2,379
+"### | [12 - سورة يوسف]
+",000,False,000,False,False,False,1,11575
+"### || [12.1-3]
+",000,False,000,False,False,False,2,320
+"### || [12.4-6]
+",000,False,000,False,False,False,2,318
+"### || [12.7-10]
+",000,False,000,False,False,False,2,327
+"### || [12.11-14]
+",000,False,000,False,False,False,2,253
+"### || [12.15-18]
+",000,False,000,False,False,False,2,392
+"### || [12.19-22]
+",000,False,000,False,False,False,2,536
+"### || [12.23-25]
+",000,False,000,False,False,False,2,470
+"### || [12.26-29]
+",000,False,000,False,False,False,2,275
+"### || [12.30-34]
+",000,False,000,False,False,False,2,522
+"### || [12.35-38]
+",000,False,000,False,False,False,2,455
+"### || [12.39-42]
+",000,False,000,False,False,False,2,637
+"### || [12.43-46]
+",000,False,000,False,False,False,2,331
+"### || [12.47-49]
+",000,False,000,False,False,False,2,266
+"### || [12.50-52]
+",000,False,000,False,False,False,2,397
+"### || [12.53-57]
+",000,False,000,False,False,False,2,535
+"### || [12.58-62]
+",000,False,000,False,False,False,2,380
+"### || [12.63-67]
+",000,False,000,False,False,False,2,477
+"### || [12.68-72]
+",000,False,000,False,False,False,2,476
+"### || [12.73-76]
+",000,False,000,False,False,False,2,394
+"### || [12.77-79]
+",000,False,000,False,False,False,2,343
+"### || [12.80-84]
+",000,False,000,False,False,False,2,507
+"### || [12.85-88]
+",000,False,000,False,False,False,2,345
+"### || [12.89-93]
+",000,False,000,False,False,False,2,359
+"### || [12.94-100]
+",000,False,000,False,False,False,2,564
+"### || [12.101]
+",000,False,000,False,False,False,2,262
+"### || [12.102-106]
+",000,False,000,False,False,False,2,591
+"### || [12.107-109]
+",000,False,000,False,False,False,2,467
+"### | [13 - سورة الرعد]
+",000,False,000,False,False,False,1,5877
+"### || [13.1-4]
+",000,False,000,False,False,False,2,613
+"### || [13.5-9]
+",000,False,000,False,False,False,2,692
+"### || [13.10-13]
+",000,False,000,False,False,False,2,567
+"### || [13.14-16]
+",000,False,000,False,False,False,2,639
+"### || [13.17-18]
+",000,False,000,False,False,False,2,488
+"### || [13.19-24]
+",000,False,000,False,False,False,2,428
+"### || [13.25-29]
+",000,False,000,False,False,False,2,559
+"### || [13.30-32]
+",000,False,000,False,False,False,2,547
+"### || [13.33-35]
+",000,False,000,False,False,False,2,378
+"### || [13.36-39]
+",000,False,000,False,False,False,2,522
+"### | [14 - سورة ابراهيم]
+",000,False,000,False,False,False,1,5303
+"### || [14.1-5]
+",000,False,000,False,False,False,2,505
+"### || [14.6-9]
+",000,False,000,False,False,False,2,450
+"### || [14.10-14]
+",000,False,000,False,False,False,2,586
+"### || [14.15-20]
+",000,False,000,False,False,False,2,574
+"### || [14.21-23]
+",000,False,000,False,False,False,2,544
+"### || [14.24-30]
+",000,False,000,False,False,False,2,592
+"### || [14.31-34]
+",000,False,000,False,False,False,2,434
+"### || [14.35-41]
+",000,False,000,False,False,False,2,640
+"### || [14.42-46]
+",000,False,000,False,False,False,2,493
+"### | [15 - سورة الحجر]
+",000,False,000,False,False,False,1,4708
+"### || [15.1-5]
+",000,False,000,False,False,False,2,400
+"### || [15.6-11]
+",000,False,000,False,False,False,2,351
+"### || [15.12-18]
+",000,False,000,False,False,False,2,373
+"### || [15.19-25]
+",000,False,000,False,False,False,2,460
+"### || [15.26-33]
+",000,False,000,False,False,False,2,264
+"### || [15.34-44]
+",000,False,000,False,False,False,2,390
+"### || [15.45-56]
+",000,False,000,False,False,False,2,524
+"### || [15.57-66]
+",000,False,000,False,False,False,2,388
+"### || [15.67-79]
+",000,False,000,False,False,False,2,519
+"### || [15.80-88]
+",000,False,000,False,False,False,2,589
+"### | [16 - سورة النحل]
+",000,False,000,False,False,False,1,13820
+"### || [16.1-7]
+",000,False,000,False,False,False,2,589
+"### || [16.8-13]
+",000,False,000,False,False,False,2,635
+"### || [16.14-19]
+",000,False,000,False,False,False,2,594
+"### || [16.20-25]
+",000,False,000,False,False,False,2,523
+"### || [16.26-34]
+",000,False,000,False,False,False,2,1021
+"### || [16.35-40]
+",000,False,000,False,False,False,2,836
+"### || [16.41-44]
+",000,False,000,False,False,False,2,447
+"### || [16.45-50]
+",000,False,000,False,False,False,2,433
+"### || [16.51-56]
+",000,False,000,False,False,False,2,581
+"### || [16.57-62]
+",000,False,000,False,False,False,2,669
+"### || [16.63-66]
+",000,False,000,False,False,False,2,494
+"### || [16.67-70]
+",000,False,000,False,False,False,2,757
+"### || [16.71-74]
+",000,False,000,False,False,False,2,553
+"### || [16.75-78]
+",000,False,000,False,False,False,2,704
+"### || [16.79-83]
+",000,False,000,False,False,False,2,460
+"### || [16.84-89]
+",000,False,000,False,False,False,2,542
+"### || [16.90-93]
+",000,False,000,False,False,False,2,646
+"### || [16.94-97]
+",000,False,000,False,False,False,2,390
+"### || [16.98-102]
+",000,False,000,False,False,False,2,349
+"### || [16.103-109]
+",000,False,000,False,False,False,2,566
+"### || [16.110-113]
+",000,False,000,False,False,False,2,435
+"### || [16.114-118]
+",000,False,000,False,False,False,2,549
+"### || [16.119-124]
+",000,False,000,False,False,False,2,612
+"### | [17 - سورة الإسراء]
+",000,False,000,False,False,False,1,12905
+"### || [17.1]
+",000,False,000,False,False,False,2,366
+"### || [17.2-6]
+",000,False,000,False,False,False,2,508
+"### || [17.7-8]
+",000,False,000,False,False,False,2,501
+"### || [17.9-12]
+",000,False,000,False,False,False,2,414
+"### || [17.13-17]
+",000,False,000,False,False,False,2,542
+"### || [17.18-22]
+",000,False,000,False,False,False,2,580
+"### || [17.23-27]
+",000,False,000,False,False,False,2,592
+"### || [17.28-33]
+",000,False,000,False,False,False,2,734
+"### || [17.34-39]
+",000,False,000,False,False,False,2,889
+"### || [17.40-44]
+",000,False,000,False,False,False,2,435
+"### || [17.45-48]
+",000,False,000,False,False,False,2,472
+"### || [17.49-52]
+",000,False,000,False,False,False,2,355
+"### || [17.53-55]
+",000,False,000,False,False,False,2,470
+"### || [17.56-60]
+",000,False,000,False,False,False,2,871
+"### || [17.61-65]
+",000,False,000,False,False,False,2,448
+"### || [17.66-70]
+",000,False,000,False,False,False,2,602
+"### || [17.71-77]
+",000,False,000,False,False,False,2,564
+"### || [17.78-84]
+",000,False,000,False,False,False,2,806
+"### || [17.85-89]
+",000,False,000,False,False,False,2,481
+"### || [17.90-95]
+",000,False,000,False,False,False,2,429
+"### || [17.96-99]
+",000,False,000,False,False,False,2,395
+"### || [17.100-104]
+",000,False,000,False,False,False,2,500
+"### || [17.105-109]
+",000,False,000,False,False,False,2,493
+"### | [18 - سورة الكهف]
+",000,False,000,False,False,False,1,10384
+"### || [18.1-6]
+",000,False,000,False,False,False,2,513
+"### || [18.7-12]
+",000,False,000,False,False,False,2,577
+"### || [18.13-16]
+",000,False,000,False,False,False,2,470
+"### || [18.17-18]
+",000,False,000,False,False,False,2,336
+"### || [18.19-21]
+",000,False,000,False,False,False,2,614
+"### || [18.22-26]
+",000,False,000,False,False,False,2,630
+"### || [18.27-31]
+",000,False,000,False,False,False,2,672
+"### || [18.32-38]
+",000,False,000,False,False,False,2,359
+"### || [18.39-44]
+",000,False,000,False,False,False,2,465
+"### || [18.45-46]
+",000,False,000,False,False,False,2,327
+"### || [18.47-49]
+",000,False,000,False,False,False,2,364
+"### || [18.50-53]
+",000,False,000,False,False,False,2,512
+"### || [18.54-59]
+",000,False,000,False,False,False,2,526
+"### || [18.60-69]
+",000,False,000,False,False,False,2,829
+"### || [18.70-74]
+",000,False,000,False,False,False,2,342
+"### || [18.75-78]
+",000,False,000,False,False,False,2,319
+"### || [18.79-82]
+",000,False,000,False,False,False,2,323
+"### || [18.83-93]
+",000,False,000,False,False,False,2,773
+"### || [18.94-101]
+",000,False,000,False,False,False,2,469
+"### || [18.102-106]
+",000,False,000,False,False,False,2,417
+"### | [19 - سورة مريم]
+",000,False,000,False,False,False,1,8240
+"### || [19.1-7]
+",000,False,000,False,False,False,2,453
+"### || [19.8-15]
+",000,False,000,False,False,False,2,617
+"### || [19.16-21]
+",000,False,000,False,False,False,2,494
+"### || [19.22-26]
+",000,False,000,False,False,False,2,354
+"### || [19.27-33]
+",000,False,000,False,False,False,2,370
+"### || [19.34-40]
+",000,False,000,False,False,False,2,849
+"### || [19.41-45]
+",000,False,000,False,False,False,2,303
+"### || [19.46-50]
+",000,False,000,False,False,False,2,520
+"### || [19.51-53]
+",000,False,000,False,False,False,2,306
+"### || [19.54-58]
+",000,False,000,False,False,False,2,442
+"### || [19.59-63]
+",000,False,000,False,False,False,2,585
+"### || [19.64-65]
+",000,False,000,False,False,False,2,384
+"### || [19.66-72]
+",000,False,000,False,False,False,2,505
+"### || [19.73-76]
+",000,False,000,False,False,False,2,569
+"### || [19.77-80]
+",000,False,000,False,False,False,2,305
+"### || [19.81-87]
+",000,False,000,False,False,False,2,478
+"### || [19.88-95]
+",000,False,000,False,False,False,2,431
+"### | [20 - سورة طه]
+",000,False,000,False,False,False,1,10185
+"### || [20.1-8]
+",000,False,000,False,False,False,2,347
+"### || [20.9-16]
+",000,False,000,False,False,False,2,542
+"### || [20.17-24]
+",000,False,000,False,False,False,2,462
+"### || [20.25-35]
+",000,False,000,False,False,False,2,341
+"### || [20.36-41]
+",000,False,000,False,False,False,2,487
+"### || [20.42-48]
+",000,False,000,False,False,False,2,524
+"### || [20.49-55]
+",000,False,000,False,False,False,2,670
+"### || [20.56-60]
+",000,False,000,False,False,False,2,306
+"### || [20.61-66]
+",000,False,000,False,False,False,2,379
+"### || [20.67-71]
+",000,False,000,False,False,False,2,378
+"### || [20.72-76]
+",000,False,000,False,False,False,2,426
+"### || [20.77-82]
+",000,False,000,False,False,False,2,492
+"### || [20.83-89]
+",000,False,000,False,False,False,2,783
+"### || [20.90-94]
+",000,False,000,False,False,False,2,306
+"### || [20.95-98]
+",000,False,000,False,False,False,2,487
+"### || [20.99-104]
+",000,False,000,False,False,False,2,377
+"### || [20.105-112]
+",000,False,000,False,False,False,2,433
+"### || [20.113-115]
+",000,False,000,False,False,False,2,448
+"### || [20.116-122]
+",000,False,000,False,False,False,2,548
+"### || [20.123-127]
+",000,False,000,False,False,False,2,434
+"### || [20.128-132]
+",000,False,000,False,False,False,2,549
+"### | [21 - سورة الأنبياء]
+",000,False,000,False,False,False,1,9515
+"### || [21.1-6]
+",000,False,000,False,False,False,2,428
+"### || [21.7-10]
+",000,False,000,False,False,False,2,405
+"### || [21.11-15]
+",000,False,000,False,False,False,2,280
+"### || [21.16-20]
+",000,False,000,False,False,False,2,484
+"### || [21.21-25]
+",000,False,000,False,False,False,2,543
+"### || [21.26-29]
+",000,False,000,False,False,False,2,332
+"### || [21.30-33]
+",000,False,000,False,False,False,2,373
+"### || [21.34-38]
+",000,False,000,False,False,False,2,461
+"### || [21.39-43]
+",000,False,000,False,False,False,2,423
+"### || [21.44-47]
+",000,False,000,False,False,False,2,328
+"### || [21.48-50]
+",000,False,000,False,False,False,2,273
+"### || [21.51-58]
+",000,False,000,False,False,False,2,497
+"### || [21.59-65]
+",000,False,000,False,False,False,2,366
+"### || [21.66-72]
+",000,False,000,False,False,False,2,536
+"### || [21.73-77]
+",000,False,000,False,False,False,2,429
+"### || [21.78-82]
+",000,False,000,False,False,False,2,704
+"### || [21.83-86]
+",000,False,000,False,False,False,2,305
+"### || [21.87-91]
+",000,False,000,False,False,False,2,663
+"### || [21.92-97]
+",000,False,000,False,False,False,2,583
+"### || [21.98-104]
+",000,False,000,False,False,False,2,531
+"### | [22 - سورة الحج]
+",000,False,000,False,False,False,1,9619
+"### || [22.1-4]
+",000,False,000,False,False,False,2,373
+"### || [22.5-7]
+",000,False,000,False,False,False,2,719
+"### || [22.8-13]
+",000,False,000,False,False,False,2,672
+"### || [22.14-17]
+",000,False,000,False,False,False,2,450
+"### || [22.18]
+",000,False,000,False,False,False,2,258
+"### || [22.19-24]
+",000,False,000,False,False,False,2,378
+"### || [22.25]
+",000,False,000,False,False,False,2,288
+"### || [22.26-29]
+",000,False,000,False,False,False,2,580
+"### || [22.30-33]
+",000,False,000,False,False,False,2,634
+"### || [22.34-37]
+",000,False,000,False,False,False,2,704
+"### || [22.38-41]
+",000,False,000,False,False,False,2,557
+"### || [22.42-46]
+",000,False,000,False,False,False,2,506
+"### || [22.47-51]
+",000,False,000,False,False,False,2,446
+"### || [22.52-57]
+",000,False,000,False,False,False,2,736
+"### || [22.58-62]
+",000,False,000,False,False,False,2,511
+"### || [22.63-66]
+",000,False,000,False,False,False,2,330
+"### || [22.67-72]
+",000,False,000,False,False,False,2,516
+"### || [22.73-76]
+",000,False,000,False,False,False,2,449
+"### | [23 - سورة المؤمنون]
+",000,False,000,False,False,False,1,7504
+"### || [23.1-11]
+",000,False,000,False,False,False,2,538
+"### || [23.12-16]
+",000,False,000,False,False,False,2,334
+"### || [23.17-22]
+",000,False,000,False,False,False,2,390
+"### || [23.23-26]
+",000,False,000,False,False,False,2,374
+"### || [23.27-30]
+",000,False,000,False,False,False,2,409
+"### || [23.31-38]
+",000,False,000,False,False,False,2,427
+"### || [23.39-44]
+",000,False,000,False,False,False,2,360
+"### || [23.45-50]
+",000,False,000,False,False,False,2,404
+"### || [23.51-56]
+",000,False,000,False,False,False,2,404
+"### || [23.57-62]
+",000,False,000,False,False,False,2,378
+"### || [23.63-70]
+",000,False,000,False,False,False,2,445
+"### || [23.71-77]
+",000,False,000,False,False,False,2,453
+"### || [23.78-83]
+",000,False,000,False,False,False,2,377
+"### || [23.84-92]
+",000,False,000,False,False,False,2,567
+"### || [23.93-100]
+",000,False,000,False,False,False,2,414
+"### || [23.101-107]
+",000,False,000,False,False,False,2,533
+"### || [23.108-111]
+",000,False,000,False,False,False,2,176
+"### | [24 - سورة النور]
+",000,False,000,False,False,False,1,9464
+"### || [24.1-3]
+",000,False,000,False,False,False,2,357
+"### || [24.4-5]
+",000,False,000,False,False,False,2,209
+"### || [24.6-10]
+",000,False,000,False,False,False,2,301
+"### || [24.11-18]
+",000,False,000,False,False,False,2,956
+"### || [24.19-22]
+",000,False,000,False,False,False,2,777
+"### || [24.23-26]
+",000,False,000,False,False,False,2,391
+"### || [24.27-29]
+",000,False,000,False,False,False,2,457
+"### || [24.30-31]
+",000,False,000,False,False,False,2,672
+"### || [24.32-34]
+",000,False,000,False,False,False,2,672
+"### || [24.35-38]
+",000,False,000,False,False,False,2,599
+"### || [24.39-42]
+",000,False,000,False,False,False,2,548
+"### || [24.43-46]
+",000,False,000,False,False,False,2,545
+"### || [24.47-52]
+",000,False,000,False,False,False,2,466
+"### || [24.53-55]
+",000,False,000,False,False,False,2,572
+"### || [24.56-57]
+",000,False,000,False,False,False,2,247
+"### || [24.58-60]
+",000,False,000,False,False,False,2,651
+"### || [24.61]
+",000,False,000,False,False,False,2,470
+"### | [25 - سورة الفرقان]
+",000,False,000,False,False,False,1,6959
+"### || [25.1-3]
+",000,False,000,False,False,False,2,319
+"### || [25.4-9]
+",000,False,000,False,False,False,2,625
+"### || [25.10-16]
+",000,False,000,False,False,False,2,571
+"### || [25.17-20]
+",000,False,000,False,False,False,2,496
+"### || [25.21-24]
+",000,False,000,False,False,False,2,415
+"### || [25.25-29]
+",000,False,000,False,False,False,2,357
+"### || [25.30-34]
+",000,False,000,False,False,False,2,462
+"### || [25.35-40]
+",000,False,000,False,False,False,2,380
+"### || [25.41-44]
+",000,False,000,False,False,False,2,372
+"### || [25.45-50]
+",000,False,000,False,False,False,2,676
+"### || [25.51-56]
+",000,False,000,False,False,False,2,488
+"### || [25.57-62]
+",000,False,000,False,False,False,2,646
+"### || [25.63-71]
+",000,False,000,False,False,False,2,607
+"### | [26 - سورة الشعراء]
+",000,False,000,False,False,False,1,10125
+"### || [26.1-9]
+",000,False,000,False,False,False,2,575
+"### || [26.10-17]
+",000,False,000,False,False,False,2,372
+"### || [26.18-22]
+",000,False,000,False,False,False,2,377
+"### || [26.23-31]
+",000,False,000,False,False,False,2,375
+"### || [26.32-42]
+",000,False,000,False,False,False,2,454
+"### || [26.43-49]
+",000,False,000,False,False,False,2,394
+"### || [26.50-60]
+",000,False,000,False,False,False,2,377
+"### || [26.61-68]
+",000,False,000,False,False,False,2,335
+"### || [26.69-82]
+",000,False,000,False,False,False,2,576
+"### || [26.83-93]
+",000,False,000,False,False,False,2,383
+"### || [26.94-104]
+",000,False,000,False,False,False,2,431
+"### || [26.105-115]
+",000,False,000,False,False,False,2,369
+"### || [26.116-122]
+",000,False,000,False,False,False,2,318
+"### || [26.123-131]
+",000,False,000,False,False,False,2,387
+"### || [26.132-140]
+",000,False,000,False,False,False,2,356
+"### || [26.141-152]
+",000,False,000,False,False,False,2,407
+"### || [26.153-159]
+",000,False,000,False,False,False,2,354
+"### || [26.160-166]
+",000,False,000,False,False,False,2,313
+"### || [26.167-175]
+",000,False,000,False,False,False,2,414
+"### || [26.176-184]
+",000,False,000,False,False,False,2,357
+"### || [26.185-191]
+",000,False,000,False,False,False,2,353
+"### || [26.192-201]
+",000,False,000,False,False,False,2,439
+"### || [26.202-212]
+",000,False,000,False,False,False,2,392
+"### || [26.213-220]
+",000,False,000,False,False,False,2,514
+"### | [27 - سورة النمل]
+",000,False,000,False,False,False,1,8056
+"### || [27.1-5]
+",000,False,000,False,False,False,2,346
+"### || [27.6-11]
+",000,False,000,False,False,False,2,523
+"### || [27.12-14]
+",000,False,000,False,False,False,2,309
+"### || [27.15-19]
+",000,False,000,False,False,False,2,503
+"### || [27.20-26]
+",000,False,000,False,False,False,2,482
+"### || [27.27-31]
+",000,False,000,False,False,False,2,309
+"### || [27.32-35]
+",000,False,000,False,False,False,2,276
+"### || [27.36-40]
+",000,False,000,False,False,False,2,532
+"### || [27.41-44]
+",000,False,000,False,False,False,2,431
+"### || [27.45-49]
+",000,False,000,False,False,False,2,495
+"### || [27.50-53]
+",000,False,000,False,False,False,2,258
+"### || [27.54-55]
+",000,False,000,False,False,False,2,242
+"### || [27.56-58]
+",000,False,000,False,False,False,2,290
+"### || [27.59-64]
+",000,False,000,False,False,False,2,560
+"### || [27.65-69]
+",000,False,000,False,False,False,2,455
+"### || [27.70-75]
+",000,False,000,False,False,False,2,373
+"### || [27.76-81]
+",000,False,000,False,False,False,2,419
+"### || [27.82-86]
+",000,False,000,False,False,False,2,488
+"### || [27.87-90]
+",000,False,000,False,False,False,2,342
+"### | [28 - سورة القصص]
+",000,False,000,False,False,False,1,11399
+"### || [28.1-6]
+",000,False,000,False,False,False,2,633
+"### || [28.7-11]
+",000,False,000,False,False,False,2,588
+"### || [28.12-16]
+",000,False,000,False,False,False,2,709
+"### || [28.17-21]
+",000,False,000,False,False,False,2,613
+"### || [28.22-24]
+",000,False,000,False,False,False,2,583
+"### || [28.25-28]
+",000,False,000,False,False,False,2,502
+"### || [28.29-32]
+",000,False,000,False,False,False,2,511
+"### || [28.33-37]
+",000,False,000,False,False,False,2,433
+"### || [28.38-43]
+",000,False,000,False,False,False,2,554
+"### || [28.44-47]
+",000,False,000,False,False,False,2,417
+"### || [28.48-51]
+",000,False,000,False,False,False,2,600
+"### || [28.52-55]
+",000,False,000,False,False,False,2,398
+"### || [28.56-59]
+",000,False,000,False,False,False,2,805
+"### || [28.60-61]
+",000,False,000,False,False,False,2,358
+"### || [28.62-67]
+",000,False,000,False,False,False,2,451
+"### || [28.68-70]
+",000,False,000,False,False,False,2,610
+"### || [28.71-75]
+",000,False,000,False,False,False,2,552
+"### || [28.76-78]
+",000,False,000,False,False,False,2,580
+"### || [28.79-82]
+",000,False,000,False,False,False,2,606
+"### || [28.83-84]
+",000,False,000,False,False,False,2,326
+"### | [29 - سورة العنكبوت]
+",000,False,000,False,False,False,1,9501
+"### || [29.1-7]
+",000,False,000,False,False,False,2,648
+"### || [29.8-13]
+",000,False,000,False,False,False,2,652
+"### || [29.14-15]
+",000,False,000,False,False,False,2,345
+"### || [29.16-18]
+",000,False,000,False,False,False,2,609
+"### || [29.19-23]
+",000,False,000,False,False,False,2,586
+"### || [29.24-25]
+",000,False,000,False,False,False,2,494
+"### || [29.26-27]
+",000,False,000,False,False,False,2,386
+"### || [29.28-30]
+",000,False,000,False,False,False,2,395
+"### || [29.31-35]
+",000,False,000,False,False,False,2,530
+"### || [29.36-37]
+",000,False,000,False,False,False,2,241
+"### || [29.38-40]
+",000,False,000,False,False,False,2,445
+"### || [29.41-45]
+",000,False,000,False,False,False,2,869
+"### || [29.46-49]
+",000,False,000,False,False,False,2,686
+"### || [29.50-52]
+",000,False,000,False,False,False,2,430
+"### || [29.53-55]
+",000,False,000,False,False,False,2,255
+"### || [29.56-60]
+",000,False,000,False,False,False,2,498
+"### || [29.61-64]
+",000,False,000,False,False,False,2,637
+"### | [30 - سورة الروم]
+",000,False,000,False,False,False,1,7139
+"### || [30.1-7]
+",000,False,000,False,False,False,2,647
+"### || [30.8-10]
+",000,False,000,False,False,False,2,422
+"### || [30.11-16]
+",000,False,000,False,False,False,2,453
+"### || [30.17-21]
+",000,False,000,False,False,False,2,611
+"### || [30.22-25]
+",000,False,000,False,False,False,2,656
+"### || [30.26-29]
+",000,False,000,False,False,False,2,646
+"### || [30.30-32]
+",000,False,000,False,False,False,2,536
+"### || [30.33-37]
+",000,False,000,False,False,False,2,501
+"### || [30.38-40]
+",000,False,000,False,False,False,2,507
+"### || [30.41-45]
+",000,False,000,False,False,False,2,557
+"### || [30.46-47]
+",000,False,000,False,False,False,2,345
+"### || [30.48-53]
+",000,False,000,False,False,False,2,503
+"### || [30.54-57]
+",000,False,000,False,False,False,2,352
+"### | [31 - سورة لقمان]
+",000,False,000,False,False,False,1,4808
+"### || [31.1-5]
+",000,False,000,False,False,False,2,576
+"### || [31.6-11]
+",000,False,000,False,False,False,2,778
+"### || [31.12-15]
+",000,False,000,False,False,False,2,731
+"### || [31.16-19]
+",000,False,000,False,False,False,2,493
+"### || [31.20-21]
+",000,False,000,False,False,False,2,357
+"### || [31.22-26]
+",000,False,000,False,False,False,2,489
+"### || [31.27-28]
+",000,False,000,False,False,False,2,290
+"### || [31.29-32]
+",000,False,000,False,False,False,2,524
+"### | [32 - سورة السجدة]
+",000,False,000,False,False,False,1,3158
+"### || [32.1-4]
+",000,False,000,False,False,False,2,513
+"### || [32.5-9]
+",000,False,000,False,False,False,2,406
+"### || [32.10-11]
+",000,False,000,False,False,False,2,242
+"### || [32.12-14]
+",000,False,000,False,False,False,2,362
+"### || [32.15-17]
+",000,False,000,False,False,False,2,370
+"### || [32.18-22]
+",000,False,000,False,False,False,2,418
+"### || [32.23-26]
+",000,False,000,False,False,False,2,507
+"### | [33 - سورة الأحزاب]
+",000,False,000,False,False,False,1,12504
+"### || [33.1-3]
+",000,False,000,False,False,False,2,353
+"### || [33.4-5]
+",000,False,000,False,False,False,2,562
+"### || [33.6-8]
+",000,False,000,False,False,False,2,529
+"### || [33.9-14]
+",000,False,000,False,False,False,2,1165
+"### || [33.15-19]
+",000,False,000,False,False,False,2,781
+"### || [33.20-25]
+",000,False,000,False,False,False,2,784
+"### || [33.26-27]
+",000,False,000,False,False,False,2,476
+"### || [33.28-30]
+",000,False,000,False,False,False,2,558
+"### || [33.31-34]
+",000,False,000,False,False,False,2,641
+"### || [33.35]
+",000,False,000,False,False,False,2,416
+"### || [33.36-40]
+",000,False,000,False,False,False,2,1015
+"### || [33.41-44]
+",000,False,000,False,False,False,2,320
+"### || [33.45-48]
+",000,False,000,False,False,False,2,285
+"### || [33.49]
+",000,False,000,False,False,False,2,237
+"### || [33.50]
+",000,False,000,False,False,False,2,357
+"### || [33.51-52]
+",000,False,000,False,False,False,2,924
+"### || [33.53-55]
+",000,False,000,False,False,False,2,902
+"### || [33.56-59]
+",000,False,000,False,False,False,2,575
+"### || [33.60-62]
+",000,False,000,False,False,False,2,399
+"### || [33.63-68]
+",000,False,000,False,False,False,2,478
+"### | [34 - سورة سبإ]
+",000,False,000,False,False,False,1,7367
+"### || [34.1-2]
+",000,False,000,False,False,False,2,342
+"### || [34.3-6]
+",000,False,000,False,False,False,2,566
+"### || [34.7-9]
+",000,False,000,False,False,False,2,567
+"### || [34.10-14]
+",000,False,000,False,False,False,2,857
+"### || [34.15-19]
+",000,False,000,False,False,False,2,768
+"### || [34.20-23]
+",000,False,000,False,False,False,2,775
+"### || [34.24-30]
+",000,False,000,False,False,False,2,716
+"### || [34.31-33]
+",000,False,000,False,False,False,2,517
+"### || [34.34-39]
+",000,False,000,False,False,False,2,660
+"### || [34.40-42]
+",000,False,000,False,False,False,2,306
+"### || [34.43-46]
+",000,False,000,False,False,False,2,600
+"### | [35 - سورة فاطر]
+",000,False,000,False,False,False,1,5694
+"### || [35.1-3]
+",000,False,000,False,False,False,2,513
+"### || [35.4-7]
+",000,False,000,False,False,False,2,384
+"### || [35.8-11]
+",000,False,000,False,False,False,2,734
+"### || [35.12-14]
+",000,False,000,False,False,False,2,673
+"### || [35.15-18]
+",000,False,000,False,False,False,2,525
+"### || [35.19-26]
+",000,False,000,False,False,False,2,514
+"### || [35.27-30]
+",000,False,000,False,False,False,2,447
+"### || [35.31-35]
+",000,False,000,False,False,False,2,444
+"### || [35.36-39]
+",000,False,000,False,False,False,2,440
+"### || [35.40-43]
+",000,False,000,False,False,False,2,688
+"### | [36 - سورة يس]
+",000,False,000,False,False,False,1,6204
+"### || [36.1-12]
+",000,False,000,False,False,False,2,797
+"### || [36.13-19]
+",000,False,000,False,False,False,2,350
+"### || [36.20-27]
+",000,False,000,False,False,False,2,493
+"### || [36.28-32]
+",000,False,000,False,False,False,2,341
+"### || [36.33-36]
+",000,False,000,False,False,False,2,459
+"### || [36.37-40]
+",000,False,000,False,False,False,2,637
+"### || [36.41-46]
+",000,False,000,False,False,False,2,431
+"### || [36.47-54]
+",000,False,000,False,False,False,2,600
+"### || [36.55-58]
+",000,False,000,False,False,False,2,242
+"### || [36.59-68]
+",000,False,000,False,False,False,2,546
+"### || [36.69-76]
+",000,False,000,False,False,False,2,643
+"### | [37 - سورة الصافات]
+",000,False,000,False,False,False,1,7549
+"### || [37.1-10]
+",000,False,000,False,False,False,2,520
+"### || [37.11-21]
+",000,False,000,False,False,False,2,501
+"### || [37.22-30]
+",000,False,000,False,False,False,2,375
+"### || [37.31-37]
+",000,False,000,False,False,False,2,385
+"### || [37.38-49]
+",000,False,000,False,False,False,2,499
+"### || [37.50-61]
+",000,False,000,False,False,False,2,434
+"### || [37.62-74]
+",000,False,000,False,False,False,2,451
+"### || [37.75-82]
+",000,False,000,False,False,False,2,364
+"### || [37.83-98]
+",000,False,000,False,False,False,2,792
+"### || [37.99-113]
+",000,False,000,False,False,False,2,650
+"### || [37.114-122]
+",000,False,000,False,False,False,2,256
+"### || [37.123-132]
+",000,False,000,False,False,False,2,276
+"### || [37.133-138]
+",000,False,000,False,False,False,2,286
+"### || [37.139-148]
+",000,False,000,False,False,False,2,575
+"### || [37.149-160]
+",000,False,000,False,False,False,2,511
+"### || [37.161-170]
+",000,False,000,False,False,False,2,325
+"### | [38 - سورة ص]
+",000,False,000,False,False,False,1,6150
+"### || [38.1-11]
+",000,False,000,False,False,False,2,987
+"### || [38.12-20]
+",000,False,000,False,False,False,2,528
+"### || [38.21-25]
+",000,False,000,False,False,False,2,633
+"### || [38.26-29]
+",000,False,000,False,False,False,2,625
+"### || [38.30-33]
+",000,False,000,False,False,False,2,334
+"### || [38.34-40]
+",000,False,000,False,False,False,2,515
+"### || [38.41-44]
+",000,False,000,False,False,False,2,395
+"### || [38.45-54]
+",000,False,000,False,False,False,2,458
+"### || [38.55-64]
+",000,False,000,False,False,False,2,517
+"### || [38.65-74]
+",000,False,000,False,False,False,2,556
+"### | [39 - سورة الزمر]
+",000,False,000,False,False,False,1,9044
+"### || [39.1-4]
+",000,False,000,False,False,False,2,380
+"### || [39.5-7]
+",000,False,000,False,False,False,2,702
+"### || [39.8-9]
+",000,False,000,False,False,False,2,469
+"### || [39.10-16]
+",000,False,000,False,False,False,2,555
+"### || [39.17-20]
+",000,False,000,False,False,False,2,477
+"### || [39.21-23]
+",000,False,000,False,False,False,2,626
+"### || [39.24-26]
+",000,False,000,False,False,False,2,271
+"### || [39.27-31]
+",000,False,000,False,False,False,2,438
+"### || [39.32-35]
+",000,False,000,False,False,False,2,411
+"### || [39.36-40]
+",000,False,000,False,False,False,2,549
+"### || [39.41-45]
+",000,False,000,False,False,False,2,812
+"### || [39.46-48]
+",000,False,000,False,False,False,2,389
+"### || [39.49-52]
+",000,False,000,False,False,False,2,575
+"### || [39.53-59]
+",000,False,000,False,False,False,2,581
+"### || [39.60-66]
+",000,False,000,False,False,False,2,689
+"### || [39.67-70]
+",000,False,000,False,False,False,2,483
+"### | [40 - سورة غافر]
+",000,False,000,False,False,False,1,8865
+"### || [40.1-6]
+",000,False,000,False,False,False,2,658
+"### || [40.7-9]
+",000,False,000,False,False,False,2,522
+"### || [40.10-17]
+",000,False,000,False,False,False,2,759
+"### || [40.18-20]
+",000,False,000,False,False,False,2,312
+"### || [40.21-22]
+",000,False,000,False,False,False,2,315
+"### || [40.23-27]
+",000,False,000,False,False,False,2,539
+"### || [40.28-29]
+",000,False,000,False,False,False,2,468
+"### || [40.30-35]
+",000,False,000,False,False,False,2,594
+"### || [40.36-40]
+",000,False,000,False,False,False,2,418
+"### || [40.41-46]
+",000,False,000,False,False,False,2,585
+"### || [40.47-52]
+",000,False,000,False,False,False,2,542
+"### || [40.53-57]
+",000,False,000,False,False,False,2,485
+"### || [40.58-63]
+",000,False,000,False,False,False,2,660
+"### || [40.64-68]
+",000,False,000,False,False,False,2,637
+"### || [40.69-76]
+",000,False,000,False,False,False,2,463
+"### || [40.77-81]
+",000,False,000,False,False,False,2,536
+"### | [41 - سورة فصلت]
+",000,False,000,False,False,False,1,6600
+"### || [41.1-5]
+",000,False,000,False,False,False,2,369
+"### || [41.6-8]
+",000,False,000,False,False,False,2,316
+"### || [41.9-12]
+",000,False,000,False,False,False,2,708
+"### || [41.13-18]
+",000,False,000,False,False,False,2,647
+"### || [41.19-24]
+",000,False,000,False,False,False,2,474
+"### || [41.25-29]
+",000,False,000,False,False,False,2,542
+"### || [41.30-32]
+",000,False,000,False,False,False,2,328
+"### || [41.33-36]
+",000,False,000,False,False,False,2,553
+"### || [41.37-39]
+",000,False,000,False,False,False,2,408
+"### || [41.40-42]
+",000,False,000,False,False,False,2,428
+"### || [41.43-46]
+",000,False,000,False,False,False,2,616
+"### || [41.47-48]
+",000,False,000,False,False,False,2,283
+"### || [41.49-51]
+",000,False,000,False,False,False,2,412
+"### | [42 - سورة الشورى]
+",000,False,000,False,False,False,1,7458
+"### || [42.1-6]
+",000,False,000,False,False,False,2,416
+"### || [42.7-9]
+",000,False,000,False,False,False,2,489
+"### || [42.10-12]
+",000,False,000,False,False,False,2,412
+"### || [42.13-14]
+",000,False,000,False,False,False,2,523
+"### || [42.15-16]
+",000,False,000,False,False,False,2,550
+"### || [42.17-21]
+",000,False,000,False,False,False,2,754
+"### || [42.22-26]
+",000,False,000,False,False,False,2,823
+"### || [42.27-31]
+",000,False,000,False,False,False,2,686
+"### || [42.32-35]
+",000,False,000,False,False,False,2,525
+"### || [42.36-41]
+",000,False,000,False,False,False,2,627
+"### || [42.42-46]
+",000,False,000,False,False,False,2,528
+"### || [42.47-50]
+",000,False,000,False,False,False,2,645
+"### | [43 - سورة الزخرف]
+",000,False,000,False,False,False,1,7550
+"### || [43.1-8]
+",000,False,000,False,False,False,2,469
+"### || [43.9-14]
+",000,False,000,False,False,False,2,536
+"### || [43.15-23]
+",000,False,000,False,False,False,2,871
+"### || [43.24-32]
+",000,False,000,False,False,False,2,965
+"### || [43.33-35]
+",000,False,000,False,False,False,2,291
+"### || [43.36-40]
+",000,False,000,False,False,False,2,482
+"### || [43.41-45]
+",000,False,000,False,False,False,2,401
+"### || [43.46-50]
+",000,False,000,False,False,False,2,381
+"### || [43.51-56]
+",000,False,000,False,False,False,2,357
+"### || [43.57-62]
+",000,False,000,False,False,False,2,621
+"### || [43.63-66]
+",000,False,000,False,False,False,2,542
+"### || [43.67-73]
+",000,False,000,False,False,False,2,437
+"### || [43.74-80]
+",000,False,000,False,False,False,2,434
+"### || [43.81-85]
+",000,False,000,False,False,False,2,393
+"### | [44 - سورة الدخان]
+",000,False,000,False,False,False,1,3528
+"### || [44.1-9]
+",000,False,000,False,False,False,2,674
+"### || [44.10-16]
+",000,False,000,False,False,False,2,408
+"### || [44.17-24]
+",000,False,000,False,False,False,2,495
+"### || [44.25-33]
+",000,False,000,False,False,False,2,462
+"### || [44.34-42]
+",000,False,000,False,False,False,2,596
+"### || [44.43-50]
+",000,False,000,False,False,False,2,388
+"### | [45 - سورة الجاثية]
+",000,False,000,False,False,False,1,5132
+"### || [45.1-5]
+",000,False,000,False,False,False,2,595
+"### || [45.6-11]
+",000,False,000,False,False,False,2,707
+"### || [45.12-15]
+",000,False,000,False,False,False,2,626
+"### || [45.16-20]
+",000,False,000,False,False,False,2,803
+"### || [45.21-23]
+",000,False,000,False,False,False,2,604
+"### || [45.24-26]
+",000,False,000,False,False,False,2,711
+"### || [45.27-32]
+",000,False,000,False,False,False,2,576
+"### | [46 - سورة الأحقاف]
+",000,False,000,False,False,False,1,5367
+"### || [46.1-6]
+",000,False,000,False,False,False,2,555
+"### || [46.7-9]
+",000,False,000,False,False,False,2,590
+"### || [46.10-14]
+",000,False,000,False,False,False,2,739
+"### || [46.15-16]
+",000,False,000,False,False,False,2,595
+"### || [46.17-20]
+",000,False,000,False,False,False,2,747
+"### || [46.21-25]
+",000,False,000,False,False,False,2,668
+"### || [46.26-28]
+",000,False,000,False,False,False,2,429
+"### || [46.29-32]
+",000,False,000,False,False,False,2,544
+"### | [47 - سورة محمد]
+",000,False,000,False,False,False,1,4994
+"### || [47.1-3]
+",000,False,000,False,False,False,2,479
+"### || [47.4-9]
+",000,False,000,False,False,False,2,816
+"### || [47.10-14]
+",000,False,000,False,False,False,2,530
+"### || [47.15]
+",000,False,000,False,False,False,2,322
+"### || [47.16-19]
+",000,False,000,False,False,False,2,732
+"### || [47.20-23]
+",000,False,000,False,False,False,2,472
+"### || [47.24-28]
+",000,False,000,False,False,False,2,511
+"### || [47.29-32]
+",000,False,000,False,False,False,2,504
+"### | [48 - سورة الفتح]
+",000,False,000,False,False,False,1,5784
+"### || [48.1-7]
+",000,False,000,False,False,False,2,881
+"### || [48.8-10]
+",000,False,000,False,False,False,2,371
+"### || [48.11-14]
+",000,False,000,False,False,False,2,638
+"### || [48.15]
+",000,False,000,False,False,False,2,414
+"### || [48.16-17]
+",000,False,000,False,False,False,2,443
+"### || [48.18-19]
+",000,False,000,False,False,False,2,542
+"### || [48.20-24]
+",000,False,000,False,False,False,2,635
+"### || [48.25-26]
+",000,False,000,False,False,False,2,875
+"### || [48.27-28]
+",000,False,000,False,False,False,2,428
+"### | [49 - سورة الحجرات]
+",000,False,000,False,False,False,1,3948
+"### || [49.1-3]
+",000,False,000,False,False,False,2,787
+"### || [49.4-8]
+",000,False,000,False,False,False,2,914
+"### || [49.9-13]
+",000,False,000,False,False,False,2,1416
+"### | [50 - سورة ق]
+",000,False,000,False,False,False,1,3749
+"### || [50.1-5]
+",000,False,000,False,False,False,2,441
+"### || [50.6-11]
+",000,False,000,False,False,False,2,576
+"### || [50.12-15]
+",000,False,000,False,False,False,2,425
+"### || [50.16-22]
+",000,False,000,False,False,False,2,608
+"### || [50.23-30]
+",000,False,000,False,False,False,2,632
+"### || [50.31-35]
+",000,False,000,False,False,False,2,317
+"### | [51 - سورة الذاريات]
+",000,False,000,False,False,False,1,3817
+"### || [51.1-14]
+",000,False,000,False,False,False,2,419
+"### || [51.15-23]
+",000,False,000,False,False,False,2,743
+"### || [51.24-30]
+",000,False,000,False,False,False,2,562
+"### || [51.31-37]
+",000,False,000,False,False,False,2,302
+"### || [51.38-46]
+",000,False,000,False,False,False,2,602
+"### || [51.47-51]
+",000,False,000,False,False,False,2,500
+"### | [52 - سورة الطور]
+",000,False,000,False,False,False,1,2898
+"### || [52.1-16]
+",000,False,000,False,False,False,2,469
+"### || [52.17-20]
+",000,False,000,False,False,False,2,269
+"### || [52.21-28]
+",000,False,000,False,False,False,2,523
+"### || [52.29-34]
+",000,False,000,False,False,False,2,403
+"### || [52.35-43]
+",000,False,000,False,False,False,2,793
+"### | [53 - سورة النجم]
+",000,False,000,False,False,False,1,3718
+"### || [53.1-18]
+",000,False,000,False,False,False,2,789
+"### || [53.19-26]
+",000,False,000,False,False,False,2,580
+"### || [53.27-30]
+",000,False,000,False,False,False,2,423
+"### || [53.31-32]
+",000,False,000,False,False,False,2,486
+"### || [53.33-54]
+",000,False,000,False,False,False,2,996
+"### | [54 - سورة القمر]
+",000,False,000,False,False,False,1,3447
+"### || [54.1-8]
+",000,False,000,False,False,False,2,490
+"### || [54.9-17]
+",000,False,000,False,False,False,2,430
+"### || [54.18-22]
+",000,False,000,False,False,False,2,317
+"### || [54.23-32]
+",000,False,000,False,False,False,2,650
+"### || [54.33-42]
+",000,False,000,False,False,False,2,653
+"### || [54.43-46]
+",000,False,000,False,False,False,2,319
+"### | [55 - سورة الرحمن]
+",000,False,000,False,False,False,1,2867
+"### || [55.1-13]
+",000,False,000,False,False,False,2,520
+"### || [55.14-25]
+",000,False,000,False,False,False,2,395
+"### || [55.26-36]
+",000,False,000,False,False,False,2,465
+"### || [55.37-45]
+",000,False,000,False,False,False,2,392
+"### || [55.46-61]
+",000,False,000,False,False,False,2,578
+"### | [56 - سورة الواقعة]
+",000,False,000,False,False,False,1,3666
+"### || [56.1-12]
+",000,False,000,False,False,False,2,330
+"### || [56.13-26]
+",000,False,000,False,False,False,2,559
+"### || [56.27-40]
+",000,False,000,False,False,False,2,492
+"### || [56.41-56]
+",000,False,000,False,False,False,2,512
+"### || [56.57-74]
+",000,False,000,False,False,False,2,944
+"### || [56.75-82]
+",000,False,000,False,False,False,2,343
+"### | [57 - سورة الحديد]
+",000,False,000,False,False,False,1,4787
+"### || [57.1-6]
+",000,False,000,False,False,False,2,703
+"### || [57.7-11]
+",000,False,000,False,False,False,2,804
+"### || [57.12-15]
+",000,False,000,False,False,False,2,727
+"### || [57.16-19]
+",000,False,000,False,False,False,2,625
+"### || [57.20-21]
+",000,False,000,False,False,False,2,472
+"### || [57.22-25]
+",000,False,000,False,False,False,2,662
+"### || [57.26-27]
+",000,False,000,False,False,False,2,525
+"### | [58 - سورة المجادلة]
+",000,False,000,False,False,False,1,3703
+"### || [58.1-4]
+",000,False,000,False,False,False,2,752
+"### || [58.5-7]
+",000,False,000,False,False,False,2,502
+"### || [58.8-10]
+",000,False,000,False,False,False,2,774
+"### || [58.11-13]
+",000,False,000,False,False,False,2,679
+"### || [58.14-19]
+",000,False,000,False,False,False,2,573
+"### | [59 - سورة الحشر]
+",000,False,000,False,False,False,1,4128
+"### || [59.1-5]
+",000,False,000,False,False,False,2,688
+"### || [59.6-7]
+",000,False,000,False,False,False,2,1068
+"### || [59.8-10]
+",000,False,000,False,False,False,2,609
+"### || [59.11-14]
+",000,False,000,False,False,False,2,574
+"### || [59.15-20]
+",000,False,000,False,False,False,2,539
+"### | [60 - سورة الممتحنة]
+",000,False,000,False,False,False,1,3184
+"### || [60.1-3]
+",000,False,000,False,False,False,2,817
+"### || [60.4-6]
+",000,False,000,False,False,False,2,701
+"### || [60.7-9]
+",000,False,000,False,False,False,2,404
+"### || [60.10-11]
+",000,False,000,False,False,False,2,769
+"### | [61 - سورة الصف]
+",000,False,000,False,False,False,1,2104
+"### || [61.1-6]
+",000,False,000,False,False,False,2,889
+"### || [61.7-9]
+",000,False,000,False,False,False,2,456
+"### | [62 - سورة الجمعة]
+",000,False,000,False,False,False,1,1555
+"### || [62.1-4]
+",000,False,000,False,False,False,2,562
+"### || [62.5-8]
+",000,False,000,False,False,False,2,503
+"### | [63 - سورة المنافقون]
+",000,False,000,False,False,False,1,1772
+"### || [63.1-4]
+",000,False,000,False,False,False,2,706
+"### || [63.5-8]
+",000,False,000,False,False,False,2,759
+"### | [64 - سورة التغابن]
+",000,False,000,False,False,False,1,2310
+"### || [64.1-4]
+",000,False,000,False,False,False,2,350
+"### || [64.5-6]
+",000,False,000,False,False,False,2,283
+"### || [64.7-10]
+",000,False,000,False,False,False,2,481
+"### || [64.11-13]
+",000,False,000,False,False,False,2,413
+"### | [65 - سورة الطلاق]
+",000,False,000,False,False,False,1,2224
+"### || [65.1]
+",000,False,000,False,False,False,2,376
+"### || [65.2-3]
+",000,False,000,False,False,False,2,573
+"### || [65.4-5]
+",000,False,000,False,False,False,2,351
+"### || [65.6-7]
+",000,False,000,False,False,False,2,493
+"### | [66 - سورة التحريم]
+",000,False,000,False,False,False,1,1817
+"### || [66.1-5]
+",000,False,000,False,False,False,2,715
+"### || [66.6-8]
+",000,False,000,False,False,False,2,432
+"### | [67 - سورة الملك]
+",000,False,000,False,False,False,1,2511
+"### || [67.1-5]
+",000,False,000,False,False,False,2,574
+"### || [67.6-11]
+",000,False,000,False,False,False,2,446
+"### || [67.12-15]
+",000,False,000,False,False,False,2,259
+"### || [67.16-19]
+",000,False,000,False,False,False,2,401
+"### || [67.20-27]
+",000,False,000,False,False,False,2,578
+"### | [68 - سورة القلم]
+",000,False,000,False,False,False,1,2805
+"### || [68.1-7]
+",000,False,000,False,False,False,2,466
+"### || [68.8-16]
+",000,False,000,False,False,False,2,361
+"### || [68.17-33]
+",000,False,000,False,False,False,2,756
+"### || [68.34-43]
+",000,False,000,False,False,False,2,684
+"### | [69 - سورة الحاقة]
+",000,False,000,False,False,False,1,1835
+"### || [69.1-12]
+",000,False,000,False,False,False,2,379
+"### || [69.13-18]
+",000,False,000,False,False,False,2,206
+"### || [69.19-24]
+",000,False,000,False,False,False,2,261
+"### || [69.25-37]
+",000,False,000,False,False,False,2,435
+"### | [70 - سورة المعارج]
+",000,False,000,False,False,False,1,1797
+"### || [70.1-18]
+",000,False,000,False,False,False,2,638
+"### || [70.19-35]
+",000,False,000,False,False,False,2,607
+"### | [71 - سورة نوح]
+",000,False,000,False,False,False,1,1487
+"### || [71.1-4]
+",000,False,000,False,False,False,2,357
+"### || [71.5-20]
+",000,False,000,False,False,False,2,586
+"### || [71.21-24]
+",000,False,000,False,False,False,2,252
+"### | [72 - سورة الجن]
+",000,False,000,False,False,False,1,1978
+"### || [72.1-7]
+",000,False,000,False,False,False,2,604
+"### || [72.8-15]
+",000,False,000,False,False,False,2,500
+"### || [72.16-24]
+",000,False,000,False,False,False,2,572
+"### | [73 - سورة المزمل]
+",000,False,000,False,False,False,1,1410
+"### || [73.1-9]
+",000,False,000,False,False,False,2,513
+"### || [73.10-19]
+",000,False,000,False,False,False,2,485
+"### | [74 - سورة المدثر]
+",000,False,000,False,False,False,1,2713
+"### || [74.1-10]
+",000,False,000,False,False,False,2,562
+"### || [74.11-30]
+",000,False,000,False,False,False,2,751
+"### || [74.31-37]
+",000,False,000,False,False,False,2,714
+"### | [75 - سورة القيامة]
+",000,False,000,False,False,False,1,1486
+"### || [75.1-15]
+",000,False,000,False,False,False,2,608
+"### || [75.16-25]
+",000,False,000,False,False,False,2,444
+"### | [76 - سورة الانسان]
+",000,False,000,False,False,False,1,1878
+"### || [76.1-12]
+",000,False,000,False,False,False,2,748
+"### || [76.13-22]
+",000,False,000,False,False,False,2,603
+"### | [77 - سورة المرسلات]
+",000,False,000,False,False,False,1,1692
+"### || [77.1-15]
+",000,False,000,False,False,False,2,392
+"### || [77.16-28]
+",000,False,000,False,False,False,2,476
+"### || [77.29-40]
+",000,False,000,False,False,False,2,413
+"### | [78 - سورة النبإ]
+",000,False,000,False,False,False,1,1421
+"### || [78.1-16]
+",000,False,000,False,False,False,2,475
+"### || [78.17-30]
+",000,False,000,False,False,False,2,471
+"### | [79 - سورة النازعات]
+",000,False,000,False,False,False,1,1911
+"### || [79.1-14]
+",000,False,000,False,False,False,2,492
+"### || [79.15-26]
+",000,False,000,False,False,False,2,505
+"### || [79.27-33]
+",000,False,000,False,False,False,2,402
+"### | [80 - سورة عبس]
+",000,False,000,False,False,False,1,1491
+"### || [80.1-16]
+",000,False,000,False,False,False,2,648
+"### || [80.17-32]
+",000,False,000,False,False,False,2,484
+"### | [81 - سورة التكوير]
+",000,False,000,False,False,False,1,1272
+"### || [81.1-14]
+",000,False,000,False,False,False,2,490
+"### | [82 - سورة الإنفطار]
+",000,False,000,False,False,False,1,860
+"### || [82.1-12]
+",000,False,000,False,False,False,2,556
+"### | [83 - سورة المطففين]
+",000,False,000,False,False,False,1,1774
+"### || [83.1-6]
+",000,False,000,False,False,False,2,293
+"### || [83.7-13]
+",000,False,000,False,False,False,2,313
+"### || [83.14-17]
+",000,False,000,False,False,False,2,262
+"### || [83.18-28]
+",000,False,000,False,False,False,2,487
+"### | [84 - سورة الإنشقاق]
+",000,False,000,False,False,False,1,1080
+"### || [84.1-15]
+",000,False,000,False,False,False,2,665
+"### | [85 - سورة البروج]
+",000,False,000,False,False,False,1,864
+"### || [85.1-11]
+",000,False,000,False,False,False,2,516
+"### | [86 - سورة الطارق]
+",000,False,000,False,False,False,1,682
+"### | [87 - سورة الأعلى]
+",000,False,000,False,False,False,1,1039
+"### || [87.1-13]
+",000,False,000,False,False,False,2,706
+"### | [88 - سورة الغاشية]
+",000,False,000,False,False,False,1,864
+"### || [88.1-16]
+",000,False,000,False,False,False,2,449
+"### | [89 - سورة الفجر]
+",000,False,000,False,False,False,1,1632
+"### || [89.1-14]
+",000,False,000,False,False,False,2,676
+"### || [89.15-20]
+",000,False,000,False,False,False,2,435
+"### | [90 - سورة البلد]
+",000,False,000,False,False,False,1,860
+"### || [90.1-10]
+",000,False,000,False,False,False,2,485
+"### | [91 - سورة الشمس]
+",000,False,000,False,False,False,1,824
+"### || [91.1-10]
+",000,False,000,False,False,False,2,390
+"### | [92 - سورة الليل]
+",000,False,000,False,False,False,1,1137
+"### || [92.1-11]
+",000,False,000,False,False,False,2,610
+"### | [93 - سورة الضحى]
+",000,False,000,False,False,False,1,616
+"### | [94 - سورة الشرح]
+",000,False,000,False,False,False,1,534
+"### | [95 - سورة التين]
+",000,False,000,False,False,False,1,565
+"### | [96 - سورة العلق]
+",000,False,000,False,False,False,1,1165
+"### || [96.1-5]
+",000,False,000,False,False,False,2,434
+"### | [97 - سورة القدر]
+",000,False,000,False,False,False,1,462
+"### | [98 - سورة البينة]
+",000,False,000,False,False,False,1,814
+"### || [98.1-5]
+",000,False,000,False,False,False,2,463
+"### | [99 - سورة الزلزلة]
+",000,False,000,False,False,False,1,463
+"### | [100 - سورة العاديات]
+",000,False,000,False,False,False,1,552
+"### | [101 - سورة القارعة]
+",000,False,000,False,False,False,1,318
+"### | [102 - سورة التكاثر]
+",000,False,000,False,False,False,1,412
+"### | [103 - سورة العصر]
+",000,False,000,False,False,False,1,295
+"### | [104 - سورة الهمزة]
+",000,False,000,False,False,False,1,286
+"### | [105 - سورة الفيل]
+",000,False,000,False,False,False,1,488
+"### | [106 - سورة قريش]
+",000,False,000,False,False,False,1,310
+"### | [107 - سورة الماعون]
+",000,False,000,False,False,False,1,450
+"### | [108 - سورة الكوثر]
+",000,False,000,False,False,False,1,287
+"### | [109 - سورة الكافرون]
+",000,False,000,False,False,False,1,329
+"### | [110 - سورة النصر]
+",000,False,000,False,False,False,1,239
+"### | [111 - سورة المسد]
+",000,False,000,False,False,False,1,368
+"### | [112 - سورة الإخلاص]
+",000,False,000,False,False,False,1,327
+"### | [113 - سورة الفلق]
+",000,False,000,False,False,False,1,332
+"### | [114 - سورة الناس]
+",000,False,000,False,False,False,1,416

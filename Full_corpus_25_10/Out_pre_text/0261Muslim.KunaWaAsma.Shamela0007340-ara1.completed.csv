@@ -1,0 +1,641 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | حرف الألف
+",000,False,000,False,False,False,1,4620
+"### || باب أبو إسحاق
+",000,False,000,False,False,False,2,1043
+"### || باب أبو إسماعيل
+",000,False,000,False,False,False,2,647
+"### || باب أبو إبراهيم
+",000,False,000,False,False,False,2,282
+"### || باب أبو أيوب
+",000,False,000,False,False,False,2,468
+"### || باب أبو الأسود
+",000,False,000,False,False,False,2,221
+"### || باب أبو أحمد
+",000,False,000,False,False,False,2,230
+"### || باب أبو أمية
+",000,False,000,False,False,False,2,363
+"### || باب أبو إدريس
+",000,False,000,False,False,False,2,117
+"### || باب أبو أسماء
+",000,False,000,False,False,False,2,104
+"### || باب أبو إياس
+",000,False,000,False,False,False,2,60
+"### || باب أبو الأحوص
+",000,False,000,False,False,False,2,98
+"### || باب أبو إسرائيل
+",000,False,000,False,False,False,2,61
+"### || باب أبو الأزهر
+",000,False,000,False,False,False,2,150
+"### || باب أبو أنس
+",000,False,000,False,False,False,2,104
+"### || باب أبو الأشعث
+",000,False,000,False,False,False,2,91
+"### || باب أبو الأشهب
+",000,False,000,False,False,False,2,67
+"### || باب أبو أمامه
+",000,False,000,False,False,False,2,68
+"### || باب أبو أسامة
+",000,False,000,False,False,False,2,85
+"### || باب أبو الأعور وأبو الأصبغ
+",000,False,000,False,False,False,2,67
+"### | حرف الباء
+",000,False,000,False,False,False,1,3458
+"### || باب أبو بكر
+",000,False,000,False,False,False,2,1948
+"### || باب أبو بشر.
+",000,False,000,False,False,False,2,637
+"### || باب أبو بحر
+",000,False,000,False,False,False,2,225
+"### || باب أبو بردة.
+",000,False,000,False,False,False,2,92
+"### || باب أبو بكير
+",000,False,000,False,False,False,2,65
+"### || باب أبو بكره
+",000,False,000,False,False,False,2,38
+"### || باب أبو البختري
+",000,False,000,False,False,False,2,57
+"### || باب أبو بسطام
+",000,False,000,False,False,False,2,63
+"### || باب أبو بلج
+",000,False,000,False,False,False,2,112
+"### || باب أبو بدر
+",000,False,000,False,False,False,2,43
+"### | حرف التاء
+",000,False,000,False,False,False,1,189
+"### || باب أبو توبه
+",000,False,000,False,False,False,2,38
+"### || باب أبو تميمه وأبو تمام
+",000,False,000,False,False,False,2,81
+"### | حرف الثاء
+",000,False,000,False,False,False,1,431
+"### || باب أبو ثابت
+",000,False,000,False,False,False,2,206
+"### || باب أبو ثور.
+",000,False,000,False,False,False,2,104
+"### || باب أبو ثمامة
+",000,False,000,False,False,False,2,54
+"### | حرف الجيم
+",000,False,000,False,False,False,1,1904
+"### || باب أبو جعفر.
+",000,False,000,False,False,False,2,809
+"### || باب أبو الجهم
+",000,False,000,False,False,False,2,138
+"### || باب أبو الجعد
+",000,False,000,False,False,False,2,70
+"### || باب أبو الجراح
+",000,False,000,False,False,False,2,59
+"### || باب أبو ms047 جابر
+",000,False,000,False,False,False,2,75
+"### || باب أبو جبيرة
+",000,False,000,False,False,False,2,36
+"### || باب أبو جزي وأبو جناب
+",000,False,000,False,False,False,2,71
+"### || باب أبو جميلة وأبو الجلاس
+",000,False,000,False,False,False,2,67
+"### || باب أبو الجويرية
+",000,False,000,False,False,False,2,79
+"### || باب أبو جندب وأبو جهضم
+",000,False,000,False,False,False,2,68
+"### || باب أبو الجارود وأبو جنادة
+",000,False,000,False,False,False,2,70
+"### || باب أبو الجحاف وأبو الجنيد
+",000,False,000,False,False,False,2,82
+"### | حرف الحاء
+",000,False,000,False,False,False,1,5585
+"### || باب أبو حفص.
+",000,False,000,False,False,False,2,975
+"### || باب أبو الحسن
+",000,False,000,False,False,False,2,1557
+"### || باب أبو الحارث.
+",000,False,000,False,False,False,2,365
+"### || باب أبو حازم.
+",000,False,000,False,False,False,2,146
+"### || باب أبو الحكم
+",000,False,000,False,False,False,2,278
+"### || باب أبو حمزة
+",000,False,000,False,False,False,2,377
+"### || باب أبو حاتم
+",000,False,000,False,False,False,2,230
+"### || باب أبو الحسين
+",000,False,000,False,False,False,2,187
+"### || باب أبو حسان
+",000,False,000,False,False,False,2,106
+"### || باب أبو حبيب
+",000,False,000,False,False,False,2,175
+"### || باب أبو الحصين
+",000,False,000,False,False,False,2,79
+"### || باب أبو حكيم
+",000,False,000,False,False,False,2,77
+"### || باب أبو الحجاج
+",000,False,000,False,False,False,2,99
+"### || باب أبو حميد
+",000,False,000,False,False,False,2,90
+"### || باب أبو حذيفة
+",000,False,000,False,False,False,2,62
+"### || باب أبو حماد وأبو حرة
+",000,False,000,False,False,False,2,99
+"### || باب أبو حرب أبو حزرة.
+",000,False,000,False,False,False,2,97
+"### || باب أبو الحواري وأبو حيان.
+",000,False,000,False,False,False,2,83
+"### || باب أبو الحويرث وأبو حاضر
+",000,False,000,False,False,False,2,71
+"### || باب أبو حاجب وأبو حبيبة
+",000,False,000,False,False,False,2,80
+"### | حرف الخاء
+",000,False,000,False,False,False,1,1580
+"### || باب أبو خالد
+",000,False,000,False,False,False,2,559
+"### || باب أبو خلف
+",000,False,000,False,False,False,2,132
+"### || باب أبو الخطاب
+",000,False,000,False,False,False,2,232
+"### || باب أبو الخليل
+",000,False,000,False,False,False,2,64
+"### || باب أبو خيثمة
+",000,False,000,False,False,False,2,70
+"### || باب أبو خداش
+",000,False,000,False,False,False,2,56
+"### || باب أبو خفاف
+",000,False,000,False,False,False,2,36
+"### || باب أبو خزيمة وأبو خريم
+",000,False,000,False,False,False,2,80
+"### || باب أبو خلدة وأبو الخير
+",000,False,000,False,False,False,2,83
+"### || باب أبو الخصيب وأبو خشينة
+",000,False,000,False,False,False,2,77
+"### || باب أبو خيرة وأبو خازم
+",000,False,000,False,False,False,2,65
+"### | حرف الدال
+",000,False,000,False,False,False,1,432
+"### || باب أبو داود
+",000,False,000,False,False,False,2,247
+"### || باب أبو الدرداء
+",000,False,000,False,False,False,2,30
+"### | حرف الذال
+",000,False,000,False,False,False,1,137
+"### || باب أبو ذر
+",000,False,000,False,False,False,2,81
+"### | حرف الراء
+",000,False,000,False,False,False,1,1383
+"### || باب أبو روح
+",000,False,000,False,False,False,2,280
+"### || باب أبو رجاء
+",000,False,000,False,False,False,2,173
+"### || باب أبو الربيع
+",000,False,000,False,False,False,2,181
+"### || باب أبو رافع
+",000,False,000,False,False,False,2,101
+"### || باب أبو رفاعة وأبو ربيعة
+",000,False,000,False,False,False,2,97
+"### || باب أبو رباح
+",000,False,000,False,False,False,2,51
+"### || باب أبو رشدين
+",000,False,000,False,False,False,2,64
+"### || باب أبو الرواع
+",000,False,000,False,False,False,2,58
+"### || باب أبو رزين وأبو ريحانة.
+",000,False,000,False,False,False,2,61
+"### || باب أبو رهم وأبو الرجال
+",000,False,000,False,False,False,2,66
+"### || باب أبو رباح وأبو روبة
+",000,False,000,False,False,False,2,74
+"### | حرف الزاي
+",000,False,000,False,False,False,1,1446
+"### || باب أبو زيد
+",000,False,000,False,False,False,2,287
+"### || باب أبو زكريا
+",000,False,000,False,False,False,2,273
+"### || باب أبو زهير
+",000,False,000,False,False,False,2,167
+"### || باب أبو زياد
+",000,False,000,False,False,False,2,194
+"### || باب أبو زرعة
+",000,False,000,False,False,False,2,129
+"### || باب أبو الزعراء
+",000,False,000,False,False,False,2,82
+"### || باب أبو الزبير وأبو الزرقاء
+",000,False,000,False,False,False,2,74
+"### || باب أبو زرارة
+",000,False,000,False,False,False,2,49
+"### | حرف السين
+",000,False,000,False,False,False,1,4853
+"### || باب أبو سعيد
+",000,False,000,False,False,False,2,1398
+"### || باب أبو سليمان
+",000,False,000,False,False,False,2,605
+"### || باب أبو سلمة
+",000,False,000,False,False,False,2,643
+"### || باب أبو سفيان
+",000,False,000,False,False,False,2,467
+"### || باب أبو سعد
+",000,False,000,False,False,False,2,320
+"### || باب أبو سهل
+",000,False,000,False,False,False,2,388
+"### || باب أبو سنان
+",000,False,000,False,False,False,2,110
+"### || باب أبو السكن
+",000,False,000,False,False,False,2,70
+"### || باب أبو سلمان
+",000,False,000,False,False,False,2,52
+"### || باب أبو السايب
+",000,False,000,False,False,False,2,72
+"### || باب أبو سلام
+",000,False,000,False,False,False,2,58
+"### || باب أبو سبرة
+",000,False,000,False,False,False,2,99
+"### || باب أبو السوار وأبو ساسان
+",000,False,000,False,False,False,2,66
+"### || باب أبو سلم وأبو السري
+",000,False,000,False,False,False,2,73
+"### || باب أبو السمح وأبو سويد
+",000,False,000,False,False,False,2,60
+"### || باب أبو السليل
+",000,False,000,False,False,False,2,45
+"### | حرف الشين
+",000,False,000,False,False,False,1,889
+"### || باب أبو شيبة
+",000,False,000,False,False,False,2,196
+"### || باب أبو شعبة
+",000,False,000,False,False,False,2,80
+"### || باب أبو الشعثاء
+",000,False,000,False,False,False,2,82
+"### || باب أبو شعيب
+",000,False,000,False,False,False,2,118
+"### || باب أبو شهاب
+",000,False,000,False,False,False,2,62
+"### || باب أبو شيخ
+",000,False,000,False,False,False,2,48
+"### || باب أبو شريح
+",000,False,000,False,False,False,2,50
+"### || باب أبو شراعة وأبو شبل
+",000,False,000,False,False,False,2,64
+"### || باب أبو شيبان وأبو شداد
+",000,False,000,False,False,False,2,73
+"### | حرف الصاد
+",000,False,000,False,False,False,1,1156
+"### || باب أبو صالح
+",000,False,000,False,False,False,2,515
+"### || باب أبو صفوان
+",000,False,000,False,False,False,2,148
+"### || باب أبو الصلت
+",000,False,000,False,False,False,2,70
+"### || باب أبو صخر
+",000,False,000,False,False,False,2,137
+"### || باب أبو الصباح
+",000,False,000,False,False,False,2,113
+"### || باب أبو الصهباء
+",000,False,000,False,False,False,2,60
+"### || باب أبو صدقة
+",000,False,000,False,False,False,2,43
+"### | حرف الضاد
+",000,False,000,False,False,False,1,218
+"### || باب أبو الضحاك
+",000,False,000,False,False,False,2,93
+"### || باب أبو ضمره
+",000,False,000,False,False,False,2,66
+"### | حرف الطاء
+",000,False,000,False,False,False,1,520
+"### || باب أبو طلحة
+",000,False,000,False,False,False,2,250
+"### || باب أبو الطفيل وأبو طلق
+",000,False,000,False,False,False,2,84
+"### || باب أبو طليق وأبو طريف وأبو طيبة
+",000,False,000,False,False,False,2,71
+"### || باب أبو طالب وأبو طاهر
+",000,False,000,False,False,False,2,79
+"### | حرف الظاء
+",000,False,000,False,False,False,1,94
+"### || باب أبو ظبيان
+",000,False,000,False,False,False,2,44
+"### | حرف العين
+",000,False,000,False,False,False,1,14771
+"### || باب أبو عبد الله
+",000,False,000,False,False,False,2,4101
+"### || باب أبو عبد الرحمن
+",000,False,000,False,False,False,2,1830
+"### || باب أبو عمر
+",000,False,000,False,False,False,2,800
+"### || باب أبو عثمان
+",000,False,000,False,False,False,2,888
+"### || باب أبو علي
+",000,False,000,False,False,False,2,461
+"### || باب أبو عمرو
+",000,False,000,False,False,False,2,1224
+"### || باب أبو عيسى
+",000,False,000,False,False,False,2,241
+"### || باب أبو عمارة
+",000,False,000,False,False,False,2,137
+"### || باب أبو عامر
+",000,False,000,False,False,False,2,258
+"### || باب أبو عمار
+",000,False,000,False,False,False,2,129
+"### || باب أبو عبيدة
+",000,False,000,False,False,False,2,370
+"### || باب أبو عبيد
+",000,False,000,False,False,False,2,126
+"### || باب أبو عمران
+",000,False,000,False,False,False,2,180
+"### || باب أبو عبد الملك
+",000,False,000,False,False,False,2,220
+"### || باب أبو عقيل
+",000,False,000,False,False,False,2,192
+"### || باب أبو عون
+",000,False,000,False,False,False,2,167
+"### || باب أبو عاصم
+",000,False,000,False,False,False,2,247
+"### || باب أبو العباس
+",000,False,000,False,False,False,2,341
+"### || باب أبو العلاء
+",000,False,000,False,False,False,2,537
+"### || باب أبو العالية
+",000,False,000,False,False,False,2,110
+"### || باب أبو العوام
+",000,False,000,False,False,False,2,100
+"### || باب أبو عروة
+",000,False,000,False,False,False,2,80
+"### || باب أبو العنبس
+",000,False,000,False,False,False,2,107
+"### || باب أبو العريان
+",000,False,000,False,False,False,2,68
+"### || باب أبو عبيد الله
+",000,False,000,False,False,False,2,124
+"### || باب أبو علقمة
+",000,False,000,False,False,False,2,77
+"### || باب أبو عمرة
+",000,False,000,False,False,False,2,61
+"### || أبو عبد الرحيم
+",000,False,000,False,False,False,2,79
+"### || باب أبو عمير
+",000,False,000,False,False,False,2,50
+"### || باب أبو عياش
+",000,False,000,False,False,False,2,50
+"### || باب أبو عتبة
+",000,False,000,False,False,False,2,102
+"### || باب أبو عبد العزيز
+",000,False,000,False,False,False,2,95
+"### || باب أبو عدي ms151
+",000,False,000,False,False,False,2,71
+"### || باب أبو عائشة
+",000,False,000,False,False,False,2,54
+"### || باب أبو عصمة
+",000,False,000,False,False,False,2,71
+"### || باب أبو عطاء
+",000,False,000,False,False,False,2,85
+"### || باب أبو عقبة
+",000,False,000,False,False,False,2,49
+"### || باب أبو عباد
+",000,False,000,False,False,False,2,102
+"### || باب أبو عبد الحميد
+",000,False,000,False,False,False,2,67
+"### || باب أبو عبد الكريم
+",000,False,000,False,False,False,2,67
+"### || باب أبو عتاب وأبو عائذ
+",000,False,000,False,False,False,2,73
+"### || باب أبو عطية وأبو عفان
+",000,False,000,False,False,False,2,69
+"### || باب أبو العلانية
+",000,False,000,False,False,False,2,49
+"### || باب أبو عميرة وأبو عزة
+",000,False,000,False,False,False,2,59
+"### || باب أبو عصام وأبو عوانة
+",000,False,000,False,False,False,2,58
+"### | حرف الغين
+",000,False,000,False,False,False,1,477
+"### || باب أبو غسان
+",000,False,000,False,False,False,2,99
+"### || باب أبو غالب
+",000,False,000,False,False,False,2,102
+"### || باب أبو الغصن
+",000,False,000,False,False,False,2,50
+"### || باب أبو غياث.
+",000,False,000,False,False,False,2,63
+"### || باب أبو الغادية
+",000,False,000,False,False,False,2,20
+"### | حرف الفاء
+",000,False,000,False,False,False,1,738
+"### || باب أبو الفضل
+",000,False,000,False,False,False,2,282
+"### || باب أبو فارس
+",000,False,000,False,False,False,2,125
+"### || باب أبو فروة
+",000,False,000,False,False,False,2,85
+"### || باب أبو فاطمة
+",000,False,000,False,False,False,2,64
+"### || باب أبو الفيض
+",000,False,000,False,False,False,2,48
+"### || باب أبو الفرات
+",000,False,000,False,False,False,2,33
+"### | حرف القاف
+",000,False,000,False,False,False,1,981
+"### || باب أبو القاسم
+",000,False,000,False,False,False,2,328
+"### || باب أبو قدامة
+",000,False,000,False,False,False,2,172
+"### || باب أبو قرة
+",000,False,000,False,False,False,2,110
+"### || باب أبو قتادة
+",000,False,000,False,False,False,2,51
+"### || باب أبو قيس
+",000,False,000,False,False,False,2,80
+"### || باب أبو قتيبة وأبو قبيصة
+",000,False,000,False,False,False,2,66
+"### | حرف الكاف
+",000,False,000,False,False,False,1,483
+"### || باب أبو كثير
+",000,False,000,False,False,False,2,100
+"### || باب أبو كامل
+",000,False,000,False,False,False,2,59
+"### || باب أبو كريمة وأبو الكنود
+",000,False,000,False,False,False,2,51
+"### || باب أبو كنانة
+",000,False,000,False,False,False,2,52
+"### || باب أبو كبشة
+",000,False,000,False,False,False,2,41
+"### || باب أبو كعب
+",000,False,000,False,False,False,2,47
+"### || باب أبو كرز
+",000,False,000,False,False,False,2,31
+"### | حرف اللام
+",000,False,000,False,False,False,1,241
+"### || باب أبو ليلى
+",000,False,000,False,False,False,2,91
+"### || باب أبو لبابة وأبو لبيد
+",000,False,000,False,False,False,2,70
+"### || باب أبو ليث
+",000,False,000,False,False,False,2,41
+"### | حرف الميم
+",000,False,000,False,False,False,1,8089
+"### || باب أبو محمد
+",000,False,000,False,False,False,2,2856
+"### || باب أبو مالك
+",000,False,000,False,False,False,2,372
+"### || باب أبو معاوية
+",000,False,000,False,False,False,2,316
+"### || باب أبو المغيرة
+",000,False,000,False,False,False,2,345
+"### || باب أبو موسى
+",000,False,000,False,False,False,2,246
+"### || باب أبو مريم
+",000,False,000,False,False,False,2,135
+"### || باب أبو المنذر
+",000,False,000,False,False,False,2,223
+"### || باب أبو معاذ
+",000,False,000,False,False,False,2,253
+"### || باب أبو مسعود
+",000,False,000,False,False,False,2,147
+"### || باب أبو المثنى
+",000,False,000,False,False,False,2,129
+"### || باب أبو مسلم
+",000,False,000,False,False,False,2,168
+"### || باب أبو مصعب
+",000,False,000,False,False,False,2,157
+"### || باب أبو معمر
+",000,False,000,False,False,False,2,179
+"### || باب أبو المقدام
+",000,False,000,False,False,False,2,142
+"### || باب أبو مروان
+",000,False,000,False,False,False,2,122
+"### || باب أبو معبد
+",000,False,000,False,False,False,2,89
+"### || باب أبو مطرف
+",000,False,000,False,False,False,2,77
+"### || باب أبو المعلى
+",000,False,000,False,False,False,2,110
+"### || باب أبو المنهال
+",000,False,000,False,False,False,2,104
+"### || باب أبو المهلب
+",000,False,000,False,False,False,2,74
+"### || باب أبو مخلد
+",000,False,000,False,False,False,2,68
+"### || باب أبو المعتمر
+",000,False,000,False,False,False,2,67
+"### || باب أبو منصور
+",000,False,000,False,False,False,2,61
+"### || باب أبو مجاهد
+",000,False,000,False,False,False,2,79
+"### || باب أبو المنازل
+",000,False,000,False,False,False,2,54
+"### || باب أبو المليح
+",000,False,000,False,False,False,2,80
+"### || باب أبو معشر
+",000,False,000,False,False,False,2,69
+"### || باب أبو ميمونة
+",000,False,000,False,False,False,2,45
+"### || باب أبو المهاجر
+",000,False,000,False,False,False,2,47
+"### || باب أبو مرة
+",000,False,000,False,False,False,2,52
+"### || باب أبو مودود
+",000,False,000,False,False,False,2,63
+"### || باب أبو المورع
+",000,False,000,False,False,False,2,45
+"### || باب أبو معن
+",000,False,000,False,False,False,2,62
+"### || باب أبو مكين، وأبو مسكين
+",000,False,000,False,False,False,2,69
+"### || باب أبو المعذل وأبو مسلمة
+",000,False,000,False,False,False,2,77
+"### || باب أبو المخارق
+",000,False,000,False,False,False,2,54
+"### || باب أبو المختار وأبو مضر
+",000,False,000,False,False,False,2,62
+"### || باب أبو المسيب وأبو المسور
+",000,False,000,False,False,False,2,58
+"### || باب أبو ميسرة وأبو مرحوم
+",000,False,000,False,False,False,2,79
+"### || باب أبو المفضل وأبو المنيب
+",000,False,000,False,False,False,2,72
+"### || باب أبو مدرك وأبو المعارك
+",000,False,000,False,False,False,2,64
+"### | حرف النون
+",000,False,000,False,False,False,1,1230
+"### || باب أبو نصر
+",000,False,000,False,False,False,2,203
+"### || باب أبو النضر
+",000,False,000,False,False,False,2,353
+"### || باب أبو النعمان
+",000,False,000,False,False,False,2,121
+"### || باب أبو نعيم
+",000,False,000,False,False,False,2,92
+"### || باب أبو نعامة
+",000,False,000,False,False,False,2,71
+"### || باب أبو نهيك
+",000,False,000,False,False,False,2,60
+"### || باب أبو نوفل
+",000,False,000,False,False,False,2,59
+"### || باب أبو نوح وأبونجيح
+",000,False,000,False,False,False,2,70
+"### || باب أبو نضرة
+",000,False,000,False,False,False,2,66
+"### || باب أبو نصير وأبو نافع
+",000,False,000,False,False,False,2,76
+"### | حرف الواو
+",000,False,000,False,False,False,1,1074
+"### || باب أبو الوليد
+",000,False,000,False,False,False,2,390
+"### || باب أبو وهب
+",000,False,000,False,False,False,2,267
+"### || باب أبو الوازع
+",000,False,000,False,False,False,2,81
+"### || باب أبو وائل
+",000,False,000,False,False,False,2,42
+"### || باب أبو وكيع وأبو واقد
+",000,False,000,False,False,False,2,65
+"### || باب أبو الورقاء وأبو الورد
+",000,False,000,False,False,False,2,78
+"### || باب أبو واصل
+",000,False,000,False,False,False,2,45
+"### | حرف الهاء
+",000,False,000,False,False,False,1,1739
+"### || باب أبو هاشم
+",000,False,000,False,False,False,2,333
+"### || باب أبو هشام
+",000,False,000,False,False,False,2,194
+"### || باب أبو الهيثم
+",000,False,000,False,False,False,2,359
+"### || باب أبو الهذيل
+",000,False,000,False,False,False,2,141
+"### || باب أبو همام
+",000,False,000,False,False,False,2,168
+"### || باب أبو هريرة
+",000,False,000,False,False,False,2,76
+"### || باب أبو هلال
+",000,False,000,False,False,False,2,77
+"### || باب أبو هانئ
+",000,False,000,False,False,False,2,85
+"### || باب أبو هارون
+",000,False,000,False,False,False,2,100
+"### || باب أبو هند
+",000,False,000,False,False,False,2,64
+"### || باب أبو هبيرة
+",000,False,000,False,False,False,2,49
+"### || باب أبو هزان
+",000,False,000,False,False,False,2,45
+"### || باب أبو هنيدة
+",000,False,000,False,False,False,2,33
+"### | حرف الياء
+",000,False,000,False,False,False,1,4218
+"### || باب أبو يحيى
+",000,False,000,False,False,False,2,1059
+"### || باب أبو يزيد
+",000,False,000,False,False,False,2,444
+"### || باب أبو يعقوب
+",000,False,000,False,False,False,2,345
+"### || باب أبو يوسف
+",000,False,000,False,False,False,2,214
+"### || باب أبو اليمان
+",000,False,000,False,False,False,2,113
+"### || باب أبو يونس
+",000,False,000,False,False,False,2,232
+"### || باب أبو يعلى
+",000,False,000,False,False,False,2,94
+"### || باب أبو اليقظان
+",000,False,000,False,False,False,2,53
+"### || باب أبو يعفور
+",000,False,000,False,False,False,2,61
+"### || باب أبو اليسع
+",000,False,000,False,False,False,2,49
+"### || باب أبو ياسر
+",000,False,000,False,False,False,2,33

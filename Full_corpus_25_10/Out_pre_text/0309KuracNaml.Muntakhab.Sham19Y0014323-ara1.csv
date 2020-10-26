@@ -1,0 +1,583 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO باب ما له اسمان فصاعدا من خلق
+",000,False,000,False,False,False,1,1045
+"### | AUTO باب أسماء القبل
+",000,False,000,False,False,False,1,260
+"### | AUTO باب ما يخرج من الذكر
+",000,False,000,False,False,False,1,74
+"### | AUTO باب أسماء الدبر
+",000,False,000,False,False,False,1,97
+"### | AUTO باب ما يخرج من الدبر
+",000,False,000,False,False,False,1,401
+"### | AUTO باب اللحم
+",000,False,000,False,False,False,1,260
+"### | AUTO باب الشحم
+",000,False,000,False,False,False,1,66
+"### | AUTO باب العظام
+",000,False,000,False,False,False,1,313
+"### | AUTO باب العروق
+",000,False,000,False,False,False,1,398
+"### | AUTO باب العصب
+",000,False,000,False,False,False,1,45
+"### | AUTO باب الدم
+",000,False,000,False,False,False,1,53
+"### | AUTO باب الجلد
+",000,False,000,False,False,False,1,79
+"### | AUTO باب اللون والقشر
+",000,False,000,False,False,False,1,73
+"### | AUTO باب الغلف والغواشي
+",000,False,000,False,False,False,1,168
+"### | AUTO باب الأصل
+",000,False,000,False,False,False,1,332
+"### | AUTO باب الوسط
+",000,False,000,False,False,False,1,92
+"### | AUTO باب العلو
+",000,False,000,False,False,False,1,91
+"### | AUTO باب أول الشيء وطرفه
+",000,False,000,False,False,False,1,61
+"### | AUTO باب ناحية الشيء
+",000,False,000,False,False,False,1,105
+"### | AUTO باب أسماء الشخص وجملة الجسد
+",000,False,000,False,False,False,1,32
+"### | AUTO باب الأسماء المفردة من خلق الإنسان وسائر الحيوان دون الصفات
+",000,False,000,False,False,False,1,814
+"### | AUTO باب ما يخرج من أنوف الحيوان وأفواهها
+",000,False,000,False,False,False,1,82
+"### | AUTO باب الذكران من الحيوان
+",000,False,000,False,False,False,1,1758
+"### | AUTO باب الإناث من الحيوان
+",000,False,000,False,False,False,1,648
+"### | AUTO باب أولاد الحيوان
+",000,False,000,False,False,False,1,323
+"### | AUTO باب شهوة النكاح
+",000,False,000,False,False,False,1,119
+"### | AUTO باب النكاح
+",000,False,000,False,False,False,1,227
+"### | AUTO باب الحمل
+",000,False,000,False,False,False,1,246
+"### | AUTO باب سقوط الولد لغير تمام
+",000,False,000,False,False,False,1,273
+"### | AUTO باب الولاد
+",000,False,000,False,False,False,1,160
+"### | AUTO باب ما يخرج مع الولد وما يكون في الرحم
+",000,False,000,False,False,False,1,88
+"### | AUTO باب نعوت الحيوان مع الأولاد
+",000,False,000,False,False,False,1,96
+"### | AUTO باب أحوال المولود من صغره إلى كبره
+",000,False,000,False,False,False,1,965
+"### | AUTO باب الشباب
+",000,False,000,False,False,False,1,58
+"### | AUTO باب الهرم
+",000,False,000,False,False,False,1,206
+"### | AUTO باب أسماء النفس وبقيتها
+",000,False,000,False,False,False,1,78
+"### | AUTO باب الطبيعة والخلق
+",000,False,000,False,False,False,1,37
+"### | AUTO باب العقل والراي
+",000,False,000,False,False,False,1,55
+"### | AUTO باب الحمق وضعف العقل والجنون
+",000,False,000,False,False,False,1,294
+"### | AUTO باب الطول
+",000,False,000,False,False,False,1,325
+"### | AUTO باب القصر
+",000,False,000,False,False,False,1,365
+"### | AUTO باب الشجاعة وشدة القلب
+",000,False,000,False,False,False,1,177
+"### | AUTO باب الجبن وضعف القلب
+",000,False,000,False,False,False,1,133
+"### | AUTO باب القوة وشدة البدن
+",000,False,000,False,False,False,1,264
+"### | AUTO باب ضعف البدن والنفس والراي
+",000,False,000,False,False,False,1,181
+"### | AUTO باب الحسن وجميل الأخلاق والسخاء
+",000,False,000,False,False,False,1,796
+"### | AUTO باب القبح ورديء الأخلاق والبخل
+",000,False,000,False,False,False,1,1918
+"### | AUTO باب صغر الخلق
+",000,False,000,False,False,False,1,77
+"### | AUTO باب عظم الخلق
+",000,False,000,False,False,False,1,246
+"### | AUTO باب الخفة
+",000,False,000,False,False,False,1,265
+"### | AUTO باب الثقل
+",000,False,000,False,False,False,1,100
+"### | AUTO باب السمن
+",000,False,000,False,False,False,1,247
+"### | AUTO باب الهزال
+",000,False,000,False,False,False,1,182
+"### | AUTO باب الإصلاح بين الناس
+",000,False,000,False,False,False,1,103
+"### | AUTO باب الإفساد بين الناس
+",000,False,000,False,False,False,1,65
+"### | AUTO باب المدارة
+",000,False,000,False,False,False,1,54
+"### | AUTO باب العداوة والشتم والمراء والقهر
+",000,False,000,False,False,False,1,105
+"### | AUTO باب الإسراع والسبق والإعجال
+",000,False,000,False,False,False,1,449
+"### | AUTO باب الإبطاء والتلبث واللزوم والانضمام
+",000,False,000,False,False,False,1,422
+"### | AUTO باب الكلام
+",000,False,000,False,False,False,1,282
+"### | AUTO باب السكوت
+",000,False,000,False,False,False,1,67
+"### | AUTO باب النشاط
+",000,False,000,False,False,False,1,98
+"### | AUTO باب الكسل
+",000,False,000,False,False,False,1,23
+"### | AUTO باب القرب
+",000,False,000,False,False,False,1,87
+"### | AUTO باب البعد
+",000,False,000,False,False,False,1,212
+"### | AUTO باب الضحك
+",000,False,000,False,False,False,1,81
+"### | AUTO باب البكاء
+",000,False,000,False,False,False,1,41
+"### | AUTO باب اللهو والملاهي والفرح واللعب
+",000,False,000,False,False,False,1,390
+"### | AUTO باب الحزن والاغتمام وتغير اللون عن
+",000,False,000,False,False,False,1,164
+"### | AUTO باب الطيب
+",000,False,000,False,False,False,1,586
+"### | AUTO باب النتن
+",000,False,000,False,False,False,1,201
+"### | AUTO باب النعمة والخصب والسعة
+",000,False,000,False,False,False,1,197
+"### | AUTO باب الجدب وشدة العيش والسنة
+",000,year,000,False,False,False,1,164
+"### | AUTO باب الضوء والبياض
+",000,False,000,False,False,False,1,59
+"### | AUTO باب الظلمة والسواد
+",000,False,000,False,False,False,1,99
+"### | AUTO باب استواء أفعال القوم
+",000,False,000,False,False,False,1,68
+"### | AUTO باب شدة الأمر والاختلاط
+",000,False,000,False,False,False,1,158
+"### | AUTO باب النوم
+",000,False,000,False,False,False,1,165
+"### | AUTO باب السهر
+",000,False,000,False,False,False,1,36
+"### | AUTO باب الجوع
+",000,False,000,False,False,False,1,129
+"### | AUTO باب الأكل والشبع
+",000,False,000,False,False,False,1,341
+"### | AUTO باب العطش
+",000,False,000,False,False,False,1,41
+"### | AUTO باب شرب الماء والري
+",000,False,000,False,False,False,1,276
+"### | AUTO باب كثرة المال وقلته
+",000,False,000,False,False,False,1,108
+"### | AUTO باب كثرة العطاء وقلته
+",000,False,000,False,False,False,1,197
+"### | AUTO باب العدول عن الشيء والكر عليه والرجوع إليه
+",000,False,000,False,False,False,1,261
+"### | AUTO باب طلب الحاجة وقضائها وأسماء الرد والمنع
+",000,False,000,False,False,False,1,119
+"### | AUTO باب أسماء البحر والنهر
+",000,False,000,False,False,False,1,178
+"### | AUTO باب الذهب والفضة
+",000,False,000,False,False,False,1,100
+"### | AUTO باب الدينار والدرهم
+",000,False,000,False,False,False,1,19
+"### | AUTO باب السماء والأرض
+",000,False,000,False,False,False,1,47
+"### | AUTO باب الشمس والقمر والهواء
+",000,False,000,False,False,False,1,259
+"### | AUTO باب المثل والشبه
+",000,False,000,False,False,False,1,192
+"### | AUTO باب الفارغ والملآن
+",000,False,000,False,False,False,1,61
+"### | AUTO باب السير الشديد واللين
+",000,False,000,False,False,False,1,47
+"### | AUTO باب الجماعات من الناس وغيرهم
+",000,False,000,False,False,False,1,453
+"### | AUTO باب الأصوات
+",000,False,000,False,False,False,1,1211
+"### | AUTO باب الألوان
+",000,False,000,False,False,False,1,1483
+"### | AUTO باب المشي والعدو والتنحي والإعياء
+",000,False,000,False,False,False,1,1840
+"### | AUTO باب أسماء الطير وغيره من الحيوان في صفة الفرس
+",000,False,000,False,False,False,1,261
+"### | AUTO باب سمات الإبل وغيرها
+",000,False,000,False,False,False,1,227
+"### | AUTO باب الصناعات والأدوات والآنية والأوعية
+",000,False,000,False,False,False,1,870
+"### | AUTO باب الاكتساب
+",000,False,000,False,False,False,1,51
+"### | AUTO باب الكبر
+",000,False,000,False,False,False,1,138
+"### | AUTO باب الكذب
+",000,False,000,False,False,False,1,144
+"### | AUTO باب النميمة
+",000,False,000,False,False,False,1,28
+"### | AUTO باب القيء والغصص
+",000,False,000,False,False,False,1,27
+"### | AUTO باب العض والعرق
+",000,False,000,False,False,False,1,48
+"### | AUTO باب الظلم
+",000,False,000,False,False,False,1,88
+"### | AUTO باب الهلاك والموت وأسماء القبر
+",000,False,000,False,False,False,1,400
+"### | AUTO باب أسماء السم
+",000,False,000,False,False,False,1,20
+"### | AUTO باب الأمر العجب العظيم
+",000,False,000,False,False,False,1,77
+"### | AUTO باب الباطل والضلال
+",000,False,000,False,False,False,1,109
+"### | AUTO باب أسماء الدواهي
+",000,False,000,False,False,False,1,172
+"### | AUTO باب النفي
+",000,False,000,False,False,False,1,753
+"### | AUTO باب البقايا
+",000,False,000,False,False,False,1,156
+"### | AUTO باب أسماء الأثر
+",000,False,000,False,False,False,1,52
+"### | AUTO باب الحقد والغضب
+",000,False,000,False,False,False,1,241
+"### | AUTO باب التحريش والتهييج
+",000,False,000,False,False,False,1,16
+"### | AUTO باب ما يلقى الإنسان من صاحبه من الشر
+",000,False,000,False,False,False,1,60
+"### | AUTO باب الاستعداد للشيء
+",000,False,000,False,False,False,1,25
+"### | AUTO باب التذليل
+",000,False,000,False,False,False,1,38
+"### | AUTO باب الرديء والدني من كل شيء
+",000,False,000,False,False,False,1,177
+"### | AUTO باب الاختيار للشيء
+",000,False,000,False,False,False,1,52
+"### | AUTO باب الخالص من كل شيء
+",000,False,000,False,False,False,1,65
+"### | AUTO باب الخداع والنقصان
+",000,False,000,False,False,False,1,84
+"### | AUTO باب الذنب والجناية والعيب والخيانة
+",000,False,000,False,False,False,1,143
+"### | AUTO باب أسماء عيال الرجل
+",000,False,000,False,False,False,1,41
+"### | AUTO باب ما لا ولد له من الآباء والأمهات
+",000,False,000,False,False,False,1,262
+"### | AUTO باب ما لا والد له من البنين والبنات
+",000,False,000,False,False,False,1,181
+"### | AUTO باب أخذ الشيء بجميعه
+",000,False,000,False,False,False,1,34
+"### | AUTO باب الشيء القديم
+",000,False,000,False,False,False,1,26
+"### | AUTO باب البهت والدهش والفزع والوجل
+",000,False,000,False,False,False,1,76
+"### | AUTO باب السكون والطمانينة
+",000,False,000,False,False,False,1,79
+"### | AUTO باب القلق والضجر
+",000,False,000,False,False,False,1,27
+"### | AUTO باب الاستئناس والاستحياء
+",000,False,000,False,False,False,1,62
+"### | AUTO باب قلة الحياء
+",000,False,000,False,False,False,1,27
+"### | AUTO باب السراب
+",000,False,000,False,False,False,1,38
+"### | AUTO باب الطحلب
+",000,False,000,False,False,False,1,21
+"### | AUTO باب ميل الكحل
+",000,False,000,False,False,False,1,27
+"### | AUTO باب القطن
+",000,False,000,False,False,False,1,66
+"### | AUTO باب الطعام
+",000,False,000,False,False,False,1,675
+"### | AUTO باب آخر من الأطعمة
+",000,False,000,False,False,False,1,174
+"### | AUTO باب اللبن
+",000,False,000,False,False,False,1,662
+"### | AUTO باب أسماء الدهر والزمان والليل والنهار
+",000,False,000,False,False,False,1,80
+"### | AUTO باب الأصحاب والإخوان
+",000,False,000,False,False,False,1,35
+"### | AUTO باب الميزان
+",000,False,000,False,False,False,1,91
+"### | AUTO باب الحر والبرد
+",000,False,000,False,False,False,1,111
+"### | AUTO باب الدرج
+",000,False,000,False,False,False,1,27
+"### | AUTO باب الجلوس ونحوه
+",000,False,000,False,False,False,1,58
+"### | AUTO باب الحبس في السجن
+",000,False,000,False,False,False,1,20
+"### | AUTO باب الحبس في غير السجن
+",000,False,000,False,False,False,1,78
+"### | AUTO باب الملجأ والاضطرار
+",000,False,000,False,False,False,1,33
+"### | AUTO باب الرشوة
+",000,False,000,False,False,False,1,16
+"### | AUTO باب الإشراف على الشيء
+",000,False,000,False,False,False,1,26
+"### | AUTO باب قولهم: قصارك أن تفعل ذاك
+",000,False,000,False,False,False,1,22
+"### | AUTO باب اللقاء وحالاته
+",000,False,000,False,False,False,1,117
+"### | AUTO باب كفالات الناس
+",000,False,000,False,False,False,1,57
+"### | AUTO باب الإقرار بالحق والخضوع
+",000,False,000,False,False,False,1,38
+"### | AUTO باب كنس البيت والبئر وما يخرج منهما
+",000,False,000,False,False,False,1,60
+"### | AUTO باب الشيء الكامل
+",000,False,000,False,False,False,1,20
+"### | AUTO باب إخفاء الشيء
+",000,False,000,False,False,False,1,14
+"### | AUTO باب الدخول في الشيء والاستتار
+",000,False,000,False,False,False,1,64
+"### | AUTO باب العريان
+",000,False,000,False,False,False,1,32
+"### | AUTO باب الكلام بغير استعداد
+",000,False,000,False,False,False,1,15
+"### | AUTO باب الطمع
+",000,False,000,False,False,False,1,16
+"### | AUTO باب الكتاب
+",000,False,000,False,False,False,1,42
+"### | AUTO باب البريق واللمع والزلق
+",000,False,000,False,False,False,1,62
+"### | AUTO باب الوسخ على الثوب وغيره
+",000,False,000,False,False,False,1,52
+"### | AUTO باب اليبس والتقبص
+",000,False,000,False,False,False,1,20
+"### | AUTO باب الدفع
+",000,False,000,False,False,False,1,21
+"### | AUTO باب التناول
+",000,False,000,False,False,False,1,8
+"### | AUTO باب جلاء الشيء
+",000,False,000,False,False,False,1,11
+"### | AUTO باب الطرد
+",000,False,000,False,False,False,1,34
+"### | AUTO باب أسماء الثقب
+",000,False,000,False,False,False,1,12
+"### | AUTO باب حلق الراس
+",000,False,000,False,False,False,1,12
+"### | AUTO باب الهوى
+",000,False,000,False,False,False,1,14
+"### | AUTO باب ارتفاع النهار
+",000,False,000,False,False,False,1,19
+"### | AUTO باب الإتيان
+",000,False,000,False,False,False,1,35
+"### | AUTO باب المفاخرة والمخاصمة والمطالبة
+",000,False,000,False,False,False,1,35
+"### | AUTO باب القطع والكسر والدق والشق
+",000,False,000,False,False,False,1,265
+"### | AUTO باب الدخان
+",000,False,000,False,False,False,1,11
+"### | AUTO باب العادة
+",000,False,000,False,False,False,1,27
+"### | AUTO باب الانكباب
+",000,False,000,False,False,False,1,54
+"### | AUTO باب الشيء الذاهب
+",000,False,000,False,False,False,1,9
+"### | AUTO باب المولى
+",000,False,000,False,False,False,1,14
+"### | AUTO باب أسماء مكة
+",000,False,000,False,False,False,1,44
+"### | AUTO باب أسماء المدينة
+",000,False,000,False,False,False,1,18
+"### | AUTO باب المحال
+",000,False,000,False,False,False,1,384
+"### | AUTO باب الدليل
+",000,False,000,False,False,False,1,52
+"### | AUTO باب الطريق
+",000,False,000,False,False,False,1,233
+"### | AUTO باب الأخبار يعميها الرجل على صاحبه
+",000,False,000,False,False,False,1,99
+"### | AUTO باب الخلط
+",000,False,000,False,False,False,1,126
+"### | AUTO باب الخدم
+",000,False,000,False,False,False,1,70
+"### | AUTO باب أسماء الخرز
+",000,False,000,False,False,False,1,115
+"### | AUTO باب الرحمة
+",000,False,000,False,False,False,1,54
+"### | AUTO باب الزوج والفرد
+",000,False,000,False,False,False,1,17
+"### | AUTO باب السعة والضيق
+",000,False,000,False,False,False,1,64
+"### | AUTO باب الصعود والهبوط
+",000,False,000,False,False,False,1,34
+"### | AUTO باب اللصوص
+",000,False,000,False,False,False,1,31
+"### | AUTO باب السفن وما فيها
+",000,False,000,False,False,False,1,127
+"### | AUTO باب الحياض
+",000,False,000,False,False,False,1,74
+"### | AUTO باب الرمال
+",000,False,000,False,False,False,1,268
+"### | AUTO باب التراب
+",000,False,000,False,False,False,1,38
+"### | AUTO باب الغبار
+",000,False,000,False,False,False,1,39
+"### | AUTO باب الرياح
+",000,False,000,False,False,False,1,312
+"### | AUTO باب الأودية
+",000,False,000,False,False,False,1,117
+"### | AUTO باب الجبال
+",000,False,000,False,False,False,1,244
+"### | AUTO باب الحجارة والحصى
+",000,False,000,False,False,False,1,408
+"### | AUTO باب الأرضين
+",000,False,000,False,False,False,1,602
+"### | AUTO باب الآبار والحفر
+",000,False,000,False,False,False,1,245
+"### | AUTO باب السحاب
+",000,False,000,False,False,False,1,202
+"### | AUTO باب المطر
+",000,False,000,False,False,False,1,327
+"### | AUTO باب المياه
+",000,False,000,False,False,False,1,919
+"### | AUTO باب الدلاء
+",000,False,000,False,False,False,1,99
+"### | AUTO باب البكرة وما فيها
+",000,False,000,False,False,False,1,93
+"### | AUTO باب الحبال
+",000,False,000,False,False,False,1,160
+"### | AUTO باب الأسقية
+",000,False,000,False,False,False,1,236
+"### | AUTO باب النخل
+",000,False,000,False,False,False,1,977
+"### | AUTO باب الشجر
+",000,False,000,False,False,False,1,328
+"### | AUTO باب النبات
+",000,False,000,False,False,False,1,785
+"### | AUTO باب أسماء الأجمة
+",000,False,000,False,False,False,1,29
+"### | AUTO باب الثياب واللباس
+",000,False,000,False,False,False,1,971
+"### | AUTO باب الأمراض والأعراض
+",000,False,000,False,False,False,1,1921
+"### | AUTO باب السيف
+",000,False,000,False,False,False,1,480
+"### | AUTO باب الرمح وشبهه
+",000,False,000,False,False,False,1,387
+"### | AUTO باب القوس
+",000,False,000,False,False,False,1,354
+"### | AUTO باب الأوتار
+",000,False,000,False,False,False,1,49
+"### | AUTO باب السهام
+",000,False,000,False,False,False,1,603
+"### | AUTO باب الجعاب
+",000,False,000,False,False,False,1,35
+"### | AUTO باب الترس
+",000,False,000,False,False,False,1,33
+"### | AUTO باب الدرع
+",000,False,000,False,False,False,1,213
+"### | AUTO باب البيضة
+",000,False,000,False,False,False,1,58
+"### | AUTO باب جملة السلاح
+",000,False,000,False,False,False,1,28
+"### | AUTO باب الكتائب
+",000,False,000,False,False,False,1,131
+"### | AUTO باب الأشجار التي تعمل منها القسي والنبل والنشاب
+",000,False,000,False,False,False,1,47
+"### | AUTO باب الطعن والضرب
+",000,False,000,False,False,False,1,5168
+"### | AUTO باب الأفعال
+",000,False,000,False,False,False,1,1039
+"### | AUTO باب الأمثلة والنوادر التي لا نظير لها والقليلة النظائر
+",000,False,000,False,False,False,1,3207
+"### | AUTO باب الأضداد
+",000,False,000,False,False,False,1,1158
+"### | AUTO باب القلب
+",000,False,000,False,False,False,1,650
+"### | AUTO باب الإتباع
+",000,False,000,False,False,False,1,330
+"### | AUTO باب ما دخل من لغات العجم في لغات العرب
+",000,False,000,False,False,False,1,380
+"### | AUTO باب ما يجوز إثباته وإخراجه من حروف الصفات
+",000,False,000,False,False,False,1,118
+"### | AUTO باب دخول بعض حروف الصفات على بعض
+",000,False,000,False,False,False,1,1406
+"### | AUTO باب إعادة المعنى إذا اختلف اللفظان
+",000,False,000,False,False,False,1,476
+"### | AUTO باب جعل فيه المفعول فاعلا والفاعل مفعولا اتساعا
+",000,False,000,False,False,False,1,718
+"### | AUTO باب إذا اجتمع للشيء اسمان فاختلف لفظاهما
+",000,False,000,False,False,False,1,195
+"### | AUTO باب
+",000,False,000,False,False,False,1,111
+"### | AUTO باب
+",000,False,000,False,False,False,1,126
+"### | AUTO باب
+",000,False,000,False,False,False,1,48
+"### | AUTO باب
+",000,False,000,False,False,False,1,5
+"### | AUTO باب
+",000,False,000,False,False,False,1,3
+"### | AUTO باب
+",000,False,000,False,False,False,1,106
+"### | AUTO باب
+",000,False,000,False,False,False,1,158
+"### | AUTO باب
+",000,False,000,False,False,False,1,112
+"### | AUTO باب ما عدل به عن جهته لكثرة استعمال الناس إياه
+",000,False,000,False,False,False,1,489
+"### | AUTO باب
+",000,False,000,False,False,False,1,99
+"### | AUTO باب
+",000,False,000,False,False,False,1,127
+"### | AUTO باب
+",000,False,000,False,False,False,1,150
+"### | AUTO باب
+",000,False,000,False,False,False,1,165
+"### | AUTO باب
+",000,False,000,False,False,False,1,150
+"### | AUTO باب
+",000,False,000,False,False,False,1,87
+"### | AUTO باب
+",000,False,000,False,False,False,1,80
+"### | AUTO باب في الإبدال
+",000,False,000,False,False,False,1,467
+"### | AUTO باب في الاشتقاق
+",000,False,000,False,False,False,1,2023
+"### | AUTO باب مخارج الكلم
+",000,False,000,False,False,False,1,169
+"### | AUTO باب زوائد الكلم
+",000,False,000,False,False,False,1,856
+"### | AUTO باب الزوائد من حروف الهجاء
+",000,False,000,False,False,False,1,936
+"### | AUTO باب الزوائد من غير العشرة ومن أخواتها
+",000,False,000,False,False,False,1,1090
+"### | AUTO باب حذف الكلم
+",000,False,000,False,False,False,1,336
+"### | AUTO باب حذف الحركات
+",000,False,000,False,False,False,1,567
+"### | AUTO باب قوافي الشعر
+",000,False,000,False,False,False,1,212
+"### | AUTO باب عيوب القوافي
+",000,False,000,False,False,False,1,1304
+"### | AUTO باب من قال بيتا أو قيل فيه فلقب به
+",000,False,000,False,False,False,1,700
+"### | AUTO باب من قال كلمة أو قيلت له
+",000,False,000,False,False,False,1,1119
+"### | AUTO باب أسماء دارات العرب وهي عشرون دارة
+",000,False,000,False,False,False,1,277
+"### | AUTO باب أسماء سهام الميسر
+",000,False,000,False,False,False,1,188
+"### | AUTO باب أسماء خيل الحلبة
+",000,False,000,False,False,False,1,114
+"### | AUTO باب أسماء أيام العجوز السبعة
+",000,False,000,False,False,False,1,74
+"### | AUTO باب أسماء المحلات وهن سبع
+",000,False,000,False,False,False,1,17
+"### | AUTO باب أسماء المؤنسات
+",000,False,000,False,False,False,1,41
+"### | AUTO باب أسماء أيام الجمعة السبعة
+",000,False,000,False,False,False,1,48
+"### | AUTO باب أسماء الشهور
+",000,False,000,False,False,False,1,39
+"### | AUTO باب أسماء ليالي الشهر
+",000,False,000,False,False,False,1,18
+"### | AUTO باب أسماء أجزاء الليل وهي خمسة
+",000,False,000,False,False,False,1,9
+"### | AUTO باب أسماء أبناء فارس بالبلدان
+",000,False,000,False,False,False,1,24
+"### | AUTO باب أسماء ريش الجناح
+",000,False,000,False,False,False,1,19
+"### | AUTO باب أسماء الرباب وهم ستة
+",000,False,000,False,False,False,1,100
+"### | AUTO باب الإصابة بالعين
+",000,False,000,False,False,False,1,59
+"### | AUTO باب القيافة والزجر والفال والتطير
+",000,False,000,False,False,False,1,899

@@ -1,0 +1,563 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | الفتاوى الفقهية
+",000,False,000,False,False,False,1,2
+"### | مقدمة المؤلف
+",000,False,000,False,False,False,1,79
+"### | [كتاب الطهارة]
+",000,False,000,False,False,False,1,396
+"### | [باب الآنية]
+",000,False,000,False,False,False,1,59
+"### | [باب أسباب الحدث]
+",000,False,000,False,False,False,1,634
+"### | [باب الوضوء]
+",000,False,000,False,False,False,1,82
+"### | [باب مسح الخف]
+",000,False,000,False,False,False,1,36
+"### | [باب الغسل]
+",000,False,000,False,False,False,1,560
+"### | [باب النجاسة]
+",000,False,000,False,False,False,1,4
+"### | مسائل متفرقة
+",000,False,000,False,False,False,1,601
+"### | [تحفة الأنجاب بمسألة السنجاب]
+",000,False,000,False,False,False,1,4863
+"### | [باب التيمم]
+",000,False,000,False,False,False,1,610
+"### | [باب الحيض]
+",000,False,000,False,False,False,1,388
+"### | [كتاب الصلاة] 
+",000,False,000,False,False,False,1,4
+"### | مسائل متفرقة
+",000,False,000,False,False,False,1,61
+"### | [الحظ الوافر من المغنم في استدراك الكافر إذا أسلم]
+",000,False,000,False,False,False,1,735
+"### | [باب المواقيت]
+",000,False,000,False,False,False,1,1014
+"### | [باب الأذان]
+",000,False,000,False,False,False,1,657
+"### | [باب استقبال القبلة]
+",000,False,000,False,False,False,1,446
+"### | [باب صفة الصلاة]
+",000,False,000,False,False,False,1,6
+"### | مسائل متفرقة
+",000,False,000,False,False,False,1,299
+"### | [ذكر التشنيع في مسألة التسميع]
+",000,False,000,False,False,False,1,862
+"### | [باب شروط الصلاة]
+",000,False,000,False,False,False,1,122
+"### | [باب سجود السهو]
+",000,False,000,False,False,False,1,128
+"### | [باب سجود التلاوة]
+",000,False,000,False,False,False,1,176
+"### | [باب صلاة النفل]
+",000,False,000,False,False,False,1,6
+"### | [قوله في دعاء القنوت وإليك نسعى ونحفد هل هو بالدال المهملة أو بالمعجمة]
+",000,False,000,False,False,False,1,55
+"### | [جزء في صلاة الضحى]
+",000,False,000,False,False,False,1,196
+"### | [ذكر استنباطها من القرآن]
+",000,False,000,False,False,False,1,81
+"### | [ذكر الأحاديث الواردة في أنه صلى الله عليه وسلم صلاها]
+",000,False,000,False,False,False,1,675
+"### | [الأحاديث الواردة في الأمر بها والترغيب فيها]
+",000,False,000,False,False,False,1,2030
+"### | .... 
+",000,False,000,False,False,False,1,581
+"### | [باب صلاة الجماعة]
+",000,False,000,False,False,False,1,6
+"### | مسائل متفرقة
+",000,False,000,False,False,False,1,912
+"### | [بسط الكف في إتمام الصف]
+",000,False,000,False,False,False,1,3145
+"### | [باب صلاة المسافر]
+",000,False,000,False,False,False,1,179
+"### | [باب صلاة الجمعة]
+",000,False,000,False,False,False,1,6
+"### | مسائل متفرقة
+",000,False,000,False,False,False,1,572
+"### | [اللمعة في تحرير الركعة لإدراك الجمعة]
+",000,False,000,False,False,False,1,1442
+"### | [ضوء الشمعة في عدد الجمعة]
+",000,False,000,False,False,False,1,2689
+"### | [باب اللباس] 
+",000,False,000,False,False,False,1,4
+"### | مسائل متفرقة
+",000,False,000,False,False,False,1,874
+"### | [الجواب الحاتم عن سؤال الخاتم]
+",000,False,000,False,False,False,1,616
+"### | [ثلج الفؤاد في أحاديث لبس السواد]
+",000,False,000,False,False,False,1,1037
+"### | [باب العيد]
+",000,False,000,False,False,False,1,4
+"### | [وصول الأماني بأصول التهاني]
+",000,False,000,False,False,False,1,8
+"### | 10 - 
+",000,False,000,False,False,False,1,57
+"### | [التهنئة بالفضائل العلية والمناقب الدينية]
+",000,False,000,False,False,False,1,244
+"### | [التهنئة بالتوبة]
+",000,False,000,False,False,False,1,86
+"### | [التهنئة بالعافية من المرض]
+",000,False,000,False,False,False,1,45
+"### | [التهنئة بتمام الحج]
+",000,False,000,False,False,False,1,78
+"### | [التهنئة بالقدوم ms0102 من الحج]
+",000,False,000,False,False,False,1,83
+"### | [التهنئة بالقدوم من الغزو]
+",000,False,000,False,False,False,1,82
+"### | [التهنئة بالنكاح]
+",000,False,000,False,False,False,1,89
+"### | [التهنئة بالمولود]
+",000,False,000,False,False,False,1,100
+"### | [التهنئة بدخول الحمام]
+",000,False,000,False,False,False,1,56
+"### | [التهنئة بشهر رمضان]
+",000,False,000,False,False,False,1,52
+"### | [التهنئة بالعيد]
+",000,False,000,False,False,False,1,312
+"### | [التهنئة بالثوب الجديد]
+",000,False,000,False,False,False,1,85
+"### | [التهنئة بالصباح والمساء]
+",000,False,000,False,False,False,1,234
+"### | [كتاب الجنائز] 
+",000,False,000,False,False,False,1,16
+"### | مسألة: سقط لم يستهل ولم يختلج وقد بلغ سبعة أشهر فصاعدا هل تجب الصلاة عليه 
+",000,False,000,False,False,False,1,133
+"### | [الفوائد الممتازة في صلاة الجنازة]
+",000,False,000,False,False,False,1,1602
+"### | [كتاب الزكاة] 
+",000,False,000,False,False,False,1,4
+"### | مسائل متفرقة
+",000,False,000,False,False,False,1,354
+"### | [بذل العسجد لسؤال المسجد]
+",000,False,000,False,False,False,1,649
+"### | [كتاب الصيام]
+",000,False,000,False,False,False,1,164
+"### | [كتاب الحج]
+",000,False,000,False,False,False,1,119
+"### | [كتاب البيع] 
+",000,False,000,False,False,False,1,4
+"### | مسائل متفرقة
+",000,False,000,False,False,False,1,361
+"### | [باب الربا]
+",000,False,000,False,False,False,1,80
+"### | [باب الخيار]
+",000,False,000,False,False,False,1,227
+"### | [باب الإقالة ms0119]
+",000,False,000,False,False,False,1,149
+"### | [باب السلم]
+",000,False,000,False,False,False,1,4
+"### | [أسلم في سبعة عشر إردبا أرزا إلى أجل معلوم وأقبض]
+",000,False,000,False,False,False,1,84
+"### | [قدح الزند في السلم في القند]
+",000,False,000,False,False,False,1,517
+"### | [باب القرض] 
+",000,False,000,False,False,False,1,9
+"### | اقترض جارية مجوسية 
+",000,False,000,False,False,False,1,60
+"### | [قطع المجادلة عند تغيير المعاملة]
+",000,False,000,False,False,False,1,3816
+"### | [باب الرهن]
+",000,False,000,False,False,False,1,468
+"### | [باب الصلح]
+",000,False,000,False,False,False,1,126
+"### | [باب الحوالة]
+",000,False,000,False,False,False,1,228
+"### | [باب الضمان]
+",000,False,000,False,False,False,1,345
+"### | [باب الإبراء]
+",000,False,000,False,False,False,1,4
+"### | مسائل متفرقة
+",000,False,000,False,False,False,1,190
+"### | [بذل الهمة في طلب براءة الذمة]
+",000,False,000,False,False,False,1,937
+"### | [باب الشركة]
+",000,False,000,False,False,False,1,277
+"### | [باب الوكالة]
+",000,False,000,False,False,False,1,61
+"### | [باب الإقرار]
+",000,False,000,False,False,False,1,118
+"### | [باب الغصب]
+",000,False,000,False,False,False,1,4
+"### | مسائل متفرقة
+",000,False,000,False,False,False,1,245
+"### | [هدم الجاني على الباني]
+",000,False,000,False,False,False,1,470
+"### | [ذكر الأحاديث المرفوعة]
+",000,False,000,False,False,False,1,1090
+"### | [ذكر ما ورد عن الصحابة والتابعين في ذلك]
+",000,False,000,False,False,False,1,917
+"### | [ذكر نقول العلماء من أئمة المذاهب الأربعة في ذلك]
+",000,False,000,False,False,False,1,1672
+"### | [باب القراض]
+",000,False,000,False,False,False,1,72
+"### | [باب المزارعة]
+",000,False,000,False,False,False,1,87
+"### | [باب الإجارة]
+",000,False,000,False,False,False,1,500
+"### | [باب الجعالة]
+",000,False,000,False,False,False,1,387
+"### | [باب إحياء الموات] 
+",000,False,000,False,False,False,1,6
+"### | مسائل متفرقة
+",000,False,000,False,False,False,1,124
+"### | [البارع في إقطاع الشارع]
+",000,False,000,False,False,False,1,2361
+"### | [الجهر بمنع البروز على شاطئ النهر]
+",000,False,000,False,False,False,1,263
+"### | [ذكر نقول مذهبنا]
+",000,False,000,False,False,False,1,1054
+"### | [ذكر ms0178 نقول المالكية]
+",000,False,000,False,False,False,1,529
+"### | [ذكر نقول الحنفية]
+",000,False,000,False,False,False,1,1712
+"### | [ذكر نقول الحنابلة]
+",000,False,000,False,False,False,1,476
+"### | [ذكر الأحاديث الواردة في إثم من ظلم شيئا من الأرض وطريق المسلمين]
+",000,False,000,False,False,False,1,1855
+"### | [باب الوقف]
+",000,False,000,False,False,False,1,4
+"### | مسائل متفرقة
+",000,False,000,False,False,False,1,2146
+"### | [الإنصاف في تمييز الأوقاف ms0202]
+",000,False,000,False,False,False,1,967
+"### | [كشف الضبابة في مسألة الاستنابة]
+",000,False,000,False,False,False,1,2116
+"### | [المباحث الزكية في المسألة الدوركية]
+",000,False,000,False,False,False,1,1164
+"### | [القول المشيد في وقف المؤيد]
+",000,False,000,False,False,False,1,3856
+"### | [باب الفرائض]
+",000,False,000,False,False,False,1,4
+"### | مسائل متفرقة
+",000,False,000,False,False,False,1,362
+"### | [البدر الذي انجلى في مسألة الولا]
+",000,False,000,False,False,False,1,3327
+"### | [باب الوصايا]
+",000,False,000,False,False,False,1,518
+"### | [كتاب النكاح]
+",000,False,000,False,False,False,1,166
+"### | [كتاب الصداق]
+",000,False,000,False,False,False,1,307
+"### | [باب الوليمة]
+",000,False,000,False,False,False,1,4
+"### | [تقبيل الخبز هل هو بدعة أم لا]
+",000,False,000,False,False,False,1,226
+"### | [حسن المقصد في عمل المولد]
+",000,False,000,False,False,False,1,3255
+"### | [باب الخلع]
+",000,False,000,False,False,False,1,390
+"### | [باب الطلاق]
+",000,False,000,False,False,False,1,4
+"### | مسائل متفرقة
+",000,False,000,False,False,False,1,1893
+"### | [القول المضي في الحنث في المضي]
+",000,False,000,False,False,False,1,3857
+"### | [فتح المغالق من أنت تالق]
+",000,False,000,False,False,False,1,1363
+"### | [المنجلي في تطور الولي]
+",000,False,000,False,False,False,1,2309
+"### | [باب اللعان]
+",000,False,000,False,False,False,1,39
+"### | [كتاب النفقات] 
+",000,False,000,False,False,False,1,4
+"### | مسائل متفرقة
+",000,False,000,False,False,False,1,862
+"### | [النقول المشرقة في مسألة النفقة]
+",000,False,000,False,False,False,1,3204
+"### | [تنزيه الأنبياء عن تسفيه الأغبياء]
+",000,False,000,False,False,False,1,4328
+"### | [باب الجهاد]
+",000,False,000,False,False,False,1,1242
+"### | [كتاب الصيد والذبائح] 
+",000,False,000,False,False,False,1,13
+"### | الرمي بالبندق في الفلوات على الطيور 
+",000,False,000,False,False,False,1,182
+"### | [باب ms0331 الأطعمة]
+",000,False,000,False,False,False,1,90
+"### | [كتاب الأيمان]
+",000,False,000,False,False,False,1,196
+"### | [كتاب الأضحية]
+",000,False,000,False,False,False,1,321
+"### | [باب الدعوى والبينات]
+",000,False,000,False,False,False,1,6
+"### | [وضعوا أيديهم بالسوية على دار فادعى أحدهم أنه يملك جميعها]
+",000,False,000,False,False,False,1,150
+"### | [حسن التصريف في عدم التحليف]
+",000,False,000,False,False,False,1,785
+"### | [باب الشهادات]
+",000,False,000,False,False,False,1,360
+"### | [باب جامع]
+",000,False,000,False,False,False,1,4
+"### | مسائل متفرقة
+",000,False,000,False,False,False,1,911
+"### | [القول المشرق في تحريم الاشتغال بالمنطق]
+",000,False,000,False,False,False,1,1516
+"### | [رفع الباس وكشف الالتباس في ضرب المثل من القرآن والاقتباس]
+",000,False,000,False,False,False,1,919
+"### | [ذكر من استعمل ذلك من الصحابة والتابعين غير من تقدم ذكره]
+",000,False,000,False,False,False,1,248
+"### | [ورد في الحديث المرفوع من استعمال ما نحن فيه وكفى به حجة]
+",000,False,000,False,False,False,1,1825
+"### | [ذكر ما وقع للإمام مالك رضي الله عنه من ذلك]
+",000,False,000,False,False,False,1,43
+"### | [ذكر ما وقع للإمام الشافعي رضي الله عنه من ذلك]
+",000,False,000,False,False,False,1,105
+"### | [ذكر ما وقع لحجة الإسلام الغزالي من استعمال ذلك]
+",000,False,000,False,False,False,1,631
+"### | [ذكر ما استعمله الشيخ تاج الدين السبكي في خطبة كتاب الأشباه والنظائر من تضمين الآيات والأحاديث]
+",000,False,000,False,False,False,1,216
+"### | [ذكر ما استعمله الشيخ بهاء الدين السبكي من ذلك في خطبة كتاب عروس الأفراح في شرح تلخيص المفتاح]
+",000,False,000,False,False,False,1,107
+"### | [ذكر ما استعمله العلامة زين الدين بن الوردي في مقامته الحرقة للخرقة]
+",000,False,000,False,False,False,1,5951
+"### | [أسئلة واردة من التكرور في شوال سنة ثمان وتسعين وثمانمائة]
+",898,year,000,False,898,013,1,3297
+"### | [الفتاوى الأصولية]
+",000,False,000,False,False,False,1,984
+"### | [الفتاوى القرآنية] 
+",000,False,000,False,False,False,1,6
+"### | سبب افتتاح القرآن الكريم بها
+",000,False,000,False,False,False,1,10
+"### | سورة الفاتحة
+",000,False,000,False,False,False,1,241
+"### | [القذاذة في تحقيق محل الاستعاذة]
+",000,False,000,False,False,False,1,1207
+"### | [سورة آل عمران]
+",000,False,000,False,False,False,1,1666
+"### | [سورة النساء]
+",000,False,000,False,False,False,1,541
+"### | [سورة الأعراف]
+",000,False,000,False,False,False,1,789
+"### | [سورة براءة]
+",000,False,000,False,False,False,1,186
+"### | [سورة يونس]
+",000,False,000,False,False,False,1,136
+"### | [سورة هود]
+",000,False,000,False,False,False,1,61
+"### | سورة يوسف
+",000,False,000,False,False,False,1,166
+"### | [دفع التعسف عن إخوة يوسف]
+",000,False,000,False,False,False,1,908
+"### | [سورة الحجر]
+",000,False,000,False,False,False,1,204
+"### | [سورة النحل]
+",000,False,000,False,False,False,1,68
+"### | [سورة الإسراء]
+",000,False,000,False,False,False,1,164
+"### | [سورة الكهف]
+",000,False,000,False,False,False,1,358
+"### | [سورة طه]
+",000,False,000,False,False,False,1,79
+"### | [سورة الفرقان]
+",000,False,000,False,False,False,1,81
+"### | [سورة الشعراء]
+",000,False,000,False,False,False,1,163
+"### | [سورة الأحزاب]
+",000,False,000,False,False,False,1,265
+"### | [سورة سبأ]
+",000,False,000,False,False,False,1,403
+"### | [سورة يس]
+",000,False,000,False,False,False,1,122
+"### | [سورة الصافات]
+",000,False,000,False,False,False,1,4
+"### | 36 - 
+",000,False,000,False,False,False,1,1663
+"### | [سورة الفتح]
+",000,False,000,False,False,False,1,114
+"### | [سورة الواقعة]
+",000,False,000,False,False,False,1,72
+"### | [سورة المجادلة]
+",000,False,000,False,False,False,1,60
+"### | [سورة الملك]
+",000,False,000,False,False,False,1,65
+"### | [سورة المدثر]
+",000,False,000,False,False,False,1,705
+"### | [سورة والمرسلات]
+",000,False,000,False,False,False,1,134
+"### | [سورة الليل] 
+",000,False,000,False,False,False,1,4
+"### | [سبب نزول لا يصلاها إلا الأشقى الذي كذب وتولى..]
+",000,False,000,False,False,False,1,188
+"### | [الحبل الوثيق في نصرة الصديق]
+",000,False,000,False,False,False,1,3075
+"### | [سورة القدر]
+",000,False,000,False,False,False,1,1700
+"### | [الفتاوى الحديثية] 
+",000,False,000,False,False,False,1,6
+"### | مسائل متفرقة
+",000,False,000,False,False,False,1,4
+"### | كتاب الطهارة
+",000,False,000,False,False,False,1,402
+"### | [الأخبار المأثورة في الاطلاء بالنورة]
+",000,False,000,False,False,False,1,10
+"### | [حكم الاطلاء بالنورة]
+",000,False,000,False,False,False,1,6
+"### | 38 - 
+",000,False,000,False,False,False,1,248
+"### | [ذكر الأحاديث الواردة في أنه صلى الله عليه وسلم تنور]
+",000,False,000,False,False,False,1,503
+"### | [ذكر الآثار عن الصحابة فمن بعدهم]
+",000,False,000,False,False,False,1,295
+"### | [ذكر الحديث الوارد في أنه صلى الله عليه وسلم لم يتنور]
+",000,False,000,False,False,False,1,653
+"### | [كتاب الصلاة] 
+",000,False,000,False,False,False,1,4
+"### | مسائل متفرقة
+",000,False,000,False,False,False,1,916
+"### | [الجواب الحزم عن حديث التكبير جزم]
+",000,False,000,False,False,False,1,362
+"### | [المصابيح في صلاة التراويح]
+",000,False,000,False,False,False,1,1558
+"### | [كتاب الصيام]
+",000,False,000,False,False,False,1,713
+"### | [كتاب الحج]
+",000,False,000,False,False,False,1,740
+"### | [كتاب النكاح]
+",000,False,000,False,False,False,1,540
+"### | [كتاب الجنايات]
+",000,False,000,False,False,False,1,358
+"### | [كتاب الأدب والرقائق] 
+",000,False,000,False,False,False,1,6
+"### | مسائل متفرقة
+",000,False,000,False,False,False,1,1558
+"### | [القول الجلي في حديث الولي]
+",000,False,000,False,False,False,1,5987
+"### | [قطف الثمر في موافقات عمر]
+",000,False,000,False,False,False,1,3550
+"### | [إعمال الفكر في فضل الذكر]
+",000,False,000,False,False,False,1,749
+"### | [نتيجة الفكر في الجهر بالذكر]
+",000,False,000,False,False,False,1,88
+"### | [ذكر الأحاديث الدالة على استحباب الجهر بالذكر تصريحا أو التزاما]
+",000,False,000,False,False,False,1,1801
+"### | [الدر المنظم في الاسم الأعظم]
+",000,False,000,False,False,False,1,1284
+"### | [المنحة في السبحة]
+",000,False,000,False,False,False,1,11
+"### | 45 - 
+",000,False,000,False,False,False,1,2014
+"### | [أعذب المناهل في حديث من قال أنا عالم فهو جاهل]
+",000,False,000,False,False,False,1,20
+"### | 46 - 
+",000,False,000,False,False,False,1,1092
+"### | [حسن التسليك في حكم التشبيك]
+",000,False,000,False,False,False,1,1272
+"### | [شد الأثواب في سد الأبواب]
+",000,False,000,False,False,False,1,7691
+"### | [العجاجة الزرنبية في السلالة الزينبية]
+",000,False,000,False,False,False,1,1259
+"### | [آخر العجاجة الزرنبية في السلالة الزينبية]
+",000,False,000,False,False,False,1,4983
+"### | [الدرة التاجية على الأسئلة الناجية]
+",000,False,000,False,False,False,1,2424
+"### | [رفع الخدر عن قطع السدر]
+",000,False,000,False,False,False,1,1570
+"### | [العرف الوردي في أخبار المهدي]
+",000,False,000,False,False,False,1,10693
+"### | [الكشف عن مجاوزة هذه الأمة الألف]
+",000,False,000,False,False,False,1,12
+"### | [الحديث المشهور على الألسنة أن النبي صلى الله عليه وسلم لا يمكث في قبره ألف سنة]
+",000,False,000,False,False,False,1,32
+"### | 53 - 
+",000,False,000,False,False,False,1,507
+"### | [ذكر ما ورد أن مدة الدنيا سبعة آلاف سنة]
+",000,year,000,False,False,False,1,716
+"### | [ذكر ما ورد أن الدجال يخرج على رأس مائة]
+",000,False,000,False,False,False,1,467
+"### | [ذكر مدة مكث الناس بعد طلوع الشمس من مغربها]
+",000,False,000,False,False,False,1,258
+"### | [ذكر مدة ما بين النفختين]
+",000,False,000,False,False,False,1,774
+"### | [كشف الريب عن الجيب]
+",000,False,000,False,False,False,1,471
+"### | [كتاب البعث] 
+",000,False,000,False,False,False,1,12
+"### | : هل ورد أن الزامر يأتي يوم القيامة بمزماره، 
+",000,False,000,False,False,False,1,258
+"### | [حديث أول ما يأكله أهل الجنة]
+",000,False,000,False,False,False,1,35
+"### | [حديث الطبراني أخبرني عن ms0666 قول الله حور عين]
+",000,False,000,False,False,False,1,129
+"### | [هل ورد أن عدد درج الجنة بعدد آي القرآن]
+",000,False,000,False,False,False,1,146
+"### | [رفع الصوت بذبح الموت]
+",000,False,000,False,False,False,1,2574
+"### | [إتحاف الفرقة برفو الخرقة]
+",000,False,000,False,False,False,1,3396
+"### | [بلوغ المأمول في خدمة الرسول صلى الله عليه وسلم]
+",000,False,000,False,False,False,1,2038
+"### | [مبحث الإلهيات]
+",000,False,000,False,False,False,1,4
+"### | [الإيمان]
+",000,False,000,False,False,False,1,113
+"### | [إتمام النعمة في اختصاص الإسلام بهذه الأمة]
+",000,False,000,False,False,False,1,5491
+"### | [تنزيه الاعتقاد عن الحلول والاتحاد]
+",000,False,000,False,False,False,1,3361
+"### | [مبحث النبوات]
+",000,False,000,False,False,False,1,306
+"### | [تزيين الآرائك في إرسال النبي صلى الله عليه وسلم إلى الملائك]
+",000,False,000,False,False,False,1,22
+"### | [الجواب على قول العلماء أنه صلى الله عليه وسلم لم يبعث إلى الملائكة]
+",000,False,000,False,False,False,1,26
+"### | 60 - 
+",000,False,000,False,False,False,1,494
+"### | [ذكر الأدلة التي أخذت منها إرساله إلى الملائكة]
+",000,False,000,False,False,False,1,2641
+"### | [أنباء الأذكياء بحياة الأنبياء]
+",000,False,000,False,False,False,1,3308
+"### | [كتاب الإعلام بحكم عيسى عليه السلام]
+",000,False,000,False,False,False,1,5401
+"### | [لبس اليلب في الجواب عن إيراد حلب]
+",000,False,000,False,False,False,1,679
+"### | [مبحث المعاد]
+",000,False,000,False,False,False,1,4
+"### | [اللمعة في أجوبة الأسئلة السبعة]
+",000,False,000,False,False,False,1,2288
+"### | [الاحتفال بالأطفال]
+",000,False,000,False,False,False,1,1070
+"### | [طلوع الثريا بإظهار ما كان خفيا]
+",000,False,000,False,False,False,1,7204
+"### | [أحوال البعث]
+",000,False,000,False,False,False,1,794
+"### | [تحفة الجلساء برؤية الله للنساء]
+",000,False,000,False,False,False,1,1401
+"### | [مسالك الحنفا في والدي المصطفى]
+",000,False,000,False,False,False,1,12831
+"### | [الفتاوى الصوفية]
+",000,False,000,False,False,False,1,4
+"### | الزهد
+",000,False,000,False,False,False,1,1818
+"### | [القول الأشبه في حديث من عرف نفسه فقد عرف ربه]
+",000,False,000,False,False,False,1,20
+"### | 68 - 
+",000,False,000,False,False,False,1,995
+"### | [الخبر الدال على وجود القطب والأوتاد والنجباء والأبدال]
+",000,False,000,False,False,False,1,16
+"### | 69 - 
+",000,False,000,False,False,False,1,5387
+"### | [تنوير الحلك في إمكان رؤية النبي والملك]
+",000,False,000,False,False,False,1,6062
+"### | [الفتاوى النحوية وما ضم إليها]
+",000,False,000,False,False,False,1,10
+"### | مسائل متفرقة في النحو
+",000,False,000,False,False,False,1,3298
+"### | [فجر الثمد في إعراب أكمل الحمد]
+",000,False,000,False,False,False,1,591
+"### | [ألوية النصر في خصيصى بالقصر]
+",000,False,000,False,False,False,1,367
+"### | [الزند الوري في الجواب عن السؤال السكندري]
+",000,False,000,False,False,False,1,1297
+"### | [رفع السنة في نصب الزنة]
+",000,year,000,False,False,False,1,1766
+"### | [الأجوبة الزكية عن الألغاز السبكية]
+",000,False,000,False,False,False,1,2422
+"### | [الأسئلة المائة]
+",000,False,000,False,False,False,1,1206
+"### | [تعريف الفئة بأجوبة الأسئلة المائة]
+",000,False,000,False,False,False,1,9931
+"### | [الأسئلة الوزيرية وأجوبتها]
+",000,False,000,False,False,False,1,5295
+"### | [الأوج في خبر عوج]
+",000,False,000,False,False,False,1,1823

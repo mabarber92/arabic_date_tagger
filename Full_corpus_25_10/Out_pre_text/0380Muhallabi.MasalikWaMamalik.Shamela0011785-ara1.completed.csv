@@ -1,0 +1,511 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | جزيرة العرب
+",000,False,000,False,False,False,1,554
+"### || الأبوا
+",000,False,000,False,False,False,2,13
+"### || أيلة
+",000,False,000,False,False,False,2,111
+"### || تدمر
+",000,False,000,False,False,False,2,34
+"### || تيماء
+",000,False,000,False,False,False,2,40
+"### || جرش
+",000,False,000,False,False,False,2,25
+"### || الجماء
+",000,False,000,False,False,False,2,31
+"### || خيوان
+",000,False,000,False,False,False,2,19
+"### || ذات عرق
+",000,False,000,False,False,False,2,22
+"### || زبيد
+",000,False,000,False,False,False,2,23
+"### || السرين
+",000,False,000,False,False,False,2,14
+"### || الشبا
+",000,False,000,False,False,False,2,28
+"### || شبام (قصبة حضرموت)
+",000,False,000,False,False,False,2,26
+"### || صحار (قصبة عمان)
+",000,False,000,False,False,False,2,38
+"### || صعدة
+",000,False,000,False,False,False,2,52
+"### || صنعاء
+",000,False,000,False,False,False,2,17
+"### || عسفان
+",000,False,000,False,False,False,2,32
+"### || فيد
+",000,False,000,False,False,False,2,25
+"### || قرن
+",000,False,000,False,False,False,2,25
+"### || هجر
+",000,False,000,False,False,False,2,12
+"### || الهماء
+",000,False,000,False,False,False,2,15
+"### | ديار مصر
+",000,False,000,False,False,False,1,1445
+"### || أبوتيج
+",000,False,000,False,False,False,2,30
+"### || أرمنت
+",000,False,000,False,False,False,2,12
+"### || الأشتوم
+",000,False,000,False,False,False,2,69
+"### || بنا
+",000,False,000,False,False,False,2,40
+"### || بنها
+",000,False,000,False,False,False,2,31
+"### || تنيس
+",000,False,000,False,False,False,2,119
+"### || الجفار
+",000,False,000,False,False,False,2,167
+"### || دمياط
+",000,False,000,False,False,False,2,106
+"### || رشيد
+",000,False,000,False,False,False,2,25
+"### || سندفا
+",000,False,000,False,False,False,2,12
+"### || شطا
+",000,False,000,False,False,False,2,35
+"### || طنتثنا
+",000,False,000,False,False,False,2,34
+"### || العريش
+",000,False,000,False,False,False,2,104
+"### || العلاقي
+",000,False,000,False,False,False,2,31
+"### || الفرما:
+",000,False,000,False,False,False,2,105
+"### || الفيوم
+",000,False,000,False,False,False,2,19
+"### || القس
+",000,False,000,False,False,False,2,67
+"### || القلزم
+",000,False,000,False,False,False,2,28
+"### || مدينة مصر
+",000,False,000,False,False,False,2,26
+"### || مشتول
+",000,False,000,False,False,False,2,26
+"### | بلاد المغرب
+",000,False,000,False,False,False,1,620
+"### || أطرابلس الغرب
+",000,False,000,False,False,False,2,14
+"### || أودغست
+",000,False,000,False,False,False,2,172
+"### || برقة
+",000,False,000,False,False,False,2,70
+"### || بنزرت
+",000,False,000,False,False,False,2,38
+"### || بونة
+",000,False,000,False,False,False,2,35
+"### || تاهرت
+",000,False,000,False,False,False,2,70
+"### || تونس
+",000,False,000,False,False,False,2,44
+"### || زويلة
+",000,False,000,False,False,False,2,13
+"### || سوسة
+",000,False,000,False,False,False,2,31
+"### || طبنة
+",000,False,000,False,False,False,2,17
+"### || غذامس
+",000,False,000,False,False,False,2,41
+"### || قابس
+",000,False,000,False,False,False,2,16
+"### || القيروان
+",000,False,000,False,False,False,2,50
+"### || المسيلة
+",000,False,000,False,False,False,2,22
+"### | بلاد السودان
+",000,False,000,False,False,False,1,368
+"### || أكسنتلا
+",000,False,000,False,False,False,2,96
+"### || زغاوة
+",000,False,000,False,False,False,2,183
+"### | جزيرة الأندلس
+",000,False,000,False,False,False,1,78
+"### || سمورة
+",000,False,000,False,False,False,2,15
+"### || شنتياقو
+",000,False,000,False,False,False,2,19
+"### | الجانب الشمالي من الأرض
+",000,False,000,False,False,False,1,310
+"### || أرطنوج
+",000,False,000,False,False,False,2,17
+"### || بلاد البلغار
+",000,False,000,False,False,False,2,100
+"### || جبل القيتق
+",000,False,000,False,False,False,2,117
+"### || رومية
+",000,False,000,False,False,False,2,23
+"### | ذكر الشام
+",000,False,000,False,False,False,1,4840
+"### || أذرعات
+",000,False,000,False,False,False,2,80
+"### || أرسوف
+",000,False,000,False,False,False,2,43
+"### || أريحا
+",000,False,000,False,False,False,2,54
+"### || أفامية
+",000,False,000,False,False,False,2,26
+"### || أنطاكية
+",000,False,000,False,False,False,2,250
+"### || بالس
+",000,False,000,False,False,False,2,37
+"### || بانياس
+",000,False,000,False,False,False,2,77
+"### || بصرى
+",000,False,000,False,False,False,2,35
+"### || بعلبك
+",000,False,000,False,False,False,2,63
+"### || بغراس
+",000,False,000,False,False,False,2,41
+"### || بلنياس
+",000,False,000,False,False,False,2,13
+"### || بيت المقدس
+",000,False,000,False,False,False,2,19
+"### || صفة بيت المقدس
+",000,False,000,False,False,False,2,1306
+"### || مسجد إبراهيم الخليل
+",000,False,000,False,False,False,2,75
+"### || بيروت
+",000,False,000,False,False,False,2,46
+"### || جبلة
+",000,False,000,False,False,False,2,25
+"### || حلب
+",000,False,000,False,False,False,2,354
+"### || حمص
+",000,False,000,False,False,False,2,60
+"### || دمشق
+",000,False,000,False,False,False,2,738
+"### || رفح
+",000,False,000,False,False,False,2,79
+"### || الرملة
+",000,False,000,False,False,False,2,68
+"### || سليمة
+",000,False,000,False,False,False,2,13
+"### || سيسية (سيس)
+",000,False,000,False,False,False,2,29
+"### || شيزر
+",000,False,000,False,False,False,2,47
+"### || صيدا
+",000,False,000,False,False,False,2,63
+"### || طبرية
+",000,False,000,False,False,False,2,42
+"### || طرابلس
+",000,False,000,False,False,False,2,21
+"### || طرسوس
+",000,False,000,False,False,False,2,478
+"### || عرقة
+",000,False,000,False,False,False,2,52
+"### || عسقلان
+",000,False,000,False,False,False,2,36
+"### || عكا
+",000,False,000,False,False,False,2,35
+"### || عمتا
+",000,False,000,False,False,False,2,34
+"### || عمواس
+",000,False,000,False,False,False,2,17
+"### || عين زربة
+",000,False,000,False,False,False,2,15
+"### || غزة
+",000,False,000,False,False,False,2,54
+"### || قيسارية
+",000,False,000,False,False,False,2,24
+"### || كفر طاب
+",000,False,000,False,False,False,2,24
+"### || اللاذقية
+",000,False,000,False,False,False,2,43
+"### || ماب [مؤاب]
+",000,False,000,False,False,False,2,14
+"### || مرعش
+",000,False,000,False,False,False,2,22
+"### || المصيصة
+",000,False,000,False,False,False,2,78
+"### || معرة النعمان
+",000,False,000,False,False,False,2,22
+"### || معرة مصرين
+",000,False,000,False,False,False,2,36
+"### || مؤتة
+",000,False,000,False,False,False,2,29
+"### || نابلس
+",000,False,000,False,False,False,2,69
+"### || نهر أبي فطرس
+",000,False,000,False,False,False,2,159
+"### | ذكر الجزيرة بين دجلة والفرات
+",000,False,000,False,False,False,1,259
+"### || آمد
+",000,False,000,False,False,False,2,33
+"### || برقعيد
+",000,False,000,False,False,False,2,37
+"### || بلد
+",000,False,000,False,False,False,2,14
+"### || تل أعفر
+",000,False,000,False,False,False,2,18
+"### || الحديثة
+",000,False,000,False,False,False,2,22
+"### || الرها
+",000,False,000,False,False,False,2,23
+"### || حران
+",000,False,000,False,False,False,2,31
+"### || رأس عين
+",000,False,000,False,False,False,2,27
+"### || السن
+",000,False,000,False,False,False,2,23
+"### || قرقيسيا
+",000,False,000,False,False,False,2,25
+"### || ماكسين
+",000,False,000,False,False,False,2,17
+"### | ذكر العراق
+",000,False,000,False,False,False,1,579
+"### || أقر
+",000,False,000,False,False,False,2,23
+"### || البردان
+",000,False,000,False,False,False,2,18
+"### || جلولا
+",000,False,000,False,False,False,2,13
+"### || الحيرة
+",000,False,000,False,False,False,2,47
+"### || خانقين
+",000,False,000,False,False,False,2,36
+"### || الدسكرة
+",000,False,000,False,False,False,2,27
+"### || سر من رأى
+",000,False,000,False,False,False,2,121
+"### || صرصر
+",000,False,000,False,False,False,2,16
+"### || عكبرا
+",000,False,000,False,False,False,2,21
+"### || عين جمل
+",000,False,000,False,False,False,2,22
+"### || عين صيد
+",000,False,000,False,False,False,2,24
+"### || فم الصلح
+",000,False,000,False,False,False,2,33
+"### || قصر ابن هبيرة
+",000,False,000,False,False,False,2,17
+"### || كلواذا
+",000,False,000,False,False,False,2,17
+"### || الكوفة
+",000,False,000,False,False,False,2,27
+"### || لعلع
+",000,False,000,False,False,False,2,31
+"### || المدائن
+",000,False,000,False,False,False,2,46
+"### || نهر الملك
+",000,False,000,False,False,False,2,39
+"### | ذكر خوزستان
+",000,False,000,False,False,False,1,273
+"### || أرجان
+",000,False,000,False,False,False,2,20
+"### || الأهواز
+",000,False,000,False,False,False,2,19
+"### || بصنى
+",000,False,000,False,False,False,2,18
+"### || تستر
+",000,False,000,False,False,False,2,41
+"### || جنديسابور
+",000,False,000,False,False,False,2,17
+"### || حصن المهدي
+",000,False,000,False,False,False,2,30
+"### || الدورق
+",000,False,000,False,False,False,2,24
+"### || رامهرمز
+",000,False,000,False,False,False,2,21
+"### || رستاق الزط
+",000,False,000,False,False,False,2,26
+"### || عسكر مكرم
+",000,False,000,False,False,False,2,74
+"### || قرقوب
+",000,False,000,False,False,False,2,20
+"### | ذكر فارس
+",000,False,000,False,False,False,1,266
+"### || اصطخر
+",000,False,000,False,False,False,2,19
+"### || البيضاء
+",000,False,000,False,False,False,2,15
+"### || جنابة
+",000,False,000,False,False,False,2,19
+"### || جور
+",000,False,000,False,False,False,2,29
+"### || حصن ابن عمارة
+",000,False,000,False,False,False,2,16
+"### || دارابجرد
+",000,False,000,False,False,False,2,21
+"### || شيراز
+",000,False,000,False,False,False,2,43
+"### | ذكر كرمان
+",000,False,000,False,False,False,1,41
+"### || بم
+",000,False,000,False,False,False,2,25
+"### || جيرفت
+",000,False,000,False,False,False,2,12
+"### | ذكر سجستان
+",000,False,000,False,False,False,1,26
+"### || بست
+",000,False,000,False,False,False,2,13
+"### | ذكر السند
+",000,False,000,False,False,False,1,196
+"### || أزور
+",000,False,000,False,False,False,2,19
+"### || بيرون
+",000,False,000,False,False,False,2,12
+"### || المنصورة
+",000,False,000,False,False,False,2,147
+"### | ذكر الهند
+",000,False,000,False,False,False,1,115
+"### || التبت
+",000,False,000,False,False,False,2,13
+"### || سندان
+",000,False,000,False,False,False,2,28
+"### || قامرون
+",000,False,000,False,False,False,2,26
+"### | ذكر جزائر بحر الشرق
+",000,False,000,False,False,False,1,146
+"### || جزيرة خارك
+",000,False,000,False,False,False,2,22
+"### || جزيرة سريرة
+",000,False,000,False,False,False,2,50
+"### || جزيرة سقطرة
+",000,False,000,False,False,False,2,13
+"### || جزيرة كله
+",000,False,000,False,False,False,2,34
+"### | ذكر أرمينية وأران وأذربيجان
+",000,False,000,False,False,False,1,366
+"### || أردبيل
+",000,False,000,False,False,False,2,34
+"### || أرمية
+",000,False,000,False,False,False,2,40
+"### || باب الأبواب
+",000,False,000,False,False,False,2,28
+"### || بدليس
+",000,False,000,False,False,False,2,17
+"### || برزند
+",000,False,000,False,False,False,2,33
+"### || بركري
+",000,False,000,False,False,False,2,17
+"### || البيلقان
+",000,False,000,False,False,False,2,19
+"### || خلاط
+",000,False,000,False,False,False,2,17
+"### || خوي
+",000,False,000,False,False,False,2,15
+"### || دبيل
+",000,False,000,False,False,False,2,25
+"### || سلماس
+",000,False,000,False,False,False,2,44
+"### || مراغة
+",000,False,000,False,False,False,2,34
+"### || مرند
+",000,False,000,False,False,False,2,26
+"### || موقان
+",000,False,000,False,False,False,2,55
+"### | بلاد الجبل (عراق العجم)
+",000,False,000,False,False,False,1,218
+"### || أسد أباذ
+",000,False,000,False,False,False,2,28
+"### || آوة
+",000,False,000,False,False,False,2,37
+"### || الدينور
+",000,False,000,False,False,False,2,29
+"### || ساوة
+",000,False,000,False,False,False,2,24
+"### || شهرزور
+",000,False,000,False,False,False,2,37
+"### || قاشان
+",000,False,000,False,False,False,2,17
+"### || قرماسين
+",000,False,000,False,False,False,2,21
+"### || قم
+",000,False,000,False,False,False,2,27
+"### | بلاد الديلم وكيلان
+",000,False,000,False,False,False,1,340
+"### || بلاد الجيل والديلم
+",000,False,000,False,False,False,2,42
+"### || سالوس
+",000,False,000,False,False,False,2,39
+"### || كلار
+",000,False,000,False,False,False,2,15
+"### || كوتم
+",000,False,000,False,False,False,2,15
+"### || طبرستان
+",000,False,000,False,False,False,2,51
+"### || أستراباذ
+",000,False,000,False,False,False,2,21
+"### || آمل
+",000,False,000,False,False,False,2,15
+"### || جرجان
+",000,False,000,False,False,False,2,79
+"### || الدامغان
+",000,False,000,False,False,False,2,19
+"### || رويان
+",000,False,000,False,False,False,2,27
+"### | بلاد خراسان
+",000,False,000,False,False,False,1,190
+"### || الداندانقان
+",000,False,000,False,False,False,2,27
+"### || سرخس
+",000,False,000,False,False,False,2,29
+"### || شبورقان
+",000,False,000,False,False,False,2,14
+"### || الشرمجان
+",000,False,000,False,False,False,2,31
+"### || الطابران
+",000,False,000,False,False,False,2,22
+"### || فارياب
+",000,False,000,False,False,False,2,12
+"### || كشميهين
+",000,False,000,False,False,False,2,24
+"### || نسا
+",000,False,000,False,False,False,2,23
+"### | زابلستان
+",000,False,000,False,False,False,1,29
+"### || الباميان
+",000,False,000,False,False,False,2,17
+"### | طخارستان
+",000,False,000,False,False,False,1,59
+"### || الطايقان
+",000,False,000,False,False,False,2,27
+"### | خوارزم
+",000,False,000,False,False,False,1,89
+"### || درعان
+",000,False,000,False,False,False,2,18
+"### || كاث
+",000,False,000,False,False,False,2,28
+"### | بلاد ما وراء النهر
+",000,False,000,False,False,False,1,229
+"### || أسروشنة
+",000,False,000,False,False,False,2,19
+"### || أسفيجاب
+",000,False,000,False,False,False,2,23
+"### || اشتيخن
+",000,False,000,False,False,False,2,19
+"### || دبوسية
+",000,False,000,False,False,False,2,19
+"### || الطواويس
+",000,False,000,False,False,False,2,20
+"### || فاراب
+",000,False,000,False,False,False,2,38
+"### || كرمينية
+",000,False,000,False,False,False,2,30
+"### || نخشب
+",000,False,000,False,False,False,2,28
+"### || كش
+",000,False,000,False,False,False,2,21
+"### || شلج
+",000,False,000,False,False,False,2,16
+"### || واشجرد
+",000,False,000,False,False,False,2,14
+"### || كاشغر
+",000,False,000,False,False,False,2,13
+"### | مواضع مجهولة
+",000,False,000,False,False,False,1,2505
+"### || جولى: 
+",000,False,000,False,False,False,2,15
+"### || حديلاء
+",000,False,000,False,False,False,2,19
+"### || ضدنى
+",000,False,000,False,False,False,2,17
+"### || قرحياء
+",000,False,000,False,False,False,2,19
+"### || قرورى
+",000,False,000,False,False,False,2,10
+"### || قنوى
+",000,False,000,False,False,False,2,9

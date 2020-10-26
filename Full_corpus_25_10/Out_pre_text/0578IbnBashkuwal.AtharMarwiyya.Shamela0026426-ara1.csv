@@ -1,0 +1,813 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [1] ما جاء في العسل
+",000,False,000,False,False,False,1,10
+"### | 1- 
+",000,False,000,False,False,False,1,50
+"### | [ص: 102]
+",000,False,000,False,False,False,1,39
+"### | 2- 
+",000,False,000,False,False,False,1,67
+"### | 3- 
+",000,False,000,False,False,False,1,32
+"### | 4- 
+",000,False,000,False,False,False,1,55
+"### | [ص: 105]
+",000,False,000,False,False,False,1,16
+"### | 5- 
+",000,False,000,False,False,False,1,64
+"### | 6- 
+",000,False,000,False,False,False,1,66
+"### | [ص: 107]
+",000,False,000,False,False,False,1,17
+"### | [2] ما جاء في الطيب والحلواء
+",000,False,000,False,False,False,1,12
+"### | 7- 
+",000,False,000,False,False,False,1,50
+"### | [ص: 108]
+",000,False,000,False,False,False,1,45
+"### | 8- 
+",000,False,000,False,False,False,1,29
+"### | [ص: 110]
+",000,False,000,False,False,False,1,28
+"### | [ص: 111]
+",000,False,000,False,False,False,1,50
+"### | 9- 
+",000,False,000,False,False,False,1,56
+"### | [ص: 112]
+",000,False,000,False,False,False,1,35
+"### | 10- 
+",000,False,000,False,False,False,1,50
+"### | [ص: 114]
+",000,False,000,False,False,False,1,31
+"### | [3] ما جاء في اللحم
+",000,False,000,False,False,False,1,10
+"### | 11- 
+",000,False,000,False,False,False,1,67
+"### | [ص: 116]
+",000,False,000,False,False,False,1,24
+"### | 12- 
+",000,False,000,False,False,False,1,23
+"### | [ص: 118]
+",000,False,000,False,False,False,1,39
+"### | [ص: 119]
+",000,False,000,False,False,False,1,24
+"### | 13- 
+",000,False,000,False,False,False,1,41
+"### | [ص: 120]
+",000,False,000,False,False,False,1,42
+"### | 14- 
+",000,False,000,False,False,False,1,45
+"### | [ص: 122]
+",000,False,000,False,False,False,1,17
+"### | 15- 
+",000,False,000,False,False,False,1,23
+"### | [ص: 123]
+",000,False,000,False,False,False,1,23
+"### | 16- 
+",000,False,000,False,False,False,1,38
+"### | [ص: 124]
+",000,False,000,False,False,False,1,55
+"### | 17- 
+",000,False,000,False,False,False,1,41
+"### | [ص: 125]
+",000,False,000,False,False,False,1,27
+"### | [4] ما جاء في الثمر
+",000,False,000,False,False,False,1,10
+"### | 18- 
+",000,False,000,False,False,False,1,55
+"### | [ص: 126]
+",000,False,000,False,False,False,1,34
+"### | 19- 
+",000,False,000,False,False,False,1,41
+"### | [ص: 127]
+",000,False,000,False,False,False,1,83
+"### | [ص: 128]
+",000,False,000,False,False,False,1,9
+"### | [5] ما جاء في النخلة
+",000,False,000,False,False,False,1,10
+"### | 20- 
+",000,False,000,False,False,False,1,53
+"### | [ص: 131]
+",000,False,000,False,False,False,1,28
+"### | [6] ما جاء في الخبز
+",000,False,000,False,False,False,1,10
+"### | 21- 
+",000,False,000,False,False,False,1,65
+"### | [ص: 133]
+",000,False,000,False,False,False,1,12
+"### | 22- 
+",000,False,000,False,False,False,1,73
+"### | [7] ما جاء في العجين
+",000,False,000,False,False,False,1,10
+"### | 23- 
+",000,False,000,False,False,False,1,25
+"### | [ص: 136]
+",000,False,000,False,False,False,1,28
+"### | [ص: 137]
+",000,False,000,False,False,False,1,42
+"### | [8] ما جاء في الهريسة
+",000,False,000,False,False,False,1,10
+"### | 24- 
+",000,False,000,False,False,False,1,68
+"### | [ص: 139]
+",000,False,000,False,False,False,1,41
+"### | [9] ما جاء في السميذ
+",000,False,000,False,False,False,1,10
+"### | 25- 
+",000,False,000,False,False,False,1,43
+"### | [ص: 140]
+",000,False,000,False,False,False,1,45
+"### | [10] ما جاء في البيض
+",000,False,000,False,False,False,1,10
+"### | 26- 
+",000,False,000,False,False,False,1,36
+"### | [ص: 142]
+",000,False,000,False,False,False,1,47
+"### | [11] ما جاء في الزيت
+",000,False,000,False,False,False,1,10
+"### | 27- 
+",000,False,000,False,False,False,1,36
+"### | [ص: 144]
+",000,False,000,False,False,False,1,28
+"### | [ص: 145]
+",000,False,000,False,False,False,1,28
+"### | [12] ما جاء في اللبن
+",000,False,000,False,False,False,1,10
+"### | 28- 
+",000,False,000,False,False,False,1,76
+"### | [ص: 147]
+",000,False,000,False,False,False,1,14
+"### | [13] ما جاء في ألبان البقر
+",000,False,000,False,False,False,1,12
+"### | 29- 
+",000,False,000,False,False,False,1,39
+"### | [ص: 148]
+",000,False,000,False,False,False,1,41
+"### | [ص: 149]
+",000,False,000,False,False,False,1,10
+"### | 30- 
+",000,False,000,False,False,False,1,27
+"### | [ص: 151]
+",000,False,000,False,False,False,1,30
+"### | [ص: 152]
+",000,False,000,False,False,False,1,53
+"### | [14] ما جاء في الثريد
+",000,False,000,False,False,False,1,10
+"### | 31- 
+",000,False,000,False,False,False,1,46
+"### | [ص: 154]
+",000,False,000,False,False,False,1,18
+"### | 32- 
+",000,False,000,False,False,False,1,53
+"### | [15] ما جاء في القديد
+",000,False,000,False,False,False,1,10
+"### | 33- 
+",000,False,000,False,False,False,1,99
+"### | [16] ما جاء في الشواء
+",000,False,000,False,False,False,1,10
+"### | 34- 
+",000,False,000,False,False,False,1,58
+"### | [ص: 160]
+",000,False,000,False,False,False,1,26
+"### | [17] ما جاء في التلبينة
+",000,False,000,False,False,False,1,10
+"### | 35- 
+",000,False,000,False,False,False,1,78
+"### | 36- 
+",000,False,000,False,False,False,1,41
+"### | [ص: 168]
+",000,False,000,False,False,False,1,83
+"### | [19] ما جاء في الأترنج
+",000,False,000,False,False,False,1,10
+"### | 37- 
+",000,False,000,False,False,False,1,27
+"### | [ص: 169]
+",000,False,000,False,False,False,1,63
+"### | [ص: 170]
+",000,False,000,False,False,False,1,12
+"### | 38- 
+",000,False,000,False,False,False,1,39
+"### | [ص: 171]
+",000,False,000,False,False,False,1,35
+"### | [20] ما جاء في الأرز
+",000,False,000,False,False,False,1,10
+"### | 39- 
+",000,False,000,False,False,False,1,74
+"### | [ص: 173]
+",000,False,000,False,False,False,1,6
+"### | [21] ما جاء في الملح
+",000,False,000,False,False,False,1,10
+"### | 40- 
+",000,False,000,False,False,False,1,46
+"### | [ص: 174]
+",000,False,000,False,False,False,1,25
+"### | [22] ما جاء في العصيدة
+",000,False,000,False,False,False,1,10
+"### | 41- 
+",000,False,000,False,False,False,1,72
+"### | [ص: 176]
+",000,False,000,False,False,False,1,12
+"### | [23] ما جاء في العدس
+",000,False,000,False,False,False,1,10
+"### | 42- 
+",000,False,000,False,False,False,1,60
+"### | [ص: 177]
+",000,False,000,False,False,False,1,78
+"### | 43- 
+",000,False,000,False,False,False,1,55
+"### | [24] ما جاء في الفول
+",000,False,000,False,False,False,1,10
+"### | 44- 
+",000,False,000,False,False,False,1,66
+"### | [25] ما جاء في الدباء
+",000,False,000,False,False,False,1,10
+"### | 45- 
+",000,False,000,False,False,False,1,50
+"### | [ص: 182]
+",000,False,000,False,False,False,1,9
+"### | 46- 
+",000,False,000,False,False,False,1,34
+"### | [ص: 183]
+",000,False,000,False,False,False,1,13
+"### | [26] ما جاء في الباذنجان
+",000,False,000,False,False,False,1,10
+"### | 47- 
+",000,False,000,False,False,False,1,75
+"### | [ص: 184]
+",000,False,000,False,False,False,1,52
+"### | 48- 
+",000,False,000,False,False,False,1,25
+"### | [ص: 185]
+",000,False,000,False,False,False,1,61
+"### | [27] ما جاء في البقل
+",000,False,000,False,False,False,1,10
+"### | 49- 
+",000,False,000,False,False,False,1,36
+"### | ........ 
+",000,False,000,False,False,False,1,10
+"### | [ص: 186]
+",000,False,000,False,False,False,1,25
+"### | [28] ما جاء في الكعك
+",000,False,000,False,False,False,1,10
+"### | 50- 
+",000,False,000,False,False,False,1,54
+"### | [ص: 188]
+",000,False,000,False,False,False,1,18
+"### | [29] ما جاء في القمح والشعير
+",000,False,000,False,False,False,1,12
+"### | 51- 
+",000,False,000,False,False,False,1,30
+"### | [ص: 189]
+",000,False,000,False,False,False,1,55
+"### | [ص: 190]
+",000,False,000,False,False,False,1,58
+"### | [30] ما جاء في السويق
+",000,False,000,False,False,False,1,10
+"### | 52- 
+",000,False,000,False,False,False,1,43
+"### | [ص: 191]
+",000,False,000,False,False,False,1,50
+"### | [31] ما جاء في السلق
+",000,False,000,False,False,False,1,10
+"### | 53- 
+",000,False,000,False,False,False,1,29
+"### | [ص: 192]
+",000,False,000,False,False,False,1,82
+"### | [ص: 193]
+",000,False,000,False,False,False,1,13
+"### | [32] ما جاء في لحم البقر بالسلق
+",000,False,000,False,False,False,1,14
+"### | 54- 
+",000,False,000,False,False,False,1,50
+"### | [ص: 194]
+",000,False,000,False,False,False,1,16
+"### | [33] ما جاء في الحيس
+",000,False,000,False,False,False,1,10
+"### | 55- 
+",000,False,000,False,False,False,1,40
+"### | [ص: 195]
+",000,False,000,False,False,False,1,60
+"### | [34] ما جاء في الرطب والبطيخ
+",000,False,000,False,False,False,1,12
+"### | 56- 
+",000,False,000,False,False,False,1,50
+"### | [ص: 197]
+",000,False,000,False,False,False,1,14
+"### | 57- 
+",000,False,000,False,False,False,1,40
+"### | [ص: 199]
+",000,False,000,False,False,False,1,30
+"### | [35] ما جاء في العجوة
+",000,False,000,False,False,False,1,10
+"### | 58- 
+",000,False,000,False,False,False,1,33
+"### | [ص: 200]
+",000,False,000,False,False,False,1,34
+"### | [ص: 201]
+",000,False,000,False,False,False,1,14
+"### | [36] ما جاء في لحم الحبارى
+",000,False,000,False,False,False,1,12
+"### | 59- 
+",000,False,000,False,False,False,1,43
+"### | [ص: 203]
+",000,False,000,False,False,False,1,20
+"### | [37] ما جاء في السمك
+",000,False,000,False,False,False,1,10
+"### | 60- 
+",000,False,000,False,False,False,1,78
+"### | [ص: 205]
+",000,False,000,False,False,False,1,39
+"### | [38] ما جاء في السمن والأقط
+",000,False,000,False,False,False,1,12
+"### | 61- 
+",000,False,000,False,False,False,1,34
+"### | [ص: 207]
+",000,False,000,False,False,False,1,52
+"### | [39] ماجاء في القثاء
+",000,False,000,False,False,False,1,8
+"### | 62- 
+",000,False,000,False,False,False,1,62
+"### | [40] ما جاء في الحجل
+",000,False,000,False,False,False,1,10
+"### | 63- 
+",000,False,000,False,False,False,1,77
+"### | [41] ما جاء في الزبد
+",000,False,000,False,False,False,1,10
+"### | 64- 
+",000,False,000,False,False,False,1,42
+"### | [ص: 218]
+",000,False,000,False,False,False,1,30
+"### | [42] ما جاء في الأرنب
+",000,False,000,False,False,False,1,10
+"### | 65- 
+",000,False,000,False,False,False,1,57
+"### | [43] ما جاء في الجشيشة
+",000,False,000,False,False,False,1,10
+"### | 66- 
+",000,False,000,False,False,False,1,64
+"### | [ص: 221]
+",000,False,000,False,False,False,1,50
+"### | [44] ما جاء في الحمص
+",000,False,000,False,False,False,1,10
+"### | 67- 
+",000,False,000,False,False,False,1,31
+"### | [ص: 225]
+",000,False,000,False,False,False,1,34
+"### | [45] ما جاء في الخبز الفطير بالجبن
+",000,False,000,False,False,False,1,14
+"### | 68- 
+",000,False,000,False,False,False,1,69
+"### | [ص: 227]
+",000,False,000,False,False,False,1,15
+"### | [46] ما جاء في طعام العرس
+",000,False,000,False,False,False,1,12
+"### | 69- 
+",000,False,000,False,False,False,1,81
+"### | [ص: 228]
+",000,False,000,False,False,False,1,51
+"### | [47] ما جاء في الختان
+",000,False,000,False,False,False,1,10
+"### | 70- 
+",000,False,000,False,False,False,1,44
+"### | [ص: 229]
+",000,False,000,False,False,False,1,43
+"### | [48] ما جاء في الجبن
+",000,False,000,False,False,False,1,10
+"### | 71- 
+",000,False,000,False,False,False,1,55
+"### | [ص: 231]
+",000,False,000,False,False,False,1,17
+"### | [49] ما جاء في العنب والرب
+",000,False,000,False,False,False,1,12
+"### | 72- 
+",000,False,000,False,False,False,1,41
+"### | [ص: 232]
+",000,False,000,False,False,False,1,33
+"### | [ص: 233]
+",000,False,000,False,False,False,1,30
+"### | 73- 
+",000,False,000,False,False,False,1,42
+"### | [ص: 234]
+",000,False,000,False,False,False,1,30
+"### | [50] ما جاء في الزبيب
+",000,False,000,False,False,False,1,10
+"### | 74- 
+",000,False,000,False,False,False,1,123
+"### | 75- 
+",000,False,000,False,False,False,1,40
+"### | [ص: 237]
+",000,False,000,False,False,False,1,50
+"### | 76- 
+",000,False,000,False,False,False,1,57
+"### | [51] ما جاء في التين
+",000,False,000,False,False,False,1,10
+"### | 77- 
+",000,False,000,False,False,False,1,31
+"### | [ص: 239]
+",000,False,000,False,False,False,1,46
+"### | 78- 
+",000,False,000,False,False,False,1,55
+"### | [52] ما جاء في الرمان
+",000,False,000,False,False,False,1,10
+"### | 79- 
+",000,False,000,False,False,False,1,58
+"### | [ص: 241]
+",000,False,000,False,False,False,1,38
+"### | 80- 
+",000,False,000,False,False,False,1,61
+"### | 81- 
+",000,False,000,False,False,False,1,45
+"### | [ص: 244]
+",000,False,000,False,False,False,1,22
+"### | 82- 
+",000,False,000,False,False,False,1,41
+"### | [ص: 245]
+",000,False,000,False,False,False,1,29
+"### | [53] ما جاء في السفرجل
+",000,False,000,False,False,False,1,10
+"### | 83- 
+",000,False,000,False,False,False,1,34
+"### | [ص: 246]
+",000,False,000,False,False,False,1,43
+"### | [ص: 247]
+",000,False,000,False,False,False,1,7
+"### | 84- 
+",000,False,000,False,False,False,1,44
+"### | [ص: 248]
+",000,False,000,False,False,False,1,25
+"### | 85- 
+",000,False,000,False,False,False,1,46
+"### | [ص: 249]
+",000,False,000,False,False,False,1,38
+"### | 86- 
+",000,False,000,False,False,False,1,66
+"### | [ص: 250]
+",000,False,000,False,False,False,1,12
+"### | 87- 
+",000,False,000,False,False,False,1,55
+"### | [ص: 251]
+",000,False,000,False,False,False,1,61
+"### | [54] ما جاء في التفاح
+",000,False,000,False,False,False,1,10
+"### | 88- 
+",000,False,000,False,False,False,1,27
+"### | [ص: 252]
+",000,False,000,False,False,False,1,40
+"### | 89- 
+",000,False,000,False,False,False,1,47
+"### | [ص: 254]
+",000,False,000,False,False,False,1,5
+"### | 90- 
+",000,False,000,False,False,False,1,31
+"### | [ص: 255]
+",000,False,000,False,False,False,1,41
+"### | [55] ما جاء في اللفت باللحم
+",000,False,000,False,False,False,1,12
+"### | 91- 
+",000,False,000,False,False,False,1,46
+"### | [56] ما جاء في الحبة السوداء
+",000,False,000,False,False,False,1,12
+"### | 92- 
+",000,False,000,False,False,False,1,69
+"### | [ص: 258]
+",000,False,000,False,False,False,1,10
+"### | [57] ما جاء في الكمون
+",000,False,000,False,False,False,1,10
+"### | 93- 
+",000,False,000,False,False,False,1,39
+"### | [ص: 260]
+",000,False,000,False,False,False,1,60
+"### | [ص: 261]
+",000,False,000,False,False,False,1,11
+"### | [58] ما جاء في الكمأة
+",000,False,000,False,False,False,1,10
+"### | 94- 
+",000,False,000,False,False,False,1,35
+"### | [ص: 262]
+",000,False,000,False,False,False,1,23
+"### | [59] ما جاء في البصل
+",000,False,000,False,False,False,1,10
+"### | 95- 
+",000,False,000,False,False,False,1,39
+"### | [ص: 266]
+",000,False,000,False,False,False,1,36
+"### | 96- 
+",000,False,000,False,False,False,1,43
+"### | [ص: 268]
+",000,False,000,False,False,False,1,30
+"### | 97- 
+",000,False,000,False,False,False,1,40
+"### | [ص: 269]
+",000,False,000,False,False,False,1,23
+"### | 98- 
+",000,False,000,False,False,False,1,38
+"### | [ص: 270]
+",000,False,000,False,False,False,1,12
+"### | 99- 
+",000,False,000,False,False,False,1,60
+"### | [60] ما جاء في الثوم
+",000,False,000,False,False,False,1,10
+"### | 100- 
+",000,False,000,False,False,False,1,72
+"### | [ص: 272]
+",000,False,000,False,False,False,1,22
+"### | [61] ما جاء في الفلفل
+",000,False,000,False,False,False,1,10
+"### | 101- 
+",000,False,000,False,False,False,1,73
+"### | [ص: 273]
+",000,False,000,False,False,False,1,52
+"### | [62] ما جاء في الزنجبيل
+",000,False,000,False,False,False,1,10
+"### | 102- 
+",000,False,000,False,False,False,1,47
+"### | [ص: 274]
+",000,False,000,False,False,False,1,34
+"### | [63] ما جاء في الرجلة
+",000,False,000,False,False,False,1,10
+"### | 103- 
+",000,False,000,False,False,False,1,67
+"### | [ص: 276]
+",000,False,000,False,False,False,1,23
+"### | [64] ما جاء في الفجل
+",000,False,000,False,False,False,1,10
+"### | 104- 
+",000,False,000,False,False,False,1,38
+"### | [ص: 277]
+",000,False,000,False,False,False,1,30
+"### | [65] ما جاء في الهندباء
+",000,False,000,False,False,False,1,10
+"### | 105- 
+",000,False,000,False,False,False,1,45
+"### | [ص: 278]
+",000,False,000,False,False,False,1,32
+"### | 106- 
+",000,False,000,False,False,False,1,25
+"### | [ص: 279]
+",000,False,000,False,False,False,1,43
+"### | 107- 
+",000,False,000,False,False,False,1,33
+"### | [ص: 280]
+",000,False,000,False,False,False,1,24
+"### | [66] ما جاء في الحلباء
+",000,False,000,False,False,False,1,10
+"### | 108- 
+",000,False,000,False,False,False,1,34
+"### | [ص: 281]
+",000,False,000,False,False,False,1,67
+"### | 109- 
+",000,False,000,False,False,False,1,21
+"### | [67] ما جاء في القلقاس
+",000,False,000,False,False,False,1,10
+"### | 110- 
+",000,False,000,False,False,False,1,67
+"### | [68] ما جاء في قصب السكر
+",000,False,000,False,False,False,1,12
+"### | 111- 
+",000,False,000,False,False,False,1,57
+"### | [ص: 285]
+",000,False,000,False,False,False,1,11
+"### | [69] ما جاء في الموز
+",000,False,000,False,False,False,1,10
+"### | 112- 
+",000,False,000,False,False,False,1,65
+"### | [ص: 286]
+",000,False,000,False,False,False,1,10
+"### | 113- 
+",000,False,000,False,False,False,1,35
+"### | [ص: 287]
+",000,False,000,False,False,False,1,11
+"### | [70] ما جاء في الجزر وهي الإسفنارية
+",000,False,000,False,False,False,1,14
+"### | 114- 
+",000,False,000,False,False,False,1,30
+"### | [ص: 288]
+",000,False,000,False,False,False,1,45
+"### | [ص: 289]
+",000,False,000,False,False,False,1,29
+"### | [71] ما جاء في الحناء والريحان
+",000,False,000,False,False,False,1,12
+"### | 115- 
+",000,False,000,False,False,False,1,55
+"### | [ص: 290]
+",000,False,000,False,False,False,1,57
+"### | 116- 
+",000,False,000,False,False,False,1,66
+"### | [ص: 292]
+",000,False,000,False,False,False,1,16
+"### | 117- 
+",000,False,000,False,False,False,1,40
+"### | [ص: 294]
+",000,False,000,False,False,False,1,26
+"### | [ص: 295]
+",000,False,000,False,False,False,1,32
+"### | 118- 
+",000,False,000,False,False,False,1,50
+"### | [ص: 296]
+",000,False,000,False,False,False,1,26
+"### | 119- 
+",000,False,000,False,False,False,1,45
+"### | [ص: 297]
+",000,False,000,False,False,False,1,26
+"### | [72] ما جاء في الحرمل
+",000,False,000,False,False,False,1,10
+"### | 120- 
+",000,False,000,False,False,False,1,43
+"### | [ص: 298]
+",000,False,000,False,False,False,1,116
+"### | [ص: 299]
+",000,False,000,False,False,False,1,33
+"### | [73] ما جاء في النبق
+",000,False,000,False,False,False,1,10
+"### | 121- 
+",000,False,000,False,False,False,1,29
+"### | [ص: 300]
+",000,False,000,False,False,False,1,33
+"### | [74] ما جاء في اللوبان
+",000,False,000,False,False,False,1,10
+"### | 122- 
+",000,False,000,False,False,False,1,45
+"### | [ص: 301]
+",000,False,000,False,False,False,1,35
+"### | [75] ما جاء في الخروب والصعتر
+",000,False,000,False,False,False,1,12
+"### | 123- 
+",000,False,000,False,False,False,1,42
+"### | [ص: 303]
+",000,False,000,False,False,False,1,52
+"### | [76] ما جاء في الغالية
+",000,False,000,False,False,False,1,10
+"### | 124- 
+",000,False,000,False,False,False,1,59
+"### | [ص: 305]
+",000,False,000,False,False,False,1,40
+"### | 125- 
+",000,False,000,False,False,False,1,36
+"### | [ص: 306]
+",000,False,000,False,False,False,1,26
+"### | [77] ما جاء في العنبر
+",000,False,000,False,False,False,1,10
+"### | 126- 
+",000,False,000,False,False,False,1,25
+"### | [ص: 307]
+",000,False,000,False,False,False,1,34
+"### | [ص: 308]
+",000,False,000,False,False,False,1,18
+"### | [78] ما جاء في المسك
+",000,False,000,False,False,False,1,10
+"### | 127- 
+",000,False,000,False,False,False,1,60
+"### | [ص: 309]
+",000,False,000,False,False,False,1,20
+"### | [79] ما جاء في الورد والآس
+",000,False,000,False,False,False,1,12
+"### | 128- 
+",000,False,000,False,False,False,1,27
+"### | [ص: 310]
+",000,False,000,False,False,False,1,49
+"### | [ص: 311]
+",000,False,000,False,False,False,1,22
+"### | [80] ما جاء في الزعفران
+",000,False,000,False,False,False,1,10
+"### | 129- 
+",000,False,000,False,False,False,1,57
+"### | 130- 
+",000,False,000,False,False,False,1,14
+"### | [81] ما جاء في الذريرة
+",000,False,000,False,False,False,1,10
+"### | 131- 
+",000,False,000,False,False,False,1,72
+"### | [ص: 314]
+",000,False,000,False,False,False,1,6
+"### | [82] ما جاء في السدرة
+",000,False,000,False,False,False,1,10
+"### | 132- 
+",000,False,000,False,False,False,1,91
+"### | [83] ما جاء في الثفا والسنا والكرفس
+",000,False,000,False,False,False,1,14
+"### | 133- 
+",000,False,000,False,False,False,1,32
+"### | [ص: 316]
+",000,False,000,False,False,False,1,37
+"### | 134- 
+",000,False,000,False,False,False,1,37
+"### | [ص: 317]
+",000,False,000,False,False,False,1,15
+"### | [84] ما جاء في العطر والبز
+",000,False,000,False,False,False,1,12
+"### | 135- 
+",000,False,000,False,False,False,1,61
+"### | [85] ما جاء في السواك
+",000,False,000,False,False,False,1,10
+"### | 136- 
+",000,False,000,False,False,False,1,50
+"### | [ص: 319]
+",000,False,000,False,False,False,1,5
+"### | [86] ما جاء في الكحل
+",000,False,000,False,False,False,1,10
+"### | 137- 
+",000,False,000,False,False,False,1,47
+"### | [ص: 320]
+",000,False,000,False,False,False,1,53
+"### | [87] ما جاء في الزرقة في العين
+",000,False,000,False,False,False,1,14
+"### | 138- 
+",000,False,000,False,False,False,1,43
+"### | [ص: 321]
+",000,False,000,False,False,False,1,16
+"### | 139- 
+",000,False,000,False,False,False,1,59
+"### | [ص: 322]
+",000,False,000,False,False,False,1,10
+"### | 140- 
+",000,False,000,False,False,False,1,39
+"### | [88] ما جاء في البنفسج
+",000,False,000,False,False,False,1,10
+"### | 141- 
+",000,False,000,False,False,False,1,73
+"### | [ص: 324]
+",000,False,000,False,False,False,1,20
+"### | [89] ما جاء في الجرجير
+",000,False,000,False,False,False,1,10
+"### | 142- 
+",000,False,000,False,False,False,1,98
+"### | [90] ما جاء في القرنفل والزنجبيل والدارصيني
+",000,False,000,False,False,False,1,14
+"### | 143- 
+",000,False,000,False,False,False,1,62
+"### | [ص: 327]
+",000,False,000,False,False,False,1,91
+"### | [91] ما جاء في الكست الهندي والورس
+",000,False,000,False,False,False,1,14
+"### | 144- 
+",000,False,000,False,False,False,1,25
+"### | [ص: 328]
+",000,False,000,False,False,False,1,72
+"### | [92] ما جاء في المرزنجوش
+",000,False,000,False,False,False,1,10
+"### | 145- 
+",000,False,000,False,False,False,1,31
+"### | [ص: 329]
+",000,False,000,False,False,False,1,43
+"### | [93] ما جاء في الشبت
+",000,False,000,False,False,False,1,10
+"### | 146- 
+",000,False,000,False,False,False,1,27
+"### | [ص: 330]
+",000,False,000,False,False,False,1,90
+"### | [94] ما جاء في الخبيص
+",000,False,000,False,False,False,1,10
+"### | 147- 
+",000,False,000,False,False,False,1,25
+"### | [ص: 331]
+",000,False,000,False,False,False,1,23
+"### | 148- 
+",000,False,000,False,False,False,1,49
+"### | [95] ما جاء في الجوز
+",000,False,000,False,False,False,1,10
+"### | 149- 
+",000,False,000,False,False,False,1,73
+"### | [96] ما جاء في اللوز
+",000,False,000,False,False,False,1,10
+"### | 150- 
+",000,False,000,False,False,False,1,49
+"### | [97] باب جامع في الأطعمة
+",000,False,000,False,False,False,1,10
+"### | 151- 
+",000,False,000,False,False,False,1,29
+"### | [ص: 334]
+",000,False,000,False,False,False,1,69
+"### | [ص: 335]
+",000,False,000,False,False,False,1,110
+"### | [98] ما جاء في الديك الأبيض
+",000,False,000,False,False,False,1,12
+"### | 152- 
+",000,False,000,False,False,False,1,65
+"### | 153- 
+",000,False,000,False,False,False,1,71
+"### | [ص: 338]
+",000,False,000,False,False,False,1,54
+"### | [99] ومما جاء في التين
+",000,False,000,False,False,False,1,10
+"### | 154- 
+",000,False,000,False,False,False,1,66
+"### | [ص: 340]
+",000,False,000,False,False,False,1,54
+"### | [100] وفي البطيخ
+",000,False,000,False,False,False,1,6
+"### | 155- 
+",000,False,000,False,False,False,1,52
+"### | 156- 
+",000,False,000,False,False,False,1,49
+"### | [ص: 342]
+",000,False,000,False,False,False,1,39
+"### | [ص: 343]
+",000,False,000,False,False,False,1,38
+"### | 157- 
+",000,False,000,False,False,False,1,41
+"### | 158- 
+",000,False,000,False,False,False,1,23
+"### | [ص: 345]
+",000,False,000,False,False,False,1,17
+"### | 159- 
+",000,False,000,False,False,False,1,97

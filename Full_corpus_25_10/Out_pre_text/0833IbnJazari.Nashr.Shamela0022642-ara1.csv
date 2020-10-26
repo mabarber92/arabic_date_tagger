@@ -1,0 +1,443 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [النشر في القراءات العشر]
+",000,False,000,False,False,False,1,42
+"### | مقدمة
+",000,False,000,False,False,False,1,266
+"### | نبذة يسيرة للتنويه بمؤلف هذا الكتاب
+",000,False,000,False,False,False,1,968
+"### | الإسناد الذي وصل إلي هذا الكتاب بواسطته عن مؤلفه رضوان الله عليه
+",000,False,000,False,False,False,1,15900
+"### | باب ذكر إسناد هذه العشر القراءات من هذه الطرق والروايات
+",000,False,000,False,False,False,1,16
+"### | أولا كيف روايتي للكتب التي رويت منها هذه القراءات نصا، 
+",000,False,000,False,False,False,1,22
+"### | كتاب التيسير.
+",000,False,000,False,False,False,1,609
+"### | مفردة يعقوب.
+",000,False,000,False,False,False,1,157
+"### | كتاب جامع البيان
+",000,False,000,False,False,False,1,184
+"### | كتاب الشاطبية
+",000,False,000,False,False,False,1,732
+"### | كتاب العنوان
+",000,False,000,False,False,False,1,392
+"### | كتاب الهادي
+",000,False,000,False,False,False,1,361
+"### | كتاب الكافي
+",000,False,000,False,False,False,1,519
+"### | كتاب الهداية
+",000,False,000,False,False,False,1,303
+"### | كتاب التبصرة
+",000,False,000,False,False,False,1,245
+"### | كتاب القاصد
+",000,False,000,False,False,False,1,27
+"### | كتاب الروضة
+",000,False,000,False,False,False,1,24
+"### | كتاب المجتبى
+",000,False,000,False,False,False,1,110
+"### | كتاب تلخيص العبارات
+",000,False,000,False,False,False,1,195
+"### | كتاب التذكرة في القراءات الثمان،
+",000,False,000,False,False,False,1,284
+"### | كتاب الروضة. في القراءات الإحدى عشرة،
+",000,False,000,False,False,False,1,389
+"### | كتاب الجامع
+",000,False,000,False,False,False,1,16
+"### | كتاب التجريد
+",000,False,000,False,False,False,1,424
+"### | مفردة يعقوب
+",000,False,000,False,False,False,1,65
+"### | كتاب التلخيص
+",000,False,000,False,False,False,1,294
+"### | كتاب الروضة
+",000,False,000,False,False,False,1,20
+"### | كتاب الإعلان
+",000,False,000,False,False,False,1,194
+"### | كتاب الإرشاد
+",000,False,000,False,False,False,1,84
+"### | كتاب الوجيز
+",000,False,000,False,False,False,1,241
+"### | كتاب السبعة
+",000,False,000,False,False,False,1,184
+"### | كتاب المستنير
+",000,False,000,False,False,False,1,276
+"### | كتاب المبهج
+",000,False,000,False,False,False,1,159
+"### | كتاب الإيجاز
+",000,False,000,False,False,False,1,121
+"### | كتاب إرادة الطالب في القراءات العشر 
+",000,False,000,False,False,False,1,12
+"### | كتاب تبصرة المبتدي
+",000,False,000,False,False,False,1,25
+"### | كتاب المهذب في العشر
+",000,False,000,False,False,False,1,26
+"### | كتاب الجامع في القراءات العشر
+",000,False,000,False,False,False,1,27
+"### | كتاب التذكار في القراءات العشر
+",000,False,000,False,False,False,1,28
+"### | كتاب المفيد في القراءات العشر
+",000,False,000,False,False,False,1,41
+"### | أما كتاب المهذب 
+",000,False,000,False,False,False,1,19
+"### | وأما كتاب الجامع 
+",000,False,000,False,False,False,1,36
+"### | وأما كتاب التذكار 
+",000,False,000,False,False,False,1,51
+"### | وأما كتاب المفيد 
+",000,False,000,False,False,False,1,29
+"### | كتاب الكفاية
+",000,False,000,False,False,False,1,124
+"### | كتاب الموضح والمفتاح
+",000,False,000,False,False,False,1,55
+"### | كتاب الإرشاد
+",000,False,000,False,False,False,1,230
+"### | كتاب الكفاية الكبرى
+",000,False,000,False,False,False,1,79
+"### | كتاب غاية الاختصار
+",000,False,000,False,False,False,1,203
+"### | كتاب الإقناع في القراءات السبع
+",000,False,000,False,False,False,1,195
+"### | كتاب الغاية
+",000,False,000,False,False,False,1,293
+"### | كتاب المصباح
+",000,False,000,False,False,False,1,391
+"### | كتاب الكامل
+",000,False,000,False,False,False,1,371
+"### | كتاب المنتهى في القراءات العشر
+",000,False,000,False,False,False,1,49
+"### | كتاب الإشارة في القراءات العشر
+",000,False,000,False,False,False,1,29
+"### | كتاب المفيد في القراءات الثمان
+",000,False,000,False,False,False,1,110
+"### | كتاب الكنز في القراءات العشر
+",000,False,000,False,False,False,1,95
+"### | كتاب الكفاية في القراءات العشر
+",000,False,000,False,False,False,1,70
+"### | كتاب الشفعة في القراءات السبعة
+",000,False,000,False,False,False,1,101
+"### | كتاب جمع الأصول في مشهور المنقول
+",000,False,000,False,False,False,1,46
+"### | كتاب روضة القرير في الخلف بين الإرشاد والتيسير
+",000,False,000,False,False,False,1,39
+"### | كتاب عقد اللآلي في القراءات السبع العوالي
+",000,False,000,False,False,False,1,82
+"### | كتاب الشرعة في القراءات السبعة
+",000,False,000,False,False,False,1,84
+"### | القصيدة الحصرية في قراءة نافع
+",000,False,000,False,False,False,1,163
+"### | كتاب التكملة المفيدة لحافظ القصيدة
+",000,False,000,False,False,False,1,110
+"### | كتاب البستان في القراءات الثلاث عشر
+",000,False,000,False,False,False,1,67
+"### | كتاب جمال القراء وكمال الإقراء
+",000,False,000,False,False,False,1,154
+"### | مفردة يعقوب
+",000,False,000,False,False,False,1,134
+"### | [ثانيا: الأسانيد التي أدت القراءة لأصحاب هذه الكتب]
+",000,False,000,False,False,False,1,10
+"### | قراءة نافع من روايتي قالون وورش 
+",000,False,000,False,False,False,1,4498
+"### | قراءة ابن كثير من روايتي البزي وقنبل،
+",000,False,000,False,False,False,1,2300
+"### | [قراءة أبي عمرو من روايتي الدوري والسوسي]
+",000,False,000,False,False,False,1,3425
+"### | [قراءة ابن عامر من روايتي هشام وابن ذكوان]
+",000,False,000,False,False,False,1,2927
+"### | [قراءة عاصم من روايتي أبي بكر شعبة وحفص]
+",000,False,000,False,False,False,1,3220
+"### | [قراءة حمزة من روايتي خلف وخلاد]
+",000,False,000,False,False,False,1,2624
+"### | [قراءة الكسائي من روايتي أبي الحارث والدوري]
+",000,False,000,False,False,False,1,1716
+"### | [قراءة أبي جعفر من روايتي ابن وردان وابن جماز]
+",000,False,000,False,False,False,1,1790
+"### | [قراءة يعقوب من روايتي رويس وروح]
+",000,False,000,False,False,False,1,4809
+"### | فوائد لا بد من معرفتها لمريد هذا العلم قبل الأخذ فيه 
+",000,False,000,False,False,False,1,15
+"### | مخارج الحروف 
+",000,False,000,False,False,False,1,808
+"### | صفات الحروف
+",000,False,000,False,False,False,1,673
+"### | كيف يقرأ القرآن
+",000,False,000,False,False,False,1,1213
+"### | [فصل في التجويد جامع للمقاصد حاوي للفوائد]
+",000,False,000,False,False,False,1,3853
+"### | الوقوف والابتداء
+",000,False,000,False,False,False,1,5069
+"### | باب اختلافهم في الاستعاذة
+",000,False,000,False,False,False,1,4409
+"### | باب اختلافهم في البسملة
+",000,False,000,False,False,False,1,11
+"### | بين السورتين. 
+",000,False,000,False,False,False,1,468
+"### | الآخذين بالوصل 
+",000,False,000,False,False,False,1,736
+"### | لا خلاف في حذف البسملة بين الأنفال وبراءة، 
+",000,False,000,False,False,False,1,270
+"### | يجوز في الابتداء بأوساط السور 
+",000,False,000,False,False,False,1,315
+"### | الابتداء بالآي وسط براءة 
+",000,False,000,False,False,False,1,168
+"### | إذا فصل بالبسملة بين السورتين أمكن أربعة أوجه: 
+",000,False,000,False,False,False,1,876
+"### | في حكمها، وهل هي آية في أول كل سورة كتبت فيه أم لا؟ 
+",000,False,000,False,False,False,1,396
+"### | ذكر اختلافهم في سورة أم القرآن
+",000,False,000,False,False,False,1,829
+"### | باب اختلافهم في الإدغام الكبير
+",000,False,000,False,False,False,1,7978
+"### | باب هاء الكناية
+",000,False,000,False,False,False,1,2385
+"### | باب المد والقصر
+",000,False,000,False,False,False,1,13479
+"### | باب في الهمزتين المجتمعتين من كلمة
+",000,False,000,False,False,False,1,5119
+"### | باب في الهمزتين المجتمعتين من كلمتين
+",000,False,000,False,False,False,1,15
+"### | المتفقتان. 
+",000,False,000,False,False,False,1,1169
+"### | المختلفتان، 
+",000,False,000,False,False,False,1,977
+"### | المتحرك
+",000,False,000,False,False,False,1,112
+"### | باب في الهمز المفرد
+",000,False,000,False,False,False,1,20
+"### | الساكن، 
+",000,False,000,False,False,False,1,1267
+"### | المتحرك، 
+",000,False,000,False,False,False,1,3663
+"### | باب نقل حركة الهمزة إلى الساكن قبلها
+",000,False,000,False,False,False,1,3019
+"### | باب السكت على الساكن قبل الهمز وغيره
+",000,False,000,False,False,False,1,2438
+"### | باب الوقف على الهمز
+",000,False,000,False,False,False,1,1048
+"### | (وأما الهمز المتحرك) فينقسم إلى قسمين:
+",000,False,000,False,False,False,1,330
+"### | (وأما الهمز المتوسط) المتحرك الساكن ما قبله فهو أيضا على قسمين:
+",000,False,000,False,False,False,1,1165
+"### | (وأما الهمز المتوسط) المتحرك المتحرك ما قبله فهو أيضا على قسمين:
+",000,False,000,False,False,False,1,8569
+"### | (خاتمة) في ذكر مسائل من الهمز، نذكر فيها ما أصلناه من القواعد المتقدمة
+",000,False,000,False,False,False,1,5851
+"### | باب الإدغام الصغير
+",000,False,000,False,False,False,1,1570
+"### | باب حروف قربت مخارجها
+",000,False,000,False,False,False,1,3410
+"### | باب أحكام النون الساكنة والتنوين
+",000,False,000,False,False,False,1,67
+"### | الإظهار) 
+",000,False,000,False,False,False,1,247
+"### | الإدغام) 
+",000,False,000,False,False,False,1,798
+"### | (القلب) 
+",000,False,000,False,False,False,1,111
+"### | الإخفاء. 
+",000,False,000,False,False,False,1,861
+"### | باب مذاهبهم في
+",000,False,000,False,False,False,1,6
+"### | الفتح 
+",000,False,000,False,False,False,1,1
+"### | الإمالة 
+",000,False,000,False,False,False,1,212
+"### | الإمالة 
+",000,False,000,False,False,False,1,550
+"### | أسباب الإمالة) 
+",000,False,000,False,False,False,1,654
+"### | وجوه الإمالة) 
+",000,False,000,False,False,False,1,5179
+"### | فصل [في إمالة الألف التي بعدها راء متطرفة مكسورة]
+",000,False,000,False,False,False,1,1284
+"### | [فصل في إمالة الألف التي هي عين من الفعل الثلاثي الماضي]
+",000,False,000,False,False,False,1,247
+"### | فصل في إمالة حروف مخصوصة غير ما تقدم
+",000,False,000,False,False,False,1,1550
+"### | فصل في إمالة أحرف الهجاء في أوائل السور
+",000,False,000,False,False,False,1,4194
+"### | باب إمالة هاء التأنيث وما قبلها في الوقف
+",000,False,000,False,False,False,1,2179
+"### | باب مذاهبهم في ترقيق الراءات وتفخيمها
+",000,False,000,False,False,False,1,3512
+"### | فصل في الوقف على الراء
+",000,False,000,False,False,False,1,1746
+"### | باب ذكر تغليظ اللامات
+",000,False,000,False,False,False,1,2115
+"### | باب الوقف على أواخر الكلم
+",000,False,000,False,False,False,1,188
+"### | (فأما السكون) 
+",000,False,000,False,False,False,1,62
+"### | (وأما الروم) 
+",000,False,000,False,False,False,1,79
+"### | (وأما الإشمام) 
+",000,False,000,False,False,False,1,1736
+"### | باب الوقف على مرسوم الخط
+",000,False,000,False,False,False,1,303
+"### | (فأما الإبدال) 
+",000,False,000,False,False,False,1,1200
+"### | (وأما الإثبات) 
+",000,False,000,False,False,False,1,2593
+"### | (وأما الحذف) 
+",000,False,000,False,False,False,1,184
+"### | وأما وصل المقطوع رسما 
+",000,False,000,False,False,False,1,1938
+"### | وأما قطع الموصول 
+",000,False,000,False,False,False,1,2734
+"### | باب مذاهبهم في ياءات الإضافة
+",000,False,000,False,False,False,1,442
+"### | الفصل الأول
+",000,False,000,False,False,False,1,974
+"### | الفصل الثاني في الياءات التي بعدها همزة مكسورة
+",000,False,000,False,False,False,1,653
+"### | الفصل الثالث في الياءات التي بعدها همزة مضمومة
+",000,False,000,False,False,False,1,256
+"### | الفصل الرابع في الياءات التي بعدها همزة وصل ms630 مع لام التعريف
+",000,False,000,False,False,False,1,154
+"### | الفصل الخامس في الياءات التي بعدها همزة وصل مجردة عن اللام
+",000,False,000,False,False,False,1,147
+"### | [الفصل السادس:] في الياءات التي لم يقع بعدها همزة قطع، ولا وصل، بل حرف من باقي حروف المعجم
+",000,False,000,False,False,False,1,2220
+"### | باب مذاهبهم في ياءات الزوائد
+",000,False,000,False,False,False,1,3926
+"### | باب بيان إفراد القراءات وجمعها
+",000,False,000,False,False,False,1,3378
+"### | باب فرش الحروف
+",000,False,000,False,False,False,1,9
+"### | سورة البقرة
+",000,False,000,False,False,False,1,8497
+"### | سورة آل عمران
+",000,False,000,False,False,False,1,2535
+"### | سورة النساء
+",000,False,000,False,False,False,1,1612
+"### | سورة المائدة
+",000,False,000,False,False,False,1,753
+"### | سورة الأنعام
+",000,False,000,False,False,False,1,2851
+"### | سورة الأعراف
+",000,False,000,False,False,False,1,2191
+"### | سورة الأنفال
+",000,False,000,False,False,False,1,576
+"### | سورة التوبة
+",000,False,000,False,False,False,1,1034
+"### | سورة يونس 
+",000,False,000,False,False,False,1,1661
+"### | سورة هود 
+",000,False,000,False,False,False,1,1317
+"### | سورة يوسف 
+",000,False,000,False,False,False,1,1160
+"### | سورة الرعد
+",000,False,000,False,False,False,1,235
+"### | سورة إبراهيم 
+",000,False,000,False,False,False,1,754
+"### | سورة الحجر
+",000,False,000,False,False,False,1,333
+"### | سورة النحل
+",000,False,000,False,False,False,1,911
+"### | سورة الإسراء
+",000,False,000,False,False,False,1,998
+"### | سورة الكهف
+",000,False,000,False,False,False,1,1853
+"### | سورة مريم 
+",000,False,000,False,False,False,1,675
+"### | سورة طه
+",000,False,000,False,False,False,1,1010
+"### | سورة الأنبياء 
+",000,False,000,False,False,False,1,514
+"### | سورة الحج
+",000,False,000,False,False,False,1,542
+"### | سورة المؤمنون
+",000,False,000,False,False,False,1,592
+"### | سورة النور
+",000,False,000,False,False,False,1,762
+"### | سورة الفرقان
+",000,False,000,False,False,False,1,492
+"### | سورة الشعراء
+",000,False,000,False,False,False,1,402
+"### | سورة النمل
+",000,False,000,False,False,False,1,997
+"### | سورة القصص
+",000,False,000,False,False,False,1,468
+"### | سورة العنكبوت
+",000,False,000,False,False,False,1,370
+"### | سورة الروم
+",000,False,000,False,False,False,1,512
+"### | سورة لقمان
+",000,False,000,False,False,False,1,167
+"### | سورة السجدة
+",000,False,000,False,False,False,1,73
+"### | سورة الأحزاب
+",000,False,000,False,False,False,1,441
+"### | سورة سبأ
+",000,False,000,False,False,False,1,549
+"### | سورة فاطر
+",000,False,000,False,False,False,1,298
+"### | سورة يس
+",000,False,000,False,False,False,1,913
+"### | سورة والصافات
+",000,False,000,False,False,False,1,1142
+"### | سورة ص
+",000,False,000,False,False,False,1,332
+"### | سورة الزمر
+",000,False,000,False,False,False,1,494
+"### | سورة المؤمن
+",000,False,000,False,False,False,1,453
+"### | سورة فصلت
+",000,False,000,False,False,False,1,184
+"### | سورة الشورى
+",000,False,000,False,False,False,1,296
+"### | سورة الزخرف
+",000,False,000,False,False,False,1,595
+"### | سورة الدخان
+",000,False,000,False,False,False,1,155
+"### | سورة الجاثية
+",000,False,000,False,False,False,1,271
+"### | سورة الأحقاف
+",000,False,000,False,False,False,1,265
+"### | سورة محمد 
+",000,False,000,False,False,False,1,314
+"### | سورة الفتح
+",000,False,000,False,False,False,1,154
+"### | سورة الحجرات
+",000,False,000,False,False,False,1,121
+"### | سورة ق
+",000,False,000,False,False,False,1,109
+"### | سورة الذاريات 
+",000,False,000,False,False,False,1,94
+"### | سورة الطور
+",000,False,000,False,False,False,1,424
+"### | سورة "" والنجم ""
+",000,False,000,False,False,False,1,200
+"### | سورة اقتربت
+",000,False,000,False,False,False,1,169
+"### | سورة الرحمن 
+",000,False,000,False,False,False,1,564
+"### | سورة الواقعة
+",000,False,000,False,False,False,1,244
+"### | سورة الحديد
+",000,False,000,False,False,False,1,227
+"### | سورة المجادلة
+",000,False,000,False,False,False,1,255
+"### | سورة الحشر
+",000,False,000,False,False,False,1,236
+"### | سورة الممتحنة
+",000,False,000,False,False,False,1,103
+"### | ومن سورة الصف إلى سورة الملك
+",000,False,000,False,False,False,1,396
+"### | ومن سورة الملك إلى سورة الجن
+",000,False,000,False,False,False,1,655
+"### | ومن سورة الجن إلى سورة النبأ
+",000,False,000,False,False,False,1,1492
+"### | ومن سورة النبأ إلى سورة الأعلى
+",000,False,000,False,False,False,1,578
+"### | ومن سورة الأعلى إلى آخر القرآن
+",000,False,000,False,False,False,1,1498
+"### | باب التكبير وما يتعلق به
+",000,False,000,False,False,False,1,84
+"### | الفصل الأول: في سبب وروده
+",000,False,000,False,False,False,1,1200
+"### | الفصل الثاني: في ذكر من ورد عنه وأين ورد وصيغته
+",000,False,000,False,False,False,1,5552
+"### | الفصل الثالث في صيغته وحكم الإتيان به وسببه
+",000,False,000,False,False,False,1,3008
+"### | الفصل الرابع في أمور تتعلق بختم القرآن العظيم
+",000,False,000,False,False,False,1,8396

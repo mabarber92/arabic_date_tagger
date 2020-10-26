@@ -1,0 +1,101 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK [الأربعون العلوية وشرحها]
+",000,False,000,False,False,False,1,18776
+"### || AUTO مقدمة التحقيق
+",000,False,000,False,False,False,2,3385
+"### ||| AUTO ترجمة المؤلف
+",000,False,000,False,False,False,3,53
+"### ||| AUTO حياته العلمية
+",000,False,000,False,False,False,3,174
+"### ||| AUTO مشائخه
+",000,False,000,False,False,False,3,235
+"### ||| AUTO تلامذته
+",000,False,000,False,False,False,3,202
+"### ||| AUTO مؤلفاته
+",000,False,000,False,False,False,3,191
+"### ||| AUTO الكتاب
+",000,False,000,False,False,False,3,1811
+"### ||| AUTO سندي إلى المؤلف
+",000,False,000,False,False,False,3,65
+"### || AUTO [مقدمة المؤلف]
+",000,False,000,False,False,False,2,289
+"### || AUTO الحديث الأول
+",000,False,000,False,False,False,2,309
+"### || AUTO الحديث الثاني في استعمال العلم
+",000,False,000,False,False,False,2,135
+"### || AUTO الحديث الثالث في الحث على الاهتمام بالعلم
+",000,False,000,False,False,False,2,159
+"### || AUTO الحديث الرابع في فضل القرآن وأهله
+",000,False,000,False,False,False,2,192
+"### || AUTO الحديث الخامس في فضل الإيمان
+",000,False,000,False,False,False,2,245
+"### || AUTO الحديث السادس في بيان تفاضل الإيمان
+",000,False,000,False,False,False,2,114
+"### || AUTO الحديث السابع في فضل [النبي] (2)
+",000,False,000,False,False,False,2,240
+"### || AUTO الحديث الثامن في الحث على الصلاة على النبي
+",000,False,000,False,False,False,2,165
+"### || AUTO الحديث التاسع في فضل أمير المؤمنين [عليه السلام] (6)
+",000,False,000,False,False,False,2,165
+"### || AUTO الحديث العاشر في فضل أهل البيت عليهم السلام و[فضل] (1)
+",000,False,000,False,False,False,2,325
+"### || AUTO الحديث الحادي عشر في الوضوء
+",000,False,000,False,False,False,2,84
+"### || AUTO الحديث الثاني عشر في الغسل
+",000,False,000,False,False,False,2,87
+"### || AUTO الحديث الثالث عشر في فضل الوضوء بعد السواك
+",000,False,000,False,False,False,2,178
+"### || AUTO الحديث الرابع عشر في كون الوضوء شرطا للصلاة
+",000,False,000,False,False,False,2,183
+"### || AUTO الحديث الخامس عشر في الدعاء بعد الوضوء
+",000,False,000,False,False,False,2,158
+"### || AUTO الحديث السادس عشر في مواقيت الصلاة
+",000,False,000,False,False,False,2,332
+"### || AUTO الحديث السابع عشر في فضل الصلوات وصلاة الجماعة
+",000,False,000,False,False,False,2,242
+"### || AUTO الحديث الثامن عشر في ترتيب(8) صلاة الجماعة
+",000,False,000,False,False,False,2,166
+"### || AUTO الحديث التاسع عشر في خشوع الصلاة(9)
+",000,False,000,False,False,False,2,123
+"### || AUTO الحديث العشرون في فضل المساجد
+",000,False,000,False,False,False,2,264
+"### || AUTO الحديث الحادي والعشرون في فضل الصدقة
+",000,False,000,False,False,False,2,141
+"### || AUTO الحديث الثاني والعشرون في صدقة السر
+",000,False,000,False,False,False,2,217
+"### || AUTO الحديث الثالث والعشرون في القرض
+",000,False,000,False,False,False,2,127
+"### || AUTO الحديث الرابع والعشرون في فضل شهر رمضان
+",000,False,000,False,False,False,2,295
+"### || AUTO الحديث الخامس والعشرون في فضل الصيام
+",000,False,000,False,False,False,2,258
+"### || AUTO الحديث السادس والعشرون في المعذورين من الصوم(1)
+",000,False,000,False,False,False,2,255
+"### || AUTO الحديث السابع والعشرون في الحج
+",000,False,000,False,False,False,2,255
+"### || AUTO الحديث الثامن والعشرون في الجهاد
+",000,False,000,False,False,False,2,271
+"### || AUTO الحديث التاسع والعشرون في ثواب الشهيد
+",000,False,000,False,False,False,2,245
+"### || AUTO الحديث الثلاثون في بر الوالدين وصلة الرحم(5)
+",000,False,000,False,False,False,2,113
+"### || AUTO الحديث الحادي والثلاثون في النكاح
+",000,False,000,False,False,False,2,163
+"### || AUTO الحديث الثاني والثلاثون في كسب الحلال
+",000,False,000,False,False,False,2,212
+"### || AUTO الحديث الثالث والثلاثون في المشاركة(1)
+",000,False,000,False,False,False,2,201
+"### || AUTO الحديث الرابع والثلاثون في القضاء
+",000,False,000,False,False,False,2,393
+"### || AUTO الحديث الخامس والثلاثون في المرض وعيادة المرضى
+",000,False,000,False,False,False,2,211
+"### || AUTO الحديث السادس والثلاثون في إثبات العوض
+",000,False,000,False,False,False,2,145
+"### || AUTO الحديث السابع والثلاثون فيما يبتلي الله[سبحانه] (14) به عباده
+",000,False,000,False,False,False,2,566
+"### || AUTO الحديث الثامن والثلاثون في الترغيب في عبادة الله [تعالى] (6)
+",000,False,000,False,False,False,2,349
+"### || AUTO الحديث التاسع والثلاثون في ذكر الموت
+",000,False,000,False,False,False,2,371
+"### || AUTO الحديث الأربعون في ذكر الجنة والنار
+",000,False,000,False,False,False,2,690

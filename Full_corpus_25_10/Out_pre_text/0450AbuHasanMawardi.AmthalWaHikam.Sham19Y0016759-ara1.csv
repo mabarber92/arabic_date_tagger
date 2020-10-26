@@ -1,0 +1,139 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO تقديم الطبعة الثانية
+",000,False,000,False,False,False,1,219
+"### | AUTO تقديم الطبعة الأولى
+",000,False,000,False,False,False,1,203
+"### | AUTO مقدمة التحقيق
+",000,False,000,False,False,False,1,3096
+"### || CHECK 1 - المؤلف: الماوردي
+",000,False,000,False,False,False,2,931
+"### ||| AUTO معالم حياته
+",000,False,000,False,False,False,3,281
+"### ||| AUTO آثاره العلمية عامة والأدبية خاصة
+",000,False,000,False,False,False,3,433
+"### || CHECK 2 - الأمثال والحكم
+",000,False,000,False,False,False,2,1031
+"### ||| AUTO المقصود بالأمثال والحكم وأهميتها
+",000,False,000,False,False,False,3,283
+"### ||| AUTO الكتب المصنفة في الأمثال والحكم قبل الماوردي
+",000,False,000,False,False,False,3,354
+"### ||| AUTO نسبة كتاب الأمثال والحكم إلى الماوردي
+",000,False,000,False,False,False,3,141
+"### | AUTO كلمة شكر وتقدير
+",000,False,000,False,False,False,1,328
+"### | CHECK مقدمة المصنف
+",000,False,000,False,False,False,1,298
+"### | AUTO الفصل الأول
+",000,False,000,False,False,False,1,1587
+"### || AUTO آداب رسول الله - صلى الله عليه وسلم -
+",000,False,000,False,False,False,2,722
+"### || AUTO أمثال الحكماء
+",000,False,000,False,False,False,2,366
+"### | AUTO الفصل الثاني
+",000,False,000,False,False,False,1,1679
+"### || AUTO آداب رسول الله - صلى الله عليه وسلم -
+",000,False,000,False,False,False,2,896
+"### || AUTO أمثال الحكماء
+",000,False,000,False,False,False,2,318
+"### | AUTO الفصل الثالث
+",000,False,000,False,False,False,1,1742
+"### || AUTO آداب رسول الله - صلى الله عليه وسلم -
+",000,False,000,False,False,False,2,814
+"### || AUTO أمثال الحكماء
+",000,False,000,False,False,False,2,456
+"### | AUTO الفصل الرابع
+",000,False,000,False,False,False,1,1606
+"### || AUTO آداب رسول الله - صلى الله عليه وسلم -
+",000,False,000,False,False,False,2,948
+"### || AUTO أمثال الحكماء
+",000,False,000,False,False,False,2,168
+"### | AUTO الفصل الخامس
+",000,False,000,False,False,False,1,1664
+"### || AUTO آداب رسول الله - صلى الله عليه وسلم -
+",000,False,000,False,False,False,2,980
+"### || AUTO أمثال الحكماء
+",000,False,000,False,False,False,2,241
+"### | AUTO الفصل السادس
+",000,False,000,False,False,False,1,1924
+"### || AUTO آداب رسول الله - صلى الله عليه وسلم -
+",000,False,000,False,False,False,2,944
+"### || AUTO أمثال الحكماء
+",000,False,000,False,False,False,2,561
+"### | AUTO الفصل السابع
+",000,False,000,False,False,False,1,2184
+"### || AUTO آداب رسول الله - صلى الله عليه وسلم -
+",000,False,000,False,False,False,2,966
+"### || AUTO أمثال الحكماء
+",000,False,000,False,False,False,2,682
+"### | AUTO الفصل الثامن
+",000,False,000,False,False,False,1,1685
+"### || AUTO آداب رسول الله - صلى الله عليه وسلم -
+",000,False,000,False,False,False,2,535
+"### || AUTO أمثال الحكماء
+",000,False,000,False,False,False,2,688
+"### | AUTO الفصل التاسع
+",000,False,000,False,False,False,1,1806
+"### || AUTO آداب رسول الله - صلى الله عليه وسلم -
+",000,False,000,False,False,False,2,881
+"### || AUTO أمثال الحكماء
+",000,False,000,False,False,False,2,449
+"### || AUTO الشعر
+",000,False,000,False,False,False,2,13
+"### | AUTO الفصل العاشر
+",000,False,000,False,False,False,1,1382
+"### || AUTO آداب رسول الله - صلى الله عليه وسلم -
+",000,False,000,False,False,False,2,399
+"### || AUTO أمثال الحكماء
+",000,False,000,False,False,False,2,539
+"### | CHECK خاتمة
+",000,False,000,False,False,False,1,511
+"### | AUTO فهرس مصادر التحقيق والدراسة
+",000,False,000,False,False,False,1,32527
+"### || AUTO (أ)
+",000,False,000,False,False,False,2,695
+"### || AUTO (ب)
+",000,False,000,False,False,False,2,158
+"### || AUTO (ت)
+",000,False,000,False,False,False,2,350
+"### || AUTO (ث)
+",000,False,000,False,False,False,2,23
+"### || AUTO (ج)
+",000,False,000,False,False,False,2,201
+"### || AUTO (ح)
+",000,False,000,False,False,False,2,113
+"### || AUTO (خ)
+",000,False,000,False,False,False,2,62
+"### || AUTO (د)
+",000,False,000,False,False,False,2,405
+"### || AUTO (ر)
+",000,False,000,False,False,False,2,46
+"### || AUTO (ز)
+",000,False,000,False,False,False,2,35
+"### || AUTO (س)
+",000,False,000,False,False,False,2,269
+"### || AUTO (ش)
+",000,False,000,False,False,False,2,275
+"### || AUTO (ص)
+",000,False,000,False,False,False,2,104
+"### || AUTO (ض)
+",000,False,000,False,False,False,2,22
+"### || AUTO (ط)
+",000,False,000,False,False,False,2,196
+"### || AUTO (ع)
+",000,False,000,False,False,False,2,192
+"### || AUTO (غ)
+",000,False,000,False,False,False,2,30
+"### || AUTO (ف)
+",000,False,000,False,False,False,2,255
+"### || AUTO (ق)
+",000,False,000,False,False,False,2,27
+"### || AUTO (ك)
+",000,False,000,False,False,False,2,281
+"### || AUTO (ل)
+",000,False,000,False,False,False,2,94
+"### || AUTO (م)
+",000,False,000,False,False,False,2,976
+"### || AUTO (ن)
+",000,False,000,False,False,False,2,97
+"### || AUTO (و)
+",000,False,000,False,False,False,2,42

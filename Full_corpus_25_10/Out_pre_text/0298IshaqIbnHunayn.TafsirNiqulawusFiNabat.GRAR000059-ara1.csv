@@ -1,0 +1,35 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [book 1]
+",000,False,000,False,False,False,1,3509
+"### || [chapter 1]
+",000,False,000,False,False,False,2,812
+"### ||| كتاب أرسطوطاليس فى النبات تفسير نيقولاوس ترجمة إسحق بن حنين، باصلاح ثابت بن قرة وهو مقالتان
+",000,False,000,False,False,False,3,16
+"### || [chapter 2]
+",000,False,000,False,False,False,2,612
+"### || [chapter 3]
+",000,False,000,False,False,False,2,509
+"### || [chapter 4]
+",000,False,000,False,False,False,2,537
+"### || [chapter 5]
+",000,False,000,False,False,False,2,345
+"### || [chapter 6]
+",000,False,000,False,False,False,2,270
+"### | [book 2]
+",000,False,000,False,False,False,1,3525
+"### || [chapter 1] بسم الله الرحمن الرحيم رب يسر المقالة الثانية من كتاب النبات لأرسطو تفسير نيقولاوس ترجمة إسحق بن حنين، باصلاح ثابت بن قرة
+",000,False,000,False,False,False,2,413
+"### || [chapter 2]
+",000,False,000,False,False,False,2,1052
+"### || [chapter 4]
+",000,False,000,False,False,False,2,312
+"### || [chapter 5]
+",000,False,000,False,False,False,2,105
+"### || [chapter 6]
+",000,False,000,False,False,False,2,263
+"### || [chapter 7]
+",000,False,000,False,False,False,2,275
+"### || [chapter 8]
+",000,False,000,False,False,False,2,305
+"### || [chapter 9]
+",000,False,000,False,False,False,2,480

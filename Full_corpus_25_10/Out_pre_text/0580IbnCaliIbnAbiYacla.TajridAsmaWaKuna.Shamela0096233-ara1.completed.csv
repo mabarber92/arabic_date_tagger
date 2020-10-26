@@ -1,0 +1,943 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | باب الألف
+",000,False,000,False,False,False,1,10736
+"### || (1) أنس بن مالك خمسة (2)
+",000,False,000,False,False,False,2,355
+"### || أسامة بن زيد، ستة (1)
+",000,False,000,False,False,False,2,286
+"### || أحمد بن أسد، خمسة (1)
+",000,False,000,False,False,False,2,305
+"### || أحمد بن جواس، اثنان (1)
+",000,False,000,False,False,False,2,116
+"### || أحمد بن حرب، أربعة
+",000,False,000,False,False,False,2,262
+"### || أحمد بن عبدة، اثنان (1)
+",000,False,000,False,False,False,2,109
+"### || أحمد بن المعذل، اثنان (1)
+",000,False,000,False,False,False,2,72
+"### || أحمد بن محمد بن أبي رجاء، اثنان (2)
+",000,False,000,False,False,False,2,83
+"### || أحمد بن جعفر بن حمدان، أربعة في طبقة واحدة 
+",000,False,000,False,False,False,2,210
+"### || إبراهيم بن ms012 يزيد، أربعة عشر رجلا  (1)
+",000,False,000,False,False,False,2,423
+"### || إبراهيم بن مهاجر، ثلاثة  (1)
+",000,False,000,False,False,False,2,144
+"### || إبراهيم بن مسلم، ثمانية  (1)
+",000,False,000,False,False,False,2,192
+"### || إبراهيم بن ميمون، خمسة 
+",000,False,000,False,False,False,2,267
+"### || إبراهيم بن عربي، اثنان من أهل الكوفة (3):
+",000,False,000,False,False,False,2,48
+"### || إبراهيم بن سعدان، ثلاثة
+",000,False,000,False,False,False,2,143
+"### || إبراهيم بن سويد، خمسة 
+",000,False,000,False,False,False,2,129
+"### || إبراهيم بن أبي يحيى، سبعة 
+",000,False,000,False,False,False,2,336
+"### || إبراهيم بن الحجاج، سبعة 
+",000,False,000,False,False,False,2,223
+"### || وإبراهيم بن بكر، ستة 
+",000,False,000,False,False,False,2,191
+"### || إبراهيم بن أبي بكر، خمسة 
+",000,False,000,False,False,False,2,251
+"### || إبراهيم بن مهدي، ثلاثة 
+",000,False,000,False,False,False,2,154
+"### || إبراهيم بن بشار، ثلاثة 
+",000,False,000,False,False,False,2,115
+"### || إبراهيم بن نافع، اثنان 
+",000,False,000,False,False,False,2,100
+"### || إبراهيم بن مرزوق، اثنان 
+",000,False,000,False,False,False,2,190
+"### || إبراهيم بن هانئ، ثلاثة 
+",000,False,000,False,False,False,2,140
+"### || إبراهيم بن موسى، اثنا عشر رجلا 
+",000,False,000,False,False,False,2,470
+"### || إبراهيم بن شيبان، ثلاثة 
+",000,False,000,False,False,False,2,136
+"### || إبراهيم بن الهيثم، ثلاثة 
+",000,False,000,False,False,False,2,113
+"### || إبراهيم بن الوليد، ثلاثة:
+",000,False,000,False,False,False,2,180
+"### || ومن كتاب من وافقت كنيته اسم أبيه (1)
+",000,False,000,False,False,False,2,235
+"### || إسماعيل بن أمية، ثلاثة 
+",000,False,000,False,False,False,2,190
+"### || إسماعيل بن كثير، خمسة 
+",000,False,000,False,False,False,2,227
+"### || إسماعيل بن خالد، خمسة 
+",000,False,000,False,False,False,2,105
+"### || إسماعيل بن أبي خالد، أربعة 
+",000,False,000,False,False,False,2,232
+"### || إسماعيل بن زياد، سبعة 
+",000,False,000,False,False,False,2,186
+"### || إسماعيل بن أبي زياد، ثلاثة 
+",000,False,000,False,False,False,2,142
+"### || إسماعيل بن مسلم، خمسة 
+",000,False,000,False,False,False,2,268
+"### || إسماعيل بن أبان، ثلاثة 
+",000,False,000,False,False,False,2,173
+"### || إسماعيل بن سالم، اثنان 
+",000,False,000,False,False,False,2,67
+"### || إسماعيل بن رجاء، ثلاثة 
+",000,False,000,False,False,False,2,240
+"### || إسماعيل بن رافع، اثنان 
+",000,False,000,False,False,False,2,67
+"### || إسماعيل بن عمرو، ثلاثة 
+",000,False,000,False,False,False,2,106
+"### || إسماعيل بن الفضل، ثلاثة 
+",000,False,000,False,False,False,2,130
+"### || إسماعيل بن إبراهيم، أبو يحيى التيمي، اثنان 
+",000,False,000,False,False,False,2,68
+"### || [ومن كتاب من وافقت كنيته اسم أبيه 
+",000,False,000,False,False,False,2,75
+"### || إسحاق بن راشد، أربعة 
+",000,False,000,False,False,False,2,165
+"### || إسحاق بن منصور، ثلاثة 
+",000,False,000,False,False,False,2,212
+"### || إسحاق بن نجيح، اثنان 
+",000,False,000,False,False,False,2,71
+"### || إسحاق بن بشر، أربعة 
+",000,False,000,False,False,False,2,198
+"### || إسحاق بن سويد، اثنان:
+",000,False,000,False,False,False,2,103
+"### || إسحاق بن وهب، اثنان 
+",000,False,000,False,False,False,2,111
+"### || إسحاق بن أبي إسحاق، ثلاثة 
+",000,False,000,False,False,False,2,111
+"### || ومن كتاب من وافقت كنيته اسم أبيه (1)
+",000,False,000,False,False,False,2,137
+"### || أيوب بن سليمان، ستة عشر رجلا 
+",000,False,000,False,False,False,2,430
+"### || ومن كتاب من وافقت كنيته اسم أبيه (1)
+",000,False,000,False,False,False,2,165
+"### ||| أيوب بن زياد، وأيوب أبو زياد
+",000,False,000,False,False,False,3,29
+"### ||| أيوب بن العلاء، وأيوب أبو العلاء
+",000,False,000,False,False,False,3,49
+"### || أبان بن سعيد، اثنان 
+",000,False,000,False,False,False,2,67
+"### || أبان بن عثمان، ستة 
+",000,False,000,False,False,False,2,155
+"### || أسيد بن عبد الرحمن، اثنان 
+",000,False,000,False,False,False,2,66
+"### || أسيد بن أبي أسيد، اثنان 
+",000,False,000,False,False,False,2,118
+"### || ومن ms039 كتاب «من وافقت كنيته اسم أبيه» (1)
+",000,False,000,False,False,False,2,245
+"### ||| إسرائيل بن موسى، وإسرائيل أبو موسى
+",000,False,000,False,False,False,3,27
+"### ||| إدريس بن إسماعيل، وإدريس أبو إسماعيل
+",000,False,000,False,False,False,3,44
+"### ||| الأغر بن مسلم، والأغر أبو مسلم
+",000,False,000,False,False,False,3,38
+"### ||| أوس بن خالد، وأوس أبو خالد
+",000,False,000,False,False,False,3,36
+"### || الأشعث بن قيس، ثلاثة 
+",000,False,000,False,False,False,2,265
+"### || أسد بن موسى، اثنان 
+",000,False,000,False,False,False,2,79
+"### || أسيد بن ظهير، اثنان 
+",000,False,000,False,False,False,2,73
+"### | باب الباء
+",000,False,000,False,False,False,1,1973
+"### || بشر بن عاصم، خمسة 
+",000,False,000,False,False,False,2,205
+"### || بشر بن الوليد، ثلاثة 
+",000,False,000,False,False,False,2,143
+"### || بشر بن عمر، ثلاثة 
+",000,False,000,False,False,False,2,109
+"### || بشر بن مطر، اثنان 
+",000,False,000,False,False,False,2,87
+"### || بشر بن موسى، أربعة 
+",000,False,000,False,False,False,2,217
+"### || بشر بن عبيد، اثنان 
+",000,False,000,False,False,False,2,67
+"### || بشر بن معاذ، اثنان 
+",000,False,000,False,False,False,2,160
+"### || بشر بن آدم، 
+",000,False,000,False,False,False,2,147
+"### || بيان بن بشر، اثنان 
+",000,False,000,False,False,False,2,121
+"### || بكير بن مسمار، اثنان 
+",000,False,000,False,False,False,2,82
+"### || بشير بن ميمون، اثنان 
+",000,False,000,False,False,False,2,77
+"### || بكر بن عبد الله، تسعة 
+",000,False,000,False,False,False,2,256
+"### || بجير بن أبي بجير، اثنان 
+",000,False,000,False,False,False,2,50
+"### || بهلول بن عبيد، اثنان 
+",000,False,000,False,False,False,2,75
+"### || بشير بن عبد الرحمن، اثنان 
+",000,False,000,False,False,False,2,57
+"### || بكار بن عبد الله، ثلاثة 
+",000,False,000,False,False,False,2,96
+"### | باب التاء
+",000,False,000,False,False,False,1,131
+"### | باب الثاء
+",000,False,000,False,False,False,1,363
+"### || ثابت بن زيد، ثلاثة 
+",000,False,000,False,False,False,2,79
+"### || ثابت بن قيس، خمسة 
+",000,False,000,False,False,False,2,217
+"### | باب الجيم
+",000,False,000,False,False,False,1,1679
+"### || جابر بن عبد الله، سبعة 
+",000,False,000,False,False,False,2,509
+"### || جابر بن يزيد، أربعة 
+",000,False,000,False,False,False,2,108
+"### || جندب بن عبد الله، ثلاثة 
+",000,False,000,False,False,False,2,131
+"### || الجراح بن مليح، اثنان 
+",000,False,000,False,False,False,2,136
+"### || جميل بن معمر، ثلاثة 
+",000,False,000,False,False,False,2,227
+"### || جرير بن عبد الحميد، اثنان 
+",000,False,000,False,False,False,2,155
+"### || جعفر بن محمد بن الحسن، سبعة 
+",000,False,000,False,False,False,2,320
+"### | باب الحاء
+",000,False,000,False,False,False,1,5888
+"### || الحسن بن علي بن أبي طالب، اثنان 
+",000,False,000,False,False,False,2,101
+"### || الحسن بن عطية، اثنان 
+",000,False,000,False,False,False,2,105
+"### || الحسن بن قتيبة، ستة 
+",000,False,000,False,False,False,2,296
+"### || الحسن بن صالح، عشرة 
+",000,False,000,False,False,False,2,378
+"### || الحسن بن أبي جعفر، اثنان 
+",000,False,000,False,False,False,2,97
+"### || الحسن بن الحر، اثنان 
+",000,False,000,False,False,False,2,347
+"### || حبيب بن أبي حبيب، خمسة 
+",000,False,000,False,False,False,2,191
+"### || حصين بن عبد الرحمن، خمسة 
+",000,False,000,False,False,False,2,364
+"### || ومن كتاب من وافقت كنيته اسم أبيه (2)
+",000,False,000,False,False,False,2,341
+"### || حيوة بن شريح، اثنان 
+",000,False,000,False,False,False,2,173
+"### || حميد بن عبد الرحمن، سبعة 
+",000,False,000,False,False,False,2,223
+"### || حميد بن هلال، اثنان 
+",000,False,000,False,False,False,2,99
+"### || حميد الأعرج، اثنان 
+",000,False,000,False,False,False,2,174
+"### || حميد بن أبي حميد، خمسة 
+",000,False,000,False,False,False,2,192
+"### || حامد بن أبي حامد، اثنان 
+",000,False,000,False,False,False,2,71
+"### || حامد بن سهل، اثنان 
+",000,False,000,False,False,False,2,137
+"### || الحارث بن النعمان، ثلاثة 
+",000,False,000,False,False,False,2,133
+"### || الحارث بن عبد الرحمن، تسعة 
+",000,False,000,False,False,False,2,310
+"### || الحارث ms067 بن أسد، ثلاثة 
+",000,False,000,False,False,False,2,109
+"### || الحكم بن عبد الله، تسعة 
+",000,False,000,False,False,False,2,377
+"### || الحكم بن نافع، اثنان 
+",000,False,000,False,False,False,2,120
+"### || الحكم بن حزن، اثنان 
+",000,False,000,False,False,False,2,228
+"### || ومن كتاب من وافقت كنيته اسم أبيه
+",000,False,000,False,False,False,2,209
+"### || حفص بن عاصم، اثنان 
+",000,False,000,False,False,False,2,79
+"### || حفص بن أبي حفص، خمسة 
+",000,False,000,False,False,False,2,302
+"### || الحسين بن حميد، ثلاثة 
+",000,False,000,False,False,False,2,129
+"### || حرب بن ميمون، اثنان 
+",000,False,000,False,False,False,2,123
+"### || حريث بن عمرو، اثنان 
+",000,False,000,False,False,False,2,87
+"### || حيان بن بشير، ثلاثة 
+",000,False,000,False,False,False,2,101
+"### || حمزة بن غزوان، اثنان 
+",000,False,000,False,False,False,2,121
+"### || حجاج بن حجاج، ثلاثة 
+",000,False,000,False,False,False,2,104
+"### || حكيم بن معاوية، ثلاثة 
+",000,False,000,False,False,False,2,132
+"### || حوثرة بن محمد، اثنان 
+",000,False,000,False,False,False,2,87
+"### | باب الخاء
+",000,False,000,False,False,False,1,1206
+"### || خالد بن سلمة، أربعة 
+",000,False,000,False,False,False,2,186
+"### || خالد بن إسماعيل، اثنان 
+",000,False,000,False,False,False,2,52
+"### || خالد بن عمرو، اثنان 
+",000,False,000,False,False,False,2,98
+"### || خلف بن خليفة [34 - أ]، ثلاثة 
+",000,False,000,False,False,False,2,104
+"### || خلف بن الوليد، اثنان 
+",000,False,000,False,False,False,2,106
+"### || خلف بن سالم، اثنان 
+",000,False,000,False,False,False,2,121
+"### || خازم بن خزيمة، اثنان 
+",000,False,000,False,False,False,2,50
+"### || خمير بن مالك، اثنان 
+",000,False,000,False,False,False,2,116
+"### || خارجة بن مصعب، اثنان 
+",000,False,000,False,False,False,2,75
+"### || الخليل بن أحمد، اثنان 
+",000,False,000,False,False,False,2,213
+"### | باب الدال
+",000,False,000,False,False,False,1,479
+"### || داود بن إبراهيم، خمسة 
+",000,False,000,False,False,False,2,116
+"### || داود بن بكر، اثنان 
+",000,False,000,False,False,False,2,94
+"### || داود بن عمرو، اثنان 
+",000,False,000,False,False,False,2,118
+"### || داود بن يزيد، اثنان 
+",000,False,000,False,False,False,2,96
+"### | باب الذال
+",000,False,000,False,False,False,1,130
+"### | باب الراء
+",000,False,000,False,False,False,1,1787
+"### || راشد بن سعد، ثلاثة 
+",000,False,000,False,False,False,2,144
+"### || راشد بن أبي راشد، ثلاثة 
+",000,False,000,False,False,False,2,86
+"### || الربيع بن حبيب، اثنان 
+",000,False,000,False,False,False,2,132
+"### || الربيع بن سليمان، أحد عشر رجلا 
+",000,False,000,False,False,False,2,532
+"### || الربيع بن بدر، اثنان 
+",000,False,000,False,False,False,2,71
+"### || رافع بن عمرو، ثلاثة 
+",000,False,000,False,False,False,2,115
+"### || رفاعة بن رافع، اثنان 
+",000,False,000,False,False,False,2,283
+"### || رجاء بن أبي رجاء، أربعة 
+",000,False,000,False,False,False,2,194
+"### || روح بن الفرج، أربعة 
+",000,False,000,False,False,False,2,209
+"### | باب الزاي
+",000,False,000,False,False,False,1,1374
+"### || زيد بن أسلم، ثلاثة 
+",000,False,000,False,False,False,2,210
+"### || زيد بن علي، ستة 
+",000,False,000,False,False,False,2,329
+"### || زيد بن حباب، اثنان 
+",000,False,000,False,False,False,2,111
+"### || زياد بن أبي زياد، سبعة 
+",000,False,000,False,False,False,2,297
+"### || زياد بن إسماعيل، اثنان 
+",000,False,000,False,False,False,2,52
+"### || زياد بن سعد، اثنان 
+",000,False,000,False,False,False,2,93
+"### || زياد بن ms090 رياح، اثنان 
+",000,False,000,False,False,False,2,57
+"### || زياد بن الحصين، اثنان 
+",000,False,000,False,False,False,2,68
+"### || زهدم بن الحارث، اثنان 
+",000,False,000,False,False,False,2,48
+"### || زهرة بن معبد، اثنان 
+",000,False,000,False,False,False,2,95
+"### | باب السين
+",000,False,000,False,False,False,1,4585
+"### || سليمان بن موسى، ثلاثة 
+",000,False,000,False,False,False,2,111
+"### || سليمان بن بلال، اثنان 
+",000,False,000,False,False,False,2,134
+"### || سليمان بن عتيق، اثنان 
+",000,False,000,False,False,False,2,59
+"### || سليمان بن أبي سليمان، أحد عشر رجلا 
+",000,False,000,False,False,False,2,397
+"### || سعيد بن أبي سعيد، أربعة عشر رجلا 
+",000,False,000,False,False,False,2,553
+"### || سعيد بن منصور، خمسة 
+",000,False,000,False,False,False,2,251
+"### || سعيد بن المسيب، ثلاثة 
+",000,False,000,False,False,False,2,106
+"### || سعيد بن سلمة، خمسة 
+",000,False,000,False,False,False,2,156
+"### || سعيد بن بشير، أربعة 
+",000,False,000,False,False,False,2,161
+"### || سعيد بن هاشم، أربعة 
+",000,False,000,False,False,False,2,208
+"### || سعيد بن مينا، اثنان 
+",000,False,000,False,False,False,2,63
+"### || سعيد بن مسروق، ثلاثة 
+",000,False,000,False,False,False,2,102
+"### || سعيد بن حكيم، اثنان 
+",000,False,000,False,False,False,2,69
+"### || سعيد بن عنبسة، اثنان 
+",000,False,000,False,False,False,2,77
+"### || سعيد بن عبد الجبار، أربعة 
+",000,False,000,False,False,False,2,152
+"### || سعيد بن ميسرة، اثنان 
+",000,False,000,False,False,False,2,69
+"### || سفيان بن محمد، ثلاثة 
+",000,False,000,False,False,False,2,101
+"### || سفيان بن زياد، خمسة 
+",000,False,000,False,False,False,2,137
+"### || سفيان بن حسين، اثنان 
+",000,False,000,False,False,False,2,52
+"### || سعد بن عبادة، اثنان 
+",000,False,000,False,False,False,2,113
+"### || سعد بن طريف، اثنان 
+",000,False,000,False,False,False,2,166
+"### || سهيل بن عمرو، اثنان 
+",000,False,000,False,False,False,2,114
+"### || سهيل بن ذكوان، اثنان 
+",000,False,000,False,False,False,2,132
+"### || سماك بن خرشة، اثنان 
+",000,False,000,False,False,False,2,148
+"### || سهل بن سعد، ثلاثة 
+",000,False,000,False,False,False,2,150
+"### || السائب بن يزيد، اثنان 
+",000,False,000,False,False,False,2,152
+"### || سوار بن مصعب، اثنان 
+",000,False,000,False,False,False,2,87
+"### || سالم بن عبد الله، سبعة 
+",000,False,000,False,False,False,2,271
+"### || سيف بن سليمان، اثنان 
+",000,False,000,False,False,False,2,105
+"### || سلمة بن صالح، اثنان 
+",000,False,000,False,False,False,2,82
+"### || سعد بن يزيد، اثنان 
+",000,False,000,False,False,False,2,86
+"### || سعدان بن نصر، اثنان 
+",000,False,000,False,False,False,2,128
+"### | باب الشين
+",000,False,000,False,False,False,1,619
+"### || شريح بن هانئ، اثنان 
+",000,False,000,False,False,False,2,186
+"### || شعيب بن إبراهيم، اثنان 
+",000,False,000,False,False,False,2,120
+"### || شعيب بن الليث، اثنان 
+",000,False,000,False,False,False,2,81
+"### || شهاب بن عباد، اثنان 
+",000,False,000,False,False,False,2,145
+"### | باب الصاد
+",000,False,000,False,False,False,1,849
+"### || صالح بن صالح، ثلاثة 
+",000,False,000,False,False,False,2,147
+"### || صالح بن أبي صالح، ثلاثة 
+",000,False,000,False,False,False,2,175
+"### || صالح بن رستم، اثنان 
+",000,False,000,False,False,False,2,94
+"### || صالح بن خوات، اثنان 
+",000,False,000,False,False,False,2,82
+"### || صالح بن مسمار، اثنان 
+",000,False,000,False,False,False,2,129
+"### || صفوان بن عمرو، ثلاثة 
+",000,False,000,False,False,False,2,193
+"### | باب الضاد
+",000,False,000,False,False,False,1,958
+"### || الضحاك بن قيس، ثلاثة 
+",000,False,000,False,False,False,2,373
+"### || الضحاك بن عثمان، ثلاثة 
+",000,False,000,False,False,False,2,332
+"### | باب الطاء
+",000,False,000,False,False,False,1,316
+"### | باب العين
+",000,False,000,False,False,False,1,25618
+"### || عبد الله بن أنيس، ثلاثة
+",000,False,000,False,False,False,2,135
+"### || عبد الله بن أبي أمية، ستة 
+",000,False,000,False,False,False,2,1089
+"### || عبد الله بن سرجس، اثنان 
+",000,False,000,False,False,False,2,60
+"### || عبد الله بن رجاء، ثلاثة 
+",000,False,000,False,False,False,2,219
+"### || عبد الله بن مسلم، أحد عشر رجلا 
+",000,False,000,False,False,False,2,632
+"### || عبد الله بن أبي عبد الله، سبعة 
+",000,False,000,False,False,False,2,280
+"### || عبد الله بن ربيعة، سبعة 
+",000,False,000,False,False,False,2,171
+"### || عبد الله بن فروخ، خمسة 
+",000,False,000,False,False,False,2,155
+"### || عبد الله بن عون، أربعة 
+",000,False,000,False,False,False,2,215
+"### || عبد الله بن معبد، خمسة 
+",000,False,000,False,False,False,2,168
+"### || عبد الله بن أبي سلمة، خمسة 
+",000,False,000,False,False,False,2,108
+"### || عبد الله بن دينار، أربعة 
+",000,False,000,False,False,False,2,233
+"### || عبد الله بن المبارك، ستة 
+",000,False,000,False,False,False,2,445
+"### || عبد الله بن نافع، سبعة 
+",000,False,000,False,False,False,2,792
+"### || عبد الله بن السائب، سبعة 
+",000,False,000,False,False,False,2,413
+"### || عبد الله بن الحارث، سبعة عشر رجلا 
+",000,False,000,False,False,False,2,857
+"### || [من ملحق المتفق والمفترق (2):
+",000,False,000,False,False,False,2,132
+"### || عبد الرحمن بن أبي بكر، ثلاثة 
+",000,False,000,False,False,False,2,201
+"### || عبد الرحمن بن سعد، اثنا عشر رجلا 
+",000,False,000,False,False,False,2,818
+"### || عبد الرحمن بن مهران، اثنان 
+",000,False,000,False,False,False,2,195
+"### || عبد الرحمن بن الأسود، أربعة 
+",000,False,000,False,False,False,2,159
+"### || عبد الرحمن بن زياد،  سبعة </span>(1):
+",000,False,000,False,False,False,2,226
+"### || عبد الرحمن بن القاسم، خمسة 
+",000,False,000,False,False,False,2,209
+"### || عبد الرحمن بن معاوية، ثلاثة 
+",000,False,000,False,False,False,2,151
+"### || عبد الرحمن بن أزهر، ثلاثة 
+",000,False,000,False,False,False,2,96
+"### || عبد الرحمن بن حرملة، اثنان 
+",000,False,000,False,False,False,2,300
+"### || عبد الرحمن بن إسحاق بن الحارث، اثنان 
+",000,False,000,False,False,False,2,242
+"### || عبد الرحمن بن سلمة، أربعة 
+",000,False,000,False,False,False,2,178
+"### || عبد الرحمن بن علقمة، ثلاثة 
+",000,False,000,False,False,False,2,96
+"### || عبد الرحمن بن مهدي، اثنان 
+",000,False,000,False,False,False,2,99
+"### || عبد الملك بن أبي سليمان، ثلاثة 
+",000,False,000,False,False,False,2,183
+"### || عبد الملك بن ميسرة، أربعة 
+",000,False,000,False,False,False,2,371
+"### || عبد الملك بن مروان، خمسة 
+",000,False,000,False,False,False,2,264
+"### || عبد الملك بن عمير، اثنان 
+",000,False,000,False,False,False,2,191
+"### || عبد الحميد بن عبد الرحمن، ثمانية 
+",000,False,000,False,False,False,2,321
+"### || عبد الحميد بن سليمان، اثنان 
+",000,False,000,False,False,False,2,69
+"### || عبد الحميد بن صبيح،  ثلاثة </span>(3):
+",000,False,000,False,False,False,2,105
+"### || عبيد الله بن موسى، ثمانية 
+",000,False,000,False,False,False,2,274
+"### || عبيد الله بن زحر، اثنان 
+",000,False,000,False,False,False,2,118
+"### || عبد الوهاب بن الضحاك، اثنان 
+",000,False,000,False,False,False,2,105
+"### || عبد الوهاب بن عطاء، اثنان 
+",000,False,000,False,False,False,2,99
+"### || عبد العزيز بن مسلم، اثنان 
+",000,False,000,False,False,False,2,124
+"### || عبد العزيز بن النعمان، اثنان 
+",000,False,000,False,False,False,2,203
+"### || عباد بن عباد، أربعة 
+",000,False,000,False,False,False,2,288
+"### || عباد بن راشد، ثلاثة 
+",000,False,000,False,False,False,2,250
+"### || عباد بن موسى، خمسة 
+",000,False,000,False,False,False,2,148
+"### || عباد بن الوليد، اثنان 
+",000,False,000,False,False,False,2,68
+"### || عباد بن كثير، اثنان 
+",000,False,000,False,False,False,2,180
+"### || عبدة بن سليمان، ثلاثة 
+",000,False,000,False,False,False,2,252
+"### || عبد السلام بن صالح، اثنان 
+",000,False,000,False,False,False,2,115
+"### || عبد الرحيم بن موسى، ثلاثة 
+",000,False,000,False,False,False,2,85
+"### || عبد الوارث بن سعيد، اثنان 
+",000,False,000,False,False,False,2,179
+"### || عبد الغفار بن داود، اثنان 
+",000,False,000,False,False,False,2,155
+"### || عبد الجبار بن سعيد، اثنان 
+",000,False,000,False,False,False,2,65
+"### || عبد ربه بن سعيد، اثنان 
+",000,False,000,False,False,False,2,117
+"### || عبيد بن عمير، اثنان 
+",000,False,000,False,False,False,2,180
+"### || عبدوس بن بشر، اثنان 
+",000,False,000,False,False,False,2,73
+"### || عيسى بن أبي عيسى، عشرة 
+",000,False,000,False,False,False,2,438
+"### || عيسى بن ميمون، أربعة 
+",000,False,000,False,False,False,2,222
+"### || عيسى بن عمر، ثلاثة 
+",000,False,000,False,False,False,2,124
+"### || عيسى بن حطان، اثنان 
+",000,False,000,False,False,False,2,59
+"### || عيسى بن سالم، اثنان 
+",000,False,000,False,False,False,2,154
+"### || عمر بن الخطاب، ستة 
+",000,False,000,False,False,False,2,488
+"### || عمر بن راشد، ثلاثة 
+",000,False,000,False,False,False,2,228
+"### || عمر بن نبهان، اثنان 
+",000,False,000,False,False,False,2,81
+"### || عمر بن أبي عمر، خمسة 
+",000,False,000,False,False,False,2,160
+"### || عمر بن ذر، اثنان 
+",000,False,000,False,False,False,2,308
+"### || عثمان بن عفان، اثنان 
+",000,False,000,False,False,False,2,205
+"### || عثمان بن زفر، اثنان 
+",000,False,000,False,False,False,2,81
+"### || عثمان بن عمير، اثنان:
+",000,False,000,False,False,False,2,155
+"### || عثمان ms169 بن معبد، اثنان:
+",000,False,000,False,False,False,2,87
+"### || علي بن أبي طالب، ستة 
+",000,False,000,False,False,False,2,281
+"### || علي بن علي، ستة 
+",000,False,000,False,False,False,2,299
+"### || علي بن أبي علي، سبعة 
+",000,False,000,False,False,False,2,351
+"### || علي بن عاصم، أربعة 
+",000,False,000,False,False,False,2,160
+"### || علي بن ربيعة، أربعة 
+",000,False,000,False,False,False,2,98
+"### || علي بن حكيم، أربعة 
+",000,False,000,False,False,False,2,341
+"### || علي بن الفضيل، اثنان 
+",000,False,000,False,False,False,2,56
+"### || علي بن أبي سليمان، ثلاثة 
+",000,False,000,False,False,False,2,187
+"### || علي بن صالح، تسعة 
+",000,False,000,False,False,False,2,324
+"### || علي بن الحكم، اثنان 
+",000,False,000,False,False,False,2,75
+"### || علي بن حرب، اثنان 
+",000,False,000,False,False,False,2,201
+"### || العباس بن مرداس، ثلاثة 
+",000,False,000,False,False,False,2,311
+"### || عمرو بن الحارث، خمسة 
+",000,False,000,False,False,False,2,264
+"### || عمرو بن أبي عمرو، ثمانية 
+",000,False,000,False,False,False,2,461
+"### || عمرو بن عبيد، خمسة 
+",000,False,000,False,False,False,2,268
+"### || عمرو بن قيس، خمسة 
+",000,False,000,False,False,False,2,270
+"### || عمرو بن عاصم، سبعة 
+",000,False,000,False,False,False,2,478
+"### || عمرو بن معدي كرب، ثلاثة 
+",000,False,000,False,False,False,2,611
+"### || عمرو بن مسلم، أربعة 
+",000,False,000,False,False,False,2,124
+"### || عمرو بن ميمون، ثلاثة 
+",000,False,000,False,False,False,2,94
+"### || عمرو بن دينار، ثلاثة 
+",000,False,000,False,False,False,2,257
+"### || عمرو بن حريث، ثلاثة 
+",000,False,000,False,False,False,2,297
+"### || عمرو بن شرحبيل، ثلاثة 
+",000,False,000,False,False,False,2,143
+"### || عمرو بن سليم، ستة 
+",000,False,000,False,False,False,2,141
+"### || عمر بن سليم (1)، اثنان:
+",000,False,000,False,False,False,2,70
+"### || عمرو بن مرزوق، اثنان 
+",000,False,000,False,False,False,2,155
+"### || عمرو بن عبد الغفار، اثنان 
+",000,False,000,False,False,False,2,76
+"### || عمران بن حصين، أربعة 
+",000,False,000,False,False,False,2,215
+"### || عمران بن مسلم، أربعة 
+",000,False,000,False,False,False,2,237
+"### || عقبة بن علقمة، اثنان 
+",000,False,000,False,False,False,2,109
+"### || عقبة بن مكرم، ثلاثة 
+",000,False,000,False,False,False,2,360
+"### || عقبة بن خالد، اثنان 
+",000,False,000,False,False,False,2,86
+"### || عاصم بن سليمان، أربعة 
+",000,False,000,False,False,False,2,199
+"### || عاصم بن عمرو، ثلاثة 
+",000,False,000,False,False,False,2,124
+"### || عاصم بن عبيد الله، ثلاثة 
+",000,False,000,False,False,False,2,112
+"### || عاصم الأحول، اثنان 
+",000,False,000,False,False,False,2,48
+"### || عطاء بن السائب ms195، ثلاثة 
+",000,False,000,False,False,False,2,311
+"### || عطاء بن دينار، اثنان 
+",000,False,000,False,False,False,2,145
+"### || العلاء بن خالد، ثلاثة 
+",000,False,000,False,False,False,2,106
+"### || العلاء بن المسيب، اثنان 
+",000,False,000,False,False,False,2,113
+"### || العلاء بن هلال، اثنان 
+",000,False,000,False,False,False,2,89
+"### || العلاء بن سالم، اثنان 
+",000,False,000,False,False,False,2,68
+"### || العلاء بن هارون، اثنان 
+",000,False,000,False,False,False,2,87
+"### || عكرمة بن خالد، اثنان 
+",000,False,000,False,False,False,2,84
+"### || عزرة بن قيس، ثلاثة 
+",000,False,000,False,False,False,2,239
+"### || العرس بن عميرة، اثنان 
+",000,False,000,False,False,False,2,55
+"### || عمار بن ياسر، اثنان 
+",000,False,000,False,False,False,2,76
+"### || عوف بن مالك، ثلاثة 
+",000,False,000,False,False,False,2,147
+"### || عنبسة بن سعيد، ثمانية 
+",000,False,000,False,False,False,2,450
+"### | باب الغين
+",000,False,000,False,False,False,1,350
+"### || غوث بن سليمان، اثنان 
+",000,False,000,False,False,False,2,127
+"### | باب الفاء
+",000,False,000,False,False,False,1,425
+"### || فضيل بن عياض، اثنان 
+",000,False,000,False,False,False,2,133
+"### || فضيل بن فضالة، اثنان 
+",000,False,000,False,False,False,2,147
+"### | باب القاف
+",000,False,000,False,False,False,1,965
+"### || قيس بن سعد، أربعة 
+",000,False,000,False,False,False,2,154
+"### || قيس بن الربيع، اثنان 
+",000,False,000,False,False,False,2,227
+"### || القاسم بن عبد الرحمن، ستة 
+",000,False,000,False,False,False,2,267
+"### || القاسم بن سلام، اثنان 
+",000,False,000,False,False,False,2,106
+"### || قدامة بن عبد الله، اثنان 
+",000,False,000,False,False,False,2,68
+"### | باب الكاف
+",000,False,000,False,False,False,1,631
+"### || كثير بن أبي كثير، خمسة 
+",000,False,000,False,False,False,2,150
+"### || كثير بن عبد الله، ثلاثة 
+",000,False,000,False,False,False,2,124
+"### || كثير بن هشام، اثنان 
+",000,False,000,False,False,False,2,105
+"### || كثير بن عبيد، اثنان 
+",000,False,000,False,False,False,2,112
+"### || كثير بن شهاب، اثنان 
+",000,False,000,False,False,False,2,83
+"### || كلثوم بن جبر، اثنان 
+",000,False,000,False,False,False,2,53
+"### | باب اللام
+",000,False,000,False,False,False,1,396
+"### || الليث بن سعد، أربعة 
+",000,False,000,False,False,False,2,285
+"### | باب الميم
+",000,False,000,False,False,False,1,11478
+"### || محمد بن أبان، عشرة 
+",000,False,000,False,False,False,2,382
+"### || محمد بن أسامة، ثلاثة 
+",000,False,000,False,False,False,2,101
+"### || محمد بن أبي أسامة، اثنان 
+",000,False,000,False,False,False,2,67
+"### || محمد بن أشرس، اثنان 
+",000,False,000,False,False,False,2,92
+"### || محمد بن أحمد بن أنس، اثنان 
+",000,False,000,False,False,False,2,108
+"### || محمد بن بكار، ستة 
+",000,False,000,False,False,False,2,367
+"### || محمد بن إشكاب، ثلاثة 
+",000,False,000,False,False,False,2,173
+"### || محمد بن أبي رجاء، سبعة 
+",000,False,000,False,False,False,2,240
+"### || محمد بن أبي السري، خمسة 
+",000,False,000,False,False,False,2,267
+"### || محمد بن أسلم، أربعة 
+",000,False,000,False,False,False,2,293
+"### || محمد بن سلمة، أربعة عشر رجلا 
+",000,False,000,False,False,False,2,505
+"### || محمد بن قدامة، ستة 
+",000,False,000,False,False,False,2,179
+"### || محمد بن أبي عبيدة، ثلاثة 
+",000,False,000,False,False,False,2,120
+"### || محمد بن المنهال، أربعة 
+",000,False,000,False,False,False,2,208
+"### || محمد بن سكين، ثلاثة 
+",000,False,000,False,False,False,2,133
+"### || محمد بن مهاجر، سبعة 
+",000,False,000,False,False,False,2,361
+"### || محمد بن النعمان، خمسة 
+",000,False,000,False,False,False,2,336
+"### || محمد بن عجلان، أربعة 
+",000,False,000,False,False,False,2,198
+"### || محمد بن مقاتل، أربعة 
+",000,False,000,False,False,False,2,196
+"### || محمد بن أبي أيوب، سبعة 
+",000,False,000,False,False,False,2,214
+"### || محمد بن زياد، أحد عشر رجلا 
+",000,False,000,False,False,False,2,421
+"### || محمد بن مسلم الطائفي، اثنان 
+",000,False,000,False,False,False,2,83
+"### || محمد بن الوليد الزبيدي، اثنان 
+",000,False,000,False,False,False,2,107
+"### || محمد بن عبد الله الأنصاري، اثنان 
+",000,False,000,False,False,False,2,156
+"### || محمد بن عبد الله بن عمار، اثنان:
+",000,False,000,False,False,False,2,90
+"### || محمد بن ياسين بن النضر، اثنان 
+",000,False,000,False,False,False,2,170
+"### || موسى بن عقبة، ثلاثة 
+",000,False,000,False,False,False,2,172
+"### || موسى بن عمير، خمسة 
+",000,False,000,False,False,False,2,208
+"### || موسى بن سلمة، ثلاثة 
+",000,False,000,False,False,False,2,84
+"### || موسى بن أعين، اثنان 
+",000,False,000,False,False,False,2,162
+"### || مسلم بن أبي مسلم، خمسة 
+",000,False,000,False,False,False,2,183
+"### || مسلم بن يسار، ستة 
+",000,False,000,False,False,False,2,923
+"### || مسلم بن خالد، اثنان 
+",000,False,000,False,False,False,2,120
+"### || منصور بن عبد الرحمن، خمسة 
+",000,False,000,False,False,False,2,138
+"### || منصور بن وردان، اثنان 
+",000,False,000,False,False,False,2,168
+"### || منصور بن ربيعة، اثنان 
+",000,False,000,False,False,False,2,92
+"### || المغيرة بن عبد الله، خمسة ms236 
+",000,False,000,False,False,False,2,200
+"### || المغيرة بن عبد الرحمن، ستة 
+",000,False,000,False,False,False,2,609
+"### || المغيرة بن مسلم، اثنان 
+",000,False,000,False,False,False,2,130
+"### || المغيرة بن سعيد، ثلاثة 
+",000,False,000,False,False,False,2,92
+"### || مهدي بن أبي مهدي، اثنان 
+",000,False,000,False,False,False,2,56
+"### || مهدي بن ميمون، اثنان 
+",000,False,000,False,False,False,2,160
+"### || مقاتل بن سليمان، اثنان 
+",000,False,000,False,False,False,2,94
+"### || مقاتل بن صالح، أربعة 
+",000,False,000,False,False,False,2,124
+"### || مفضل بن فضالة، ثلاثة 
+",000,False,000,False,False,False,2,182
+"### || المفضل بن محمد، ثلاثة 
+",000,False,000,False,False,False,2,118
+"### || معلى بن عبد الرحمن، اثنان 
+",000,False,000,False,False,False,2,66
+"### || معلى بن الفضل، اثنان 
+",000,False,000,False,False,False,2,63
+"### || مطرف بن عبد الله، أربعة 
+",000,False,000,False,False,False,2,173
+"### || معاوية بن عمرو، خمسة 
+",000,False,000,False,False,False,2,249
+"### || مجمع بن جارية، اثنان </span>(1):
+",000,False,000,False,False,False,2,155
+"### || منهال بن عمرو، اثنان 
+",000,False,000,False,False,False,2,92
+"### || مخلد بن مالك، اثنان 
+",000,False,000,False,False,False,2,179
+"### || المثنى بن سعيد، اثنان 
+",000,False,000,False,False,False,2,172
+"### || معاذ بن معاذ، ثلاثة 
+",000,False,000,False,False,False,2,111
+"### || معن بن عيسى، اثنان 
+",000,False,000,False,False,False,2,83
+"### || مزاحم بن زفر، اثنان 
+",000,False,000,False,False,False,2,84
+"### || محمود بن الربيع، اثنان 
+",000,False,000,False,False,False,2,60
+"### || مسعود بن مالك، اثنان 
+",000,False,000,False,False,False,2,352
+"### || المعافى بن عمران، اثنان 
+",000,False,000,False,False,False,2,148
+"### || مالك بن أنس، اثنان 
+",000,False,000,False,False,False,2,142
+"### || مروان بن الحكم، اثنان 
+",000,False,000,False,False,False,2,90
+"### | باب النون
+",000,False,000,False,False,False,1,568
+"### || نصر بن علي، اثنان 
+",000,False,000,False,False,False,2,141
+"### || نصر بن المغيرة، اثنان 
+",000,False,000,False,False,False,2,80
+"### || النضر بن سلمة، خمسة 
+",000,False,000,False,False,False,2,201
+"### || النعمان بن المنذر، اثنان 
+",000,False,000,False,False,False,2,64
+"### | باب الواو
+",000,False,000,False,False,False,1,464
+"### || الوليد بن مسلم، ثلاثة 
+",000,False,000,False,False,False,2,189
+"### || الوليد بن كثير، اثنان 
+",000,False,000,False,False,False,2,147
+"### || [الوليد بن عبد الملك، اثنان] 
+",000,False,000,False,False,False,2,56
+"### | باب الهاء
+",000,False,000,False,False,False,1,652
+"### || هلال بن أبي هلال، أربعة 
+",000,False,000,False,False,False,2,137
+"### || الهيثم بن أبي الهيثم، أربعة 
+",000,False,000,False,False,False,2,172
+"### || همام بن يحيى، ثلاثة 
+",000,False,000,False,False,False,2,121
+"### || هشام بن يوسف، ثلاثة 
+",000,False,000,False,False,False,2,145
+"### | باب الياء
+",000,False,000,False,False,False,1,5243
+"### || يحيى بن يحيى، خمسة 
+",000,False,000,False,False,False,2,345
+"### || يحيى بن أبي يحيى، خمسة 
+",000,False,000,False,False,False,2,103
+"### || يحيى بن أبي كثير، ثلاثة 
+",000,False,000,False,False,False,2,236
+"### || يحيى بن سليم، أربعة 
+",000,False,000,False,False,False,2,164
+"### || يحيى بن أبي سليم، اثنان 
+",000,False,000,False,False,False,2,69
+"### || يحيى بن حسان، خمسة 
+",000,False,000,False,False,False,2,252
+"### || يحيى بن معاذ، ثلاثة 
+",000,False,000,False,False,False,2,119
+"### || يحيى بن عبيد، أربعة 
+",000,False,000,False,False,False,2,106
+"### || يحيى بن آدم، اثنان 
+",000,False,000,False,False,False,2,135
+"### || يحيى بن غيلان، اثنان 
+",000,False,000,False,False,False,2,72
+"### || يحيى بن صالح، ثلاثة 
+",000,False,000,False,False,False,2,94
+"### || يحيى بن عباد، خمسة 
+",000,False,000,False,False,False,2,177
+"### || يحيى بن الحارث، ثلاثة 
+",000,False,000,False,False,False,2,122
+"### || يحيى بن ميمون، خمسة 
+",000,False,000,False,False,False,2,226
+"### || يحيى بن يعلى، ثلاثة 
+",000,False,000,False,False,False,2,134
+"### || يحيى بن عمارة، ثلاثة 
+",000,False,000,False,False,False,2,122
+"### || يحيى بن بشر، أربعة 
+",000,False,000,False,False,False,2,177
+"### || يحيى بن سعيد، ستة عشر رجلا 
+",000,False,000,False,False,False,2,687
+"### || يوسف بن عطية، اثنان 
+",000,False,000,False,False,False,2,212
+"### || يوسف بن أسباط، ثلاثة </span>(1):
+",000,False,000,False,False,False,2,255
+"### || يوسف بن موسى، أربعة 
+",000,False,000,False,False,False,2,286
+"### || يزيد بن زياد، ثمانية 
+",000,False,000,False,False,False,2,263
+"### || يزيد بن أبي زياد، ثلاثة 
+",000,False,000,False,False,False,2,108
+"### || يزيد بن مرة، اثنان 
+",000,False,000,False,False,False,2,59
+"### || يزيد بن خمير، اثنان 
+",000,False,000,False,False,False,2,176
+"### || يزيد بن كيسان، اثنان 
+",000,False,000,False,False,False,2,84
+"### || يزيد بن زيد، خمسة 
+",000,False,000,False,False,False,2,151
+"### || يونس بن حبيب اثنان
+",000,False,000,False,False,False,2,147
+"### | باب في الكنى
+",000,False,000,False,False,False,1,1522
+"### || أبو واقد الليثي، اثنان 
+",000,False,000,False,False,False,2,538
+"### || أبو عمران الجوني، اثنان 
+",000,False,000,False,False,False,2,291
+"### || أبو عمر الحوضي، اثنان 
+",000,False,000,False,False,False,2,290

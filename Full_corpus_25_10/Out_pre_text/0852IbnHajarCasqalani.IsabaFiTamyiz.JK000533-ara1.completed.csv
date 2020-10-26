@@ -1,0 +1,2253 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | ( مقدمة )
+",000,False,000,False,False,False,1,1101
+"### | ( الفصل الأول في تعريف الصحابي )
+",000,False,000,False,False,False,1,602
+"### | ( الفصل الثاني في الطريق إلى معرفة كون الشخص صحابيا )
+",000,False,000,False,False,False,1,485
+"### | ( الفصل الثالث في بيان حال الصحابة من العدالة )
+",000,False,000,False,False,False,1,957
+"### | ( فائدة )
+",000,False,000,False,False,False,1,198
+"### | 1 ( حرف الألف 
+",000,False,000,False,False,False,1,6
+"### | القسم الأول 
+",000,False,000,False,False,False,1,36528
+"### || باب الهمزة بعدها ألف )
+",000,False,000,False,False,False,2,173
+"### || 1 ( باب الألف بعدها موحدة )
+",000,False,000,False,False,False,2,3508
+"### || 1 ( باب الألف بعدها ثاء مثلثة )
+",000,False,000,False,False,False,2,262
+"### || 1 ( باب الألف بعدها جيم )
+",000,False,000,False,False,False,2,62
+"### || 1 ( باب الألف بعدها حاء )
+",000,False,000,False,False,False,2,1386
+"### || 1 ( باب الألف بعددها خاء )
+",000,False,000,False,False,False,2,544
+"### || 1 ( باب الألف بعدها دال )
+",000,False,000,False,False,False,2,147
+"### || 1 ( باب الألف بعدها ذال )
+",000,False,000,False,False,False,2,429
+"### || 1 ( باب الألف بعدها راء )
+",000,False,000,False,False,False,2,913
+"### || 1 ( باب الألف بعدها زاي )
+",000,False,000,False,False,False,2,563
+"### || 1 ( باب الألف بعدها سين )
+",000,False,000,False,False,False,2,9394
+"### ||| ذكر من اسمه أسيد بفتح الهمزة وكسر السين
+",000,False,000,False,False,False,3,667
+"### || 1 ( باب الألف بعدها شين )
+",000,False,000,False,False,False,2,875
+"### || 1 ( باب الألف بعدها صاد )
+",000,False,000,False,False,False,2,605
+"### || 1 ( باب الألف بعدها ضاد )
+",000,False,000,False,False,False,2,156
+"### || 1 ( باب الألف بعدها عين )
+",000,False,000,False,False,False,2,569
+"### || 1 ( باب الألف بعدها غين )
+",000,False,000,False,False,False,2,598
+"### || 1 ( باب الألف بعدها فاء )
+",000,False,000,False,False,False,2,500
+"### || 1 ( باب الألف بعدها قاف )
+",000,False,000,False,False,False,2,1206
+"### || 1 ( باب الألف بعدها كاف )
+",000,False,000,False,False,False,2,880
+"### || 1 ( باب الألف بعدها لام )
+",000,False,000,False,False,False,2,120
+"### || 1 ( باب الألف بعدها ميم )
+",000,False,000,False,False,False,2,1942
+"### || 1 ( باب الألف بعدها نون )
+",000,False,000,False,False,False,2,5046
+"### ||| 1 ( ذكر من اسمه أنيس )
+",000,False,000,False,False,False,3,974
+"### || 1 ( باب الألف بعدها هاء )
+",000,False,000,False,False,False,2,498
+"### || 1 ( باب الألف بعدها الواو )
+",000,False,000,False,False,False,2,4397
+"### | القسم الثاني من حرف الألف في ذكر من له رؤية PageV01P171
+",000,False,000,False,False,False,1,2937
+"### || 1 ( باب الهمزة بعدها الألف )
+",000,False,000,False,False,False,2,127
+"### || 1 ( باب الهمزة بعدها الباء )
+",000,False,000,False,False,False,2,1707
+"### || 1 ( باب الهمزة بعدها حاء مهملة )
+",000,False,000,False,False,False,2,50
+"### || 1 ( باب الهمزة بعدها زاي )
+",000,False,000,False,False,False,2,151
+"### || 1 ( باب الهمزة بعدها السين )
+",000,False,000,False,False,False,2,316
+"### | القسم الثالث من حرف الألف 
+",000,False,000,False,False,False,1,8170
+"### || 1 ( الهمزة بعدها باء )
+",000,False,000,False,False,False,2,220
+"### || 1 ( الهمزة نعدها جيم )
+",000,False,000,False,False,False,2,232
+"### || 1 ( الهمزة بعدها حاء )
+",000,False,000,False,False,False,2,489
+"### || 1 ( الهمزة بعدها الدال الوراء )
+",000,False,000,False,False,False,2,1208
+"### || 1 ( باب الألف بعدها سين )
+",000,False,000,False,False,False,2,1243
+"### || 1 ( باب الألف بعدها الشين )
+",000,False,000,False,False,False,2,549
+"### || 1 ( باب الألف بعدها الصاد )
+",000,False,000,False,False,False,2,2726
+"### | القسم الرابع من حرف الألف PageV01P224
+",000,False,000,False,False,False,1,8783
+"### || 1 ( الألف بعدها الباء )
+",000,False,000,False,False,False,2,424
+"### || 1 ( باب الألف بعدها الحاء والذال والراء )
+",000,False,000,False,False,False,2,215
+"### || 1 ( الألف بعدها الزاي )
+",000,False,000,False,False,False,2,443
+"### || 1 ( الألف بعدها السين )
+",000,False,000,False,False,False,2,1884
+"### || 1 ( باب الألف بعدها شين )
+",000,False,000,False,False,False,2,516
+"### || 1 ( باب الألف بعدها الصاد )
+",000,False,000,False,False,False,2,33
+"### || 1 ( باب الألف بعدها العين )
+",000,False,000,False,False,False,2,75
+"### || 1 ( باب الألف بعدها الكاف )
+",000,False,000,False,False,False,2,908
+"### || 1 ( باب الألف بعدها الميم )
+",000,False,000,False,False,False,2,2763
+"### || 1 ( باب الألف بعدها الهاء )
+",000,False,000,False,False,False,2,73
+"### || 1 ( باب الألف بعدها الواو )
+",000,False,000,False,False,False,2,651
+"### | حرف الباء الموحدة 
+",000,False,000,False,False,False,1,6
+"### | القسم الأول يشتمل على معرفة
+",000,False,000,False,False,False,1,14162
+"### || 1 ( الباء بعدها الألف )
+",000,False,000,False,False,False,2,378
+"### || 1 ( الباء بعدها الجيم )
+",000,False,000,False,False,False,2,710
+"### || 1 ( الباء بعدها الحاء )
+",000,False,000,False,False,False,2,294
+"### || 1 ( الباء بعدها الدال )
+",000,False,000,False,False,False,2,1094
+"### || 1 ( باب الباء بعدها الراء )
+",000,False,000,False,False,False,2,2199
+"### || 1 ( باب الباء بعدها الزاي )
+",000,False,000,False,False,False,2,75
+"### || 1 ( باب الباء بعده السين )
+",000,False,000,False,False,False,2,6510
+"### ||| ذكر من اسمه بسر بضم أوله وسكون المهملة PageV01P288
+",000,False,000,False,False,False,3,1055
+"### ||| ذكر من اسمه بشر بالكسر والمعجمة
+",000,False,000,False,False,False,3,3357
+"### ||| ذكر من اسمه بشير بفتح أوله وكسر المعجمة بعدها تحتانية
+",000,False,000,False,False,False,3,1869
+"### || 1 ( الباء بعدها الصاد )
+",000,False,000,False,False,False,2,225
+"### || 1 ( الباء بعدها العين )
+",000,False,000,False,False,False,2,23
+"### || 1 ( الباء بعدها الغين )
+",000,False,000,False,False,False,2,48
+"### || 1 ( الباء بعدها القاف )
+",000,False,000,False,False,False,2,174
+"### || 1 ( الباء بعدها الكاف )
+",000,False,000,False,False,False,2,837
+"### || 1 ( الباء بعدها اللام )
+",000,False,000,False,False,False,2,782
+"### || 1 ( الباء بعدها النون )
+",000,False,000,False,False,False,2,100
+"### || 1 ( الباء بعدها الهاء )
+",000,False,000,False,False,False,2,428
+"### || 1 ( الباء بعدها الواو )
+",000,False,000,False,False,False,2,157
+"### | القسم الثاني من حرف الباء في ذكر من له رؤية 
+",000,False,000,False,False,False,1,444
+"### | القسم الثالث من حرف الباء في ذكر من أدرك النبي صلى الله عليه وسلم ولم يجتمع به سواء في حياته أم بعده 
+",000,False,000,False,False,False,1,2628
+"### || الباء بعدها الألف
+",000,False,000,False,False,False,2,478
+"### || 1 ( الباء بعدها الجيم )
+",000,False,000,False,False,False,2,241
+"### || 1 ( الباء بعدها الدال )
+",000,False,000,False,False,False,2,40
+"### || 1 ( الباء بعدها الراء )
+",000,False,000,False,False,False,2,46
+"### || 1 ( الباء بعدها الشين )
+",000,False,000,False,False,False,2,972
+"### || 1 ( الباء بعدها الطاء )
+",000,False,000,False,False,False,2,43
+"### || 1 ( الباء بعدها الغين )
+",000,False,000,False,False,False,2,381
+"### || 1 ( الباء بعدها العين )
+",000,False,000,False,False,False,2,18
+"### || 1 ( الباء بعدها الكاف )
+",000,False,000,False,False,False,2,240
+"### || 1 ( الباء بعدها الهاء )
+",000,False,000,False,False,False,2,41
+"### | القسم الرابع من حرف الباء الموحدة فيمن ذكر في كتب الصحابة غلطا وبيان ذلك
+",000,False,000,False,False,False,1,3033
+"### || الباء بعدها الألف
+",000,False,000,False,False,False,2,114
+"### || 1 ( الباء بعدها الجيم )
+",000,False,000,False,False,False,2,94
+"### || 1 ( الباء بعدها الحاء )
+",000,False,000,False,False,False,2,678
+"### || 1 ( الباء بعدها الدال )
+",000,False,000,False,False,False,2,272
+"### || 1 ( الباء بعدها الذال )
+",000,False,000,False,False,False,2,162
+"### || 1 ( الباء بعدها الراء )
+",000,False,000,False,False,False,2,242
+"### || 1 ( الباء بعدها السين )
+",000,False,000,False,False,False,2,1121
+"### ||| ذكر بشر بالكسر واسكان المعجمة PageV01P358
+",000,False,000,False,False,False,3,231
+"### || 1 ( الباء بعدها العين )
+",000,False,000,False,False,False,2,85
+"### || 1 ( الباء بعدها اللام )
+",000,False,000,False,False,False,2,228
+"### | حرف التاء المثناة 
+",000,False,000,False,False,False,1,6
+"### | القسم الأول PageV01P365
+",000,False,000,False,False,False,1,1615
+"### || 1 ( باب التاء بعدها اللام )
+",000,False,000,False,False,False,2,89
+"### || 1 ( باب التاء بعدها الميم )
+",000,False,000,False,False,False,2,1437
+"### | القسم الثاني في ذكر من له رؤية PageV01P374
+",000,False,000,False,False,False,1,376
+"### | القسم الثالث فيمن أدرك النبي صلى الله
+",000,False,000,False,False,False,1,523
+"### | القسم الرابع فيمن ms0289 ذكر على سبيل التصحيف والغلط PageV01P379
+",000,False,000,False,False,False,1,565
+"### || 1 ( التاء بعدها اللام والميم )
+",000,False,000,False,False,False,2,462
+"### | حرف الثاء المثلثة 
+",000,False,000,False,False,False,1,6
+"### | القسم الأول PageV01P382
+",000,False,000,False,False,False,1,6901
+"### || 1 ( الثاء بعدها الألف )
+",000,False,000,False,False,False,2,3550
+"### || 1 ( الثاء بعدها الراء )
+",000,False,000,False,False,False,2,64
+"### || 1 ( الثاء بعدها العين المهملة )
+",000,False,000,False,False,False,2,2091
+"### || 1 ( الثاء بعدها القاف )
+",000,False,000,False,False,False,2,140
+"### || 1 ( الثاء بعدها الميم )
+",000,False,000,False,False,False,2,524
+"### | القسم الثاني من حرف الثاء
+",000,False,000,False,False,False,1,46
+"### | القسم الثالث من حرف الثاء PageV01P416
+",000,False,000,False,False,False,1,681
+"### || 1 ( الثاء بعدها الألف )
+",000,False,000,False,False,False,2,85
+"### || 1 ( الثاء بعدها العين )
+",000,False,000,False,False,False,2,19
+"### || 1 ( الثاء بعدها الميم )
+",000,False,000,False,False,False,2,149
+"### | القسم الرابع من حرف الثاء
+",000,False,000,False,False,False,1,1569
+"### || 1 ( الثاء بعدها الألف )
+",000,False,000,False,False,False,2,1218
+"### || 1 ( الثاء بعدها العين المهملة )
+",000,False,000,False,False,False,2,276
+"### || 1 ( الثاء بعدها اللام )
+",000,False,000,False,False,False,2,62
+"### | حرف الجيم 
+",000,False,000,False,False,False,1,4
+"### | القسم الأول PageV01P428
+",000,False,000,False,False,False,1,20874
+"### || 1 ( الجيم بعدها الألف )
+",000,False,000,False,False,False,2,7389
+"### || 1 ( الجيم بعدها الثاء )
+",000,False,000,False,False,False,2,186
+"### || 1 ( الجيم بعدها الحاء )
+",000,False,000,False,False,False,2,376
+"### || 1 ( الجيم بعدها الدال )
+",000,False,000,False,False,False,2,697
+"### || 1 ( الجيم بعدها الراء )
+",000,False,000,False,False,False,2,1657
+"### ||| ذكره من اسمه جزء بفتح الجيم وسكون الزاي وهمزة أو بكسر الزاي بعدها تحتانية
+",000,False,000,False,False,False,3,28
+"### || 1 ( الجيم بعدها الزاي )
+",000,False,000,False,False,False,2,686
+"### || 1 ( الجيم بعدها السين )
+",000,False,000,False,False,False,2,59
+"### || 1 ( الجيم بعدها الشين )
+",000,False,000,False,False,False,2,73
+"### || 1 ( الجيم بعدها لعين )
+",000,False,000,False,False,False,2,2247
+"### || 1 ( الجيم بعدها الفاء )
+",000,False,000,False,False,False,2,546
+"### || 1 ( الجيم بعدها اللام )
+",000,False,000,False,False,False,2,584
+"### || 1 ( الجيم بعدها ميم )
+",000,False,000,False,False,False,2,1090
+"### || 1 ( الجيم بعدها النون )
+",000,False,000,False,False,False,2,5017
+"### | 1 ( القسم الثاني فيمن له رؤية )
+",000,False,000,False,False,False,1,388
+"### || بعدها الباء
+",000,False,000,False,False,False,2,84
+"### || 1 ( الجيم بعدها العين )
+",000,False,000,False,False,False,2,263
+"### | 1 ( القسم الثالث فيمن أدرك الجاهلية والإسلام ولم يرد أنه رأى النبي
+",000,False,000,False,False,False,1,2785
+"### || حرف الجيم بعدها الألف
+",000,False,000,False,False,False,2,189
+"### || 1 ( الجيم بعدها الباء )
+",000,False,000,False,False,False,2,332
+"### || 1 ( الجيم بعدها الدال والراء )
+",000,False,000,False,False,False,2,661
+"### || 1 ( الجيم بعدها الزاي والشين )
+",000,False,000,False,False,False,2,277
+"### || 1 ( الجيم بعدها العين )
+",000,False,000,False,False,False,2,425
+"### || 1 ( الجيم بعدها اللام والميم )
+",000,False,000,False,False,False,2,331
+"### || 1 ( الجيم بعدها النون )
+",000,False,000,False,False,False,2,228
+"### | 1 ( القسم الرابع فيمن ذكر بالوهم والغلط )
+",000,False,000,False,False,False,1,3037
+"### || الجيم بعدها الألف
+",000,False,000,False,False,False,2,244
+"### || 1 ( الجيم بعدها الباء )
+",000,False,000,False,False,False,2,568
+"### || 1 ( الجيم بعدها الحاء والذال )
+",000,False,000,False,False,False,2,418
+"### || 1 ( الجيم بعدها الراء )
+",000,False,000,False,False,False,2,177
+"### || 1 ( الجيم بعدها الشين والعين والفاء )
+",000,False,000,False,False,False,2,743
+"### || 1 ( الجيم بعدها اللام والميم )
+",000,False,000,False,False,False,2,159
+"### || 1 ( الجيم بعدها النون )
+",000,False,000,False,False,False,2,237
+"### || 1 ( الجيم بعدها الهاء )
+",000,False,000,False,False,False,2,155
+"### | 1 ( حرف الهاء المهملة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,42532
+"### || 1 ( باب الحاء بعدها الألف )
+",000,False,000,False,False,False,2,13188
+"### ||| 1 ( ذكر من اسمه الحارث )
+",000,False,000,False,False,False,3,10310
+"### ||| 1 ( ذكر من اسمه حارثة )
+",000,False,000,False,False,False,3,1180
+"### || 1 ( الحاء بعدها الباء )
+",000,False,000,False,False,False,2,4080
+"### || 1 ( الحاء بعدها التاء )
+",000,False,000,False,False,False,2,262
+"### || 1 ( باب الحاء بعدها الثاء )
+",000,False,000,False,False,False,2,19
+"### || 1 ( الحاء بعدها الجيم )
+",000,False,000,False,False,False,2,2209
+"### || 1 ( الحاء بعدها الدال )
+",000,False,000,False,False,False,2,234
+"### || 1 ( الحاء بعدها الذال )
+",000,False,000,False,False,False,2,744
+"### || 1 ( الحاء بعدها الراء )
+",000,False,000,False,False,False,2,2400
+"### || 1 ( الحاء بعدها الزاي )
+",000,False,000,False,False,False,2,702
+"### || 1 ( الحاء بعدها السين )
+",000,False,000,False,False,False,2,4420
+"### || 1 ( الحاء بعدها الشين )
+",000,False,000,False,False,False,2,54
+"### || 1 ( الحاء بعدها الصاد )
+",000,False,000,False,False,False,2,2685
+"### || 1 ( الحاء بعدها الضاد المعجمة )
+",000,False,000,False,False,False,2,349
+"### || 1 ( الحاء بعدها الطاء )
+",000,False,000,False,False,False,2,134
+"### || 1 ( الحاء بعدها الفاء )
+",000,False,000,False,False,False,2,231
+"### || 1 ( الحاء بعدها الكاف )
+",000,False,000,False,False,False,2,3738
+"### || 1 ( الحاء بعدها اللام )
+",000,False,000,False,False,False,2,267
+"### || 1 ( الحاء بعدها الميم )
+",000,False,000,False,False,False,2,2935
+"### || 1 ( الحاء بعدها النون )
+",000,False,000,False,False,False,2,2049
+"### || 1 ( الحاء بعدها الواو )
+",000,False,000,False,False,False,2,837
+"### | 1 ( القسم الثاني )من حرف الحاء المهملة 1 ( فيمن له رؤية ممن ولد في زمن النبي صلى الله عليه وسلم بين أبوين مسلمين )
+",000,False,000,False,False,False,1,799
+"### || الحاء بعدها الألف
+",000,False,000,False,False,False,2,227
+"### || 1 ( الحاء بعدها الجيم والصاد والكاف )
+",000,False,000,False,False,False,2,228
+"### || 1 ( الحاء بعدها الميم )
+",000,False,000,False,False,False,2,273
+"### | 1 ( القسم الثالث )
+",000,False,000,False,False,False,1,6369
+"### || الحاء بعدها الألف
+",000,False,000,False,False,False,2,1383
+"### || 1 ( الحاء بعدها الباء )
+",000,False,000,False,False,False,2,548
+"### || 1 ( الحاء بعدها التاء )
+",000,False,000,False,False,False,2,111
+"### || 1 ( الحاء بعدها الجيم )
+",000,False,000,False,False,False,2,398
+"### || 1 ( الحاء ms0577 بعدها الدال والذال )
+",000,False,000,False,False,False,2,141
+"### || 1 ( الحاء بعدها الراء )
+",000,False,000,False,False,False,2,460
+"### || 1 ( الحاء بعدها الزاي )
+",000,False,000,False,False,False,2,30
+"### || 1 ( الحاء بعدها السين والشين )
+",000,False,000,False,False,False,2,680
+"### || 1 ( الحاء بعدها الطاء )
+",000,False,000,False,False,False,2,530
+"### || 1 ( الحاء بعدها الكاف )
+",000,False,000,False,False,False,2,207
+"### || 1 ( الحاء بعدها اللام )
+",000,False,000,False,False,False,2,111
+"### || 1 ( الحاء بعدها الميم )
+",000,False,000,False,False,False,2,401
+"### || 1 ( الحاء بعدها النون )
+",000,False,000,False,False,False,2,618
+"### || 1 ( الحاء بعدها الواو )
+",000,False,000,False,False,False,2,431
+"### | 1 ( القسم الرابع )
+",000,False,000,False,False,False,1,6143
+"### || 1 ( الحاء بعدها الباء )
+",000,False,000,False,False,False,2,868
+"### || 1 ( الحاء بعدها الجيم )
+",000,False,000,False,False,False,2,440
+"### || 1 ( الحاء بعدها الذال )
+",000,False,000,False,False,False,2,131
+"### || 1 ( الحاء بعدها الراء والزاي )
+",000,False,000,False,False,False,2,401
+"### || 1 ( الحاء بعدها السين )
+",000,False,000,False,False,False,2,367
+"### || 1 ( الحاء بعدها الصاد والطاء )
+",000,False,000,False,False,False,2,263
+"### || 1 ( الحاء بعدها الفاء )
+",000,False,000,False,False,False,2,52
+"### || 1 ( الحاء بعدها الكاف )
+",000,False,000,False,False,False,2,271
+"### || 1 ( الحاء بعدها الميم )
+",000,False,000,False,False,False,2,195
+"### || 1 ( الحاء بعدها النون )
+",000,False,000,False,False,False,2,283
+"### || 1 ( الحاء بعدها الواو )
+",000,False,000,False,False,False,2,359
+"### | 1 ( حرف الخاء المعجمة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,28493
+"### || 1 ( الخاء بعدها الألف )
+",000,False,000,False,False,False,2,8001
+"### || 1 ( الخاء بعدها الباء )
+",000,False,000,False,False,False,2,1610
+"### || 1 ( الخاء بعدها الثاء والدال )
+",000,False,000,False,False,False,2,851
+"### || 1 ( الخاء بعدها الذال )
+",000,False,000,False,False,False,2,60
+"### || 1 ( الخاء بعدها الزاء )
+",000,False,000,False,False,False,2,1282
+"### || 1 ( الخاء بعدها الزاي )
+",000,False,000,False,False,False,2,1636
+"### || 1 ( الخاء بعدها الشين )
+",000,False,000,False,False,False,2,213
+"### || 1 ( الخاء بعدها الصاد )
+",000,False,000,False,False,False,2,117
+"### || 1 ( الخاء بعدها الضاد )
+",000,False,000,False,False,False,2,72
+"### || 1 ( باب نسبه )
+",000,False,000,False,False,False,2,366
+"### || 1 ( باب ما ورد في كونه نبيا )
+",000,False,000,False,False,False,2,691
+"### || 1 ( باب ما ورد في تعميره والسبب في ذلك )
+",000,False,000,False,False,False,2,4846
+"### ||| 1 ( ذكر من ذهب إلى أن الخضر مات )
+",000,False,000,False,False,False,3,832
+"### || 1 ( باب ما جاء في بقاء الخضر بعد النبي صلى الله عليه وسلم )
+",000,False,000,False,False,False,2,5708
+"### || 1 ( الخاء بعدها الطاء )
+",000,False,000,False,False,False,2,20
+"### || 1 ( الخاء بعدها الفاء )
+",000,False,000,False,False,False,2,425
+"### || 1 ( الخاء بعدها اللام )
+",000,False,000,False,False,False,2,1273
+"### || 1 ( الخاء بعدها الميم )
+",000,False,000,False,False,False,2,286
+"### || 1 ( الخاء بعدها النون )
+",000,False,000,False,False,False,2,173
+"### || 1 ( الخاء بعدها الواو )
+",000,False,000,False,False,False,2,804
+"### || 1 ( الخاء بعدها الياء )
+",000,False,000,False,False,False,2,173
+"### || 1 ( الخاء بعدها الألف )
+",000,False,000,False,False,False,2,8
+"### | القسم الثاني
+",000,False,000,False,False,False,1,121
+"### | 1 ( القسم الثالث )
+",000,False,000,False,False,False,1,2347
+"### || الخاء بعدها الألف
+",000,False,000,False,False,False,2,705
+"### || 1 ( الخاء بعدها الباء )
+",000,False,000,False,False,False,2,31
+"### || 1 ( الخاء بعدها الثاء )
+",000,False,000,False,False,False,2,101
+"### || 1 ( الخاء بعدها الدال والراء )
+",000,False,000,False,False,False,2,356
+"### || 1 ( الخاء بعدها الزاي )
+",000,False,000,False,False,False,2,56
+"### || 1 ( الخاء بعدها السين )
+",000,False,000,False,False,False,2,86
+"### || 1 ( الخاء بعدها الفاء )
+",000,False,000,False,False,False,2,166
+"### || 1 ( الخاء بعدها النون )
+",000,False,000,False,False,False,2,411
+"### || 1 ( الخاء بعدها الواو )
+",000,False,000,False,False,False,2,400
+"### | 1 ( القسم الرابع )
+",000,False,000,False,False,False,1,6
+"### | الخاء ms0721 بعدها الألف
+",000,False,000,False,False,False,1,2894
+"### || 1 ( الخاء بعدها الباء )
+",000,False,000,False,False,False,2,96
+"### || 1 ( الخاء بعدها الدال )
+",000,False,000,False,False,False,2,50
+"### || 1 ( الخاء بعدها الراء )
+",000,False,000,False,False,False,2,136
+"### || 1 ( الخاء بعدها السين )
+",000,False,000,False,False,False,2,57
+"### || 1 ( الخاء بعدها الطاء )
+",000,False,000,False,False,False,2,35
+"### || 1 ( الخاء بعدها ms0730 اللام )
+",000,False,000,False,False,False,2,107
+"### || 1 ( الخاء بعدها النون )
+",000,False,000,False,False,False,2,96
+"### || 1 ( الخاء بعدها الواو )
+",000,False,000,False,False,False,2,115
+"### | 1 ( حرف الدال المهملة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,2396
+"### || 1 ( الدال بعدها الألف )
+",000,False,000,False,False,False,2,223
+"### || 1 ( الدال بعدها الجيم )
+",000,False,000,False,False,False,2,73
+"### || 1 ( الدال بعدها الحاء )
+",000,False,000,False,False,False,2,334
+"### || 1 ( الدال بعدها الراء )
+",000,False,000,False,False,False,2,177
+"### || 1 ( الدال بعدها العين )
+",000,False,000,False,False,False,2,158
+"### || 1 ( الدال بعدها العين )
+",000,False,000,False,False,False,2,401
+"### || 1 ( الدال بعدها الفاء )
+",000,False,000,False,False,False,2,21
+"### || 1 ( الدال بعدها الكاف )
+",000,False,000,False,False,False,2,58
+"### || 1 ( الدال بعدها اللام )
+",000,False,000,False,False,False,2,68
+"### || 1 ( الدال بعدها الميم والهاء )
+",000,False,000,False,False,False,2,48
+"### || 1 ( الدال بعدها الهاء )
+",000,False,000,False,False,False,2,61
+"### || 1 ( الدال بعدها الواو )
+",000,False,000,False,False,False,2,165
+"### | 1 ( القسم الثاني )
+",000,False,000,False,False,False,1,52
+"### | 1 ( القسم الثالث )
+",000,False,000,False,False,False,1,384
+"### | 1 ( القسم الرابع )
+",000,False,000,False,False,False,1,386
+"### || 1 ( الدال بعدها الراء والعين )
+",000,False,000,False,False,False,2,19
+"### || 1 ( الدال بعدها العين )
+",000,False,000,False,False,False,2,74
+"### || 1 ( الدال بعدها الفاء )
+",000,False,000,False,False,False,2,43
+"### || 1 ( الدال بعدها اللام )
+",000,False,000,False,False,False,2,164
+"### || 1 ( الدال بعدها الهاء )
+",000,False,000,False,False,False,2,26
+"### | 1 ( حرف الذال المعجمة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,4417
+"### || 1 ( الذال بعدها الألف )
+",000,False,000,False,False,False,2,60
+"### || 1 ( الدال بعدها الباء )
+",000,False,000,False,False,False,2,333
+"### || 1 ( الذال بعدها الراء )
+",000,False,000,False,False,False,2,245
+"### || 1 ( الذال بعدها الراء )
+",000,False,000,False,False,False,2,28
+"### || 1 ( الذال بعدها الفاء )
+",000,False,000,False,False,False,2,39
+"### || 1 ( الذال بعدها الكاف )
+",000,False,000,False,False,False,2,3637
+"### | 1 ( القسم الثاني )
+",000,False,000,False,False,False,1,11
+"### | 1 ( القسم الثالث )
+",000,False,000,False,False,False,1,1258
+"### || الذال بعدها الألف والباء
+",000,False,000,False,False,False,2,92
+"### || 1 ( الذال بعدها الراء )
+",000,False,000,False,False,False,2,102
+"### || 1 ( الذال بعدها الكاف )
+",000,False,000,False,False,False,2,43
+"### || 1 ( الذال بعدها الواو )
+",000,False,000,False,False,False,2,967
+"### || 1 ( الذال بعدها الهاء )
+",000,False,000,False,False,False,2,29
+"### || 1 ( الذال بعدها الكاف والواو )
+",000,False,000,False,False,False,2,15
+"### | 1 ( حرف الراء )
+",000,False,000,False,False,False,1,6
+"### | القسم الأول
+",000,False,000,False,False,False,1,12877
+"### || 1 ( الراء بعدها الألف )
+",000,False,000,False,False,False,2,3197
+"### || 1 ( الراء بعدها الباء ms0773 )
+",000,False,000,False,False,False,2,5355
+"### || 1 ( الراء بعدها الجيم )
+",000,False,000,False,False,False,2,149
+"### || 1 ( الراء بعدها الحاء )
+",000,False,000,False,False,False,2,114
+"### || 1 ( الراء بعدها الخاء )
+",000,False,000,False,False,False,2,76
+"### || 1 ( الراء بعدها الدال )
+",000,False,000,False,False,False,2,234
+"### || 1 ( الراء بعدها الزاي )
+",000,False,000,False,False,False,2,275
+"### || 1 ( الراء بعدها السين )
+",000,False,000,False,False,False,2,104
+"### || 1 ( الراء بعدها الشين )
+",000,False,000,False,False,False,2,540
+"### || 1 ( الراء بعدها العين )
+",000,False,000,False,False,False,2,100
+"### || 1 ( الراء بعدها الفاء )
+",000,False,000,False,False,False,2,1419
+"### || 1 ( الراء بعدها القاف )
+",000,False,000,False,False,False,2,186
+"### || 1 ( الراء بعدها الكاف )
+",000,False,000,False,False,False,2,337
+"### || 1 ( الراء بعدها الهاء )
+",000,False,000,False,False,False,2,95
+"### || 1 ( الراء بعدها الواو )
+",000,False,000,False,False,False,2,502
+"### | 1 ( القسم الثاني )
+",000,False,000,False,False,False,1,479
+"### || 1 ( الراء بعدها الألف )
+",000,False,000,False,False,False,2,34
+"### || 1 ( الراء بعدها الباء )
+",000,False,000,False,False,False,2,219
+"### | 1 ( القسم الثالث )
+",000,False,000,False,False,False,1,1726
+"### || 1 ( الراء بعدها الألف )
+",000,False,000,False,False,False,2,134
+"### || 1 ( الراء بعدها الباء )
+",000,False,000,False,False,False,2,1129
+"### ||| 1 ( ذكر من اسمه الربيع محلى بأل )
+",000,False,000,False,False,False,3,458
+"### || 1 ( الراء بعدها الشين )
+",000,False,000,False,False,False,2,269
+"### || 1 ( الراء بعدها الواو )
+",000,False,000,False,False,False,2,95
+"### | 1 ( القسم الرابع )
+",000,False,000,False,False,False,1,5818
+"### || 1 ( الراء بعدها التاء )
+",000,False,000,False,False,False,2,3451
+"### || 1 ( الراء بعدها الجيم )
+",000,False,000,False,False,False,2,348
+"### || 1 ( الراء بعدها الدال )
+",000,False,000,False,False,False,2,16
+"### || 1 ( الراء بعدها الفاء )
+",000,False,000,False,False,False,2,184
+"### || 1 ( الراء بعدها القاف )
+",000,False,000,False,False,False,2,27
+"### || 1 ( الراء بعدها الكاف )
+",000,False,000,False,False,False,2,59
+"### || 1 ( الراء بعدها الواو )
+",000,False,000,False,False,False,2,414
+"### | 1 ( حرف الزاي المنقوطة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,15031
+"### || 1 ( الزاي بعدها الألف )
+",000,False,000,False,False,False,2,586
+"### || 1 ( الزاي بعدها الباء )
+",000,False,000,False,False,False,2,1791
+"### || 1 ( الزاي بعدها الجيم والخاء )
+",000,False,000,False,False,False,2,57
+"### || 1 ( الزاي بعدها الراء )
+",000,False,000,False,False,False,2,1268
+"### || 1 ( الزاي بعدها العين والفاء )
+",000,False,000,False,False,False,2,141
+"### || 1 ( الزاي بعدها الكاف )
+",000,False,000,False,False,False,2,77
+"### || 1 ( الزاي بعدها اللام والميم )
+",000,False,000,False,False,False,2,374
+"### || 1 ( الزاي بعدها النون )
+",000,False,000,False,False,False,2,506
+"### || 1 ( الزاي بعدها الهاء )
+",000,False,000,False,False,False,2,1776
+"### || 1 ( الزاي بعدها الواو )
+",000,False,000,False,False,False,2,133
+"### || 1 ( الزاي بعدها الياء )
+",000,False,000,False,False,False,2,7061
+"### | 1 ( القسم الثاني )
+",000,False,000,False,False,False,1,302
+"### || 1 ( الزاي بعدها الفاء )
+",000,False,000,False,False,False,2,43
+"### | 1 ( القسم الثالث )
+",000,False,000,False,False,False,1,3526
+"### || 1 ( الزاي بعدها الباء )
+",000,False,000,False,False,False,2,133
+"### || 1 ( الزاي بعدها الحاء )
+",000,False,000,False,False,False,2,107
+"### || 1 ( الزاي بعدها الراء )
+",000,False,000,False,False,False,2,953
+"### || 1 ( الزاي بعدها الفاء )
+",000,False,000,False,False,False,2,170
+"### || 1 ( الزاي بعدها الهاء )
+",000,False,000,False,False,False,2,118
+"### | 1 ( القسم الرابع )
+",000,False,000,False,False,False,1,1802
+"### || 1 ( الزاي بعدها الباء )
+",000,False,000,False,False,False,2,99
+"### || 1 ( الزاي بعدها الراء )
+",000,False,000,False,False,False,2,100
+"### || 1 ( الزاي بعدها العين )
+",000,False,000,False,False,False,2,57
+"### || 1 ( الزاي بعدها الكاف )
+",000,False,000,False,False,False,2,30
+"### || 1 ( الزاي بعدها الهاء )
+",000,False,000,False,False,False,2,353
+"### | 1 ( حرف السين المهملة )
+",000,False,000,False,False,False,1,8
+"### | الأول السين بعدها الألف
+",000,False,000,False,False,False,1,46323
+"### || 1 ( السين بعدها الباء )
+",000,False,000,False,False,False,2,1058
+"### || 1 ( السين بعدها الجيم )
+",000,False,000,False,False,False,2,421
+"### || 1 ( السين بعدها الخاء )
+",000,False,000,False,False,False,2,241
+"### || 1 ( السين بعدها الراء )
+",000,False,000,False,False,False,2,1969
+"### || 1 ( السين بعدها العين )
+",000,False,000,False,False,False,2,14817
+"### || 1 ( السين بعدها الفاء )
+",000,False,000,False,False,False,2,2241
+"### || 1 ( السين بعدها الكاف )
+",000,False,000,False,False,False,2,531
+"### || 1 ( السين بعدها اللام )
+",000,False,000,False,False,False,2,7550
+"### || 1 ( السين بعدها الميم )
+",000,False,000,False,False,False,2,2308
+"### || 1 ( السين بعدها النون )
+",000,False,000,False,False,False,2,1485
+"### || 1 ( السين بعدها الهاء 
+",000,False,000,False,False,False,2,4320
+"### ||| ذكر من اسمه سهل بسكون الهاء )
+",000,False,000,False,False,False,3,2930
+"### || 1 ( السين بعدها الواو )
+",000,False,000,False,False,False,2,3472
+"### | 1 ( القسم الثاني السين بعدها الألف )
+",000,False,000,False,False,False,1,1302
+"### || 1 ( السين بعدها العين )
+",000,False,000,False,False,False,2,181
+"### || 1 ( السين بعدها الفاء )
+",000,False,000,False,False,False,2,77
+"### || 1 ( السين بعدها اللام )
+",000,False,000,False,False,False,2,508
+"### | 1 ( القسم ms1073 الثالث من حرف السين السين بعدها الألف )
+",000,False,000,False,False,False,1,4899
+"### || 1 ( السين بعدها الباء والجيم )
+",000,False,000,False,False,False,2,68
+"### || 1 ( السين بعدها الحاء )
+",000,False,000,False,False,False,2,590
+"### || 1 ( السين بعدها الدال )
+",000,False,000,False,False,False,2,57
+"### || 1 ( السين بعدها الراء )
+",000,False,000,False,False,False,2,115
+"### || 1 ( السين بعدها العين )
+",000,False,000,False,False,False,2,915
+"### || 1 ( السين بعدها الفاء )
+",000,False,000,False,False,False,2,224
+"### || 1 ( السين بعدها اللام )
+",000,False,000,False,False,False,2,548
+"### || 1 ( السين بعدها الميم )
+",000,False,000,False,False,False,2,422
+"### || 1 ( السين بعدها النون )
+",000,False,000,False,False,False,2,157
+"### || 1 ( السين بعدها الهاء )
+",000,False,000,False,False,False,2,235
+"### || 1 ( السين بعدها الواو )
+",000,False,000,False,False,False,2,756
+"### | 1 ( القسم الرابع من حرف السين السين بعدها الألف )
+",000,False,000,False,False,False,1,6845
+"### || 1 ( السين بعدها الحاء )
+",000,False,000,False,False,False,2,464
+"### || 1 ( السين بعدها الدال )
+",000,False,000,False,False,False,2,50
+"### || 1 ( السين بعدها الراء )
+",000,False,000,False,False,False,2,365
+"### || 1 ( السين بعدها العين )
+",000,False,000,False,False,False,2,2101
+"### || 1 ( السين بعدها الفاء )
+",000,False,000,False,False,False,2,85
+"### || 1 ( السين بعدها الكاف )
+",000,False,000,False,False,False,2,205
+"### || 1 ( السين بعدها اللام )
+",000,False,000,False,False,False,2,1268
+"### || 1 ( السين بعدها الميم )
+",000,False,000,False,False,False,2,32
+"### || 1 ( السين بعدها النون )
+",000,False,000,False,False,False,2,340
+"### || 1 ( السين بعدها الهاء )
+",000,False,000,False,False,False,2,434
+"### | 1 ( حرف الشين المعجمة 
+",000,False,000,False,False,False,1,8
+"### | القسم الأول 
+",000,False,000,False,False,False,1,12290
+"### || الشين بعدها الألف )
+",000,False,000,False,False,False,2,340
+"### || 1 ( الشين بعدها الباء )
+",000,False,000,False,False,False,2,786
+"### || 1 ( الشين بعدها التاء )
+",000,False,000,False,False,False,2,116
+"### || 1 ( الشين بعدها الجيم )
+",000,False,000,False,False,False,2,482
+"### || 1 ( الشين بعدها الدال )
+",000,False,000,False,False,False,2,1329
+"### || 1 ( الشين بعدها الراء )
+",000,False,000,False,False,False,2,4652
+"### || 1 ( الشين بعدها الصاد والطاء )
+",000,False,000,False,False,False,2,228
+"### || 1 ( الشين بعدها العين )
+",000,False,000,False,False,False,2,110
+"### || 1 ( الشين بعدها الفاء والقاف )
+",000,False,000,False,False,False,2,343
+"### || 1 ( الشين بعدها الكاف )
+",000,False,000,False,False,False,2,65
+"### || 1 ( الشين بعدها الميم )
+",000,False,000,False,False,False,2,1495
+"### || 1 ( الشين بعدها النون )
+",000,False,000,False,False,False,2,237
+"### || 1 ( الشين بعدها الهاء )
+",000,False,000,False,False,False,2,738
+"### || 1 ( الشين بعدها الواو )
+",000,False,000,False,False,False,2,60
+"### | 1 ( القسم الثاني )
+",000,False,000,False,False,False,1,123
+"### || 1 ( الشين بعدها التاء )
+",000,False,000,False,False,False,2,97
+"### | 1 ( القسم الثالث )
+",000,False,000,False,False,False,1,2831
+"### || 1 ( الشين بعدها الألف )
+",000,False,000,False,False,False,2,27
+"### || 1 ( الشين بعدها الباء )
+",000,False,000,False,False,False,2,827
+"### || 1 ( الشين بعدها الجيم )
+",000,False,000,False,False,False,2,31
+"### || 1 ( الشين بعدها الحاء والدال )
+",000,False,000,False,False,False,2,162
+"### || 1 ( الشين بعدها الراء )
+",000,False,000,False,False,False,2,863
+"### || 1 ( الشين بعدها العين والفاء )
+",000,False,000,False,False,False,2,273
+"### || 1 ( الشين بعدها الميم )
+",000,False,000,False,False,False,2,145
+"### || 1 ( الشين بعدها الهاء والواو )
+",000,False,000,False,False,False,2,154
+"### | 1 ( القسم الرابع )
+",000,False,000,False,False,False,1,1764
+"### || 1 ( الشين ms1167 بعدها الألف )
+",000,False,000,False,False,False,2,30
+"### || 1 ( الشين بعدها الباء )
+",000,False,000,False,False,False,2,422
+"### || 1 ( الشين بعدها الحاء والراء )
+",000,False,000,False,False,False,2,571
+"### || 1 ( الشين بعدها العين )
+",000,False,000,False,False,False,2,411
+"### || 1 ( الشين بعدها الفاء )
+",000,False,000,False,False,False,2,124
+"### | 1 ( حرف الصاد المهملة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,10602
+"### || 1 ( الصاد بعدها الألف )
+",000,False,000,False,False,False,2,454
+"### || 1 ( الصاد بعدها الباء )
+",000,False,000,False,False,False,2,699
+"### || 1 ( الصاد بعدها الحاء )
+",000,False,000,False,False,False,2,856
+"### || 1 ( الصاد بعدها ms1180 الخاء )
+",000,False,000,False,False,False,2,1630
+"### || 1 ( الصاد بعدها الدال )
+",000,False,000,False,False,False,2,339
+"### || 1 ( الصاد بعدها الراء )
+",000,False,000,False,False,False,2,965
+"### || 1 ( الصاد بعدها العين )
+",000,False,000,False,False,False,2,1086
+"### || 1 ( الصاد بعدها الفاء )
+",000,False,000,False,False,False,2,2557
+"### || 1 ( الصاد بعدها اللام )
+",000,False,000,False,False,False,2,572
+"### || 1 ( الصاد بعدها النون )
+",000,False,000,False,False,False,2,253
+"### || 1 ( الصاد بعدها الهاء )
+",000,False,000,False,False,False,2,834
+"### || 1 ( الصاد بعدها الواو )
+",000,False,000,False,False,False,2,62
+"### | 1 ( القسم الثاني )
+",000,False,000,False,False,False,1,135
+"### || 1 ( الصاد بعدها الألف )
+",000,False,000,False,False,False,2,62
+"### | 1 ( القسم الثالث )
+",000,False,000,False,False,False,1,1161
+"### || 1 ( الصاد بعدها الألف )
+",000,False,000,False,False,False,2,649
+"### || 1 ( الصاد بعدها الخاء )
+",000,False,000,False,False,False,2,83
+"### || الصاد بعدها الراء
+",000,False,000,False,False,False,2,44
+"### || 1 ( الصاد بعدها العين )
+",000,False,000,False,False,False,2,160
+"### || 1 ( الصاد بعدها القاف )
+",000,False,000,False,False,False,2,58
+"### || 1 ( الصاد بعدها اللام )
+",000,False,000,False,False,False,2,149
+"### | 1 ( القسم الرابع )
+",000,False,000,False,False,False,1,1701
+"### || 1 ( الصاد بعدها الألف )
+",000,False,000,False,False,False,2,223
+"### || 1 ( الصاد بعدها الباء والحاء والخاء )
+",000,False,000,False,False,False,2,175
+"### || 1 ( الصاد بعدها الراء )
+",000,False,000,False,False,False,2,148
+"### || 1 ( الصاد بعدها العين )
+",000,False,000,False,False,False,2,70
+"### || 1 ( الصاد بعدها الفاء )
+",000,False,000,False,False,False,2,871
+"### || 1 ( الصاد بعدها اللام )
+",000,False,000,False,False,False,2,43
+"### || 1 ( الصاد بعدها النون )
+",000,False,000,False,False,False,2,36
+"### | 1 ( حرف الضاد المعجمة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,4320
+"### || 1 ( الضاد بعدها الباء والجيم والحاء )
+",000,False,000,False,False,False,2,1419
+"### || 1 ( الضاد بعدها الراء )
+",000,False,000,False,False,False,2,838
+"### | 1 ( القسم الثاني )
+",000,False,000,False,False,False,1,29
+"### | 1 ( القسم الثالث )
+",000,False,000,False,False,False,1,653
+"### || 1 ( الضاد بعدها الألف )
+",000,False,000,False,False,False,2,295
+"### || 1 ( الضاد بعدها الباء )
+",000,False,000,False,False,False,2,68
+"### || 1 ( الضاد ms1237 بعدها الحاء والراء )
+",000,False,000,False,False,False,2,49
+"### || 1 ( الضاد بعدها الغين )
+",000,False,000,False,False,False,2,206
+"### | 1 ( القسم الرابع )
+",000,False,000,False,False,False,1,877
+"### || 1 ( الضاد بعدها الباء )
+",000,False,000,False,False,False,2,35
+"### || 1 ( الضاد بعدها الحاء )
+",000,False,000,False,False,False,2,697
+"### || 1 ( الضاد بعدها الراء )
+",000,False,000,False,False,False,2,69
+"### | 1 ( حرف الطاء المهملة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,7998
+"### || 1 ( الطاء بعدها الألف )
+",000,False,000,False,False,False,2,1568
+"### || 1 ( في أبيات )
+",000,False,000,False,False,False,2,133
+"### || 1 ( الطاء بعدها الباء والحاء والخاء )
+",000,False,000,False,False,False,2,71
+"### || 1 ( الطاء بعدها الراء )
+",000,False,000,False,False,False,2,389
+"### || 1 ( الطاء بعدها العين والغين )
+",000,False,000,False,False,False,2,81
+"### || 1 ( الطاء بعدها الفاء )
+",000,False,000,False,False,False,2,1193
+"### || 1 ( الطاء بعدها اللام )
+",000,False,000,False,False,False,2,4456
+"### | 1 ( القسم الثاني )
+",000,False,000,False,False,False,1,342
+"### || 1 ( الطاء بعدها الألف )
+",000,False,000,False,False,False,2,233
+"### | 1 ( القسم الثالث )
+",000,False,000,False,False,False,1,92
+"### | 1 ( القسم الرابع )
+",000,False,000,False,False,False,1,1162
+"### || 1 ( الطاء بعدها الألف )
+",000,False,000,False,False,False,2,155
+"### || 1 ( الطاء بعدها الراء )
+",000,False,000,False,False,False,2,294
+"### || 1 ( الطاء بعدها الفاء )
+",000,False,000,False,False,False,2,141
+"### | 1 ( حرف الظاء المشالة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,224
+"### || 1 ( الظاء بعدها الألف )
+",000,False,000,False,False,False,2,49
+"### || 1 ( الظاء بعدها الباء )
+",000,False,000,False,False,False,2,161
+"### | 1 ( القسم الثاني )
+",000,False,000,False,False,False,1,11
+"### | 1 ( القسم الثالث )
+",000,False,000,False,False,False,1,610
+"### | 1 ( القسم الرابع )
+",000,False,000,False,False,False,1,104
+"### | 1 ( حرف العين المهملة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,13149
+"### || 1 ( العين بعدها الألف )
+",000,False,000,False,False,False,2,8789
+"### | 1 ( حرف العين المهملة )
+",000,False,000,False,False,False,1,150773
+"### || 1 ( العين بعدها التاء )
+",000,False,000,False,False,False,2,3535
+"### || 1 ( العين بعدها الثاء )
+",000,False,000,False,False,False,2,3302
+"### || 1 ( العين بعدها الجيم )
+",000,False,000,False,False,False,2,268
+"### || 1 ( العين بعدها الدال )
+",000,False,000,False,False,False,2,5906
+"### || 1 ( العين بعدها الزاي )
+",000,False,000,False,False,False,2,120
+"### || 1 ( العين بعدها السين )
+",000,False,000,False,False,False,2,303
+"### || 1 ( العين بعدها الشين )
+",000,False,000,False,False,False,2,46
+"### || 1 ( العين بعدها الصاد )
+",000,False,000,False,False,False,2,2303
+"### || 1 ( العين بعدها الظاء )
+",000,False,000,False,False,False,2,16
+"### || 1 ( العين بعدها الفاء )
+",000,False,000,False,False,False,2,942
+"### || 1 ( العين بعدها القاف )
+",000,False,000,False,False,False,2,2861
+"### || 1 ( العين بعدها الكاف )
+",000,False,000,False,False,False,2,1448
+"### || 1 ( العين بعدها اللام )
+",000,False,000,False,False,False,2,6670
+"### || 1 ( العين بعدها الميم )
+",000,False,000,False,False,False,2,32276
+"### ||| 1 ( ذكر من اسمه عمر )
+",000,False,000,False,False,False,3,1993
+"### ||| 1 ( ذكر من اسمه عمرو بفتح العين وسكون الميم )
+",000,False,000,False,False,False,3,21530
+"### ||| 1 ( ذكر من اسمه عمران )
+",000,False,000,False,False,False,3,1183
+"### ||| 1 ( ذكر من اسمه عمير بالتصغير )
+",000,False,000,False,False,False,3,4787
+"### || 1 ( العين بعدها النون )
+",000,False,000,False,False,False,2,588
+"### || 1 ( العين بعدها الواو )
+",000,False,000,False,False,False,2,2536
+"### | 1 ( القسم الثاني )
+",000,False,000,False,False,False,1,12624
+"### || 1 ( العين بعدها الباء )
+",000,False,000,False,False,False,2,10066
+"### || 1 ( العين بعدها التاء )
+",000,False,000,False,False,False,2,96
+"### || 1 ( العين بعدها الثاء )
+",000,False,000,False,False,False,2,222
+"### || 1 ( العين بعدها الدال )
+",000,False,000,False,False,False,2,33
+"### || 1 ( العين بعدها الراء )
+",000,False,000,False,False,False,2,100
+"### || 1 ( العين بعدها الطاء )
+",000,False,000,False,False,False,2,73
+"### || 1 ( العين بعدها القاف )
+",000,False,000,False,False,False,2,430
+"### || 1 ( العين بعدها اللام )
+",000,False,000,False,False,False,2,408
+"### || 1 ( العين ms1894 بعدها الميم )
+",000,False,000,False,False,False,2,382
+"### || 1 ( العين بعدها النون )
+",000,False,000,False,False,False,2,222
+"### || 1 ( العين بعدها الواو )
+",000,False,000,False,False,False,2,73
+"### | 1 ( القسم الثالث )
+",000,False,000,False,False,False,1,16176
+"### || 1 ( العين بعدها الألف )
+",000,False,000,False,False,False,2,1347
+"### || 1 ( العين بعدها الباء )
+",000,False,000,False,False,False,2,6690
+"### || 1 ( العين بعدها التاء )
+",000,False,000,False,False,False,2,394
+"### || 1 ( العين بعدها الثاء )
+",000,False,000,False,False,False,2,52
+"### || 1 ( العين بعده الجيم والدال )
+",000,False,000,False,False,False,2,528
+"### || 1 ( العين بعدها الزاي )
+",000,False,000,False,False,False,2,76
+"### || 1 ( العين بعدها السين )
+",000,False,000,False,False,False,2,361
+"### || 1 ( العين بعدها الطاء )
+",000,False,000,False,False,False,2,206
+"### || 1 ( العين بعدها الظاء والفاء )
+",000,False,000,False,False,False,2,190
+"### || 1 ( العين بعدها القاف )
+",000,False,000,False,False,False,2,517
+"### || 1 ( العين بعدها الكاف )
+",000,False,000,False,False,False,2,63
+"### || 1 ( العين بعدها اللام )
+",000,False,000,False,False,False,2,894
+"### || 1 ( العين بعدها الميم )
+",000,False,000,False,False,False,2,4060
+"### || 1 ( العين بعدها النون )
+",000,False,000,False,False,False,2,149
+"### || 1 ( العين بعدها الواو )
+",000,False,000,False,False,False,2,552
+"### | القسم الرابع فيمن ذكر منهم غلطا وبيانه
+",000,False,000,False,False,False,1,26818
+"### || 1 ( العين بعدها الألف )
+",000,False,000,False,False,False,2,1626
+"### || 1 ( العين بعدها الباء )
+",000,False,000,False,False,False,2,15406
+"### || 1 ( العين بعدها التاء )
+",000,False,000,False,False,False,2,741
+"### || 1 ( العين بعدها الثاء )
+",000,False,000,False,False,False,2,832
+"### || 1 ( العين بعدها الجيم )
+",000,False,000,False,False,False,2,67
+"### || 1 ( العين بعدها الدال )
+",000,False,000,False,False,False,2,830
+"### || 1 ( العين بعدها الراء )
+",000,False,000,False,False,False,2,469
+"### || 1 ( العين بعدها السين )
+",000,False,000,False,False,False,2,39
+"### || 1 ( العين بعدها الصاد )
+",000,False,000,False,False,False,2,63
+"### || 1 ( العين بعدها الطاء )
+",000,False,000,False,False,False,2,365
+"### || 1 ( العين بعدها الفاء )
+",000,False,000,False,False,False,2,94
+"### || 1 ( العين بعدها القاف )
+",000,False,000,False,False,False,2,287
+"### || 1 ( العين بعدها اللام )
+",000,False,000,False,False,False,2,519
+"### || 1 ( العين بعدها الميم )
+",000,False,000,False,False,False,2,5257
+"### || 1 ( العين بعدها النون )
+",000,False,000,False,False,False,2,143
+"### || 1 ( العين بعدها الواو )
+",000,False,000,False,False,False,2,125
+"### | 1 ( حرف الغين المعجمة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,4523
+"### || 1 ( الغين بعدها الألف )
+",000,False,000,False,False,False,2,834
+"### || 1 ( الغين بعدها الراء )
+",000,False,000,False,False,False,2,276
+"### || 1 ( الغين بعدها الزاي )
+",000,False,000,False,False,False,2,365
+"### || 1 ( الغين بعدها السين )
+",000,False,000,False,False,False,2,176
+"### || 1 ( الغين بعدها الضاد والطاء )
+",000,False,000,False,False,False,2,698
+"### || 1 ( الغين بعدها النون )
+",000,False,000,False,False,False,2,340
+"### || 1 ( الغين بعدها الواو )
+",000,False,000,False,False,False,2,386
+"### | 1 ( القسم الثاني )
+",000,False,000,False,False,False,1,239
+"### | القسم الثالث
+",000,False,000,False,False,False,1,408
+"### || الغين بعدها الألف
+",000,False,000,False,False,False,2,177
+"### || 1 ( الغين بعدها الراء والزاي )
+",000,False,000,False,False,False,2,148
+"### || 1 ( الغين بعدها السين )
+",000,False,000,False,False,False,2,45
+"### | 1 ( القسم الرابع )
+",000,False,000,False,False,False,1,1294
+"### || 1 ( الغين بعدها الزاي )
+",000,False,000,False,False,False,2,253
+"### || 1 ( الغين بعدها الشين )
+",000,False,000,False,False,False,2,73
+"### || 1 ( الغين بعدها الضاد )
+",000,False,000,False,False,False,2,58
+"### || 1 ( الغين بعدها الطاء )
+",000,False,000,False,False,False,2,190
+"### || 1 ( الغين بعدها الميم والنون )
+",000,False,000,False,False,False,2,192
+"### || 1 ( الغين بعدها الميم )
+",000,False,000,False,False,False,2,156
+"### | 1 ( حرف الفاء )
+",000,False,000,False,False,False,1,6
+"### | القسم الأول
+",000,False,000,False,False,False,1,6093
+"### || 1 ( الفاء بعدها الألف )
+",000,False,000,False,False,False,2,625
+"### || 1 ( الفاء بعده التاء )
+",000,False,000,False,False,False,2,25
+"### || 1 ( الفاء بعدها الجيم )
+",000,False,000,False,False,False,2,199
+"### || 1 ( الفاء بعدها الدال )
+",000,False,000,False,False,False,2,441
+"### || 1 ( الفاء بعدها الراء )
+",000,False,000,False,False,False,2,2566
+"### || 1 ( الفاء بعدها الضاد )
+",000,False,000,False,False,False,2,1325
+"### || 1 ( الفاء بعدها اللام )
+",000,False,000,False,False,False,2,366
+"### | القسم الثاني 
+",000,False,000,False,False,False,1,16
+"### | الثالث الفاء بعدها الألف
+",000,False,000,False,False,False,1,1608
+"### || 1 ( الفاء بعدها الراء )
+",000,False,000,False,False,False,2,789
+"### || 1 ( الفاء بعدها الزاي )
+",000,False,000,False,False,False,2,558
+"### || 1 ( الفاء بعدها الهاء )
+",000,False,000,False,False,False,2,98
+"### | القسم الرابع 
+",000,False,000,False,False,False,1,1511
+"### || الفاء بعدها الألف
+",000,False,000,False,False,False,2,132
+"### || 1 ( الفاء بعدها التاء والراء )
+",000,False,000,False,False,False,2,944
+"### || 1 ( الفاء بعدها الضاد ر )
+",000,False,000,False,False,False,2,257
+"### || 1 ( الفاء بعدها اللام )
+",000,False,000,False,False,False,2,90
+"### | 1 ( حرف القاف )
+",000,False,000,False,False,False,1,6
+"### | القسم الأول
+",000,False,000,False,False,False,1,20731
+"### || 1 ( القاف بعدها الألف )
+",000,False,000,False,False,False,2,942
+"### || 1 ( القاف بعدها الباء )
+",000,False,000,False,False,False,2,1387
+"### || 1 ( القاف بعدها التاء )
+",000,False,000,False,False,False,2,1226
+"### || 1 ( القاف بعدها الثاء )
+",000,False,000,False,False,False,2,243
+"### || 1 ( القاف بعدها الدال )
+",000,False,000,False,False,False,2,1506
+"### || 1 ( القاف بعدها الراء )
+",000,False,000,False,False,False,2,2171
+"### || 1 ( القاف بعدها الزاي )
+",000,False,000,False,False,False,2,269
+"### || 1 ( القاف بعدها السين )
+",000,False,000,False,False,False,2,55
+"### || 1 ( القاف بعدها الشين )
+",000,False,000,False,False,False,2,129
+"### || 1 ( القاف بعدها الصاد )
+",000,False,000,False,False,False,2,285
+"### || 1 ( القاف بعدها الطاء )
+",000,False,000,False,False,False,2,1028
+"### || 1 ( القاف بعدها العين )
+",000,False,000,False,False,False,2,651
+"### || 1 ( القاف بعدها الفاء )
+",000,False,000,False,False,False,2,76
+"### || 1 ( القاف بعدها اللام )
+",000,False,000,False,False,False,2,110
+"### || 1 ( القاف بعدها الميم )
+",000,False,000,False,False,False,2,54
+"### || 1 ( القاف بعدها النون )
+",000,False,000,False,False,False,2,209
+"### || 1 ( القاف بعدها الهاء )
+",000,False,000,False,False,False,2,196
+"### || 1 ( القاف بعدها الواو )
+",000,False,000,False,False,False,2,76
+"### | القسم الثاني في ذكر من له رؤية
+",000,False,000,False,False,False,1,1122
+"### || 1 ( القاف بعدها الألف )
+",000,False,000,False,False,False,2,344
+"### || 1 ( القاف بعدها الباء )
+",000,False,000,False,False,False,2,266
+"### || 1 ( القاف بعدها الثاء )
+",000,False,000,False,False,False,2,57
+"### || 1 ( القاف بعدها الراء )
+",000,False,000,False,False,False,2,214
+"### | القسم الثالث القاف بعدها الألف ص
+",000,False,000,False,False,False,1,3427
+"### || 1 ( القاف بعدها الباء )
+",000,False,000,False,False,False,2,303
+"### || 1 ( القاف بعدها التاء )
+",000,False,000,False,False,False,2,105
+"### || 1 ( القاف بعدها الحاء )
+",000,False,000,False,False,False,2,113
+"### || 1 ( القاف بعدها الدال )
+",000,False,000,False,False,False,2,34
+"### || 1 ( القاف بعدها الراء )
+",000,False,000,False,False,False,2,249
+"### || 1 ( القاف بعدها السين )
+",000,False,000,False,False,False,2,145
+"### || 1 ( القاف بعدها الطاء )
+",000,False,000,False,False,False,2,140
+"### || 1 ( القاف بعدها اللام )
+",000,False,000,False,False,False,2,197
+"### | القسم الرابع فيمن ذكر غلطا مع بيانه
+",000,False,000,False,False,False,1,4278
+"### || 1 ( القاف بعدها الألف )
+",000,False,000,False,False,False,2,392
+"### || 1 ( القاف بعدها الباء )
+",000,False,000,False,False,False,2,483
+"### || 1 ( القاف بعدها التاء )
+",000,False,000,False,False,False,2,187
+"### || 1 ( القاف بعدها الدال )
+",000,False,000,False,False,False,2,115
+"### || 1 ( القاف بعدها الراء )
+",000,False,000,False,False,False,2,48
+"### || 1 ( القاف بعدها السين )
+",000,False,000,False,False,False,2,474
+"### || 1 ( القاف بعده الطاء )
+",000,False,000,False,False,False,2,50
+"### || 1 ( القاف بعدها العين )
+",000,False,000,False,False,False,2,247
+"### || 1 ( القاف بعدها النون )
+",000,False,000,False,False,False,2,116
+"### | 1 ( حرف الكاف )
+",000,False,000,False,False,False,1,6
+"### | القسم الأول
+",000,False,000,False,False,False,1,10946
+"### || 1 ( الكاف بعدها الباء )
+",000,False,000,False,False,False,2,138
+"### || 1 ( الكاف بعدها الثاء )
+",000,False,000,False,False,False,2,1007
+"### || 1 ( الكاف بعدها الدال )
+",000,False,000,False,False,False,2,325
+"### || 1 ( الكاف بعدها الراء )
+",000,False,000,False,False,False,2,2267
+"### || 1 ( الكاف بعدها السين )
+",000,False,000,False,False,False,2,130
+"### || 1 ( الكاف بعدها العين )
+",000,False,000,False,False,False,2,4368
+"### || 1 ( الكاف بعدها اللام )
+",000,False,000,False,False,False,2,1746
+"### || 1 ( الكاف بعدها النون )
+",000,False,000,False,False,False,2,86
+"### || 1 ( الكاف بعدها الهاء )
+",000,False,000,False,False,False,2,159
+"### || 1 ( الكاف بعدها الواو )
+",000,False,000,False,False,False,2,42
+"### | القسم الثاني من حرف الكاف فيمن له رؤية
+",000,False,000,False,False,False,1,4144
+"### || 1 ( الكاف بعدها الثاء )
+",000,False,000,False,False,False,2,529
+"### || 1 ( الكاف بعدها النون )
+",000,False,000,False,False,False,2,136
+"### || 1 ( الكاف بعدها الثاء )
+",000,False,000,False,False,False,2,359
+"### || 1 ( الكاف بعدها الراء )
+",000,False,000,False,False,False,2,763
+"### || 1 ( الكاف بعدها العين )
+",000,False,000,False,False,False,2,1489
+"### || 1 ( الكاف بعدها اللام والميم )
+",000,False,000,False,False,False,2,395
+"### || 1 ( الكاف بعدها النون والهاء والواو )
+",000,False,000,False,False,False,2,185
+"### | القسم الرابع الكاف بعدها الثاء
+",000,False,000,False,False,False,1,2070
+"### || 1 ( الكاف بعدها الراء )
+",000,False,000,False,False,False,2,457
+"### || 1 ( الكاف بعدها العين )
+",000,False,000,False,False,False,2,573
+"### || 1 ( الكاف بعدها اللام )
+",000,False,000,False,False,False,2,429
+"### | 1 ( حرف اللام )
+",000,False,000,False,False,False,1,6
+"### | القسم الأول
+",000,False,000,False,False,False,1,3520
+"### || 1 ( اللام بعدها الألف )
+",000,False,000,False,False,False,2,395
+"### || 1 ( اللام بعدها الباء )
+",000,False,000,False,False,False,2,1353
+"### || 1 ( اللام بعدها الجيم )
+",000,False,000,False,False,False,2,352
+"### || 1 ( اللام بعدها الحاء والصاد )
+",000,False,000,False,False,False,2,55
+"### || 1 ( اللام بعدها القاف )
+",000,False,000,False,False,False,2,862
+"### || 1 ( اللام بعدها الميم والهاء )
+",000,False,000,False,False,False,2,377
+"### | 1 ( القسم الثاني )
+",000,False,000,False,False,False,1,11
+"### | 1 ( القسم الثالث )
+",000,False,000,False,False,False,1,310
+"### | القسم الرابع 
+",000,False,000,False,False,False,1,339
+"### || اللام بعدها الباء
+",000,False,000,False,False,False,2,173
+"### | 1 ( حرف الميم )
+",000,False,000,False,False,False,1,6
+"### | القسم الأول
+",000,False,000,False,False,False,1,61341
+"### || 1 ( الميم بعدها الألف )
+",000,False,000,False,False,False,2,11863
+"### || 1 ( الميم بعدها الثاء )
+",000,False,000,False,False,False,2,432
+"### || 1 ( الميم بعدها الجيم )
+",000,False,000,False,False,False,2,1919
+"### || 1 ( الميم بعدها الحاء )
+",000,False,000,False,False,False,2,10473
+"### ||| 1 ( ذكر من اسمه محمد )
+",000,False,000,False,False,False,3,7737
+"### || 1 ( الميم بعدها الخاء )
+",000,False,000,False,False,False,2,2443
+"### || 1 ( الميم بعدها الدال )
+",000,False,000,False,False,False,2,836
+"### || 1 ( الميم بعدها الذال )
+",000,False,000,False,False,False,2,352
+"### || 1 ( الميم بعدها الراء )
+",000,False,000,False,False,False,2,3802
+"### || 1 ( الميم بعدها ا )
+",000,False,000,False,False,False,2,359
+"### || 1 ( الميم بعدها السين )
+",000,False,000,False,False,False,2,6629
+"### || 1 ( الميم بعدها الشين )
+",000,False,000,False,False,False,2,195
+"### || 1 ( الميم بعدها الصاد )
+",000,False,000,False,False,False,2,342
+"### || 1 ( الميم بعدها الضاد )
+",000,False,000,False,False,False,2,125
+"### || 1 ( الميم بعدها الطاء )
+",000,False,000,False,False,False,2,1643
+"### || 1 ( الميم بعدها الظاء )
+",000,False,000,False,False,False,2,11172
+"### ||| 1 ( ذكر من اسمه معاذ )
+",000,False,000,False,False,False,3,1827
+"### || 1 ( الميم بعدها الغين )
+",000,False,000,False,False,False,2,1416
+"### || 1 ( الميم بعدها القاف )
+",000,False,000,False,False,False,2,785
+"### || 1 ( الميم بعدها الكاف )
+",000,False,000,False,False,False,2,618
+"### || 1 ( الميم بعدها اللام )
+",000,False,000,False,False,False,2,63
+"### || 1 ( الميم بعدها النون )
+",000,False,000,False,False,False,2,3351
+"### || 1 ( الميم بعدها الهاء )
+",000,False,000,False,False,False,2,1195
+"### || 1 ( الميم بعدها الواو )
+",000,False,000,False,False,False,2,475
+"### | القسم الثاني من له رؤية
+",000,False,000,False,False,False,1,4619
+"### || 1 ( الميم بعدها الحاء )
+",000,False,000,False,False,False,2,2518
+"### || 1 ( الميم بعدها الخاء )
+",000,False,000,False,False,False,2,113
+"### || 1 ( الميم بعدها الراء )
+",000,False,000,False,False,False,2,469
+"### || 1 ( الميم بعدها السين )
+",000,False,000,False,False,False,2,225
+"### || 1 ( الميم بعدها الطاء )
+",000,False,000,False,False,False,2,362
+"### || 1 ( الميم بعدها العين )
+",000,False,000,False,False,False,2,242
+"### || 1 ( الميم بعدها الغين )
+",000,False,000,False,False,False,2,60
+"### || 1 ( الميم بعدها النون )
+",000,False,000,False,False,False,2,222
+"### | القسم الثالث من
+",000,False,000,False,False,False,1,9425
+"### || 1 ( الميم بعدها الألف )
+",000,False,000,False,False,False,2,1558
+"### || 1 ( الميم بعدها الثاء )
+",000,False,000,False,False,False,2,56
+"### || 1 ( الميم بعدها الجيم )
+",000,False,000,False,False,False,2,77
+"### || 1 ( الميم بعدها الحاء )
+",000,False,000,False,False,False,2,619
+"### || 1 ( الميم بعدها الخاء )
+",000,False,000,False,False,False,2,286
+"### || 1 ( الميم بعدها الدال )
+",000,False,000,False,False,False,2,1164
+"### || 1 ( الميم بعدها الزاي والسين )
+",000,False,000,False,False,False,2,1862
+"### || 1 ( الميم بعدها الشين )
+",000,False,000,False,False,False,2,133
+"### || 1 ( الميم بعدها الضاد )
+",000,False,000,False,False,False,2,75
+"### || 1 ( الميم بعدها الطاء )
+",000,False,000,False,False,False,2,1739
+"### || 1 ( الميم بعدها العين )
+",000,False,000,False,False,False,2,179
+"### || 1 ( الميم بعدها القاف والكاف )
+",000,False,000,False,False,False,2,111
+"### || 1 ( الميم بعدها اللام )
+",000,False,000,False,False,False,2,197
+"### || 1 ( الميم بعدها النون )
+",000,False,000,False,False,False,2,829
+"### || 1 ( الميم بعدها الهاء )
+",000,False,000,False,False,False,2,74
+"### | القسم الرابع فيمن ذكر في الصحابة
+",000,False,000,False,False,False,1,14461
+"### || 1 ( الميم بعدها الألف )
+",000,False,000,False,False,False,2,1032
+"### || 1 ( الميم بعدها الباء )
+",000,False,000,False,False,False,2,31
+"### || 1 ( الميم بعدها الجيم )
+",000,False,000,False,False,False,2,31
+"### || 1 ( الميم بعدها الحاء )
+",000,False,000,False,False,False,2,5050
+"### || 1 ( الميم بعدها الخاء )
+",000,False,000,False,False,False,2,898
+"### || 1 ( * - * الميم بعدها الدال )
+",000,False,000,False,False,False,2,100
+"### || 1 ( الميم بعدها الذال والراء )
+",000,False,000,False,False,False,2,504
+"### || 1 ( الميم بعدها السين )
+",000,False,000,False,False,False,2,642
+"### || 1 ( الميم بعدها الصاد )
+",000,False,000,False,False,False,2,162
+"### || 1 ( الميم بعدها الضاد )
+",000,False,000,False,False,False,2,46
+"### || 1 ( الميم بعدها العين )
+",000,False,000,False,False,False,2,1881
+"### || 1 ( الميم بعدها الغين )
+",000,False,000,False,False,False,2,407
+"### || 1 ( الميم بعدها الفاء )
+",000,False,000,False,False,False,2,80
+"### || 1 ( الميم بعدها القاف )
+",000,False,000,False,False,False,2,1454
+"### || 1 ( الميم بعدها الكاف )
+",000,False,000,False,False,False,2,221
+"### || 1 ( الميم بعدها اللام )
+",000,False,000,False,False,False,2,401
+"### || 1 ( الميم بعدها النون )
+",000,False,000,False,False,False,2,368
+"### || 1 ( الميم بعدها الهاء )
+",000,False,000,False,False,False,2,812
+"### || 1 ( الميم بعدها الواو )
+",000,False,000,False,False,False,2,134
+"### | 1 ( حرف النون )
+",000,False,000,False,False,False,1,6
+"### | القسم الأول
+",000,False,000,False,False,False,1,18306
+"### || 1 ( النون بعدها الألف )
+",000,False,000,False,False,False,2,5103
+"### || 1 ( النون بعدها الباء )
+",000,False,000,False,False,False,2,1539
+"### || 1 ( النون بعدها الجيم )
+",000,False,000,False,False,False,2,133
+"### || 1 ( النون بعدها الحاء والذال )
+",000,False,000,False,False,False,2,105
+"### || 1 ( النون بعدها الزاء )
+",000,False,000,False,False,False,2,71
+"### || 1 ( النون بعدها السين )
+",000,False,000,False,False,False,2,342
+"### || 1 ( النون بعدها الشين والصاد )
+",000,False,000,False,False,False,2,384
+"### || 1 ( النون بعدها الضاد )
+",000,False,000,False,False,False,2,1562
+"### || 1 ( النون بعدها الظاء )
+",000,False,000,False,False,False,2,89
+"### || 1 ( النون بعدها العين )
+",000,False,000,False,False,False,2,5643
+"### || 1 ( النون بعدها الفاء )
+",000,False,000,False,False,False,2,414
+"### || 1 ( النون بعدها القاف )
+",000,False,000,False,False,False,2,153
+"### || 1 ( النون بعدها الكاف )
+",000,False,000,False,False,False,2,35
+"### || 1 ( النون بعدها الميم )
+",000,False,000,False,False,False,2,961
+"### || 1 ( النون بعدها الهاء )
+",000,False,000,False,False,False,2,606
+"### || 1 ( النون بعدها الواو ms2653 )
+",000,False,000,False,False,False,2,1046
+"### | القسم الثاني بعدها الراء
+",000,False,000,False,False,False,1,532
+"### || 1 ( النون بعدها الصاد )
+",000,False,000,False,False,False,2,287
+"### || 1 ( النون بعدها الضاد )
+",000,False,000,False,False,False,2,197
+"### | القسم الثالث في المخضرمين
+",000,False,000,False,False,False,1,2621
+"### || 1 ( بعدها الألف )
+",000,False,000,False,False,False,2,1606
+"### || 1 ( النون بعدها الضاد )
+",000,False,000,False,False,False,2,716
+"### || 1 ( النون بعدها الفاء والميم )
+",000,False,000,False,False,False,2,43
+"### || 1 ( النون بعدها الهاء )
+",000,False,000,False,False,False,2,114
+"### | القسم الرابع
+",000,False,000,False,False,False,1,2274
+"### || بعدها الألف
+",000,False,000,False,False,False,2,554
+"### || 1 ( النون بعدها الباء )
+",000,False,000,False,False,False,2,43
+"### || 1 ( النون بعدها الجيم )
+",000,False,000,False,False,False,2,95
+"### || 1 ( النون بعدها السين )
+",000,False,000,False,False,False,2,288
+"### || 1 ( النون بعدها الصاد )
+",000,False,000,False,False,False,2,82
+"### || 1 ( النون بعدها الضاد والعين )
+",000,False,000,False,False,False,2,490
+"### || 1 ( النون بعدها الفاء والقاف )
+",000,False,000,False,False,False,2,57
+"### || 1 ( النون بعدها الميم )
+",000,False,000,False,False,False,2,504
+"### || 1 ( النون بعدها الهاء )
+",000,False,000,False,False,False,2,78
+"### | 1 ( حرف الهاء )
+",000,False,000,False,False,False,1,6
+"### |  الأول
+",000,False,000,False,False,False,1,10323
+"### || 1 ( الهاء بعدها الألف )
+",000,False,000,False,False,False,2,1978
+"### || 1 ( الهاء بعدها الباء )
+",000,False,000,False,False,False,2,1309
+"### || 1 ( الهاء بعدها الدال )
+",000,False,000,False,False,False,2,283
+"### || 1 ( الهاء بعدها الراء )
+",000,False,000,False,False,False,2,648
+"### || 1 ( الهاء بعدها الزاي )
+",000,False,000,False,False,False,2,205
+"### || 1 ( الهاء بعدها الشين )
+",000,False,000,False,False,False,2,1926
+"### || 1 ( الهاء بعدها اللام )
+",000,False,000,False,False,False,2,1264
+"### || 1 ( الهاء بعدها الميم )
+",000,False,000,False,False,False,2,601
+"### || 1 ( الهاء بعدها النون )
+",000,False,000,False,False,False,2,929
+"### || 1 ( الهاء بعدها الواو )
+",000,False,000,False,False,False,2,371
+"### | القسم الثاني
+",000,False,000,False,False,False,1,190
+"### || بعدها الراء
+",000,False,000,False,False,False,2,106
+"### | القسم الثالث
+",000,False,000,False,False,False,1,2197
+"### || بعدها الألف
+",000,False,000,False,False,False,2,272
+"### || 1 ( الهاء بعدها الباء )
+",000,False,000,False,False,False,2,233
+"### || 1 ( الهاء بعدها الجيم )
+",000,False,000,False,False,False,2,45
+"### || 1 ( الهاء بعدها الدال )
+",000,False,000,False,False,False,2,50
+"### || 1 ( الهاء بعدها الراء )
+",000,False,000,False,False,False,2,860
+"### || 1 ( الهاء بعدها اللام )
+",000,False,000,False,False,False,2,70
+"### || 1 ( الهاء بعدها الميم )
+",000,False,000,False,False,False,2,220
+"### || 1 ( الهاء بعدها الواو )
+",000,False,000,False,False,False,2,235
+"### | القسم الرابع
+",000,False,000,False,False,False,1,1592
+"### || بعدها الألف
+",000,False,000,False,False,False,2,33
+"### || 1 ( الهاء بعدها الجيم )
+",000,False,000,False,False,False,2,236
+"### || 1 ( الهاء بعدها الدال )
+",000,False,000,False,False,False,2,82
+"### || 1 ( الهاء بعدها الراء )
+",000,False,000,False,False,False,2,110
+"### || 1 ( الهاء بعدها ms2722 الزاي )
+",000,False,000,False,False,False,2,306
+"### || 1 ( الهاء بعدها اللام )
+",000,False,000,False,False,False,2,385
+"### || 1 ( الهاء بعدها الميم )
+",000,False,000,False,False,False,2,63
+"### || 1 ( الهاء بعدها النون )
+",000,False,000,False,False,False,2,103
+"### || 1 ( الهاء بعدها الواو )
+",000,False,000,False,False,False,2,203
+"### | 1 ( حرف الواو )
+",000,False,000,False,False,False,1,6
+"### | الأول
+",000,False,000,False,False,False,1,8019
+"### || 1 ( الواو بعدها الألف )
+",000,False,000,False,False,False,2,1709
+"### || 1 ( الواو بعدها الباء )
+",000,False,000,False,False,False,2,685
+"### || 1 ( الواو بعدها الدال )
+",000,False,000,False,False,False,2,275
+"### || 1 ( الواو بعدها الراء )
+",000,False,000,False,False,False,2,1422
+"### || 1 ( الواو بعدها الزاي )
+",000,False,000,False,False,False,2,128
+"### || 1 ( الواو بعدها العين )
+",000,False,000,False,False,False,2,77
+"### || 1 ( الواو بعدها الفاء )
+",000,False,000,False,False,False,2,49
+"### || 1 ( الواو بعدها القاف )
+",000,False,000,False,False,False,2,93
+"### || 1 ( الواو بعدها الكاف )
+",000,False,000,False,False,False,2,212
+"### || 1 ( الواو بعدها اللام )
+",000,False,000,False,False,False,2,1832
+"### | القسم الثاني
+",000,False,000,False,False,False,1,253
+"### | القسم الثالث بعدها الراء
+",000,False,000,False,False,False,1,380
+"### || 1 ( الواو بعدها العين )
+",000,False,000,False,False,False,2,104
+"### | القسم الرابع
+",000,False,000,False,False,False,1,582
+"### || بعدها الألف
+",000,False,000,False,False,False,2,229
+"### || 1 ( الواو بعدها الراء )
+",000,False,000,False,False,False,2,54
+"### || 1 ( الواو بعدها السين واللام )
+",000,False,000,False,False,False,2,204
+"### | 1 ( حرف الياء آخر الحروف )
+",000,False,000,False,False,False,1,10406
+"### || 1 ( الياء بعدها الألف )
+",000,False,000,False,False,False,2,656
+"### || 1 ( الياء بعدها الثاء )
+",000,False,000,False,False,False,2,62
+"### || 1 ( الياء بعدها الحاء )
+",000,False,000,False,False,False,2,653
+"### || 1 ( الياء بعدها الراء )
+",000,False,000,False,False,False,2,64
+"### || 1 ( الياء بعدها الزاي )
+",000,False,000,False,False,False,2,6220
+"### || 1 ( الياء بعدها السين )
+",000,False,000,False,False,False,2,1166
+"### || 1 ( الياء بعدها العين )
+",000,False,000,False,False,False,2,1051
+"### || 1 ( الياء بعدها الغين )
+",000,False,000,False,False,False,2,40
+"### || 1 ( الياء بعدها الميم والنون )
+",000,False,000,False,False,False,2,266
+"### | القسم الثاني
+",000,False,000,False,False,False,1,402
+"### || بعدها الحاء
+",000,False,000,False,False,False,2,118
+"### || 1 ( الياء بعدها الزاي )
+",000,False,000,False,False,False,2,206
+"### | القسم الثالث
+",000,False,000,False,False,False,1,2627
+"### || بعدها الحاء
+",000,False,000,False,False,False,2,45
+"### || 1 ( الياء بعدها الراء )
+",000,False,000,False,False,False,2,215
+"### || 1 ( الياء بعدها الزاي )
+",000,False,000,False,False,False,2,1788
+"### || 1 ( الياء بعدها السين )
+",000,False,000,False,False,False,2,230
+"### || 1 ( الياء بعدها العين )
+",000,False,000,False,False,False,2,153
+"### | القسم الرابع ذكر في كتب الصحابة غلطا
+",000,False,000,False,False,False,1,3359
+"### || 1 ( الياء بعدها الحاء )
+",000,False,000,False,False,False,2,483
+"### || 1 ( الياء بعدها الزاي )
+",000,False,000,False,False,False,2,1526
+"### || 1 ( الياء بعدها السين )
+",000,False,000,False,False,False,2,382
+"### || 1 ( الياء بعدها العين )
+",000,False,000,False,False,False,2,587
+"### || 1 ( الياء بعدها الواو )
+",000,False,000,False,False,False,2,395
+"### || 1 ( باب الكنى )
+",000,False,000,False,False,False,2,6
+"### | حرف الهمزة
+",000,False,000,False,False,False,1,4
+"### | القسم الأول
+",000,False,000,False,False,False,1,6131
+"### | 1 ( حرف الباء الموحدة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,3437
+"### | 1 ( حرف التاء المثناة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,415
+"### | القسم الثاني خال القسم الثالث
+",000,False,000,False,False,False,1,68
+"### | 1 ( حرف الثاء المثلثة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,1545
+"### | القسم الثاني خال القسم الثالث
+",000,False,000,False,False,False,1,86
+"### | القسم الرابع
+",000,False,000,False,False,False,1,84
+"### | 1 ( حرف الجيم )
+",000,False,000,False,False,False,1,6
+"### | القسم الأول
+",000,False,000,False,False,False,1,2523
+"### | القسم الثاني
+",000,False,000,False,False,False,1,642
+"### | القسم الرابع
+",000,False,000,False,False,False,1,582
+"### | 1 ( حرف الحاء المهملة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,3502
+"### | القسم الثاني خال القسم الثالث
+",000,False,000,False,False,False,1,1137
+"### || 1 ( * - * حرف الخاء المعجمة )
+",000,False,000,False,False,False,2,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,1901
+"### | القسم الثاني خال القسم الثالث
+",000,False,000,False,False,False,1,364
+"### | القسم الرابع
+",000,False,000,False,False,False,1,766
+"### || 1 ( * - * حرف الدال المهملة )
+",000,False,000,False,False,False,2,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,1007
+"### | القسم الثاني
+",000,False,000,False,False,False,1,12
+"### | القسم الثالث
+",000,False,000,False,False,False,1,117
+"### | القسم الرابع
+",000,False,000,False,False,False,1,120
+"### | 1 ( حرف الذال المعجمة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,1499
+"### | القسم الثاني خال القسم الثالث
+",000,False,000,False,False,False,1,561
+"### | القسم الرابع خال PageV07P133
+",000,False,000,False,False,False,1,8
+"### | حرف الراء
+",000,False,000,False,False,False,1,4
+"### | القسم الأول
+",000,False,000,False,False,False,1,3048
+"### | القسم الثاني خال القسم الثالث
+",000,False,000,False,False,False,1,395
+"### | القسم الرابع
+",000,False,000,False,False,False,1,480
+"### | 1 ( حرف الزاي المنقوطة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,1931
+"### | القسم الثاني
+",000,False,000,False,False,False,1,24
+"### | القسم الثالث
+",000,False,000,False,False,False,1,604
+"### | القسم الرابع
+",000,False,000,False,False,False,1,246
+"### | 1 ( حرف السين المهملة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,6599
+"### | القسم الثاني
+",000,False,000,False,False,False,1,760
+"### | 1 ( حرف الشين المعجمة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,2855
+"### | 1 ( حرف الصاد المهملة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,1266
+"### | القسم الثاني خال القسم الثالث
+",000,False,000,False,False,False,1,285
+"### | 1 ( حرف الضاد المعجمة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,401
+"### | القسم الثاني خال وكذا القسم الثالث القسم الرابع
+",000,False,000,False,False,False,1,448
+"### | 1 ( حرف الطاء المهملة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,949
+"### | القسم الثاني 
+",000,False,000,False,False,False,1,14
+"### | القسم الثالث
+",000,False,000,False,False,False,1,2231
+"### | 1 ( حرف الظاء المشالة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,326
+"### | القسم الثاني خال القسم الثالث
+",000,False,000,False,False,False,1,226
+"### | القسم الرابع خال PageV07P247
+",000,False,000,False,False,False,1,8
+"### | 1 ( حرف العين المهملة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,13272
+"### | 1 ( حرف الغين المعجمة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,1410
+"### | القسم الثاني خال وكذا القسم الثالث القسم الرابع
+",000,False,000,False,False,False,1,37
+"### | 1 ( حرف الفاء )
+",000,False,000,False,False,False,1,6
+"### | القسم الأول
+",000,False,000,False,False,False,1,1127
+"### | القسم الثاني
+",000,False,000,False,False,False,1,14
+"### | القسم الثالث
+",000,False,000,False,False,False,1,232
+"### | القسم الرابع
+",000,False,000,False,False,False,1,194
+"### | 1 ( حرف القاف )
+",000,False,000,False,False,False,1,6
+"### | القسم الأول
+",000,False,000,False,False,False,1,2638
+"### | القسم الثاني
+",000,False,000,False,False,False,1,35
+"### | القسم الثالث
+",000,False,000,False,False,False,1,95
+"### | القسم الرابع
+",000,False,000,False,False,False,1,79
+"### | 1 ( حرف الكاف )
+",000,False,000,False,False,False,1,6
+"### | القسم الأول
+",000,False,000,False,False,False,1,1737
+"### | 1 ( حرف اللام )
+",000,False,000,False,False,False,1,6
+"### | القسم الأول
+",000,False,000,False,False,False,1,1189
+"### | القسم الثاني خال القسم الثالث
+",000,False,000,False,False,False,1,43
+"### | القسم الرابع
+",000,False,000,False,False,False,1,108
+"### | 1 ( حرف الميم )
+",000,False,000,False,False,False,1,6
+"### | القسم الأول
+",000,False,000,False,False,False,1,7648
+"### | القسم الثاني
+",000,False,000,False,False,False,1,2829
+"### | 1 ( حرف النون )
+",000,False,000,False,False,False,1,6
+"### | القسم الأول
+",000,False,000,False,False,False,1,1899
+"### | القسم الثاني 
+",000,False,000,False,False,False,1,14
+"### | القسم الثالث
+",000,False,000,False,False,False,1,93
+"### | القسم الرابع
+",000,False,000,False,False,False,1,421
+"### || 1 ( * - * حرف الهاء )
+",000,False,000,False,False,False,2,6
+"### | القسم الأول
+",000,False,000,False,False,False,1,6597
+"### | القسم الثاني
+",000,False,000,False,False,False,1,414
+"### | 1 ( حرف الواو )
+",000,False,000,False,False,False,1,6
+"### | القسم الأول
+",000,False,000,False,False,False,1,1560
+"### | القسم الثاني
+",000,False,000,False,False,False,1,177
+"### | القسم الرابع
+",000,False,000,False,False,False,1,192
+"### | 1 ( حرف الياء آخر الحروف )
+",000,False,000,False,False,False,1,10
+"### | القسم الأول
+",000,False,000,False,False,False,1,1102
+"### | القسم الثاني
+",000,False,000,False,False,False,1,10270
+"### | القسم الثاني
+",000,False,000,False,False,False,1,207
+"### | القسم الثالث
+",000,False,000,False,False,False,1,161
+"### | القسم الرابع
+",000,False,000,False,False,False,1,724
+"### | 1 ( حرف الباء الموحدة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,2674
+"### | 1 ( حرف التاء المثناة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,822
+"### | 1 ( حرف الثاء المثلثة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,460
+"### | القسم الثاني
+",000,False,000,False,False,False,1,183
+"### | القسم الثالث خال وكذا القسم الرابع PageV07P550
+",000,False,000,False,False,False,1,14
+"### | 1 ( حرف الجيم )
+",000,False,000,False,False,False,1,6
+"### | القسم الأول
+",000,False,000,False,False,False,1,3531
+"### | القسم الثاني
+",000,False,000,False,False,False,1,240
+"### | القسم الثالث
+",000,False,000,False,False,False,1,171
+"### | القسم الرابع
+",000,False,000,False,False,False,1,499
+"### | 1 ( حرف الحاء المهملة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,4760
+"### | القسم الثاني خال القسم الثالث
+",000,False,000,False,False,False,1,82
+"### | القسم الرابع
+",000,False,000,False,False,False,1,280
+"### | 1 ( حرف الخاء المعجمة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,7335
+"### | القسم الثاني
+",000,False,000,False,False,False,1,37
+"### | القسم الثالث
+",000,False,000,False,False,False,1,57
+"### | القسم القسم الرابع
+",000,False,000,False,False,False,1,78
+"### | 1 ( حرف الدال المهملة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,754
+"### | القسم الثاني خال وكذا القسم الثالث القسم الرابع
+",000,False,000,False,False,False,1,94
+"### | 1 ( حرف الذال المعجمة )
+",000,False,000,False,False,False,1,71
+"### | القسم الثاني خال وكذا القسم الثالث والقسم الرابع
+",000,False,000,False,False,False,1,8
+"### | 1 ( حرف الراء )
+",000,False,000,False,False,False,1,6
+"### | القسم الأول
+",000,False,000,False,False,False,1,5155
+"### | القسم الثاني
+",000,False,000,False,False,False,1,15
+"### | القسم الثالث
+",000,False,000,False,False,False,1,157
+"### | القسم الرابع
+",000,False,000,False,False,False,1,43
+"### | 1 ( حرف الزاي المنقوطة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,859
+"### | القسم الثالث
+",000,False,000,False,False,False,1,3395
+"### | القسم الثاني
+",000,False,000,False,False,False,1,1334
+"### | 1 ( حرف السين المهملة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,7156
+"### | القسم الثاني خال القسم الثالث
+",000,False,000,False,False,False,1,187
+"### | القسم الرابع
+",000,False,000,False,False,False,1,169
+"### | 1 ( حرف الشين المعجمة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,1744
+"### | القسم الثاني خال وكذا القسم الثالث لم يذكر فيهما شيء القسم الرابع
+",000,False,000,False,False,False,1,237
+"### | 1 ( حرف الصاد المهملة )
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,2826
+"### | القسم الثاني
+",000,False,000,False,False,False,1,334
+"### | القسم الثالث
+",000,False,000,False,False,False,1,44
+"### | القسم الرابع
+",000,False,000,False,False,False,1,64
+"### | القسم الأول 
+",000,False,000,False,False,False,1,4
+"### | حرف الضاد المعجمة
+",000,False,000,False,False,False,1,968
+"### | 1 ( حرف الطاء المهملة )
+",000,False,000,False,False,False,1,157
+"### | 1 ( حرف الظاء المشالة )
+",000,False,000,False,False,False,1,309
+"### | القسم الثاني والقسم الثالث والقسم الرابع 
+",000,False,000,False,False,False,1,14
+"### | العين المهملة
+",000,False,000,False,False,False,1,4
+"### | 1 ( القسم الأول )
+",000,False,000,False,False,False,1,6831
+"### | 1 ( حرف الغين المعجمة )
+",000,False,000,False,False,False,1,333
+"### | القسم الثاني والثالث والرابع
+",000,False,000,False,False,False,1,12
+"### | الفاء 
+",000,False,000,False,False,False,1,2
+"### | القسم الأول
+",000,False,000,False,False,False,1,6486
+"### | القسم الثاني
+",000,False,000,False,False,False,1,52
+"### | القسم الثالث خال الرابع
+",000,False,000,False,False,False,1,165
+"### | 1 ( حرف القاف )
+",000,False,000,False,False,False,1,2288
+"### | القسم الرابع
+",000,False,000,False,False,False,1,89
+"### | 1 ( حرف الكاف )
+",000,False,000,False,False,False,1,1329
+"### | 1 ( حرف اللام )
+",000,False,000,False,False,False,1,6
+"### | الأول
+",000,False,000,False,False,False,1,2547
+"### | القسم الثاني خال الثالث
+",000,False,000,False,False,False,1,314
+"### | القسم الرابع
+",000,False,000,False,False,False,1,26
+"### | 1 ( حرف الميم )
+",000,False,000,False,False,False,1,6
+"### |  الأول
+",000,False,000,False,False,False,1,4913
+"### | القسم الثاني
+",000,False,000,False,False,False,1,54
+"### | القسم الثالث
+",000,False,000,False,False,False,1,320
+"### | القسم الرابع
+",000,False,000,False,False,False,1,134
+"### | 1 ( حرف النون )
+",000,False,000,False,False,False,1,6
+"### |  الأول
+",000,False,000,False,False,False,1,1725
+"### | القسم الثاني والقسم الثالث خاليان الرابع
+",000,False,000,False,False,False,1,36
+"### | 1 ( حرف الهاء )
+",000,False,000,False,False,False,1,6
+"### |  الأول
+",000,False,000,False,False,False,1,2773
+"### | القسم الثاني
+",000,False,000,False,False,False,1,64
+"### | القسم الثالث
+",000,False,000,False,False,False,1,243
+"### | القسم الرابع
+",000,False,000,False,False,False,1,111
+"### | 1 ( حرف الواو )
+",000,False,000,False,False,False,1,6
+"### | القسم الأول
+",000,False,000,False,False,False,1,150
+"### | القسم الثاني والقسم الثالث خاليان الرابع
+",000,False,000,False,False,False,1,28
+"### | 1 ( حرف الياء )
+",000,False,000,False,False,False,1,97
+"### | القسم الأول
+",000,False,000,False,False,False,1,2255
+"### | القسم الثاني
+",000,False,000,False,False,False,1,29
+"### | 1 ( حرف الياء الموحدة )
+",000,False,000,False,False,False,1,8
+"### |  الأول
+",000,False,000,False,False,False,1,566
+"### | القسم الثاني خال الثالث
+",000,False,000,False,False,False,1,48
+"### | 1 ( حرف التاء المثناة خال )
+",000,False,000,False,False,False,1,10
+"### |  الثاء المثلثة 
+",000,False,000,False,False,False,1,4
+"### | القسم الأول
+",000,False,000,False,False,False,1,287
+"### | 1 ( * - * حرف الجيم )
+",000,False,000,False,False,False,1,6
+"### | القسم الأول
+",000,False,000,False,False,False,1,680
+"### | القسم الثاني خال الثالث
+",000,False,000,False,False,False,1,42
+"### | القسم الرابع ms3473
+",000,False,000,False,False,False,1,27
+"### | 1 ( حرف الحاء المهملة )
+",000,False,000,False,False,False,1,8
+"### |  الأول
+",000,False,000,False,False,False,1,2995
+"### | القسم الثاني
+",000,False,000,False,False,False,1,141
+"### | القسم الثالث
+",000,False,000,False,False,False,1,67
+"### | القسم الرابع
+",000,False,000,False,False,False,1,43
+"### | 1 ( حرف الخاء المعجمة )
+",000,False,000,False,False,False,1,8
+"### | الأول
+",000,False,000,False,False,False,1,511
+"### | 1 ( حرف الدال المهملة )
+",000,False,000,False,False,False,1,109
+"### | 1 ( حرف الذال المعجمة )
+",000,False,000,False,False,False,1,237
+"### | 1 ( حرف الراء )
+",000,False,000,False,False,False,1,1887
+"### | 1 ( حرف الزاي المنقوطة )
+",000,False,000,False,False,False,1,840
+"### | 1 ( حرف السين المهملة )
+",000,False,000,False,False,False,1,4581
+"### | 1 ( حرف الشين المعجمة )
+",000,False,000,False,False,False,1,1597
+"### | القسم الثاني خال الثالث
+",000,False,000,False,False,False,1,69
+"### | القسم الرابع
+",000,False,000,False,False,False,1,82
+"### | 1 ( حرف الصاد المهملة )
+",000,False,000,False,False,False,1,8
+"### | الأول
+",000,False,000,False,False,False,1,173
+"### | 1 ( حرف الضاد المعجمة )
+",000,False,000,False,False,False,1,185
+"### | 1 ( حرف الطاء المهملة )
+",000,False,000,False,False,False,1,344
+"### | القسم الثاني
+",000,False,000,False,False,False,1,33
+"### | 1 ( حرف العين المهملة )
+",000,False,000,False,False,False,1,8
+"### |  الأول
+",000,False,000,False,False,False,1,5253
+"### | 1 ( حرف الغين المعجمة )
+",000,False,000,False,False,False,1,8
+"### | الأول
+",000,False,000,False,False,False,1,72
+"### | القسم الثاني خال الثالث
+",000,False,000,False,False,False,1,140
+"### | القسم الرابع خال الفاء 
+",000,False,000,False,False,False,1,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,868
+"### | القسم الثاني والثالث خاليان القسم الرابع
+",000,False,000,False,False,False,1,184
+"### | 1 ( حرف القاف )
+",000,False,000,False,False,False,1,6
+"### | القسم الأول
+",000,False,000,False,False,False,1,680
+"### | القسم الثاني خال الثالث
+",000,False,000,False,False,False,1,18
+"### | القسم الرابع
+",000,False,000,False,False,False,1,18
+"### | 1 ( حرف الكاف )
+",000,False,000,False,False,False,1,6
+"### |  الأول
+",000,False,000,False,False,False,1,2467
+"### | القسم الثاني والثالث خاليان الرابع
+",000,False,000,False,False,False,1,726
+"### | 1 ( حرف اللام )
+",000,False,000,False,False,False,1,156
+"### | القسم الثاني والثالث وكذا الرابع خالية 
+",000,False,000,False,False,False,1,12
+"### | الميم 
+",000,False,000,False,False,False,1,2
+"### | القسم الأول
+",000,False,000,False,False,False,1,3386
+"### | القسم الثاني خال القسم الثالث
+",000,False,000,False,False,False,1,135
+"### | القسم الرابع
+",000,False,000,False,False,False,1,66
+"### | 1 ( حرف النون )
+",000,False,000,False,False,False,1,6
+"### |  الأول
+",000,False,000,False,False,False,1,1233
+"### | القسم الثاني والثالث خاليان القسم الرابع
+",000,False,000,False,False,False,1,32
+"### | 1 ( حرف الواو )
+",000,False,000,False,False,False,1,6
+"### | القسم الأول
+",000,False,000,False,False,False,1,490
+"### || 1 ( ح رف الياء )
+",000,False,000,False,False,False,2,8
+"### | القسم الأول
+",000,False,000,False,False,False,1,293
+"### | القسم الثاني والثالث خاليان القسم الرابع
+",000,False,000,False,False,False,1,63

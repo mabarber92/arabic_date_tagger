@@ -1,0 +1,363 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | المجلد الأول
+",000,False,000,False,False,False,1,4
+"### | مقدمة
+",000,False,000,False,False,False,1,605
+"### | 1- 
+",000,False,000,False,False,False,1,9
+"### | 2- 
+",000,False,000,False,False,False,1,9
+"### | 3- 
+",000,False,000,False,False,False,1,17
+"### | 1- 
+",000,False,000,False,False,False,1,7
+"### | 2- 
+",000,False,000,False,False,False,1,29
+"### | 1- 
+",000,False,000,False,False,False,1,5
+"### | 2- 
+",000,False,000,False,False,False,1,5
+"### | 3- 
+",000,False,000,False,False,False,1,5
+"### | 4- 
+",000,False,000,False,False,False,1,9
+"### | 5- 
+",000,False,000,False,False,False,1,18
+"### | 1- 
+",000,False,000,False,False,False,1,13
+"### | 2- 
+",000,False,000,False,False,False,1,79
+"### | 1- 
+",000,False,000,False,False,False,1,13
+"### | 2- 
+",000,False,000,False,False,False,1,40
+"### | 3- 
+",000,False,000,False,False,False,1,38
+"### | 4- 
+",000,False,000,False,False,False,1,15
+"### | 5- 
+",000,False,000,False,False,False,1,45
+"### | 6- 
+",000,False,000,False,False,False,1,15
+"### | 7- 
+",000,False,000,False,False,False,1,23
+"### | 8- 
+",000,False,000,False,False,False,1,589
+"### | 9- 
+",000,False,000,False,False,False,1,16
+"### | 10- 
+",000,False,000,False,False,False,1,23
+"### | 11- 
+",000,False,000,False,False,False,1,16
+"### | 12- 
+",000,False,000,False,False,False,1,12
+"### | 13- 
+",000,False,000,False,False,False,1,117
+"### | 14- 
+",000,False,000,False,False,False,1,55
+"### | 15- 
+",000,False,000,False,False,False,1,49
+"### | 16- 
+",000,False,000,False,False,False,1,14
+"### | 17- 
+",000,False,000,False,False,False,1,32
+"### | 18- 
+",000,False,000,False,False,False,1,223
+"### | *
+",000,False,000,False,False,False,1,0
+"### | مقدمة تحقيق الكتاب
+",000,False,000,False,False,False,1,415
+"### | .............................................................................. 
+",000,False,000,False,False,False,1,64
+"### | ..................................................................... 
+",000,False,000,False,False,False,1,11
+"### | ..................................................... 
+",000,False,000,False,False,False,1,65
+"### | الباب الأول: التعريف بالمؤلف وعصره
+",000,False,000,False,False,False,1,10
+"### | الفصل ms009 الأول: عصر المؤلف
+",000,False,000,False,False,False,1,2166
+"### | 1- 
+",000,False,000,False,False,False,1,72
+"### | 2- 
+",000,False,000,False,False,False,1,33
+"### | 3- 
+",000,False,000,False,False,False,1,73
+"### | 4- 
+",000,False,000,False,False,False,1,29
+"### | 5- 
+",000,False,000,False,False,False,1,52
+"### | 1- 
+",000,False,000,False,False,False,1,39
+"### | 2- 
+",000,False,000,False,False,False,1,413
+"### | 1- 
+",000,False,000,False,False,False,1,157
+"### | 2- 
+",000,False,000,False,False,False,1,94
+"### | 3- 
+",000,False,000,False,False,False,1,648
+"### | ....................................................... 
+",000,False,000,False,False,False,1,184
+"### | الفصل الثاني: حياة المؤلف
+",000,False,000,False,False,False,1,429
+"### | 1- 
+",000,False,000,False,False,False,1,34
+"### | 2- 
+",000,False,000,False,False,False,1,120
+"### | 3- 
+",000,False,000,False,False,False,1,102
+"### | 4- 
+",000,False,000,False,False,False,1,70
+"### | 5- 
+",000,False,000,False,False,False,1,58
+"### | الفصل الثالث: عقيدته
+",000,False,000,False,False,False,1,1415
+"### | الباب الثاني: التعريف بالكتاب ونسخه
+",000,False,000,False,False,False,1,10
+"### | الفصل الأول: التعريف بالكتاب
+",000,False,000,False,False,False,1,742
+"### | 1- 
+",000,False,000,False,False,False,1,18
+"### | 2- 
+",000,False,000,False,False,False,1,15
+"### | 3- 
+",000,False,000,False,False,False,1,82
+"### | 4- 
+",000,False,000,False,False,False,1,24
+"### | 5- 
+",000,False,000,False,False,False,1,43
+"### | 6- 
+",000,False,000,False,False,False,1,15
+"### | 7- 
+",000,False,000,False,False,False,1,88
+"### | 1- 
+",000,False,000,False,False,False,1,12
+"### | 2- 
+",000,False,000,False,False,False,1,12
+"### | 3- 
+",000,False,000,False,False,False,1,188
+"### | ......... 
+",000,False,000,False,False,False,1,334
+"### | الفصل الثاني: التعريف بنسخ الكتاب
+",000,False,000,False,False,False,1,685
+"### | الفصل الثالث: الإضافة العلمية فيه
+",000,False,000,False,False,False,1,210
+"### | … 
+",000,False,000,False,False,False,1,4425
+"### | … 
+",000,False,000,False,False,False,1,7096
+"### | ............................ 
+",000,False,000,False,False,False,1,246
+"### | ........... 
+",000,False,000,False,False,False,1,74
+"### | كتاب التوحيد
+",000,False,000,False,False,False,1,119
+"### | .............................................................. 
+",000,False,000,False,False,False,1,7
+"### | .......................................... 
+",000,False,000,False,False,False,1,1242
+"### | باب فضل التوحيد وما يكفر من الذنوب
+",000,False,000,False,False,False,1,19
+"### | .................. 
+",000,False,000,False,False,False,1,3
+"### | ........................................................... 
+",000,False,000,False,False,False,1,38
+"### | ......................................... 
+",000,False,000,False,False,False,1,13
+"### | .......................................... 
+",000,False,000,False,False,False,1,22
+"### | ................................ 
+",000,False,000,False,False,False,1,30
+"### | ................................................................ 
+",000,False,000,False,False,False,1,55
+"### | ........................... 
+",000,False,000,False,False,False,1,116
+"### | ....... 
+",000,False,000,False,False,False,1,96
+"### | … 
+",000,False,000,False,False,False,1,16
+"### | باب من حقق التوحيد دخل الجنة
+",000,False,000,False,False,False,1,18
+"### | .......................... 
+",000,False,000,False,False,False,1,37
+"### | ........................... 
+",000,False,000,False,False,False,1,176
+"### | باب الخوف من الشرك
+",000,False,000,False,False,False,1,18
+"### | ............................................................ 
+",000,False,000,False,False,False,1,335
+"### | باب الدعاء إلى شهادة أن لا إله إلا الله
+",000,False,000,False,False,False,1,61
+"### | .... 
+",000,False,000,False,False,False,1,35
+"### | .............................. 
+",000,False,000,False,False,False,1,19
+"### | ........... 
+",000,False,000,False,False,False,1,15
+"### | .................... 
+",000,False,000,False,False,False,1,171
+"### | ..... 
+",000,False,000,False,False,False,1,121
+"### | ................................... 
+",000,False,000,False,False,False,1,32
+"### | ..... 
+",000,False,000,False,False,False,1,27
+"### | باب تفسير التوحيد وشهادة أن لا إله إلا الله
+",000,False,000,False,False,False,1,31
+"### | ............. 
+",000,False,000,False,False,False,1,42
+"### | ...... 
+",000,False,000,False,False,False,1,98
+"### | ......... 
+",000,False,000,False,False,False,1,3
+"### | ........................... 
+",000,False,000,False,False,False,1,11
+"### | ...................... 
+",000,False,000,False,False,False,1,46
+"### | باب من الشرك لبس الحلقة والخيط ونحوهما لرفع بلاء أو دفعه
+",000,False,000,False,False,False,1,228
+"### | باب ms091 ما جاء في الرقى والتمائم
+",000,False,000,False,False,False,1,310
+"### | .................. 
+",000,False,000,False,False,False,1,44
+"### | باب من تبرك بشجر أو حجر ونحوهما
+",000,False,000,False,False,False,1,219
+"### | ................................ 
+",000,False,000,False,False,False,1,187
+"### | باب ما جاء في الذبح لغير الله
+",000,False,000,False,False,False,1,19
+"### | .............. 
+",000,False,000,False,False,False,1,116
+"### | باب لا يذبح لله بمكان ms094 يذبح فيه لغير الله
+",000,False,000,False,False,False,1,27
+"### | ............................. 
+",000,False,000,False,False,False,1,347
+"### | باب من الشرك النذر لغير الله تعالى
+",000,False,000,False,False,False,1,11
+"### | ........................... 
+",000,False,000,False,False,False,1,194
+"### | ................... 
+",000,False,000,False,False,False,1,34
+"### | باب من الشرك الاستعاذة بغير الله
+",000,False,000,False,False,False,1,214
+"### | ................................... 
+",000,False,000,False,False,False,1,60
+"### | باب من الشرك أن يستغيث بغير ms097 الله تعالى أو يدعوه
+",000,False,000,False,False,False,1,151
+"### | باب قول الله تعالى {أيشركون ما لا يخلق شيئا وهم يخلقون 
+",000,False,000,False,False,False,1,236
+"### | ................................. 
+",000,False,000,False,False,False,1,440
+"### | باب قول الله تعالى {حتى إذا فزع عن قلوبهم قالوا ماذا قال ربكم قالوا الحق وهو العلي الكبير} .
+",000,False,000,False,False,False,1,339
+"### | باب الشفاعة
+",000,False,000,False,False,False,1,414
+"### | باب قول الله تعالى {إنك لا تهدي من أحببت ولكن الله يهدي من يشاء وهو أعلم بالمهتدين} .
+",000,False,000,False,False,False,1,271
+"### | باب ما جاء أن سبب كفر بني آدم هو الغلو في الصالحين
+",000,False,000,False,False,False,1,418
+"### | المجلد الثاني
+",000,False,000,False,False,False,1,4
+"### | باب ما جاء في التغليظ فيمن عبد الله عند قبر رجل صالح فكيف إذا عبده؟!
+",000,False,000,False,False,False,1,419
+"### | باب ما جاء أن الغلو في قبور الصالحين يصيرها أوثانا تعبد من دون الله
+",000,False,000,False,False,False,1,339
+"### | باب ما جاء في حماية المصطفى صلى الله عليه وسلم جناب التوحيدوسده كل طريق توصل إلى الشرك
+",000,False,000,False,False,False,1,306
+"### | باب ما جاء أن بعض هذه الأمة تعبد الأوثان
+",000,False,000,False,False,False,1,701
+"### | باب ما جاء في ms111 السحر
+",000,False,000,False,False,False,1,242
+"### | باب بيان شيء من أنواع السحر
+",000,False,000,False,False,False,1,433
+"### | باب ما جاء في الكهان ونحوهم
+",000,False,000,False,False,False,1,229
+"### | باب ما جاء في النشرة
+",000,False,000,False,False,False,1,318
+"### | باب ما جاء في التطير وغيره
+",000,False,000,False,False,False,1,598
+"### | باب ما جاء في التنجيم
+",000,False,000,False,False,False,1,358
+"### | باب ما جاء في الاستسقاء بالأنواء
+",000,False,000,False,False,False,1,404
+"### | باب قول الله تعالى: {ومن الناس من يتخذ من دون الله أندادا يحبونهم كحب الله} 
+",000,False,000,False,False,False,1,173
+"### | ..... 
+",000,False,000,False,False,False,1,414
+"### | باب قول الله تعالى: {إنما ذلكم الشيطان يخوف أولياءه فلا تخافوهم وخافون إن كنتم مؤمنين} .
+",000,False,000,False,False,False,1,153
+"### | باب قول الله تعالى: {وعلى الله فتوكلوا إن كنتم مؤمنين}
+",000,False,000,False,False,False,1,100
+"### | باب قول الله تعالى: {أفأمنوا مكر الله فلا يأمن مكر الله إلا القوم الخاسرون}
+",000,False,000,False,False,False,1,75
+"### | باب الإيمان بالله والصبر على قدر الله
+",000,False,000,False,False,False,1,470
+"### | باب ما جاء في الرياء
+",000,False,000,False,False,False,1,281
+"### | باب من الشرك إرادة الإنسان بعمله الدنيا
+",000,False,000,False,False,False,1,69
+"### | .... 
+",000,False,000,False,False,False,1,492
+"### | باب من أطاع العلماء والأمراء في تحريم ما أحل الله وتحليل ما حرم الله فقد اتخذهم أربابا
+",000,False,000,False,False,False,1,335
+"### | باب قول الله تعالى: {ألم تر إلى الذين يزعمون أنهم آمنوا بما أنزل إليك 
+",000,False,000,False,False,False,1,315
+"### | باب من جحد شيئا من الأسماء والصفات
+",000,False,000,False,False,False,1,623
+"### | باب قول الله تعالى: {يعرفون نعمت الله ثم ينكرونها وأكثرهم الكافرون}
+",000,False,000,False,False,False,1,205
+"### | باب قول الله تعالى: {فلا تجعلوا لله أندادا وأنتم تعلمون}
+",000,False,000,False,False,False,1,434
+"### | باب ما جاء فيمن لم يقنع [بالحلف] بالله تعالى
+",000,False,000,False,False,False,1,60
+"### | باب قول ما شاء الله وشئت
+",000,False,000,False,False,False,1,308
+"### | باب من سب الدهر فقد آذى الله
+",000,False,000,False,False,False,1,123
+"### | باب التسمي ب""قاضي القضاة"" ونحوه
+",000,False,000,False,False,False,1,162
+"### | باب احترام أسماء الله تعالى وتغيير الاسم لأجل ذلك
+",000,False,000,False,False,False,1,211
+"### | باب من هزل بشيء فيه ذكر الله تعالى أو القرآن أو الرسول
+",000,False,000,False,False,False,1,448
+"### | باب ما جاء في قول الله تعالى {ولئن أذقناه رحمة منا بعد ضراء مسته ليقولن هذا لي} الآية
+",000,False,000,False,False,False,1,543
+"### | باب قول الله تعالى: {فلما آتاهما صالحا جعلا له شركاء فيما آتاهما فتعالى الله عما يشركون}
+",000,False,000,False,False,False,1,590
+"### | باب قول الله ms143 تعالى: {ولله الأسماء الحسنى فادعوه بها}
+",000,False,000,False,False,False,1,351
+"### | باب لا يقال السلام على الله
+",000,False,000,False,False,False,1,98
+"### | باب قول: اللهم اغفر لي إن شئت
+",000,False,000,False,False,False,1,135
+"### | باب لا يقول عبدي وأمتي
+",000,False,000,False,False,False,1,703
+"### | باب لا يرد من سأل بالله تعالى
+",000,False,000,False,False,False,1,245
+"### | باب لا يسأل بوجه الله إلا الجنة
+",000,False,000,False,False,False,1,126
+"### | باب ما جاء في اللو
+",000,False,000,False,False,False,1,73
+"### | باب لا تسبوا الريح
+",000,False,000,False,False,False,1,325
+"### | باب قول الله تعالى: {يظنون بالله غير الحق ظن الجاهلية 
+",000,False,000,False,False,False,1,288
+"### | باب ما جاء في منكر القدر
+",000,False,000,False,False,False,1,361
+"### | باب ما جاء في المصورين
+",000,False,000,False,False,False,1,232
+"### | باب ما جاء في كثرة الحلف
+",000,False,000,False,False,False,1,438
+"### | باب ما جاء في ذمة الله تعالى وذمة رسوله صلى الله عليه وسلم
+",000,False,000,False,False,False,1,390
+"### | باب ما ms156 جاء في الإقسام على الله تعالى
+",000,False,000,False,False,False,1,528
+"### | باب لا يستشفع بالله تعالى على خلقه
+",000,False,000,False,False,False,1,306
+"### | باب ما جاء في حماية النبي صلى الله عليه وسلم حمى التوحيد وسد طرق الشرك
+",000,False,000,False,False,False,1,168
+"### | باب ما جاء في قول الله تعالى {وما قدروا الله حق قدره والأرض جميعا قبضته يوم القيامة} الآية
+",000,False,000,False,False,False,1,484
+"### | ..... 
+",000,False,000,False,False,False,1,1070

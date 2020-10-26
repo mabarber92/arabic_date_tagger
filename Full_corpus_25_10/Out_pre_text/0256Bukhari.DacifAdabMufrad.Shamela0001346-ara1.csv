@@ -1,0 +1,797 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | 1/7- 
+",000,False,000,False,False,False,1,44
+"### | 2 = باب جزاء الوالدين - 6
+",000,False,000,False,False,False,1,10
+"### | 2/12- 
+",000,False,000,False,False,False,1,60
+"### | 3= باب من بر والديه زاد الله في عمره - 11
+",000,False,000,False,False,False,1,18
+"### | 3/22- 
+",000,False,000,False,False,False,1,35
+"### | 4= باب عقوبة عقوق الوالدين - 15
+",000,False,000,False,False,False,1,10
+"### | 4/30- 
+",000,False,000,False,False,False,1,41
+"### | 5 = باب بر الوالدين بعد موتهما -19
+",000,False,000,False,False,False,1,14
+"### | 5/35- 
+",000,False,000,False,False,False,1,56
+"### | 6 = باب - ك البر والصلة والآداب، ح] . من كان يصله أبوه- 20
+",000,False,000,False,False,False,1,24
+"### | 6/40- 
+",000,False,000,False,False,False,1,55
+"### | 7 = باب لا تقطع من كان يصل أباك فيطفأ نورك - 21
+",000,False,000,False,False,False,1,22
+"### | 7/42- 
+",000,False,000,False,False,False,1,67
+"### | 8= باب الود يتوارث - 22
+",000,False,000,False,False,False,1,8
+"### | 8/43- 
+",000,False,000,False,False,False,1,28
+"### | 9 = باب هل يكني أباه؟ - 24
+",000,False,000,False,False,False,1,12
+"### | 9/45- 
+",000,False,000,False,False,False,1,17
+"### | 10= باب وجوب صلة الرحم - 25
+",000,False,000,False,False,False,1,10
+"### | 10/47- 
+",000,False,000,False,False,False,1,31
+"### | 11= باب صلة الرحم- 26
+",000,False,000,False,False,False,1,8
+"### | 11/51- 
+",000,False,000,False,False,False,1,97
+"### | 12= باب بر الأقرب فالأقرب- 30
+",000,False,000,False,False,False,1,10
+"### | 12/61- 
+",000,False,000,False,False,False,1,88
+"### | 13/62- 
+",000,False,000,False,False,False,1,27
+"### | 13= باب لا تنزل الرحمة على قوم فيهم قاطع رحم- 31
+",000,False,000,False,False,False,1,20
+"### | 14/63- 
+",000,False,000,False,False,False,1,27
+"### | 14= باب إثم قاطع الرحم- 32
+",000,False,000,False,False,False,1,10
+"### | 15/66- 
+",000,False,000,False,False,False,1,38
+"### | 15= باب هل يقول المولى: إني من فلان؟ - 39
+",000,False,000,False,False,False,1,16
+"### | 16/74- 
+",000,False,000,False,False,False,1,34
+"### | 16= باب فضل من عال ابنته المردودة- 43
+",000,False,000,False,False,False,1,14
+"### | 17/80- 
+",000,False,000,False,False,False,1,40
+"### | 18/81- 
+",000,False,000,False,False,False,1,15
+"### | 17= باب من كره أن يتمنى موت البنات- 44
+",000,False,000,False,False,False,1,16
+"### | 19/83- 
+",000,False,000,False,False,False,1,22
+"### | 18= باب أدب الوالد وبره لولده- 51
+",000,False,000,False,False,False,1,12
+"### | 20/92- 
+",000,False,000,False,False,False,1,12
+"### | 19= باب بر الأب لولده -52
+",000,False,000,False,False,False,1,10
+"### | 21/94- 
+",000,False,000,False,False,False,1,27
+"### | 20= باب الأدنى فالأدنى من الجيران- 59
+",000,False,000,False,False,False,1,12
+"### | 22/110- 
+",000,False,000,False,False,False,1,23
+"### | 21= باب لا يؤذي جاره- 66
+",000,False,000,False,False,False,1,10
+"### | 23/120- 
+",000,False,000,False,False,False,1,181
+"### | 22= باب شكاية الجار- 68
+",000,False,000,False,False,False,1,8
+"### | 24/126- 
+",000,False,000,False,False,False,1,89
+"### | 23= باب فضل من يعول يتيما من أبويه- 75
+",000,False,000,False,False,False,1,16
+"### | 25/134- 
+",000,False,000,False,False,False,1,40
+"### | 24= باب خير بيت بيت فيه يتيم يحسن إليه -76
+",000,False,000,False,False,False,1,18
+"### | 26/137- 
+",000,False,000,False,False,False,1,41
+"### | 25= باب كن لليتيم كالأب الرحيم- 77
+",000,False,000,False,False,False,1,12
+"### | 27/139- 
+",000,False,000,False,False,False,1,73
+"### | 26= باب فضل المرأة إذا تصبرت على ولدها ولم تتزوج -78
+",000,False,000,False,False,False,1,20
+"### | 28/141- 
+",000,False,000,False,False,False,1,24
+"### | 27= باب من مات له سقط- 81
+",000,False,000,False,False,False,1,12
+"### | 29/152- 
+",000,False,000,False,False,False,1,37
+"### | 28= باب حسن الملكة -82
+",000,False,000,False,False,False,1,8
+"### | 30/156- 
+",000,False,000,False,False,False,1,78
+"### | 29= باب سوء الملكة- 83
+",000,False,000,False,False,False,1,8
+"### | 31/160- 
+",000,False,000,False,False,False,1,16
+"### | 32/161- 
+",000,False,000,False,False,False,1,47
+"### | 30= باب إذا سرق العبد- 86
+",000,False,000,False,False,False,1,10
+"### | 33/165- 
+",000,False,000,False,False,False,1,39
+"### | 31= باب قصاص العبد- 94
+",000,False,000,False,False,False,1,8
+"### | 34/184- 
+",000,False,000,False,False,False,1,58
+"### | 32= باب هل يعين عبده؟ - 97
+",000,False,000,False,False,False,1,10
+"### | 35/190- 
+",000,False,000,False,False,False,1,28
+"### | 33= باب نفقة الرل على عبده وخادمه صدقة- 99
+",000,False,000,False,False,False,1,16
+"### | 36/196- 
+",000,False,000,False,False,False,1,34
+"### | 34= باب العبد راع- 104
+",000,False,000,False,False,False,1,8
+"### | 37/207- 
+",000,False,000,False,False,False,1,34
+"### | 35= باب أهل المعروف في الدنيا أهل المعروف في الآخرة - 114
+",000,False,000,False,False,False,1,20
+"### | 38/222- 
+",000,False,000,False,False,False,1,104
+"### | 36= باب الخروج إلى المبقلة وحمل الشيء على عاتقه إلى أهله بالزبيل - 118
+",000,False,000,False,False,False,1,24
+"### | 39/235- 
+",000,False,000,False,False,False,1,57
+"### | 37= باب الانبساط إلى الناس- 124
+",000,False,000,False,False,False,1,10
+"### | 40/249- 
+",000,False,000,False,False,False,1,70
+"### | 38= باب إثم من أشار على أخيه بغير رشد- 130
+",000,False,000,False,False,False,1,18
+"### | 41/259- 
+",000,False,000,False,False,False,1,28
+"### | 39= باب الألفة -132
+",000,False,000,False,False,False,1,6
+"### | 42/261- 
+",000,False,000,False,False,False,1,35
+"### | 43/263- 
+",000,False,000,False,False,False,1,14
+"### | 40= باب المزاح - 133
+",000,False,000,False,False,False,1,6
+"### | 44/267- 
+",000,False,000,False,False,False,1,35
+"### | 41= باب الشح- 137
+",000,False,000,False,False,False,1,6
+"### | 45/282- 
+",000,False,000,False,False,False,1,23
+"### | 42= باب حسن الخلق إذا فقهوا - 138
+",000,False,000,False,False,False,1,12
+"### | 46/290- 
+",000,False,000,False,False,False,1,91
+"### | 43= باب من دعا الله أن يحسن خلقه -144
+",000,False,000,False,False,False,1,16
+"### | 47/307- 
+",000,False,000,False,False,False,1,23
+"### | 48/308- 
+",000,False,000,False,False,False,1,46
+"### | 44= باب ليس المؤمن بالطعان- 145
+",000,False,000,False,False,False,1,10
+"### | 49/310- 
+",000,False,000,False,False,False,1,29
+"### | 50/315- 
+",000,False,000,False,False,False,1,22
+"### | 45= باب التلاعن بلعنة الله وبغضب الله وبالنار- 148
+",000,False,000,False,False,False,1,16
+"### | 51/320- 
+",000,False,000,False,False,False,1,20
+"### | 46= باب العياب- 152
+",000,False,000,False,False,False,1,6
+"### | 52/328- 
+",000,False,000,False,False,False,1,19
+"### | 53/329- 
+",000,False,000,False,False,False,1,21
+"### | 47= باب من أثنى على صاحبه إن كان آمنا به -154
+",000,False,000,False,False,False,1,20
+"### | 54/338- 
+",000,False,000,False,False,False,1,80
+"### | 48= باب من مدح في الشعر - 156
+",000,False,000,False,False,False,1,12
+"### | 55/342- 
+",000,False,000,False,False,False,1,63
+"### | 49= باب إعطاء الشاعر إذا خاف شره- 157
+",000,False,000,False,False,False,1,14
+"### | 56/343- 
+",000,False,000,False,False,False,1,30
+"### | 50= باب إذا كذبت لرجل هو لك مصدق- 184
+",000,False,000,False,False,False,1,16
+"### | 57/393- 
+",000,False,000,False,False,False,1,25
+"### | 51= باب لا تعد أخاك شيئا فتخلفه- 185
+",000,False,000,False,False,False,1,14
+"### | 58/394- 
+",000,False,000,False,False,False,1,23
+"### | 52= باب حب الرجل قومه -187
+",000,False,000,False,False,False,1,10
+"### | 59/396- 
+",000,False,000,False,False,False,1,31
+"### | 53= باب الشحناء- 192
+",000,False,000,False,False,False,1,6
+"### | 60/413- 
+",000,False,000,False,False,False,1,36
+"### | 54= باب إن السلام يجزئ من الصرم- 193
+",000,False,000,False,False,False,1,14
+"### | 61/414- 
+",000,False,000,False,False,False,1,44
+"### | 55= باب التفرقة بين الأحداث- 194
+",000,False,000,False,False,False,1,10
+"### | 62/415- 
+",000,False,000,False,False,False,1,31
+"### | 56= باب السباب- 198
+",000,False,000,False,False,False,1,6
+"### | 63/419- 
+",000,False,000,False,False,False,1,57
+"### | 57= باب سباب المسلم فسوق- 202
+",000,False,000,False,False,False,1,10
+"### | 64/435- 
+",000,False,000,False,False,False,1,37
+"### | 58= باب من لم يواجه الناس بكلامه - 203
+",000,False,000,False,False,False,1,14
+"### | 65/437- 
+",000,False,000,False,False,False,1,31
+"### | 59= باب التطاول في البنيان- 212
+",000,False,000,False,False,False,1,10
+"### | 66/452- 
+",000,False,000,False,False,False,1,38
+"### | 60= باب من بنى - 213
+",000,False,000,False,False,False,1,8
+"### | 67/453- 
+",000,False,000,False,False,False,1,28
+"### | 61= باب من اتخذ الغرف- 215
+",000,False,000,False,False,False,1,10
+"### | 68/458- 
+",000,False,000,False,False,False,1,54
+"### | 62= باب ms11 الرفق- 217
+",000,False,000,False,False,False,1,6
+"### | 69/468- 
+",000,False,000,False,False,False,1,24
+"### | 63= باب التسكين- 220
+",000,False,000,False,False,False,1,6
+"### | 70/474- 
+",000,False,000,False,False,False,1,38
+"### | 64= باب الخرق- 221
+",000,False,000,False,False,False,1,6
+"### | 71/476- 
+",000,False,000,False,False,False,1,86
+"### | 65= باب اصطناع المال- 222
+",000,False,000,False,False,False,1,8
+"### | 72/480- 
+",000,False,000,False,False,False,1,33
+"### | 66= باب سؤال العبد الرزق من الله عز وجل لقوله: {ارزقنا وأنت خير الرازقين} - 224
+",000,False,000,False,False,False,1,24
+"### | 73/482- 
+",000,False,000,False,False,False,1,43
+"### | 67= باب الظلمات ظلمات- 225
+",000,False,000,False,False,False,1,8
+"### | 74/484- 
+",000,False,000,False,False,False,1,19
+"### | 68= باب كفارة المريض- 226
+",000,False,000,False,False,False,1,8
+"### | 75/491- 
+",000,False,000,False,False,False,1,59
+"### | 69= باب العيادة جوف الليل- 227
+",000,False,000,False,False,False,1,10
+"### | 76/496- 
+",000,False,000,False,False,False,1,75
+"### | 70= باب ما يقول للمريض- 240
+",000,False,000,False,False,False,1,10
+"### | 77/527- 
+",000,False,000,False,False,False,1,39
+"### | 71= باب عيادة الفاسق- 242
+",000,False,000,False,False,False,1,8
+"### | 78/529- 
+",000,False,000,False,False,False,1,15
+"### | 72= باب عيادة النساء الرجل المريض- 243
+",000,False,000,False,False,False,1,12
+"### | 79/530- 
+",000,False,000,False,False,False,1,31
+"### | 73= باب العيادة من الرمد- 245
+",000,False,000,False,False,False,1,10
+"### | 80/532- 
+",000,False,000,False,False,False,1,48
+"### | 81/533- 
+",000,False,000,False,False,False,1,39
+"### | 74= باب إذا أحب رجلا فلا يماره ولا يسأل عنه- 249
+",000,False,000,False,False,False,1,20
+"### | 82/546- 
+",000,False,000,False,False,False,1,37
+"### | 75= باب الكبر- 251
+",000,False,000,False,False,False,1,6
+"### | 83/551- 
+",000,False,000,False,False,False,1,39
+"### | 76- 
+",000,False,000,False,False,False,1,13
+"### | 84/560- 
+",000,False,000,False,False,False,1,15
+"### | 77= باب التجارب - 254
+",000,False,000,False,False,False,1,40
+"### | 78= باب من أطعم أخا له في الله - 255
+",000,False,000,False,False,False,1,16
+"### | 87/566- 
+",000,False,000,False,False,False,1,28
+"### | 79= باب إن الغنم بركة- 260
+",000,False,000,False,False,False,1,10
+"### | 88/573- 
+",000,False,000,False,False,False,1,19
+"### | 80= باب البدو إلى التلاع- 264
+",000,False,000,False,False,False,1,10
+"### | 89/581- 
+",000,False,000,False,False,False,1,40
+"### | 81= باب من أحب كتمان السر، وأن يجالس كل قوم فيعرف أخلاقهم- 265
+",000,False,000,False,False,False,1,24
+"### | 90/582- 
+",000,False,000,False,False,False,1,84
+"### | 82= باب التؤدة في الأمور- 267
+",000,False,000,False,False,False,1,10
+"### | 91/587- 
+",000,False,000,False,False,False,1,57
+"### | 83= باب ما يقول إذا أصبح - 272
+",000,False,000,False,False,False,1,12
+"### | 92/604- 
+",000,False,000,False,False,False,1,46
+"### | 84= باب رفع الأيدي في الدعاء- 276
+",000,False,000,False,False,False,1,12
+"### | 93/609- 
+",000,False,000,False,False,False,1,16
+"### | 94/614- 
+",000,False,000,False,False,False,1,97
+"### | 85= باب دعاء الأخ بظهر الغيب- 278
+",000,False,000,False,False,False,1,12
+"### | 95/623- 
+",000,False,000,False,False,False,1,19
+"### | 86= باب -279
+",000,False,000,False,False,False,1,4
+"### | 96/628- 
+",000,False,000,False,False,False,1,29
+"### | 97/635- 
+",000,False,000,False,False,False,1,51
+"### | 98/636- 
+",000,False,000,False,False,False,1,32
+"### | 87= باب الصلاة على النبي صلى الله عليه وسلم - 280
+",000,False,000,False,False,False,1,18
+"### | 99/640- 
+",000,False,000,False,False,False,1,34
+"### | 100/641- 
+",000,False,000,False,False,False,1,52
+"### | 88= باب من دعا بطول العمر - 283
+",000,False,000,False,False,False,1,12
+"### | 101/652- 
+",000,False,000,False,False,False,1,25
+"### | 89= باب دعوات النبي صلى الله عليه وسلم - 288
+",000,False,000,False,False,False,1,16
+"### | 102/662- 
+",000,False,000,False,False,False,1,24
+"### | 103/667- 
+",000,False,000,False,False,False,1,34
+"### | 104/670- 
+",000,False,000,False,False,False,1,25
+"### | 105/679- 
+",000,False,000,False,False,False,1,53
+"### | 106/681- 
+",000,False,000,False,False,False,1,22
+"### | 90= باب إذا خاف السلطان - 294
+",000,False,000,False,False,False,1,10
+"### | 107/709- 
+",000,False,000,False,False,False,1,65
+"### | 91= باب فضل الدعاء - 296
+",000,False,000,False,False,False,1,8
+"### | 108/713- 
+",000,False,000,False,False,False,1,13
+"### | 109/715- 
+",000,False,000,False,False,False,1,20
+"### | 92= باب الدعاء عند الصواعق- 299
+",000,False,000,False,False,False,1,10
+"### | 110/721- 
+",000,False,000,False,False,False,1,28
+"### | 93= باب من سأل الله العافية - 301
+",000,False,000,False,False,False,1,12
+"### | 111/725- 
+",000,False,000,False,False,False,1,50
+"### | 94= باب الغيبة للميت- 307
+",000,False,000,False,False,False,1,8
+"### | 112/737- 
+",000,False,000,False,False,False,1,84
+"### | 95= باب نفقة الرجل على أهله- 318
+",000,False,000,False,False,False,1,12
+"### | 113/750- 
+",000,False,000,False,False,False,1,27
+"### | 96= باب قول الرجل: فلان جعد، أسود، أو طويل، قصير، يريد الصفة ولا يريد الغيبة- 321
+",000,False,000,False,False,False,1,30
+"### | 114/754- 
+",000,False,000,False,False,False,1,177
+"### | 97= باب من ستر مسلما- 323
+",000,False,000,False,False,False,1,10
+"### | 115/758- 
+",000,False,000,False,False,False,1,39
+"### | 98= باب قوس قزح- 328
+",000,False,000,False,False,False,1,8
+"### | 116/765- 
+",000,False,000,False,False,False,1,24
+"### | 99= باب لا يحد الرجل إلى أخيه النظر إذا ولى - 332
+",000,False,000,False,False,False,1,20
+"### | 117/771- 
+",000,False,000,False,False,False,1,37
+"### | 100= باب قول الرجل: لا بل شانئك - 337
+",000,False,000,False,False,False,1,14
+"### | 118/781- 
+",000,False,000,False,False,False,1,76
+"### | 101= باب لا يقول الرجل: الله وفلان- 338
+",000,False,000,False,False,False,1,14
+"### | 119/782- 
+",000,False,000,False,False,False,1,36
+"### | 102= باب الغناء واللهو- 340
+",000,False,000,False,False,False,1,8
+"### | 120/785- 
+",000,False,000,False,False,False,1,31
+"### | 121/788- 
+",000,False,000,False,False,False,1,42
+"### | 103= باب ما يكره من التمني- 343
+",000,False,000,False,False,False,1,12
+"### | 122/794- 
+",000,False,000,False,False,False,1,26
+"### | 104= باب قول الرجل: يا هنتاه - 346
+",000,False,000,False,False,False,1,12
+"### | 123/797- 
+",000,False,000,False,False,False,1,14
+"### | 105= باب قول الرجل: نفسي لك الفداء- 349
+",000,False,000,False,False,False,1,14
+"### | 124/802- 
+",000,False,000,False,False,False,1,30
+"### | 106= باب قول الرجل: ""يا بني! "" لمن أبوه لم يدرك الإسلام- 351
+",000,False,000,False,False,False,1,18
+"### | 125/806- 
+",000,False,000,False,False,False,1,38
+"### | 107= باب كان النبي صلى الله عليه وسلم يعجبه الاسم الحسن- 354
+",000,False,000,False,False,False,1,22
+"### | 126/812- 
+",000,False,000,False,False,False,1,52
+"### | 108= باب السرعة في المشي - 355
+",000,False,000,False,False,False,1,10
+"### | 127/813- 
+",000,False,000,False,False,False,1,42
+"### | 109= باب أحب الأسماء إلى الله عز وجل - 356
+",000,False,000,False,False,False,1,16
+"### | 128/814- 
+",000,False,000,False,False,False,1,22
+"### | 110= باب يدعى الرجل بأحب الأسماء إليه- 360
+",000,False,000,False,False,False,1,14
+"### | 129/819- 
+",000,False,000,False,False,False,1,20
+"### | 111= باب الصرم - 362
+",000,False,000,False,False,False,1,6
+"### | 130/822- 
+",000,False,000,False,False,False,1,39
+"### | 131/823- 
+",000,False,000,False,False,False,1,74
+"### | 112= باب غراب- 363
+",000,False,000,False,False,False,1,6
+"### | 132/824- 
+",000,False,000,False,False,False,1,24
+"### | 113= باب من دعا صاحبه فيختصر وينقص من اسمه شيئا- 366
+",000,False,000,False,False,False,1,20
+"### | 133/828- 
+",000,False,000,False,False,False,1,109
+"### | 114= باب برة- 368
+",000,False,000,False,False,False,1,6
+"### | 134/832- 
+",000,False,000,False,False,False,1,15
+"### | 115= باب من الشعر حكمة - 381
+",000,False,000,False,False,False,1,10
+"### | 135/856- 
+",000,False,000,False,False,False,1,53
+"### | 116= باب من قال: ""إن من البيان سحرا""- 385
+",000,False,000,False,False,False,1,12
+"### | 136/873- 
+",000,False,000,False,False,False,1,38
+"### | 117= باب الضرب على اللحن- 390
+",000,False,000,False,False,False,1,10
+"### | 137/881- 
+",000,False,000,False,False,False,1,27
+"### | 118= باب السخرية، وقول الله عز وجل {لا يسخر قوم من قوم} الآية - 394
+",000,False,000,False,False,False,1,22
+"### | 138/887- 
+",000,False,000,False,False,False,1,28
+"### | 119= باب التؤدة في الأمور- 395
+",000,False,000,False,False,False,1,10
+"### | 139/888- 
+",000,False,000,False,False,False,1,39
+"### | 120= باب البغي- 398
+",000,False,000,False,False,False,1,6
+"### | 140/893- 
+",000,False,000,False,False,False,1,94
+"### | 121= باب مسح الأرض باليد - 403
+",000,False,000,False,False,False,1,10
+"### | 141/904- 
+",000,False,000,False,False,False,1,59
+"### | 122= باب الطيرة من الجن - 410
+",000,False,000,False,False,False,1,10
+"### | 142/912- 
+",000,False,000,False,False,False,1,53
+"### | 123= باب الشؤم في الفرس- 413
+",000,False,000,False,False,False,1,10
+"### | 143/916- 
+",000,False,000,False,False,False,1,17
+"### | 124= باب ما يقول إذا عطس - 415
+",000,False,000,False,False,False,1,12
+"### | 144/920- 
+",000,False,000,False,False,False,1,27
+"### | 125= باب تشميت العاطس - 416
+",000,False,000,False,False,False,1,8
+"### | 145/922- 
+",000,False,000,False,False,False,1,151
+"### | 126= باب من سمع العطسة يقول: الحمد لله- 417
+",000,False,000,False,False,False,1,16
+"### | 146/926- 
+",000,False,000,False,False,False,1,27
+"### | 127= باب من قال: يرحمك الله إن كنت حمدت الله - 421
+",000,False,000,False,False,False,1,20
+"### | 147/936- 
+",000,False,000,False,False,False,1,28
+"### | 128= باب ما يقول الرجل إذا خدرت رجله - 437
+",000,False,000,False,False,False,1,16
+"### | 148/964- 
+",000,False,000,False,False,False,1,21
+"### | 129= باب مسح المرأة رأس الصبي - 441
+",000,False,000,False,False,False,1,12
+"### | 149/969- 
+",000,False,000,False,False,False,1,45
+"### | 130= باب تقبيل اليد - 444
+",000,False,000,False,False,False,1,8
+"### | 150/972- 
+",000,False,000,False,False,False,1,51
+"### | 151/974- 
+",000,False,000,False,False,False,1,18
+"### | 131
+",000,False,000,False,False,False,1,2
+"### | = باب 
+",000,False,000,False,False,False,1,5
+"### | 152/975- 
+",000,False,000,False,False,False,1,25
+"### | 153/976- 
+",000,False,000,False,False,False,1,16
+"### | 132= باب من سلم إشارة - 459
+",000,False,000,False,False,False,1,10
+"### | 154/1002- 
+",000,False,000,False,False,False,1,22
+"### | 155/1003- 
+",000,False,000,False,False,False,1,32
+"### | 133= باب - 467
+",000,False,000,False,False,False,1,4
+"### | 156/1015- 
+",000,False,000,False,False,False,1,32
+"### | 157/1016- 
+",000,False,000,False,False,False,1,61
+"### | 134= باب لا يسلم على فاسق- 468
+",000,False,000,False,False,False,1,12
+"### | 158/1017- 
+",000,False,000,False,False,False,1,14
+"### | 159/1019- 
+",000,False,000,False,False,False,1,28
+"### | 135= باب من ترك السلام على المتخلق وأصحاب المعاصي- 469
+",000,False,000,False,False,False,1,18
+"### | 160/1022- 
+",000,False,000,False,False,False,1,86
+"### | 136= باب التسليم على الأمير - 470
+",000,False,000,False,False,False,1,10
+"### | 161/1027- 
+",000,False,000,False,False,False,1,67
+"### | 137= باب حياك الله - 472
+",000,False,000,False,False,False,1,8
+"### | 162/1029- 
+",000,False,000,False,False,False,1,13
+"### | 138= باب من بخل بالسلام - 476
+",000,False,000,False,False,False,1,10
+"### | 163/1041- 
+",000,False,000,False,False,False,1,25
+"### | 139= باب {ليستئذنكم الذين ملكت أيمانكم} - 485
+",000,False,000,False,False,False,1,8
+"### | 164/1057- 
+",000,False,000,False,False,False,1,14
+"### | 140= باب يستأذن على أبيه - 488
+",000,False,000,False,False,False,1,10
+"### | 165/1061- 
+",000,False,000,False,False,False,1,26
+"### | 141= باب يستأذن على أبيه وولده- 489
+",000,False,000,False,False,False,1,12
+"### | 166/1062- 
+",000,False,000,False,False,False,1,22
+"### | 142= باب يستأذن على أخيه- 491
+",000,False,000,False,False,False,1,10
+"### | 167/1064- 
+",000,False,000,False,False,False,1,19
+"### | 143= باب إذا دخل ولم يستأذن - 501
+",000,False,000,False,False,False,1,12
+"### | 168/1082- 
+",000,False,000,False,False,False,1,20
+"### | 144= باب النظر في الدور - 506
+",000,False,000,False,False,False,1,10
+"### | 169/1092- 
+",000,False,000,False,False,False,1,30
+"### | 145= باب ما لا يستأذن فيه- 509
+",000,False,000,False,False,False,1,12
+"### | 170/1097- 
+",000,False,000,False,False,False,1,46
+"### | 146= باب كيف يستأذن على الفرس ms26؟ - 511
+",000,False,000,False,False,False,1,12
+"### | 171/1100- 
+",000,False,000,False,False,False,1,50
+"### | 147= باب يضطر أهل الكتاب في الطريق إلى أضيقها- 519
+",000,False,000,False,False,False,1,18
+"### | 172/1111- 
+",000,False,000,False,False,False,1,22
+"### | 148= باب من يبدأ في الكتاب؟ - 528
+",000,False,000,False,False,False,1,12
+"### | 173/1128- 
+",000,False,000,False,False,False,1,31
+"### | 149= باب كيف يجيب إذا قيل له: كيف أصبحت؟ - 532
+",000,False,000,False,False,False,1,18
+"### | 174/1135- 
+",000,False,000,False,False,False,1,142
+"### | 150= باب استقبال القبلة- 534
+",000,False,000,False,False,False,1,8
+"### | 175/1137- 
+",000,False,000,False,False,False,1,52
+"### | 151= باب يتخطى إلى صاحب المجلس - 540
+",000,False,000,False,False,False,1,12
+"### | 176/1143- 
+",000,False,000,False,False,False,1,138
+"### | 152= باب أكرم الناس على الرجل جليسه - 541
+",000,False,000,False,False,False,1,14
+"### | 177/1146- 
+",000,False,000,False,False,False,1,31
+"### | 153= باب إذا أرسل رجلا [إلى رجل] في حاجة فلا يخبره - 549
+",000,False,000,False,False,False,1,22
+"### | 178/1156- 
+",000,False,000,False,False,False,1,25
+"### | 154= باب هل يقول: من أين أقبلت؟ - 550
+",000,False,000,False,False,False,1,14
+"### | 179/1158- 
+",000,False,000,False,False,False,1,36
+"### | 155= باب الجلوس على السرير- 552
+",000,False,000,False,False,False,1,10
+"### | 180/1160- 
+",000,False,000,False,False,False,1,89
+"### | 181/1165- 
+",000,False,000,False,False,False,1,13
+"### | 156= باب إذا جلس الرجل إلى الرجل يستأذنه في القيام- 556
+",000,False,000,False,False,False,1,20
+"### | 182/1173- 
+",000,False,000,False,False,False,1,38
+"### | 157= باب التربع- 561
+",000,False,000,False,False,False,1,6
+"### | 183/1180- 
+",000,False,000,False,False,False,1,23
+"### | 158= باب الاستلقاء- 564
+",000,False,000,False,False,False,1,6
+"### | 184/ 1186- 
+",000,False,000,False,False,False,1,23
+"### | 159= باب الضجعة على وجهه- 565
+",000,False,000,False,False,False,1,10
+"### | 185/1188- 
+",000,False,000,False,False,False,1,21
+"### | 160= باب أين يضع نعليه إذا جلس؟ - 567
+",000,False,000,False,False,False,1,14
+"### | 186/1190- 
+",000,False,000,False,False,False,1,13
+"### | 161= باب من بات على سطح ليس ليه سترة- 569
+",000,False,000,False,False,False,1,18
+"### | 187/1193- 
+",000,False,000,False,False,False,1,28
+"### | 162= باب ما يقول إذا خرج لحاجته - 571
+",000,False,000,False,False,False,1,14
+"### | 188/1196- 
+",000,False,000,False,False,False,1,34
+"### | 189/1197- 
+",000,False,000,False,False,False,1,35
+"### | 163= باب هل يقدم الرجل رجله بين يدي أصحابه وهل يتكئ بين أيديهم؟ - 572
+",000,False,000,False,False,False,1,26
+"### | 190/1198- 
+",000,False,000,False,False,False,1,377
+"### | 146= باب ما يقول إذا أصبح- 573
+",000,False,000,False,False,False,1,12
+"### | 191/1201- 
+",000,False,000,False,False,False,1,72
+"### | 165= باب فضل الدعاء عند النوم - 576
+",000,False,000,False,False,False,1,12
+"### | 192/1214- 
+",000,False,000,False,False,False,1,95
+"### | 166= باب إطفاء المصباح- 582
+",000,False,000,False,False,False,1,8
+"### | 193/1223- 
+",000,False,000,False,False,False,1,37
+"### | 167= باب لا تسبوا البرغوث- 591
+",000,False,000,False,False,False,1,10
+"### | 194/1237- 
+",000,False,000,False,False,False,1,26
+"### | 195/1245- 
+",000,False,000,False,False,False,1,26
+"### | 169= باب الدعوة في الختان- 597
+",000,False,000,False,False,False,1,10
+"### | 196/1246- 
+",000,False,000,False,False,False,1,39
+"### | 170= باب دعوة الذمي - 599
+",000,False,000,False,False,False,1,8
+"### | 197/1248- 
+",000,False,000,False,False,False,1,43
+"### | 171= باب الدعوة في الولادة 602
+",000,False,000,False,False,False,1,10
+"### | 198/1253- 
+",000,False,000,False,False,False,1,72
+"### | 172= باب حلق العانة- 606
+",000,False,000,False,False,False,1,8
+"### | 199/1257- 
+",000,False,000,False,False,False,1,24
+"### | 173= باب القمار - 608
+",000,False,000,False,False,False,1,6
+"### | 200/1259- 
+",000,False,000,False,False,False,1,50
+"### | 174= باب قمار الديك- 609
+",000,False,000,False,False,False,1,8
+"### | 201/1261- 
+",000,False,000,False,False,False,1,35
+"### | 175= باب قمار الحمام- 611
+",000,False,000,False,False,False,1,8
+"### | 202/1263- 
+",000,False,000,False,False,False,1,43
+"### | 176= باب من لم يسلم على أصحاب النرد - 614
+",000,False,000,False,False,False,1,16
+"### | 203/1268- 
+",000,False,000,False,False,False,1,65
+"### | 177= باب الأدب وإخراج الذين يلعبون بالنرد وأهل الباطل- 616
+",000,False,000,False,False,False,1,18
+"### | 204/1276- 
+",000,False,000,False,False,False,1,36
+"### | 178= باب الوسوسة- 621
+",000,False,000,False,False,False,1,6
+"### | 205/1285- 
+",000,False,000,False,False,False,1,62
+"### | 179= باب الظن - 622
+",000,False,000,False,False,False,1,6
+"### | 206/1290- 
+",000,False,000,False,False,False,1,41
+"### | 180= باب حلق الجارية والمرأة زوجها- 623
+",000,False,000,False,False,False,1,12
+"### | 207/1291- 
+",000,False,000,False,False,False,1,21
+"### | 181= باب نتف الإبط - 624
+",000,False,000,False,False,False,1,8
+"### | 208/1293- 
+",000,False,000,False,False,False,1,26
+"### | 182= باب حسن العهد- 625
+",000,False,000,False,False,False,1,8
+"### | 209/1295- 
+",000,False,000,False,False,False,1,38
+"### | 183= باب المعرفة - 626
+",000,False,000,False,False,False,1,6
+"### | 210/1296- 
+",000,False,000,False,False,False,1,28
+"### | 184= باب لعب الصبيان بالجوز - 627
+",000,False,000,False,False,False,1,10
+"### | 211/1298- 
+",000,False,000,False,False,False,1,33
+"### | 185= باب ذبح الحمام - 628
+",000,False,000,False,False,False,1,8
+"### | 212/1301- 
+",000,False,000,False,False,False,1,33
+"### | 186= باب إذا تنخع وهو مع القوم- 630
+",000,False,000,False,False,False,1,14
+"### | 214/1303- 
+",000,False,000,False,False,False,1,32
+"### | 187= باب فضول الكلام- 633
+",000,False,000,False,False,False,1,8
+"### | 215/1307- 
+",000,False,000,False,False,False,1,116

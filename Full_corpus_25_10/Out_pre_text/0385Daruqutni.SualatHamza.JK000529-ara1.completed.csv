@@ -1,0 +1,47 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | ( باب محمد )
+",000,False,000,False,False,False,1,3962
+"### | ( باب الألف 
+",000,False,000,False,False,False,1,2450
+"### || من اسمه أحمد )
+",000,False,000,False,False,False,2,1720
+"### || ( من اسمه إبراهيم )
+",000,False,000,False,False,False,2,273
+"### || ( من اسمه إسحاق )
+",000,False,000,False,False,False,2,207
+"### | ( باب الباء )
+",000,False,000,False,False,False,1,497
+"### |  ( باب الثاء )
+",000,False,000,False,False,False,1,15
+"### |  ( باب الجيم )
+",000,False,000,False,False,False,1,416
+"### |  ( باب الحاء )
+",000,False,000,False,False,False,1,1018
+"### |  ( باب الخاء )
+",000,False,000,False,False,False,1,78
+"### |  ( باب الدال )
+",000,False,000,False,False,False,1,61
+"### |  ( باب الزاي )
+",000,False,000,False,False,False,1,26
+"### |  ( باب السين )
+",000,False,000,False,False,False,1,224
+"### | ( باب الصاد )
+",000,False,000,False,False,False,1,34
+"### |  ( باب الطاء )
+",000,False,000,False,False,False,1,40
+"### |  ( باب العين )
+",000,False,000,False,False,False,1,1589
+"### |  ( باب القاف )
+",000,False,000,False,False,False,1,163
+"### |  ( باب الكاف )
+",000,False,000,False,False,False,1,22
+"### |  ( باب اللام )
+",000,False,000,False,False,False,1,23
+"### |  ( باب الميم )
+",000,False,000,False,False,False,1,112
+"### |  ( باب الهاء )
+",000,False,000,False,False,False,1,250
+"### | ( باب الواو )
+",000,False,000,False,False,False,1,87
+"### | ( باب الياء )
+",000,False,000,False,False,False,1,1533

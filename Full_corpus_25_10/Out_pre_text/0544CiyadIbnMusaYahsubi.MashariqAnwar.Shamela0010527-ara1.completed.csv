@@ -1,0 +1,6335 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | (المقدمة)
+",000,False,000,False,False,False,1,2589
+"### | - باب ذكر أسانيدي في هذه الأصول الثلاثة
+",000,False,000,False,False,False,1,1808
+"### | حرف الهمزة فمما يذكر من المتون ما ننصه على الترتيب المقدم
+",000,False,000,False,False,False,1,28621
+"### || - باب الألف والهمزة المفردتين مما اختلف فيه
+",000,False,000,False,False,False,2,112
+"### || الهمزة مع الباء
+",000,False,000,False,False,False,2,463
+"### ||| (اب د)
+",000,False,000,False,False,False,3,33
+"### ||| (اب ر)
+",000,False,000,False,False,False,3,108
+"### ||| (اب ز)
+",000,False,000,False,False,False,3,107
+"### ||| (أب ل) 
+",000,False,000,False,False,False,3,47
+"### ||| (أب ن) 
+",000,False,000,False,False,False,3,138
+"### ||| (أب و) 
+",000,False,000,False,False,False,3,30
+"### || فصل الاختلاف والوهم في هذا الحرف </span>
+",000,False,000,False,False,False,2,1518
+"### || الهمزة مع التاء
+",000,False,000,False,False,False,2,926
+"### ||| (أت ر)
+",000,False,000,False,False,False,3,133
+"### ||| (أت ن)
+",000,False,000,False,False,False,3,126
+"### ||| (أت ي)
+",000,False,000,False,False,False,3,179
+"### || الهمزة مع الثاء
+",000,False,000,False,False,False,2,732
+"### ||| (أث ر)
+",000,False,000,False,False,False,3,344
+"### ||| (اث ل)
+",000,False,000,False,False,False,3,47
+"### ||| (اث م)
+",000,False,000,False,False,False,3,91
+"### || الهمزة مع الجيم
+",000,False,000,False,False,False,2,343
+"### ||| 
+",000,False,000,False,False,False,3,18
+"### ||| (اج ر)
+",000,False,000,False,False,False,3,66
+"### ||| (اج ل)
+",000,False,000,False,False,False,3,117
+"### ||| (اج م)
+",000,False,000,False,False,False,3,19
+"### ||| (اج ن)
+",000,False,000,False,False,False,3,41
+"### || الهمزة مع الحاء
+",000,False,000,False,False,False,2,201
+"### ||| (اح د)
+",000,False,000,False,False,False,3,28
+"### || الهمزة من الخاء
+",000,False,000,False,False,False,2,1363
+"### ||| (اخ أخ) 
+",000,False,000,False,False,False,3,19
+"### ||| (أخ ذ) 
+",000,False,000,False,False,False,3,134
+"### ||| (أخ ر) 
+",000,False,000,False,False,False,3,325
+"### ||| (أخ و) 
+",000,False,000,False,False,False,3,67
+"### || الهمزة مع الدال
+",000,False,000,False,False,False,2,557
+"### ||| (أد ب)
+",000,False,000,False,False,False,3,54
+"### ||| (أد ر)
+",000,False,000,False,False,False,3,48
+"### ||| (أد م)
+",000,False,000,False,False,False,3,179
+"### ||| (أد ن)
+",000,False,000,False,False,False,3,22
+"### ||| (أد و)
+",000,False,000,False,False,False,3,20
+"### ||| (أد ي)
+",000,False,000,False,False,False,3,55
+"### || الهمزة مع الذال
+",000,False,000,False,False,False,2,584
+"### ||| (أذ خ) 
+",000,False,000,False,False,False,3,22
+"### ||| (أذ ن)
+",000,False,000,False,False,False,3,244
+"### ||| (أذ ي)
+",000,False,000,False,False,False,3,85
+"### || الهمزة مع الراء
+",000,False,000,False,False,False,2,1308
+"### ||| (أر ب)
+",000,False,000,False,False,False,3,286
+"### ||| (أر ث)
+",000,False,000,False,False,False,3,39
+"### ||| (أر ج)
+",000,False,000,False,False,False,3,34
+"### ||| (أر د)
+",000,False,000,False,False,False,3,34
+"### ||| (أر ز)
+",000,False,000,False,False,False,3,140
+"### ||| (أر ك)
+",000,False,000,False,False,False,3,47
+"### ||| (أر م)
+",000,False,000,False,False,False,3,56
+"### ||| (أر ن)
+",000,False,000,False,False,False,3,15
+"### ||| (أر ض)
+",000,False,000,False,False,False,3,24
+"### ||| (أر ق)
+",000,False,000,False,False,False,3,87
+"### || الهمزة مع الزاي
+",000,False,000,False,False,False,2,324
+"### ||| (أز ر)
+",000,False,000,False,False,False,3,243
+"### ||| (أز ى)
+",000,False,000,False,False,False,3,30
+"### || الهمزة مع الطاء
+",000,False,000,False,False,False,2,221
+"### ||| (أط ر)
+",000,False,000,False,False,False,3,113
+"### ||| (أط ط)
+",000,False,000,False,False,False,3,26
+"### || الهمزة مع الكاف
+",000,False,000,False,False,False,2,460
+"### ||| (أك ل)
+",000,False,000,False,False,False,3,251
+"### ||| (أك م)
+",000,False,000,False,False,False,3,109
+"### ||| (أك ف)
+",000,False,000,False,False,False,3,21
+"### || الهمزة مع اللام
+",000,False,000,False,False,False,2,2878
+"### ||| (أل ل)
+",000,False,000,False,False,False,3,189
+"### ||| (أل م)
+",000,False,000,False,False,False,3,18
+"### ||| (أل ن)
+",000,False,000,False,False,False,3,26
+"### ||| (أل ف)
+",000,False,000,False,False,False,3,103
+"### ||| (أل و)
+",000,False,000,False,False,False,3,231
+"### ||| (أل ي)
+",000,False,000,False,False,False,3,154
+"### || الهمزة مع الميم ms0058
+",000,False,000,False,False,False,2,1790
+"### ||| (أم ا)
+",000,False,000,False,False,False,3,257
+"### ||| (أم د)
+",000,False,000,False,False,False,3,22
+"### ||| (أم ر)
+",000,False,000,False,False,False,3,384
+"### ||| (أم ل)
+",000,False,000,False,False,False,3,28
+"### ||| (أم م)
+",000,False,000,False,False,False,3,241
+"### ||| (أم ن)
+",000,False,000,False,False,False,3,370
+"### || الهمزة مع النون
+",000,False,000,False,False,False,2,3301
+"### ||| (أن ب) 
+",000,False,000,False,False,False,3,198
+"### ||| (أن ت)
+",000,False,000,False,False,False,3,77
+"### ||| (أن ث)
+",000,False,000,False,False,False,3,33
+"### ||| (أن ن)
+",000,False,000,False,False,False,3,121
+"### ||| فصل في بيان مشكل ما وقع فيها من أن وأن وإن وأن وما اختلف فيه من ذلك
+",000,False,000,False,False,False,3,1367
+"### ||| (أن ف) 
+",000,False,000,False,False,False,3,70
+"### ||| (أن ق)
+",000,False,000,False,False,False,3,79
+"### ||| (أن س)
+",000,False,000,False,False,False,3,157
+"### ||| (أن ي)
+",000,False,000,False,False,False,3,187
+"### || الهمزة مع الصاد
+",000,False,000,False,False,False,2,182
+"### ||| (أص ب)
+",000,False,000,False,False,False,3,167
+"### || الهمزة مع الضاد
+",000,False,000,False,False,False,2,30
+"### || الهمزة مع الفاء
+",000,False,000,False,False,False,2,283
+"### ||| (اف ك)
+",000,False,000,False,False,False,3,20
+"### ||| (اف ف)
+",000,False,000,False,False,False,3,86
+"### ||| (اف ق)
+",000,False,000,False,False,False,3,41
+"### || الهمزة مع القاف
+",000,False,000,False,False,False,2,40
+"### || الهمزة مع السين
+",000,False,000,False,False,False,2,472
+"### ||| (أس ت)
+",000,False,000,False,False,False,3,31
+"### ||| (أس د)
+",000,False,000,False,False,False,3,60
+"### ||| (اس ر)
+",000,False,000,False,False,False,3,14
+"### ||| (أس ط)
+",000,False,000,False,False,False,3,37
+"### ||| (أس ك)
+",000,False,000,False,False,False,3,51
+"### ||| (أس ف)
+",000,False,000,False,False,False,3,60
+"### ||| (أس س)
+",000,False,000,False,False,False,3,39
+"### ||| (أس)
+",000,False,000,False,False,False,3,27
+"### || الهمزة مع الشين
+",000,False,000,False,False,False,2,195
+"### ||| (أش ا)
+",000,False,000,False,False,False,3,19
+"### ||| (أش ب)
+",000,False,000,False,False,False,3,44
+"### ||| (أش ر)
+",000,False,000,False,False,False,3,94
+"### || الهمزة مع الهاء
+",000,False,000,False,False,False,2,487
+"### ||| (أه ب)
+",000,False,000,False,False,False,3,81
+"### ||| (أه ل)
+",000,False,000,False,False,False,3,199
+"### || الهمزة مع الواو
+",000,False,000,False,False,False,2,2106
+"### ||| (أوب) 
+",000,False,000,False,False,False,3,48
+"### ||| (أول)
+",000,False,000,False,False,False,3,259
+"### ||| (أوم)
+",000,False,000,False,False,False,3,32
+"### ||| (أون)
+",000,False,000,False,False,False,3,115
+"### ||| (أوق)
+",000,False,000,False,False,False,3,102
+"### ||| (أوه)
+",000,False,000,False,False,False,3,95
+"### ||| (أوى)
+",000,False,000,False,False,False,3,241
+"### ||| فصل في أو كذا بالإسكان أو كذا بالفتح
+",000,False,000,False,False,False,3,384
+"### ||| فصل فيما جاء من الاختلاف والوهم في أو كذا وكذا
+",000,False,000,False,False,False,3,664
+"### || الهمزة مع الياء
+",000,False,000,False,False,False,2,1060
+"### ||| (أي أ) 
+",000,False,000,False,False,False,3,152
+"### ||| (أي د) 
+",000,False,000,False,False,False,3,25
+"### ||| (أي م)
+",000,False,000,False,False,False,3,262
+"### ||| (أي ض)
+",000,False,000,False,False,False,3,63
+"### ||| (أي س)
+",000,False,000,False,False,False,3,28
+"### ||| (أي ه)
+",000,False,000,False,False,False,3,113
+"### ||| (أي ي)
+",000,False,000,False,False,False,3,76
+"### || فصل فيما ذكر في هذا الحرف في هذه الكتب من أسماء المواضع والبقع من الأرض
+",000,False,000,False,False,False,2,899
+"### ||| (الأبطح)
+",000,False,000,False,False,False,3,65
+"### ||| (الأثاية)
+",000,False,000,False,False,False,3,40
+"### ||| (أجم)
+",000,False,000,False,False,False,3,13
+"### ||| (أحد)
+",000,False,000,False,False,False,3,13
+"### ||| (الأخشبان)
+",000,False,000,False,False,False,3,46
+"### ||| (أذ ر ح)
+",000,False,000,False,False,False,3,46
+"### ||| أذريبجان
+",000,False,000,False,False,False,3,77
+"### ||| (الا ر اك)
+",000,False,000,False,False,False,3,34
+"### ||| أروان 
+",000,False,000,False,False,False,3,97
+"### ||| (أصبهان) 
+",000,False,000,False,False,False,3,30
+"### ||| أضاة
+",000,False,000,False,False,False,3,17
+"### ||| الإفراق
+",000,False,000,False,False,False,3,29
+"### ||| الأسواف 
+",000,False,000,False,False,False,3,92
+"### ||| الأهواز
+",000,False,000,False,False,False,3,97
+"### |||  أيلة 
+",000,False,000,False,False,False,3,41
+"### ||| الأعماق 
+",000,False,000,False,False,False,3,48
+"### ||| أرمينية 
+",000,False,000,False,False,False,3,44
+"### || فصل مشكل الأسماء والكنى في حرف الهمز
+",000,False,000,False,False,False,2,5453
+"### ||| فصل منه </span>
+",000,False,000,False,False,False,3,257
+"### ||| فصل منه
+",000,False,000,False,False,False,3,854
+"### ||| فصل آخر
+",000,False,000,False,False,False,3,139
+"### ||| فصل الاختلاف والوهم
+",000,False,000,False,False,False,3,254
+"### ||| فصل منه
+",000,False,000,False,False,False,3,966
+"### ||| فصل منه
+",000,False,000,False,False,False,3,1068
+"### ||| فصل منه </span>
+",000,False,000,False,False,False,3,320
+"### ||| فصل منه
+",000,False,000,False,False,False,3,662
+"### | حرف الباء مع سائر الحروف
+",000,False,000,False,False,False,1,22418
+"### || (الباء مع الهمزة والألف)
+",000,False,000,False,False,False,2,782
+"### ||| (ب أب) 
+",000,False,000,False,False,False,3,74
+"### ||| (ب أت)
+",000,False,000,False,False,False,3,43
+"### ||| (ب أر)
+",000,False,000,False,False,False,3,96
+"### ||| (ب اس)
+",000,False,000,False,False,False,3,108
+"### ||| (ب اق)
+",000,False,000,False,False,False,3,20
+"### || الباء مع الباء
+",000,False,000,False,False,False,2,176
+"### || الباء مع التاء
+",000,False,000,False,False,False,2,590
+"### ||| (ب ت ت)
+",000,False,000,False,False,False,3,61
+"### ||| (ب ت ر)
+",000,False,000,False,False,False,3,30
+"### ||| (ب ت ل)
+",000,False,000,False,False,False,3,48
+"### ||| (ب ت ع)
+",000,False,000,False,False,False,3,33
+"### || الباء مع الثاء
+",000,False,000,False,False,False,2,194
+"### ||| (ب ث ث)
+",000,False,000,False,False,False,3,129
+"### ||| (ب ث ق)
+",000,False,000,False,False,False,3,29
+"### || الباء مع الجيم
+",000,False,000,False,False,False,2,208
+"### ||| (ب ج ح)
+",000,False,000,False,False,False,3,37
+"### ||| (ب ج ر)
+",000,False,000,False,False,False,3,34
+"### ||| (ب ج ل)
+",000,False,000,False,False,False,3,47
+"### || الباء مع الحاء
+",000,False,000,False,False,False,2,322
+"### ||| (ب ح ت)
+",000,False,000,False,False,False,3,21
+"### ||| (ب ح ث)
+",000,False,000,False,False,False,3,17
+"### ||| (ب ح ح)
+",000,False,000,False,False,False,3,16
+"### ||| (ب ح ر)
+",000,False,000,False,False,False,3,199
+"### || (الباء مع الخاء)
+",000,False,000,False,False,False,2,154
+"### ||| (ب خ ب خ) 
+",000,False,000,False,False,False,3,54
+"### ||| (ب خ ت) 
+",000,False,000,False,False,False,3,19
+"### ||| (ب خ س) 
+",000,False,000,False,False,False,3,7
+"### || (الباء مع الدال)
+",000,False,000,False,False,False,2,1088
+"### ||| (ب د أ)
+",000,False,000,False,False,False,3,170
+"### ||| (ب د د)
+",000,False,000,False,False,False,3,100
+"### ||| (ب د ر)
+",000,False,000,False,False,False,3,100
+"### ||| (ب د ن ms0133)
+",000,False,000,False,False,False,3,118
+"### ||| (ب د ع)
+",000,False,000,False,False,False,3,137
+"### ||| (ب د و)
+",000,False,000,False,False,False,3,81
+"### || الباء مع الذال
+",000,False,000,False,False,False,2,219
+"### ||| (ب ذ أ)
+",000,False,000,False,False,False,3,59
+"### ||| (ب د خ) 
+",000,False,000,False,False,False,3,15
+"### ||| (ب ذ ر)
+",000,False,000,False,False,False,3,29
+"### ||| (ب ذ ل)
+",000,False,000,False,False,False,3,52
+"### ||| (ب ذ ق)
+",000,False,000,False,False,False,3,15
+"### || الباء مع الراء
+",000,False,000,False,False,False,2,2280
+"### ||| (ب ر أ)
+",000,False,000,False,False,False,3,200
+"### ||| (ب ر ج)
+",000,False,000,False,False,False,3,42
+"### ||| (ب ر ح)
+",000,False,000,False,False,False,3,101
+"### ||| (ب ر د)
+",000,False,000,False,False,False,3,349
+"### ||| (ب ر ذ)
+",000,False,000,False,False,False,3,49
+"### ||| (ب ر ر)
+",000,False,000,False,False,False,3,203
+"### ||| (ب ر ز)
+",000,False,000,False,False,False,3,126
+"### ||| (ب ر ط)
+",000,False,000,False,False,False,3,64
+"### ||| (ب ر ك)
+",000,False,000,False,False,False,3,212
+"### ||| (ب ر م)
+",000,False,000,False,False,False,3,70
+"### ||| (ب ر ن)
+",000,False,000,False,False,False,3,67
+"### ||| (ب ر ض)
+",000,False,000,False,False,False,3,21
+"### ||| (ب ر ق)
+",000,False,000,False,False,False,3,68
+"### ||| (ب ر س)
+",000,False,000,False,False,False,3,34
+"### ||| (ب ر ه)
+",000,False,000,False,False,False,3,28
+"### ||| (ب ر ى)
+",000,False,000,False,False,False,3,58
+"### || الباء مع الزاي
+",000,False,000,False,False,False,2,47
+"### ||| (ب ز غ)
+",000,False,000,False,False,False,3,22
+"### || الباء مع الطاء
+",000,False,000,False,False,False,2,590
+"### ||| (ب ط ح)
+",000,False,000,False,False,False,3,115
+"### ||| (ب ط ر)
+",000,False,000,False,False,False,3,75
+"### ||| (ب ط ل)
+",000,False,000,False,False,False,3,35
+"### ||| (ب ط ن)
+",000,False,000,False,False,False,3,132
+"### ||| (ب ط ش)
+",000,False,000,False,False,False,3,27
+"### || الباء مع الطاء
+",000,False,000,False,False,False,2,53
+"### || الباء مع الكاف
+",000,False,000,False,False,False,2,258
+"### ||| (ب ك ر)
+",000,False,000,False,False,False,3,49
+"### ||| (ب ك م)
+",000,False,000,False,False,False,3,70
+"### || (الباء مع اللام)
+",000,False,000,False,False,False,2,853
+"### ||| (ب ل ا)
+",000,False,000,False,False,False,3,73
+"### ||| (ب ل ح)
+",000,False,000,False,False,False,3,34
+"### ||| (ب ل د)
+",000,False,000,False,False,False,3,35
+"### ||| (ب ل ل)
+",000,False,000,False,False,False,3,136
+"### ||| (ب ل م)
+",000,False,000,False,False,False,3,34
+"### ||| (ب ل ع)
+",000,False,000,False,False,False,3,29
+"### ||| (ب ل غ)
+",000,False,000,False,False,False,3,29
+"### ||| (ب ل س)
+",000,False,000,False,False,False,3,13
+"### ||| (ب ل ه)
+",000,False,000,False,False,False,3,42
+"### ||| (ب ل و)
+",000,False,000,False,False,False,3,130
+"### || الباء مع الميم
+",000,False,000,False,False,False,2,198
+"### ||| (ب م)
+",000,False,000,False,False,False,3,34
+"### || الباء مع النون
+",000,False,000,False,False,False,2,2333
+"### ||| (ب ن ت)
+",000,False,000,False,False,False,3,64
+"### ||| (ب ن د)
+",000,False,000,False,False,False,3,41
+"### ||| (ب ن ي)
+",000,False,000,False,False,False,3,91
+"### ||| فصل الاختلاف والوهم
+",000,False,000,False,False,False,3,355
+"### ||| فصل آخر منه
+",000,False,000,False,False,False,3,1146
+"### || الباء مع الصاد
+",000,False,000,False,False,False,2,304
+"### ||| (ب ص ر)
+",000,False,000,False,False,False,3,232
+"### || الباء مع الضاد
+",000,False,000,False,False,False,2,155
+"### || الباء مع العين
+",000,False,000,False,False,False,2,964
+"### ||| (ب ع ث)
+",000,False,000,False,False,False,3,77
+"### ||| (ب ع د)
+",000,False,000,False,False,False,3,125
+"### ||| (ب ع ل)
+",000,False,000,False,False,False,3,162
+"### || الباء مع الغين
+",000,False,000,False,False,False,2,249
+"### ||| (ب غ ى)
+",000,False,000,False,False,False,3,125
+"### || الباء مع الفاء
+",000,False,000,False,False,False,2,50
+"### || الباء مع القاف
+",000,False,000,False,False,False,2,658
+"### ||| (ب ق ر)
+",000,False,000,False,False,False,3,74
+"### ||| (ب ق ع)
+",000,False,000,False,False,False,3,96
+"### ||| (ب ق ى)
+",000,False,000,False,False,False,3,32
+"### || الباء مع السين
+",000,False,000,False,False,False,2,394
+"### ||| (ب س س ms0168)
+",000,False,000,False,False,False,3,116
+"### ||| (ب س ر)
+",000,False,000,False,False,False,3,64
+"### ||| (ب س ط)
+",000,False,000,False,False,False,3,129
+"### || الباء مع الشين
+",000,False,000,False,False,False,2,368
+"### ||| (ب ش ر)
+",000,False,000,False,False,False,3,51
+"### ||| (ب ش ع)
+",000,False,000,False,False,False,3,19
+"### ||| (ب ش ق)
+",000,False,000,False,False,False,3,84
+"### ||| (ب ش ش)
+",000,False,000,False,False,False,3,67
+"### || الباء مع الهاء
+",000,False,000,False,False,False,2,648
+"### ||| (ب ه ا) 
+",000,False,000,False,False,False,3,21
+"### ||| (ب ه ب ه) 
+",000,False,000,False,False,False,3,34
+"### ||| (ب ه ت) 
+",000,False,000,False,False,False,3,71
+"### ||| (ب ms0171 ه ج) 
+",000,False,000,False,False,False,3,34
+"### ||| (ب ه ر)
+",000,False,000,False,False,False,3,43
+"### ||| (ب ه م)
+",000,False,000,False,False,False,3,95
+"### ||| (ب ه ش) 
+",000,False,000,False,False,False,3,49
+"### ||| (ب ه و)
+",000,False,000,False,False,False,3,51
+"### || الباء مع الواو
+",000,False,000,False,False,False,2,858
+"### ||| (ب وأ)
+",000,False,000,False,False,False,3,110
+"### ||| (ب وح)
+",000,False,000,False,False,False,3,35
+"### ||| (ب ور)
+",000,False,000,False,False,False,3,41
+"### ||| (ب ول)
+",000,False,000,False,False,False,3,325
+"### ||| (ب ون)
+",000,False,000,False,False,False,3,47
+"### ||| (ب وع)
+",000,False,000,False,False,False,3,106
+"### || الباء مع الياء
+",000,False,000,False,False,False,2,1892
+"### ||| (ب ى ب)
+",000,False,000,False,False,False,3,22
+"### ||| (ب ى ت)
+",000,False,000,False,False,False,3,206
+"### ||| (ب ى ح)
+",000,False,000,False,False,False,3,57
+"### ||| (ب ى د)
+",000,False,000,False,False,False,3,129
+"### ||| (ب ى ن)
+",000,False,000,False,False,False,3,149
+"### ||| (ب ى ض)
+",000,False,000,False,False,False,3,294
+"### ||| (ب ى ع)
+",000,False,000,False,False,False,3,309
+"### || فصل مشكل الأسماء والكنى في هذا الحرف
+",000,False,000,False,False,False,2,1101
+"### || فصل الاختلاف والوهم
+",000,False,000,False,False,False,2,986
+"### ||| فصل منه </span>
+",000,False,000,False,False,False,3,228
+"### ||| فصل منه
+",000,False,000,False,False,False,3,198
+"### || فصل مشكل الأنساب
+",000,False,000,False,False,False,2,390
+"### || فصل الاختلاف والوهم
+",000,False,000,False,False,False,2,104
+"### | حرف التاء
+",000,False,000,False,False,False,1,4663
+"### || (التاء مع الهمزة)
+",000,False,000,False,False,False,2,294
+"### ||| (ت اد)
+",000,False,000,False,False,False,3,17
+"### || (التاء مع الباء)
+",000,False,000,False,False,False,2,616
+"### ||| (ت ب ب)
+",000,False,000,False,False,False,3,27
+"### ||| (ت ب ت)
+",000,False,000,False,False,False,3,90
+"### ||| (ت ب ر)
+",000,False,000,False,False,False,3,25
+"### ||| (ت ب ن)
+",000,False,000,False,False,False,3,29
+"### ||| (ت ب ع)
+",000,False,000,False,False,False,3,279
+"### || (التاء مع الجيم)
+",000,False,000,False,False,False,2,29
+"### || (التاء مع الحاء)
+",000,False,000,False,False,False,2,166
+"### ||| (ت ح ت)
+",000,False,000,False,False,False,3,51
+"### ||| (ت ح ف)
+",000,False,000,False,False,False,3,69
+"### || التاء مع الراء
+",000,False,000,False,False,False,2,574
+"### ||| (ت ر ب)
+",000,False,000,False,False,False,3,205
+"### ||| (ت ر ج)
+",000,False,000,False,False,False,3,82
+"### ||| (ت ر ك)
+",000,False,000,False,False,False,3,60
+"### ||| (ت ر ع)
+",000,False,000,False,False,False,3,46
+"### ||| (ت ر ق)
+",000,False,000,False,False,False,3,43
+"### ||| (ت ر س)
+",000,False,000,False,False,False,3,26
+"### ||| (ت ر ه)
+",000,False,000,False,False,False,3,33
+"### || التاء مع الكاف
+",000,False,000,False,False,False,2,43
+"### || التاء مع اللام
+",000,False,000,False,False,False,2,450
+"### ||| (ت ل د)
+",000,False,000,False,False,False,3,22
+"### ||| (ت ل ك 
+",000,False,000,False,False,False,3,100
+"### ||| (ت ل ه)
+",000,False,000,False,False,False,3,39
+"### ||| (ت ل ع)
+",000,False,000,False,False,False,3,41
+"### ||| (ت ل ى)
+",000,False,000,False,False,False,3,220
+"### || التاء مع الميم
+",000,False,000,False,False,False,2,271
+"### ||| (ت م ت)
+",000,False,000,False,False,False,3,44
+"### ||| (ت م م)
+",000,False,000,False,False,False,3,163
+"### || التاء مع النون
+",000,False,000,False,False,False,2,60
+"### || التاء مع العين
+",000,False,000,False,False,False,2,194
+"### ||| (ت ع ت)
+",000,False,000,False,False,False,3,34
+"### ||| (ت ع س)
+",000,False,000,False,False,False,3,42
+"### || التاء مع الفاء
+",000,False,000,False,False,False,2,258
+"### ||| (ت ف ث)
+",000,False,000,False,False,False,3,62
+"### ||| (ت ف ل)
+",000,False,000,False,False,False,3,158
+"### ||| (ت ف ه) 
+",000,False,000,False,False,False,3,19
+"### || التاء مع ms0207 القاف
+",000,False,000,False,False,False,2,250
+"### ||| (ت ق و)
+",000,False,000,False,False,False,3,83
+"### || التاء مع السين فيه من الاختلاف والوهم
+",000,False,000,False,False,False,2,299
+"### || التاء مع الواو
+",000,False,000,False,False,False,2,232
+"### ||| (ت وب)
+",000,False,000,False,False,False,3,38
+"### ||| (ت وج) 
+",000,False,000,False,False,False,3,37
+"### ||| (ت ور)
+",000,False,000,False,False,False,3,26
+"### ||| (ت وق)
+",000,False,000,False,False,False,3,36
+"### ||| (ت وو)
+",000,False,000,False,False,False,3,24
+"### ||| (ت وى)
+",000,False,000,False,False,False,3,81
+"### || التاء مع الياء
+",000,False,000,False,False,False,2,83
+"### ||| (ت ى س)
+",000,False,000,False,False,False,3,24
+"### ||| (ت ى ه)
+",000,False,000,False,False,False,3,44
+"### || التاء المفردة
+",000,False,000,False,False,False,2,28
+"### || التاء المزيدة
+",000,False,000,False,False,False,2,89
+"### || فصل في أسماء المواضع في هذا الحرف
+",000,False,000,False,False,False,2,230
+"### ||| (تبالة) 
+",000,False,000,False,False,False,3,42
+"### ||| (تبوك) 
+",000,False,000,False,False,False,3,33
+"### ||| (التنعيم) 
+",000,False,000,False,False,False,3,37
+"### ||| (تعهن)
+",000,False,000,False,False,False,3,64
+"### ||| (تهامة) 
+",000,False,000,False,False,False,3,37
+"### ||| (تستر)
+",000,False,000,False,False,False,3,25
+"### || مشكل الأسماء والكنى في هذا الحرف
+",000,False,000,False,False,False,2,254
+"### | حرف الثاء
+",000,False,000,False,False,False,1,4352
+"### || الثاء مع الهمزة
+",000,False,000,False,False,False,2,76
+"### ||| (ث اب)
+",000,False,000,False,False,False,3,48
+"### || الثاء مع الباء
+",000,False,000,False,False,False,2,255
+"### ||| (ث ب ت)
+",000,False,000,False,False,False,3,69
+"### ||| (ث ب ج)
+",000,False,000,False,False,False,3,34
+"### ||| (ث ب ط)
+",000,False,000,False,False,False,3,48
+"### || الثاء مع الجيم
+",000,False,000,False,False,False,2,140
+"### || الثاء مع الخاء
+",000,False,000,False,False,False,2,61
+"### || الثاء والدال
+",000,False,000,False,False,False,2,172
+"### ||| (ث د ى)
+",000,False,000,False,False,False,3,125
+"### || الثاء مع الراء
+",000,False,000,False,False,False,2,125
+"### ||| (ث ر ب)
+",000,False,000,False,False,False,3,18
+"### ||| (ت ر و)
+",000,False,000,False,False,False,3,62
+"### || الثاء مع الكاف
+",000,False,000,False,False,False,2,29
+"### || الثاء مع اللام
+",000,False,000,False,False,False,2,633
+"### ||| (ث ل ث)
+",000,False,000,False,False,False,3,60
+"### ||| (ث ل ط)
+",000,False,000,False,False,False,3,15
+"### ||| (ث ل ل)
+",000,False,000,False,False,False,3,20
+"### ||| (ث ل م)
+",000,False,000,False,False,False,3,29
+"### ||| (ث ل غ)
+",000,False,000,False,False,False,3,35
+"### || الثاء مع الميم
+",000,False,000,False,False,False,2,605
+"### ||| (ث م د)
+",000,False,000,False,False,False,3,36
+"### ||| (ث م ر)
+",000,False,000,False,False,False,3,29
+"### ||| (ث م ل)
+",000,False,000,False,False,False,3,33
+"### ||| (ث م م)
+",000,False,000,False,False,False,3,80
+"### ||| (ث م ن)
+",000,False,000,False,False,False,3,77
+"### || الثاء مع النون
+",000,False,000,False,False,False,2,341
+"### ||| (ث ن ن)
+",000,False,000,False,False,False,3,25
+"### ||| (ث ن ى)
+",000,False,000,False,False,False,3,213
+"### || الثاء مع العين
+",000,False,000,False,False,False,2,304
+"### ||| (ث ع ب)
+",000,False,000,False,False,False,3,39
+"### ||| (ث ع ر)
+",000,False,000,False,False,False,3,176
+"### || الثاء مع الغين
+",000,False,000,False,False,False,2,306
+"### ||| (ث غ ا)
+",000,False,000,False,False,False,3,19
+"### ||| (ث غ ب)
+",000,False,000,False,False,False,3,63
+"### ||| (ث غ ر)
+",000,False,000,False,False,False,3,118
+"### ||| (ث غ ر) 
+",000,False,000,False,False,False,3,62
+"### || الثاء مع الفاء
+",000,False,000,False,False,False,2,215
+"### ||| (ث ف ر)
+",000,False,000,False,False,False,3,13
+"### ||| ثوب 
+",000,False,000,False,False,False,3,34
+"### ||| (ث ف ل)
+",000,False,000,False,False,False,3,28
+"### || الثاء مع القاف
+",000,False,000,False,False,False,2,187
+"### ||| (ث ق ل)
+",000,False,000,False,False,False,3,80
+"### ||| (ث ق ف)
+",000,False,000,False,False,False,3,19
+"### || الثاء مع الواو
+",000,False,000,False,False,False,2,555
+"### ||| (ث وب)
+",000,False,000,False,False,False,3,226
+"### ||| (ث ور)
+",000,False,000,False,False,False,3,153
+"### ||| (ث وى)
+",000,False,000,False,False,False,3,63
+"### || الثاء مع الياء) 
+",000,False,000,False,False,False,2,34
+"### || فصل أسماء المواضع من هذا الحرف
+",000,False,000,False,False,False,2,276
+"### ||| ثبير
+",000,False,000,False,False,False,3,19
+"### ||| (ثمغ)
+",000,False,000,False,False,False,3,22
+"### ||| (ثنية الوداع)
+",000,False,000,False,False,False,3,100
+"### ||| (ثنية المرار) 
+",000,False,000,False,False,False,3,30
+"### | حرف الجيم
+",000,False,000,False,False,False,1,17093
+"### || (الجيم مع الهمزة)
+",000,False,000,False,False,False,2,258
+"### ||| (ج ار)
+",000,False,000,False,False,False,3,78
+"### ||| (ح ان)
+",000,False,000,False,False,False,3,18
+"### ||| (ج اش)
+",000,False,000,False,False,False,3,30
+"### || الجيم مع الباء
+",000,False,000,False,False,False,2,1083
+"### ||| (ج ب ب)
+",000,False,000,False,False,False,3,84
+"### ||| (ج ب ذ)
+",000,False,000,False,False,False,3,42
+"### ||| (ج ب ر)
+",000,False,000,False,False,False,3,220
+"### ||| (ج ب ل)
+",000,False,000,False,False,False,3,25
+"### ||| (ج ب ن)
+",000,False,000,False,False,False,3,38
+"### ||| (ج ب ه)
+",000,False,000,False,False,False,3,56
+"### ||| (ج ب ى)
+",000,False,000,False,False,False,3,55
+"### || الجيم مع الثاء
+",000,False,000,False,False,False,2,137
+"### ||| (ج ث م)
+",000,False,000,False,False,False,3,51
+"### ||| (ج ث و)
+",000,False,000,False,False,False,3,58
+"### || الجيم مع الحاء
+",000,False,000,False,False,False,2,182
+"### ||| (ج ح ح)
+",000,False,000,False,False,False,3,20
+"### ||| (ج ح ر)
+",000,False,000,False,False,False,3,57
+"### ||| (ج ح م)
+",000,False,000,False,False,False,3,28
+"### ||| (ج ح ف)
+",000,False,000,False,False,False,3,16
+"### ||| (ج ح ش)
+",000,False,000,False,False,False,3,31
+"### || الجيم مع الخاء
+",000,False,000,False,False,False,2,42
+"### || الجيم مع الدال
+",000,False,000,False,False,False,2,1035
+"### ||| (ج د ب)
+",000,False,000,False,False,False,3,27
+"### ||| (ج د ح)
+",000,False,000,False,False,False,3,35
+"### ||| (ج د د)
+",000,False,000,False,False,False,3,232
+"### ||| (ج د ر)
+",000,False,000,False,False,False,3,76
+"### ||| (ج د ل)
+",000,False,000,False,False,False,3,50
+"### ||| (ج د ع)
+",000,False,000,False,False,False,3,87
+"### ||| (ج د ى)
+",000,False,000,False,False,False,3,29
+"### || الجيم مع الذال
+",000,False,000,False,False,False,2,381
+"### ||| (ج ذ ب)
+",000,False,000,False,False,False,3,18
+"### ||| (ج ذ ر)
+",000,False,000,False,False,False,3,23
+"### ||| (ج ذ ل)
+",000,False,000,False,False,False,3,98
+"### ||| (ج ذ ع)
+",000,False,000,False,False,False,3,154
+"### ||| (ج ذ ى)
+",000,False,000,False,False,False,3,26
+"### || الجيم مع الراء
+",000,False,000,False,False,False,2,1555
+"### ||| (ج ر ا)
+",000,False,000,False,False,False,3,54
+"### ||| (ج ر ب)
+",000,False,000,False,False,False,3,31
+"### ||| (ج ر ج)
+",000,False,000,False,False,False,3,63
+"### ||| (ج ر د)
+",000,False,000,False,False,False,3,18
+"### ||| (ج ر ذ)
+",000,False,000,False,False,False,3,29
+"### ||| (ج ر ر)
+",000,False,000,False,False,False,3,133
+"### ||| (ج ر م)
+",000,False,000,False,False,False,3,90
+"### ||| (ج ر ن)
+",000,False,000,False,False,False,3,7
+"### ||| (ج ر ع)
+",000,False,000,False,False,False,3,55
+"### ||| (ج ر ف)
+",000,False,000,False,False,False,3,28
+"### ||| (ج ر س)
+",000,False,000,False,False,False,3,96
+"### ||| (ج ر و)
+",000,False,000,False,False,False,3,75
+"### ||| (ج ر ى)
+",000,False,000,False,False,False,3,197
+"### || الجيم مع الزاي
+",000,False,000,False,False,False,2,686
+"### ||| (ج ز ا)
+",000,False,000,False,False,False,3,207
+"### ||| (ج ز ر)
+",000,False,000,False,False,False,3,45
+"### ||| (ج ز ل)
+",000,False,000,False,False,False,3,46
+"### ||| (ج ز ع)
+",000,False,000,False,False,False,3,136
+"### ||| (ج زف)
+",000,False,000,False,False,False,3,27
+"### ||| (ج ز ى)
+",000,False,000,False,False,False,3,54
+"### || الجيم مع اللام
+",000,False,000,False,False,False,2,1526
+"### ||| (ج ل ب)
+",000,False,000,False,False,False,3,219
+"### ||| (ج ل ج)
+",000,False,000,False,False,False,3,13
+"### ||| (ج ل ح)
+",000,False,000,False,False,False,3,42
+"### ||| (ج ل د)
+",000,False,000,False,False,False,3,102
+"### ||| (ج ل ل)
+",000,False,000,False,False,False,3,53
+"### ||| (ج ل م)
+",000,False,000,False,False,False,3,31
+"### ||| (ج ل ف)
+",000,False,000,False,False,False,3,44
+"### ||| (ج ل س)
+",000,False,000,False,False,False,3,95
+"### ||| (ج ل ى)
+",000,False,000,False,False,False,3,249
+"### || الجيم مع الميم
+",000,False,000,False,False,False,2,1369
+"### ||| (ج م ح)
+",000,False,000,False,False,False,3,39
+"### ||| (ج م د)
+",000,False,000,False,False,False,3,53
+"### ||| (ج م ر)
+",000,False,000,False,False,False,3,112
+"### ||| (ج م ز)
+",000,False,000,False,False,False,3,18
+"### ||| (ج م ل)
+",000,False,000,False,False,False,3,126
+"### ||| (ج م م)
+",000,False,000,False,False,False,3,113
+"### ||| (ج م ن)
+",000,False,000,False,False,False,3,48
+"### ||| (ج م ع)
+",000,False,000,False,False,False,3,438
+"### || الجيم مع النون
+",000,False,000,False,False,False,2,1338
+"### ||| (ج ن ا)
+",000,False,000,False,False,False,3,32
+"### ||| (ج ن ب)
+",000,False,000,False,False,False,3,288
+"### ||| (ج ن ح)
+",000,False,000,False,False,False,3,88
+"### ||| (ج ن د)
+",000,False,000,False,False,False,3,81
+"### ||| (ج ن ز)
+",000,False,000,False,False,False,3,36
+"### ||| (ج ن ن)
+",000,False,000,False,False,False,3,246
+"### || الجيم مع الصاد
+",000,False,000,False,False,False,2,35
+"### || الجيم مع العين
+",000,False,000,False,False,False,2,622
+"### ||| (ج ع د)
+",000,False,000,False,False,False,3,130
+"### ||| (ج ع ر)
+",000,False,000,False,False,False,3,46
+"### ||| (ج ع ظ)
+",000,False,000,False,False,False,3,42
+"### ||| (ج ع ل)
+",000,False,000,False,False,False,3,132
+"### ||| (ج ع ف)
+",000,False,000,False,False,False,3,19
+"### || الجيم مع الفاء
+",000,False,000,False,False,False,2,359
+"### ||| (ج ف ر)
+",000,False,000,False,False,False,3,68
+"### ||| (ج ف ل)
+",000,False,000,False,False,False,3,19
+"### ||| (ج ف ن)
+",000,False,000,False,False,False,3,81
+"### ||| (ج ف ف)
+",000,False,000,False,False,False,3,88
+"### ||| (ج ف و)
+",000,False,000,False,False,False,3,74
+"### || الجيم مع السين
+",000,False,000,False,False,False,2,207
+"### ||| (ج س ر)
+",000,False,000,False,False,False,3,25
+"### ||| (ج س س)
+",000,False,000,False,False,False,3,148
+"### || الجيم مع الشين
+",000,False,000,False,False,False,2,221
+"### ||| (ج ش ا)
+",000,False,000,False,False,False,3,33
+"### ||| (ج ش ر)
+",000,False,000,False,False,False,3,56
+"### ||| (ج ش م)
+",000,False,000,False,False,False,3,37
+"### || الجيم مع الهاء
+",000,False,000,False,False,False,2,1098
+"### ||| (ج ه د) 
+",000,False,000,False,False,False,3,294
+"### ||| (ج ه ر) 
+",000,False,000,False,False,False,3,78
+"### ||| (ج ه ز)
+",000,False,000,False,False,False,3,47
+"### ||| (ج ه ل)
+",000,False,000,False,False,False,3,81
+"### ||| (ج ه م)
+",000,False,000,False,False,False,3,19
+"### ||| (ج ه ش)
+",000,False,000,False,False,False,3,49
+"### || الجيم مع الواو
+",000,False,000,False,False,False,2,1614
+"### ||| (ج وب)
+",000,False,000,False,False,False,3,240
+"### ||| (ج وح)
+",000,False,000,False,False,False,3,24
+"### ||| (ج ود)
+",000,False,000,False,False,False,3,109
+"### ||| (ج ور)
+",000,False,000,False,False,False,3,133
+"### ||| (ج وز)
+",000,False,000,False,False,False,3,192
+"### ||| (ج وظ)
+",000,False,000,False,False,False,3,46
+"### ||| (ج ول)
+",000,False,000,False,False,False,3,69
+"### ||| (ج وم)
+",000,False,000,False,False,False,3,22
+"### ||| (ج وع)
+",000,False,000,False,False,False,3,24
+"### ||| (ج وف)
+",000,False,000,False,False,False,3,91
+"### ||| (ج وق)
+",000,False,000,False,False,False,3,53
+"### || الجيم مع الياء
+",000,False,000,False,False,False,2,550
+"### ||| (ج ى ا)
+",000,False,000,False,False,False,3,33
+"### ||| (ج ى ب)
+",000,False,000,False,False,False,3,116
+"### ||| (ج ى ل)
+",000,False,000,False,False,False,3,22
+"### ||| (ج ى ف)
+",000,False,000,False,False,False,3,25
+"### ||| (ج ى ش)
+",000,False,000,False,False,False,3,61
+"### || فصل أسماء المواضع ms0279 في هذا الحرف
+",000,False,000,False,False,False,2,669
+"### ||| (جمع)
+",000,False,000,False,False,False,3,24
+"### ||| (الجمرة) 
+",000,False,000,False,False,False,3,34
+"### ||| (الجعرانة)
+",000,False,000,False,False,False,3,74
+"### ||| (جرباء)
+",000,False,000,False,False,False,3,26
+"### ||| (الجحفة)
+",000,False,000,False,False,False,3,51
+"### ||| (جواثي)
+",000,False,000,False,False,False,3,26
+"### ||| (الجرف)
+",000,False,000,False,False,False,3,34
+"### ||| (بير جشم وبير جمل) 
+",000,False,000,False,False,False,3,18
+"### ||| (الجبيل)
+",000,False,000,False,False,False,3,21
+"### ||| (جيحان)
+",000,False,000,False,False,False,3,40
+"### ||| (جمدان)
+",000,False,000,False,False,False,3,27
+"### ||| (الجوانية)
+",000,False,000,False,False,False,3,52
+"### ||| (ذات الجيش)
+",000,False,000,False,False,False,3,16
+"### ||| (الجابية)
+",000,False,000,False,False,False,3,21
+"### ||| (الجار) 
+",000,False,000,False,False,False,3,13
+"### ||| (جرش)
+",000,False,000,False,False,False,3,26
+"### ||| (الجبانة)
+",000,False,000,False,False,False,3,11
+"### ||| (جبل الجمر) 
+",000,False,000,False,False,False,3,20
+"### ||| (جزيرة العرب)
+",000,False,000,False,False,False,3,109
+"### ||| (الجزيرة)
+",000,False,000,False,False,False,3,23
+"### ||| (الجوف) 
+",000,False,000,False,False,False,3,28
+"### ||| (الجرعة)
+",000,False,000,False,False,False,3,74
+"### || فصل مشكل الأسماء والكنى في هذا الحرف
+",000,False,000,False,False,False,2,1699
+"### ||| فصل الاختلاف والوهم
+",000,False,000,False,False,False,3,367
+"### | حرف الحاء
+",000,False,000,False,False,False,1,24818
+"### || الحاء مع الباء
+",000,False,000,False,False,False,2,1708
+"### ||| (ح ب ب)
+",000,False,000,False,False,False,3,316
+"### ||| (ح ب ذ)
+",000,False,000,False,False,False,3,17
+"### ||| (ح ب ر)
+",000,False,000,False,False,False,3,112
+"### ||| (ح ب ط)
+",000,False,000,False,False,False,3,39
+"### ||| (ح ب ل)
+",000,False,000,False,False,False,3,343
+"### ||| (ح ب ق)
+",000,False,000,False,False,False,3,27
+"### ||| (ح ب س)
+",000,False,000,False,False,False,3,94
+"### ||| (ح ب ش)
+",000,False,000,False,False,False,3,96
+"### ||| (ح ب و)
+",000,False,000,False,False,False,3,100
+"### || الحاء مع التاء
+",000,False,000,False,False,False,2,981
+"### ||| (ح ت ت)
+",000,False,000,False,False,False,3,207
+"### ||| (ح ت ف)
+",000,False,000,False,False,False,3,102
+"### || الحاء مع الثاء
+",000,False,000,False,False,False,2,266
+"### ||| (ح ث ث)
+",000,False,000,False,False,False,3,40
+"### ||| (ح ث ل)
+",000,False,000,False,False,False,3,28
+"### ||| (ح ث و)
+",000,False,000,False,False,False,3,90
+"### || الحاء مع الجيم
+",000,False,000,False,False,False,2,1053
+"### ||| (ح ج ب)
+",000,False,000,False,False,False,3,141
+"### ||| (ح ج ج)
+",000,False,000,False,False,False,3,96
+"### ||| (ح ج ر)
+",000,False,000,False,False,False,3,244
+"### ||| (ح ج ز)
+",000,False,000,False,False,False,3,86
+"### ||| (ح ج ل)
+",000,False,000,False,False,False,3,104
+"### ||| (ح ج م)
+",000,False,000,False,False,False,3,30
+"### ||| (ح ج ن)
+",000,False,000,False,False,False,3,32
+"### ||| (ح ج ف)
+",000,False,000,False,False,False,3,29
+"### ||| (ح ج ى)
+",000,False,000,False,False,False,3,17
+"### || الخاء مع الدال
+",000,False,000,False,False,False,2,1343
+"### ||| (ح د ا)
+",000,False,000,False,False,False,3,50
+"### ||| (ح د ب)
+",000,False,000,False,False,False,3,29
+"### ||| (ح د ث)
+",000,False,000,False,False,False,3,263
+"### ||| (ج ح د)
+",000,False,000,False,False,False,3,107
+"### ||| (ح د ر)
+",000,False,000,False,False,False,3,81
+"### ||| (ح د ق)
+",000,False,000,False,False,False,3,81
+"### ||| (ح د و)
+",000,False,000,False,False,False,3,29
+"### || الحاء مع الذال
+",000,False,000,False,False,False,2,219
+"### ||| (ج ح اء)
+",000,False,000,False,False,False,3,23
+"### ||| (ح ذ ف)
+",000,False,000,False,False,False,3,75
+"### ||| (ح ذ و)
+",000,False,000,False,False,False,3,81
+"### ||| (ح ذ ى)
+",000,False,000,False,False,False,3,28
+"### || الحاء مع الراء
+",000,False,000,False,False,False,2,1938
+"### ||| (ح ر ب)
+",000,False,000,False,False,False,3,68
+"### ||| (ح ر ج)
+",000,False,000,False,False,False,3,283
+"### ||| (ح ر ر)
+",000,False,000,False,False,False,3,166
+"### ||| (ح رز)
+",000,False,000,False,False,False,3,32
+"### ||| (ح ر م)
+",000,False,000,False,False,False,3,264
+"### ||| (ح ر ف)
+",000,False,000,False,False,False,3,89
+"### ||| (ح ر ق)
+",000,False,000,False,False,False,3,85
+"### ||| (ح ر س)
+",000,False,000,False,False,False,3,68
+"### ||| (ح ر ش)
+",000,False,000,False,False,False,3,33
+"### ||| (ح ر ى)
+",000,False,000,False,False,False,3,89
+"### || الحاء مع الزاي
+",000,False,000,False,False,False,2,767
+"### ||| (ح ز ب)
+",000,False,000,False,False,False,3,64
+"### ||| (ح ز ر)
+",000,False,000,False,False,False,3,70
+"### ||| (ح ز ز)
+",000,False,000,False,False,False,3,58
+"### ||| (ح ز م)
+",000,False,000,False,False,False,3,25
+"### ||| (ح ز ن)
+",000,False,000,False,False,False,3,90
+"### ||| (ح ز ق)
+",000,False,000,False,False,False,3,14
+"### ||| (ح ز ى)
+",000,False,000,False,False,False,3,37
+"### || الحاء والطاء
+",000,False,000,False,False,False,2,475
+"### ||| (ح ط ا)
+",000,False,000,False,False,False,3,56
+"### ||| (ح ط ط)
+",000,False,000,False,False,False,3,42
+"### ||| (ح ط م)
+",000,False,000,False,False,False,3,133
+"### || الحاء مع الظاء
+",000,False,000,False,False,False,2,169
+"### ||| (ح ظ ر)
+",000,False,000,False,False,False,3,118
+"### ||| (ح ظ ظ)
+",000,False,000,False,False,False,3,16
+"### || الحاء مع الكاف
+",000,False,000,False,False,False,2,179
+"### ||| (ح ك ك)
+",000,False,000,False,False,False,3,19
+"### ||| (ح ك ر)
+",000,False,000,False,False,False,3,12
+"### || الخاء مع اللام
+",000,False,000,False,False,False,2,2327
+"### ||| (ح ل ا)</span> 
+",000,False,000,False,False,False,3,44
+"### ||| (ح ل ب)
+",000,False,000,False,False,False,3,255
+"### ||| (ح ل ج)
+",000,False,000,False,False,False,3,61
+"### ||| (ح ل)
+",000,False,000,False,False,False,3,35
+"### ||| (ح ل ل)
+",000,False,000,False,False,False,3,624
+"### ||| (ح ل م)
+",000,False,000,False,False,False,3,187
+"### ||| (ح ل ف)
+",000,False,000,False,False,False,3,132
+"### ||| (ح ل ق)
+",000,False,000,False,False,False,3,292
+"### ||| (ح ل س)
+",000,False,000,False,False,False,3,57
+"### ||| (ح ل و)
+",000,False,000,False,False,False,3,105
+"### ||| (ح ل ى)
+",000,False,000,False,False,False,3,29
+"### || الحاء مع الميم
+",000,False,000,False,False,False,2,1660
+"### ||| (ح م ا)
+",000,False,000,False,False,False,3,251
+"### ||| (ح م ت)
+",000,False,000,False,False,False,3,112
+"### ||| (ح م ح م) 
+",000,False,000,False,False,False,3,20
+"### ||| (ح م د)
+",000,False,000,False,False,False,3,175
+"### ||| (ح م ر)
+",000,False,000,False,False,False,3,215
+"### ||| (ح م ل)
+",000,False,000,False,False,False,3,244
+"### ||| (ح م م)
+",000,False,000,False,False,False,3,72
+"### ||| (ح م ن)
+",000,False,000,False,False,False,3,27
+"### ||| (ح م ص)
+",000,False,000,False,False,False,3,15
+"### ||| (ح م ق)
+",000,False,000,False,False,False,3,26
+"### ||| (ح م س)
+",000,False,000,False,False,False,3,53
+"### ||| (ح م ش)
+",000,False,000,False,False,False,3,25
+"### ||| (ح م ي)
+",000,False,000,False,False,False,3,138
+"### || الحاء مع النون
+",000,False,000,False,False,False,2,985
+"### ||| (ح ن ا)
+",000,False,000,False,False,False,3,30
+"### ||| (ح ن ت م)
+",000,False,000,False,False,False,3,100
+"### ||| (ح ن ث)
+",000,False,000,False,False,False,3,83
+"### ||| (ح ن ج)
+",000,False,000,False,False,False,3,15
+"### ||| (ح ن ذ)
+",000,False,000,False,False,False,3,47
+"### ||| (ح ن ط)
+",000,False,000,False,False,False,3,53
+"### ||| (ح ن ك)
+",000,False,000,False,False,False,3,30
+"### ||| (ح ن ن)
+",000,False,000,False,False,False,3,44
+"### ||| (ح ن ف)
+",000,False,000,False,False,False,3,71
+"### ||| (ح ن و)
+",000,False,000,False,False,False,3,57
+"### ||| فصل الاختلاف والوهم
+",000,False,000,False,False,False,3,156
+"### || الحاء مع الصاد
+",000,False,000,False,False,False,2,898
+"### ||| (ح ص ب)
+",000,False,000,False,False,False,3,68
+"### ||| (ح ص د)
+",000,False,000,False,False,False,3,74
+"### ||| (ح ص ر)
+",000,False,000,False,False,False,3,216
+"### ||| (ح ص ل)
+",000,False,000,False,False,False,3,40
+"### ||| (ح ص ن)
+",000,False,000,False,False,False,3,88
+"### ||| (ح ص ص)
+",000,False,000,False,False,False,3,44
+"### ||| (ح ص ى)
+",000,False,000,False,False,False,3,322
+"### || الحاء مع الضاد
+",000,False,000,False,False,False,2,334
+"### ||| (ح ض ر)
+",000,False,000,False,False,False,3,149
+"### ||| (ح ض ض)
+",000,False,000,False,False,False,3,27
+"### ||| (ح ض ن)
+",000,False,000,False,False,False,3,23
+"### || الحاء مع الفاء
+",000,False,000,False,False,False,2,856
+"### ||| (ح ف ز)
+",000,False,000,False,False,False,3,38
+"### ||| (ح ف ظ)
+",000,False,000,False,False,False,3,97
+"### ||| (ح ف ل)
+",000,False,000,False,False,False,3,60
+"### ||| (ح ف ن)
+",000,False,000,False,False,False,3,50
+"### ||| (ح ف ف)
+",000,False,000,False,False,False,3,40
+"### ||| (ح ف ش)
+",000,False,000,False,False,False,3,72
+"### ||| (ح ف و)
+",000,False,000,False,False,False,3,88
+"### || الحاء مع القاف
+",000,False,000,False,False,False,2,783
+"### ||| (ح ق ب)
+",000,False,000,False,False,False,3,90
+"### ||| (ح ق ل)
+",000,False,000,False,False,False,3,102
+"### ||| (ح ق ن)
+",000,False,000,False,False,False,3,59
+"### ||| (ح ق ف)
+",000,False,000,False,False,False,3,46
+"### ||| (ح ق ق)
+",000,False,000,False,False,False,3,233
+"### ||| (ح ق ق)
+",000,False,000,False,False,False,3,130
+"### || الحاء والسين
+",000,False,000,False,False,False,2,1094
+"### ||| ح س ب)
+",000,False,000,False,False,False,3,264
+"### ||| (ح س د)
+",000,False,000,False,False,False,3,40
+"### ||| (ح س ر)
+",000,False,000,False,False,False,3,122
+"### ||| (ح س ك)
+",000,False,000,False,False,False,3,21
+"### ||| (ح س م)
+",000,False,000,False,False,False,3,37
+"### ||| (ح س ن ms0351)
+",000,False,000,False,False,False,3,173
+"### ||| (ح س س)
+",000,False,000,False,False,False,3,58
+"### || الحاء مع الشين
+",000,False,000,False,False,False,2,694
+"### ||| (ح ش د)
+",000,False,000,False,False,False,3,19
+"### ||| (ح ش ر)
+",000,False,000,False,False,False,3,176
+"### ||| (ح ش ف)
+",000,False,000,False,False,False,3,50
+"### ||| (ح ش ش)
+",000,False,000,False,False,False,3,129
+"### ||| (ح ش و)
+",000,False,000,False,False,False,3,43
+"### ||| (ح ش ى)
+",000,False,000,False,False,False,3,130
+"### || الحاء مع الواو
+",000,False,000,False,False,False,2,1095
+"### ||| (ح وب)
+",000,False,000,False,False,False,3,37
+"### ||| (ح وج) 
+",000,False,000,False,False,False,3,60
+"### ||| (ح ور)
+",000,False,000,False,False,False,3,326
+"### ||| (ح وز)
+",000,False,000,False,False,False,3,53
+"### ||| (ح ول)
+",000,False,000,False,False,False,3,260
+"### ||| (ح وض)
+",000,False,000,False,False,False,3,120
+"### ||| (ح وش)
+",000,False,000,False,False,False,3,27
+"### ||| (ح وى)
+",000,False,000,False,False,False,3,71
+"### || الحاء مع الياء
+",000,False,000,False,False,False,2,1302
+"### ||| (ح ي د)
+",000,False,000,False,False,False,3,40
+"### ||| (ح ي ر)
+",000,False,000,False,False,False,3,27
+"### ||| (ح ي ك)
+",000,False,000,False,False,False,3,74
+"### ||| (ح ي ل)
+",000,False,000,False,False,False,3,41
+"### ||| (ح ي ص)
+",000,False,000,False,False,False,3,39
+"### ||| (ح ي ض)
+",000,False,000,False,False,False,3,162
+"### ||| (ح ي ف)
+",000,False,000,False,False,False,3,27
+"### ||| (ح ي س)
+",000,False,000,False,False,False,3,43
+"### ||| (ح ي ش)
+",000,False,000,False,False,False,3,21
+"### ||| (ح ي ى)
+",000,False,000,False,False,False,3,544
+"### || فصل مشكل أسماء المواضع في هذا الحرف
+",000,False,000,False,False,False,2,850
+"### ||| (الحطيم)
+",000,False,000,False,False,False,3,83
+"### ||| (الحجر) 
+",000,False,000,False,False,False,3,91
+"### ||| (الحجر الأسود)
+",000,False,000,False,False,False,3,57
+"### ||| (أحجار الزيت)
+",000,False,000,False,False,False,3,18
+"### ||| (حراء)
+",000,False,000,False,False,False,3,53
+"### ||| (الحزورة) 
+",000,False,000,False,False,False,3,48
+"### ||| (الحفياء)
+",000,False,000,False,False,False,3,51
+"### ||| (الحديبية) 
+",000,False,000,False,False,False,3,93
+"### ||| (الحجاز) 
+",000,False,000,False,False,False,3,112
+"### ||| (ذو الحليفة)
+",000,False,000,False,False,False,3,52
+"### ||| (الحجون)
+",000,False,000,False,False,False,3,35
+"### ||| (الحيرة)
+",000,False,000,False,False,False,3,32
+"### ||| (الحثمة)
+",000,False,000,False,False,False,3,13
+"### ||| (حنين)
+",000,False,000,False,False,False,3,44
+"### ||| (الحرة) 
+",000,False,000,False,False,False,3,49
+"### ||| (حرة النار) 
+",000,False,000,False,False,False,3,39
+"### ||| (حا)
+",000,False,000,False,False,False,3,34
+"### ||| (الحصبة)
+",000,False,000,False,False,False,3,12
+"### ||| (حمص)
+",000,False,000,False,False,False,3,20
+"### || فصل مشكل الأسماء والكنى في هذا الحرف
+",000,False,000,False,False,False,2,2424
+"### ||| فصل الاختلاف والوهم
+",000,False,000,False,False,False,3,328
+"### ||| فصل منه </span>
+",000,False,000,False,False,False,3,308
+"### | حرف الخاء
+",000,False,000,False,False,False,1,11546
+"### || الخاء مع الباء
+",000,False,000,False,False,False,2,1078
+"### ||| (خ ب ا) 
+",000,False,000,False,False,False,3,214
+"### ||| (خ ب ب) 
+",000,False,000,False,False,False,3,29
+"### ||| (خ ب ث) 
+",000,False,000,False,False,False,3,288
+"### ||| (خ ب ر) 
+",000,False,000,False,False,False,3,133
+"### ||| (خ ب ط) 
+",000,False,000,False,False,False,3,46
+"### ||| (خ ب ل) 
+",000,False,000,False,False,False,3,45
+"### || الخاء مع التاء
+",000,False,000,False,False,False,2,235
+"### ||| (خ ت ر) 
+",000,False,000,False,False,False,3,23
+"### ||| (خ ت ل) 
+",000,False,000,False,False,False,3,69
+"### ||| (خ ت م) 
+",000,False,000,False,False,False,3,120
+"### || الخاء مع الدال
+",000,False,000,False,False,False,2,355
+"### ||| (خ د ج) 
+",000,False,000,False,False,False,3,41
+"### ||| (خ د د) 
+",000,False,000,False,False,False,3,43
+"### ||| (خ د ر) 
+",000,False,000,False,False,False,3,42
+"### ||| (خ د ل) 
+",000,False,000,False,False,False,3,45
+"### ||| (خ د م) 
+",000,False,000,False,False,False,3,34
+"### ||| (خ د ع) 
+",000,False,000,False,False,False,3,163
+"### || الخاء مع الذال
+",000,False,000,False,False,False,2,70
+"### ||| (خ ذ ل) 
+",000,False,000,False,False,False,3,25
+"### || الخاء مع الراء
+",000,False,000,False,False,False,2,1004
+"### ||| (خ ر ا) 
+",000,False,000,False,False,False,3,17
+"### ||| (خ ر ب) 
+",000,False,000,False,False,False,3,222
+"### ||| (خ ر ت) 
+",000,False,000,False,False,False,3,30
+"### ||| (خ ر ج) 
+",000,False,000,False,False,False,3,249
+"### ||| (خ ر د) 
+",000,False,000,False,False,False,3,36
+"### ||| (خ ر ر) 
+",000,False,000,False,False,False,3,36
+"### ||| (خ ر ط) 
+",000,False,000,False,False,False,3,17
+"### ||| (خ ر م) 
+",000,False,000,False,False,False,3,44
+"### ||| (خ ر ص) 
+",000,False,000,False,False,False,3,104
+"### ||| (خ ر ف) 
+",000,False,000,False,False,False,3,180
+"### ||| (خ ر ق) 
+",000,False,000,False,False,False,3,58
+"### || الخاء مع الزاي
+",000,False,000,False,False,False,2,290
+"### ||| (خ ز ر) 
+",000,False,000,False,False,False,3,46
+"### ||| (خ ز ز) 
+",000,False,000,False,False,False,3,34
+"### ||| (خ ز ل) 
+",000,False,000,False,False,False,3,32
+"### ||| (خ ز م) 
+",000,False,000,False,False,False,3,20
+"### ||| (خ ز ن) 
+",000,False,000,False,False,False,3,81
+"### ||| (خ ز ق) 
+",000,False,000,False,False,False,3,33
+"### || الخاء مع الطاء
+",000,False,000,False,False,False,2,778
+"### ||| (خ ط ا) 
+",000,False,000,False,False,False,3,65
+"### ||| (خ ط ب) 
+",000,False,000,False,False,False,3,72
+"### ||| (خ ط ر) 
+",000,False,000,False,False,False,3,129
+"### ||| (خ ط ط) 
+",000,False,000,False,False,False,3,97
+"### ||| (خ ط م) 
+",000,False,000,False,False,False,3,102
+"### ||| (خ ط ف) 
+",000,False,000,False,False,False,3,95
+"### ||| (خ ط ى) 
+",000,False,000,False,False,False,3,67
+"### || الخاء مع اللام
+",000,False,000,False,False,False,2,2029
+"### ||| (خ ل ا) 
+",000,False,000,False,False,False,3,37
+"### ||| (خ ل ب) 
+",000,False,000,False,False,False,3,83
+"### ||| (خ ل ج) 
+",000,False,000,False,False,False,3,55
+"### ||| (خ ل ط) 
+",000,False,000,False,False,False,3,146
+"### ||| (خ ل ل) 
+",000,False,000,False,False,False,3,242
+"### ||| (خ ل ص) 
+",000,False,000,False,False,False,3,123
+"### ||| (خ ل ع) 
+",000,False,000,False,False,False,3,16
+"### ||| (خ ل ف) 
+",000,False,000,False,False,False,3,584
+"### ||| (خ ل ق) 
+",000,False,000,False,False,False,3,95
+"### ||| (خ ل س) 
+",000,False,000,False,False,False,3,26
+"### ||| (خ ل و) 
+",000,False,000,False,False,False,3,176
+"### ||| (خ ل ى) 
+",000,False,000,False,False,False,3,56
+"### || الخاء مع الميم
+",000,False,000,False,False,False,2,614
+"### ||| (خ م ر) 
+",000,False,000,False,False,False,3,224
+"### ||| (خ م ل) 
+",000,False,000,False,False,False,3,28
+"### ||| (خ م م) 
+",000,False,000,False,False,False,3,25
+"### ||| (خ م ص) 
+",000,False,000,False,False,False,3,114
+"### ||| (خ م س) 
+",000,False,000,False,False,False,3,77
+"### ||| (خ م ش) 
+",000,False,000,False,False,False,3,48
+"### || الخاء والنون
+",000,False,000,False,False,False,2,438
+"### ||| (خ ن ث) 
+",000,False,000,False,False,False,3,75
+"### ||| (خ ن ج) 
+",000,False,000,False,False,False,3,27
+"### ||| (خ ن ز) 
+",000,False,000,False,False,False,3,41
+"### ||| (خ ن ن) 
+",000,False,000,False,False,False,3,41
+"### ||| (خ ن ع) 
+",000,False,000,False,False,False,3,140
+"### ||| (خ ن ق) 
+",000,False,000,False,False,False,3,32
+"### ||| (خ ن س) 
+",000,False,000,False,False,False,3,29
+"### || الخاء مع الصاد
+",000,False,000,False,False,False,2,526
+"### ||| (خ ص ب) 
+",000,False,000,False,False,False,3,27
+"### ||| (خ ص ر) 
+",000,False,000,False,False,False,3,138
+"### ||| (خ ص ل) 
+",000,False,000,False,False,False,3,60
+"### ||| (خ ص م) 
+",000,False,000,False,False,False,3,136
+"### ||| (خ ص ص) 
+",000,False,000,False,False,False,3,60
+"### ||| (خ ص ف) 
+",000,False,000,False,False,False,3,39
+"### ||| (خ ص ى) 
+",000,False,000,False,False,False,3,25
+"### || الخاء مع الضاد
+",000,False,000,False,False,False,2,577
+"### ||| (خ ض ب) 
+",000,False,000,False,False,False,3,99
+"### ||| (خ ض خ) 
+",000,False,000,False,False,False,3,17
+"### ||| (خ ض ر) 
+",000,False,000,False,False,False,3,420
+"### || الخاء مع الفاء
+",000,False,000,False,False,False,2,921
+"### ||| (خ ف ت) 
+",000,False,000,False,False,False,3,46
+"### ||| (خ ف ر) 
+",000,False,000,False,False,False,3,67
+"### ||| (خ ف ض) 
+",000,False,000,False,False,False,3,141
+"### ||| (خ ف ف) 
+",000,False,000,False,False,False,3,53
+"### ||| (خ ف ق) 
+",000,False,000,False,False,False,3,72
+"### ||| (خ ف ى) 
+",000,False,000,False,False,False,3,91
+"### || الخاء مع السين
+",000,False,000,False,False,False,2,258
+"### ||| (خ س ا) 
+",000,False,000,False,False,False,3,22
+"### ||| (خ س ر) 
+",000,False,000,False,False,False,3,57
+"### ||| (خ س ف) 
+",000,False,000,False,False,False,3,166
+"### || الخاء مع الشين
+",000,False,000,False,False,False,2,267
+"### ||| (خ ش ب) 
+",000,False,000,False,False,False,3,65
+"### ||| (خ ش ن) 
+",000,False,000,False,False,False,3,23
+"### ||| (خ ش ع) 
+",000,False,000,False,False,False,3,22
+"### ||| (خ ش ف) 
+",000,False,000,False,False,False,3,32
+"### ||| (خ ش خ ش)
+",000,False,000,False,False,False,3,29
+"### || الخاء مع الواو
+",000,False,000,False,False,False,2,599
+"### ||| (خ وب) 
+",000,False,000,False,False,False,3,46
+"### ||| (خ وخ) 
+",000,False,000,False,False,False,3,38
+"### ||| (خ ور) 
+",000,False,000,False,False,False,3,24
+"### ||| (خ ول) 
+",000,False,000,False,False,False,3,38
+"### ||| (خ ون) 
+",000,False,000,False,False,False,3,136
+"### ||| (خ وص) 
+",000,False,000,False,False,False,3,46
+"### ||| (خ وض) 
+",000,False,000,False,False,False,3,86
+"### ||| (خ وف) 
+",000,False,000,False,False,False,3,69
+"### ||| (خ وى) 
+",000,False,000,False,False,False,3,25
+"### || الخاء مع الياء
+",000,False,000,False,False,False,2,746
+"### ||| (خ ي ب) 
+",000,False,000,False,False,False,3,9
+"### ||| (خ ي ر) 
+",000,False,000,False,False,False,3,175
+"### ||| (خ ي ط) 
+",000,False,000,False,False,False,3,68
+"### ||| (خ ي ل) 
+",000,False,000,False,False,False,3,164
+"### ||| (خ ي م) 
+",000,False,000,False,False,False,3,42
+"### || فصل مشكل أسماء المواضع في هذا الحرف
+",000,False,000,False,False,False,2,235
+"### ||| (خيف بني كنانة) 
+",000,False,000,False,False,False,3,49
+"### ||| (الخرار)
+",000,False,000,False,False,False,3,21
+"### ||| (خور وكرمان)
+",000,False,000,False,False,False,3,20
+"### ||| (روضة خاخ)
+",000,False,000,False,False,False,3,48
+"### ||| (وجبل الخمر)
+",000,False,000,False,False,False,3,25
+"### ||| (وقصر بني خلف) 
+",000,False,000,False,False,False,3,15
+"### ||| (ذو الخلصة)
+",000,False,000,False,False,False,3,62
+"### || فصل مشكل الأسماء والكنى فيه
+",000,False,000,False,False,False,2,545
+"### | حرف الدال
+",000,False,000,False,False,False,1,7375
+"### || الدال مع لهمزة
+",000,False,000,False,False,False,2,132
+"### ||| (داب) 
+",000,False,000,False,False,False,3,24
+"### ||| فصل الخلاف والوهم
+",000,False,000,False,False,False,3,45
+"### || الدال مع الباء
+",000,False,000,False,False,False,2,537
+"### ||| (د ب ا)
+",000,False,000,False,False,False,3,65
+"### ||| (د ب ج)
+",000,False,000,False,False,False,3,19
+"### ||| (دبر)
+",000,False,000,False,False,False,3,268
+"### ||| (د ب ل)
+",000,False,000,False,False,False,3,38
+"### ||| (د ب س)
+",000,False,000,False,False,False,3,16
+"### || الدال مع الثاء
+",000,False,000,False,False,False,2,64
+"### || الدال والجيم
+",000,False,000,False,False,False,2,233
+"### ||| (د ج ج)
+",000,False,000,False,False,False,3,15
+"### ||| (د ج ل)
+",000,False,000,False,False,False,3,51
+"### ||| (د ج ن)
+",000,False,000,False,False,False,3,17
+"### || (الدال مع الحاء)
+",000,False,000,False,False,False,2,166
+"### ||| (د ح ر)
+",000,False,000,False,False,False,3,57
+"### ||| (د ح ض)
+",000,False,000,False,False,False,3,57
+"### ||| (د ح و)
+",000,False,000,False,False,False,3,30
+"### || الدال مع الخاء
+",000,False,000,False,False,False,2,378
+"### ||| (د خ خ) 
+",000,False,000,False,False,False,3,146
+"### ||| (د خ ر) 
+",000,False,000,False,False,False,3,27
+"### ||| (د خ ل) 
+",000,False,000,False,False,False,3,44
+"### ||| (د خ ن) 
+",000,False,000,False,False,False,3,64
+"### || الدال مع الراء
+",000,False,000,False,False,False,2,850
+"### ||| (د ر ا)
+",000,False,000,False,False,False,3,51
+"### ||| (د ر ب)
+",000,False,000,False,False,False,3,25
+"### ||| (د ر ج)
+",000,False,000,False,False,False,3,52
+"### ||| (د ر د)
+",000,False,000,False,False,False,3,36
+"### ||| (د ر ر)
+",000,False,000,False,False,False,3,52
+"### ||| (د ر ك)
+",000,False,000,False,False,False,3,122
+"### ||| (د ر م)
+",000,False,000,False,False,False,3,30
+"### ||| (د ر ن)
+",000,False,000,False,False,False,3,37
+"### ||| (د ر ع)
+",000,False,000,False,False,False,3,66
+"### ||| (د ر س)
+",000,False,000,False,False,False,3,58
+"### ||| (د ر ي)
+",000,False,000,False,False,False,3,47
+"### || الدال مع ms0427 الكاف
+",000,False,000,False,False,False,2,62
+"### || الدال مع اللام
+",000,False,000,False,False,False,2,302
+"### ||| (د ل ج)
+",000,False,000,False,False,False,3,102
+"### ||| (د ل ك)
+",000,False,000,False,False,False,3,76
+"### ||| (د ل ل)
+",000,False,000,False,False,False,3,51
+"### ||| (د ل ع)
+",000,False,000,False,False,False,3,41
+"### ||| (د ل ق)
+",000,False,000,False,False,False,3,17
+"### ||| (د ل ي)
+",000,False,000,False,False,False,3,11
+"### || الدال مع الميم
+",000,False,000,False,False,False,2,345
+"### ||| (د م ث)
+",000,False,000,False,False,False,3,38
+"### ||| (د م م)
+",000,False,000,False,False,False,3,16
+"### ||| (د م ن)
+",000,False,000,False,False,False,3,90
+"### ||| (د م س)
+",000,False,000,False,False,False,3,27
+"### ||| (د م ى)
+",000,False,000,False,False,False,3,68
+"### || (الدال مع النون)
+",000,False,000,False,False,False,2,315
+"### ||| (د ن ا)
+",000,False,000,False,False,False,3,51
+"### ||| (د ن ن)
+",000,False,000,False,False,False,3,33
+"### ||| (د ن و)
+",000,False,000,False,False,False,3,143
+"### || الدال مع العين
+",000,False,000,False,False,False,2,670
+"### ||| (د ع ب)
+",000,False,000,False,False,False,3,16
+"### ||| (د ع ت)
+",000,False,000,False,False,False,3,119
+"### ||| (د ع ج)
+",000,False,000,False,False,False,3,19
+"### ||| (د ع ر)
+",000,False,000,False,False,False,3,21
+"### ||| (د ع م)
+",000,False,000,False,False,False,3,27
+"### ||| (د ع ع)
+",000,False,000,False,False,False,3,31
+"### ||| (د ع و)
+",000,False,000,False,False,False,3,168
+"### || الدال مع الغين
+",000,False,000,False,False,False,2,60
+"### ||| (د غ ر)
+",000,False,000,False,False,False,3,35
+"### ||| (د ms0433 غ ل)
+",000,False,000,False,False,False,3,17
+"### || الدال مع الفاء
+",000,False,000,False,False,False,2,488
+"### ||| (د ف ا)
+",000,False,000,False,False,False,3,28
+"### ||| (د ف ع)
+",000,False,000,False,False,False,3,91
+"### ||| (د ف ف)
+",000,False,000,False,False,False,3,98
+"### ||| (د ف ق)
+",000,False,000,False,False,False,3,29
+"### || الدال مع القاف
+",000,False,000,False,False,False,2,102
+"### ||| (د ق ق)
+",000,False,000,False,False,False,3,27
+"### ||| (د ق ل)
+",000,False,000,False,False,False,3,36
+"### || الدال مع السين
+",000,False,000,False,False,False,2,212
+"### ||| (د س ر)
+",000,False,000,False,False,False,3,30
+"### ||| (د س م)
+",000,False,000,False,False,False,3,51
+"### ||| دوا 
+",000,False,000,False,False,False,3,69
+"### ||| (د س س)
+",000,False,000,False,False,False,3,23
+"### || الدال مع الهاء
+",000,False,000,False,False,False,2,224
+"### ||| (د ه د ه) 
+",000,False,000,False,False,False,3,35
+"### ||| (د ه ر)
+",000,False,000,False,False,False,3,107
+"### ||| (د ه م) 
+",000,False,000,False,False,False,3,35
+"### ||| (د ه ن)
+",000,False,000,False,False,False,3,24
+"### ||| (د ه ق)
+",000,False,000,False,False,False,3,35
+"### || الدال مع الواو
+",000,False,000,False,False,False,2,905
+"### ||| (دوا)
+",000,False,000,False,False,False,3,43
+"### ||| (د وح)
+",000,False,000,False,False,False,3,18
+"### ||| (دور)
+",000,False,000,False,False,False,3,160
+"### ||| (دوك)
+",000,False,000,False,False,False,3,61
+"### ||| (دول) 
+",000,False,000,False,False,False,3,29
+"### ||| (دوم)
+",000,False,000,False,False,False,3,98
+"### ||| (د وف)
+",000,False,000,False,False,False,3,97
+"### ||| (د وس)
+",000,False,000,False,False,False,3,34
+"### ||| (د وى)
+",000,False,000,False,False,False,3,98
+"### || الدال مع الياء
+",000,False,000,False,False,False,2,186
+"### ||| (د ي ر)
+",000,False,000,False,False,False,3,25
+"### ||| (د ي ن)
+",000,False,000,False,False,False,3,64
+"### || فصل في مشكل أسماء المواضع من هذا الحرف
+",000,False,000,False,False,False,2,168
+"### ||| (دومين)
+",000,False,000,False,False,False,3,56
+"### ||| (دابق)
+",000,False,000,False,False,False,3,25
+"### ||| (دمشق)
+",000,False,000,False,False,False,3,19
+"### ||| (دار نخلة) 
+",000,False,000,False,False,False,3,8
+"### ||| (دار القضاء)
+",000,False,000,False,False,False,3,27
+"### || فصل مشكل الأسماء والكنى فيه
+",000,False,000,False,False,False,2,367
+"### ||| (وديبان)
+",000,False,000,False,False,False,3,52
+"### ||| (ودحية)
+",000,False,000,False,False,False,3,42
+"### ||| (ودرة)
+",000,False,000,False,False,False,3,37
+"### ||| (دلاف)
+",000,False,000,False,False,False,3,19
+"### ||| (وابن الدغنة)
+",000,False,000,False,False,False,3,76
+"### ||| (وابن الدثنة)
+",000,False,000,False,False,False,3,19
+"### ||| (ابن دكين) بضم الدال وفتح الكاف ويشتبه به
+",000,False,000,False,False,False,3,48
+"### ||| (وأبو الدرداء)
+",000,False,000,False,False,False,3,35
+"### ||| (ولأبي الدحداح)
+",000,False,000,False,False,False,3,34
+"### ||| (ودوس)
+",000,False,000,False,False,False,3,15
+"### || فصل الاختلاف والوهم في هذا الفصل سوى ما تقدم
+",000,False,000,False,False,False,2,216
+"### | حرف الذال
+",000,False,000,False,False,False,1,3979
+"### || الذال مع الهمزة
+",000,False,000,False,False,False,2,31
+"### ||| (ذاب)
+",000,False,000,False,False,False,3,11
+"### || الذال مع الباء
+",000,False,000,False,False,False,2,236
+"### ||| (ذ ب ب)
+",000,False,000,False,False,False,3,80
+"### ||| (ذ ب ح)
+",000,False,000,False,False,False,3,117
+"### || الذال مع الراء
+",000,False,000,False,False,False,2,386
+"### ||| (ذ ر ا)
+",000,False,000,False,False,False,3,116
+"### ||| (ذ رت)
+",000,False,000,False,False,False,3,38
+"### ||| (ذرر)
+",000,False,000,False,False,False,3,68
+"### ||| (ذ رع)
+",000,False,000,False,False,False,3,49
+"### ||| (ذ ر ف)
+",000,False,000,False,False,False,3,35
+"### || الذال مع الكاف
+",000,False,000,False,False,False,2,268
+"### ||| (ذ ك ر)
+",000,False,000,False,False,False,3,198
+"### || الذال مع اللام
+",000,False,000,False,False,False,2,210
+"### ||| (ذ ل ذ ل)
+",000,False,000,False,False,False,3,31
+"### ||| (ذ ل ك)
+",000,False,000,False,False,False,3,21
+"### ||| (ذ ل ل)
+",000,False,000,False,False,False,3,75
+"### ||| (ذ ل ف)
+",000,False,000,False,False,False,3,69
+"### || الذال مع الميم
+",000,False,000,False,False,False,2,275
+"### ||| (ذ م ر)
+",000,False,000,False,False,False,3,112
+"### || الذال مع النون
+",000,False,000,False,False,False,2,50
+"### || الذال مع العين
+",000,False,000,False,False,False,2,45
+"### ||| (ذ ع ر)
+",000,False,000,False,False,False,3,21
+"### || الذال مع الفاء ms0450
+",000,False,000,False,False,False,2,35
+"### || الذال مع القاف
+",000,False,000,False,False,False,2,54
+"### || الذال مع الهاء
+",000,False,000,False,False,False,2,69
+"### || الذال مع الواو
+",000,False,000,False,False,False,2,660
+"### ||| (ذ وب)
+",000,False,000,False,False,False,3,61
+"### ||| (ذود)
+",000,False,000,False,False,False,3,248
+"### || الذال والياء
+",000,False,000,False,False,False,2,1184
+"### ||| (ذ ي خ) 
+",000,False,000,False,False,False,3,38
+"### ||| فصل في ذي وذا وذيت وذات وذه وذاك
+",000,False,000,False,False,False,3,408
+"### || فصل مشكل الأسماء والكنى والأنساب في هذا الحرف
+",000,False,000,False,False,False,2,102
+"### ||| (وذؤيب)
+",000,False,000,False,False,False,3,45
+"### ||| (وذفيف)
+",000,False,000,False,False,False,3,11
+"### ||| (وذكوان) 
+",000,False,000,False,False,False,3,21
+"### ||| (ذو الكلاع) بفتح الكاف
+",000,False,000,False,False,False,3,8
+"### | حرف الراء
+",000,False,000,False,False,False,1,15560
+"### || الراء مع الهمزة
+",000,False,000,False,False,False,2,742
+"### ||| (رأس) 
+",000,False,000,False,False,False,3,65
+"### ||| (رأي) 
+",000,False,000,False,False,False,3,369
+"### || الراء مع الباء
+",000,False,000,False,False,False,2,1649
+"### ||| (ر ب ب)
+",000,False,000,False,False,False,3,362
+"### ||| (ر ب د)
+",000,False,000,False,False,False,3,85
+"### ||| (ر ب ط)
+",000,False,000,False,False,False,3,59
+"### ||| (ر ب ص)
+",000,False,000,False,False,False,3,16
+"### ||| (ر ب ض)
+",000,False,000,False,False,False,3,100
+"### ||| (ر ب ع)
+",000,False,000,False,False,False,3,375
+"### ||| (ر ب و)
+",000,False,000,False,False,False,3,129
+"### ||| (ر ب ى)
+",000,False,000,False,False,False,3,39
+"### || الراء مع التاء
+",000,False,000,False,False,False,2,144
+"### ||| (ر ت ج)
+",000,False,000,False,False,False,3,17
+"### ||| (ر ت ل)
+",000,False,000,False,False,False,3,29
+"### ||| (ر ت ع)
+",000,False,000,False,False,False,3,48
+"### ||| (ر ت و)
+",000,False,000,False,False,False,3,21
+"### || الراء مع الثاء
+",000,False,000,False,False,False,2,53
+"### ||| (ر ث ث)
+",000,False,000,False,False,False,3,17
+"### || الراء مع الجيم
+",000,False,000,False,False,False,2,1625
+"### ||| (ر ج ا)
+",000,False,000,False,False,False,3,88
+"### ||| (ر ج ب)
+",000,False,000,False,False,False,3,159
+"### ||| (ر ج ج)
+",000,False,000,False,False,False,3,19
+"### ||| (ر ج ح)
+",000,False,000,False,False,False,3,81
+"### ||| (ر ج ز)
+",000,False,000,False,False,False,3,66
+"### ||| (ر ج ل)
+",000,False,000,False,False,False,3,215
+"### ||| (ر ج م)
+",000,False,000,False,False,False,3,23
+"### ||| (ر ج ع)
+",000,False,000,False,False,False,3,130
+"### ||| (ر ج ف)
+",000,False,000,False,False,False,3,50
+"### ||| (ر ج س)
+",000,False,000,False,False,False,3,94
+"### ||| (ر ج و)
+",000,False,000,False,False,False,3,120
+"### || الراء مع الحاء
+",000,False,000,False,False,False,2,619
+"### ||| (ر ح ب)
+",000,False,000,False,False,False,3,84
+"### ||| (ر ح رح)
+",000,False,000,False,False,False,3,37
+"### ||| (ر ح ل)
+",000,False,000,False,False,False,3,245
+"### ||| (ر ح م)
+",000,False,000,False,False,False,3,238
+"### || الراء مع الخاء
+",000,False,000,False,False,False,2,63
+"### || الراء مع الدال
+",000,False,000,False,False,False,2,857
+"### ||| (ردا)
+",000,False,000,False,False,False,3,23
+"### ||| (ر د ب)
+",000,False,000,False,False,False,3,31
+"### ||| (ر د ح)
+",000,False,000,False,False,False,3,99
+"### ||| (ردد)
+",000,False,000,False,False,False,3,138
+"### ||| (ردع)
+",000,False,000,False,False,False,3,75
+"### ||| (ردغ)
+",000,False,000,False,False,False,3,24
+"### ||| (ردف)
+",000,False,000,False,False,False,3,121
+"### ||| (ردي)
+",000,False,000,False,False,False,3,98
+"### || الراء مع الزاي
+",000,False,000,False,False,False,2,195
+"### ||| (رزا)
+",000,False,000,False,False,False,3,47
+"### ||| (رزن)
+",000,False,000,False,False,False,3,42
+"### ||| (رزم)
+",000,False,000,False,False,False,3,19
+"### ||| (رزغ)
+",000,False,000,False,False,False,3,15
+"### ||| (رزق)
+",000,False,000,False,False,False,3,78
+"### || الراء مع الطاء
+",000,False,000,False,False,False,2,324
+"### ||| (رط ب)
+",000,False,000,False,False,False,3,127
+"### ||| (رط م)
+",000,False,000,False,False,False,3,31
+"### ||| (رط ن)
+",000,False,000,False,False,False,3,13
+"### || الراء مع الكاف
+",000,False,000,False,False,False,2,574
+"### ||| (ر ك ب)
+",000,False,000,False,False,False,3,77
+"### ||| (رك د)
+",000,False,000,False,False,False,3,28
+"### ||| (رك ز)
+",000,False,000,False,False,False,3,60
+"### ||| (رك ن)
+",000,False,000,False,False,False,3,82
+"### ||| (ر ك ض)
+",000,False,000,False,False,False,3,21
+"### ||| (ر ك س)
+",000,False,000,False,False,False,3,42
+"### ||| (رك و)
+",000,False,000,False,False,False,3,80
+"### ||| (رك ي)
+",000,False,000,False,False,False,3,39
+"### || الراء مع الميم
+",000,False,000,False,False,False,2,994
+"### ||| (ر م ح)
+",000,False,000,False,False,False,3,23
+"### ||| (ر م د)
+",000,False,000,False,False,False,3,83
+"### ||| (ر م ك)
+",000,False,000,False,False,False,3,33
+"### ||| (رم ل)
+",000,False,000,False,False,False,3,149
+"### ||| (ر ms0484 م م)
+",000,False,000,False,False,False,3,134
+"### ||| (ر م ص)
+",000,False,000,False,False,False,3,82
+"### ||| (رم ض)
+",000,False,000,False,False,False,3,73
+"### ||| (ر م ق)
+",000,False,000,False,False,False,3,30
+"### ||| (رم ي)
+",000,False,000,False,False,False,3,158
+"### || الراء مع النون
+",000,False,000,False,False,False,2,49
+"### || الراء مع الصاد
+",000,False,000,False,False,False,2,94
+"### ||| (ر ص د)
+",000,False,000,False,False,False,3,64
+"### ||| (ر ص ص)
+",000,False,000,False,False,False,3,18
+"### || الراء مع الضاد
+",000,False,000,False,False,False,2,505
+"### ||| (ر د خ) 
+",000,False,000,False,False,False,3,31
+"### ||| (ر ض م)
+",000,False,000,False,False,False,3,43
+"### ||| (ر ض ض)
+",000,False,000,False,False,False,3,17
+"### ||| (ر ض ع)
+",000,False,000,False,False,False,3,188
+"### ||| (ر ض ف)
+",000,False,000,False,False,False,3,66
+"### || الراء مع العين
+",000,False,000,False,False,False,2,433
+"### ||| (ر ع ب)
+",000,False,000,False,False,False,3,28
+"### ||| (ر ع ج)
+",000,False,000,False,False,False,3,15
+"### ||| (ر ع م)
+",000,False,000,False,False,False,3,18
+"### ||| (ر ع ع)
+",000,False,000,False,False,False,3,31
+"### ||| (ر ع ف)
+",000,False,000,False,False,False,3,32
+"### ||| (ر ع ي)
+",000,False,000,False,False,False,3,79
+"### || الراء مع الغين
+",000,False,000,False,False,False,2,390
+"### ||| (ر غ ب)
+",000,False,000,False,False,False,3,229
+"### ||| (ر غ ث)
+",000,False,000,False,False,False,3,35
+"### ||| (ر غ م)
+",000,False,000,False,False,False,3,59
+"### ||| (ر غ س)
+",000,False,000,False,False,False,3,31
+"### ||| (ر غ و)
+",000,False,000,False,False,False,3,38
+"### || الراء مع الفاء
+",000,False,000,False,False,False,2,969
+"### ||| (رف أ)
+",000,False,000,False,False,False,3,36
+"### ||| (ر ف ث)
+",000,False,000,False,False,False,3,95
+"### ||| (ر ف د)
+",000,False,000,False,False,False,3,37
+"### ||| (ر ف رف)
+",000,False,000,False,False,False,3,19
+"### ||| (ر ف ل)
+",000,False,000,False,False,False,3,42
+"### ||| (ر ف ض)
+",000,False,000,False,False,False,3,51
+"### ||| (ر ف ع)
+",000,False,000,False,False,False,3,78
+"### ||| (ر ف غ)
+",000,False,000,False,False,False,3,51
+"### ||| (ر ف ف)
+",000,False,000,False,False,False,3,36
+"### ||| (رف ق)
+",000,False,000,False,False,False,3,262
+"### ||| (ر ف ه)
+",000,False,000,False,False,False,3,37
+"### || الراء مع القاف
+",000,False,000,False,False,False,2,777
+"### ||| (رق)
+",000,False,000,False,False,False,3,35
+"### ||| (ر ق ب)
+",000,False,000,False,False,False,3,184
+"### ||| (ر ق ت)
+",000,False,000,False,False,False,3,30
+"### ||| (ر ق م ms0496)
+",000,False,000,False,False,False,3,74
+"### ||| (ر ق ق)
+",000,False,000,False,False,False,3,210
+"### ||| (ر ق ي)
+",000,False,000,False,False,False,3,141
+"### || الراء مع السين
+",000,False,000,False,False,False,2,283
+"### ||| (ر س ل)
+",000,False,000,False,False,False,3,171
+"### ||| (ر س غ)
+",000,False,000,False,False,False,3,37
+"### ||| (ر س ف)
+",000,False,000,False,False,False,3,21
+"### || الراء مع الشين
+",000,False,000,False,False,False,2,211
+"### ||| (ر ش ح)
+",000,False,000,False,False,False,3,38
+"### ||| (ر ش د)
+",000,False,000,False,False,False,3,32
+"### ||| (ر ش ق)
+",000,False,000,False,False,False,3,45
+"### ||| (ر ش ش)
+",000,False,000,False,False,False,3,34
+"### ||| (ر ش و)
+",000,False,000,False,False,False,3,32
+"### || الراء مع الهاء
+",000,False,000,False,False,False,2,429
+"### ||| (ر ه ب)
+",000,False,000,False,False,False,3,75
+"### ||| (ر ه ط)
+",000,False,000,False,False,False,3,28
+"### ||| (ر ه ن)
+",000,False,000,False,False,False,3,71
+"### ||| (ر ه ق) 
+",000,False,000,False,False,False,3,185
+"### ||| (ر ه و)
+",000,False,000,False,False,False,3,38
+"### || الراء مع الواو
+",000,False,000,False,False,False,2,1195
+"### ||| (ر وث)
+",000,False,000,False,False,False,3,24
+"### ||| (روح)
+",000,False,000,False,False,False,3,438
+"### ||| (رود) 
+",000,False,000,False,False,False,3,65
+"### ||| (روض)
+",000,False,000,False,False,False,3,37
+"### ||| (روع)
+",000,False,000,False,False,False,3,92
+"### ||| (روق)
+",000,False,000,False,False,False,3,48
+"### ||| (روى)
+",000,False,000,False,False,False,3,257
+"### || الراء مع الياء
+",000,False,000,False,False,False,2,702
+"### ||| (ر ي ب)
+",000,False,000,False,False,False,3,89
+"### ||| (ر ي ت)
+",000,False,000,False,False,False,3,20
+"### ||| (ر ي ح)
+",000,False,000,False,False,False,3,53
+"### ||| (ري د)
+",000,False,000,False,False,False,3,25
+"### ||| (ر ي ط)
+",000,False,000,False,False,False,3,46
+"### ||| (ري م)
+",000,False,000,False,False,False,3,48
+"### ||| (ر ي ن)
+",000,False,000,False,False,False,3,45
+"### ||| (ر ي ع)
+",000,False,000,False,False,False,3,31
+"### ||| (ر ي ف)
+",000,False,000,False,False,False,3,32
+"### ||| (ر ي ق)
+",000,False,000,False,False,False,3,23
+"### ||| (ر ي ش)
+",000,False,000,False,False,False,3,37
+"### ||| (ر ي ي)
+",000,False,000,False,False,False,3,75
+"### || فصل مشكل أسماء البقع والمواضع وتقييدها
+",000,False,000,False,False,False,2,255
+"### ||| (ريم)
+",000,False,000,False,False,False,3,36
+"### ||| (الروحاء) 
+",000,False,000,False,False,False,3,30
+"### ||| (الربذة)
+",000,False,000,False,False,False,3,25
+"### ||| (ركبة)
+",000,False,000,False,False,False,3,37
+"### ||| (أم رحم)
+",000,False,000,False,False,False,3,18
+"### ||| (رومة)
+",000,False,000,False,False,False,3,21
+"### ||| (رومية) 
+",000,False,000,False,False,False,3,24
+"### ||| (رودس)
+",000,False,000,False,False,False,3,60
+"### ||| (رامهرمز) 
+",000,False,000,False,False,False,3,15
+"### ||| (روضة خاخ)
+",000,False,000,False,False,False,3,12
+"### ||| (الرجيع)
+",000,False,000,False,False,False,3,17
+"### || فصل مشكل الأسماء والكنى
+",000,False,000,False,False,False,2,1226
+"### ||| (رشيد)
+",000,False,000,False,False,False,3,475
+"### ||| (الركين)
+",000,False,000,False,False,False,3,3
+"### ||| (الرشك)
+",000,False,000,False,False,False,3,53
+"### ||| (وربيعة) 
+",000,False,000,False,False,False,3,32
+"### ||| (الرميصاء)
+",000,False,000,False,False,False,3,71
+"### | حرف الزاي مع سائر الحروف
+",000,False,000,False,False,False,1,4273
+"### || الزاي مع الباء
+",000,False,000,False,False,False,2,267
+"### ||| (ر ب ب)
+",000,False,000,False,False,False,3,85
+"### ||| (ز ب د)
+",000,False,000,False,False,False,3,13
+"### ||| (ز ب د)
+",000,False,000,False,False,False,3,59
+"### ||| (ز ب ل)
+",000,False,000,False,False,False,3,36
+"### || الزاي مع الجيم
+",000,False,000,False,False,False,2,118
+"### ||| (ز ج ج)
+",000,False,000,False,False,False,3,28
+"### ||| (زج ر)
+",000,False,000,False,False,False,3,43
+"### ||| (ز ج ل)
+",000,False,000,False,False,False,3,32
+"### || الزاي مع الحاء
+",000,False,000,False,False,False,2,76
+"### || الزاي مع الخاء
+",000,False,000,False,False,False,2,51
+"### || الزاي مع الراء
+",000,False,000,False,False,False,2,127
+"### ||| (ز ر ر)
+",000,False,000,False,False,False,3,43
+"### ||| (زرم)
+",000,False,000,False,False,False,3,17
+"### ||| (زرن)
+",000,False,000,False,False,False,3,39
+"### || الزاي مع الطاء
+",000,False,000,False,False,False,2,25
+"### || الزاي مع الكاف
+",000,False,000,False,False,False,2,57
+"### || الزاي مع اللام
+",000,False,000,False,False,False,2,267
+"### ||| (زلزل)
+",000,False,000,False,False,False,3,58
+"### ||| (ز ل ل)
+",000,False,000,False,False,False,3,30
+"### ||| (ز ل م)
+",000,False,000,False,False,False,3,73
+"### || الزاي مع الميم
+",000,False,000,False,False,False,2,343
+"### ||| (ز م ر)
+",000,False,000,False,False,False,3,47
+"### ||| (زم زم)
+",000,False,000,False,False,False,3,17
+"### ||| (ز م ل)
+",000,False,000,False,False,False,3,41
+"### ||| (زم م)
+",000,False,000,False,False,False,3,22
+"### ||| (ر م ن)
+",000,False,000,False,False,False,3,211
+"### || الزاي مع النون
+",000,False,000,False,False,False,2,138
+"### ||| (ز ن ت)
+",000,False,000,False,False,False,3,18
+"### ||| (زن د)
+",000,False,000,False,False,False,3,45
+"### || الزاي مع العين
+",000,False,000,False,False,False,2,116
+"### ||| (زع زع)
+",000,False,000,False,False,False,3,24
+"### ||| (ز ع م)
+",000,False,000,False,False,False,3,59
+"### || الزاي مع الفاء
+",000,False,000,False,False,False,2,166
+"### ||| (ز ف ت)
+",000,False,000,False,False,False,3,35
+"### ||| (زف ر)
+",000,False,000,False,False,False,3,47
+"### ||| (ز ف زف)
+",000,False,000,False,False,False,3,31
+"### ||| (ز ف ن)
+",000,False,000,False,False,False,3,52
+"### || الزاي مع القاف
+",000,False,000,False,False,False,2,28
+"### || الزاي مع الهاء
+",000,False,000,False,False,False,2,279
+"### ||| (ز ه د)
+",000,False,000,False,False,False,3,37
+"### ||| (زه م)
+",000,False,000,False,False,False,3,24
+"### ||| (ز ه ر)
+",000,False,000,False,False,False,3,107
+"### || الزاي مع الواو
+",000,False,000,False,False,False,2,492
+"### ||| (زوج)
+",000,False,000,False,False,False,3,155
+"### ||| (ز ور)
+",000,False,000,False,False,False,3,216
+"### ||| (زول)
+",000,False,000,False,False,False,3,38
+"### || الزاي مع الياء
+",000,False,000,False,False,False,2,579
+"### ||| (ز ي ح)
+",000,False,000,False,False,False,3,15
+"### ||| (ز ي د)
+",000,False,000,False,False,False,3,140
+"### ||| (زي غ) 
+",000,False,000,False,False,False,3,32
+"### ||| (زي ق) 
+",000,False,000,False,False,False,3,19
+"### || مشكل أسماء المواضع وتقييدها في هذا الحرف
+",000,False,000,False,False,False,2,137
+"### ||| زمزم
+",000,False,000,False,False,False,3,51
+"### ||| (الزوراء) 
+",000,False,000,False,False,False,3,20
+"### ||| (الزاوية) 
+",000,False,000,False,False,False,3,41
+"### ||| (مسجد بني زريق)
+",000,False,000,False,False,False,3,12
+"### || فصل في مشكل الأسماء والكنى
+",000,False,000,False,False,False,2,905
+"### ||| (زييد)
+",000,False,000,False,False,False,3,233
+"### ||| (أبو الزناد)
+",000,False,000,False,False,False,3,13
+"### ||| (وأبو زميل)
+",000,False,000,False,False,False,3,15
+"### ||| (وأم زفر) 
+",000,False,000,False,False,False,3,22
+"### ||| (وزهدم)
+",000,False,000,False,False,False,3,21
+"### ||| (وزمعة) 
+",000,False,000,False,False,False,3,17
+"### ||| (وزبراء)
+",000,False,000,False,False,False,3,45
+"### ||| (وزيد بن زبان) 
+",000,False,000,False,False,False,3,105
+"### | حرف الطاء مع سائر الحروف
+",000,False,000,False,False,False,1,4705
+"### || الطاء مع الهمزة
+",000,False,000,False,False,False,2,21
+"### || الطاء مع الباء
+",000,False,000,False,False,False,2,284
+"### ||| (ط ب ب)
+",000,False,000,False,False,False,3,29
+"### ||| طب ع
+",000,False,000,False,False,False,3,19
+"### ||| (ط ب خ) 
+",000,False,000,False,False,False,3,42
+"### ||| (ط ب ع)
+",000,False,000,False,False,False,3,33
+"### ||| (ط ب ق)
+",000,False,000,False,False,False,3,145
+"### ||| (ط ف و)
+",000,False,000,False,False,False,3,19
+"### || الطاء مع الراء
+",000,False,000,False,False,False,2,393
+"### ||| (ط ر أ)
+",000,False,000,False,False,False,3,31
+"### ||| (ط ر د)
+",000,False,000,False,False,False,3,30
+"### ||| (ط ر ر)
+",000,False,000,False,False,False,3,41
+"### ||| (ط ر ف)
+",000,False,000,False,False,False,3,113
+"### ||| (ط ر ق)
+",000,False,000,False,False,False,3,177
+"### || الطاء مع اللام
+",000,False,000,False,False,False,2,491
+"### ||| (ط ل ب)
+",000,False,000,False,False,False,3,27
+"### ||| (ط ل ل)
+",000,False,000,False,False,False,3,67
+"### ||| (ط ل ع)
+",000,False,000,False,False,False,3,178
+"### ||| (ط ل ق)
+",000,False,000,False,False,False,3,156
+"### ||| (ط ل ي)
+",000,False,000,False,False,False,3,37
+"### || الطاء مع الميم
+",000,False,000,False,False,False,2,78
+"### ||| (ط م ن)
+",000,False,000,False,False,False,3,36
+"### ||| (ط م ث)
+",000,False,000,False,False,False,3,19
+"### ||| (ط م ح)
+",000,False,000,False,False,False,3,23
+"### || الطاء مع النون
+",000,False,000,False,False,False,2,137
+"### ||| (ط ن ب)
+",000,False,000,False,False,False,3,58
+"### || الطاء مع العين
+",000,False,000,False,False,False,2,241
+"### ||| (ط ع م)
+",000,False,000,False,False,False,3,199
+"### || الطاء مع الغين
+",000,False,000,False,False,False,2,44
+"### || الطاء مع الفاء
+",000,False,000,False,False,False,2,193
+"### ||| (ط ف ا)
+",000,False,000,False,False,False,3,55
+"### ||| (ط ف ر)
+",000,False,000,False,False,False,3,19
+"### ||| (ط ف ل)
+",000,False,000,False,False,False,3,28
+"### ||| (ط ف ف)
+",000,False,000,False,False,False,3,61
+"### ||| (ط ف ق)
+",000,False,000,False,False,False,3,40
+"### || الطاء مع السين
+",000,False,000,False,False,False,2,38
+"### || الطاء مع الهاء
+",000,False,000,False,False,False,2,370
+"### ||| (ط ه)
+",000,False,000,False,False,False,3,47
+"### ||| (ط ه ر) 
+",000,False,000,False,False,False,3,283
+"### || الطاء مع الواو
+",000,False,000,False,False,False,2,623
+"### ||| (ط ور)
+",000,False,000,False,False,False,3,36
+"### ||| (ط ول)
+",000,False,000,False,False,False,3,142
+"### ||| (ط وع)
+",000,False,000,False,False,False,3,100
+"### ||| (ط وف)
+",000,False,000,False,False,False,3,167
+"### ||| (ط وق)
+",000,False,000,False,False,False,3,102
+"### || الطاء مع الياء
+",000,False,000,False,False,False,2,1296
+"### ||| (ط ي ب)
+",000,False,000,False,False,False,3,212
+"### ||| (ط ي ر)
+",000,False,000,False,False,False,3,210
+"### ||| (ط ي ل)
+",000,False,000,False,False,False,3,75
+"### ||| (ط ي ن)
+",000,False,000,False,False,False,3,23
+"### ||| (ط ي ش)
+",000,False,000,False,False,False,3,29
+"### || فصل في تقييد أسماء البقع
+",000,False,000,False,False,False,2,326
+"### ||| (طيبة) 
+",000,False,000,False,False,False,3,130
+"### ||| (ذوط وى)
+",000,False,000,False,False,False,3,12
+"### ||| (بحيرة طبرية)
+",000,False,000,False,False,False,3,31
+"### ||| (طرف القدوم) 
+",000,False,000,False,False,False,3,35
+"### ||| (الطور) 
+",000,False,000,False,False,False,3,17
+"### ||| (طفيل)
+",000,False,000,False,False,False,3,65
+"### | حرف الظاء مع سائر الحروف
+",000,False,000,False,False,False,1,2512
+"### || الظاء مع الهمزة
+",000,False,000,False,False,False,2,64
+"### || الظاء مع الراء
+",000,False,000,False,False,False,2,109
+"### ||| (ظ ر ب)
+",000,False,000,False,False,False,3,44
+"### || الظاء مع اللام
+",000,False,000,False,False,False,2,644
+"### ||| (ظلل)
+",000,False,000,False,False,False,3,332
+"### ||| (ظ ل م)
+",000,False,000,False,False,False,3,155
+"### ||| (ظ ل ع)
+",000,False,000,False,False,False,3,133
+"### || الظاء مع الميم
+",000,False,000,False,False,False,2,42
+"### || الظاء مع النون ms0549
+",000,False,000,False,False,False,2,70
+"### || الظاء مع العين
+",000,False,000,False,False,False,2,78
+"### || الظاء مع الفاء
+",000,False,000,False,False,False,2,1414
+"### ||| (ظ ف ر)
+",000,False,000,False,False,False,3,122
+"### ||| (ظ ه ر) 
+",000,False,000,False,False,False,3,803
+"### | حرف الكاف
+",000,False,000,False,False,False,1,9615
+"### || الكاف مع الهمزة
+",000,False,000,False,False,False,2,36
+"### || الكاف مع الباء
+",000,False,000,False,False,False,2,1046
+"### ||| (ك ب ب)
+",000,False,000,False,False,False,3,60
+"### ||| (ك ب ت)
+",000,False,000,False,False,False,3,34
+"### ||| (ك ب ث)
+",000,False,000,False,False,False,3,16
+"### ||| (ك ب د)
+",000,False,000,False,False,False,3,100
+"### ||| (ك ب ر)
+",000,False,000,False,False,False,3,292
+"### ||| (ك ب س)
+",000,False,000,False,False,False,3,27
+"### ||| (ك ب و)
+",000,False,000,False,False,False,3,13
+"### || الكاف والتاء
+",000,False,000,False,False,False,2,581
+"### ||| (ك ت ب)
+",000,False,000,False,False,False,3,101
+"### ||| (ك ت د)
+",000,False,000,False,False,False,3,39
+"### ||| (ك ت ل)
+",000,False,000,False,False,False,3,32
+"### ||| (ك ت م)
+",000,False,000,False,False,False,3,72
+"### || الكاف مع الثاء
+",000,False,000,False,False,False,2,442
+"### ||| (ك ث ب)
+",000,False,000,False,False,False,3,63
+"### ||| (ك ث ت)
+",000,False,000,False,False,False,3,37
+"### ||| (ك ث ر)
+",000,False,000,False,False,False,3,164
+"### || الكاف مع الحاء
+",000,False,000,False,False,False,2,51
+"### || الكاف مع الخاء
+",000,False,000,False,False,False,2,41
+"### || الكاف مع الدال
+",000,False,000,False,False,False,2,196
+"### ||| (ك د ح)
+",000,False,000,False,False,False,3,27
+"### ||| (ك د د)
+",000,False,000,False,False,False,3,39
+"### ||| (ك د م)
+",000,False,000,False,False,False,3,41
+"### || الكاف مع الذال
+",000,False,000,False,False,False,2,388
+"### ||| (ك ذ ب)
+",000,False,000,False,False,False,3,156
+"### || الكاف مع الراء
+",000,False,000,False,False,False,2,867
+"### ||| (ك ر ب)
+",000,False,000,False,False,False,3,17
+"### ||| (ك ر د)
+",000,False,000,False,False,False,3,34
+"### ||| (ك ر ر)
+",000,False,000,False,False,False,3,20
+"### ||| (ك ر ز)
+",000,False,000,False,False,False,3,36
+"### ||| (ك ر ك ر)
+",000,False,000,False,False,False,3,20
+"### ||| (ك رم)
+",000,False,000,False,False,False,3,279
+"### ||| (ك رع)
+",000,False,000,False,False,False,3,126
+"### ||| (ك رس)
+",000,False,000,False,False,False,3,73
+"### ||| (ك رش)
+",000,False,000,False,False,False,3,14
+"### ||| (ك ره)
+",000,False,000,False,False,False,3,94
+"### || الكاف مع الظاء
+",000,False,000,False,False,False,2,45
+"### ||| (ك ظ ظ)
+",000,False,000,False,False,False,3,17
+"### || الكاف مع اللام
+",000,False,000,False,False,False,2,1102
+"### ||| (ك ل ا)
+",000,False,000,False,False,False,3,163
+"### ||| (ك ل ب)
+",000,False,000,False,False,False,3,37
+"### ||| (ك ل ح)
+",000,False,000,False,False,False,3,29
+"### ||| (ك ل ل)
+",000,False,000,False,False,False,3,185
+"### ||| (ك ل م)
+",000,False,000,False,False,False,3,274
+"### || الكاف مع الميم
+",000,False,000,False,False,False,2,138
+"### ||| (ك م أ)
+",000,False,000,False,False,False,3,51
+"### ||| (ك م ل)
+",000,False,000,False,False,False,3,34
+"### ||| (ك م م)
+",000,False,000,False,False,False,3,21
+"### || الكاف مع النون
+",000,False,000,False,False,False,2,398
+"### ||| (ك ن ز)
+",000,False,000,False,False,False,3,86
+"### ||| (ك ن ن)
+",000,False,000,False,False,False,3,112
+"### ||| (ك ن ف)
+",000,False,000,False,False,False,3,116
+"### ||| (ك ن و)
+",000,False,000,False,False,False,3,28
+"### || الكاف مع العين
+",000,False,000,False,False,False,2,162
+"### ||| (ك ع ب)
+",000,False,000,False,False,False,3,99
+"### ||| (ك ع ك ع)
+",000,False,000,False,False,False,3,39
+"### || الكاف مع الفاء
+",000,False,000,False,False,False,2,1477
+"### ||| (ك ف ا)
+",000,False,000,False,False,False,3,301
+"### ||| (ك ف ت)
+",000,False,000,False,False,False,3,54
+"### ||| (ك ف ر)
+",000,False,000,False,False,False,3,491
+"### ||| (ك ف ل)
+",000,False,000,False,False,False,3,89
+"### ||| (ك ف ن)
+",000,False,000,False,False,False,3,58
+"### ||| (ك ف ف)
+",000,False,000,False,False,False,3,205
+"### ||| (ك ف ى)
+",000,False,000,False,False,False,3,106
+"### || الكاف مع السين
+",000,False,000,False,False,False,2,447
+"### ||| (ك س ب)
+",000,False,000,False,False,False,3,47
+"### ||| (ك س ت)
+",000,False,000,False,False,False,3,27
+"### ||| (ك س ح)
+",000,False,000,False,False,False,3,19
+"### ||| (ك س ر)
+",000,False,000,False,False,False,3,130
+"### ||| (ك س ل)
+",000,False,000,False,False,False,3,50
+"### ||| (ك س ع)
+",000,False,000,False,False,False,3,43
+"### ||| (ك س ف)
+",000,False,000,False,False,False,3,17
+"### ||| (ك س و)
+",000,False,000,False,False,False,3,51
+"### || الكاف مع الشين
+",000,False,000,False,False,False,2,80
+"### ||| (ك ش ر)
+",000,False,000,False,False,False,3,38
+"### ||| (ك ش ف)
+",000,False,000,False,False,False,3,13
+"### || الكاف مع الهاء
+",000,False,000,False,False,False,2,119
+"### ||| (ك ه ر)
+",000,False,000,False,False,False,3,85
+"### || الكاف مع الواو
+",000,False,000,False,False,False,2,687
+"### ||| (ك وب)
+",000,False,000,False,False,False,3,71
+"### ||| (ك وت)
+",000,False,000,False,False,False,3,85
+"### ||| (ك ور)
+",000,False,000,False,False,False,3,27
+"### ||| (ك وز)
+",000,False,000,False,False,False,3,53
+"### ||| (ك وم)
+",000,False,000,False,False,False,3,90
+"### ||| (ك ون)
+",000,False,000,False,False,False,3,64
+"### ||| (ك وع)
+",000,False,000,False,False,False,3,59
+"### || الكاف مع الياء
+",000,False,000,False,False,False,2,272
+"### ||| (ك ي د)
+",000,False,000,False,False,False,3,87
+"### ||| (ك ي ف)
+",000,False,000,False,False,False,3,33
+"### ||| (ك ي س)
+",000,False,000,False,False,False,3,90
+"### || فصل مشكل أسماء الأمكنة فيه
+",000,False,000,False,False,False,2,593
+"### ||| (الكعبة) 
+",000,False,000,False,False,False,3,35
+"### ||| (كراع الغميم)
+",000,False,000,False,False,False,3,68
+"### ||| (كداء وكدى وكدى)
+",000,False,000,False,False,False,3,435
+"### ||| (الكديد) 
+",000,False,000,False,False,False,3,21
+"### || فصل مشكل الأسماء والكنى في هذا الحرف
+",000,False,000,False,False,False,2,367
+"### ||| فصل الاختلاف والوهم </span>
+",000,False,000,False,False,False,3,6
+"### ||| (كر كرة) 
+",000,False,000,False,False,False,3,56
+"### | حر ف اللام
+",000,False,000,False,False,False,1,8721
+"### || (اللام مع الهمزة)
+",000,False,000,False,False,False,2,320
+"### ||| (لؤلؤ) 
+",000,False,000,False,False,False,3,34
+"### ||| (ل ام)
+",000,False,000,False,False,False,3,78
+"### ||| (ل أو) 
+",000,False,000,False,False,False,3,24
+"### || اللام مع الباء
+",000,False,000,False,False,False,2,835
+"### ||| (ل ب ب)
+",000,False,000,False,False,False,3,170
+"### ||| (ل ب ث)
+",000,False,000,False,False,False,3,36
+"### ||| (ل ب د)
+",000,False,000,False,False,False,3,84
+"### ||| (ل ب ط)
+",000,False,000,False,False,False,3,42
+"### ||| (ل ب ن)
+",000,False,000,False,False,False,3,114
+"### ||| (ل ب س)
+",000,False,000,False,False,False,3,178
+"### || اللام مع الثاء
+",000,False,000,False,False,False,2,23
+"### || اللام مع الجيم
+",000,False,000,False,False,False,2,102
+"### ||| (ل ج أ)
+",000,False,000,False,False,False,3,30
+"### ||| (ل ج ب)
+",000,False,000,False,False,False,3,18
+"### ||| (ل ج ج)
+",000,False,000,False,False,False,3,48
+"### || اللام مع الحاء
+",000,False,000,False,False,False,2,555
+"### ||| (ل ح ح)
+",000,False,000,False,False,False,3,15
+"### ||| (ل ح د)
+",000,False,000,False,False,False,3,66
+"### ||| (ل ح م)
+",000,False,000,False,False,False,3,32
+"### ||| (ل ح ن)
+",000,False,000,False,False,False,3,77
+"### ||| (ل ح ف)
+",000,False,000,False,False,False,3,78
+"### ||| (ل ح ق)
+",000,False,000,False,False,False,3,58
+"### ||| (ل ح ي)
+",000,False,000,False,False,False,3,80
+"### || اللام مع الخاء
+",000,False,000,False,False,False,2,47
+"### ||| (ل خ ص) 
+",000,False,000,False,False,False,3,27
+"### || اللام مع الدال
+",000,False,000,False,False,False,2,136
+"### ||| (ل د د)
+",000,False,000,False,False,False,3,67
+"### ||| (ل د ن)
+",000,False,000,False,False,False,3,25
+"### || اللام مع الزاي
+",000,False,000,False,False,False,2,71
+"### || اللام مع الطاء
+",000,False,000,False,False,False,2,224
+"### ||| (ل ط ط)
+",000,False,000,False,False,False,3,59
+"### ||| (ل ط خ) 
+",000,False,000,False,False,False,3,62
+"### ||| (ل ط م)
+",000,False,000,False,False,False,3,60
+"### || اللام مع الظاء
+",000,False,000,False,False,False,2,28
+"### || اللام مع الكاف
+",000,False,000,False,False,False,2,252
+"### ||| (ل ك ا)
+",000,False,000,False,False,False,3,21
+"### ||| (ل ك ز)
+",000,False,000,False,False,False,3,19
+"### || اللام مع الميم ms0598
+",000,False,000,False,False,False,2,778
+"### ||| (ل م ز)
+",000,False,000,False,False,False,3,63
+"### ||| (ل م ظ)
+",000,False,000,False,False,False,3,18
+"### ||| (ل م م)
+",000,False,000,False,False,False,3,198
+"### ||| (ل م ع)
+",000,False,000,False,False,False,3,39
+"### ||| (ل م س)
+",000,False,000,False,False,False,3,107
+"### || اللام مع الصاد
+",000,False,000,False,False,False,2,32
+"### || اللام مع العين
+",000,False,000,False,False,False,2,535
+"### ||| (ل ع ب)
+",000,False,000,False,False,False,3,143
+"### ||| (ك ع ن)
+",000,False,000,False,False,False,3,117
+"### || اللام مع الغين
+",000,False,000,False,False,False,2,240
+"### ||| (ل غ ب)
+",000,False,000,False,False,False,3,17
+"### ||| (ل غ ث)
+",000,False,000,False,False,False,3,32
+"### ||| (ل غ د)
+",000,False,000,False,False,False,3,40
+"### ||| (ل غ ط)
+",000,False,000,False,False,False,3,25
+"### || اللام مع الفاء
+",000,False,000,False,False,False,2,236
+"### ||| (ل ف ت)
+",000,False,000,False,False,False,3,21
+"### ||| (ل ف ح)
+",000,False,000,False,False,False,3,38
+"### ||| (ل ف ظ)
+",000,False,000,False,False,False,3,21
+"### ||| (ل ف ف)
+",000,False,000,False,False,False,3,17
+"### ||| (ل ف ي)
+",000,False,000,False,False,False,3,39
+"### || اللام مع القاف
+",000,False,000,False,False,False,2,533
+"### ||| (ل ق ح)
+",000,False,000,False,False,False,3,212
+"### ||| (ل ق ط)
+",000,False,000,False,False,False,3,29
+"### ||| (ل ق ل ق)
+",000,False,000,False,False,False,3,29
+"### ||| (ل ق م)
+",000,False,000,False,False,False,3,17
+"### ||| (ل ق ن)
+",000,False,000,False,False,False,3,19
+"### ||| (ل ق ف)
+",000,False,000,False,False,False,3,37
+"### ||| (ل ق س)
+",000,False,000,False,False,False,3,29
+"### ||| (ل ق و)
+",000,False,000,False,False,False,3,29
+"### ||| (ل ق ي)
+",000,False,000,False,False,False,3,111
+"### || اللام مع الشين
+",000,False,000,False,False,False,2,65
+"### || اللام مع الهاء
+",000,False,000,False,False,False,2,654
+"### ||| (ل ه ث)
+",000,False,000,False,False,False,3,35
+"### ||| (ل ه د)
+",000,False,000,False,False,False,3,19
+"### ||| (ل ه ز) 
+",000,False,000,False,False,False,3,37
+"### ||| (ل ه م)
+",000,False,000,False,False,False,3,102
+"### ||| (ل ه ف)
+",000,False,000,False,False,False,3,35
+"### ||| (ل ه و)
+",000,False,000,False,False,False,3,37
+"### ||| (ل ه ي)
+",000,False,000,False,False,False,3,65
+"### || اللام مع الواو
+",000,False,000,False,False,False,2,1163
+"### ||| فصل في معاني لو ولولا ولو ما
+",000,False,000,False,False,False,3,209
+"### ||| (وأما لولا)
+",000,False,000,False,False,False,3,184
+"### ||| (لوب)
+",000,False,000,False,False,False,3,80
+"### ||| (ل وث)
+",000,False,000,False,False,False,3,39
+"### ||| (ل وح)
+",000,False,000,False,False,False,3,45
+"### ||| (ل وذ)
+",000,False,000,False,False,False,3,45
+"### ||| (ل وط)
+",000,False,000,False,False,False,3,57
+"### ||| (ل وك)
+",000,False,000,False,False,False,3,28
+"### ||| (ل وم)
+",000,False,000,False,False,False,3,42
+"### ||| (ل ون)
+",000,False,000,False,False,False,3,107
+"### ||| (ل وى)
+",000,False,000,False,False,False,3,138
+"### || حرف لا مفردة
+",000,False,000,False,False,False,2,1076
+"### || اللام مع الياء
+",000,False,000,False,False,False,2,392
+"### ||| (ل ي ت)
+",000,False,000,False,False,False,3,22
+"### ||| (ل ي ل)
+",000,False,000,False,False,False,3,47
+"### ||| (ل ي ف)
+",000,False,000,False,False,False,3,55
+"### ||| (ل ي س)
+",000,False,000,False,False,False,3,23
+"### ||| (ل ي ي)
+",000,False,000,False,False,False,3,42
+"### || فصل مشكل أسماء الأماكن فيه
+",000,False,000,False,False,False,2,226
+"### ||| (لحي جمل) 
+",000,False,000,False,False,False,3,81
+"### ||| (لفت)
+",000,False,000,False,False,False,3,43
+"### ||| (لد)
+",000,False,000,False,False,False,3,43
+"### ||| (لا بتا المدينة)
+",000,False,000,False,False,False,3,15
+"### | جرف الميم
+",000,False,000,False,False,False,1,16562
+"### || الميم مع الهمزة ومع الألف
+",000,False,000,False,False,False,2,896
+"### ||| (م أر)
+",000,False,000,False,False,False,3,57
+"### ||| (م أن) 
+",000,False,000,False,False,False,3,95
+"### ||| فصل ماء
+",000,False,000,False,False,False,3,134
+"### ||| فصل ما
+",000,False,000,False,False,False,3,392
+"### || الميم مع التاء
+",000,False,000,False,False,False,2,456
+"### ||| (م ت ع)
+",000,False,000,False,False,False,3,161
+"### || الميم مع الثاء
+",000,False,000,False,False,False,2,339
+"### ||| (م ث ل)
+",000,False,000,False,False,False,3,276
+"### || الميم مع الجيم
+",000,False,000,False,False,False,2,96
+"### ||| (م ج ج)
+",000,False,000,False,False,False,3,51
+"### ||| (م ج د)
+",000,False,000,False,False,False,3,31
+"### || الميم مع الحاء
+",000,False,000,False,False,False,2,237
+"### ||| (م ح ms0626 ح)
+",000,False,000,False,False,False,3,32
+"### ||| (م ح ل)
+",000,False,000,False,False,False,3,19
+"### ||| (م ح ض)
+",000,False,000,False,False,False,3,15
+"### ||| (م ح ق)
+",000,False,000,False,False,False,3,31
+"### ||| (م ح ش)
+",000,False,000,False,False,False,3,79
+"### ||| (م ح و)
+",000,False,000,False,False,False,3,67
+"### || الميم مع الخاء
+",000,False,000,False,False,False,2,164
+"### ||| (م خ ر) 
+",000,False,000,False,False,False,3,106
+"### || الميم مع الدال
+",000,False,000,False,False,False,2,648
+"### ||| (م د ح)
+",000,False,000,False,False,False,3,32
+"### ||| (م د د)
+",000,False,000,False,False,False,3,160
+"### ||| (م د ر)
+",000,False,000,False,False,False,3,35
+"### ||| (م دي)
+",000,False,000,False,False,False,3,41
+"### || الميم مع الذال
+",000,False,000,False,False,False,2,94
+"### ||| (م ذ ق)
+",000,False,000,False,False,False,3,18
+"### || الميم مع الراء
+",000,False,000,False,False,False,2,862
+"### ||| (م رأ)
+",000,False,000,False,False,False,3,46
+"### ||| (م ر ج)
+",000,False,000,False,False,False,3,55
+"### ||| (م ر ر)
+",000,False,000,False,False,False,3,78
+"### ||| (م رط)
+",000,False,000,False,False,False,3,101
+"### ||| (م ر م)
+",000,False,000,False,False,False,3,58
+"### ||| (م ر ض)
+",000,False,000,False,False,False,3,49
+"### ||| (م رغ)
+",000,False,000,False,False,False,3,22
+"### ||| (م ر ق)
+",000,False,000,False,False,False,3,56
+"### ||| (م ر و)
+",000,False,000,False,False,False,3,19
+"### ||| (م رى)
+",000,False,000,False,False,False,3,88
+"### || الميم مع الزاي
+",000,False,000,False,False,False,2,84
+"### ||| (م ز ر)
+",000,False,000,False,False,False,3,19
+"### ||| (م ز ع)
+",000,False,000,False,False,False,3,39
+"### || الميم مع الطاء
+",000,False,000,False,False,False,2,177
+"### ||| (م ط ر)
+",000,False,000,False,False,False,3,93
+"### ||| (م ط ط)
+",000,False,000,False,False,False,3,29
+"### || الميم مع الكاف
+",000,False,000,False,False,False,2,112
+"### ||| (م ك ك)
+",000,False,000,False,False,False,3,31
+"### ||| (م ك س)
+",000,False,000,False,False,False,3,49
+"### || الميم مع اللام
+",000,False,000,False,False,False,2,836
+"### ||| (م ل ا)
+",000,False,000,False,False,False,3,282
+"### ||| (م ل ح)
+",000,False,000,False,False,False,3,74
+"### ||| (م ل ل)
+",000,False,000,False,False,False,3,163
+"### ||| (م ل ص)
+",000,False,000,False,False,False,3,75
+"### ||| (م ل ق)
+",000,False,000,False,False,False,3,23
+"### ||| (م ل ط)
+",000,False,000,False,False,False,3,27
+"### || الميم مع الميم
+",000,False,000,False,False,False,2,159
+"### || الميم مع النون
+",000,False,000,False,False,False,2,1605
+"### || الميم مع النون
+",000,False,000,False,False,False,2,516
+"### ||| (م ن ا)
+",000,False,000,False,False,False,3,36
+"### ||| (م ن ح)
+",000,False,000,False,False,False,3,85
+"### ||| (م ن ن)
+",000,False,000,False,False,False,3,98
+"### || الميم مع الصاد
+",000,False,000,False,False,False,2,100
+"### ||| (م ص ر)
+",000,False,000,False,False,False,3,25
+"### ||| (م ص ص)
+",000,False,000,False,False,False,3,48
+"### || الميم مع الضاد
+",000,False,000,False,False,False,2,56
+"### ||| (م ض غ)
+",000,False,000,False,False,False,3,43
+"### || الميم مع العين
+",000,False,000,False,False,False,2,430
+"### ||| (م ع ر)
+",000,False,000,False,False,False,3,17
+"### ||| (م ع ط)
+",000,False,000,False,False,False,3,15
+"### ||| (م ع ك)
+",000,False,000,False,False,False,3,16
+"### ||| (م ع ف)
+",000,False,000,False,False,False,3,49
+"### ||| (م ع س)
+",000,False,000,False,False,False,3,25
+"### ||| (م ع ي)
+",000,False,000,False,False,False,3,51
+"### || الميم مع الغين
+",000,False,000,False,False,False,2,94
+"### || الميم مع القاف
+",000,False,000,False,False,False,2,60
+"### ||| (م ق ب)
+",000,False,000,False,False,False,3,27
+"### || الميم مع السين
+",000,False,000,False,False,False,2,785
+"### ||| (م س ح)
+",000,False,000,False,False,False,3,354
+"### ||| (م س ك)
+",000,False,000,False,False,False,3,196
+"### ||| (م س س)
+",000,False,000,False,False,False,3,48
+"### || الميم مع الشين
+",000,False,000,False,False,False,2,252
+"### ||| (م ش ط)
+",000,False,000,False,False,False,3,80
+"### ||| (م ش ق)
+",000,False,000,False,False,False,3,34
+"### ||| (م ش ي)
+",000,False,000,False,False,False,3,17
+"### || الميم مع الهاء
+",000,False,000,False,False,False,2,501
+"### ||| (م ه م ه)
+",000,False,000,False,False,False,3,179
+"### ||| (م ه ر)
+",000,False,000,False,False,False,3,60
+"### ||| (م ه ل)
+",000,False,000,False,False,False,3,109
+"### ||| (م ه ن)
+",000,False,000,False,False,False,3,58
+"### ||| (م ه ق)
+",000,False,000,False,False,False,3,55
+"### || الميم مع الواو
+",000,False,000,False,False,False,2,543
+"### ||| (م وت)
+",000,False,000,False,False,False,3,130
+"### ||| (م وج) 
+",000,False,000,False,False,False,3,32
+"### ||| (م ول)
+",000,False,000,False,False,False,3,200
+"### ||| (م وم)
+",000,False,000,False,False,False,3,22
+"### ||| (م وق)
+",000,False,000,False,False,False,3,136
+"### || الميم مع الياء
+",000,False,000,False,False,False,2,471
+"### ||| (م ي ث)
+",000,False,000,False,False,False,3,85
+"### ||| (م ي د)
+",000,False,000,False,False,False,3,74
+"### ||| (م ي ر)
+",000,False,000,False,False,False,3,18
+"### ||| (م ي ط)
+",000,False,000,False,False,False,3,50
+"### ||| (م ي ل)
+",000,False,000,False,False,False,3,142
+"### ||| (م ي ع)
+",000,False,000,False,False,False,3,30
+"### || فصل فيما جاءت فيه الميم زائدة فيشكل علي بعض المبتدئين طلب بابه
+",000,False,000,False,False,False,2,154
+"### || فصل مشكل أسماء المواضع وتفسيرها في هذا الحرف
+",000,False,000,False,False,False,2,1315
+"### ||| (مكة) 
+",000,False,000,False,False,False,3,129
+"### ||| (مزدلفة والمشعر)
+",000,False,000,False,False,False,3,88
+"### ||| (المقام)
+",000,False,000,False,False,False,3,116
+"### ||| (الملتزم) 
+",000,False,000,False,False,False,3,140
+"### ||| (المعرف) 
+",000,False,000,False,False,False,3,21
+"### ||| (المحصب)
+",000,False,000,False,False,False,3,51
+"### ||| (المعرس)
+",000,False,000,False,False,False,3,36
+"### ||| (قرن المنازل)
+",000,False,000,False,False,False,3,22
+"### ||| (منى)
+",000,False,000,False,False,False,3,38
+"### ||| (المدينة)
+",000,False,000,False,False,False,3,40
+"### ||| (مسجد الأقصا)
+",000,False,000,False,False,False,3,8
+"### ||| (مهيعة)
+",000,False,000,False,False,False,3,41
+"### ||| (ملل)
+",000,False,000,False,False,False,3,22
+"### ||| (مر الظهران)
+",000,False,000,False,False,False,3,14
+"### ||| (مران)
+",000,False,000,False,False,False,3,24
+"### ||| (المشعر)
+",000,False,000,False,False,False,3,7
+"### ||| (المأزمان) 
+",000,False,000,False,False,False,3,26
+"### ||| (مجنة)
+",000,False,000,False,False,False,3,64
+"### ||| (المقاعد)
+",000,False,000,False,False,False,3,30
+"### ||| (المناصع) 
+",000,False,000,False,False,False,3,25
+"### ||| (المخمص)
+",000,False,000,False,False,False,3,19
+"### ||| (المخراف)
+",000,False,000,False,False,False,3,16
+"### ||| (ميطان)
+",000,False,000,False,False,False,3,85
+"### ||| (تنية المرار)
+",000,False,000,False,False,False,3,24
+"### ||| (مربد النعم)
+",000,False,000,False,False,False,3,201
+"### ||| (المريسيع)
+",000,False,000,False,False,False,3,76
+"### ||| (المداين المقبرة)
+",000,False,000,False,False,False,3,30
+"### ||| (مخاليف اليمن) 
+",000,False,000,False,False,False,3,58
+"### || فصل مشكل الأسماء في هذا الحرف والكنى
+",000,False,000,False,False,False,2,3693
+"### ||| فصل الاختلاف والوهم غير ما تقدم
+",000,False,000,False,False,False,3,1000
+"### | حرف النون
+",000,False,000,False,False,False,1,16728
+"### || النون مع الهمزة
+",000,False,000,False,False,False,2,84
+"### || النون مع الباء
+",000,False,000,False,False,False,2,570
+"### ||| (ن ب أ)
+",000,False,000,False,False,False,3,79
+"### ||| (ن ب ب)
+",000,False,000,False,False,False,3,23
+"### ||| (ن ب ذ)
+",000,False,000,False,False,False,3,257
+"### ||| (ن ب ر)
+",000,False,000,False,False,False,3,13
+"### ||| (ن ب ط)
+",000,False,000,False,False,False,3,40
+"### ||| (ن ب ق)
+",000,False,000,False,False,False,3,21
+"### || النون مع التاء
+",000,False,000,False,False,False,2,119
+"### ||| (ن ت ج)
+",000,False,000,False,False,False,3,85
+"### || النون مع الثاء
+",000,False,000,False,False,False,2,248
+"### ||| (ن ث ر)
+",000,False,000,False,False,False,3,65
+"### ||| (ن ث ل)
+",000,False,000,False,False,False,3,49
+"### ||| (ن ث و)
+",000,False,000,False,False,False,3,34
+"### || النون مع الجيم
+",000,False,000,False,False,False,2,704
+"### ||| (ن ج د)
+",000,False,000,False,False,False,3,65
+"### ||| (ن ج ذ)
+",000,False,000,False,False,False,3,30
+"### ||| (ن ج ر)
+",000,False,000,False,False,False,3,25
+"### ||| (ن ج ل)
+",000,False,000,False,False,False,3,57
+"### ||| (ن ج م)
+",000,False,000,False,False,False,3,25
+"### ||| (ن ج ع)
+",000,False,000,False,False,False,3,41
+"### ||| (ن ج ف)
+",000,False,000,False,False,False,3,17
+"### ||| (ن ج س)
+",000,False,000,False,False,False,3,74
+"### ||| (ن ج ش)
+",000,False,000,False,False,False,3,97
+"### ||| (ن ج ms0683 و)
+",000,False,000,False,False,False,3,224
+"### || النون مع الحاء
+",000,False,000,False,False,False,2,335
+"### ||| (ن ح ب)
+",000,False,000,False,False,False,3,51
+"### ||| (ن ح ت)
+",000,False,000,False,False,False,3,30
+"### ||| (ن ح ر)
+",000,False,000,False,False,False,3,49
+"### ||| (ن ح ل)
+",000,False,000,False,False,False,3,50
+"### ||| (ن ح و)
+",000,False,000,False,False,False,3,103
+"### || النون مع الخاء
+",000,False,000,False,False,False,2,293
+"### ||| (ن خ ل) 
+",000,False,000,False,False,False,3,53
+"### ||| (ن خ م) 
+",000,False,000,False,False,False,3,21
+"### ||| (ن خ ع) 
+",000,False,000,False,False,False,3,109
+"### ||| (ن خ س) 
+",000,False,000,False,False,False,3,27
+"### || النون مع الدال
+",000,False,000,False,False,False,2,676
+"### ||| (ن د ب)
+",000,False,000,False,False,False,3,104
+"### ||| (ن د ح)
+",000,False,000,False,False,False,3,25
+"### ||| (ن د د)
+",000,False,000,False,False,False,3,35
+"### ||| (ن د ر)
+",000,False,000,False,False,False,3,28
+"### ||| (ن د ى)
+",000,False,000,False,False,False,3,166
+"### || النون مع الذال
+",000,False,000,False,False,False,2,136
+"### ||| (ن ذ ر)
+",000,False,000,False,False,False,3,104
+"### || النون مع الراء
+",000,False,000,False,False,False,2,35
+"### || النون مع الزاي
+",000,False,000,False,False,False,2,1196
+"### ||| (ن ز ح)
+",000,False,000,False,False,False,3,31
+"### ||| (ن ز ر)
+",000,False,000,False,False,False,3,73
+"### ||| (ن ز ل)
+",000,False,000,False,False,False,3,232
+"### ||| (ن ز ع)
+",000,False,000,False,False,False,3,275
+"### ||| (ن ز غ)
+",000,False,000,False,False,False,3,15
+"### ||| (ن ز ف)
+",000,False,000,False,False,False,3,26
+"### ||| (ن ز ه)
+",000,False,000,False,False,False,3,64
+"### ||| (ن ز و)
+",000,False,000,False,False,False,3,47
+"### || النون مع الطاء
+",000,False,000,False,False,False,2,285
+"### ||| (ن ط ع)
+",000,False,000,False,False,False,3,26
+"### ||| (ن ط ف)
+",000,False,000,False,False,False,3,71
+"### ||| (ن ط ق)
+",000,False,000,False,False,False,3,151
+"### || النون مع الظاء
+",000,False,000,False,False,False,2,336
+"### ||| (ن ظ ر)
+",000,False,000,False,False,False,3,222
+"### || النون مع الكاف
+",000,False,000,False,False,False,2,431
+"### ||| (ن ك ا)
+",000,False,000,False,False,False,3,44
+"### ||| (ن ك ب)
+",000,False,000,False,False,False,3,62
+"### ||| (ن ك ت)
+",000,False,000,False,False,False,3,64
+"### ||| (ن ك ر)
+",000,False,000,False,False,False,3,28
+"### ||| (ن ك ل)
+",000,False,000,False,False,False,3,32
+"### ||| (ن ك ص)
+",000,False,000,False,False,False,3,20
+"### ||| (ن ك س)
+",000,False,000,False,False,False,3,71
+"### || النون مع الميم
+",000,False,000,False,False,False,2,406
+"### ||| (ن م ر)
+",000,False,000,False,False,False,3,82
+"### ||| (ن م ط)
+",000,False,000,False,False,False,3,35
+"### ||| (ن م ل)
+",000,False,000,False,False,False,3,41
+"### ||| (ن م م)
+",000,False,000,False,False,False,3,44
+"### ||| (ن م ص)
+",000,False,000,False,False,False,3,29
+"### ||| (ن م س)
+",000,False,000,False,False,False,3,49
+"### || النون مع الصاد
+",000,False,000,False,False,False,2,908
+"### ||| (ن ص ب)
+",000,False,000,False,False,False,3,174
+"### ||| (ن ص ت)
+",000,False,000,False,False,False,3,38
+"### ||| (ن ص ح)
+",000,False,000,False,False,False,3,63
+"### ||| (ن ص ر)
+",000,False,000,False,False,False,3,100
+"### ||| (ن ص ل)
+",000,False,000,False,False,False,3,70
+"### ||| (ن ص ص)
+",000,False,000,False,False,False,3,29
+"### ||| (ن ص ع)
+",000,False,000,False,False,False,3,50
+"### ||| (ن ص ف)
+",000,False,000,False,False,False,3,166
+"### ||| (ن ص ي)
+",000,False,000,False,False,False,3,56
+"### || النون مع الضاد
+",000,False,000,False,False,False,2,655
+"### ||| (ن ض ح)
+",000,False,000,False,False,False,3,276
+"### ||| (ن ض خ) 
+",000,False,000,False,False,False,3,82
+"### ||| (ن ض ر)
+",000,False,000,False,False,False,3,133
+"### ||| (ن ض ل)
+",000,False,000,False,False,False,3,25
+"### ||| (ن ض ي)
+",000,False,000,False,False,False,3,18
+"### || النون مع العين
+",000,False,000,False,False,False,2,1105
+"### ||| (ن ع ت)
+",000,False,000,False,False,False,3,22
+"### ||| (ن ع ل)
+",000,False,000,False,False,False,3,110
+"### ||| (ن ع م)
+",000,False,000,False,False,False,3,576
+"### ||| (ن ع ق)
+",000,False,000,False,False,False,3,21
+"### ||| (ن ع ش)
+",000,False,000,False,False,False,3,39
+"### ||| (ن ع ى)
+",000,False,000,False,False,False,3,142
+"### || النون مع الغين
+",000,False,000,False,False,False,2,89
+"### ||| (ن غ ض)
+",000,False,000,False,False,False,3,28
+"### ||| (ن غ ف)
+",000,False,000,False,False,False,3,32
+"### || النون مع الفاء
+",000,False,000,False,False,False,2,1528
+"### ||| (ن ف ث)
+",000,False,000,False,False,False,3,60
+"### ||| (ن ف ج)
+",000,False,000,False,False,False,3,29
+"### ||| (ن ف ح)
+",000,False,000,False,False,False,3,73
+"### ||| (ن ف د)
+",000,False,000,False,False,False,3,26
+"### ||| (ن ف ذ)
+",000,False,000,False,False,False,3,127
+"### ||| (ن ف ر)
+",000,False,000,False,False,False,3,180
+"### ||| (ن ف ط)
+",000,False,000,False,False,False,3,21
+"### ||| (ن ف ل)
+",000,False,000,False,False,False,3,90
+"### ||| (ن ف ض)
+",000,False,000,False,False,False,3,154
+"### ||| (ن ف ق)
+",000,False,000,False,False,False,3,75
+"### ||| (ن ف س)
+",000,False,000,False,False,False,3,508
+"### ||| (ن ف ه)
+",000,False,000,False,False,False,3,19
+"### || النون مع القاف
+",000,False,000,False,False,False,2,1561
+"### ||| (ن ق ب)
+",000,False,000,False,False,False,3,278
+"### ||| (ن ق ث)
+",000,False,000,False,False,False,3,60
+"### ||| (ن ق د)
+",000,False,000,False,False,False,3,25
+"### ||| (ن ق ر)
+",000,False,000,False,False,False,3,71
+"### ||| (ن ق ز)
+",000,False,000,False,False,False,3,132
+"### ||| (ن ق ل)
+",000,False,000,False,False,False,3,44
+"### ||| (ن ق م)
+",000,False,000,False,False,False,3,58
+"### ||| (ن ق ص)
+",000,False,000,False,False,False,3,83
+"### ||| (ن ق ض)
+",000,False,000,False,False,False,3,30
+"### ||| (ن ق ع)
+",000,False,000,False,False,False,3,105
+"### ||| (ن ق ش)
+",000,False,000,False,False,False,3,90
+"### ||| (ن ق ه)
+",000,False,000,False,False,False,3,21
+"### ||| (ن ق ي)
+",000,False,000,False,False,False,3,78
+"### || النون مع السين
+",000,False,000,False,False,False,2,871
+"### ||| (ن س أ)
+",000,False,000,False,False,False,3,75
+"### ||| (ن س ب)
+",000,False,000,False,False,False,3,27
+"### ||| (ن س ح)
+",000,False,000,False,False,False,3,36
+"### ||| (ن س خ) 
+",000,False,000,False,False,False,3,21
+"### ||| (ن س ك)
+",000,False,000,False,False,False,3,73
+"### ||| (ن س م)
+",000,False,000,False,False,False,3,45
+"### ||| (ن س ع)
+",000,False,000,False,False,False,3,23
+"### ||| (ن س ق)
+",000,False,000,False,False,False,3,17
+"### ||| (ن س ي)
+",000,False,000,False,False,False,3,222
+"### || النون مع الشين
+",000,False,000,False,False,False,2,715
+"### ||| (ن ش أ)
+",000,False,000,False,False,False,3,149
+"### ||| (ن ش ب)
+",000,False,000,False,False,False,3,49
+"### ||| (ن ش ج)
+",000,False,000,False,False,False,3,35
+"### ||| (ن ش د)
+",000,False,000,False,False,False,3,149
+"### ||| (ن ش ر)
+",000,False,000,False,False,False,3,34
+"### ||| (ن ش ز)
+",000,False,000,False,False,False,3,38
+"### ||| (ن ش ط)
+",000,False,000,False,False,False,3,55
+"### ||| (ن ش ل)
+",000,False,000,False,False,False,3,24
+"### ||| (ن ش غ)
+",000,False,000,False,False,False,3,32
+"### ||| (ن ش ف)
+",000,False,000,False,False,False,3,20
+"### ||| (ن ش ق)
+",000,False,000,False,False,False,3,27
+"### ||| (ن ش ش)
+",000,False,000,False,False,False,3,33
+"### ||| (ن ش و)
+",000,False,000,False,False,False,3,25
+"### || النون مع الهاء
+",000,False,000,False,False,False,2,748
+"### ||| (ن ه ب)
+",000,False,000,False,False,False,3,60
+"### ||| (ن ه ث)
+",000,False,000,False,False,False,3,35
+"### ||| (ن ه ج)
+",000,False,000,False,False,False,3,44
+"### ||| (ن ه د)
+",000,False,000,False,False,False,3,52
+"### ||| (ن ه ر)
+",000,False,000,False,False,False,3,43
+"### ||| (ن ه ز)
+",000,False,000,False,False,False,3,39
+"### ||| (ن ه ك)
+",000,False,000,False,False,False,3,65
+"### ||| (ن ه ل)
+",000,False,000,False,False,False,3,18
+"### ||| (ن ه م)
+",000,False,000,False,False,False,3,14
+"### ||| (ن ه ض)
+",000,False,000,False,False,False,3,33
+"### ||| (ن ه ق)
+",000,False,000,False,False,False,3,21
+"### ||| (ن ه س)
+",000,False,000,False,False,False,3,103
+"### ||| (ن ه ى) 
+",000,False,000,False,False,False,3,274
+"### || النون مع الواو
+",000,False,000,False,False,False,2,1191
+"### ||| (ن وأ)
+",000,False,000,False,False,False,3,201
+"### ||| (ن وب)
+",000,False,000,False,False,False,3,106
+"### ||| (ن وح)
+",000,False,000,False,False,False,3,33
+"### ||| (ن ور)
+",000,False,000,False,False,False,3,161
+"### ||| (ن وط)
+",000,False,000,False,False,False,3,17
+"### ||| (ن ول)
+",000,False,000,False,False,False,3,150
+"### ||| (ن وم)
+",000,False,000,False,False,False,3,17
+"### ||| (ن ون)
+",000,False,000,False,False,False,3,67
+"### ||| (ن وق)
+",000,False,000,False,False,False,3,36
+"### ||| (ن وس)
+",000,False,000,False,False,False,3,50
+"### ||| (ن وى)
+",000,False,000,False,False,False,3,70
+"### || النون مع الياء
+",000,False,000,False,False,False,2,135
+"### ||| (ن ي أ)
+",000,False,000,False,False,False,3,43
+"### ||| (ن ي ب)
+",000,False,000,False,False,False,3,17
+"### ||| (ن ي ل)
+",000,False,000,False,False,False,3,76
+"### || فصل مشكل أسماء المواضع والبقع
+",000,False,000,False,False,False,2,287
+"### ||| (نمرة)
+",000,False,000,False,False,False,3,55
+"### ||| (النقيع) 
+",000,False,000,False,False,False,3,33
+"### ||| (ذات النصب)
+",000,False,000,False,False,False,3,20
+"### ||| (دار نخلة)
+",000,False,000,False,False,False,3,8
+"### ||| (نخل)
+",000,False,000,False,False,False,3,19
+"### ||| (نحلة)
+",000,False,000,False,False,False,3,15
+"### ||| (النهرين)
+",000,False,000,False,False,False,3,17
+"### ||| (نجران) 
+",000,False,000,False,False,False,3,3
+"### ||| (نصيبين)
+",000,False,000,False,False,False,3,23
+"### ||| (نهاب)
+",000,False,000,False,False,False,3,27
+"### ||| (النازية)
+",000,False,000,False,False,False,3,44
+"### ||| (النقب)
+",000,False,000,False,False,False,3,54
+"### ||| (نجد)
+",000,False,000,False,False,False,3,25
+"### || فصل مشكل الأسماء والكنى في هذا الحرف
+",000,False,000,False,False,False,2,1078
+"### ||| فصل الاختلاف والوهم
+",000,False,000,False,False,False,3,193
+"### | حرف الصاد
+",000,False,000,False,False,False,1,8438
+"### || الصاد مع الهمزة
+",000,False,000,False,False,False,2,59
+"### || الصاد مع الباء
+",000,False,000,False,False,False,2,1038
+"### ||| (ص ب أ)
+",000,False,000,False,False,False,3,131
+"### ||| (ص ب ب)
+",000,False,000,False,False,False,3,121
+"### ||| (ص ب ح)
+",000,False,000,False,False,False,3,109
+"### ||| (ص ب ر)
+",000,False,000,False,False,False,3,201
+"### ||| (ص ب غ)
+",000,False,000,False,False,False,3,44
+"### ||| (ص ب و)
+",000,False,000,False,False,False,3,39
+"### || الصاد مع الحاء
+",000,False,000,False,False,False,2,314
+"### ||| (ص ح ب)
+",000,False,000,False,False,False,3,54
+"### ||| (ص ح ح)
+",000,False,000,False,False,False,3,37
+"### ||| (ص ح ر)
+",000,False,000,False,False,False,3,29
+"### ||| (ص ح ف)
+",000,False,000,False,False,False,3,37
+"### ||| (ص ح و)
+",000,False,000,False,False,False,3,36
+"### || الصاد مع الخاء
+",000,False,000,False,False,False,2,127
+"### ||| (ص خ ب) 
+",000,False,000,False,False,False,3,66
+"### ||| (ص خ ر) 
+",000,False,000,False,False,False,3,15
+"### || الصاد مع الدال
+",000,False,000,False,False,False,2,789
+"### ||| (ص د د)
+",000,False,000,False,False,False,3,79
+"### ||| (ص د ر)
+",000,False,000,False,False,False,3,87
+"### ||| (ص د م)
+",000,False,000,False,False,False,3,38
+"### ||| (ص دع)
+",000,False,000,False,False,False,3,49
+"### ||| (ص د ق)
+",000,False,000,False,False,False,3,216
+"### ||| (ص د ى)
+",000,False,000,False,False,False,3,67
+"### || الصاد مع الراء
+",000,False,000,False,False,False,2,779
+"### ||| (ص ر ح)
+",000,False,000,False,False,False,3,17
+"### ||| (ص رخ)
+",000,False,000,False,False,False,3,93
+"### ||| (ص رد)
+",000,False,000,False,False,False,3,18
+"### ||| (ص ر ر)
+",000,False,000,False,False,False,3,57
+"### ||| (ص ر م)
+",000,False,000,False,False,False,3,70
+"### ||| (ص ر ع)
+",000,False,000,False,False,False,3,96
+"### ||| (ص ر ف)
+",000,False,000,False,False,False,3,73
+"### ||| (ص رى)
+",000,False,000,False,False,False,3,74
+"### || الصاد مع الطاء
+",000,False,000,False,False,False,2,116
+"### ||| (ص ط ل)
+",000,False,000,False,False,False,3,48
+"### || الصاد مع الكاف
+",000,False,000,False,False,False,2,276
+"### || الصاد مع اللام
+",000,False,000,False,False,False,2,757
+"### ||| (ص ل ب)
+",000,False,000,False,False,False,3,57
+"### ||| (ص ل ت)
+",000,False,000,False,False,False,3,27
+"### ||| (ص ل ح)
+",000,False,000,False,False,False,3,44
+"### ||| (ص ل م)
+",000,False,000,False,False,False,3,20
+"### ||| (ص ل ص ل)
+",000,False,000,False,False,False,3,34
+"### ||| (ص ل ق)
+",000,False,000,False,False,False,3,34
+"### ||| (ص ل ى)
+",000,False,000,False,False,False,3,264
+"### || الصاد مع الميم
+",000,False,000,False,False,False,2,318
+"### ||| (ص م ت)
+",000,False,000,False,False,False,3,62
+"### ||| (ص م خ) 
+",000,False,000,False,False,False,3,31
+"### ||| (ص م د)
+",000,False,000,False,False,False,3,42
+"### ||| (ص م م)
+",000,False,000,False,False,False,3,87
+"### ||| (ص م ع)
+",000,False,000,False,False,False,3,25
+"### ||| (ص م غ)
+",000,False,000,False,False,False,3,43
+"### || الصاد مع النون
+",000,False,000,False,False,False,2,440
+"### ||| (ص ن د)
+",000,False,000,False,False,False,3,14
+"### ||| (ص ن ع)
+",000,False,000,False,False,False,3,131
+"### ||| (ص ن م)
+",000,False,000,False,False,False,3,18
+"### ||| (ص ن ف)
+",000,False,000,False,False,False,3,38
+"### ||| (ص ن و)
+",000,False,000,False,False,False,3,16
+"### || الصاد مع العين
+",000,False,000,False,False,False,2,471
+"### ||| (ص ع ب)
+",000,False,000,False,False,False,3,19
+"### ||| (ص ع د)
+",000,False,000,False,False,False,3,136
+"### ||| (ص ع ر)
+",000,False,000,False,False,False,3,22
+"### ||| (ص ع ل)
+",000,False,000,False,False,False,3,19
+"### ||| (ص ع ق)
+",000,False,000,False,False,False,3,172
+"### || الصاد مع الغين
+",000,False,000,False,False,False,2,252
+"### ||| (ص غ ر)
+",000,False,000,False,False,False,3,30
+"### ||| (ص غ ي)
+",000,False,000,False,False,False,3,74
+"### || الصاد مع الفاء
+",000,False,000,False,False,False,2,911
+"### ||| (ص ف ح)
+",000,False,000,False,False,False,3,184
+"### ||| (ص ف د)
+",000,False,000,False,False,False,3,27
+"### ||| (ص ف ر)
+",000,False,000,False,False,False,3,172
+"### ||| (ص ف ف)
+",000,False,000,False,False,False,3,69
+"### ||| (ص ف ق)
+",000,False,000,False,False,False,3,82
+"### ||| (ص ف و)
+",000,False,000,False,False,False,3,125
+"### || الصاد مع القاف
+",000,False,000,False,False,False,2,61
+"### ||| (ص ق ب)
+",000,False,000,False,False,False,3,36
+"### || الصاد مع الهاء
+",000,False,000,False,False,False,2,62
+"### ||| (ص ه ر)
+",000,False,000,False,False,False,3,31
+"### ||| (ص ه ل) 
+",000,False,000,False,False,False,3,29
+"### || الصاد مع الواو
+",000,False,000,False,False,False,2,626
+"### ||| (ص وب)
+",000,False,000,False,False,False,3,311
+"### ||| (ص وت)
+",000,False,000,False,False,False,3,79
+"### ||| (ص ور)
+",000,False,000,False,False,False,3,76
+"### ||| (ص ول)
+",000,False,000,False,False,False,3,20
+"### ||| (ص وم)
+",000,False,000,False,False,False,3,35
+"### ||| (ص وع)
+",000,False,000,False,False,False,3,79
+"### || الصاد مع الياء
+",000,False,000,False,False,False,2,279
+"### ||| (ص ي ح)
+",000,False,000,False,False,False,3,38
+"### ||| (ص ي خ) 
+",000,False,000,False,False,False,3,16
+"### ||| (ص ي د)
+",000,False,000,False,False,False,3,85
+"### ||| (ص ي ر)
+",000,False,000,False,False,False,3,18
+"### ||| (ص ي ف)
+",000,False,000,False,False,False,3,66
+"### || فصل مشكل الأسماء والكنى
+",000,False,000,False,False,False,2,540
+"### || فصل الأنساب ومشكلها
+",000,False,000,False,False,False,2,141
+"### | حرف الضاد مع سائر الحروف
+",000,False,000,False,False,False,1,4148
+"### || الضاد مع الهمزة
+",000,False,000,False,False,False,2,75
+"### ||| (ض أض أ)
+",000,False,000,False,False,False,3,43
+"### || الضاد مع الباء
+",000,False,000,False,False,False,2,216
+"### ||| (ض ب ب)
+",000,False,000,False,False,False,3,70
+"### ||| (ض ب ر)
+",000,False,000,False,False,False,3,74
+"### || الضاد مع الجيم
+",000,False,000,False,False,False,2,34
+"### ||| (ض ج ج)
+",000,False,000,False,False,False,3,19
+"### || الضاد مع الحاء
+",000,False,000,False,False,False,2,304
+"### ||| (ض ح ض ح)
+",000,False,000,False,False,False,3,27
+"### ||| (ض ح ك)
+",000,False,000,False,False,False,3,28
+"### ||| (ض ح و)
+",000,False,000,False,False,False,3,227
+"### || الضاد مع الخاء
+",000,False,000,False,False,False,2,22
+"### || الضاد مع الراء
+",000,False,000,False,False,False,2,949
+"### ||| (ض ر ب)
+",000,False,000,False,False,False,3,322
+"### ||| (ض ر ج)
+",000,False,000,False,False,False,3,25
+"### ||| (ض ر ح)
+",000,False,000,False,False,False,3,31
+"### ||| (ض ر ر)
+",000,False,000,False,False,False,3,295
+"### ||| (ض ر م)
+",000,False,000,False,False,False,3,34
+"### ||| (ض ر ع)
+",000,False,000,False,False,False,3,66
+"### ||| (ض رى)
+",000,False,000,False,False,False,3,38
+"### || الضاد مع الطاء
+",000,False,000,False,False,False,2,76
+"### || الضاد مع اللام
+",000,False,000,False,False,False,2,480
+"### ||| (ض ل ل)
+",000,False,000,False,False,False,3,372
+"### || الضاد مع الميم
+",000,False,000,False,False,False,2,449
+"### ||| (ض م خ) 
+",000,False,000,False,False,False,3,13
+"### ||| (ض م د)
+",000,False,000,False,False,False,3,13
+"### ||| (ض م ر)
+",000,False,000,False,False,False,3,75
+"### ||| (ض م م)
+",000,False,000,False,False,False,3,149
+"### ||| (ض م ن)
+",000,False,000,False,False,False,3,85
+"### || الضاد مع النون
+",000,False,000,False,False,False,2,97
+"### ||| (ض ن ك)
+",000,False,000,False,False,False,3,34
+"### || الضاد مع العين
+",000,False,000,False,False,False,2,297
+"### ||| (ض ع ف)
+",000,False,000,False,False,False,3,234
+"### || الضاد مع الغين
+",000,False,000,False,False,False,2,211
+"### ||| (ض غ ب)
+",000,False,000,False,False,False,3,23
+"### ||| (ض غ ث)
+",000,False,000,False,False,False,3,44
+"### ||| (ض غ ط)
+",000,False,000,False,False,False,3,25
+"### ||| (ض غ ن)
+",000,False,000,False,False,False,3,17
+"### ||| (ض غ و)
+",000,False,000,False,False,False,3,21
+"### ||| (ض ف ر)
+",000,False,000,False,False,False,3,76
+"### || الضاد مع الهاء
+",000,False,000,False,False,False,2,114
+"### || الضاد مع الواو
+",000,False,000,False,False,False,2,104
+"### ||| (ض وأ)
+",000,False,000,False,False,False,3,75
+"### || الضاد مع الياء
+",000,False,000,False,False,False,2,351
+"### ||| (ض ي ع)
+",000,False,000,False,False,False,3,269
+"### || فصل مشكل أسماء الأماكن
+",000,False,000,False,False,False,2,145
+"### ||| (ضجنان) 
+",000,False,000,False,False,False,3,21
+"### | حرف العين
+",000,False,000,False,False,False,1,30784
+"### || العين ms0782 مع الياء
+",000,False,000,False,False,False,2,659
+"### ||| (ع ب أ)
+",000,False,000,False,False,False,3,63
+"### ||| (ع ب ب)
+",000,False,000,False,False,False,3,34
+"### ||| (ع ب ث)
+",000,False,000,False,False,False,3,22
+"### ||| (ع ب د)
+",000,False,000,False,False,False,3,17
+"### ||| (ع ب ر)
+",000,False,000,False,False,False,3,75
+"### ||| (ع ب ط)
+",000,False,000,False,False,False,3,25
+"### ||| (ع ب ق)
+",000,False,000,False,False,False,3,38
+"### || العين مع التاء
+",000,False,000,False,False,False,2,920
+"### ||| (ع ت ب)
+",000,False,000,False,False,False,3,113
+"### ||| (ع ت د)
+",000,False,000,False,False,False,3,76
+"### ||| (ع ت ر)
+",000,False,000,False,False,False,3,76
+"### ||| (ع ت ل)
+",000,False,000,False,False,False,3,36
+"### ||| (ع ت م)
+",000,False,000,False,False,False,3,146
+"### ||| (ع ت ق)
+",000,False,000,False,False,False,3,314
+"### || العين مع الثاء
+",000,False,000,False,False,False,2,158
+"### ||| (ع ث ر)
+",000,False,000,False,False,False,3,84
+"### ||| (ع ث ل)
+",000,False,000,False,False,False,3,28
+"### || العين مع الجيم
+",000,False,000,False,False,False,2,825
+"### ||| (ع ج ب)
+",000,False,000,False,False,False,3,66
+"### ||| (ع ج ج)
+",000,False,000,False,False,False,3,23
+"### ||| (ع ج ر)
+",000,False,000,False,False,False,3,62
+"### ||| (ع ج ز)
+",000,False,000,False,False,False,3,315
+"### ||| (ع ج ل)
+",000,False,000,False,False,False,3,142
+"### ||| (ع ج م)
+",000,False,000,False,False,False,3,123
+"### ||| (ع ج و)
+",000,False,000,False,False,False,3,25
+"### || العين مع الدال
+",000,False,000,False,False,False,2,739
+"### ||| (ع دد) 
+",000,False,000,False,False,False,3,107
+"### ||| (ع د ل)
+",000,False,000,False,False,False,3,199
+"### ||| (ع د م)
+",000,False,000,False,False,False,3,75
+"### ||| (ع د ن)
+",000,False,000,False,False,False,3,60
+"### ||| (ع د و)
+",000,False,000,False,False,False,3,149
+"### || العين مع الذال
+",000,False,000,False,False,False,2,538
+"### ||| (ع ذ ب)
+",000,False,000,False,False,False,3,78
+"### ||| (ع ذ ر)
+",000,False,000,False,False,False,3,140
+"### ||| (ع ذ ل)
+",000,False,000,False,False,False,3,157
+"### || العين مع الراء
+",000,False,000,False,False,False,2,3791
+"### ||| (ع ر ب)
+",000,False,000,False,False,False,3,191
+"### ||| (ع ر ج)
+",000,False,000,False,False,False,3,90
+"### ||| (ع ر ر)
+",000,False,000,False,False,False,3,115
+"### ||| (ع رك)
+",000,False,000,False,False,False,3,61
+"### ||| (ع ر م)
+",000,False,000,False,False,False,3,40
+"### ||| (ع ر ص)
+",000,False,000,False,False,False,3,35
+"### ||| (ع رض)
+",000,False,000,False,False,False,3,1385
+"### ||| (ع ر ف)
+",000,False,000,False,False,False,3,165
+"### ||| (ع ر ق)
+",000,False,000,False,False,False,3,257
+"### ||| (ع ر س)
+",000,False,000,False,False,False,3,147
+"### ||| (ع ر ش)
+",000,False,000,False,False,False,3,228
+"### ||| (ع ر و)
+",000,False,000,False,False,False,3,95
+"### ||| (ع رى)
+",000,False,000,False,False,False,3,338
+"### || العين مع الزاي
+",000,False,000,False,False,False,2,691
+"### ||| (ع ز ب)
+",000,False,000,False,False,False,3,63
+"### ||| (ع زة)
+",000,False,000,False,False,False,3,45
+"### ||| (ع ز ر)
+",000,False,000,False,False,False,3,92
+"### ||| (ع ز ز)
+",000,False,000,False,False,False,3,59
+"### ||| (ع ز ل)
+",000,False,000,False,False,False,3,61
+"### ||| (ع ز م)
+",000,False,000,False,False,False,3,120
+"### ||| (ع ز ف)
+",000,False,000,False,False,False,3,14
+"### ||| (ع ز و)
+",000,False,000,False,False,False,3,25
+"### || العين مع الطاء
+",000,False,000,False,False,False,2,359
+"### ||| (ع ط ب)
+",000,False,000,False,False,False,3,25
+"### ||| (ع ط ر)
+",000,False,000,False,False,False,3,29
+"### ||| (ع ط ل)
+",000,False,000,False,False,False,3,22
+"### ||| (ع ط ن)
+",000,False,000,False,False,False,3,64
+"### ||| (ع ط ف)
+",000,False,000,False,False,False,3,123
+"### ||| (ع ط ى)
+",000,False,000,False,False,False,3,17
+"### || العين مع الظاء
+",000,False,000,False,False,False,2,82
+"### ||| (ع ظ ة)
+",000,False,000,False,False,False,3,34
+"### ||| (ع ظ م)
+",000,False,000,False,False,False,3,27
+"### || العين مع الكاف
+",000,False,000,False,False,False,2,261
+"### ||| (ع ك ز)
+",000,False,000,False,False,False,3,28
+"### ||| (ع ك ك ms0813)
+",000,False,000,False,False,False,3,18
+"### ||| (ع ك م)
+",000,False,000,False,False,False,3,53
+"### ||| (ع ك ن)
+",000,False,000,False,False,False,3,27
+"### ||| (ع ك ف)
+",000,False,000,False,False,False,3,54
+"### || العين مع اللام
+",000,False,000,False,False,False,2,2031
+"### ||| (ع ل ب)
+",000,False,000,False,False,False,3,77
+"### ||| (ع ل ج)
+",000,False,000,False,False,False,3,65
+"### ||| (ع ل ل)
+",000,False,000,False,False,False,3,116
+"### ||| (ع ل م)
+",000,False,000,False,False,False,3,334
+"### ||| (ع ل ن)
+",000,False,000,False,False,False,3,32
+"### ||| (ع ل ق)
+",000,False,000,False,False,False,3,270
+"### ||| (ع ل و)
+",000,False,000,False,False,False,3,187
+"### ||| (ع ل ي)
+",000,False,000,False,False,False,3,247
+"### || العين مع الميم
+",000,False,000,False,False,False,2,1115
+"### ||| (ع م د)
+",000,False,000,False,False,False,3,180
+"### ||| (ع م ر)
+",000,False,000,False,False,False,3,78
+"### ||| (ع م ل)
+",000,False,000,False,False,False,3,58
+"### ||| (ع م م)
+",000,False,000,False,False,False,3,102
+"### ||| (ع م ق)
+",000,False,000,False,False,False,3,35
+"### ||| (ع م ى)
+",000,False,000,False,False,False,3,168
+"### || العين مع النون
+",000,False,000,False,False,False,2,1382
+"### ||| (عن) 
+",000,False,000,False,False,False,3,438
+"### ||| فصل من الاختلاف بين المتون والأسانيد والوهم فيهما
+",000,False,000,False,False,False,3,328
+"### || العين مع النون
+",000,False,000,False,False,False,2,1047
+"### ||| (ع ن ب)
+",000,False,000,False,False,False,3,18
+"### ||| (ع ن ت)
+",000,False,000,False,False,False,3,50
+"### ||| (ع ن ز)
+",000,False,000,False,False,False,3,57
+"### ||| (ع ن ط)
+",000,False,000,False,False,False,3,27
+"### ||| (ع ن ن)
+",000,False,000,False,False,False,3,59
+"### ||| (ع ن ف)
+",000,False,000,False,False,False,3,68
+"### ||| (ع ن ق)
+",000,False,000,False,False,False,3,219
+"### ||| (ع ن و)
+",000,False,000,False,False,False,3,34
+"### ||| (ع ن ى)
+",000,False,000,False,False,False,3,122
+"### || العين مع الصاد
+",000,False,000,False,False,False,2,781
+"### ||| (ع ص ب)
+",000,False,000,False,False,False,3,248
+"### ||| (ع ص ر)
+",000,False,000,False,False,False,3,126
+"### ||| (ع ص م)
+",000,False,000,False,False,False,3,35
+"### ||| (ع ص ف)
+",000,False,000,False,False,False,3,31
+"### ||| (ع ص و)
+",000,False,000,False,False,False,3,74
+"### ||| (ع ص ى)
+",000,False,000,False,False,False,3,93
+"### || العين مع الضاد
+",000,False,000,False,False,False,2,661
+"### ||| (ع ض ب)
+",000,False,000,False,False,False,3,230
+"### ||| (ع ض ة)
+",000,False,000,False,False,False,3,55
+"### ||| (ع ض د)
+",000,False,000,False,False,False,3,74
+"### ||| (ع ض ل)
+",000,False,000,False,False,False,3,68
+"### ||| (ع ض ض)
+",000,False,000,False,False,False,3,80
+"### ||| (ع ms0838 ض ه) 
+",000,False,000,False,False,False,3,54
+"### || العين مع الفاء
+",000,False,000,False,False,False,2,671
+"### ||| (ع ف ر)
+",000,False,000,False,False,False,3,146
+"### ||| (ع ف ص)
+",000,False,000,False,False,False,3,28
+"### ||| (ع ف ف)
+",000,False,000,False,False,False,3,148
+"### ||| (ع ف س)
+",000,False,000,False,False,False,3,41
+"### ||| (ع ف و)
+",000,False,000,False,False,False,3,194
+"### || العين مع القاف
+",000,False,000,False,False,False,2,1332
+"### ||| (ع ق ب)
+",000,False,000,False,False,False,3,436
+"### ||| (ع ق د)
+",000,False,000,False,False,False,3,174
+"### ||| (ع ق ر)
+",000,False,000,False,False,False,3,184
+"### ||| (ع ق ل)
+",000,False,000,False,False,False,3,149
+"### ||| (ع ق م)
+",000,False,000,False,False,False,3,35
+"### ||| (ع ق ص)
+",000,False,000,False,False,False,3,79
+"### ||| (ع ق ق)
+",000,False,000,False,False,False,3,90
+"### || العين مع السين
+",000,False,000,False,False,False,2,456
+"### ||| (ع س ب)
+",000,False,000,False,False,False,3,75
+"### ||| (ع س ر)
+",000,False,000,False,False,False,3,96
+"### ||| (ع س ل)
+",000,False,000,False,False,False,3,47
+"### ||| (ع س ف)
+",000,False,000,False,False,False,3,22
+"### ||| (ع س س)
+",000,False,000,False,False,False,3,21
+"### ||| (ع س ى)
+",000,False,000,False,False,False,3,36
+"### || العين مع الشين
+",000,False,000,False,False,False,2,890
+"### ||| (ع ش ر)
+",000,False,000,False,False,False,3,239
+"### ||| (ع ش ن)
+",000,False,000,False,False,False,3,132
+"### ||| (ع ش ي)
+",000,False,000,False,False,False,3,202
+"### || العين مع الهاء
+",000,False,000,False,False,False,2,304
+"### ||| (ع ه د)
+",000,False,000,False,False,False,3,190
+"### ||| (ع ه ر)
+",000,False,000,False,False,False,3,67
+"### ||| (ع ه ن)
+",000,False,000,False,False,False,3,27
+"### || العين مع الواو
+",000,False,000,False,False,False,2,892
+"### ||| (ع وج) 
+",000,False,000,False,False,False,3,57
+"### ||| (ع ود)
+",000,False,000,False,False,False,3,172
+"### ||| (ع وذ)
+",000,False,000,False,False,False,3,114
+"### ||| (ع ور)
+",000,False,000,False,False,False,3,93
+"### ||| (ع وز)
+",000,False,000,False,False,False,3,27
+"### ||| (ع ول)
+",000,False,000,False,False,False,3,162
+"### ||| (ع وم)
+",000,False,000,False,False,False,3,25
+"### ||| (ع وض)
+",000,False,000,False,False,False,3,16
+"### ||| (ع وه)
+",000,False,000,False,False,False,3,26
+"### || العين مع الياء
+",000,False,000,False,False,False,2,594
+"### ||| (ع ي ب)
+",000,False,000,False,False,False,3,47
+"### ||| (ع ي ث)
+",000,False,000,False,False,False,3,49
+"### ||| (ع ي ر)
+",000,False,000,False,False,False,3,106
+"### ||| (ع ي ط)
+",000,False,000,False,False,False,3,27
+"### ||| (ع ي ل)
+",000,False,000,False,False,False,3,30
+"### ||| (ع ي ن)
+",000,False,000,False,False,False,3,135
+"### ||| (ع ي ف)
+",000,False,000,False,False,False,3,37
+"### ||| (ع ي ه) 
+",000,False,000,False,False,False,3,27
+"### ||| (ع ي ي)
+",000,False,000,False,False,False,3,31
+"### || فصل في مشكل أسماء المواضع من هذا الحرف
+",000,False,000,False,False,False,2,614
+"### ||| عرفة 
+",000,False,000,False,False,False,3,209
+"### ||| (عكاظ)
+",000,False,000,False,False,False,3,29
+"### ||| (عينين)
+",000,False,000,False,False,False,3,36
+"### ||| (العرج)
+",000,False,000,False,False,False,3,29
+"### ||| (العريض)
+",000,False,000,False,False,False,3,9
+"### ||| (العرش) 
+",000,False,000,False,False,False,3,39
+"### ||| (العقيق)
+",000,False,000,False,False,False,3,109
+"### ||| (ذو العشيرة)
+",000,False,000,False,False,False,3,27
+"### ||| (عين زغر)
+",000,False,000,False,False,False,3,10
+"### ||| (بطن عرنة)
+",000,False,000,False,False,False,3,10
+"### ||| (عير وعائر)
+",000,False,000,False,False,False,3,41
+"### ||| (العالية)
+",000,False,000,False,False,False,3,41
+"### ||| (عدن)
+",000,False,000,False,False,False,3,23
+"### || مشكل الأسماء في هذا الحرف
+",000,False,000,False,False,False,2,8107
+"### ||| فصل عباس وعياش
+",000,False,000,False,False,False,3,401
+"### ||| فصل عمر وعمرو
+",000,False,000,False,False,False,3,1071
+"### ||| فصل منه </span>
+",000,False,000,False,False,False,3,290
+"### ||| فصل منه
+",000,False,000,False,False,False,3,229
+"### ||| فصل منه
+",000,False,000,False,False,False,3,58
+"### ||| فصل الاختلاف في عبيد الله وعبد الله والوهم في ذلك مما وقع في هذه الأمهات
+",000,False,000,False,False,False,3,1270
+"### ||| فصل آخر في عبد وعبيد وعبيدة وعبد الله وعبيد الله والوهم في ذلك
+",000,False,000,False,False,False,3,576
+"### ||| فصل آخر من الاختلاف في أسماء العباد فيها والوهم في ذلك
+",000,False,000,False,False,False,3,917
+"### || فصل في مشكل الأنساب
+",000,False,000,False,False,False,2,788
+"### ||| (العبسي)
+",000,False,000,False,False,False,3,57
+"### ||| (العنسي)
+",000,False,000,False,False,False,3,28
+"### ||| (العيشي)
+",000,False,000,False,False,False,3,49
+"### ||| (القيسي) 
+",000,False,000,False,False,False,3,93
+"### ||| فصل منه
+",000,False,000,False,False,False,3,4
+"### ||| (العنزي)
+",000,False,000,False,False,False,3,44
+"### ||| (العنزي)
+",000,False,000,False,False,False,3,75
+"### ||| (الغبري)
+",000,False,000,False,False,False,3,40
+"### ||| (فالعبدي) 
+",000,False,000,False,False,False,3,101
+"### ||| (العصري)
+",000,False,000,False,False,False,3,19
+"### ||| (العقدي)
+",000,False,000,False,False,False,3,53
+"### ||| (العمري)
+",000,False,000,False,False,False,3,81
+"### ||| فصل منه
+",000,False,000,False,False,False,3,4
+"### ||| (العنبري) 
+",000,False,000,False,False,False,3,57
+"### ||| (العنقزي)
+",000,False,000,False,False,False,3,40
+"### ||| (العرني)
+",000,False,000,False,False,False,3,20
+"### ||| (القرنيون)
+",000,False,000,False,False,False,3,35
+"### ||| (القرى) 
+",000,False,000,False,False,False,3,30
+"### | حرف الغين
+",000,False,000,False,False,False,1,8132
+"### || الغين مع الباء
+",000,False,000,False,False,False,2,607
+"### ||| (غ ب ر)
+",000,False,000,False,False,False,3,207
+"### ||| (غ ب ط)
+",000,False,000,False,False,False,3,72
+"### ||| (غ ب ن)
+",000,False,000,False,False,False,3,17
+"### ||| (غ ب ق)
+",000,False,000,False,False,False,3,34
+"### ||| (غ ب س)
+",000,False,000,False,False,False,3,161
+"### || الغين مع التاء
+",000,False,000,False,False,False,2,57
+"### || الغين مع الثاء
+",000,False,000,False,False,False,2,72
+"### ||| (غ ث ث)
+",000,False,000,False,False,False,3,11
+"### || الغين مع الدال
+",000,False,000,False,False,False,2,348
+"### ||| (غ ده)
+",000,False,000,False,False,False,3,52
+"### ||| (غ د ر)
+",000,False,000,False,False,False,3,56
+"### ||| (غ دق ms0894)
+",000,False,000,False,False,False,3,37
+"### ||| (غ د و)
+",000,False,000,False,False,False,3,130
+"### || الغين مع الذال
+",000,False,000,False,False,False,2,141
+"### ||| (غ ذ و)
+",000,False,000,False,False,False,3,60
+"### || الغين مع الراء
+",000,False,000,False,False,False,2,1515
+"### ||| (غ ر ب)
+",000,False,000,False,False,False,3,333
+"### ||| (غ ر ث)
+",000,False,000,False,False,False,3,51
+"### ||| (غ ر ر)
+",000,False,000,False,False,False,3,399
+"### ||| (غ ر ز)
+",000,False,000,False,False,False,3,116
+"### ||| (غ ر ل)
+",000,False,000,False,False,False,3,21
+"### ||| (غ رم)
+",000,False,000,False,False,False,3,83
+"### ||| (غ رف)
+",000,False,000,False,False,False,3,61
+"### ||| (غ ر ق)
+",000,False,000,False,False,False,3,132
+"### ||| (غ ر ض)
+",000,False,000,False,False,False,3,74
+"### ||| (غ ر ى)
+",000,False,000,False,False,False,3,46
+"### || الغين مع الزاي
+",000,False,000,False,False,False,2,150
+"### ||| (غ ز و)
+",000,False,000,False,False,False,3,34
+"### || الغين مع الطاء
+",000,False,000,False,False,False,2,69
+"### || الغين مع اللام
+",000,False,000,False,False,False,2,708
+"### ||| (غ ل ب)
+",000,False,000,False,False,False,3,139
+"### ||| (غ ل ط)
+",000,False,000,False,False,False,3,44
+"### ||| (غ ل ظ)
+",000,False,000,False,False,False,3,28
+"### ||| (غ ل ل)
+",000,False,000,False,False,False,3,89
+"### ||| (غ ل م)
+",000,False,000,False,False,False,3,70
+"### ||| (غ ل ف)
+",000,False,000,False,False,False,3,117
+"### ||| (غ ل ق)
+",000,False,000,False,False,False,3,118
+"### ||| (غ ل س)
+",000,False,000,False,False,False,3,43
+"### ||| (غ ل و)
+",000,False,000,False,False,False,3,70
+"### || الغين مع الميم
+",000,False,000,False,False,False,2,815
+"### ||| (غ م د)
+",000,False,000,False,False,False,3,20
+"### ||| (غ م ر)
+",000,False,000,False,False,False,3,108
+"### ||| (غ م ز)
+",000,False,000,False,False,False,3,100
+"### ||| (ع م ط)
+",000,False,000,False,False,False,3,41
+"### ||| (غ م م)
+",000,False,000,False,False,False,3,336
+"### ||| (غ م ص)
+",000,False,000,False,False,False,3,109
+"### ||| (غ م ض)
+",000,False,000,False,False,False,3,23
+"### ||| (غ م س)
+",000,False,000,False,False,False,3,88
+"### || الغين مع النون
+",000,False,000,False,False,False,2,489
+"### ||| (غ ن ث ر)
+",000,False,000,False,False,False,3,95
+"### ||| (غ ن ج)
+",000,False,000,False,False,False,3,25
+"### ||| (غ ن م)
+",000,False,000,False,False,False,3,53
+"### ||| (غ ن ى)
+",000,False,000,False,False,False,3,296
+"### || الغين مع الصاد
+",000,False,000,False,False,False,2,29
+"### || الغين مع الضاد
+",000,False,000,False,False,False,2,90
+"### ||| (غ ض ب)
+",000,False,000,False,False,False,3,42
+"### || الغين مع الفاء
+",000,False,000,False,False,False,2,326
+"### ||| (غ ف ر)
+",000,False,000,False,False,False,3,62
+"### ||| (غ ف ل)
+",000,False,000,False,False,False,3,40
+"### ||| (غ ف ى)
+",000,False,000,False,False,False,3,51
+"### || الغين مع السين
+",000,False,000,False,False,False,2,563
+"### ||| (غ س ل)
+",000,False,000,False,False,False,3,83
+"### ||| (غ س ق)
+",000,False,000,False,False,False,3,137
+"### ||| (غ ش ش)
+",000,False,000,False,False,False,3,57
+"### ||| (غ ش ى)
+",000,False,000,False,False,False,3,137
+"### || الغين مع الواو
+",000,False,000,False,False,False,2,657
+"### ||| (غ وث)
+",000,False,000,False,False,False,3,190
+"### ||| (غ ور)
+",000,False,000,False,False,False,3,144
+"### ||| (غ وط)
+",000,False,000,False,False,False,3,39
+"### ||| (غ ول)
+",000,False,000,False,False,False,3,53
+"### ||| (غ وغ أ)
+",000,False,000,False,False,False,3,55
+"### ||| (غ وى)
+",000,False,000,False,False,False,3,39
+"### || الغين مع الياء
+",000,False,000,False,False,False,2,1067
+"### ||| (غ ي ب)
+",000,False,000,False,False,False,3,122
+"### ||| (غ ي ث)
+",000,False,000,False,False,False,3,41
+"### ||| (غ ي ر)
+",000,False,000,False,False,False,3,169
+"### ||| (غ ي ط)
+",000,False,000,False,False,False,3,33
+"### ||| (غ ي ظ)
+",000,False,000,False,False,False,3,62
+"### ||| (غ ي ل)
+",000,False,000,False,False,False,3,185
+"### ||| (غ ي ن)
+",000,False,000,False,False,False,3,141
+"### ||| (غ ي م)
+",000,False,000,False,False,False,3,68
+"### ||| (غ ي ض)
+",000,False,000,False,False,False,3,48
+"### ||| (غ ي ي)
+",000,False,000,False,False,False,3,206
+"### || فصل مشتبه أسماء المواضع والأمكنة في هذا الحرف
+",000,False,000,False,False,False,2,210
+"### || فصل مشكل الأسماء فيه
+",000,False,000,False,False,False,2,257
+"### | حرف الفاء مع سائر الحروف
+",000,False,000,False,False,False,1,12102
+"### || (الفاء مع الهمزة)
+",000,False,000,False,False,False,2,285
+"### ||| (ف اد)
+",000,False,000,False,False,False,3,86
+"### ||| (ف ال)
+",000,False,000,False,False,False,3,37
+"### ||| (ف ام)
+",000,False,000,False,False,False,3,71
+"### ||| (ف أف أ)
+",000,False,000,False,False,False,3,40
+"### ||| (ف أس)
+",000,False,000,False,False,False,3,20
+"### ||| (ف أو) 
+",000,False,000,False,False,False,3,33
+"### || الفاء مع التاء
+",000,False,000,False,False,False,2,857
+"### ||| (ف ت ح)
+",000,False,000,False,False,False,3,175
+"### ||| (ف ت خ) 
+",000,False,000,False,False,False,3,81
+"### ||| (ف ت ك)
+",000,False,000,False,False,False,3,47
+"### ||| (ف ت ل)
+",000,False,000,False,False,False,3,29
+"### ||| (ف ت ن)
+",000,False,000,False,False,False,3,231
+"### ||| (ف ت ش)
+",000,False,000,False,False,False,3,34
+"### ||| (ف ت ى)
+",000,False,000,False,False,False,3,105
+"### || الفاء مع الجيم
+",000,False,000,False,False,False,2,242
+"### ||| (ف ج أ)
+",000,False,000,False,False,False,3,75
+"### ||| (ف ج ج)
+",000,False,000,False,False,False,3,78
+"### ||| (ف ج ر)
+",000,False,000,False,False,False,3,57
+"### || الفاء مع الحاء
+",000,False,000,False,False,False,2,370
+"### ||| (ف ح ج)
+",000,False,000,False,False,False,3,26
+"### ||| (ف ح ل)
+",000,False,000,False,False,False,3,65
+"### ||| (ف ح م)
+",000,False,000,False,False,False,3,70
+"### ||| (ف ح ص)
+",000,False,000,False,False,False,3,39
+"### ||| (ف ح ش)
+",000,False,000,False,False,False,3,140
+"### || الفاء مع الخاء
+",000,False,000,False,False,False,2,122
+"### ||| (ف خ ذ) 
+",000,False,000,False,False,False,3,58
+"### ||| (ف خ ر) 
+",000,False,000,False,False,False,3,34
+"### || الفاء مع الدال
+",000,False,000,False,False,False,2,719
+"### ||| (ف د د)
+",000,False,000,False,False,False,3,125
+"### ||| (ف د ر)
+",000,False,000,False,False,False,3,69
+"### ||| (ف د ع)
+",000,False,000,False,False,False,3,89
+"### ||| (ف د ف د)
+",000,False,000,False,False,False,3,41
+"### ||| (ف د ى)
+",000,False,000,False,False,False,3,148
+"### || الفاء مع الذال
+",000,False,000,False,False,False,2,278
+"### ||| (ف ذ ذ)
+",000,False,000,False,False,False,3,147
+"### || الفاء مع الراء
+",000,False,000,False,False,False,2,2697
+"### ||| (ف ر ث)
+",000,False,000,False,False,False,3,33
+"### ||| (ف ر ج)
+",000,False,000,False,False,False,3,202
+"### ||| (ف رح)
+",000,False,000,False,False,False,3,99
+"### ||| (ف رد)
+",000,False,000,False,False,False,3,195
+"### ||| (ف ر ط)
+",000,False,000,False,False,False,3,111
+"### ||| (ف ر ك)
+",000,False,000,False,False,False,3,75
+"### ||| (ف رص)
+",000,False,000,False,False,False,3,119
+"### ||| (فرض)
+",000,False,000,False,False,False,3,347
+"### ||| (ف ر ع)
+",000,False,000,False,False,False,3,126
+"### ||| (ف ر غ)
+",000,False,000,False,False,False,3,69
+"### ||| (ف ر ق)
+",000,False,000,False,False,False,3,215
+"### ||| (ف ر س)
+",000,False,000,False,False,False,3,58
+"### ||| (ف ر ش)
+",000,False,000,False,False,False,3,146
+"### ||| (ف رو)
+",000,False,000,False,False,False,3,105
+"### ||| (ف رى)
+",000,False,000,False,False,False,3,147
+"### || الفاء مع الزاي
+",000,False,000,False,False,False,2,203
+"### ||| (ف ز ر)
+",000,False,000,False,False,False,3,17
+"### || الفاء مع الطاء
+",000,False,000,False,False,False,2,333
+"### ||| (ف ط ر)
+",000,False,000,False,False,False,3,131
+"### ||| (ف ط م)
+",000,False,000,False,False,False,3,127
+"### || الفاء مع الظاء
+",000,False,000,False,False,False,2,153
+"### ||| (ف ظ)
+",000,False,000,False,False,False,3,74
+"### ||| (ف ظ ع)
+",000,False,000,False,False,False,3,41
+"### || الفاء مع اللام
+",000,False,000,False,False,False,2,1024
+"### ||| (ف ل ت)
+",000,False,000,False,False,False,3,277
+"### ||| (ف ل ج)
+",000,False,000,False,False,False,3,116
+"### ||| (ف ل ح)
+",000,False,000,False,False,False,3,77
+"### ||| (ف ل ذ)
+",000,False,000,False,False,False,3,40
+"### ||| (ف ل ك)
+",000,False,000,False,False,False,3,54
+"### ||| (ف ل ل)
+",000,False,000,False,False,False,3,76
+"### ||| (ف ل غ ms0944)
+",000,False,000,False,False,False,3,25
+"### ||| (ف ل ق)
+",000,False,000,False,False,False,3,70
+"### ||| (ف ل س)
+",000,False,000,False,False,False,3,63
+"### ||| (ف ل و)
+",000,False,000,False,False,False,3,67
+"### || الفاء مع الميم
+",000,False,000,False,False,False,2,108
+"### || الفاء مع النون
+",000,False,000,False,False,False,2,195
+"### || الفاء مع الصاد
+",000,False,000,False,False,False,2,241
+"### ||| (ف ص د)
+",000,False,000,False,False,False,3,21
+"### ||| (ف ص ل)
+",000,False,000,False,False,False,3,108
+"### ||| (ف ص م)
+",000,False,000,False,False,False,3,77
+"### ||| (ف ص ص)
+",000,False,000,False,False,False,3,20
+"### || الفاء مع الضاد
+",000,False,000,False,False,False,2,737
+"### ||| (ف ض خ) 
+",000,False,000,False,False,False,3,41
+"### ||| (ف ض ل)
+",000,False,000,False,False,False,3,188
+"### ||| (ف ض ض)
+",000,False,000,False,False,False,3,30
+"### ||| (ف ض ع)
+",000,False,000,False,False,False,3,56
+"### ||| (ف ض و)
+",000,False,000,False,False,False,3,63
+"### || الفاء مع العين
+",000,False,000,False,False,False,2,158
+"### ||| (ف ع ms0950 ل)
+",000,False,000,False,False,False,3,63
+"### || الفاء مع القاف
+",000,False,000,False,False,False,2,596
+"### ||| (ف ق د)
+",000,False,000,False,False,False,3,27
+"### ||| (ف ق ر)
+",000,False,000,False,False,False,3,207
+"### ||| (ف ق ع)
+",000,False,000,False,False,False,3,19
+"### ||| (ف ق ه)
+",000,False,000,False,False,False,3,74
+"### || الفاء مع السين
+",000,False,000,False,False,False,2,206
+"### ||| (ف س ح)
+",000,False,000,False,False,False,3,40
+"### ||| (ف س ط)
+",000,False,000,False,False,False,3,54
+"### || الفاء مع الشين
+",000,False,000,False,False,False,2,271
+"### ||| (ف ش ج)
+",000,False,000,False,False,False,3,33
+"### ||| (ف ش ع)
+",000,False,000,False,False,False,3,180
+"### || الفاء مع الهاء
+",000,False,000,False,False,False,2,93
+"### ||| (ف ه د)
+",000,False,000,False,False,False,3,41
+"### ||| (ف ه ر)
+",000,False,000,False,False,False,3,25
+"### || الفاء مع الواو
+",000,False,000,False,False,False,2,524
+"### ||| (ف وت)
+",000,False,000,False,False,False,3,25
+"### ||| (ف وح)
+",000,False,000,False,False,False,3,20
+"### ||| (ف ور)
+",000,False,000,False,False,False,3,103
+"### ||| (ف وز)
+",000,False,000,False,False,False,3,31
+"### ||| (ف وض)
+",000,False,000,False,False,False,3,33
+"### ||| (ف وق)
+",000,False,000,False,False,False,3,199
+"### ||| (ف وه)
+",000,False,000,False,False,False,3,31
+"### || الفاء مع الياء
+",000,False,000,False,False,False,2,1074
+"### ||| (ف يء)
+",000,False,000,False,False,False,3,159
+"### ||| (ف ي ح)
+",000,False,000,False,False,False,3,61
+"### ||| (ف ي ظ)
+",000,False,000,False,False,False,3,78
+"### ||| (ف ي ل)
+",000,False,000,False,False,False,3,16
+"### ||| (ف ي م)
+",000,False,000,False,False,False,3,33
+"### ||| (ف ي ض)
+",000,False,000,False,False,False,3,141
+"### ||| فصل الاختلاف والوهم</span>
+",000,False,000,False,False,False,3,417
+"### ||| فصل الاختلاف في الفاء والواو والوهم فيه
+",000,False,000,False,False,False,3,46
+"### || فصل مشكل أسماء المواضع في هذا الحرف
+",000,False,000,False,False,False,2,115
+"### ||| (الفرع) 
+",000,False,000,False,False,False,3,34
+"### ||| (فدك)
+",000,False,000,False,False,False,3,13
+"### ||| (فج الروحاء)
+",000,False,000,False,False,False,3,14
+"### ||| (فربر)
+",000,False,000,False,False,False,3,53
+"### || فصل مشكل الأسماء والكنى
+",000,False,000,False,False,False,2,431
+"### | حرف القاف مع سائر الحروف
+",000,False,000,False,False,False,1,15613
+"### || القاف مع الباء
+",000,False,000,False,False,False,2,994
+"### ||| (ق ب ح)
+",000,False,000,False,False,False,3,43
+"### ||| (ق ب ر)
+",000,False,000,False,False,False,3,59
+"### ||| (ق ب ل)
+",000,False,000,False,False,False,3,293
+"### ||| (ق ب ط)
+",000,False,000,False,False,False,3,43
+"### ||| (ق ب ض)
+",000,False,000,False,False,False,3,194
+"### ||| (ق ب س)
+",000,False,000,False,False,False,3,39
+"### ||| (ق ب ي)
+",000,False,000,False,False,False,3,38
+"### || القاف مع التاء
+",000,False,000,False,False,False,2,325
+"### ||| (ق ت ب)
+",000,False,000,False,False,False,3,52
+"### ||| (ق ت ت)
+",000,False,000,False,False,False,3,46
+"### ||| (ق ت ر)
+",000,False,000,False,False,False,3,21
+"### ||| (ق ت ل)
+",000,False,000,False,False,False,3,199
+"### || القاف مع الحاء
+",000,False,000,False,False,False,2,157
+"### ||| (ق ح ط)
+",000,False,000,False,False,False,3,77
+"### || القاف مع الدال
+",000,False,000,False,False,False,2,1391
+"### ||| (ق د ح)
+",000,False,000,False,False,False,3,90
+"### ||| (ق د د)
+",000,False,000,False,False,False,3,76
+"### ||| (ق د ر)
+",000,False,000,False,False,False,3,387
+"### ||| (ق د م)
+",000,False,000,False,False,False,3,180
+"### ||| (ق د ع)
+",000,False,000,False,False,False,3,23
+"### ||| (ق د س)
+",000,False,000,False,False,False,3,76
+"### ||| (ق د ي)
+",000,False,000,False,False,False,3,39
+"### || القاف مع الذال
+",000,False,000,False,False,False,2,137
+"### ||| (ق ذ ذ)
+",000,False,000,False,False,False,3,19
+"### ||| (ق ذ ر)
+",000,False,000,False,False,False,3,29
+"### ||| (ق ذ ف)
+",000,False,000,False,False,False,3,41
+"### || القاف مع الراء
+",000,False,000,False,False,False,2,3364
+"### ||| (ق ر أ)
+",000,False,000,False,False,False,3,186
+"### ||| (ق رب)
+",000,False,000,False,False,False,3,558
+"### ||| (ق ر ح)
+",000,False,000,False,False,False,3,70
+"### ||| (ق ر د)
+",000,False,000,False,False,False,3,40
+"### ||| (ق ر ر)
+",000,False,000,False,False,False,3,545
+"### ||| (ق ر ط)
+",000,False,000,False,False,False,3,233
+"### ||| (ق ر ظ)
+",000,False,000,False,False,False,3,47
+"### ||| (ق ر م)
+",000,False,000,False,False,False,3,110
+"### ||| (ق ر ن)
+",000,False,000,False,False,False,3,476
+"### ||| (ق ر ص)
+",000,False,000,False,False,False,3,38
+"### ||| (ق ر ض)
+",000,False,000,False,False,False,3,75
+"### ||| (ق ر ع)
+",000,False,000,False,False,False,3,191
+"### ||| (ق ر ف)
+",000,False,000,False,False,False,3,156
+"### ||| (ق ر ق ر)
+",000,False,000,False,False,False,3,84
+"### ||| (ق ر و)
+",000,False,000,False,False,False,3,34
+"### ||| (ق رى)
+",000,False,000,False,False,False,3,93
+"### || القاف مع الزاي
+",000,False,000,False,False,False,2,53
+"### || القاف مع الطاء
+",000,False,000,False,False,False,2,823
+"### ||| (ق ط ب)
+",000,False,000,False,False,False,3,36
+"### ||| (ق ط ر)
+",000,False,000,False,False,False,3,94
+"### ||| (ق ط ط)
+",000,False,000,False,False,False,3,114
+"### ||| (ق ط ن)
+",000,False,000,False,False,False,3,13
+"### ||| (ق ط ع)
+",000,False,000,False,False,False,3,371
+"### ||| (ق ط ف)
+",000,False,000,False,False,False,3,97
+"### || القاف مع اللام
+",000,False,000,False,False,False,2,731
+"### ||| (ق ل ب)
+",000,False,000,False,False,False,3,105
+"### ||| (ق ل ت)
+",000,False,000,False,False,False,3,23
+"### ||| (ق ل د)
+",000,False,000,False,False,False,3,95
+"### ||| (ق ل ل)
+",000,False,000,False,False,False,3,117
+"### ||| (ق ل م)
+",000,False,000,False,False,False,3,28
+"### ||| (ق ل ص)
+",000,False,000,False,False,False,3,88
+"### ||| (ق ل ع)
+",000,False,000,False,False,False,3,67
+"### ||| (ق ل ف)
+",000,False,000,False,False,False,3,20
+"### ||| (ق ل ق)
+",000,False,000,False,False,False,3,25
+"### ||| (ق ل س)
+",000,False,000,False,False,False,3,92
+"### ||| (ق ل ي)
+",000,False,000,False,False,False,3,25
+"### || القاف مع الميم
+",000,False,000,False,False,False,2,369
+"### ||| (ق م ح)
+",000,False,000,False,False,False,3,52
+"### ||| (ق م ط)
+",000,False,000,False,False,False,3,19
+"### ||| (ق م م)
+",000,False,000,False,False,False,3,16
+"### ||| (ق م ن)
+",000,False,000,False,False,False,3,50
+"### ||| (ق م ع)
+",000,False,000,False,False,False,3,33
+"### || القاف مع النون
+",000,False,000,False,False,False,2,348
+"### ||| (ق ن أ)
+",000,False,000,False,False,False,3,17
+"### ||| (ق ن ت)
+",000,False,000,False,False,False,3,46
+"### ||| (ق ن ح)
+",000,False,000,False,False,False,3,64
+"### ||| (ق ن ط)
+",000,False,000,False,False,False,3,106
+"### ||| (ق ن ع)
+",000,False,000,False,False,False,3,65
+"### ||| (ق ن و)
+",000,False,000,False,False,False,3,30
+"### || القاف مع الصاد
+",000,False,000,False,False,False,2,1061
+"### ||| (ق ص ب)
+",000,False,000,False,False,False,3,112
+"### ||| (ق ص د)
+",000,False,000,False,False,False,3,52
+"### ||| (ق ص ر)
+",000,False,000,False,False,False,3,202
+"### ||| (ق ص م)
+",000,False,000,False,False,False,3,80
+"### ||| (ق ص ص)
+",000,False,000,False,False,False,3,223
+"### ||| (ق ص ف)
+",000,False,000,False,False,False,3,31
+"### ||| (ق ص ع)
+",000,False,000,False,False,False,3,30
+"### ||| (ق س ي)
+",000,False,000,False,False,False,3,31
+"### || القاف مع الضاد
+",000,False,000,False,False,False,2,728
+"### ||| (ق ض أ)
+",000,False,000,False,False,False,3,26
+"### ||| (ق ض ب)
+",000,False,000,False,False,False,3,48
+"### ||| (ق ض م)
+",000,False,000,False,False,False,3,25
+"### ||| (ق ض ض)
+",000,False,000,False,False,False,3,509
+"### || القاف مع العين
+",000,False,000,False,False,False,2,486
+"### ||| (ق ع ب)
+",000,False,000,False,False,False,3,26
+"### ||| (ق ع د)
+",000,False,000,False,False,False,3,180
+"### ||| (ق ع ر)
+",000,False,000,False,False,False,3,38
+"### ||| (ق ع ص)
+",000,False,000,False,False,False,3,118
+"### ||| (ق ع ق)
+",000,False,000,False,False,False,3,35
+"### ||| (ق ع س)
+",000,False,000,False,False,False,3,19
+"### ||| (ق ع ي)
+",000,False,000,False,False,False,3,56
+"### || القاف مع الفاء
+",000,False,000,False,False,False,2,464
+"### ||| (ق ف د)
+",000,False,000,False,False,False,3,29
+"### ||| (ق ف ر)
+",000,False,000,False,False,False,3,42
+"### ||| (ق ف ز)
+",000,False,000,False,False,False,3,43
+"### ||| (ق ف ل)
+",000,False,000,False,False,False,3,142
+"### ||| (ق ف ف)
+",000,False,000,False,False,False,3,77
+"### ||| (ق ف ع)
+",000,False,000,False,False,False,3,28
+"### ||| (ق ف ى)
+",000,False,000,False,False,False,3,107
+"### || القاف مع السين
+",000,False,000,False,False,False,2,373
+"### ||| (ق س ر)
+",000,False,000,False,False,False,3,15
+"### ||| (ق س ط)
+",000,False,000,False,False,False,3,115
+"### ||| (ق س م)
+",000,False,000,False,False,False,3,106
+"### ||| (ق س ي)
+",000,False,000,False,False,False,3,81
+"### || القاف مع الشين
+",000,False,000,False,False,False,2,90
+"### ||| (ق ش ب)
+",000,False,000,False,False,False,3,36
+"### ||| (ق ش م)
+",000,False,000,False,False,False,3,38
+"### || القاف مع الهاء
+",000,False,000,False,False,False,2,90
+"### ||| (ق ه ر)
+",000,False,000,False,False,False,3,35
+"### || القاف مع الواو
+",000,False,000,False,False,False,2,1678
+"### ||| (ق وب)
+",000,False,000,False,False,False,3,54
+"### ||| (ق وت)
+",000,False,000,False,False,False,3,42
+"### ||| (ق ود)
+",000,False,000,False,False,False,3,26
+"### ||| (ق ول)
+",000,False,000,False,False,False,3,265
+"### ||| (ق وم)
+",000,False,000,False,False,False,3,376
+"### ||| (ق وض)
+",000,False,000,False,False,False,3,17
+"### ||| (ق وس)
+",000,False,000,False,False,False,3,16
+"### || القاف مع الياء
+",000,False,000,False,False,False,2,412
+"### ||| (ق ي أ)
+",000,False,000,False,False,False,3,79
+"### ||| (ق ي د)
+",000,False,000,False,False,False,3,27
+"### ||| (ق ي ر)
+",000,False,000,False,False,False,3,41
+"### ||| (ق ي ل)
+",000,False,000,False,False,False,3,66
+"### ||| (ق ي ن)
+",000,False,000,False,False,False,3,74
+"### ||| (ق ي ع)
+",000,False,000,False,False,False,3,33
+"### ||| (ق ي ف)
+",000,False,000,False,False,False,3,23
+"### ||| (ق ي ي)
+",000,False,000,False,False,False,3,21
+"### || فصل تقييد أسماء المواضع
+",000,False,000,False,False,False,2,620
+"### ||| (قبا)
+",000,False,000,False,False,False,3,49
+"### ||| (القاحة)
+",000,False,000,False,False,False,3,43
+"### ||| (الأرض المقدسة)
+",000,False,000,False,False,False,3,10
+"### ||| (قناة)
+",000,False,000,False,False,False,3,35
+"### ||| (قصر ms1013 بني خلف)
+",000,False,000,False,False,False,3,19
+"### ||| (قديد)
+",000,False,000,False,False,False,3,32
+"### ||| (سوق قينقاع) 
+",000,False,000,False,False,False,3,18
+"### ||| (القبلية)
+",000,False,000,False,False,False,3,21
+"### ||| (القدوم)
+",000,False,000,False,False,False,3,243
+"### ||| (قرن)
+",000,False,000,False,False,False,3,3
+"### ||| (وقرن) 
+",000,False,000,False,False,False,3,5
+"### ||| (وقرن) 
+",000,False,000,False,False,False,3,80
+"### ||| (القف)
+",000,False,000,False,False,False,3,17
+"### ||| (القادسية)
+",000,False,000,False,False,False,3,35
+"### ||| (أبو قبيس وقعيقعان) 
+",000,False,000,False,False,False,3,19
+"### ||| (قسطنطينة)
+",000,False,000,False,False,False,3,41
+"### ||| (قزح) 
+",000,False,000,False,False,False,3,16
+"### || فصل مشتبه الأسماء وتقييد مهملها
+",000,False,000,False,False,False,2,521
+"### | حرف السين
+",000,False,000,False,False,False,1,20223
+"### || (السين مع الهمزة)
+",000,False,000,False,False,False,2,555
+"### ||| (س أ)
+",000,False,000,False,False,False,3,64
+"### ||| (س أت)
+",000,False,000,False,False,False,3,37
+"### ||| (س أر)
+",000,False,000,False,False,False,3,51
+"### ||| (س ال)
+",000,False,000,False,False,False,3,109
+"### ||| (س أم)
+",000,False,000,False,False,False,3,77
+"### || السين مع الباء
+",000,False,000,False,False,False,2,2025
+"### ||| (س ب أ)
+",000,False,000,False,False,False,3,50
+"### ||| (س ب ب)
+",000,False,000,False,False,False,3,110
+"### ||| (س ب ت ms1021)
+",000,False,000,False,False,False,3,235
+"### ||| (س ب ح)
+",000,False,000,False,False,False,3,276
+"### ||| (س ب خ) 
+",000,False,000,False,False,False,3,55
+"### ||| (س ب د)
+",000,False,000,False,False,False,3,40
+"### ||| (س ب ر)
+",000,False,000,False,False,False,3,46
+"### ||| (س ب ط)
+",000,False,000,False,False,False,3,179
+"### ||| (س ب ل)
+",000,False,000,False,False,False,3,101
+"### ||| (س ب ع)
+",000,False,000,False,False,False,3,341
+"### ||| (س ب غ)
+",000,False,000,False,False,False,3,230
+"### ||| (س ب ق)
+",000,False,000,False,False,False,3,88
+"### ||| (س ب ي)
+",000,False,000,False,False,False,3,20
+"### || السين مع التاء
+",000,False,000,False,False,False,2,109
+"### ||| (س ت ت)
+",000,False,000,False,False,False,3,40
+"### ||| (س ت ر)
+",000,False,000,False,False,False,3,40
+"### || السين مع الجيم
+",000,False,000,False,False,False,2,544
+"### ||| (س ج ح)
+",000,False,000,False,False,False,3,27
+"### ||| (س ج د)
+",000,False,000,False,False,False,3,229
+"### ||| (س ج ر)
+",000,False,000,False,False,False,3,28
+"### ||| (س ج ل)
+",000,False,000,False,False,False,3,42
+"### ||| (س ج ن)
+",000,False,000,False,False,False,3,38
+"### ||| (س ج ف)
+",000,False,000,False,False,False,3,56
+"### ||| (س ج ى)
+",000,False,000,False,False,False,3,40
+"### || السين مع الحاء
+",000,False,000,False,False,False,2,720
+"### ||| (س ح ب)
+",000,False,000,False,False,False,3,27
+"### ||| (س ح ت)
+",000,False,000,False,False,False,3,31
+"### ||| (س ح ح)
+",000,False,000,False,False,False,3,25
+"### ||| (س ح ر)
+",000,False,000,False,False,False,3,223
+"### ||| (س ح ك)
+",000,False,000,False,False,False,3,40
+"### ||| (س ح ل)
+",000,False,000,False,False,False,3,114
+"### ||| (س ح م)
+",000,False,000,False,False,False,3,63
+"### ||| (س ح ن)
+",000,False,000,False,False,False,3,115
+"### ||| (س ح ق)
+",000,False,000,False,False,False,3,55
+"### || السين مع الخاء
+",000,False,000,False,False,False,2,561
+"### ||| (س خ ب) 
+",000,False,000,False,False,False,3,99
+"### ||| (س خ ر) 
+",000,False,000,False,False,False,3,265
+"### ||| (س خ ط) 
+",000,False,000,False,False,False,3,51
+"### ||| (س خ ل) 
+",000,False,000,False,False,False,3,35
+"### ||| (س خ م) 
+",000,False,000,False,False,False,3,25
+"### ||| (س خ ف) 
+",000,False,000,False,False,False,3,34
+"### ||| (س ح و)
+",000,False,000,False,False,False,3,61
+"### || السين مع الدال
+",000,False,000,False,False,False,2,481
+"### ||| (س د د)
+",000,False,000,False,False,False,3,201
+"### ||| (س د ر)
+",000,False,000,False,False,False,3,54
+"### ||| (س د ل)
+",000,False,000,False,False,False,3,67
+"### || السين مع الراء
+",000,False,000,False,False,False,2,1416
+"### ||| (س ر ب)
+",000,False,000,False,False,False,3,119
+"### ||| (س رج)
+",000,False,000,False,False,False,3,19
+"### ||| (س ر ح)
+",000,False,000,False,False,False,3,162
+"### ||| (س ر د)
+",000,False,000,False,False,False,3,80
+"### ||| (س ر ر)
+",000,False,000,False,False,False,3,325
+"### ||| (س رع)
+",000,False,000,False,False,False,3,165
+"### ||| (س ر ف)
+",000,False,000,False,False,False,3,91
+"### ||| (س ر ق)
+",000,False,000,False,False,False,3,122
+"### ||| (س ر و)
+",000,False,000,False,False,False,3,112
+"### ||| (س رى)
+",000,False,000,False,False,False,3,71
+"### || السين مع الطاء
+",000,False,000,False,False,False,2,228
+"### ||| (س ط ت)
+",000,False,000,False,False,False,3,98
+"### ||| (س ط ح)
+",000,False,000,False,False,False,3,51
+"### ||| (س ط ر)
+",000,False,000,False,False,False,3,49
+"### || السين مع الكاف
+",000,False,000,False,False,False,2,964
+"### ||| (س ك ب)
+",000,False,000,False,False,False,3,31
+"### ||| (س ك ت)
+",000,False,000,False,False,False,3,198
+"### ||| (س ك ر)
+",000,False,000,False,False,False,3,215
+"### ||| (س ك ك)
+",000,False,000,False,False,False,3,106
+"### ||| (س ك ن)
+",000,False,000,False,False,False,3,243
+"### || السين مع اللام
+",000,False,000,False,False,False,2,1541
+"### ||| (س ل ب)
+",000,False,000,False,False,False,3,37
+"### ||| (س ل ت)
+",000,False,000,False,False,False,3,64
+"### ||| (س ل ح)
+",000,False,000,False,False,False,3,80
+"### ||| (س ل خ) 
+",000,False,000,False,False,False,3,33
+"### ||| (س ل ms1046 ك)
+",000,False,000,False,False,False,3,31
+"### ||| (س ل ل)
+",000,False,000,False,False,False,3,98
+"### ||| (س ل م)
+",000,False,000,False,False,False,3,721
+"### ||| (س ل ف)
+",000,False,000,False,False,False,3,116
+"### ||| (س ل ق)
+",000,False,000,False,False,False,3,72
+"### ||| (س ل ى)
+",000,False,000,False,False,False,3,50
+"### || السين مع الميم
+",000,False,000,False,False,False,2,1059
+"### ||| (س م ت)
+",000,False,000,False,False,False,3,85
+"### ||| (س م ح)
+",000,False,000,False,False,False,3,50
+"### ||| (س م ر)
+",000,False,000,False,False,False,3,114
+"### ||| (س م ط)
+",000,False,000,False,False,False,3,28
+"### ||| (س م ل)
+",000,False,000,False,False,False,3,53
+"### ||| (س م م)
+",000,False,000,False,False,False,3,35
+"### ||| (س م ن)
+",000,False,000,False,False,False,3,68
+"### ||| (س م ع)
+",000,False,000,False,False,False,3,208
+"### ||| (س م س ر)
+",000,False,000,False,False,False,3,46
+"### ||| (س م ي)
+",000,False,000,False,False,False,3,185
+"### || السين مع النون
+",000,False,000,False,False,False,2,1185
+"### ||| (س ن و)
+",000,False,000,False,False,False,3,112
+"### ||| (س ن ح)
+",000,False,000,False,False,False,3,55
+"### ||| (س ن خ) 
+",000,False,000,False,False,False,3,29
+"### ||| (س ن د)
+",000,False,000,False,False,False,3,117
+"### ||| (س ن ن)
+",000,False,000,False,False,False,3,465
+"### ||| (س ن م)
+",000,False,000,False,False,False,3,40
+"### ||| (س ن و)
+",000,False,000,False,False,False,3,38
+"### ||| (س ن ي)
+",000,False,000,False,False,False,3,23
+"### || السين مع العين
+",000,False,000,False,False,False,2,824
+"### ||| (س وع)
+",000,False,000,False,False,False,3,156
+"### ||| (س ع د)
+",000,False,000,False,False,False,3,144
+"### ||| (س ع ر)
+",000,False,000,False,False,False,3,82
+"### ||| (س ع ط)
+",000,False,000,False,False,False,3,29
+"### ||| (س ع ل)
+",000,False,000,False,False,False,3,23
+"### ||| (س ع ي)
+",000,False,000,False,False,False,3,228
+"### || السين مع الفاء
+",000,False,000,False,False,False,2,592
+"### ||| (س ف ح)
+",000,False,000,False,False,False,3,23
+"### ||| (س ف ر)
+",000,False,000,False,False,False,3,117
+"### ||| (س ف ل)
+",000,False,000,False,False,False,3,46
+"### ||| (س ف ن)
+",000,False,000,False,False,False,3,16
+"### ||| (س ف ع)
+",000,False,000,False,False,False,3,123
+"### ||| (س ف ف)
+",000,False,000,False,False,False,3,72
+"### ||| (س ف ق)
+",000,False,000,False,False,False,3,51
+"### ||| (س ف ه)
+",000,False,000,False,False,False,3,40
+"### || السين مع القاف
+",000,False,000,False,False,False,2,738
+"### ||| (س ق ط)
+",000,False,000,False,False,False,3,177
+"### ||| (س ق ف)
+",000,False,000,False,False,False,3,101
+"### ||| (س ق ي)
+",000,False,000,False,False,False,3,160
+"### || السين مع الهاء
+",000,False,000,False,False,False,2,212
+"### ||| (س ه ك)
+",000,False,000,False,False,False,3,30
+"### ||| (س ه ل)
+",000,False,000,False,False,False,3,46
+"### ||| (س ه م)
+",000,False,000,False,False,False,3,39
+"### || السين مع الواو
+",000,False,000,False,False,False,2,1379
+"### ||| (س وا) 
+",000,False,000,False,False,False,3,102
+"### ||| (س وج) 
+",000,False,000,False,False,False,3,52
+"### ||| (س وح)
+",000,False,000,False,False,False,3,28
+"### ||| (س ود)
+",000,False,000,False,False,False,3,347
+"### ||| (س ور)
+",000,False,000,False,False,False,3,163
+"### ||| (س وط)
+",000,False,000,False,False,False,3,30
+"### ||| (س ول)
+",000,False,000,False,False,False,3,22
+"### ||| (س وم)
+",000,False,000,False,False,False,3,96
+"### ||| (س وغ)
+",000,False,000,False,False,False,3,53
+"### ||| (س وق)
+",000,False,000,False,False,False,3,159
+"### ||| (س وس)
+",000,False,000,False,False,False,3,49
+"### ||| (س وى)
+",000,False,000,False,False,False,3,300
+"### || السين مع ms1072 الياء
+",000,False,000,False,False,False,2,485
+"### ||| (س ي ب)
+",000,False,000,False,False,False,3,116
+"### ||| (س اج)
+",000,False,000,False,False,False,3,57
+"### ||| (س ي ح)
+",000,False,000,False,False,False,3,44
+"### ||| (س ي خ) 
+",000,False,000,False,False,False,3,33
+"### ||| (س ي ر)
+",000,False,000,False,False,False,3,148
+"### ||| (س ي ل)
+",000,False,000,False,False,False,3,25
+"### ||| (س ي ف)
+",000,False,000,False,False,False,3,19
+"### || فصل تقييد أسماء البقع والمواضع الواقعة فيه
+",000,False,000,False,False,False,2,496
+"### ||| (س ر ف)
+",000,False,000,False,False,False,3,121
+"### ||| (السقيا)
+",000,False,000,False,False,False,3,37
+"### ||| (س رغ)
+",000,False,000,False,False,False,3,53
+"### ||| (السرر)
+",000,False,000,False,False,False,3,70
+"### ||| (السمرة)
+",000,False,000,False,False,False,3,25
+"### ||| (سلع)
+",000,False,000,False,False,False,3,44
+"### ||| (السنح)
+",000,False,000,False,False,False,3,40
+"### ||| (سبخة الجرف)
+",000,False,000,False,False,False,3,12
+"### ||| (سرخس)
+",000,False,000,False,False,False,3,69
+"### ||| (سد الروحاء)
+",000,False,000,False,False,False,3,17
+"### ||| (سيحان)
+",000,False,000,False,False,False,3,40
+"### ||| (سجستان)
+",000,False,000,False,False,False,3,17
+"### || فصل مشتبه الأسماء والكنى في حرف السين
+",000,False,000,False,False,False,2,3383
+"### ||| فصل الاختلاف والوهم
+",000,False,000,False,False,False,3,315
+"### ||| فصل منه 
+",000,False,000,False,False,False,3,594
+"### ||| فصل منه
+",000,False,000,False,False,False,3,319
+"### ||| فصل آخر
+",000,False,000,False,False,False,3,365
+"### | حرف الشين مع سائر الحروف
+",000,False,000,False,False,False,1,10424
+"### || الشين مع الهمزة
+",000,False,000,False,False,False,2,363
+"### ||| (ش أ)
+",000,False,000,False,False,False,3,14
+"### ||| (ش أم)
+",000,False,000,False,False,False,3,122
+"### ||| (ش أن) 
+",000,False,000,False,False,False,3,167
+"### ||| (ش اه)
+",000,False,000,False,False,False,3,61
+"### || الشين مع الباء
+",000,False,000,False,False,False,2,425
+"### ||| (ش ب ب)
+",000,False,000,False,False,False,3,78
+"### ||| (ش ب ح)
+",000,False,000,False,False,False,3,42
+"### ||| (ش ب ع)
+",000,False,000,False,False,False,3,107
+"### ||| (ش ب ه)
+",000,False,000,False,False,False,3,132
+"### || الشين مع التاء
+",000,False,000,False,False,False,2,112
+"### ||| (ش ت ت)
+",000,False,000,False,False,False,3,56
+"### ||| (ش ت ر)
+",000,False,000,False,False,False,3,21
+"### ||| (ش ت و)
+",000,False,000,False,False,False,3,27
+"### || الشين مع الثاء
+",000,False,000,False,False,False,2,53
+"### || الشين مع الجيم
+",000,False,000,False,False,False,2,467
+"### ||| (ش ج ب)
+",000,False,000,False,False,False,3,108
+"### ||| (ش ج ج)
+",000,False,000,False,False,False,3,28
+"### ||| (ش ج ر)
+",000,False,000,False,False,False,3,120
+"### ||| (ش ج ن)
+",000,False,000,False,False,False,3,40
+"### ||| (ش ج ع)
+",000,False,000,False,False,False,3,75
+"### || الشين مع الحاء
+",000,False,000,False,False,False,2,181
+"### ||| (ش ح ب)
+",000,False,000,False,False,False,3,43
+"### ||| (ش ح ح)
+",000,False,000,False,False,False,3,51
+"### ||| (ش ح ذ)
+",000,False,000,False,False,False,3,23
+"### ||| (ش ح ط)
+",000,False,000,False,False,False,3,17
+"### ||| (ش ح م)
+",000,False,000,False,False,False,3,19
+"### ||| (ش ح ن)
+",000,False,000,False,False,False,3,25
+"### || الشين مع الخاء
+",000,False,000,False,False,False,2,181
+"### ||| (ش خ ب) 
+",000,False,000,False,False,False,3,53
+"### || الشين مع الدال
+",000,False,000,False,False,False,2,404
+"### ||| (ش د خ) 
+",000,False,000,False,False,False,3,29
+"### ||| (ش د د)
+",000,False,000,False,False,False,3,290
+"### || الشين مع الذال
+",000,False,000,False,False,False,2,69
+"### ||| (ش ذ ذ)
+",000,False,000,False,False,False,3,43
+"### || الشين مع الراء
+",000,False,000,False,False,False,2,1930
+"### ||| (ش ر ءب)
+",000,False,000,False,False,False,3,22
+"### ||| (ش ر ب)
+",000,False,000,False,False,False,3,222
+"### ||| (ش ر ح)
+",000,False,000,False,False,False,3,77
+"### ||| (ش ر د)
+",000,False,000,False,False,False,3,23
+"### ||| (ش ر ر)
+",000,False,000,False,False,False,3,91
+"### ||| (ش ر ط)
+",000,False,000,False,False,False,3,335
+"### ||| (ش ر ك)
+",000,False,000,False,False,False,3,56
+"### ||| (ش ر ع)
+",000,False,000,False,False,False,3,222
+"### ||| (ش ر ف)
+",000,False,000,False,False,False,3,310
+"### ||| (ش ر ق)
+",000,False,000,False,False,False,3,385
+"### ||| (ش ر ش)
+",000,False,000,False,False,False,3,26
+"### ||| (ش ر ه)
+",000,False,000,False,False,False,3,19
+"### ||| (ش ر ى)
+",000,False,000,False,False,False,3,33
+"### || الشين مع الطاء
+",000,False,000,False,False,False,2,389
+"### ||| (ش ط ب)
+",000,False,000,False,False,False,3,64
+"### ||| (ش ط ر)
+",000,False,000,False,False,False,3,78
+"### ||| (ش ط ط)
+",000,False,000,False,False,False,3,65
+"### ||| (ش ط ن)
+",000,False,000,False,False,False,3,111
+"### || الشين مع الظاء
+",000,False,000,False,False,False,2,64
+"### || الشين مع الكاف
+",000,False,000,False,False,False,2,786
+"### ||| (ش ك ر)
+",000,False,000,False,False,False,3,203
+"### ||| (ش ك ك)
+",000,False,000,False,False,False,3,139
+"### ||| (ش ك ل)
+",000,False,000,False,False,False,3,165
+"### ||| (ش ك و)
+",000,False,000,False,False,False,3,194
+"### || الشين مع اللام
+",000,False,000,False,False,False,2,88
+"### ||| (ش ل ل)
+",000,False,000,False,False,False,3,33
+"### || الشين مع الميم
+",000,False,000,False,False,False,2,432
+"### ||| (ش م ت)
+",000,False,000,False,False,False,3,66
+"### ||| (ش م ط)
+",000,False,000,False,False,False,3,78
+"### ||| (ش م ل)
+",000,False,000,False,False,False,3,200
+"### ||| (ش م س)
+",000,False,000,False,False,False,3,68
+"### || الشين مع النون
+",000,False,000,False,False,False,2,242
+"### ||| (ش ن أ)
+",000,False,000,False,False,False,3,29
+"### ||| (ش ن ج)
+",000,False,000,False,False,False,3,13
+"### ||| (ش ن ر)
+",000,False,000,False,False,False,3,19
+"### ||| (ش ن ظ)
+",000,False,000,False,False,False,3,44
+"### ||| (ش ن ن)
+",000,False,000,False,False,False,3,54
+"### ||| (ش ن ف)
+",000,False,000,False,False,False,3,34
+"### ||| (ش ن ق)
+",000,False,000,False,False,False,3,68
+"### || الشين مع العين
+",000,False,000,False,False,False,2,655
+"### ||| (ش ع ب)
+",000,False,000,False,False,False,3,198
+"### ||| (ش ع ث)
+",000,False,000,False,False,False,3,52
+"### ||| (ش ع ر)
+",000,False,000,False,False,False,3,188
+"### ||| (ش ع ل)
+",000,False,000,False,False,False,3,53
+"### ||| (ش ع ن)
+",000,False,000,False,False,False,3,42
+"### ||| (ش غ ف)
+",000,False,000,False,False,False,3,48
+"### || الشين مع الغين
+",000,False,000,False,False,False,2,128
+"### ||| (ش غ ر)
+",000,False,000,False,False,False,3,47
+"### || الشين مع الفاء
+",000,False,000,False,False,False,2,649
+"### ||| (ش ف ر)
+",000,False,000,False,False,False,3,31
+"### ||| (ش ف ع)
+",000,False,000,False,False,False,3,195
+"### ||| (ش ف ف)
+",000,False,000,False,False,False,3,73
+"### ||| (ش ف ق)
+",000,False,000,False,False,False,3,97
+"### ||| (ش ف ه)
+",000,False,000,False,False,False,3,88
+"### ||| (ش ف ي)
+",000,False,000,False,False,False,3,135
+"### || الشين مع القاف
+",000,False,000,False,False,False,2,566
+"### ||| (ش ق ح)
+",000,False,000,False,False,False,3,75
+"### ||| (ش ق ص)
+",000,False,000,False,False,False,3,118
+"### ||| (ش ق ق)
+",000,False,000,False,False,False,3,153
+"### ||| (ش ق ه)
+",000,False,000,False,False,False,3,39
+"### ||| (ش ق ي)
+",000,False,000,False,False,False,3,82
+"### || الشين مع السين
+",000,False,000,False,False,False,2,30
+"### || الشين مع الهاء
+",000,False,000,False,False,False,2,709
+"### ||| (ش ه ب)
+",000,False,000,False,False,False,3,55
+"### ||| (ش ه د)
+",000,False,000,False,False,False,3,561
+"### ||| (ش ه ر)
+",000,False,000,False,False,False,3,44
+"### ||| (ش ه ق) 
+",000,False,000,False,False,False,3,21
+"### || الشين مع الواو
+",000,False,000,False,False,False,2,540
+"### ||| (ش وب)
+",000,False,000,False,False,False,3,30
+"### ||| (ش ار)
+",000,False,000,False,False,False,3,79
+"### ||| (ش وط)
+",000,False,000,False,False,False,3,35
+"### ||| (ش وظ)
+",000,False,000,False,False,False,3,24
+"### ||| (ش وك)
+",000,False,000,False,False,False,3,89
+"### ||| (ش ول)
+",000,False,000,False,False,False,3,51
+"### ||| (ش ون)
+",000,False,000,False,False,False,3,45
+"### ||| (ش وص)
+",000,False,000,False,False,False,3,80
+"### ||| (ش وف)
+",000,False,000,False,False,False,3,21
+"### ||| (ش وق)
+",000,False,000,False,False,False,3,20
+"### ||| (ش وه)
+",000,False,000,False,False,False,3,40
+"### || الشين مع الياء
+",000,False,000,False,False,False,2,384
+"### ||| ش ي ت) 
+",000,False,000,False,False,False,3,48
+"### ||| (ش ي ح)
+",000,False,000,False,False,False,3,50
+"### ||| (ش ي خ) 
+",000,False,000,False,False,False,3,24
+"### ||| (ش ي ق)
+",000,False,000,False,False,False,3,25
+"### ||| (ش ي ز)
+",000,False,000,False,False,False,3,52
+"### ||| (ش ي م)
+",000,False,000,False,False,False,3,28
+"### ||| (ش ي ن)
+",000,False,000,False,False,False,3,20
+"### ||| (ش ي ص)
+",000,False,000,False,False,False,3,34
+"### ||| (ش ي ع)
+",000,False,000,False,False,False,3,13
+"### || فصل أسماء المواضع في هذا الحرف
+",000,False,000,False,False,False,2,191
+"### ||| (شامة وطفيل)
+",000,False,000,False,False,False,3,12
+"### ||| (الشام) 
+",000,False,000,False,False,False,3,25
+"### ||| (الشجرة ms1125)
+",000,False,000,False,False,False,3,46
+"### ||| (الشجرة)
+",000,False,000,False,False,False,3,28
+"### ||| (الشعب) 
+",000,False,000,False,False,False,3,57
+"### ||| (الشوط)
+",000,False,000,False,False,False,3,19
+"### || فصل مشكل الأسماء
+",000,False,000,False,False,False,2,428
+"### | حرف الهاء مع سائر الحروف
+",000,False,000,False,False,False,1,6696
+"### || الهاء مع الهمزة
+",000,False,000,False,False,False,2,345
+"### ||| (ه اه ا)
+",000,False,000,False,False,False,3,299
+"### || الهاء مع الباء
+",000,False,000,False,False,False,2,281
+"### ||| (ه ب ب)
+",000,False,000,False,False,False,3,105
+"### || الهاء مع التاء
+",000,False,000,False,False,False,2,47
+"### ||| (ه ت ك)
+",000,False,000,False,False,False,3,33
+"### || الهاء مع الجيم
+",000,False,000,False,False,False,2,774
+"### ||| (ه ج د)
+",000,False,000,False,False,False,3,41
+"### ||| (ه ج ر)
+",000,False,000,False,False,False,3,464
+"### ||| (ه ج م)
+",000,False,000,False,False,False,3,32
+"### ||| (ه ج ن)
+",000,False,000,False,False,False,3,29
+"### ||| (ه ج ع)
+",000,False,000,False,False,False,3,22
+"### || الهاء مع الدال
+",000,False,000,False,False,False,2,638
+"### ||| (ه د ا)
+",000,False,000,False,False,False,3,96
+"### ||| (ه د ب)
+",000,False,000,False,False,False,3,90
+"### ||| (ه د ج)
+",000,False,000,False,False,False,3,40
+"### ||| (ه در)
+",000,False,000,False,False,False,3,22
+"### ||| (ه د ل)
+",000,False,000,False,False,False,3,7
+"### ||| (ه د م)
+",000,False,000,False,False,False,3,39
+"### ||| (ه دن)
+",000,False,000,False,False,False,3,50
+"### ||| (ه د ف)
+",000,False,000,False,False,False,3,25
+"### || الهاء مع الذال
+",000,False,000,False,False,False,2,106
+"### ||| (ه ذ د)
+",000,False,000,False,False,False,3,64
+"### || الهاء مع الراء
+",000,False,000,False,False,False,2,308
+"### ||| (ه ر ج)
+",000,False,000,False,False,False,3,77
+"### ||| (ه ر د)
+",000,False,000,False,False,False,3,134
+"### ||| (ه ر م) 
+",000,False,000,False,False,False,3,53
+"### ||| (ه ر س)
+",000,False,000,False,False,False,3,16
+"### || الهاء مع الزاي
+",000,False,000,False,False,False,2,259
+"### ||| (ه ز ا)
+",000,False,000,False,False,False,3,29
+"### ||| (ه ز ز)
+",000,False,000,False,False,False,3,107
+"### ||| (ه ز ل)
+",000,False,000,False,False,False,3,25
+"### || الهاء مع اللام
+",000,False,000,False,False,False,2,643
+"### ||| (ه ل ب)
+",000,False,000,False,False,False,3,36
+"### ||| (ه ل ك)
+",000,False,000,False,False,False,3,122
+"### ||| (ه ل ل)
+",000,False,000,False,False,False,3,288
+"### ||| (ه ل م)
+",000,False,000,False,False,False,3,86
+"### ||| (ه ل ل)
+",000,False,000,False,False,False,3,41
+"### ||| (ه ل ع)
+",000,False,000,False,False,False,3,67
+"### || الهاء مع الميم
+",000,False,000,False,False,False,2,342
+"### ||| (ه م ز)
+",000,False,000,False,False,False,3,15
+"### ||| (ه م ل)
+",000,False,000,False,False,False,3,36
+"### ||| (ه م م)
+",000,False,000,False,False,False,3,183
+"### ||| (ه م س)
+",000,False,000,False,False,False,3,19
+"### || الهاء مع النون
+",000,False,000,False,False,False,2,559
+"### ||| (ه ن ا)
+",000,False,000,False,False,False,3,98
+"### ||| (ه ن)
+",000,False,000,False,False,False,3,306
+"### ||| (ه ن ي)
+",000,False,000,False,False,False,3,42
+"### || الهاء مع الصاد
+",000,False,000,False,False,False,2,31
+"### || الهاء مع الضاد
+",000,False,000,False,False,False,2,35
+"### || الهاء مع الفاء
+",000,False,000,False,False,False,2,18
+"### || الهاء مع الشين
+",000,False,000,False,False,False,2,230
+"### ||| (ه ش م)
+",000,False,000,False,False,False,3,15
+"### ||| (ه ش ش)
+",000,False,000,False,False,False,3,42
+"### || الهاء مع الهاء
+",000,False,000,False,False,False,2,33
+"### || الهاء مع الواو
+",000,False,000,False,False,False,2,959
+"### ||| (ه ود)
+",000,False,000,False,False,False,3,41
+"### ||| (ه ور)
+",000,False,000,False,False,False,3,48
+"### ||| (ه ول)
+",000,False,000,False,False,False,3,30
+"### ||| (ه وم)
+",000,False,000,False,False,False,3,156
+"### ||| (ه ون)
+",000,False,000,False,False,False,3,102
+"### ||| (ه وع)
+",000,False,000,False,False,False,3,47
+"### ||| (ه وش)
+",000,False,000,False,False,False,3,44
+"### ||| (ه وى)
+",000,False,000,False,False,False,3,284
+"### || الهاء مع الياء
+",000,False,000,False,False,False,2,342
+"### ||| (ه ي ب)
+",000,False,000,False,False,False,3,33
+"### ||| (ه ي ج)
+",000,False,000,False,False,False,3,48
+"### ||| (ه ي ل)
+",000,False,000,False,False,False,3,39
+"### ||| (ه ي م)
+",000,False,000,False,False,False,3,126
+"### ||| (ه ي ع)
+",000,False,000,False,False,False,3,34
+"### ||| (ه ي ش)
+",000,False,000,False,False,False,3,23
+"### ||| (ه ي ه)
+",000,False,000,False,False,False,3,47
+"### || فصل مشكل المواضع وتقييدها
+",000,False,000,False,False,False,2,111
+"### ||| (هرشي)
+",000,False,000,False,False,False,3,20
+"### ||| (هجر)
+",000,False,000,False,False,False,3,33
+"### || فصل مشكل الأسماء والكنى
+",000,False,000,False,False,False,2,546
+"### | حرف الواو مع سائر الحروف
+",000,False,000,False,False,False,1,12463
+"### || الواو مع الهمزة
+",000,False,000,False,False,False,2,230
+"### ||| (واد) 
+",000,False,000,False,False,False,3,60
+"### ||| (واه ا)
+",000,False,000,False,False,False,3,36
+"### ||| (واي)
+",000,False,000,False,False,False,3,31
+"### || الواو مع الباء
+",000,False,000,False,False,False,2,324
+"### ||| (وب ا)
+",000,False,000,False,False,False,3,54
+"### ||| (وب ر)
+",000,False,000,False,False,False,3,82
+"### ||| (وب ل)
+",000,False,000,False,False,False,3,34
+"### ||| (وب ص)
+",000,False,000,False,False,False,3,28
+"### ||| (وب ق)
+",000,False,000,False,False,False,3,50
+"### ||| (وب ش)
+",000,False,000,False,False,False,3,73
+"### || الواو مع التاء
+",000,False,000,False,False,False,2,515
+"### ||| (وت ر)
+",000,False,000,False,False,False,3,404
+"### || الواو مع الثاء
+",000,False,000,False,False,False,2,273
+"### ||| (وثا)
+",000,False,000,False,False,False,3,31
+"### ||| (وث ب)
+",000,False,000,False,False,False,3,51
+"### ||| (وث ر)
+",000,False,000,False,False,False,3,108
+"### ||| (وث ن)
+",000,False,000,False,False,False,3,43
+"### ||| (وث ق)
+",000,False,000,False,False,False,3,50
+"### || الواو مع الجيم
+",000,False,000,False,False,False,2,936
+"### ||| (وج ا) 
+",000,False,000,False,False,False,3,92
+"### ||| (وج ب) 
+",000,False,000,False,False,False,3,211
+"### ||| (وج د) 
+",000,False,000,False,False,False,3,147
+"### ||| (وج ر) 
+",000,False,000,False,False,False,3,38
+"### ||| (وج م) 
+",000,False,000,False,False,False,3,21
+"### ||| (وج ن) 
+",000,False,000,False,False,False,3,35
+"### ||| (وج ع) 
+",000,False,000,False,False,False,3,53
+"### ||| (وج ف) 
+",000,False,000,False,False,False,3,20
+"### ||| (وج ه) 
+",000,False,000,False,False,False,3,275
+"### || الواو مع الحاء
+",000,False,000,False,False,False,2,340
+"### ||| (وح د)
+",000,False,000,False,False,False,3,58
+"### ||| (وح ر)
+",000,False,000,False,False,False,3,16
+"### ||| (وح ش)
+",000,False,000,False,False,False,3,67
+"### || الواو مع الخاء
+",000,False,000,False,False,False,2,100
+"### ||| (وخ ذ)
+",000,False,000,False,False,False,3,28
+"### ||| (وخ م)
+",000,False,000,False,False,False,3,32
+"### || الواو مع الدال
+",000,False,000,False,False,False,2,286
+"### ||| (ود د)
+",000,False,000,False,False,False,3,71
+"### ||| (ود ن)
+",000,False,000,False,False,False,3,15
+"### ||| (ود ع)
+",000,False,000,False,False,False,3,113
+"### || الواو مع الذال
+",000,False,000,False,False,False,2,86
+"### ||| (وذ ر)
+",000,False,000,False,False,False,3,44
+"### || الواو مع الراء
+",000,False,000,False,False,False,2,673
+"### ||| (ورد)
+",000,False,000,False,False,False,3,195
+"### ||| (ورط)
+",000,False,000,False,False,False,3,29
+"### ||| (ورك)
+",000,False,000,False,False,False,3,62
+"### ||| (ورم)
+",000,False,000,False,False,False,3,15
+"### ||| (ورع)
+",000,False,000,False,False,False,3,30
+"### ||| (ورق)
+",000,False,000,False,False,False,3,99
+"### ||| (ورس)
+",000,False,000,False,False,False,3,17
+"### || الواو مع الزاي
+",000,False,000,False,False,False,2,164
+"### ||| (وز ر)
+",000,False,000,False,False,False,3,26
+"### ||| (وز ن)
+",000,False,000,False,False,False,3,68
+"### ||| (وزع)
+",000,False,000,False,False,False,3,59
+"### ||| (وزغ)
+",000,False,000,False,False,False,3,30
+"### || (الواو مع الطاء
+",000,False,000,False,False,False,2,408
+"### ||| (وط أ)
+",000,False,000,False,False,False,3,209
+"### ||| (وط ب)
+",000,False,000,False,False,False,3,58
+"### ||| (وط ر)
+",000,False,000,False,False,False,3,10
+"### ||| (وط ن)
+",000,False,000,False,False,False,3,36
+"### ||| (وط س)
+",000,False,000,False,False,False,3,31
+"### || الواو مع الظاء
+",000,False,000,False,False,False,2,17
+"### || الواو مع الكاف
+",000,False,000,False,False,False,2,270
+"### ||| (وك ب)
+",000,False,000,False,False,False,3,8
+"### ||| (وك ت)
+",000,False,000,False,False,False,3,25
+"### ||| (وك ز)
+",000,False,000,False,False,False,3,85
+"### ||| (وك ف)
+",000,False,000,False,False,False,3,20
+"### ||| (وك س)
+",000,False,000,False,False,False,3,34
+"### || الواو مع اللام
+",000,False,000,False,False,False,2,978
+"### ||| (ول ج)
+",000,False,000,False,False,False,3,109
+"### ||| (ول د)
+",000,False,000,False,False,False,3,78
+"### ||| (ول م)
+",000,False,000,False,False,False,3,41
+"### ||| (ول غ)
+",000,False,000,False,False,False,3,87
+"### ||| (ول ق)
+",000,False,000,False,False,False,3,26
+"### ||| (ول ول)
+",000,False,000,False,False,False,3,22
+"### ||| (ول ى)
+",000,False,000,False,False,False,3,395
+"### || الواو مع الميم
+",000,False,000,False,False,False,2,106
+"### ||| (وم ا)
+",000,False,000,False,False,False,3,23
+"### ||| (وم ق)
+",000,False,000,False,False,False,3,27
+"### || الواو مع النون
+",000,False,000,False,False,False,2,6
+"### || الواو مع الصاد
+",000,False,000,False,False,False,2,284
+"### ||| (وص ب)
+",000,False,000,False,False,False,3,25
+"### ||| (وص ل)
+",000,False,000,False,False,False,3,171
+"### ||| (وص م)
+",000,False,000,False,False,False,3,24
+"### || الواو ms1172 مع الضاد
+",000,False,000,False,False,False,2,736
+"### ||| (وض ا)
+",000,False,000,False,False,False,3,371
+"### ||| (وض ح)
+",000,False,000,False,False,False,3,97
+"### ||| (وض ر)
+",000,False,000,False,False,False,3,42
+"### ||| (وض ع)
+",000,False,000,False,False,False,3,199
+"### || الواو مع العين
+",000,False,000,False,False,False,2,636
+"### ||| (وع ث)
+",000,False,000,False,False,False,3,35
+"### ||| (وع د)
+",000,False,000,False,False,False,3,185
+"### ||| (وع ز)
+",000,False,000,False,False,False,3,55
+"### ||| (وع ظ)
+",000,False,000,False,False,False,3,55
+"### ||| (وع ك)
+",000,False,000,False,False,False,3,55
+"### ||| (وع ى)
+",000,False,000,False,False,False,3,215
+"### || الواو مع الغين
+",000,False,000,False,False,False,2,74
+"### ||| (وغ ر)
+",000,False,000,False,False,False,3,58
+"### || الواو مع الفاء
+",000,False,000,False,False,False,2,419
+"### ||| (وف د)
+",000,False,000,False,False,False,3,46
+"### ||| (وف ر)
+",000,False,000,False,False,False,3,74
+"### ||| (وف ق)
+",000,False,000,False,False,False,3,110
+"### ||| (وف ى)
+",000,False,000,False,False,False,3,95
+"### || الواو مع القاف
+",000,False,000,False,False,False,2,625
+"### ||| (وق ب)
+",000,False,000,False,False,False,3,17
+"### ||| (وق ت)
+",000,False,000,False,False,False,3,70
+"### ||| (وق د)
+",000,False,000,False,False,False,3,43
+"### ||| (وق ذ)
+",000,False,000,False,False,False,3,42
+"### ||| (وق ر)
+",000,False,000,False,False,False,3,48
+"### ||| (وق ص)
+",000,False,000,False,False,False,3,90
+"### ||| (وق ع)
+",000,False,000,False,False,False,3,167
+"### ||| (وق ف)
+",000,False,000,False,False,False,3,82
+"### ||| (وق ى)
+",000,False,000,False,False,False,3,48
+"### || الواو مع السين
+",000,False,000,False,False,False,2,938
+"### ||| (وس د)
+",000,False,000,False,False,False,3,336
+"### ||| (وس ط)
+",000,False,000,False,False,False,3,258
+"### ||| (وس ل)
+",000,False,000,False,False,False,3,40
+"### ||| (وس م)
+",000,False,000,False,False,False,3,117
+"### ||| (وس ق)
+",000,False,000,False,False,False,3,80
+"### ||| (وس ع)
+",000,False,000,False,False,False,3,34
+"### ||| (وس وس)
+",000,False,000,False,False,False,3,60
+"### || الواو مع الشين
+",000,False,000,False,False,False,2,373
+"### ||| (وش ح)
+",000,False,000,False,False,False,3,104
+"### ||| (وش ر)
+",000,False,000,False,False,False,3,16
+"### ||| (وش ك)
+",000,False,000,False,False,False,3,80
+"### ||| (وش م)
+",000,False,000,False,False,False,3,135
+"### ||| (وش ق)
+",000,False,000,False,False,False,3,28
+"### ||| (وش وش)
+",000,False,000,False,False,False,3,28
+"### || الواو مع الهاء
+",000,False,000,False,False,False,2,341
+"### ||| (وه ب)
+",000,False,000,False,False,False,3,94
+"### ||| (وه ل)
+",000,False,000,False,False,False,3,105
+"### ||| (وه م)
+",000,False,000,False,False,False,3,45
+"### ||| (وه ن)
+",000,False,000,False,False,False,3,49
+"### || الواو مع الياء
+",000,False,000,False,False,False,2,2000
+"### ||| (وي ح)
+",000,False,000,False,False,False,3,146
+"### ||| (وك ا)
+",000,False,000,False,False,False,3,43
+"### ||| الواو المفردة
+",000,False,000,False,False,False,3,86
+"### ||| فصل منه
+",000,False,000,False,False,False,3,966
+"### || فصل مشكل المواضع في هذا الحرف
+",000,False,000,False,False,False,2,66
+"### ||| (ودان)
+",000,False,000,False,False,False,3,37
+"### ||| (ثنية الوداع)
+",000,False,000,False,False,False,3,27
+"### ||| (واسط) 
+",000,False,000,False,False,False,3,7
+"### || فصل مشكل الأسماء والكنى
+",000,False,000,False,False,False,2,297
+"### | حرف الياء مع سائر الحروف
+",000,False,000,False,False,False,1,2640
+"### || الياء مع التاء
+",000,False,000,False,False,False,2,96
+"### || الياء مع الدال
+",000,False,000,False,False,False,2,394
+"### || الياء مع الطاء
+",000,False,000,False,False,False,2,22
+"### || الياء مع الميم
+",000,False,000,False,False,False,2,486
+"### || الياء مع النون
+",000,False,000,False,False,False,2,19
+"### || الياء مع العين ms1199
+",000,False,000,False,False,False,2,54
+"### ||| (ي ع ر)
+",000,False,000,False,False,False,3,32
+"### || الياء مع الفاء
+",000,False,000,False,False,False,2,68
+"### || الياء مع القاف
+",000,False,000,False,False,False,2,88
+"### ||| (ي ق ط)
+",000,False,000,False,False,False,3,21
+"### || الياء مع السين
+",000,False,000,False,False,False,2,28
+"### || الياء مع الواو
+",000,False,000,False,False,False,2,414
+"### ||| (ي وم)
+",000,False,000,False,False,False,3,46
+"### || فصل تقييد مشكل أسماء المواضع والبقع
+",000,False,000,False,False,False,2,190
+"### ||| (يثرب)
+",000,False,000,False,False,False,3,41
+"### ||| (مواعد عرقوب أخاه بيثرب)
+",000,False,000,False,False,False,3,55
+"### ||| (اليمن) 
+",000,False,000,False,False,False,3,19
+"### ||| (اليمامة)
+",000,False,000,False,False,False,3,36
+"### ||| (يلملم) 
+",000,False,000,False,False,False,3,33
+"### ||| (يهاب)
+",000,False,000,False,False,False,3,27
+"### || فصل تقييد الأسماء والكنى
+",000,False,000,False,False,False,2,194
+"### | الباب الأول في الجمل التي وقع فيها التصحيف أو طمس معناه التغيير والتلفيف
+",000,False,000,False,False,False,1,21219
+"### || فصل فيما جاء من الوهم في هذه الأصول في حرف من القرآن
+",000,False,000,False,False,False,2,1460
+"### | الباب الثاني في ألفاظ وجمل في هذه الأصول يحتاج إلى تعريف صوابها وتقويم إعرابها وتفهيم المؤخر من المقدم من ألفاظها وبيان إضمارات مشكلة وعلى ما يعود المراد بها
+",000,False,000,False,False,False,1,13333
+"### || فصل في بيان إضمارات مشكلة في أثناء الأحاديث من هذه الكتب
+",000,False,000,False,False,False,2,5218
+"### | الباب الثالث في إلحاق ما بتر من الحديث أو بيض للشك
+",000,False,000,False,False,False,1,13630

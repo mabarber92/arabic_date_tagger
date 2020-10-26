@@ -1,0 +1,95 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK [الجواهر الدرية الجزء الأول]
+",000,False,000,False,False,False,1,51946
+"### || CHECK [1كتاب الجواهر الدرية]
+",000,False,000,False,False,False,2,488
+"### || CHECK [2من كتاب الطهارة ومن باب الاستنجاء]
+",000,False,000,False,False,False,2,3915
+"### ||| CHECK [3من باب الأدلة على الوضوء]
+",000,False,000,False,False,False,3,786
+"### ||| CHECK [4من باب الأدلة على ما ينقض الوضوء]
+",000,False,000,False,False,False,3,322
+"### ||| CHECK [5من باب الأدلة على الغسل]
+",000,False,000,False,False,False,3,1063
+"### ||| CHECK [6من باب الأدلة على النجاسات وكيفة الطهارة منها]
+",000,False,000,False,False,False,3,409
+"### ||| CHECK [7من باب الأدلة على المياه]
+",000,False,000,False,False,False,3,202
+"### ||| CHECK [8من باب الأدلة على التيمم]
+",000,False,000,False,False,False,3,144
+"### ||| CHECK [9من باب الأدلة على الحيض والنفاس]
+",000,False,000,False,False,False,3,331
+"### || CHECK [11من كتاب الصلاة وباب المواقيت]
+",000,False,000,False,False,False,2,8479
+"### ||| CHECK [12من باب الأدلة على الأذان وفضله]
+",000,False,000,False,False,False,3,740
+"### ||| CHECK [13من باب الأدلة على شروط صحة الصلاة]
+",000,False,000,False,False,False,3,792
+"### ||| CHECK [14من باب الأدلة على فروض الصلاة وسننها]
+",000,False,000,False,False,False,3,1519
+"### ||| CHECK [15من باب الأدلة على ما يفسد الصلاة]
+",000,False,000,False,False,False,3,201
+"### ||| CHECK [16من باب الأدلة على السهو وسجدتيه]
+",000,False,000,False,False,False,3,227
+"### ||| CHECK [17من باب الأدلة على صلاة الجماعة وفضلها]
+",000,False,000,False,False,False,3,947
+"### ||| CHECK [18من باب الأدلة على صلاة الجمعة]
+",000,False,000,False,False,False,3,749
+"### ||| CHECK [19من باب الأدلة على قضاء الصلاة]
+",000,False,000,False,False,False,3,190
+"### ||| CHECK [20من باب الأدلة على صلاة السفر والخوف]
+",000,False,000,False,False,False,3,362
+"### ||| CHECK [21من باب الأدلة على صلاة العيدين]
+",000,False,000,False,False,False,3,320
+"### ||| CHECK [22من باب الأدلة على صلاة الكسوف والاستسقاء]
+",000,False,000,False,False,False,3,357
+"### || CHECK [24من كتاب الجنائز ومن الأدلة على التوبة والوصية]
+",000,False,000,False,False,False,2,4067
+"### ||| CHECK [25من باب الأدلة على غسل الميت وتكفينه]
+",000,False,000,False,False,False,3,261
+"### ||| CHECK [26من باب الأدلة على الصلاة على الميت]
+",000,False,000,False,False,False,3,1304
+"### || CHECK [28من كتاب الزكاة والكلام في هذا الكتاب يقع في ستة مواضع]
+",000,False,000,False,False,False,2,2064
+"### ||| AUTO الأول الترغيب في إخراجها والوعيد في غلها
+",000,False,000,False,False,False,3,421
+"### ||| CHECK [29وأما الموضوع الثاني وهو في زكاة الذهب والفضة]
+",000,False,000,False,False,False,3,331
+"### ||| CHECK [30وأما الموضع الثالث وهو في زكاة المواشي]
+",000,False,000,False,False,False,3,476
+"### ||| CHECK [31وأما الموضوع الرابع وهو في زكاة ما أخرجت الأرض والعسل]
+",000,False,000,False,False,False,3,93
+"### || CHECK [33من كتاب الخمس والكلام]
+",000,False,000,False,False,False,2,393
+"### || CHECK [34كتاب الصيام]
+",000,False,000,False,False,False,2,2609
+"### || CHECK [35من كتاب الحج والكلام]
+",000,False,000,False,False,False,2,4551
+"### ||| AUTO أما الموضع الأول : وهو في فضل الحج والعمرة
+",000,False,000,False,False,False,3,355
+"### ||| AUTO أما الموضع الثاني : وهو في ذكر الحج وفروضه والدخول فيه وما
+",000,False,000,False,False,False,3,2354
+"### ||| AUTO وأما الموضوع الثالث : وهو فيما يجب على المحرم أن يتوقاه وما
+",000,False,000,False,False,False,3,1087
+"### ||| CHECK [36وأما الموضوع الرابع]
+",000,False,000,False,False,False,3,250
+"### || CHECK [37من كتاب النكاح والكلام في هذا الكتاب]
+",000,False,000,False,False,False,2,4145
+"### ||| AUTO أما الموضوع الأول : هو في الأدلة على الترغيب في النكاح
+",000,False,000,False,False,False,3,1722
+"### ||| CHECK [38وأما الموضوع الثاني]
+",000,False,000,False,False,False,3,1240
+"### ||| CHECK [39وأما الموضع الثالث]
+",000,False,000,False,False,False,3,359
+"### ||| CHECK [40وأما الموضوع الرابع]
+",000,False,000,False,False,False,3,501
+"### || CHECK [42من كتاب الطلاق والكلام منه]
+",000,False,000,False,False,False,2,1353
+"### ||| AUTO أما الموضع الأول : وهو في أنواعه وصفته
+",000,False,000,False,False,False,3,579
+"### ||| CHECK [43وأما الموضوع الثاني]
+",000,False,000,False,False,False,3,218
+"### || CHECK [45من كتاب الظهار]
+",000,False,000,False,False,False,2,840
+"### ||| CHECK [46من باب الايلا]
+",000,False,000,False,False,False,3,94

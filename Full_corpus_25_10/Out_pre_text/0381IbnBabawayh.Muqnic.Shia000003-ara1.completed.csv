@@ -1,0 +1,235 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | 
+",000,False,000,False,False,False,1,435
+"### | [أبواب الطهارة]
+",000,False,000,False,False,False,1,5395
+"### || 1 باب الوضوء
+",000,False,000,False,False,False,2,1395
+"### || 2 باب السواك وفضله 
+",000,False,000,False,False,False,2,98
+"### || 3 باب التيمم
+",000,False,000,False,False,False,2,311
+"### || 4 باب ما يقع في البئر، والأواني من الناس، والبهائم، والطيور، وغير ذلك
+",000,False,000,False,False,False,2,752
+"### || 5 باب الغسل من الجنابة وغيرها
+",000,False,000,False,False,False,2,699
+"### || 6 باب الحائض، والمستحاضة، والنفساء ورؤيتهن الدم، وغسلهن وما يجب عليهن من ms017 الصلاة وتركها 
+",000,False,000,False,False,False,2,639
+"### || 7 باب غسل الميت، وتكفينه، وتحنيطه، وتشييعه، ودفنه، والصلاة عليه 
+",000,False,000,False,False,False,2,1224
+"### ||| صفة غسل الميت
+",000,False,000,False,False,False,3,616
+"### || 8 باب الصلاة على الطفل
+",000,False,000,False,False,False,2,30
+"### || 9 باب الصلاة على من لا يعرف مذهبه
+",000,False,000,False,False,False,2,30
+"### || 10 باب الصلاة على المستضعف 
+",000,False,000,False,False,False,2,22
+"### || 11 باب الصلاة على المنافق 
+",000,False,000,False,False,False,2,53
+"### || 12 باب زيارة القبور 
+",000,False,000,False,False,False,2,35
+"### | أبواب الصلاة 
+",000,False,000,False,False,False,1,7034
+"### || 1 باب المواضع التي تكره الصلاة فيها 
+",000,False,000,False,False,False,2,37
+"### || 2 باب ما يصلى فيه من الثياب، وما لا يصلى فيه، وغير ذلك 
+",000,False,000,False,False,False,2,324
+"### || 3 باب ما يسجد عليه وما لا يسجد عليه، وغير ذلك
+",000,False,000,False,False,False,2,195
+"### || 4 باب الأعظم التي يقع عليها السجود
+",000,False,000,False,False,False,2,22
+"### || 5 باب دخول المسجد
+",000,False,000,False,False,False,2,133
+"### || 6 باب الأذان والإقامة
+",000,False,000,False,False,False,2,787
+"### || 7 باب (1) تسبيح فاطمة الزهراء - عليها السلام - 
+",000,False,000,False,False,False,2,98
+"### || 8 باب أدنى (1) ما يجزي من الدعاء بعد (2) المكتوبة 
+",000,False,000,False,False,False,2,84
+"### || 9 باب صلاة المرأة 
+",000,False,000,False,False,False,2,66
+"### || 10 باب السهو في الصلاة
+",000,False,000,False,False,False,2,1046
+"### || 11 باب الجماعة وفضلها
+",000,False,000,False,False,False,2,699
+"### || ١٢ باب صلاة المريض 
+",000,False,000,False,False,False,2,136
+"### || 13 باب صلاة العريان 
+",000,False,000,False,False,False,2,52
+"### || 14 باب صلاة المغمى عليه
+",000,False,000,False,False,False,2,64
+"### || 15 باب الصلاة في السفينة
+",000,False,000,False,False,False,2,71
+"### || 16 باب الصلاة في السفر
+",000,False,000,False,False,False,2,342
+"### || 17 باب صلاة الخوف
+",000,False,000,False,False,False,2,49
+"### || 18 باب الصلاة في الحرب، والمسايفة، والمطاردة 
+",000,False,000,False,False,False,2,101
+"### || 19 باب صلاة الليل
+",000,False,000,False,False,False,2,655
+"### || 20 باب ثواب صلاة الليل
+",000,False,000,False,False,False,2,233
+"### || 21 باب ثواب من أحيا ليلة تامة 
+",000,False,000,False,False,False,2,103
+"### || 22 باب صلاة جعفر بن أبي طالب - عليه السلام - وثوابها 
+",000,False,000,False,False,False,2,316
+"### || 23 باب صلاة الكسوف، والزلزلة، والرياح، والظلم
+",000,False,000,False,False,False,2,300
+"### || 24 باب صلاة يوم الجمعة 
+",000,False,000,False,False,False,2,305
+"### || 25 باب صلاة العيدين
+",000,False,000,False,False,False,2,209
+"### || 26 باب صلاة الاستخارة
+",000,False,000,False,False,False,2,67
+"### || 27 باب صلاة الاستسقاء
+",000,False,000,False,False,False,2,109
+"### || 28 باب صلاة الحاجة
+",000,False,000,False,False,False,2,124
+"### | أبواب الزكاة
+",000,False,000,False,False,False,1,1074
+"### || 1 باب ما يجب الزكاة عليه
+",000,False,000,False,False,False,2,34
+"### || 2 باب زكاة الحنطة والشعير
+",000,False,000,False,False,False,2,60
+"### || 3 باب زكاة التمر والزبيب
+",000,False,000,False,False,False,2,18
+"### || 4 باب زكاة الإبل
+",000,False,000,False,False,False,2,152
+"### || 5 باب زكاة البقر
+",000,False,000,False,False,False,2,85
+"### || 6 باب زكاة الغنم 
+",000,False,000,False,False,False,2,130
+"### || 7 باب زكاة الذهب
+",000,False,000,False,False,False,2,84
+"### || 8 باب زكاة الفضة
+",000,False,000,False,False,False,2,57
+"### || 9 باب زكاة السبائك (1) 
+",000,False,000,False,False,False,2,28
+"### || 10 باب زكاة مال اليتيم
+",000,False,000,False,False,False,2,25
+"### || 11 باب تقديم الزكاة وتأخيرها، وغير ذلك 
+",000,False,000,False,False,False,2,129
+"### || 12 باب من يعطى من الزكاة، ومن لا يعطى
+",000,False,000,False,False,False,2,44
+"### || 13 باب العتق من الزكاة
+",000,False,000,False,False,False,2,39
+"### || 14 باب تكفين الموتى من الزكاة
+",000,False,000,False,False,False,2,81
+"### || 15 باب زكاة الحلي
+",000,False,000,False,False,False,2,20
+"### | باب (١) الخمس
+",000,False,000,False,False,False,1,236
+"### | باب الصدقة
+",000,False,000,False,False,False,1,317
+"### | أبواب الصوم
+",000,False,000,False,False,False,1,3444
+"### || ١ باب أن الصوم على أربعين وجها
+",000,False,000,False,False,False,2,597
+"### || 2 باب رؤية هلال شهر رمضان
+",000,False,000,False,False,False,2,294
+"### || 3 باب صوم اليوم الذي يشك فيه
+",000,False,000,False,False,False,2,216
+"### || 4 باب ما يفطر الصائم وما لا يفطره
+",000,False,000,False,False,False,2,296
+"### || 5 باب من أفطر، أو جامع في شهر ms056 رمضان
+",000,False,000,False,False,False,2,176
+"### || 6 باب من جامع، أو أفطر ناسيا في شهر رمضان، أو غيره
+",000,False,000,False,False,False,2,55
+"### || ٧ باب من يضعف عن الصيام
+",000,False,000,False,False,False,2,92
+"### || 8 باب الوقت الذي يؤخذ الصبي فيه بالصوم
+",000,False,000,False,False,False,2,113
+"### || 9 باب تقصير المسافر في الصوم
+",000,False,000,False,False,False,2,401
+"### || 10 باب قضاء شهر رمضان
+",000,False,000,False,False,False,2,376
+"### || 11 باب الرجل يتطوع بالصيام وعليه شيء من شهر رمضان
+",000,False,000,False,False,False,2,28
+"### || 12 باب الرجل يسلم وقد مضى بعض شهر رمضان
+",000,False,000,False,False,False,2,53
+"### || 13 باب فضل السحور ms060
+",000,False,000,False,False,False,2,76
+"### || 14 باب الوقت الذي يجوز فيه الافطار
+",000,False,000,False,False,False,2,29
+"### || 15 باب فضل الصوم
+",000,False,000,False,False,False,2,320
+"### || 16 باب الاعتكاف
+",000,False,000,False,False,False,2,124
+"### | باب الحج
+",000,False,000,False,False,False,1,7792
+"### || الإفاضة من عرفات
+",000,False,000,False,False,False,2,558
+"### || الحلق 
+",000,False,000,False,False,False,2,893
+"### || التكبير أيام التشريق
+",000,False,000,False,False,False,2,76
+"### || الصلاة في مسجد الخيف
+",000,False,000,False,False,False,2,45
+"### || زيارة البيت
+",000,False,000,False,False,False,2,70
+"### || إتيان (8) الحجر الأسود
+",000,False,000,False,False,False,2,179
+"### || رمي (1) الجمار
+",000,False,000,False,False,False,2,170
+"### || الإفاضة من منى
+",000,False,000,False,False,False,2,155
+"### | باب ثواب الأعمال
+",000,False,000,False,False,False,1,860
+"### | باب (1) النكاح
+",000,False,000,False,False,False,1,3235
+"### | باب العقيقة
+",000,False,000,False,False,False,1,122
+"### | باب المتعة
+",000,False,000,False,False,False,1,435
+"### | باب الطلاق
+",000,False,000,False,False,False,1,1895
+"### | باب المكاسب والتجارات
+",000,False,000,False,False,False,1,1109
+"### | باب ms112 الربا
+",000,False,000,False,False,False,1,204
+"### | باب الدين
+",000,False,000,False,False,False,1,287
+"### | باب الكفالات
+",000,False,000,False,False,False,1,39
+"### | باب اللقطة
+",000,False,000,False,False,False,1,184
+"### | باب ما هو بمنزلة اللقطة
+",000,False,000,False,False,False,1,80
+"### | باب الرهن، والوديعة، والعارية، وغير ذلك 
+",000,False,000,False,False,False,1,463
+"### | باب المزارعة، والإجارة، وشراء أراضي أهل الذمة وبيعها، وبيع الكلاء والزرع وشرب الماء
+",000,False,000,False,False,False,1,526
+"### | باب القضاء والأحكام
+",000,False,000,False,False,False,1,948
+"### | باب الشفعة
+",000,False,000,False,False,False,1,160
+"### | باب الأيمان، والنذور، والكفارات
+",000,False,000,False,False,False,1,653
+"### | باب الصيد والذبائح
+",000,False,000,False,False,False,1,1048
+"### | [أبواب الحدود]
+",000,False,000,False,False,False,1,2547
+"### || ١ باب الزنا، واللواط، وما يجب في ذلك من الحكم والحد
+",000,False,000,False,False,False,2,1357
+"### || 2 باب حد القاذف وما يجب في ذلك من الحكم 
+",000,False,000,False,False,False,2,228
+"### || 3 باب حد السرقة
+",000,False,000,False,False,False,2,496
+"### || ٤ [باب حد المحارب]
+",000,False,000,False,False,False,2,69
+"### | باب الملاهي
+",000,False,000,False,False,False,1,158
+"### | باب العتق، والتدبير، والمكاتبة، والولاء، وغير ذلك
+",000,False,000,False,False,False,1,1949
+"### | باب الوصايا
+",000,False,000,False,False,False,1,904
+"### | باب المواريث
+",000,False,000,False,False,False,1,2244
+"### | باب الديات 
+",000,False,000,False,False,False,1,3381
+"### | باب الدخول في أعمال السلطان، وطلب الحوائج إليه 
+",000,False,000,False,False,False,1,216
+"### | باب النوادر
+",000,False,000,False,False,False,1,91232

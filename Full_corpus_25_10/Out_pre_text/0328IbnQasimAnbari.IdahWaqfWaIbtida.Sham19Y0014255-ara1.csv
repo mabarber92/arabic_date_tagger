@@ -1,0 +1,247 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK المقدمة
+",000,False,000,False,False,False,1,39196
+"### || AUTO [ذكر أسانيد ما في الكتاب من القراءات]
+",000,False,000,False,False,False,2,523
+"### || AUTO باب ذكر ما لا يتم الوقف عليه
+",000,False,000,False,False,False,2,2914
+"### || AUTO وكل ما في كتاب الله تعالى من ذكر «إلا»
+",000,False,000,False,False,False,2,523
+"### || AUTO باب ذكر الألفات اللاتي يكن في أوائل الأفعال
+",000,False,000,False,False,False,2,4413
+"### || AUTO باب ذكر الألفات اللاتي يكن في أوائل الأسماء
+",000,False,000,False,False,False,2,1630
+"### || AUTO باب ذكر الياءات والواوات والألفات اللاتي
+",000,False,000,False,False,False,2,914
+"### || AUTO باب ذكر الياءات اللاتي يكن في أواخر الأسماء
+",000,False,000,False,False,False,2,1136
+"### || AUTO باب ذكر الياءات والواوات والألفات
+",000,False,000,False,False,False,2,2687
+"### || AUTO باب ذكر ما يوقف عليه بالتاء والهاء
+",000,False,000,False,False,False,2,2379
+"### || AUTO باب ذكر الحرفين اللذين ضم أحدهما إلى صاحبه
+",000,False,000,False,False,False,2,3433
+"### || AUTO باب ذكر التنوين وما يبدل منه في الوقف
+",000,False,000,False,False,False,2,2068
+"### || AUTO باب ذكر مذاهب القراء في الوقف
+",000,False,000,False,False,False,2,5510
+"### | AUTO فاتحة الكتاب
+",000,False,000,False,False,False,1,469
+"### | AUTO السورة التي تذكر فيها البقرة
+",000,False,000,False,False,False,1,6956
+"### | AUTO السورة التي يذكر فيها آل عمران
+",000,False,000,False,False,False,1,2307
+"### | AUTO السورة التي يذكر فيها النساء
+",000,False,000,False,False,False,1,1537
+"### | AUTO السورة التي تذكر فيها المائدة
+",000,False,000,False,False,False,1,1509
+"### | AUTO السورة التي تذكر فيها الأنعام
+",000,False,000,False,False,False,1,1730
+"### | AUTO السورة التي يذكر فيها الأعراف
+",000,False,000,False,False,False,1,2356
+"### | AUTO السورة التي تذكر فيها الأنفال
+",000,False,000,False,False,False,1,1101
+"### | AUTO السورة التي تذكر فيها التوبة
+",000,False,000,False,False,False,1,1122
+"### | AUTO السورة التي يذكر فيها يونس
+",000,False,000,False,False,False,1,609
+"### | AUTO السورة التي يذكر فيها هود
+",000,False,000,False,False,False,1,779
+"### | AUTO السورة التي يذكر فيها يوسف
+",000,False,000,False,False,False,1,818
+"### | AUTO السورة التي يذكر فيها الرعد
+",000,False,000,False,False,False,1,685
+"### | AUTO السورة التي يذكر فيها إبراهيم
+",000,False,000,False,False,False,1,372
+"### | AUTO السورة التي يذكر فيها الحجر
+",000,False,000,False,False,False,1,103
+"### | AUTO السورة التي يذكر فيها النحل
+",000,False,000,False,False,False,1,428
+"### | AUTO السورة التي يذكر فيها بنو إسرائيل
+",000,False,000,False,False,False,1,285
+"### | AUTO السورة التي يذكر فيها الكهف
+",000,False,000,False,False,False,1,392
+"### | AUTO سورة مريم عليها السلام
+",000,False,000,False,False,False,1,407
+"### | AUTO سورة طه
+",000,False,000,False,False,False,1,299
+"### | AUTO السورة التي يذكر فيها الأنبياء عليهم السلام
+",000,False,000,False,False,False,1,590
+"### | AUTO سورة الحج
+",000,False,000,False,False,False,1,635
+"### | AUTO سورة المؤمنين
+",000,False,000,False,False,False,1,420
+"### | AUTO سورة النور
+",000,False,000,False,False,False,1,651
+"### | AUTO السورة التي يذكر فيها الفرقان
+",000,False,000,False,False,False,1,683
+"### | AUTO سورة الشعراء
+",000,False,000,False,False,False,1,199
+"### | AUTO سورة النمل
+",000,False,000,False,False,False,1,580
+"### | AUTO سورة القصص
+",000,False,000,False,False,False,1,313
+"### | AUTO سورة العنكبوت
+",000,False,000,False,False,False,1,354
+"### | AUTO سورة الروم
+",000,False,000,False,False,False,1,408
+"### | AUTO سورة لقمان
+",000,False,000,False,False,False,1,277
+"### | AUTO سورة السجدة
+",000,False,000,False,False,False,1,50
+"### | AUTO سورة الأحزاب
+",000,False,000,False,False,False,1,246
+"### | AUTO سورة سبأ
+",000,False,000,False,False,False,1,191
+"### | AUTO سورة الملائكة
+",000,False,000,False,False,False,1,263
+"### | AUTO سورة يس
+",000,False,000,False,False,False,1,365
+"### | AUTO سورة الصافات
+",000,False,000,False,False,False,1,238
+"### | AUTO سورة صاد
+",000,False,000,False,False,False,1,578
+"### | AUTO سورة الزمر
+",000,False,000,False,False,False,1,235
+"### | AUTO سورة المؤمن
+",000,False,000,False,False,False,1,399
+"### | AUTO حم السجدة
+",000,False,000,False,False,False,1,310
+"### | AUTO حم عسق
+",000,False,000,False,False,False,1,244
+"### | AUTO [سورة] الزخرف
+",000,False,000,False,False,False,1,369
+"### | AUTO حم الدخان
+",000,False,000,False,False,False,1,105
+"### | AUTO سورة الجاثية
+",000,False,000,False,False,False,1,232
+"### | AUTO سورة الأحقاف
+",000,False,000,False,False,False,1,208
+"### | AUTO سورة محمد صلى الله عليه وسلم
+",000,False,000,False,False,False,1,240
+"### | AUTO سورة الفتح
+",000,False,000,False,False,False,1,209
+"### | AUTO سورة الحجرات
+",000,False,000,False,False,False,1,39
+"### | AUTO سورة ق
+",000,False,000,False,False,False,1,78
+"### | AUTO سورة الذاريات
+",000,False,000,False,False,False,1,231
+"### | AUTO سورة والطور
+",000,False,000,False,False,False,1,131
+"### | AUTO سورة والنجم
+",000,False,000,False,False,False,1,179
+"### | AUTO سورة القمر
+",000,False,000,False,False,False,1,110
+"### | AUTO سورة الرحمن «عز وجل»
+",000,False,000,False,False,False,1,180
+"### | AUTO سورة الواقعة
+",000,False,000,False,False,False,1,543
+"### | AUTO سورة الحديد
+",000,False,000,False,False,False,1,187
+"### | AUTO سورة المجادلة
+",000,False,000,False,False,False,1,94
+"### | AUTO سورة الحشر
+",000,False,000,False,False,False,1,170
+"### | AUTO سورة الممتحنة
+",000,False,000,False,False,False,1,184
+"### | AUTO سورة الصف
+",000,False,000,False,False,False,1,75
+"### | AUTO سورة الجمعة
+",000,False,000,False,False,False,1,74
+"### | AUTO سورة المنافقين
+",000,False,000,False,False,False,1,28
+"### | AUTO سورة التغابن
+",000,False,000,False,False,False,1,60
+"### | AUTO سورة الطلاق
+",000,False,000,False,False,False,1,227
+"### | AUTO سورة التحريم
+",000,False,000,False,False,False,1,51
+"### | AUTO سورة الملك
+",000,False,000,False,False,False,1,58
+"### | AUTO سورة ن
+",000,False,000,False,False,False,1,160
+"### | AUTO سورة الحاقة
+",000,False,000,False,False,False,1,119
+"### | AUTO سورة سأل سائل
+",000,False,000,False,False,False,1,193
+"### | AUTO سورة نوح «عليه السلام»
+",000,False,000,False,False,False,1,34
+"### | AUTO سورة الجن
+",000,False,000,False,False,False,1,276
+"### | AUTO سورة المزمل
+",000,False,000,False,False,False,1,158
+"### | AUTO سورة المدثر
+",000,False,000,False,False,False,1,162
+"### | AUTO سورة القيامة
+",000,False,000,False,False,False,1,180
+"### | AUTO سورة الإنسان
+",000,False,000,False,False,False,1,64
+"### | AUTO سورة المرسلات
+",000,False,000,False,False,False,1,160
+"### | AUTO سورة عم يستاءلون
+",000,False,000,False,False,False,1,139
+"### | AUTO سورة النازعات
+",000,False,000,False,False,False,1,119
+"### | AUTO سورة عبس
+",000,False,000,False,False,False,1,171
+"### | AUTO سورة إذا الشمس كورت
+",000,False,000,False,False,False,1,48
+"### | AUTO سورة إذا السماء انفطرت
+",000,False,000,False,False,False,1,130
+"### | AUTO سورة المطففين
+",000,False,000,False,False,False,1,43
+"### | AUTO سورة إذا السماء انشقت
+",000,False,000,False,False,False,1,144
+"### | AUTO سورة البروج
+",000,False,000,False,False,False,1,100
+"### | AUTO سورة الطارق
+",000,False,000,False,False,False,1,92
+"### | AUTO سورة الغاشية
+",000,False,000,False,False,False,1,122
+"### | AUTO سورة الفجر
+",000,False,000,False,False,False,1,53
+"### | AUTO سورة البلد
+",000,False,000,False,False,False,1,71
+"### | AUTO سورة والشمس وضحاها
+",000,False,000,False,False,False,1,60
+"### | AUTO سورة والليل
+",000,False,000,False,False,False,1,39
+"### | AUTO سورة والضحى
+",000,False,000,False,False,False,1,23
+"### | AUTO [سورة] ألم نشرح
+",000,False,000,False,False,False,1,30
+"### | AUTO سورة التين
+",000,False,000,False,False,False,1,26
+"### | AUTO سورة العلق
+",000,False,000,False,False,False,1,29
+"### | AUTO سورة القدر
+",000,False,000,False,False,False,1,83
+"### | AUTO سورة لم يكن
+",000,False,000,False,False,False,1,50
+"### | AUTO سورة إذا زلزلت
+",000,False,000,False,False,False,1,18
+"### | AUTO سورة العاديات
+",000,False,000,False,False,False,1,9
+"### | AUTO سورة القارعة
+",000,False,000,False,False,False,1,13
+"### | AUTO سورة التكاثر
+",000,False,000,False,False,False,1,24
+"### | AUTO سورة العصر
+",000,False,000,False,False,False,1,7
+"### | AUTO سورة الهمزة
+",000,False,000,False,False,False,1,29
+"### | AUTO سورة الفيل
+",000,False,000,False,False,False,1,14
+"### | AUTO سورة لإيلاف
+",000,False,000,False,False,False,1,270
+"### | AUTO سورة أرأيت
+",000,False,000,False,False,False,1,10
+"### | AUTO [سورة] الكوثر
+",000,False,000,False,False,False,1,16
+"### | AUTO سورة قل يا أيها الكافرون
+",000,False,000,False,False,False,1,100
+"### | AUTO سورة النصر
+",000,False,000,False,False,False,1,10
+"### | AUTO [سورة] تبت
+",000,False,000,False,False,False,1,175
