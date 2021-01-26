@@ -1,0 +1,49 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [sentence 1]
+",000,False,000,False,False,False,1,7
+"### | [sentence 2]
+",000,False,000,False,False,False,1,8
+"### | [sentence 3]
+",000,False,000,False,False,False,1,7
+"### | [sentence 4]
+",000,False,000,False,False,False,1,9
+"### | [sentence 5]
+",000,False,000,False,False,False,1,9
+"### | [sentence 6]
+",000,False,000,False,False,False,1,9
+"### | [sentence 7]
+",000,False,000,False,False,False,1,6
+"### | [sentence 8]
+",000,False,000,False,False,False,1,10
+"### | [sentence 9]
+",000,False,000,False,False,False,1,7
+"### | [sentence 10]
+",000,False,000,False,False,False,1,9
+"### | [sentence 11]
+",000,False,000,False,False,False,1,7
+"### | [sentence 12]
+",000,False,000,False,False,False,1,9
+"### | [sentence 13]
+",000,False,000,False,False,False,1,8
+"### | [sentence 14]
+",000,False,000,False,False,False,1,7
+"### | [sentence 15]
+",000,False,000,False,False,False,1,11
+"### | [sentence 16]
+",000,False,000,False,False,False,1,11
+"### | [sentence 17]
+",000,False,000,False,False,False,1,8
+"### | [sentence 18]
+",000,False,000,False,False,False,1,9
+"### | [sentence 19]
+",000,False,000,False,False,False,1,10
+"### | [sentence 20]
+",000,False,000,False,False,False,1,7
+"### | [sentence 21]
+",000,False,000,False,False,False,1,9
+"### | [sentence 22]
+",000,False,000,False,False,False,1,10
+"### | [sentence 23]
+",000,False,000,False,False,False,1,9
+"### | [sentence 24]
+",000,False,000,False,False,False,1,8

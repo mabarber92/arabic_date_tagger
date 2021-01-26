@@ -1,0 +1,3947 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO باب الطهارة (والوضوء)
+",000,False,000,False,False,False,1,2222
+"### || AUTO ماء الحمام
+",000,False,000,False,False,False,2,29
+"### || AUTO ماء الحمام
+",000,False,000,False,False,False,2,63
+"### || AUTO الخاتم والوضوء
+",000,False,000,False,False,False,2,51
+"### || AUTO ماء الاشنان والآس
+",000,False,000,False,False,False,2,30
+"### || AUTO ماء الزردج
+",000,False,000,False,False,False,2,7
+"### || AUTO ماء الزردج
+",000,False,000,False,False,False,2,13
+"### || AUTO الغسل بغير الماء
+",000,False,000,False,False,False,2,81
+"### || AUTO أحكام البئر
+",000,False,000,False,False,False,2,85
+"### || AUTO ريح البدن
+",000,False,000,False,False,False,2,21
+"### || AUTO في البئر أيضا
+",000,False,000,False,False,False,2,60
+"### || AUTO طهارة الثوب
+",000,False,000,False,False,False,2,94
+"### || AUTO وقوع الكلب في البئر
+",000,False,000,False,False,False,2,41
+"### || AUTO مقطوع الأذن والأسنان
+",000,False,000,False,False,False,2,80
+"### || AUTO إدخال الكف في الماء
+",000,False,000,False,False,False,2,50
+"### || AUTO الجبائر
+",000,False,000,False,False,False,2,32
+"### || AUTO غسل الثوب بماء في الفم
+",000,False,000,False,False,False,2,47
+"### || AUTO تغيب الحشفة
+",000,False,000,False,False,False,2,46
+"### || AUTO ماء الفم
+",000,False,000,False,False,False,2,13
+"### || AUTO ماء الفم
+",000,False,000,False,False,False,2,14
+"### || AUTO الانغماس في الماء
+",000,False,000,False,False,False,2,57
+"### || AUTO شعر الخنزير والإنسان
+",000,False,000,False,False,False,2,72
+"### || AUTO جلد الفيل وعظمه وجلد الكلب
+",000,False,000,False,False,False,2,118
+"### || AUTO اللحية
+",000,False,000,False,False,False,2,79
+"### || AUTO اللحية
+",000,False,000,False,False,False,2,2
+"### || AUTO القيح والدم
+",000,False,000,False,False,False,2,39
+"### || AUTO وقوع الميت في البئر
+",000,False,000,False,False,False,2,70
+"### || AUTO سقوط النائم
+",000,False,000,False,False,False,2,47
+"### || AUTO مطلب ثلاثة نفر
+",000,False,000,False,False,False,2,60
+"### || AUTO صلاة من أحدث أحدهم
+",000,False,000,False,False,False,2,150
+"### || AUTO من انشق خفه
+",000,False,000,False,False,False,2,41
+"### || AUTO تحشية الاحليل
+",000,False,000,False,False,False,2,25
+"### || AUTO مذي الاقلف
+",000,False,000,False,False,False,2,31
+"### || AUTO ما يعيش في الماء
+",000,False,000,False,False,False,2,85
+"### || AUTO الدم المسفوح
+",000,False,000,False,False,False,2,41
+"### || AUTO اللحم المطبوخ
+",000,False,000,False,False,False,2,22
+"### || AUTO التيمم إلى الكرسوع
+",000,False,000,False,False,False,2,57
+"### || AUTO القروح والتيمم
+",000,False,000,False,False,False,2,52
+"### || AUTO مرور المتيمم بنهر
+",000,False,000,False,False,False,2,122
+"### || AUTO التيمم بالغبار
+",000,False,000,False,False,False,2,191
+"### | AUTO باب الصلاة
+",000,False,000,False,False,False,1,2188
+"### || AUTO التكبير
+",000,False,000,False,False,False,2,34
+"### || AUTO التكبير
+",000,False,000,False,False,False,2,6
+"### || AUTO التسليم
+",000,False,000,False,False,False,2,4
+"### || AUTO التسليم
+",000,False,000,False,False,False,2,39
+"### || AUTO ركوع الإمام
+",000,False,000,False,False,False,2,60
+"### || AUTO مد التكبير
+",000,False,000,False,False,False,2,15
+"### || AUTO مد التكبير
+",000,False,000,False,False,False,2,70
+"### || AUTO المسبوق
+",000,False,000,False,False,False,2,8
+"### || AUTO المسبوق
+",000,False,000,False,False,False,2,48
+"### || AUTO رفع الرأس من السجود
+",000,False,000,False,False,False,2,48
+"### || AUTO السجود على ظهر رجل
+",000,False,000,False,False,False,2,52
+"### || AUTO السجود على فخذ نفسه
+",000,False,000,False,False,False,2,16
+"### || AUTO السجود على ظهر ميت
+",000,False,000,False,False,False,2,29
+"### || AUTO افتتاح الظهر
+",000,False,000,False,False,False,2,38
+"### || AUTO صلاة الظهر
+",000,False,000,False,False,False,2,42
+"### || AUTO البسملة
+",000,False,000,False,False,False,2,24
+"### || AUTO التعوذ
+",000,False,000,False,False,False,2,53
+"### || AUTO العلك والإهليلج في الصلاة
+",000,False,000,False,False,False,2,23
+"### || AUTO العمل أثناء الصلاة
+",000,False,000,False,False,False,2,120
+"### || AUTO نجاسة اللبد وغيره
+",000,False,000,False,False,False,2,198
+"### || AUTO الصلاة على ثلج
+",000,False,000,False,False,False,2,41
+"### || AUTO صلاة من في كمه جرو الخ
+",000,False,000,False,False,False,2,111
+"### || AUTO مطلب في زلة القارئ
+",000,False,000,False,False,False,2,88
+"### || AUTO العطاس أثناء الصلاة
+",000,False,000,False,False,False,2,44
+"### || AUTO ترك سجدة
+",000,False,000,False,False,False,2,10
+"### || AUTO ترك سجدة
+",000,False,000,False,False,False,2,29
+"### || AUTO سجدة التلاوة
+",000,False,000,False,False,False,2,8
+"### || AUTO سجدة التلاوة
+",000,False,000,False,False,False,2,20
+"### || AUTO رؤية عورته أثناء الصلاة
+",000,False,000,False,False,False,2,28
+"### || AUTO التعبد بالفارسية
+",000,False,000,False,False,False,2,27
+"### || AUTO تلاوة السجدة بالفارسية
+",000,False,000,False,False,False,2,38
+"### || AUTO قراءة الحمد لله والتشهد مرتين الخ
+",000,False,000,False,False,False,2,151
+"### || AUTO صلاة العشاء
+",000,False,000,False,False,False,2,45
+"### || AUTO القراءة والكتابة أثناء الصلاة
+",000,False,000,False,False,False,2,52
+"### || AUTO من وقع في صف النساء
+",000,False,000,False,False,False,2,46
+"### || AUTO ذهاب وقت المسح
+",000,False,000,False,False,False,2,83
+"### || AUTO رجلان أحدثا
+",000,False,000,False,False,False,2,24
+"### || AUTO إمام أحدث
+",000,False,000,False,False,False,2,7
+"### || AUTO إمام أحدث
+",000,False,000,False,False,False,2,42
+"### || AUTO صلاة من أحدث إمامهم
+",000,False,000,False,False,False,2,172
+"### || AUTO نسيان الصلاة
+",000,False,000,False,False,False,2,25
+"### || AUTO صلاة المعتوه
+",000,False,000,False,False,False,2,73
+"### || AUTO الدخول في صلاة الإمام
+",000,False,000,False,False,False,2,50
+"### || AUTO صلاة النائم
+",000,False,000,False,False,False,2,44
+"### | AUTO باب صلاة المسافر
+",000,False,000,False,False,False,1,485
+"### || AUTO إسلام النصراني وبلوغ الصبي
+",000,False,000,False,False,False,2,128
+"### || AUTO القائد ينوي الإقامة ولا يخبر عنها
+",000,False,000,False,False,False,2,62
+"### || AUTO إقامة الأعراب
+",000,False,000,False,False,False,2,56
+"### || AUTO صلاة المسافر في سفينة
+",000,False,000,False,False,False,2,41
+"### || AUTO قراءة القرآن في الحمام
+",000,False,000,False,False,False,2,64
+"### || AUTO نية الإقامة لمن
+",000,False,000,False,False,False,2,65
+"### | AUTO باب السجدة
+",000,False,000,False,False,False,1,132
+"### || AUTO السجود على الدابة
+",000,False,000,False,False,False,2,16
+"### || AUTO السجود على الدابة
+",000,False,000,False,False,False,2,25
+"### || AUTO تلاوة السجدة
+",000,False,000,False,False,False,2,88
+"### | AUTO باب الجمعة والعيدين
+",000,False,000,False,False,False,1,325
+"### || AUTO أحكام الأعمى
+",000,False,000,False,False,False,2,57
+"### || AUTO السلام أثناء خطبة الإمام
+",000,False,000,False,False,False,2,27
+"### || AUTO حكم العجوز
+",000,False,000,False,False,False,2,31
+"### || AUTO حكم الإمام
+",000,False,000,False,False,False,2,97
+"### | AUTO باب الجنائز
+",000,False,000,False,False,False,1,677
+"### || AUTO استشهاد الحائض
+",000,False,000,False,False,False,2,55
+"### || AUTO كفن المرأة على من يكون
+",000,False,000,False,False,False,2,49
+"### || AUTO من لا يصلى عليهم
+",000,False,000,False,False,False,2,51
+"### || AUTO من يصلي على المرأة؟
+",000,False,000,False,False,False,2,104
+"### || AUTO الصلاة على الجنائز
+",000,False,000,False,False,False,2,90
+"### || AUTO كفن المنبوش
+",000,False,000,False,False,False,2,40
+"### || AUTO مقدار الكفن
+",000,False,000,False,False,False,2,13
+"### || AUTO التكبير على الجنازة
+",000,False,000,False,False,False,2,116
+"### || AUTO حكم الجنين يولد ميتا
+",000,False,000,False,False,False,2,98
+"### || AUTO غسل المرأة زوجها
+",000,False,000,False,False,False,2,58
+"### | AUTO باب الزكاة
+",000,False,000,False,False,False,1,1281
+"### || AUTO من غلب على عقله
+",000,False,000,False,False,False,2,69
+"### || AUTO إعطاء الزكاة للأقارب
+",000,False,000,False,False,False,2,45
+"### || AUTO الصدقة على ولد الغني
+",000,False,000,False,False,False,2,139
+"### || AUTO لا تدفع النفقة مع الزكاة
+",000,False,000,False,False,False,2,76
+"### || AUTO النية والزكاة
+",000,False,000,False,False,False,2,31
+"### || AUTO شروط مستحق الزكاة
+",000,False,000,False,False,False,2,92
+"### || AUTO متى يتحقق عنصر النية
+",000,False,000,False,False,False,2,33
+"### || AUTO الغصب والزكاة
+",000,False,000,False,False,False,2,46
+"### || AUTO زكاة الملتقط
+",000,False,000,False,False,False,2,30
+"### || AUTO ثمانون شاة بين رجلين
+",000,False,000,False,False,False,2,68
+"### || AUTO زكاة الصبغ والزعفران
+",000,False,000,False,False,False,2,63
+"### || AUTO زكاة بضائع النخاسين
+",000,False,000,False,False,False,2,40
+"### || AUTO زكاة الوديعة
+",000,False,000,False,False,False,2,57
+"### || AUTO النية في زكاة أموال التجارة
+",000,False,000,False,False,False,2,39
+"### || AUTO الصدقة على بني هاشم لا تحل
+",000,False,000,False,False,False,2,53
+"### || AUTO زكاة الدين
+",000,False,000,False,False,False,2,53
+"### || AUTO زكاة أجرة الأرض والدار
+",000,False,000,False,False,False,2,151
+"### || AUTO تعجيل الزكاة
+",000,False,000,False,False,False,2,69
+"### || AUTO الرجوع في الهبة والزكاة
+",000,False,000,False,False,False,2,49
+"### || AUTO لا رجوع للواهب في مقدار الزكاة
+",000,False,000,False,False,False,2,75
+"### | AUTO باب العشر والزواج
+",000,False,000,False,False,False,1,512
+"### || AUTO أولا  العشر
+",000,False,000,False,False,False,2,508
+"### ||| AUTO التين
+",000,False,000,False,False,False,3,11
+"### ||| AUTO التين
+",000,False,000,False,False,False,3,5
+"### ||| AUTO الخوخ
+",000,False,000,False,False,False,3,6
+"### ||| AUTO الخوخ
+",000,False,000,False,False,False,3,19
+"### ||| AUTO البذر
+",000,False,000,False,False,False,3,25
+"### ||| AUTO العصفر والقرطم
+",000,False,000,False,False,False,3,64
+"### ||| AUTO الكتان
+",000,False,000,False,False,False,3,4
+"### ||| AUTO الكتان
+",000,False,000,False,False,False,3,13
+"### ||| AUTO النخيل
+",000,False,000,False,False,False,3,65
+"### ||| AUTO بيع أرض الخراج
+",000,False,000,False,False,False,3,76
+"### ||| AUTO عارية الأرض
+",000,False,000,False,False,False,3,43
+"### ||| AUTO خراج الزرع
+",000,False,000,False,False,False,3,14
+"### ||| AUTO خراج الزرع
+",000,False,000,False,False,False,3,39
+"### ||| AUTO أرض بين رجلين
+",000,False,000,False,False,False,3,13
+"### ||| AUTO أرض بين رجلين
+",000,False,000,False,False,False,3,35
+"### ||| AUTO خراج رستاقين
+",000,False,000,False,False,False,3,73
+"### | AUTO باب الصوم
+",000,False,000,False,False,False,1,781
+"### || AUTO النسيان
+",000,False,000,False,False,False,2,58
+"### || AUTO الإفطار
+",000,False,000,False,False,False,2,37
+"### || AUTO أكل الطين
+",000,False,000,False,False,False,2,28
+"### || AUTO ابتلاع شيء صغير
+",000,False,000,False,False,False,2,23
+"### || AUTO الصيام للرؤية
+",000,False,000,False,False,False,2,25
+"### || AUTO أكل الصائم سمسمة
+",000,False,000,False,False,False,2,27
+"### || AUTO مخالطة زوجته ناسيا
+",000,False,000,False,False,False,2,74
+"### || AUTO متعمد الإفطار
+",000,False,000,False,False,False,2,64
+"### || AUTO مص السكرة في رمضان
+",000,False,000,False,False,False,2,44
+"### || AUTO دعوة الصائم للإفطار
+",000,False,000,False,False,False,2,27
+"### || AUTO القيء
+",000,False,000,False,False,False,2,31
+"### || AUTO القيء
+",000,False,000,False,False,False,2,55
+"### || AUTO تمضمض الصائم إلى آخره
+",000,False,000,False,False,False,2,50
+"### || AUTO أكل ناسيا
+",000,False,000,False,False,False,2,5
+"### || AUTO أكل ناسيا
+",000,False,000,False,False,False,2,24
+"### || AUTO رؤية الهلال
+",000,False,000,False,False,False,2,96
+"### || AUTO ابتلاع البزاق
+",000,False,000,False,False,False,2,22
+"### || AUTO ابتلاع لقمة خبز
+",000,False,000,False,False,False,2,88
+"### | AUTO باب صدقة الفطر
+",000,False,000,False,False,False,1,177
+"### || AUTO مكان إخراج صدقة الفطر
+",000,False,000,False,False,False,2,28
+"### || AUTO زكاة الجارية وولدها
+",000,False,000,False,False,False,2,38
+"### || AUTO زكاة العبد التاجر ورقيقه
+",000,False,000,False,False,False,2,73
+"### | AUTO باب النذور
+",000,False,000,False,False,False,1,1378
+"### || AUTO نذر صلاة بغير وضوء
+",000,False,000,False,False,False,2,47
+"### || AUTO نذر ركعة
+",000,False,000,False,False,False,2,58
+"### || AUTO نذر الظهر ثماني ركعات الخ
+",000,False,000,False,False,False,2,63
+"### || AUTO قلد بدنه ثم باعه
+",000,False,000,False,False,False,2,18
+"### || AUTO قلد بدنه ثم باعه
+",000,False,000,False,False,False,2,17
+"### || AUTO نذر نحر ابنه الخ
+",000,False,000,False,False,False,2,52
+"### || AUTO ما يتعلق بشعيرة الحج من النذور
+",000,False,000,False,False,False,2,97
+"### || AUTO نذر أن يصوم شهرا الخ
+",000,False,000,False,False,False,2,381
+"### || AUTO نذور الصدقة
+",000,False,000,False,False,False,2,49
+"### || AUTO نذر حج التطوع
+",000,False,000,False,False,False,2,37
+"### || AUTO صوم التطوع
+",000,False,000,False,False,False,2,46
+"### || AUTO نذر شراء مملوك واعتاقه
+",000,False,000,False,False,False,2,56
+"### || AUTO قوله مالي صدقة
+",000,False,000,False,False,False,2,51
+"### || AUTO الوفاء بمثل الشيء أو بخير منه
+",000,False,000,False,False,False,2,126
+"### || AUTO تعلق نذر الصوم
+",000,False,000,False,False,False,2,52
+"### || AUTO الاقتران بكلما
+",000,False,000,False,False,False,2,65
+"### || AUTO نذر ركعتين تطوعا
+",000,False,000,False,False,False,2,43
+"### || AUTO نذر صلاة الظهر تطوعا
+",000,False,000,False,False,False,2,35
+"### || AUTO دخل مع الإمام ينوي التطوع
+",000,False,000,False,False,False,2,8
+"### || AUTO دخل مع الإمام ينوي التطوع
+",000,False,000,False,False,False,2,18
+"### || AUTO نذر أربع ركعات بتسليمة واحدة
+",000,False,000,False,False,False,2,56
+"### | AUTO باب الحج
+",000,False,000,False,False,False,1,1003
+"### || AUTO شروط وجوب الحج
+",000,False,000,False,False,False,2,54
+"### || AUTO الأعمى والمقعد
+",000,False,000,False,False,False,2,12
+"### || AUTO الأعمى والمقعد
+",000,False,000,False,False,False,2,40
+"### || AUTO حج المرأة
+",000,False,000,False,False,False,2,59
+"### || AUTO وصية نصراني أسلم بالحج
+",000,False,000,False,False,False,2,44
+"### || AUTO حكم من له دراهم دون مسكن
+",000,False,000,False,False,False,2,84
+"### || AUTO نية الحج والعمرة
+",000,False,000,False,False,False,2,30
+"### || AUTO قتل المحرم قملة
+",000,False,000,False,False,False,2,37
+"### || AUTO حك المحرم رأسه
+",000,False,000,False,False,False,2,24
+"### || AUTO دفع ضواري الطير
+",000,False,000,False,False,False,2,33
+"### || AUTO ذكر الله في الطواف
+",000,False,000,False,False,False,2,8
+"### || AUTO ذكر الله في الطواف
+",000,False,000,False,False,False,2,56
+"### || AUTO دخول البيت
+",000,False,000,False,False,False,2,6
+"### || AUTO دخول البيت
+",000,False,000,False,False,False,2,9
+"### || AUTO رمي الحجارة
+",000,False,000,False,False,False,2,37
+"### || AUTO المحرم والصيد
+",000,False,000,False,False,False,2,124
+"### || AUTO الطواف بالعاجز
+",000,False,000,False,False,False,2,59
+"### || AUTO قطع التلبية
+",000,False,000,False,False,False,2,40
+"### || AUTO الاضطباع
+",000,False,000,False,False,False,2,24
+"### || AUTO الاضطباع
+",000,False,000,False,False,False,2,12
+"### || AUTO ما لا عمرة فيه
+",000,False,000,False,False,False,2,55
+"### || AUTO التوطن في مكة
+",000,False,000,False,False,False,2,50
+"### || AUTO ضطرار المحرم إلى القميص
+",000,False,000,False,False,False,2,39
+"### || AUTO كفارة الجرح
+",000,False,000,False,False,False,2,20
+"### || AUTO في القميص أيضا
+",000,False,000,False,False,False,2,44
+"### | AUTO باب الحج عن الميت
+",000,False,000,False,False,False,1,686
+"### || AUTO موت الحاج عن الميت
+",000,False,000,False,False,False,2,78
+"### || AUTO نفقة الحاج عن الميت
+",000,False,000,False,False,False,2,68
+"### || AUTO كيفية تقسيم الثلث بين وصاياه
+",000,False,000,False,False,False,2,70
+"### || AUTO كيف تنفذ الوصية
+",000,False,000,False,False,False,2,104
+"### || AUTO أوصى بالحج عنه بما لا يكفي
+",000,False,000,False,False,False,2,56
+"### || AUTO الحج راكبا أفضل
+",000,False,000,False,False,False,2,25
+"### || AUTO أوصى بالعتق والحج
+",000,False,000,False,False,False,2,131
+"### || AUTO الوصية بثلث ماله للكعبة
+",000,False,000,False,False,False,2,19
+"### || AUTO أوصى أن يحج ويقرن عنه
+",000,False,000,False,False,False,2,130
+"### | AUTO باب النكاح
+",000,False,000,False,False,False,1,719
+"### || AUTO الولي
+",000,False,000,False,False,False,2,16
+"### || AUTO الولي
+",000,False,000,False,False,False,2,8
+"### || AUTO الولي
+",000,False,000,False,False,False,2,43
+"### || AUTO زواج العبد
+",000,False,000,False,False,False,2,47
+"### || AUTO زواج الحر
+",000,False,000,False,False,False,2,31
+"### || AUTO نكاح الصابئية
+",000,False,000,False,False,False,2,25
+"### || AUTO تغيير الدين
+",000,False,000,False,False,False,2,46
+"### || AUTO تزويج القاضي يتيمة
+",000,False,000,False,False,False,2,20
+"### || AUTO تزويج الولي البكر
+",000,False,000,False,False,False,2,83
+"### || AUTO شهادة من أعتقاها على اختيارها نفسها
+",000,False,000,False,False,False,2,25
+"### || AUTO مدة خيار الصغيرة
+",000,False,000,False,False,False,2,44
+"### || AUTO قضايا المهر
+",000,False,000,False,False,False,2,38
+"### || AUTO لخلوة
+",000,False,000,False,False,False,2,86
+"### || AUTO إذا وطئ امرأة وله امرأة أخرى
+",000,False,000,False,False,False,2,95
+"### || AUTO الإقرار الموصول
+",000,False,000,False,False,False,2,43
+"### || AUTO وطؤه جارية بينه وبين آخر الخ
+",000,False,000,False,False,False,2,66
+"### | AUTO باب الأكفاء
+",000,False,000,False,False,False,1,1245
+"### || AUTO الموالي
+",000,False,000,False,False,False,2,5
+"### || AUTO الموالي
+",000,False,000,False,False,False,2,17
+"### || AUTO فيم تكون الكفاءة
+",000,False,000,False,False,False,2,42
+"### || AUTO تزوج أم الولد
+",000,False,000,False,False,False,2,37
+"### || AUTO نكاح المدبرة
+",000,False,000,False,False,False,2,34
+"### || AUTO 
+",000,False,000,False,False,False,2,1
+"### || AUTO إرضاع زوجتين رضيعين
+",000,False,000,False,False,False,2,38
+"### || AUTO تعليق طلاقهما في مرض الموت
+",000,False,000,False,False,False,2,29
+"### || AUTO عبد تزوج مرتين
+",000,False,000,False,False,False,2,37
+"### || AUTO الغلط في المهر
+",000,False,000,False,False,False,2,48
+"### || AUTO النسب
+",000,False,000,False,False,False,2,14
+"### || AUTO تأجيل العنين PageV01P080
+",000,False,000,False,False,False,2,110
+"### || AUTO لا فرقة بالعنة إلا بقول الحاكم
+",000,False,000,False,False,False,2,56
+"### || AUTO جعل مهرها أمة
+",000,False,000,False,False,False,2,115
+"### || AUTO رجوعها بنقصان مهرها أو بعيبه حين يكون أمة بعينها
+",000,False,000,False,False,False,2,34
+"### || AUTO تزوجها على أمة بغير عينها
+",000,False,000,False,False,False,2,32
+"### || AUTO شرط صحة شهادة شاهدي الزواج سماعهما معا
+",000,False,000,False,False,False,2,33
+"### || AUTO ما يعد الأب متبرعا بشرائه لولده الصغير
+",000,False,000,False,False,False,2,50
+"### || AUTO زواج الأمة وفسخ الأم زواجها الخ
+",000,False,000,False,False,False,2,67
+"### || AUTO حكم تأجيل المهر
+",000,False,000,False,False,False,2,67
+"### || AUTO التوكيل بتزويج فاسد
+",000,False,000,False,False,False,2,37
+"### || AUTO حلف أن لا يزوج فلانة
+",000,False,000,False,False,False,2,25
+"### || AUTO حلف أن لا يزوج ابنتة الصغيرة
+",000,False,000,False,False,False,2,34
+"### || AUTO تزوج أخت المرتدة
+",000,False,000,False,False,False,2,61
+"### || AUTO مطالبة الأب بمهر ابنته الصغيرة
+",000,False,000,False,False,False,2,39
+"### || AUTO من يزوج المجنون
+",000,False,000,False,False,False,2,49
+"### || AUTO وقت الجنون المطبق
+",000,False,000,False,False,False,2,33
+"### || AUTO تزويج المعتوهة
+",000,False,000,False,False,False,2,38
+"### || AUTO من زوجها القاضي فأدركت
+",000,False,000,False,False,False,2,60
+"### | AUTO باب النفقة
+",000,False,000,False,False,False,1,700
+"### || AUTO نفقة غير الزمن وصغاره
+",000,False,000,False,False,False,2,43
+"### || AUTO الرجوع في ضمان النفقة والإجارة
+",000,False,000,False,False,False,2,61
+"### || AUTO إنفاق فضل الكسب القليل على ذي رحم محرم
+",000,False,000,False,False,False,2,60
+"### || AUTO نفقة زوجة الوالد
+",000,False,000,False,False,False,2,20
+"### || AUTO نفقة الابن الزمن
+",000,False,000,False,False,False,2,19
+"### || AUTO تزوجت في العدة
+",000,False,000,False,False,False,2,37
+"### || AUTO تزوجت قبل أن تطلق
+",000,False,000,False,False,False,2,54
+"### || AUTO نفقة الزمن
+",000,False,000,False,False,False,2,33
+"### || AUTO نفقة أب الأم
+",000,False,000,False,False,False,2,30
+"### || AUTO الزوجة الصغيرة غير المدخول بها
+",000,False,000,False,False,False,2,20
+"### || AUTO مرضها قبل الدخول بها
+",000,False,000,False,False,False,2,34
+"### || AUTO المحبوسة في الدين
+",000,False,000,False,False,False,2,28
+"### || AUTO نفقة من أرادت الحج
+",000,False,000,False,False,False,2,57
+"### || AUTO نفقة من لها منزل وخادم ومتاع
+",000,False,000,False,False,False,2,76
+"### || AUTO تنفيذ النفقة على مال الوديعة
+",000,False,000,False,False,False,2,125
+"### | AUTO باب الرضاع
+",000,False,000,False,False,False,1,237
+"### || AUTO رضاع بعد الفطام
+",000,False,000,False,False,False,2,33
+"### || AUTO حليب امرأتين في مسعط
+",000,False,000,False,False,False,2,60
+"### || AUTO من أرضعت إحدى زوجيه أخراهما الصغيرة
+",000,False,000,False,False,False,2,141
+"### | AUTO باب العنين
+",000,False,000,False,False,False,1,292
+"### || AUTO لا خيار للرتقاء
+",000,False,000,False,False,False,2,21
+"### || AUTO خيار زوج المجبوب
+",000,False,000,False,False,False,2,25
+"### || AUTO تزويج بالعنين ثانية
+",000,False,000,False,False,False,2,28
+"### || AUTO تزوجت العنين عالمة
+",000,False,000,False,False,False,2,57
+"### || AUTO الكشف على المجبوب
+",000,False,000,False,False,False,2,68
+"### || AUTO خيار العنة للمولى أم للأمة؟
+",000,False,000,False,False,False,2,30
+"### || AUTO مجبوب خلا بها ثم طلق
+",000,False,000,False,False,False,2,41
+"### || AUTO الخلوة مع المانع
+",000,False,000,False,False,False,2,19
+"### | AUTO باب الطلاق
+",000,False,000,False,False,False,1,1344
+"### || AUTO جعلة الرجعية بائنة
+",000,False,000,False,False,False,2,44
+"### || AUTO عدة المفرق بينها وبين زوجها بزواج فاسد
+",000,False,000,False,False,False,2,43
+"### || AUTO الصغيرة المطلقة جاءت بولد
+",000,False,000,False,False,False,2,55
+"### || AUTO إقرار الصغيرة المطلقة بالحمل أو بانقضاء العدة
+",000,False,000,False,False,False,2,28
+"### || AUTO نسب ابن الصغيرة المتوفى عنها زوجها
+",000,False,000,False,False,False,2,37
+"### || AUTO زوال عذرة الزوجة بالدفعة
+",000,False,000,False,False,False,2,45
+"### || AUTO زوال العذرة بفعل مشترك من الزوج وأجنبي
+",000,False,000,False,False,False,2,33
+"### || AUTO قوله يا طا ...
+",000,False,000,False,False,False,2,81
+"### || AUTO قوله لمن لم يدخل بهما احداكما طالق
+",000,False,000,False,False,False,2,71
+"### || AUTO طالق غير واحدة
+",000,False,000,False,False,False,2,12
+"### || AUTO طالق غير واحدة
+",000,False,000,False,False,False,2,7
+"### || AUTO طالق غير ثنتين
+",000,False,000,False,False,False,2,8
+"### || AUTO طالق غير ثنتين
+",000,False,000,False,False,False,2,7
+"### || AUTO طالق عدد التراب
+",000,False,000,False,False,False,2,9
+"### || AUTO طالق عدد التراب
+",000,False,000,False,False,False,2,28
+"### || AUTO طالق مثل عظم
+",000,False,000,False,False,False,2,11
+"### || AUTO طالق مثل عظم
+",000,False,000,False,False,False,2,19
+"### || AUTO طالق مثل الجبل
+",000,False,000,False,False,False,2,8
+"### || AUTO طالق مثل الجبل
+",000,False,000,False,False,False,2,50
+"### || AUTO طالق مثل الجبل
+",000,False,000,False,False,False,2,10
+"### || AUTO صيغ طلبها التطليق
+",000,False,000,False,False,False,2,39
+"### || AUTO قد أطلقك أو أعتقك الله
+",000,False,000,False,False,False,2,29
+"### || AUTO طلق امرأتك
+",000,False,000,False,False,False,2,8
+"### || AUTO طلق امرأتك
+",000,False,000,False,False,False,2,7
+"### || AUTO الفرق بين فهو وهو في الجواب
+",000,False,000,False,False,False,2,63
+"### || AUTO أنت، فأنت في الجواب
+",000,False,000,False,False,False,2,40
+"### || AUTO اقتران الطلاق باقراره المال
+",000,False,000,False,False,False,2,63
+"### || AUTO طلاق متناول المسكر بإكراه
+",000,False,000,False,False,False,2,85
+"### || AUTO طالق كالنجوم
+",000,False,000,False,False,False,2,11
+"### || AUTO طالق كالنجوم
+",000,False,000,False,False,False,2,15
+"### || AUTO تعليق الطلاق على فعله
+",000,False,000,False,False,False,2,39
+"### || AUTO طلاق ثلاثا للسنة
+",000,False,000,False,False,False,2,39
+"### || AUTO طلقها ثم آيست
+",000,False,000,False,False,False,2,6
+"### || AUTO طلقها ثم آيست
+",000,False,000,False,False,False,2,32
+"### || AUTO أنت طالق من فلانة
+",000,False,000,False,False,False,2,5
+"### || AUTO أنت طالق من فلانة
+",000,False,000,False,False,False,2,20
+"### || AUTO أنت مطلقة
+",000,False,000,False,False,False,2,6
+"### || AUTO أنت مطلقة
+",000,False,000,False,False,False,2,13
+"### || AUTO تعيين عدد الطلقات بالإشارة
+",000,False,000,False,False,False,2,46
+"### || AUTO طالقة كألف أو كالثلاث
+",000,False,000,False,False,False,2,49
+"### || AUTO لا حاجة لي فيك الخ
+",000,False,000,False,False,False,2,39
+"### || AUTO تعيين عدد الطلقات بعد أن سئل عنها
+",000,False,000,False,False,False,2,29
+"### || AUTO أنت طالق أنت
+",000,False,000,False,False,False,2,8
+"### || AUTO أنت طالق أنت
+",000,False,000,False,False,False,2,19
+"### || AUTO أنت طالق أنت
+",000,False,000,False,False,False,2,25
+"### | AUTO باب آخر من الطلاق
+",000,False,000,False,False,False,1,1360
+"### || AUTO اقتران الطلاق بكلما
+",000,False,000,False,False,False,2,119
+"### || AUTO تطليقها بكتاب فيه محو وتغيير
+",000,False,000,False,False,False,2,129
+"### || AUTO كتابته إليها: أنت طالق إن شاء الله
+",000,False,000,False,False,False,2,38
+"### || AUTO مس جسد أم امرأة بشهوة
+",000,False,000,False,False,False,2,30
+"### || AUTO خلع الحائض
+",000,False,000,False,False,False,2,18
+"### || AUTO اختيار المدركة والمعتقة نفسها
+",000,False,000,False,False,False,2,29
+"### || AUTO الاحتلام المشكل
+",000,False,000,False,False,False,2,69
+"### || AUTO الخلوة مع المانع
+",000,False,000,False,False,False,2,33
+"### || AUTO تطليقه زوجة اعتقته
+",000,False,000,False,False,False,2,36
+"### || AUTO تطليق المرتد زوجته
+",000,False,000,False,False,False,2,49
+"### || AUTO تطليق الحربي زوجته المسلمة المهاجرة
+",000,False,000,False,False,False,2,95
+"### || AUTO آلى ثم لحق بدار الحرب
+",000,False,000,False,False,False,2,32
+"### || AUTO تطليق العبد زوجته الحرة للسنة
+",000,False,000,False,False,False,2,25
+"### || AUTO تطليق الحر زوجا اشتراها بعد ذلك
+",000,False,000,False,False,False,2,29
+"### || AUTO إشراك الرابعة في الطلاق
+",000,False,000,False,False,False,2,33
+"### || AUTO مهران عن فجور ونكاح بفعل واحد
+",000,False,000,False,False,False,2,42
+"### || AUTO تعليقه طلاقهن على المبيت عند احداهن
+",000,False,000,False,False,False,2,84
+"### || AUTO تعليقه طلاقها على الزواج
+",000,False,000,False,False,False,2,25
+"### || AUTO تعليق الطلاق على الخطبة والزواج
+",000,False,000,False,False,False,2,31
+"### || AUTO حلف لا يكلم فلانا
+",000,False,000,False,False,False,2,40
+"### || AUTO الفرق بين كما وإذا
+",000,False,000,False,False,False,2,74
+"### || AUTO حلف لا يتزوج من كان لها زوج
+",000,False,000,False,False,False,2,28
+"### || AUTO تعليق طلاق الأخريات على طلاق إحداهن
+",000,False,000,False,False,False,2,74
+"### || AUTO طالق ثم طالق ثم طالق
+",000,False,000,False,False,False,2,12
+"### || AUTO طالق ثم طالق ثم طالق
+",000,False,000,False,False,False,2,64
+"### || AUTO الطلاق بمشتقات المصدر الفارسي هشتن
+",000,False,000,False,False,False,2,117
+"### | AUTO باب آخر من الطلاق
+",000,False,000,False,False,False,1,706
+"### || AUTO إذا حضت فأنت طالق
+",000,False,000,False,False,False,2,18
+"### || AUTO إذا حضت فأنت طالق
+",000,False,000,False,False,False,2,74
+"### || AUTO تعليق طلاقها على صحته من المرض الخ
+",000,False,000,False,False,False,2,144
+"### || AUTO طلق أو أعتق ثم مات قبل البيان
+",000,False,000,False,False,False,2,80
+"### || AUTO مم يكون الاستثناء
+",000,False,000,False,False,False,2,273
+"### || AUTO إن فعلت كذا ما دمت
+",000,False,000,False,False,False,2,12
+"### || AUTO إن فعلت كذا ما دمت
+",000,False,000,False,False,False,2,62
+"### || AUTO تطليقة نساء أهل الري أو الدنيا
+",000,False,000,False,False,False,2,38
+"### | AUTO باب الخيار وأمرك بيدك
+",000,False,000,False,False,False,1,490
+"### || AUTO طلقا أنفسكما
+",000,False,000,False,False,False,2,12
+"### || AUTO طلقا أنفسكما
+",000,False,000,False,False,False,2,9
+"### || AUTO طلقا أنفسكما
+",000,False,000,False,False,False,2,22
+"### || AUTO ردها الخيار
+",000,False,000,False,False,False,2,80
+"### || AUTO جعل أمرها بيدها
+",000,False,000,False,False,False,2,37
+"### || AUTO مجلس الخيار
+",000,False,000,False,False,False,2,70
+"### || AUTO طالق إن شئت أو أبيت
+",000,False,000,False,False,False,2,40
+"### || AUTO طالق إن شئت أو أبيت
+",000,False,000,False,False,False,2,12
+"### || AUTO هذه طالق
+",000,False,000,False,False,False,2,15
+"### || AUTO هذه طالق
+",000,False,000,False,False,False,2,13
+"### || AUTO إن شاء الله طالق
+",000,False,000,False,False,False,2,24
+"### || AUTO طالق إن شئت وشئت وشئت
+",000,False,000,False,False,False,2,11
+"### || AUTO طالق إن شئت وشئت وشئت
+",000,False,000,False,False,False,2,42
+"### || AUTO تخيرها بعد جعل أمرها بيدها
+",000,False,000,False,False,False,2,28
+"### || AUTO تقديم المشيئة وتأخيرها في الطلاق
+",000,False,000,False,False,False,2,70
+"### | AUTO باب الظهار والإيلاء واللعان
+",000,False,000,False,False,False,1,603
+"### || AUTO ما لا يعد إيلاء
+",000,False,000,False,False,False,2,39
+"### || AUTO تعدد الإيلاء
+",000,False,000,False,False,False,2,63
+"### || AUTO ظاهر منها مائة مرة
+",000,False,000,False,False,False,2,25
+"### || AUTO اعتاقه عبدا مرتدا عن ظهارة
+",000,False,000,False,False,False,2,35
+"### || AUTO آلى وهو مريض
+",000,False,000,False,False,False,2,46
+"### || AUTO آلى أن لا يقربها سنة
+",000,year,000,False,False,False,2,41
+"### || AUTO تعليق الإيلاء على شرط معدوم
+",000,False,000,False,False,False,2,41
+"### || AUTO ما يمتنع على المظاهر
+",000,False,000,False,False,False,2,42
+"### || AUTO ما يمتنع في الاستبراء
+",000,False,000,False,False,False,2,17
+"### || AUTO لغلط في المظاهر منها
+",000,False,000,False,False,False,2,39
+"### || AUTO ملاعنة أو مطلقة ارتدت ثم سبيت
+",000,False,000,False,False,False,2,55
+"### || AUTO لا تحل الأمة المطلقة ما لم تنكح زوجا غيره
+",000,False,000,False,False,False,2,89
+"### || AUTO من صور نفي الولد
+",000,False,000,False,False,False,2,66
+"### | AUTO باب الصيد والأضاحي
+",000,False,000,False,False,False,1,721
+"### || AUTO مسائل الصيد
+",000,False,000,False,False,False,2,432
+"### ||| AUTO السمك
+",000,False,000,False,False,False,3,50
+"### ||| AUTO ذكاة الجنين
+",000,False,000,False,False,False,3,18
+"### ||| AUTO ذكاة الجنين
+",000,False,000,False,False,False,3,43
+"### ||| AUTO ذكاة الجنين
+",000,False,000,False,False,False,3,8
+"### ||| AUTO سمكة مشدودة تبتلع
+",000,False,000,False,False,False,3,64
+"### ||| AUTO ذكاة الصيد
+",000,False,000,False,False,False,3,81
+"### ||| AUTO ما صاده الكلب المرسل
+",000,False,000,False,False,False,3,68
+"### ||| AUTO شروط حل الصيد
+",000,False,000,False,False,False,3,74
+"### ||| AUTO السمك الميت
+",000,False,000,False,False,False,3,23
+"### || AUTO مسائل الضحايا
+",000,False,000,False,False,False,2,285
+"### ||| AUTO عمن يضحى
+",000,False,000,False,False,False,3,61
+"### ||| AUTO الغلط في الأضحية
+",000,False,000,False,False,False,3,55
+"### ||| AUTO مكان الأضحية وزمانها
+",000,False,000,False,False,False,3,56
+"### ||| AUTO جلد الأضحية
+",000,False,000,False,False,False,3,10
+"### ||| AUTO جلد الأضحية
+",000,False,000,False,False,False,3,23
+"### ||| AUTO معيار الموسر
+",000,False,000,False,False,False,3,32
+"### ||| AUTO ضحى بشاة مغصوبة
+",000,False,000,False,False,False,3,22
+"### ||| AUTO شاة أعورت
+",000,False,000,False,False,False,3,23
+"### | AUTO باب آخر في الصيد
+",000,False,000,False,False,False,1,541
+"### || AUTO لأي الراميين؟
+",000,False,000,False,False,False,2,66
+"### || AUTO متى يحل الصيد
+",000,False,000,False,False,False,2,62
+"### || AUTO صيد الكلب والبازي
+",000,False,000,False,False,False,2,53
+"### || AUTO الحمامة الأهلية
+",000,False,000,False,False,False,2,28
+"### || AUTO بعير يند
+",000,False,000,False,False,False,2,62
+"### || AUTO حفر بئرا للصيد أو لغير ذلك
+",000,False,000,False,False,False,2,76
+"### || AUTO الصيد وصاحب الأرض
+",000,False,000,False,False,False,2,48
+"### || AUTO صيد دخل دارا
+",000,False,000,False,False,False,2,40
+"### || AUTO العبرة بمن اصطاد آخر مرة
+",000,False,000,False,False,False,2,28
+"### || AUTO انفلات الصيد
+",000,False,000,False,False,False,2,73
+"### | AUTO باب البيوع
+",000,False,000,False,False,False,1,1370
+"### || AUTO اعتاق المشتري المفلس عبدا
+",000,False,000,False,False,False,2,59
+"### || AUTO التسليم الصوري لا يعتبر
+",000,False,000,False,False,False,2,57
+"### || AUTO لا أجل بعد أجل
+",000,False,000,False,False,False,2,81
+"### || AUTO كيل المبيع وصبه
+",000,False,000,False,False,False,2,50
+"### || AUTO حنطة في سنبلها
+",000,False,000,False,False,False,2,7
+"### || AUTO حنطة في سنبلها
+",000,False,000,False,False,False,2,16
+"### || AUTO حنطة في جراب
+",000,False,000,False,False,False,2,27
+"### || AUTO الوزن والجودة
+",000,False,000,False,False,False,2,19
+"### || AUTO القلع والجذاذ على المشتري
+",000,False,000,False,False,False,2,24
+"### || AUTO صوف في فراش
+",000,False,000,False,False,False,2,64
+"### || AUTO هلاك المبيع بعد التخلية
+",000,False,000,False,False,False,2,36
+"### || AUTO قبض المبيع بغير أذن البائع
+",000,False,000,False,False,False,2,90
+"### || AUTO ما يجوز قبل القبض من التصرفات
+",000,False,000,False,False,False,2,25
+"### || AUTO ما لا يجوز قبل القبض من التصرفات
+",000,False,000,False,False,False,2,33
+"### || AUTO حنطة في بيت جزافا
+",000,False,000,False,False,False,2,13
+"### || AUTO حنطة في بيت جزافا
+",000,False,000,False,False,False,2,19
+"### || CHECK بيع فقبض فاقالة فإبراء من الثمن
+",000,False,000,False,False,False,2,10
+"### || AUTO بيع الفضولي
+",000,False,000,False,False,False,2,105
+"### || AUTO إمضاء المستحق البيع
+",000,False,000,False,False,False,2,102
+"### || AUTO هل يدخل البستان في الدار؟
+",000,False,000,False,False,False,2,51
+"### || AUTO جواز شراء الحنطة مكايلة قبل حصادها
+",000,False,000,False,False,False,2,28
+"### || AUTO شراء التبن قبل الدوس وبعده
+",000,False,000,False,False,False,2,34
+"### || AUTO اشتريا بعيرا على أن يتقاسماه
+",000,False,000,False,False,False,2,125
+"### || AUTO متى يضمن من شرط عليه الشراء أن رضى بالدين
+",000,False,000,False,False,False,2,38
+"### || AUTO ثمن ما أخذ على سوم البيع
+",000,False,000,False,False,False,2,24
+"### || AUTO من صور الفضالة
+",000,False,000,False,False,False,2,92
+"### || AUTO كران من حنطة بيع أحدهما ولم يدفع الخ
+",000,False,000,False,False,False,2,66
+"### || AUTO توكيل المشتري البائع ببيع العين
+",000,False,000,False,False,False,2,72
+"### | AUTO باب البيوع الفاسدة
+",000,False,000,False,False,False,1,2961
+"### || AUTO اشتراط الفناء مع الدار
+",000,False,000,False,False,False,2,29
+"### || AUTO بيع من ذبحهم خنق الشاة
+",000,False,000,False,False,False,2,50
+"### || AUTO ذبيحة المجوس
+",000,False,000,False,False,False,2,157
+"### || AUTO البيع المقترن باشتراط حق المبيع
+",000,False,000,False,False,False,2,67
+"### || AUTO بيعي نصفي كر من رجلين على التعاقب
+",000,False,000,False,False,False,2,99
+"### || AUTO اشترى بوعاء غير معروف
+",000,False,000,False,False,False,2,103
+"### || AUTO شراء مياه القرب
+",000,False,000,False,False,False,2,28
+"### || AUTO خروج القبول والرجوع عن الإيجاب معا
+",000,False,000,False,False,False,2,41
+"### || AUTO زيادة سعر البيع
+",000,False,000,False,False,False,2,45
+"### || AUTO ضمان البائع
+",000,False,000,False,False,False,2,38
+"### || AUTO الزيادة في الغصب
+",000,False,000,False,False,False,2,42
+"### || AUTO الزيادة في الغصب
+",000,False,000,False,False,False,2,6
+"### || AUTO ما لا يعد من الأموال ويجوز التعامل وفيه وما لا يجوز
+",000,False,000,False,False,False,2,48
+"### || AUTO بذر القز
+",000,False,000,False,False,False,2,13
+"### || AUTO بذر القز
+",000,False,000,False,False,False,2,14
+"### || AUTO دود القز
+",000,False,000,False,False,False,2,7
+"### || AUTO دود القز
+",000,False,000,False,False,False,2,26
+"### || AUTO السرقين الخ
+",000,False,000,False,False,False,2,39
+"### || AUTO العاج الخ
+",000,False,000,False,False,False,2,17
+"### || AUTO شراء السبع
+",000,False,000,False,False,False,2,27
+"### || AUTO بيع القرد
+",000,False,000,False,False,False,2,12
+"### || AUTO بيع القرد
+",000,False,000,False,False,False,2,18
+"### || AUTO بيع الفيل
+",000,False,000,False,False,False,2,29
+"### || AUTO جواز التجارة مع دار الحرب
+",000,False,000,False,False,False,2,22
+"### || AUTO بيع الصيد في الحرم
+",000,False,000,False,False,False,2,31
+"### || AUTO اشتراط بعض الأوصاف في المبيع
+",000,False,000,False,False,False,2,103
+"### || AUTO اشتراط كون الجارية مغنية
+",000,False,000,False,False,False,2,28
+"### || AUTO اللؤلؤة في الصدف
+",000,False,000,False,False,False,2,42
+"### || AUTO البذر في البطيخ
+",000,False,000,False,False,False,2,21
+"### || AUTO الكرشة في الشاة المذبوحة
+",000,False,000,False,False,False,2,24
+"### || AUTO لؤلؤة في بطن سمكة أو دجاجة
+",000,False,000,False,False,False,2,51
+"### || AUTO تخلف الشرط في البيع
+",000,False,000,False,False,False,2,176
+"### || AUTO ضرورة تحديد المحل بأوصافه تحديدا كافيا
+",000,False,000,False,False,False,2,95
+"### || AUTO فساد البيع بجهالة جزء مما يقع عليه الثمن
+",000,False,000,False,False,False,2,43
+"### || AUTO جواز البيع مع استثناء جزء من المبيع
+",000,False,000,False,False,False,2,19
+"### || AUTO جواز استثناء بيت من دار في البيع
+",000,False,000,False,False,False,2,59
+"### || AUTO اشتراط جزء من المبيع للبائع
+",000,False,000,False,False,False,2,21
+"### || AUTO قيود حرية التجارة
+",000,False,000,False,False,False,2,149
+"### || AUTO ممن تكون الحكرة
+",000,False,000,False,False,False,2,38
+"### || AUTO اشتراط ترك الثمر
+",000,False,000,False,False,False,2,52
+"### || AUTO الخيار للبائع أو للمشتري والمبيع شيئان
+",000,False,000,False,False,False,2,85
+"### || AUTO لا رد بعد عرض أحدهما على البيع
+",000,False,000,False,False,False,2,39
+"### || AUTO خيار الرؤية والعيب
+",000,False,000,False,False,False,2,46
+"### || AUTO رؤية الوجه
+",000,False,000,False,False,False,2,35
+"### || AUTO ما يعد رؤية في شراء البهائم
+",000,False,000,False,False,False,2,43
+"### || AUTO العبرة في رؤية الأمة والعبد بالوجه
+",000,False,000,False,False,False,2,47
+"### || AUTO الرؤية في شاة القنية
+",000,False,000,False,False,False,2,25
+"### || AUTO العبرة في رؤية السوائل في أوعيتها
+",000,False,000,False,False,False,2,51
+"### || AUTO العبرة في رؤية الجبة المبطنة
+",000,False,000,False,False,False,2,40
+"### || AUTO إبراء المشتري من الثمن
+",000,False,000,False,False,False,2,38
+"### || AUTO خيار الرؤية في شراء الجزر في أرضه
+",000,False,000,False,False,False,2,102
+"### || AUTO جعل مدة الخيار بعد مضي شهر
+",000,False,000,False,False,False,2,50
+"### || AUTO تجديد وقصاص
+",000,False,000,False,False,False,2,50
+"### || AUTO سمكة في بطنها حجر
+",000,False,000,False,False,False,2,48
+"### || AUTO سمكة في بطنها طعام
+",000,False,000,False,False,False,2,17
+"### || AUTO سمكة في بطنها لؤلؤة
+",000,False,000,False,False,False,2,19
+"### || AUTO نقص مخزن الغلة المبيعة جزافا
+",000,False,000,False,False,False,2,42
+"### || AUTO طعام في جب
+",000,False,000,False,False,False,2,27
+"### || AUTO متى يبطل الخيار
+",000,False,000,False,False,False,2,70
+"### || AUTO الخيار في عدل بر بعبد
+",000,False,000,False,False,False,2,115
+"### || AUTO بطلان خيار الرؤية في الشاة
+",000,False,000,False,False,False,2,39
+"### | AUTO باب العيوب
+",000,False,000,False,False,False,1,982
+"### || AUTO ما يعد من التصرفات رضاء بالمبيع
+",000,False,000,False,False,False,2,49
+"### || AUTO عيوب الجبة والثوب
+",000,False,000,False,False,False,2,44
+"### || AUTO غلام سرق عند البائع وعند المشتري
+",000,False,000,False,False,False,2,30
+"### || AUTO عيب في ثوب قطعه المشتري قطعتين
+",000,False,000,False,False,False,2,43
+"### || AUTO عيب في طعام أكل منه أو باع بعضه
+",000,False,000,False,False,False,2,93
+"### || AUTO عيب ما أسلم فيه
+",000,False,000,False,False,False,2,129
+"### || AUTO مطلب: عرض بيع النصف
+",000,False,000,False,False,False,2,43
+"### || AUTO برئ من كل داء
+",000,False,000,False,False,False,2,14
+"### || AUTO برئ من كل داء
+",000,False,000,False,False,False,2,26
+"### || AUTO عبد احتلم ولم يختن
+",000,False,000,False,False,False,2,40
+"### || AUTO كيفية الرد بالعيب
+",000,False,000,False,False,False,2,47
+"### || AUTO أباق الجارية
+",000,False,000,False,False,False,2,63
+"### || AUTO بيع المشتري نصف المبيع يمنع الرد بالعيب
+",000,False,000,False,False,False,2,38
+"### || AUTO بيعان متعاقبان
+",000,False,000,False,False,False,2,44
+"### || AUTO مداواة المشتري المبيع رضاء بالعيب
+",000,False,000,False,False,False,2,35
+"### || AUTO شراء أمتين بإحداهما عيب
+",000,False,000,False,False,False,2,47
+"### || AUTO أمة ترضع
+",000,False,000,False,False,False,2,9
+"### || AUTO أمة ترضع
+",000,False,000,False,False,False,2,22
+"### || AUTO جز صوف الشاة رضا
+",000,False,000,False,False,False,2,19
+"### || AUTO العنة والخصى
+",000,False,000,False,False,False,2,5
+"### || AUTO العنة والخصى
+",000,False,000,False,False,False,2,78
+"### || AUTO ما يعد عيبا في العبد المغصوب
+",000,False,000,False,False,False,2,34
+"### || AUTO متى يرد العبد المعيب
+",000,False,000,False,False,False,2,27
+"### | AUTO باب السلم
+",000,False,000,False,False,False,1,411
+"### || AUTO مجلس العقد
+",000,False,000,False,False,False,2,37
+"### || AUTO شروط صحة السلم
+",000,False,000,False,False,False,2,62
+"### || AUTO أسلم ما يكال وزنا
+",000,False,000,False,False,False,2,39
+"### || AUTO اللحم باللحم
+",000,False,000,False,False,False,2,53
+"### || AUTO العنب بالزبيب
+",000,False,000,False,False,False,2,7
+"### || AUTO العنب بالزبيب
+",000,False,000,False,False,False,2,47
+"### || AUTO العنب بالزبيب
+",000,False,000,False,False,False,2,7
+"### || AUTO العبد بالطعام
+",000,False,000,False,False,False,2,38
+"### || AUTO الثوب بالغزل
+",000,False,000,False,False,False,2,7
+"### || AUTO الثوب بالغزل
+",000,False,000,False,False,False,2,26
+"### || AUTO القطن بالقطن
+",000,False,000,False,False,False,2,31
+"### || AUTO الخبز بالحنطة
+",000,False,000,False,False,False,2,24
+"### || AUTO استقراض الخبز
+",000,False,000,False,False,False,2,11
+"### || AUTO استقراض الخبز
+",000,False,000,False,False,False,2,9
+"### || AUTO استقراض الخبز
+",000,False,000,False,False,False,2,10
+"### | AUTO باب آخر من البيوع
+",000,False,000,False,False,False,1,909
+"### || AUTO ما يعد من حقوق المبيع التابعة له في البيع وما لا يعد
+",000,False,000,False,False,False,2,43
+"### || AUTO حقوق الدار
+",000,False,000,False,False,False,2,3
+"### || AUTO الرحاء من عمارة الضيعة
+",000,False,000,False,False,False,2,30
+"### || AUTO حقوق الدار
+",000,False,000,False,False,False,2,34
+"### || AUTO حقوق الدار
+",000,False,000,False,False,False,2,27
+"### || AUTO القيود المترتبة على منازل الزقاق
+",000,False,000,False,False,False,2,52
+"### || AUTO بيع العبد بكر
+",000,False,000,False,False,False,2,29
+"### || AUTO بيع الغاصب المغصوب مرابحة بعد قضاء قيمته الخ
+",000,False,000,False,False,False,2,76
+"### || AUTO الفرق بين هو وفهو
+",000,False,000,False,False,False,2,32
+"### || AUTO متى يفسد شراء البيض
+",000,False,000,False,False,False,2,24
+"### || AUTO دجاجة بعشر بيضات فباضت عشرا
+",000,False,000,False,False,False,2,51
+"### || AUTO ساوم على قدح فكسر أقداحا
+",000,False,000,False,False,False,2,32
+"### || AUTO هبة المبيع وثمنه نقض للبيع
+",000,False,000,False,False,False,2,47
+"### || AUTO أثر اليد في تحديد قيمة المساوم عليه
+",000,False,000,False,False,False,2,43
+"### || AUTO جهالة أجل الثمن
+",000,False,000,False,False,False,2,30
+"### || AUTO استحقاق توابع المبيع
+",000,False,000,False,False,False,2,47
+"### || AUTO كسوة الجارية المبيعة
+",000,False,000,False,False,False,2,34
+"### || AUTO شراء كمية بغير عينها من العدديات المتفاوتة
+",000,False,000,False,False,False,2,57
+"### || AUTO شراء عشرة من البطيخ والرمان
+",000,False,000,False,False,False,2,33
+"### || AUTO ما يجوز من التصرفات قبل قبض المبيع
+",000,False,000,False,False,False,2,125
+"### || AUTO إعتاق ما في بطنها
+",000,False,000,False,False,False,2,55
+"### | AUTO باب آخر من البيوع
+",000,False,000,False,False,False,1,736
+"### || AUTO ما يدخل في الأرض المبيعة
+",000,False,000,False,False,False,2,68
+"### || AUTO حكم سقوط فص الخاتم المبيع قبل قبضه
+",000,False,000,False,False,False,2,67
+"### || AUTO احتراق القميص المبيع عدا كميه قبل القبض الخ
+",000,False,000,False,False,False,2,124
+"### || AUTO اعتاق أحد المشترين الجارية قبل القبض
+",000,False,000,False,False,False,2,31
+"### || AUTO بيع الجارية لرجل وما في بطنها لآخر
+",000,False,000,False,False,False,2,60
+"### || AUTO بيع العبد بين أبيه وآخر صفقة واحدة
+",000,False,000,False,False,False,2,65
+"### || AUTO قبض ما يعد قبل عده
+",000,False,000,False,False,False,2,39
+"### || AUTO أيهما يضمن بائع الشاة أم المأمور بذبحها؟
+",000,False,000,False,False,False,2,83
+"### || AUTO إعارة البائع المبيع أو هبته قبل القبض
+",000,False,000,False,False,False,2,35
+"### || AUTO بيع الفص في الخاتم
+",000,False,000,False,False,False,2,66
+"### || AUTO تغير المبيع قبل القبول
+",000,False,000,False,False,False,2,93
+"### | AUTO باب الأيمان
+",000,False,000,False,False,False,1,837
+"### || AUTO قدرة الله وعزته
+",000,False,000,False,False,False,2,21
+"### || AUTO البراءة مما في المصحف الخ
+",000,False,000,False,False,False,2,30
+"### || AUTO وجه الله وحق الله
+",000,False,000,False,False,False,2,48
+"### || AUTO وجه الله وحق الله
+",000,False,000,False,False,False,2,18
+"### || AUTO سلطان الله
+",000,False,000,False,False,False,2,10
+"### || AUTO سلطان الله
+",000,False,000,False,False,False,2,15
+"### || AUTO استحلاف المظلوم
+",000,False,000,False,False,False,2,36
+"### || AUTO اللغو في الأيمان
+",000,False,000,False,False,False,2,57
+"### || AUTO رؤية المحلوف عليه في زجاجة
+",000,False,000,False,False,False,2,60
+"### || AUTO من حلف لا يبيع لفلان شيئا
+",000,False,000,False,False,False,2,33
+"### || AUTO تعذر الفعل المحلوف عليه
+",000,False,000,False,False,False,2,75
+"### || AUTO الأذن العام الخ
+",000,False,000,False,False,False,2,103
+"### || AUTO معيار الصفة المحلوف عليها
+",000,False,000,False,False,False,2,38
+"### || AUTO التعليق المضاف إلى أجل
+",000,False,000,False,False,False,2,48
+"### || AUTO الفرق بين قراءة الكتاب والنظر فيه
+",000,False,000,False,False,False,2,48
+"### || AUTO حلف ليزورن فلانا
+",000,False,000,False,False,False,2,10
+"### || AUTO حلف ليزورن فلانا
+",000,False,000,False,False,False,2,18
+"### || AUTO الفرق بين الله ووالله ليفعلن كذا
+",000,False,000,False,False,False,2,77
+"### || AUTO حلف على فعل المستحيل
+",000,False,000,False,False,False,2,38
+"### || AUTO الحلف على ما يقبل التجزئة وماله أفراد
+",000,False,000,False,False,False,2,51
+"### | AUTO باب آخر من الأيمان
+",000,False,000,False,False,False,1,534
+"### || AUTO إتيان ما حلف على الامتناع عنه دون علم
+",000,False,000,False,False,False,2,117
+"### || AUTO الفرق بين قضاء الوكيل وقضاء المتطوع وبين حوالة الدين وحوالة الحق
+",000,False,000,False,False,False,2,60
+"### || AUTO قبض الطالب وقبض وكيله
+",000,False,000,False,False,False,2,19
+"### || AUTO الفرق بين أخذ الرهن بالدين وبين قبضه
+",000,False,000,False,False,False,2,27
+"### || AUTO الحلف وأنواع القبض
+",000,False,000,False,False,False,2,51
+"### || AUTO الفرق بين استهلاك ما يكال ويوزن وبين استهلاك غيره
+",000,False,000,False,False,False,2,82
+"### || AUTO الحلف على ما لا يدخل في البيع إلا بشرط
+",000,False,000,False,False,False,2,23
+"### || AUTO نبتت واشترط ذلك معها حنث.
+",000,False,000,False,False,False,2,57
+"### || AUTO من حلف على عدم فعل شيء فأتاه غيره
+",000,False,000,False,False,False,2,53
+"### || AUTO الفرق بين التوكيل بالصلح والخصومة وبين التوكيل بالهبة والتقاضي
+",000,False,000,False,False,False,2,40
+"### | AUTO باب كفارة اليمين
+",000,False,000,False,False,False,1,630
+"### || AUTO متى يجز الصيام
+",000,False,000,False,False,False,2,57
+"### || AUTO الكسوة
+",000,False,000,False,False,False,2,32
+"### || AUTO كفارة الظهار
+",000,False,000,False,False,False,2,12
+"### || AUTO كفارة الظهار
+",000,False,000,False,False,False,2,11
+"### || AUTO من لديه دين ولا يقدر على أخذه
+",000,False,000,False,False,False,2,47
+"### || AUTO الكسوة
+",000,False,000,False,False,False,2,10
+"### || AUTO الكسوة
+",000,False,000,False,False,False,2,46
+"### || AUTO حكم الطعام
+",000,False,000,False,False,False,2,25
+"### || AUTO ما يجزي في الكفارة من الإطعام
+",000,False,000,False,False,False,2,51
+"### || AUTO إعتاق أقطع الأذنين
+",000,False,000,False,False,False,2,94
+"### || AUTO خمسة أصوع بين عشرة
+",000,False,000,False,False,False,2,14
+"### || AUTO خمسة أصوع بين عشرة
+",000,False,000,False,False,False,2,55
+"### || AUTO أوصاف العبد في كفارة اليمين والظهار
+",000,False,000,False,False,False,2,172
+"### | CHECK باب اليمين في الدخول والمساكنة
+",000,False,000,False,False,False,1,935
+"### || AUTO المساكنة
+",000,False,000,False,False,False,2,2
+"### || AUTO المساكنة
+",000,False,000,False,False,False,2,51
+"### || AUTO دخول الدار
+",000,False,000,False,False,False,2,48
+"### || AUTO مساكنة عبد فلان
+",000,False,000,False,False,False,2,46
+"### || AUTO دخول بغداد
+",000,False,000,False,False,False,2,58
+"### || AUTO خروجها بإذنه
+",000,False,000,False,False,False,2,91
+"### || AUTO دخول دار أو حانوت لفلان
+",000,False,000,False,False,False,2,51
+"### || AUTO دخول المسجد
+",000,False,000,False,False,False,2,30
+"### || AUTO الخروج من الدار
+",000,False,000,False,False,False,2,64
+"### || AUTO سكنى المنزل
+",000,False,000,False,False,False,2,89
+"### || AUTO الخروج من البلد
+",000,False,000,False,False,False,2,14
+"### || AUTO الخروج من البلد
+",000,False,000,False,False,False,2,47
+"### || AUTO أثر الميل في دخول الدار
+",000,False,000,False,False,False,2,31
+"### || AUTO دخول الفسطاط
+",000,False,000,False,False,False,2,32
+"### || AUTO الأسطوانة
+",000,False,000,False,False,False,2,9
+"### || AUTO الأسطوانة
+",000,False,000,False,False,False,2,47
+"### || AUTO إسكان المستأجر
+",000,False,000,False,False,False,2,62
+"### || AUTO حلف لا يخرج
+",000,False,000,False,False,False,2,6
+"### || AUTO حلف لا يخرج
+",000,False,000,False,False,False,2,14
+"### || AUTO النزول بالكوفة الخ
+",000,False,000,False,False,False,2,38
+"### || AUTO مساكنة فلان
+",000,False,000,False,False,False,2,94
+"### | AUTO باب اليمين في الأكل والشرب
+",000,False,000,False,False,False,1,711
+"### || AUTO الأكل من كسب فلان أو طعامه
+",000,False,000,False,False,False,2,119
+"### || AUTO الدواء
+",000,False,000,False,False,False,2,25
+"### || AUTO الدواء
+",000,False,000,False,False,False,2,10
+"### || AUTO طعامك
+",000,False,000,False,False,False,2,8
+"### || AUTO طعامك
+",000,False,000,False,False,False,2,16
+"### || AUTO حلف لا يتعشى
+",000,False,000,False,False,False,2,6
+"### || AUTO حلف لا يتعشى
+",000,False,000,False,False,False,2,11
+"### || AUTO لا يأكل حراما
+",000,False,000,False,False,False,2,11
+"### || AUTO لا يأكل حراما
+",000,False,000,False,False,False,2,64
+"### || AUTO لا يأكل حراما
+",000,False,000,False,False,False,2,19
+"### || AUTO ما يؤكل وما لا يؤكل
+",000,False,000,False,False,False,2,32
+"### || AUTO لا يأكل الدراهم
+",000,False,000,False,False,False,2,38
+"### || AUTO لا يأكل فاكهة
+",000,False,000,False,False,False,2,19
+"### || AUTO لا يأكل فاكهة
+",000,False,000,False,False,False,2,14
+"### || AUTO لا يأكل سكرا
+",000,False,000,False,False,False,2,8
+"### || AUTO لا يأكل سكرا
+",000,False,000,False,False,False,2,13
+"### || AUTO لا يأكل عنبا
+",000,False,000,False,False,False,2,8
+"### || AUTO لا يأكل عنبا
+",000,False,000,False,False,False,2,19
+"### || AUTO لا يأكل عسلا
+",000,False,000,False,False,False,2,11
+"### || AUTO لا يأكل عسلا
+",000,False,000,False,False,False,2,16
+"### || AUTO الغداء والعشاء
+",000,False,000,False,False,False,2,34
+"### || AUTO الحلف على آكل البيض والأمر بشرائه
+",000,False,000,False,False,False,2,31
+"### || AUTO الخبيص غير السمن
+",000,False,000,False,False,False,2,29
+"### || AUTO التمر غير العصيدة
+",000,False,000,False,False,False,2,16
+"### || AUTO ماء دجلة
+",000,False,000,False,False,False,2,16
+"### || AUTO ماء دجلة
+",000,False,000,False,False,False,2,15
+"### || AUTO الأدام
+",000,False,000,False,False,False,2,31
+"### || AUTO الزبيب والكشمش
+",000,False,000,False,False,False,2,28
+"### || AUTO النظر إلى وجه امرأة
+",000,False,000,False,False,False,2,33
+"### || CHECK ثوب من نسج فلان
+",000,False,000,False,False,False,2,5
+"### | AUTO باب اليمين في اللبس
+",000,False,000,False,False,False,1,322
+"### || AUTO غزل امرأته
+",000,False,000,False,False,False,2,16
+"### || AUTO غزل امرأته
+",000,False,000,False,False,False,2,35
+"### || AUTO ثوب من غزلها
+",000,False,000,False,False,False,2,23
+"### || AUTO نسج فلان
+",000,False,000,False,False,False,2,9
+"### || AUTO نسج فلان
+",000,False,000,False,False,False,2,33
+"### || AUTO نسج فلان
+",000,False,000,False,False,False,2,10
+"### || AUTO نسج فلان
+",000,False,000,False,False,False,2,23
+"### || AUTO الثوب والمعطف
+",000,False,000,False,False,False,2,21
+"### || AUTO الثوب الجديد
+",000,False,000,False,False,False,2,24
+"### || AUTO الغزل والملاءة
+",000,False,000,False,False,False,2,56
+"### || AUTO حلف لا يلبس فأكره
+",000,False,000,False,False,False,2,30
+"### || AUTO حلف لا يسكن دارا فأكره
+",000,False,000,False,False,False,2,32
+"### || CHECK يوم 
+",000,False,000,False,False,False,2,2
+"### || AUTO الجمع
+",000,False,000,False,False,False,2,3
+"### | AUTO باب اليمين في الكلام
+",000,False,000,False,False,False,1,422
+"### || AUTO 
+",000,False,000,False,False,False,2,1
+"### || AUTO الجمع
+",000,False,000,False,False,False,2,22
+"### || AUTO 
+",000,False,000,False,False,False,2,1
+"### || AUTO الجمع
+",000,False,000,False,False,False,2,8
+"### || AUTO 
+",000,False,000,False,False,False,2,1
+"### || AUTO الجمع
+",000,False,000,False,False,False,2,7
+"### || AUTO 
+",000,False,000,False,False,False,2,1
+"### || AUTO الجمع
+",000,False,000,False,False,False,2,14
+"### || AUTO الجمع
+",000,False,000,False,False,False,2,7
+"### || AUTO الجمع
+",000,False,000,False,False,False,2,11
+"### || AUTO مليا
+",000,False,000,False,False,False,2,6
+"### || AUTO مليا
+",000,False,000,False,False,False,2,16
+"### || AUTO العمر وعمرا
+",000,False,000,False,False,False,2,36
+"### || AUTO ما دام
+",000,False,000,False,False,False,2,27
+"### || AUTO الشتاء والصيف
+",000,False,000,False,False,False,2,53
+"### || AUTO اليوم أو غدا
+",000,False,000,False,False,False,2,12
+"### || AUTO اليوم أو غدا
+",000,False,000,False,False,False,2,27
+"### || AUTO اليوم أو غدا
+",000,False,000,False,False,False,2,12
+"### || AUTO لا أكلم فلانا
+",000,False,000,False,False,False,2,10
+"### || AUTO لا أكلم فلانا
+",000,False,000,False,False,False,2,17
+"### || AUTO 
+",000,False,000,False,False,False,2,1
+"### || AUTO لا أكلم فلانا
+",000,False,000,False,False,False,2,33
+"### || AUTO اليوم ولا غدا ولا بعد غد
+",000,False,000,False,False,False,2,17
+"### || AUTO اليوم ولا غدا ولا بعد غد
+",000,False,000,False,False,False,2,26
+"### || AUTO اليوم وغدا وبعد غد
+",000,False,000,False,False,False,2,10
+"### || AUTO اليوم وغدا وبعد غد
+",000,False,000,False,False,False,2,17
+"### || AUTO حلف لا يكلمها
+",000,False,000,False,False,False,2,24
+"### | AUTO باب اليمين في الأفعال
+",000,False,000,False,False,False,1,1469
+"### || AUTO لا يشترى صوفا
+",000,False,000,False,False,False,2,45
+"### || AUTO لا يشترى دهنا
+",000,False,000,False,False,False,2,26
+"### || AUTO لا يدهن بدهن
+",000,False,000,False,False,False,2,21
+"### || AUTO لا يؤاجر
+",000,False,000,False,False,False,2,10
+"### || AUTO لا يؤاجر
+",000,False,000,False,False,False,2,32
+"### || AUTO لا يعتق عبده
+",000,False,000,False,False,False,2,7
+"### || AUTO لا يعتق عبده
+",000,False,000,False,False,False,2,20
+"### || CHECK علق على فعله الشيء مرة أو مرتين
+",000,False,000,False,False,False,2,8
+"### || CHECK أشهد أنه يصلي لنفسه
+",000,False,000,False,False,False,2,5
+"### || CHECK لا يؤم أحدا
+",000,False,000,False,False,False,2,4
+"### || CHECK إن 00 ثم لم
+",000,False,000,False,False,False,2,5
+"### || AUTO لا يسلم الشفعة
+",000,False,000,False,False,False,2,18
+"### || AUTO لا يصلي بصلاة فلان
+",000,False,000,False,False,False,2,35
+"### || AUTO التمشيط وعقد الشعر
+",000,False,000,False,False,False,2,29
+"### || AUTO المقصود بالأهل
+",000,False,000,False,False,False,2,48
+"### || AUTO إذا 00 فلم
+",000,False,000,False,False,False,2,241
+"### || AUTO من صور المبالغة
+",000,False,000,False,False,False,2,31
+"### || AUTO لا ترفع من ماله شيئا
+",000,False,000,False,False,False,2,15
+"### || AUTO لا ترفع من ماله شيئا
+",000,False,000,False,False,False,2,45
+"### || AUTO لا يشتري أمة أو لا يتزوج امرأة
+",000,False,000,False,False,False,2,44
+"### || AUTO لأضربنك حتى
+",000,False,000,False,False,False,2,9
+"### || AUTO لأضربنك حتى
+",000,False,000,False,False,False,2,11
+"### || AUTO لأضربنك حتى
+",000,False,000,False,False,False,2,12
+"### || AUTO من هو أول مبشر
+",000,False,000,False,False,False,2,39
+"### || AUTO التعليق على ذكر فلان
+",000,False,000,False,False,False,2,54
+"### || AUTO لا يأتمن فلانا
+",000,False,000,False,False,False,2,9
+"### || AUTO لا يأتمن فلانا
+",000,False,000,False,False,False,2,30
+"### || AUTO تعليق الطلاق على صبغ الثوب
+",000,False,000,False,False,False,2,43
+"### || AUTO الضرب بالسيف
+",000,False,000,False,False,False,2,21
+"### || AUTO تعليق العتق على ركعة
+",000,False,000,False,False,False,2,93
+"### || AUTO لا ألبس السواد
+",000,False,000,False,False,False,2,28
+"### || AUTO لا ألبس السواد
+",000,False,000,False,False,False,2,9
+"### || AUTO ليتزوجن سرا
+",000,False,000,False,False,False,2,7
+"### || AUTO ليتزوجن سرا
+",000,False,000,False,False,False,2,13
+"### || AUTO لا يتزوج من نساء أهل البصرة
+",000,False,000,False,False,False,2,15
+"### || AUTO لا يتزوج من نساء أهل البصرة
+",000,False,000,False,False,False,2,31
+"### || AUTO التعليق على اراءة نفسه
+",000,False,000,False,False,False,2,47
+"### || AUTO لا يدخل الدار إلا ناسيا
+",000,False,000,False,False,False,2,25
+"### || AUTO لتغزلن اليوم قطنا بدرهم
+",000,False,000,False,False,False,2,18
+"### || AUTO لتغزلن اليوم قطنا بدرهم
+",000,False,000,False,False,False,2,14
+"### || AUTO ليغذينه بألف درهم
+",000,False,000,False,False,False,2,41
+"### || AUTO المدعى عليه يحلف ويقضى عليه
+",000,False,000,False,False,False,2,49
+"### || AUTO الرؤية في المرآة
+",000,False,000,False,False,False,2,20
+"### || AUTO قضاء الدين نفقة
+",000,False,000,False,False,False,2,25
+"### || AUTO قضاء الدين نفقة
+",000,False,000,False,False,False,2,4
+"### || AUTO ليزورن فلانا
+",000,False,000,False,False,False,2,6
+"### || AUTO ليزورن فلانا
+",000,False,000,False,False,False,2,27
+"### || AUTO الأذن بالخروج
+",000,False,000,False,False,False,2,75
+"### | AUTO باب الدعوى والبيانات
+",000,False,000,False,False,False,1,1902
+"### || AUTO شاة في يد كل منهما
+",000,False,000,False,False,False,2,73
+"### || AUTO رجلان على دابة
+",000,False,000,False,False,False,2,13
+"### || AUTO رجلان على دابة
+",000,False,000,False,False,False,2,22
+"### || AUTO ميراث المدركة
+",000,False,000,False,False,False,2,48
+"### || AUTO القول لرب الأرض
+",000,False,000,False,False,False,2,31
+"### || AUTO تقسيم الأجرة بين الغاصب الباني ورب الأرض
+",000,False,000,False,False,False,2,49
+"### || AUTO إهدار دعوى من يكذبه الظاهر
+",000,False,000,False,False,False,2,30
+"### || AUTO تعارض دعوى رجل وامرأة في الزواج وملك الدار
+",000,False,000,False,False,False,2,61
+"### || AUTO الاختلاف على المبيع أو توابعه
+",000,False,000,False,False,False,2,71
+"### || AUTO الحلف في دعوى المال إلى أجل قبل حلوله
+",000,False,000,False,False,False,2,101
+"### || AUTO دعوى المستأجر والمشتري ملك العين
+",000,False,000,False,False,False,2,89
+"### || AUTO جارية في يدي رجل ادعاها رجلان
+",000,False,000,False,False,False,2,12
+"### || AUTO جارية في يدي رجل ادعاها رجلان
+",000,False,000,False,False,False,2,62
+"### || AUTO ادعاء دار
+",000,False,000,False,False,False,2,43
+"### || AUTO نسب ابن جارية بين اثنين أو أكثر
+",000,False,000,False,False,False,2,79
+"### || AUTO الاستثناء في الشهادة
+",000,False,000,False,False,False,2,61
+"### || AUTO تضمين الشهود
+",000,False,000,False,False,False,2,237
+"### || AUTO الشهادة على الوصية لفقراء الجيران
+",000,False,000,False,False,False,2,65
+"### || AUTO الشهادة على إسلام من يجحد أنه اسلم
+",000,False,000,False,False,False,2,36
+"### || AUTO شهادة أهل الذمة على المرتد
+",000,False,000,False,False,False,2,28
+"### || AUTO شهادة أهل الذمة على المرتد
+",000,False,000,False,False,False,2,7
+"### || AUTO قضايا استحقاق المبيع
+",000,False,000,False,False,False,2,149
+"### || AUTO باع أم ولده
+",000,False,000,False,False,False,2,6
+"### || AUTO باع أم ولده
+",000,False,000,False,False,False,2,50
+"### || AUTO تضمين الشهود على صفة الوارث
+",000,False,000,False,False,False,2,79
+"### || AUTO دار لها مستأجران ومدعيان
+",000,False,000,False,False,False,2,49
+"### || AUTO ادعى أمة في يدي آخر
+",000,False,000,False,False,False,2,107
+"### || AUTO البينة على العتق
+",000,False,000,False,False,False,2,40
+"### || AUTO البينة على العتق
+",000,False,000,False,False,False,2,13
+"### || AUTO نسب أولاد جارية ولدت ثلاثة
+",000,False,000,False,False,False,2,87
+"### || AUTO الرجوع في الحائط المستحق
+",000,False,000,False,False,False,2,100
+"### | AUTO باب أدب القاضي
+",000,False,000,False,False,False,1,607
+"### || AUTO طلب القضاء والتعرض له
+",000,False,000,False,False,False,2,49
+"### || AUTO اتخاذ قيم
+",000,False,000,False,False,False,2,17
+"### || AUTO تأديب الخصم المتطاول
+",000,False,000,False,False,False,2,18
+"### || AUTO بيع القاضي وشراؤه
+",000,False,000,False,False,False,2,37
+"### || AUTO قبول الهدية والاستقراض الخ
+",000,False,000,False,False,False,2,46
+"### || AUTO المساواة بين الخصمين
+",000,False,000,False,False,False,2,24
+"### || AUTO مدافعة الخصوم الأقارب
+",000,False,000,False,False,False,2,23
+"### || AUTO أقضية قاضي السوء
+",000,False,000,False,False,False,2,31
+"### || AUTO انعزال القاضي الجائر
+",000,False,000,False,False,False,2,32
+"### || AUTO اقتران التولية بشرط العدالة دلالة
+",000,False,000,False,False,False,2,77
+"### || AUTO ولاة الخليفة بعد موته
+",000,False,000,False,False,False,2,68
+"### || AUTO تخبئة الشاهد
+",000,False,000,False,False,False,2,36
+"### || AUTO الاتفاق على الإقرار أمام الشهود
+",000,False,000,False,False,False,2,42
+"### || AUTO كتاب القاضي
+",000,False,000,False,False,False,2,56
+"### || AUTO العدوي
+",000,False,000,False,False,False,2,47
+"### | AUTO باب الخصومة عند القاضي
+",000,False,000,False,False,False,1,941
+"### || AUTO سير المرافعة أمام القاضي
+",000,False,000,False,False,False,2,58
+"### || AUTO صيغة اليمين في دعوى المال
+",000,False,000,False,False,False,2,68
+"### || AUTO صيغة اليمين في دعوى المطالبة بالعين
+",000,False,000,False,False,False,2,111
+"### || AUTO صيغة اليمين في دعوى الطلاق والعتق
+",000,False,000,False,False,False,2,83
+"### || AUTO ما يجب على غير المدعا عليه
+",000,False,000,False,False,False,2,12
+"### || AUTO ما يجب على غير المدعا عليه
+",000,False,000,False,False,False,2,31
+"### || AUTO الاختلاف في الثمن
+",000,False,000,False,False,False,2,28
+"### || AUTO الشهادة على الوصية بالعتق
+",000,False,000,False,False,False,2,50
+"### || AUTO المطالبة بشيء
+",000,False,000,False,False,False,2,34
+"### || AUTO التحليف على جهل الوكالة بالقبض
+",000,False,000,False,False,False,2,73
+"### || AUTO دعوى العروض والدين
+",000,False,000,False,False,False,2,51
+"### || AUTO دعوى العين
+",000,False,000,False,False,False,2,42
+"### || AUTO لا أقر ولا أنكر
+",000,False,000,False,False,False,2,39
+"### || AUTO حبس الغريم
+",000,False,000,False,False,False,2,41
+"### || AUTO وقت النكول
+",000,False,000,False,False,False,2,33
+"### || AUTO السؤال عن الغريم المحبوس بالدين
+",000,False,000,False,False,False,2,12
+"### || AUTO حبس الغريم
+",000,False,000,False,False,False,2,34
+"### || AUTO مرض المحبوس بالدين
+",000,False,000,False,False,False,2,36
+"### || AUTO التفتيش عن الدين المعسر
+",000,False,000,False,False,False,2,44
+"### || AUTO أعذار ذي السلطان
+",000,False,000,False,False,False,2,56
+"### | AUTO باب مسألة القاضي عن الشهود
+",000,False,000,False,False,False,1,569
+"### || AUTO متى يجب على الرجل التعديل؟
+",000,False,000,False,False,False,2,77
+"### || AUTO تعديل الغريب
+",000,False,000,False,False,False,2,46
+"### || AUTO السؤال عن الشهود في السر
+",000,False,000,False,False,False,2,47
+"### || AUTO ما يفعله القاضي عند الطعن يف الشهود
+",000,False,000,False,False,False,2,26
+"### || AUTO التعارض بين الجرح والتعديل
+",000,False,000,False,False,False,2,65
+"### || AUTO تزكية ذوي القربى
+",000,False,000,False,False,False,2,41
+"### || AUTO ما يقبل في تزكية العلانية
+",000,False,000,False,False,False,2,18
+"### || AUTO شروط قبول الشهادة
+",000,False,000,False,False,False,2,54
+"### || AUTO شروط العدالة
+",000,False,000,False,False,False,2,15
+"### || AUTO شروط العدالة
+",000,False,000,False,False,False,2,17
+"### || AUTO نسيان القاضي ما قضى به
+",000,False,000,False,False,False,2,74
+"### || AUTO قضى بخلاف مذهبه ناسيا
+",000,False,000,False,False,False,2,48
+"### || AUTO أنت خلية
+",000,False,000,False,False,False,2,9
+"### || AUTO أنت خلية
+",000,False,000,False,False,False,2,26
+"### | AUTO باب الغصب والضمان
+",000,False,000,False,False,False,1,1189
+"### || AUTO أرض مغصوبة بذرت حنطة
+",000,False,000,False,False,False,2,60
+"### || AUTO حكم الطريق النافذ
+",000,False,000,False,False,False,2,50
+"### || AUTO ما يضمنه هادم البناء
+",000,False,000,False,False,False,2,57
+"### || AUTO غصب البيض وتحضينه
+",000,False,000,False,False,False,2,42
+"### || AUTO من يضمن المباشر أم الآمر؟
+",000,False,000,False,False,False,2,106
+"### || AUTO ضياع دابة بعد إخراجها من زرعه
+",000,False,000,False,False,False,2,34
+"### || AUTO زيادة قيمة الغلام المغصوب بعد خصيه إياه
+",000,False,000,False,False,False,2,114
+"### || AUTO إخراج خاتم رجل من إصبعه وإعادته
+",000,False,000,False,False,False,2,37
+"### || AUTO سرقة أموال النائم وردها إليه قبل أن يستيقظ
+",000,False,000,False,False,False,2,56
+"### || AUTO تحويل متاع من بيت إلى آخر للمالك نفسه
+",000,False,000,False,False,False,2,43
+"### || AUTO غصب ثوبا فصبغه
+",000,False,000,False,False,False,2,70
+"### || AUTO دجاجة ابتلعت لؤلؤة
+",000,False,000,False,False,False,2,8
+"### || AUTO دجاجة ابتلعت لؤلؤة
+",000,False,000,False,False,False,2,21
+"### || AUTO دفعة ذهبت بعذرتها
+",000,False,000,False,False,False,2,37
+"### || AUTO قول الغاصب
+",000,False,000,False,False,False,2,27
+"### || AUTO إذا غصبه دراهم قائمة بعينها فأبراه منها
+",000,False,000,False,False,False,2,38
+"### || AUTO غصب آنية الصفر والنحاس
+",000,False,000,False,False,False,2,44
+"### || AUTO ضمان الغاصب انكسار النهد
+",000,False,000,False,False,False,2,24
+"### || AUTO غصب مملوك أمرد
+",000,False,000,False,False,False,2,13
+"### || AUTO ضمان نقصان المغصوب
+",000,False,000,False,False,False,2,15
+"### || AUTO تخيير المغصوب منه
+",000,False,000,False,False,False,2,69
+"### || AUTO غصب حنطة فطحنها
+",000,False,000,False,False,False,2,9
+"### || AUTO غصب حنطة فطحنها
+",000,False,000,False,False,False,2,20
+"### || AUTO ضمان المرتهن الخاتم إذا لبسه فضاع الخ
+",000,False,000,False,False,False,2,76
+"### || AUTO ضمان غامز الدرهم بيده الخ
+",000,False,000,False,False,False,2,44
+"### || AUTO فتح باب القفص والزق
+",000,False,000,False,False,False,2,28
+"### || AUTO حل قيد العبد فأبق
+",000,False,000,False,False,False,2,43
+"### | AUTO باب الإجارات
+",000,False,000,False,False,False,1,1863
+"### || AUTO جزاء عدم تفريغ الدار
+",000,False,000,False,False,False,2,47
+"### || AUTO شراء الثمرة واستئجار الأرض
+",000,False,000,False,False,False,2,54
+"### || AUTO استئجار مسيل الماء
+",000,False,000,False,False,False,2,23
+"### || AUTO تسليم اليتيم لحائك
+",000,False,000,False,False,False,2,27
+"### || AUTO مؤاجرة اليتيم
+",000,False,000,False,False,False,2,24
+"### || AUTO قول القصار الخ
+",000,False,000,False,False,False,2,163
+"### || AUTO استئجار العبد
+",000,False,000,False,False,False,2,38
+"### || AUTO استأجر أرضا ليزرعها شيئا سماه فلم ينبت
+",000,False,000,False,False,False,2,73
+"### || AUTO ما يدفع في المعاملة
+",000,False,000,False,False,False,2,55
+"### || AUTO الرحاء ليس من حقوق البيت
+",000,False,000,False,False,False,2,72
+"### || AUTO كراء السفينة
+",000,False,000,False,False,False,2,29
+"### || AUTO كراء السفينة
+",000,False,000,False,False,False,2,28
+"### || AUTO إجبار المرضعة على الإرضاع
+",000,False,000,False,False,False,2,33
+"### || AUTO متى يضمن الصانع
+",000,False,000,False,False,False,2,47
+"### || AUTO كراء سفينة لموضع
+",000,False,000,False,False,False,2,50
+"### || AUTO ضمان الناقل
+",000,False,000,False,False,False,2,74
+"### || AUTO حمالان حمل أحدهما البضاعة
+",000,False,000,False,False,False,2,76
+"### || AUTO تخرق الثوب بدق صاحبه والقصار
+",000,False,000,False,False,False,2,39
+"### || AUTO استئجار نصف السفينة
+",000,False,000,False,False,False,2,46
+"### || AUTO استئجار العبد
+",000,False,000,False,False,False,2,79
+"### || AUTO ضمان مستأجر الدابة
+",000,False,000,False,False,False,2,147
+"### || AUTO تحديد أجرة الدابة
+",000,False,000,False,False,False,2,32
+"### || AUTO استئجار النهر اليابس
+",000,False,000,False,False,False,2,44
+"### || AUTO استئجار طريق للمرور
+",000,False,000,False,False,False,2,37
+"### || AUTO بيع ماء البئر
+",000,False,000,False,False,False,2,34
+"### || AUTO شراء خدمة العبد واستئجاره
+",000,False,000,False,False,False,2,54
+"### || AUTO أجرة الدلال
+",000,False,000,False,False,False,2,52
+"### || AUTO استئجار سطح
+",000,False,000,False,False,False,2,20
+"### || AUTO استئجار دابة
+",000,False,000,False,False,False,2,62
+"### || AUTO الصرافة
+",000,False,000,False,False,False,2,25
+"### || AUTO استئجار شاة
+",000,False,000,False,False,False,2,20
+"### || AUTO فتق الثوب المخيط
+",000,False,000,False,False,False,2,39
+"### || AUTO الرد في إجارة البعير وعاريته
+",000,False,000,False,False,False,2,25
+"### || AUTO التعهد بالجعالة لمن دل على شيء
+",000,False,000,False,False,False,2,50
+"### || AUTO مستأجر الدابة لم يركبها
+",000,False,000,False,False,False,2,26
+"### || AUTO ضمان الزوج والمعلم عن الضرب
+",000,False,000,False,False,False,2,80
+"### || AUTO أجر النحات والنائحة والمغنية
+",000,False,000,False,False,False,2,36
+"### | AUTO باب الحوالة والكفالة
+",000,False,000,False,False,False,1,2188
+"### || AUTO الكفالة بالنفس إلى عشرة أيام
+",000,False,000,False,False,False,2,62
+"### || AUTO تعليق ضمان المهر على الشرط الفاسخ
+",000,False,000,False,False,False,2,37
+"### || AUTO ضمان الثوب المبيع
+",000,False,000,False,False,False,2,57
+"### || AUTO تخليص الكفيل
+",000,False,000,False,False,False,2,53
+"### || AUTO حبس المطلوب في كفالة النفس
+",000,False,000,False,False,False,2,94
+"### || AUTO ضمنت هذا أو هذا
+",000,False,000,False,False,False,2,22
+"### || AUTO هل يتجزأ الإقرار
+",000,False,000,False,False,False,2,61
+"### || AUTO التصدق بالمهر أو الدين معلقا على موت الزوج المريض أو المدين
+",000,False,000,False,False,False,2,65
+"### || AUTO إبراء المدين إبراء معلقا على موت الدائن
+",000,False,000,False,False,False,2,23
+"### || AUTO الكفالة بالنفس إلى شهر
+",000,False,000,False,False,False,2,47
+"### || AUTO براءة الأصيل دون الكفيل
+",000,False,000,False,False,False,2,64
+"### || AUTO دفع المطلوب المحبوس للطالب
+",000,False,000,False,False,False,2,43
+"### || AUTO تعليق الكفالة بالمال
+",000,False,000,False,False,False,2,71
+"### || AUTO من زوجه غير وكيله بحضور الوكيل
+",000,False,000,False,False,False,2,27
+"### || AUTO من طلق عليه امرأته غير وكيله بحضور الوكيل
+",000,False,000,False,False,False,2,38
+"### || AUTO القول قول الموكل في كون وكيله بالقرض قد قبض
+",000,False,000,False,False,False,2,62
+"### || AUTO الوكيل بشراء نصف دار غير مقسوم
+",000,False,000,False,False,False,2,31
+"### || AUTO الوكيل بشراء ما يكال أو يوزن
+",000,False,000,False,False,False,2,25
+"### || AUTO ضمان الوكيل ما دفع إليه المتصدق
+",000,False,000,False,False,False,2,43
+"### || AUTO الوكالة بطلب كل حق
+",000,False,000,False,False,False,2,57
+"### || AUTO الحجر على الوكيل أن يوكل غيره
+",000,False,000,False,False,False,2,63
+"### || AUTO شراء الوكيل نصف الدار
+",000,False,000,False,False,False,2,97
+"### || AUTO شراء الوكيل عبدا قطعت يداه
+",000,False,000,False,False,False,2,43
+"### || AUTO زيادة قيمة المبيع الموكل ببيعه
+",000,False,000,False,False,False,2,94
+"### || AUTO نقص قيمة الشيء الموكل بشرائه في مدة الخيار
+",000,False,000,False,False,False,2,79
+"### || AUTO مضى البيع بموت الوكيل والموكل
+",000,False,000,False,False,False,2,38
+"### || AUTO عتق الفضولي وبيعه
+",000,False,000,False,False,False,2,148
+"### || AUTO أداء الموكل ثمن الشيء الموكل ببيعه
+",000,False,000,False,False,False,2,54
+"### || AUTO قضاء المحيل الدين
+",000,False,000,False,False,False,2,67
+"### || AUTO شراء الشيء الموكل به نصفين
+",000,False,000,False,False,False,2,31
+"### || AUTO بيع الوكيل بالنسيئة
+",000,False,000,False,False,False,2,60
+"### || AUTO الوكيل الثاني
+",000,False,000,False,False,False,2,99
+"### || AUTO اعتق عبد كل موكل من موكليه ولم يبين
+",000,False,000,False,False,False,2,57
+"### || AUTO توكليه بشراء جارية
+",000,False,000,False,False,False,2,54
+"### || AUTO بيع الوكيل الشيء بأكثر من الثمن المأمور به
+",000,False,000,False,False,False,2,48
+"### || AUTO توكيله بشراء زوجته
+",000,False,000,False,False,False,2,78
+"### || AUTO هل يجوز عزل الوكيل بالطلاق المعلق
+",000,False,000,False,False,False,2,92
+"### | AUTO باب الصلح
+",000,False,000,False,False,False,1,310
+"### || AUTO تفرق المتصالحين قبل القبض
+",000,False,000,False,False,False,2,39
+"### || AUTO الصلح إلى أجل
+",000,False,000,False,False,False,2,23
+"### || AUTO الضرر القديم
+",000,False,000,False,False,False,2,44
+"### || AUTO رد المشتري الثاني المعيب بدون قضاء
+",000,False,000,False,False,False,2,35
+"### || AUTO ما يرتفع به إلى القاضي
+",000,False,000,False,False,False,2,36
+"### || AUTO بيع مملوك ودار بألف درهم
+",000,False,000,False,False,False,2,39
+"### || AUTO هل تجوز الشفعة في الصلح؟
+",000,False,000,False,False,False,2,91
+"### | AUTO باب الشفعة
+",000,False,000,False,False,False,1,1911
+"### || AUTO الشفعة في بيع مقصورة
+",000,False,000,False,False,False,2,55
+"### || AUTO شراء دارين في سكة غير نافذة
+",000,False,000,False,False,False,2,38
+"### || AUTO دار بين ثلاثة
+",000,False,000,False,False,False,2,28
+"### || AUTO دار بين أربعة
+",000,False,000,False,False,False,2,8
+"### || AUTO دار بين أربعة
+",000,False,000,False,False,False,2,42
+"### || AUTO شراء بيت شائع في دار
+",000,False,000,False,False,False,2,33
+"### || AUTO شراء دارين في موضعين مختلفين
+",000,False,000,False,False,False,2,47
+"### || AUTO الثمن الذي يؤخذ به في الشفعة
+",000,False,000,False,False,False,2,51
+"### || AUTO إثبات صفة المالك الشفيع
+",000,False,000,False,False,False,2,72
+"### || AUTO السكوت قبل الأجل
+",000,False,000,False,False,False,2,31
+"### || AUTO السكوت عند الإشهاد
+",000,False,000,False,False,False,2,37
+"### || AUTO ما يعد تسليما بالشفعة
+",000,False,000,False,False,False,2,97
+"### || AUTO صيغة طلب الشفعة
+",000,False,000,False,False,False,2,81
+"### || AUTO طلب نصف العقار المبيعة بالشفعة
+",000,False,000,False,False,False,2,59
+"### || AUTO الشفعة في الأقرحة والقرية
+",000,False,000,False,False,False,2,59
+"### || AUTO قيام الشفيع من مجلسه قبل الطلب
+",000,False,000,False,False,False,2,22
+"### || AUTO تأجيل إحضار الشفع المال
+",000,False,000,False,False,False,2,28
+"### || AUTO السكوت بعد الطلب شهرا
+",000,False,000,False,False,False,2,21
+"### || AUTO الإشهاد على الطالب
+",000,False,000,False,False,False,2,32
+"### || AUTO سكوت الجار عند طلب الشريك الشفعة
+",000,False,000,False,False,False,2,57
+"### || AUTO أرض مشتركة قسمت وبنيت دورا
+",000,False,000,False,False,False,2,68
+"### || AUTO بين دعوى الرقبة ودعوى الشفعة
+",000,False,000,False,False,False,2,65
+"### || AUTO الترك باللسان
+",000,False,000,False,False,False,2,24
+"### || AUTO سقوط الشفعة بعدم الطلب
+",000,False,000,False,False,False,2,41
+"### || AUTO زخرفة المشتري الدار
+",000,False,000,False,False,False,2,33
+"### || AUTO سكوت الأب والوصي
+",000,False,000,False,False,False,2,35
+"### || AUTO المشتري هو الوصي
+",000,False,000,False,False,False,2,32
+"### || AUTO بين الشفعة والسلم
+",000,False,000,False,False,False,2,35
+"### || AUTO طلب الشفيع تأجيل المال
+",000,False,000,False,False,False,2,41
+"### || AUTO هل تجوز الشفعة بدار أوصى بغلتها للمساكين
+",000,False,000,False,False,False,2,47
+"### || AUTO الشفعة لمن له الرقبة
+",000,False,000,False,False,False,2,19
+"### || AUTO هل للموصى له بدار طلب الشفعة بها؟
+",000,False,000,False,False,False,2,62
+"### || AUTO حيلة في الهرب من الشفعة
+",000,False,000,False,False,False,2,56
+"### || AUTO الإشهاد بطلب الشفعة
+",000,False,000,False,False,False,2,104
+"### || AUTO دور مكة
+",000,False,000,False,False,False,2,14
+"### || AUTO دور مكة
+",000,False,000,False,False,False,2,29
+"### || AUTO ثلاثة أبيات في دار
+",000,False,000,False,False,False,2,14
+"### || AUTO ثلاثة أبيات في دار
+",000,False,000,False,False,False,2,52
+"### || AUTO هل تجب الشفعة مع خيار المشتري؟
+",000,False,000,False,False,False,2,52
+"### || AUTO صلة الشفعة بالقسمة
+",000,False,000,False,False,False,2,79
+"### || AUTO هل تبطل الشفعة بمساومة المشتري الشفيع داره؟
+",000,False,000,False,False,False,2,53
+"### || AUTO شرط أخبار الشفيع بالبيع
+",000,False,000,False,False,False,2,55
+"### | AUTO باب القصاص
+",000,False,000,False,False,False,1,1218
+"### || AUTO أمر غيره بقطع يد نفسه أو قتله الخ
+",000,False,000,False,False,False,2,163
+"### || AUTO قتل العبد المرهون عمدا
+",000,False,000,False,False,False,2,43
+"### || AUTO أخوان قتل أحدهما إياه والآخر الأم
+",000,False,000,False,False,False,2,47
+"### || AUTO جنون القاتل بعد قوله لي حجة
+",000,False,000,False,False,False,2,43
+"### || AUTO قطع يد الجنين
+",000,False,000,False,False,False,2,36
+"### || AUTO ذبح نائما وزعم أنه كان ميتا
+",000,False,000,False,False,False,2,30
+"### || AUTO أصابت ضربته بالمنجنيق مورثه
+",000,False,000,False,False,False,2,60
+"### || AUTO ضمان القاتل المال الذي مع المضروب وثيابه
+",000,False,000,False,False,False,2,36
+"### || AUTO الفرق بين التعمد والخطأ
+",000,False,000,False,False,False,2,62
+"### || AUTO علاقة السببية
+",000,False,000,False,False,False,2,27
+"### || AUTO الموضحة
+",000,False,000,False,False,False,2,26
+"### || AUTO كسر السن عمدا
+",000,False,000,False,False,False,2,28
+"### || AUTO شرط القصاص في العين
+",000,False,000,False,False,False,2,33
+"### || AUTO انتزاع العين بعد تقويرها
+",000,False,000,False,False,False,2,38
+"### || AUTO شحمة الأذن
+",000,False,000,False,False,False,2,30
+"### || AUTO معيار القصاص في الإذن
+",000,False,000,False,False,False,2,28
+"### || AUTO معيار القصاص في قطع الذكر
+",000,False,000,False,False,False,2,20
+"### || AUTO ما لا قصاص فيه
+",000,False,000,False,False,False,2,34
+"### || AUTO اللسان
+",000,False,000,False,False,False,2,6
+"### || AUTO اللسان
+",000,False,000,False,False,False,2,16
+"### || AUTO اللسان
+",000,False,000,False,False,False,2,2
+"### || AUTO الكف
+",000,False,000,False,False,False,2,19
+"### || AUTO الكف
+",000,False,000,False,False,False,2,30
+"### || AUTO العبرة بالمفصل في القصاص
+",000,False,000,False,False,False,2,33
+"### || AUTO عبد قتل قبل قبض المشتري
+",000,False,000,False,False,False,2,104
+"### || AUTO استئجار رجل على القصاص
+",000,False,000,False,False,False,2,26
+"### || AUTO قتل بغمد السيف
+",000,False,000,False,False,False,2,34
+"### || AUTO عثر بنائم فدق ساقه ثم مات الواقع
+",000,False,000,False,False,False,2,64
+"### || AUTO الطعن النافذ في الأذن
+",000,False,000,False,False,False,2,22
+"### || AUTO الطعن النافذ في الفم
+",000,False,000,False,False,False,2,32
+"### || AUTO الرمى النافذ في العين
+",000,False,000,False,False,False,2,43
+"### | AUTO باب الديات
+",000,False,000,False,False,False,1,1505
+"### || AUTO ما تجب فيه الدية كاملة
+",000,False,000,False,False,False,2,46
+"### || AUTO ما يجب في كل اثنين فيه الدية كاملة
+",000,False,000,False,False,False,2,27
+"### || AUTO الآمة
+",000,False,000,False,False,False,2,49
+"### || AUTO حلق شعر رجل
+",000,False,000,False,False,False,2,43
+"### || AUTO ضرب سنه فاصفرت
+",000,year,000,False,False,False,2,7
+"### || AUTO ضرب سنه فاصفرت
+",000,year,000,False,False,False,2,40
+"### || AUTO قطع الذكر والانثيين
+",000,False,000,False,False,False,2,67
+"### || AUTO ضمان النائم والصبي والمغمى عليه
+",000,False,000,False,False,False,2,31
+"### || AUTO ضمان الراكب والسائق المأذونين بدخول الدار
+",000,False,000,False,False,False,2,67
+"### || AUTO دية الأسنان
+",000,False,000,False,False,False,2,86
+"### || AUTO شجة مثقلة برأت
+",000,False,000,False,False,False,2,47
+"### || AUTO شج الأصلع موضحة متعمدا
+",000,False,000,False,False,False,2,78
+"### || AUTO جذب صبيا من أيد أبيه فمات الصبي
+",000,False,000,False,False,False,2,46
+"### || AUTO سقوط سن العاض بلحم المعضوض
+",000,False,000,False,False,False,2,34
+"### || AUTO جذب ثوبا فانخرق
+",000,False,000,False,False,False,2,60
+"### || AUTO جلس على ثوبه وهو لا يعلم
+",000,False,000,False,False,False,2,46
+"### || AUTO جذب يده فانفلتت
+",000,False,000,False,False,False,2,45
+"### || AUTO ضرب الأب أو الوصي اليتيم فمات
+",000,False,000,False,False,False,2,27
+"### || AUTO أدب الصبي بغير أمر الأب
+",000,False,000,False,False,False,2,32
+"### || AUTO ضرب امرأته تأديبا لها فماتت
+",000,False,000,False,False,False,2,50
+"### || AUTO الجناية على حيوان
+",000,False,000,False,False,False,2,98
+"### || AUTO ذبح حمار غيره أو قتله
+",000,False,000,False,False,False,2,28
+"### || AUTO فقأ عين حمار
+",000,False,000,False,False,False,2,6
+"### || AUTO فقأ عين حمار
+",000,False,000,False,False,False,2,17
+"### || AUTO أضربا مملوكي هذا مائة سوط
+",000,False,000,False,False,False,2,12
+"### || AUTO أضربا مملوكي هذا مائة سوط
+",000,False,000,False,False,False,2,67
+"### || AUTO أوثقه في بيت حتى مات أو دفنه حيا فمات
+",000,False,000,False,False,False,2,69
+"### || AUTO حفر بئرا في الطريق فوقع فيه إنسان فمات غما أو جوعا
+",000,False,000,False,False,False,2,64
+"### || AUTO رمى ثلجا في سكة فهلك به إنسان أو دابة
+",000,False,000,False,False,False,2,86
+"### || AUTO ضربه بإبرة الخ
+",000,False,000,False,False,False,2,26
+"### || AUTO فقأ عيني عبد
+",000,False,000,False,False,False,2,9
+"### || AUTO فقأ عيني عبد
+",000,False,000,False,False,False,2,30
+"### || AUTO تجاذبا حبلا فوقعا فماتا
+",000,False,000,False,False,False,2,62
+"### | AUTO باب جنايات العبد
+",000,False,000,False,False,False,1,1020
+"### || AUTO مملوك جنى على مملوك
+",000,False,000,False,False,False,2,81
+"### || AUTO جارية جنت وهي حامل
+",000,False,000,False,False,False,2,9
+"### || AUTO جارية جنت وهي حامل
+",000,False,000,False,False,False,2,67
+"### || AUTO مملوك حفر بئرا فوقع فيها إنسان فمات الخ
+",000,False,000,False,False,False,2,40
+"### || AUTO مملوك حفر بئرا ثم اعتقه المولى الخ
+",000,False,000,False,False,False,2,53
+"### || AUTO اشترى أمة حاملا فاعتقها قبل القبض فضرب بطنها إنسان الخ
+",000,False,000,False,False,False,2,90
+"### || AUTO أوصى بعتق عبده فجنى العبد جناية الخ
+",000,False,000,False,False,False,2,52
+"### || AUTO عبد جنى فأوصى المولى في مرضه بعتقه
+",000,False,000,False,False,False,2,53
+"### || CHECK قال لعبديه أحدكما حر فجنى أحدهما
+",000,False,000,False,False,False,2,35
+"### || AUTO اشترى عبدا ووكل بعتقه قبل نقد الثمن
+",000,False,000,False,False,False,2,70
+"### || AUTO جارية بينهما جاءت بولد فجنى جناية الخ
+",000,False,000,False,False,False,2,44
+"### || AUTO جارية ولدت عند المشتري
+",000,False,000,False,False,False,2,43
+"### || AUTO ضمان ما نقص من بدن الإنسان
+",000,False,000,False,False,False,2,42
+"### || AUTO فقئ فقطع يد
+",000,False,000,False,False,False,2,45
+"### || AUTO قتل أمة قيمتها أكثر من دية حرة
+",000,False,000,False,False,False,2,52
+"### || AUTO فقأ عيني عبد قيمته أكثر من عشرة آلاف درهم
+",000,False,000,False,False,False,2,58
+"### || AUTO من صور المقاصة
+",000,False,000,False,False,False,2,48
+"### || AUTO دفع العبد لأولياء أكثر من قتيل
+",000,False,000,False,False,False,2,76
+"### || AUTO مطلب: ما خالف فيه زفر وأبو يوسف أبا حنيفة
+",000,False,000,False,False,False,2,58
+"### | AUTO باب السرقة
+",000,False,000,False,False,False,1,1218
+"### || AUTO أقر بمبلغ واستثنى بلا
+",000,False,000,False,False,False,2,144
+"### || AUTO حضور المسروق هل يشترط في القطع
+",000,False,000,False,False,False,2,46
+"### || AUTO القطع بعشرة دراهم
+",000,False,000,False,False,False,2,22
+"### || AUTO الحرز الواحد
+",000,False,000,False,False,False,2,21
+"### || AUTO سرق عشرة دراهم من عشرة
+",000,False,000,False,False,False,2,13
+"### || AUTO سرق عشرة دراهم من عشرة
+",000,False,000,False,False,False,2,20
+"### || AUTO لا يجمع بين السرقتين لتكملة النصاب
+",000,False,000,False,False,False,2,38
+"### || AUTO قاطعات الطريق
+",000,False,000,False,False,False,2,42
+"### || AUTO زعيمة قطاع الطريق
+",000,False,000,False,False,False,2,46
+"### || AUTO نصاب القطع
+",000,False,000,False,False,False,2,123
+"### || AUTO ما لا يقطع فيه
+",000,False,000,False,False,False,2,65
+"### || AUTO قيمة كل من الكوز والعسل تقدر في النصاب الخ
+",000,False,000,False,False,False,2,37
+"### || AUTO كيفية صلب قطاع الطرق
+",000,False,000,False,False,False,2,61
+"### || AUTO لا يقطع السارق بما أكل
+",000,False,000,False,False,False,2,28
+"### || AUTO متى تحدد قيمة النصاب
+",000,False,000,False,False,False,2,44
+"### || AUTO متى يتحقق أخذ مال الغير
+",000,False,000,False,False,False,2,108
+"### || AUTO سرقته ما قطع فيه ثانية
+",000,False,000,False,False,False,2,43
+"### || AUTO حدود الدفاع الشرعي
+",000,False,000,False,False,False,2,63
+"### || AUTO لا قطع إن أخذ المسروق السرقة
+",000,False,000,False,False,False,2,28
+"### || AUTO متى يقطع في السرقة من الحمام
+",000,False,000,False,False,False,2,51
+"### || AUTO لا قطع في جلود السباع
+",000,False,000,False,False,False,2,29
+"### || AUTO ما يقطع فيه ولا يقطع
+",000,False,000,False,False,False,2,143
+"### | AUTO باب الحدود
+",000,False,000,False,False,False,1,942
+"### || AUTO رد المقر بالزنا أربع مرات
+",000,False,000,False,False,False,2,91
+"### || AUTO شهادة المشركين والعبيد بالزنا
+",000,False,000,False,False,False,2,73
+"### || AUTO هل يقبل إقرار الزاني بعد تطاول الزمن؟
+",000,False,000,False,False,False,2,44
+"### || AUTO لا يجمع بين القيمة والحد ويجمع بين الدية والحد
+",000,False,000,False,False,False,2,45
+"### || AUTO جحود قاذف امرأته
+",000,False,000,False,False,False,2,30
+"### || AUTO زنا بعد ما هرب من حد زنا الخ
+",000,False,000,False,False,False,2,87
+"### || AUTO عبد قذف قبل عتقه وبعده
+",000,False,000,False,False,False,2,49
+"### || AUTO هل يضمن القاضي غلطه في حد الزنا
+",000,False,000,False,False,False,2,33
+"### || AUTO أعمى وقع على غير امرأته
+",000,False,000,False,False,False,2,34
+"### || AUTO زعم أنه زنى بأم زوجه
+",000,False,000,False,False,False,2,36
+"### || AUTO وقت رجم الزانية إذا حملت
+",000,False,000,False,False,False,2,76
+"### || CHECK قال للقاذف صدقت
+",000,False,000,False,False,False,2,46
+"### || AUTO من يأخذ بالحد إذا قذف الميت
+",000,False,000,False,False,False,2,111
+"### || AUTO قوله أحدكما زان
+",000,False,000,False,False,False,2,32
+"### || AUTO قوله: كلكم زان إلا واحد
+",000,False,000,False,False,False,2,17
+"### || AUTO قذف زوجة لم يدخل بها فإذا هي أخته في الرضاعة
+",000,False,000,False,False,False,2,45
+"### || AUTO شهود الزنا فساق
+",000,False,000,False,False,False,2,28
+"### || AUTO شهدوا انه زنا بغائبة
+",000,False,000,False,False,False,2,62
+"### | AUTO باب الشهادات
+",000,False,000,False,False,False,1,1172
+"### || AUTO اختلاف الشاهدين في كونها حين طلقت أمة أو معتقة
+",000,False,000,False,False,False,2,51
+"### || AUTO اختلاف الشاهدين في عدد الطلقات
+",000,False,000,False,False,False,2,32
+"### || AUTO نصراني مدين لمسلم ونصراني الخ
+",000,False,000,False,False,False,2,116
+"### || AUTO إسلام الشاهدين
+",000,False,000,False,False,False,2,45
+"### || AUTO المسألة عن عدالة الكافر
+",000,False,000,False,False,False,2,31
+"### || AUTO شهادة الأجير
+",000,False,000,False,False,False,2,85
+"### || AUTO الشهادة على الشهادة
+",000,False,000,False,False,False,2,59
+"### || AUTO شهادة المعتقين لمعتقهما
+",000,False,000,False,False,False,2,30
+"### || AUTO شهادة من خبئوا لسماع الإقرار
+",000,False,000,False,False,False,2,38
+"### || AUTO شهادة الداخلين على قوم
+",000,False,000,False,False,False,2,37
+"### || AUTO شهادة الوصيين بدين على الميت
+",000,False,000,False,False,False,2,28
+"### || AUTO الشهادة على من علق عتق غلامه على شرط
+",000,False,000,False,False,False,2,54
+"### || AUTO بطلان الشهادة بالتهمة
+",000,False,000,False,False,False,2,25
+"### || AUTO شهادة المتقاسمين على بيع الثالث نصيبه
+",000,False,000,False,False,False,2,47
+"### || AUTO لمن شهد عنده على عدالة رجل أن يعدله
+",000,False,000,False,False,False,2,30
+"### || AUTO اختلاف الشاهد والقاضي في قطعية الشهادة
+",000,False,000,False,False,False,2,37
+"### || AUTO حلف بالطلاق أن يضربهما فهل يشهدان بالطلاق أن ضربهما
+",000,False,000,False,False,False,2,46
+"### || AUTO الشهادة على المهر بالتسامع
+",000,False,000,False,False,False,2,45
+"### || AUTO الشهادة على الملك بالاستناد إلى ما وقع في قلب الشاهد
+",000,False,000,False,False,False,2,85
+"### || AUTO شاهد عيان شهد عنده شاهدان أو شاهد بما ينقض المشهود عليه
+",000,False,000,False,False,False,2,88
+"### || AUTO متى تجوز الشهادة على الشهادة
+",000,False,000,False,False,False,2,50
+"### || AUTO رد المشتري جارية أخرى
+",000,False,000,False,False,False,2,44
+"### || AUTO علق عتق غلامه على شرب الخمر أو السرقة
+",000,False,000,False,False,False,2,66
+"### | AUTO باب الجرح في الشهادات والتزكية
+",000,False,000,False,False,False,1,1228
+"### || AUTO تزكية السر
+",000,False,000,False,False,False,2,17
+"### || AUTO عدد الجرح والتعديل
+",000,False,000,False,False,False,2,19
+"### || AUTO من صيغ التزكية
+",000,False,000,False,False,False,2,41
+"### || AUTO شهادة من لم يحج ولم يؤد زكاته
+",000,False,000,False,False,False,2,65
+"### || AUTO شهد على شهادة أبيه
+",000,False,000,False,False,False,2,12
+"### || AUTO شهد على شهادة أبيه
+",000,False,000,False,False,False,2,15
+"### || AUTO تعديل الأعمى والمرأة الخ
+",000,False,000,False,False,False,2,56
+"### || AUTO تزكية الغريب
+",000,False,000,False,False,False,2,48
+"### || AUTO هل تقبل الشهادة ثانية ممن عدل في الأولى
+",000,False,000,False,False,False,2,25
+"### || AUTO نصراني شهد فعدل ثم أسلم
+",000,False,000,False,False,False,2,19
+"### || AUTO صبي شهد بعدما احتلم
+",000,False,000,False,False,False,2,72
+"### || AUTO الجرح أولى
+",000,False,000,False,False,False,2,20
+"### || AUTO في تزكية الغريب أيضا
+",000,False,000,False,False,False,2,29
+"### || AUTO هل للشاهد أن يمتنع؟
+",000,False,000,False,False,False,2,56
+"### || AUTO الشهادة على العيب
+",000,False,000,False,False,False,2,51
+"### || AUTO شهادة الأقلف وصلاته وذبيحته
+",000,False,000,False,False,False,2,21
+"### || AUTO هل يختتن الشيخ إذا أسلم
+",000,False,000,False,False,False,2,57
+"### || AUTO الختان سنة ومكرمة
+",000,year,000,False,False,False,2,21
+"### || AUTO الشهادة على إسلام ذمي بعد موته
+",000,False,000,False,False,False,2,71
+"### || AUTO نصراني شهد على إسلامه وهو يجحد
+",000,False,000,False,False,False,2,54
+"### || AUTO شهادة محدودين في القذف
+",000,False,000,False,False,False,2,14
+"### || AUTO متى يقبل الجرح
+",000,False,000,False,False,False,2,46
+"### || AUTO إقرار المدعى أن شهوده شهدوا بباطل
+",000,False,000,False,False,False,2,12
+"### || AUTO إقرار المدعى أن شهوده شهدوا بباطل
+",000,False,000,False,False,False,2,32
+"### || AUTO شهادة أربعة من النصارى على نصراني بالزنا
+",000,False,000,False,False,False,2,37
+"### || AUTO شاهد شهد عنده شاهدان بالاستيفاء
+",000,False,000,False,False,False,2,51
+"### || AUTO متى يعدل الشهود؟
+",000,False,000,False,False,False,2,62
+"### || AUTO طعن المشهود عليه بالشهود
+",000,False,000,False,False,False,2,105
+"### || AUTO شهدا بألف وبقضاء خمسمائة أو بان للمدعى عليه مائة على هذا المدعى
+",000,False,000,False,False,False,2,94
+"### | AUTO باب القضاء
+",000,False,000,False,False,False,1,916
+"### || AUTO هل يقضى على الغائب
+",000,False,000,False,False,False,2,59
+"### || AUTO مكاتب قضا دين على مولاه الميت
+",000,False,000,False,False,False,2,58
+"### || AUTO أداء المستودع الدين على المودع من مال الوديعة الخ
+",000,False,000,False,False,False,2,153
+"### || AUTO قضاء القاضي في مسألة خلافية
+",000,False,000,False,False,False,2,175
+"### || AUTO ادعاء شيء سريع الفساد في يد آخر
+",000,False,000,False,False,False,2,88
+"### || AUTO شهادة كاتبي القاضي
+",000,False,000,False,False,False,2,70
+"### ||| AUTO لا شهادة لكاتب القاضي على شهادة في محضر ضائع
+",000,False,000,False,False,False,3,64
+"### ||| AUTO جواز 
+",000,False,000,False,False,False,3,2
+"### || AUTO شهادة كاتبي القاضي
+",000,False,000,False,False,False,2,22
+"### || AUTO لا يحكم القاضي المردود على القضاء بشهادة سابقة
+",000,False,000,False,False,False,2,45
+"### || AUTO الإقرار السابق على عزل القاضي
+",000,False,000,False,False,False,2,28
+"### || AUTO حكم القاضي بخلاف مذهبه ناسيا
+",000,False,000,False,False,False,2,47
+"### || AUTO لا بينة على ما نسيه القاضي من قضائه
+",000,False,000,False,False,False,2,69
+"### || AUTO سماع الشهادة بدعوى لم ترفع
+",000,False,000,False,False,False,2,94
+"### || CHECK ما يبدئ به الوصية
+",000,False,000,False,False,False,2,5
+"### | AUTO باب الوصايا
+",000,False,000,False,False,False,1,1564
+"### || AUTO وصية أحد الزوجين بكل ماله أو بنصفه لأجنبي
+",000,False,000,False,False,False,2,102
+"### || AUTO إقرار الدائن باستيفائه في صحة المدين
+",000,False,000,False,False,False,2,148
+"### || AUTO أوصى لغائب بما له نفقة
+",000,False,000,False,False,False,2,45
+"### || AUTO أوصى لآخر أن يزرع
+",000,False,000,False,False,False,2,11
+"### || AUTO أوصى لآخر أن يزرع
+",000,False,000,False,False,False,2,36
+"### || AUTO أوصى بثمرة نخلة
+",000,False,000,False,False,False,2,59
+"### || AUTO أوصى بثمرة نخلة
+",000,False,000,False,False,False,2,23
+"### || AUTO أوصى لرجل بقطن ولآخر بحبه الخ
+",000,False,000,False,False,False,2,54
+"### || AUTO الأمر للورثة
+",000,False,000,False,False,False,2,48
+"### || AUTO أوصى بأن يحج عنه وهو حر
+",000,False,000,False,False,False,2,56
+"### || AUTO تعليق عتقه على فعله شيئا بعد موت المولى
+",000,False,000,False,False,False,2,36
+"### || AUTO صنفان في الموالي
+",000,False,000,False,False,False,2,104
+"### || AUTO وصية من ماله يسير
+",000,False,000,False,False,False,2,30
+"### || AUTO وصية من ماله كثير
+",000,False,000,False,False,False,2,28
+"### || AUTO ذوو القرابة
+",000,False,000,False,False,False,2,58
+"### || AUTO الوصية المطلقة لجماعة معينة بالوصف هي لفقرائهم
+",000,False,000,False,False,False,2,33
+"### || AUTO الوصية بثياب الجسد
+",000,False,000,False,False,False,2,36
+"### || AUTO الوصية والتدبير
+",000,False,000,False,False,False,2,654
+"### ||| AUTO الوصية للعبد برقبته
+",000,False,000,False,False,False,3,22
+"### ||| AUTO الوصية بثلث ماله لعبده
+",000,False,000,False,False,False,3,16
+"### ||| AUTO تعليق عتقه على موت السيد
+",000,False,000,False,False,False,3,26
+"### ||| AUTO الوصية بعبد مدين
+",000,False,000,False,False,False,3,45
+"### ||| AUTO هبة العبد المدين
+",000,False,000,False,False,False,3,48
+"### ||| AUTO الوصية بالثلث لمعين وغير المعين
+",000,False,000,False,False,False,3,68
+"### ||| AUTO الرجوع بثمن الكفن
+",000,False,000,False,False,False,3,24
+"### ||| AUTO العيب في الكفن
+",000,False,000,False,False,False,3,29
+"### ||| AUTO الوصية بأن يحج عنه
+",000,False,000,False,False,False,3,25
+"### ||| AUTO جناية العبد الموصى بعتقه
+",000,False,000,False,False,False,3,44
+"### ||| AUTO عتق العبد الموصى به
+",000,False,000,False,False,False,3,30
+"### ||| AUTO وصية الغريب للفقراء والمساكين
+",000,False,000,False,False,False,3,43
+"### ||| AUTO زكاة أموال الغريب
+",000,False,000,False,False,False,3,22
+"### ||| AUTO احتياج الورثة الكبار للثلث الموصى به
+",000,False,000,False,False,False,3,43
+"### ||| AUTO الوصية للكعبة وللمسجد أو لثغر من الثغور ولله تعالى
+",000,False,000,False,False,False,3,106
+"### ||| AUTO قوله لعبده: أنت الله
+",000,False,000,False,False,False,3,32
+"### ||| AUTO أوصى بغلام للمسجد
+",000,False,000,False,False,False,3,6
+"### ||| AUTO أوصى بغلام للمسجد
+",000,False,000,False,False,False,3,22
+"### | AUTO باب آخر من الوصايا
+",000,False,000,False,False,False,1,1359
+"### || AUTO تعليق الوصية على الموت من مرض أو فيه
+",000,False,000,False,False,False,2,69
+"### || AUTO الوصية بدراهم معدودة ثم بثلث المال
+",000,False,000,False,False,False,2,99
+"### || AUTO موت المساكين الموصى بإطعامهم بعد الغداء
+",000,False,000,False,False,False,2,80
+"### || AUTO الوصية بالنفقة على مملوك
+",000,False,000,False,False,False,2,60
+"### || AUTO الوصية بالنفقة على فرس
+",000,False,000,False,False,False,2,78
+"### || AUTO جواز الوصية ببيع مقترن بشرط لمنفعة المبيع
+",000,False,000,False,False,False,2,23
+"### || AUTO صرف الوصية لمساكين بغير أعيانهم إلى مساكين بلدة أخرى
+",000,False,000,False,False,False,2,40
+"### || AUTO الوصية بدراهم لا تنفق في بلد
+",000,False,000,False,False,False,2,61
+"### || AUTO الوصية بأن يحج عنه
+",000,False,000,False,False,False,2,40
+"### || AUTO ضمان من يحج عن الميت ماشيا للنفقة
+",000,False,000,False,False,False,2,34
+"### || AUTO تعليق البراءة من الدين على موت المدين
+",000,False,000,False,False,False,2,33
+"### || AUTO تعليق البراءة من الدين على موت الدائن
+",000,False,000,False,False,False,2,22
+"### || AUTO زيادة أحد الشاهدين على الوصية قيدا
+",000,False,000,False,False,False,2,50
+"### || AUTO الوصية في سبيل الله
+",000,False,000,False,False,False,2,44
+"### || AUTO الوصية بالثلث لفلان أو لفلان
+",000,False,000,False,False,False,2,40
+"### || AUTO الوصية بطريق أو بممر
+",000,False,000,False,False,False,2,24
+"### || AUTO الوصية بممر في دار معينة
+",000,False,000,False,False,False,2,143
+"### || AUTO عتق عبد باعه من ابنه الصغير
+",000,False,000,False,False,False,2,37
+"### || AUTO تبعة هلاك ما اشتراه الأب من مال ابنه
+",000,False,000,False,False,False,2,33
+"### || AUTO الوصية بسكنى دار ليس له غيرها
+",000,False,000,False,False,False,2,39
+"### || AUTO الوصية بالكفن وحفر القبر الخ
+",000,False,000,False,False,False,2,37
+"### || AUTO الوصية لكهول أهل بيته
+",000,False,000,False,False,False,2,37
+"### || AUTO المفاضلة بين الحج والصدقة
+",000,False,000,False,False,False,2,100
+"### || AUTO إقرار الوارث بزوجة المورث وإنكارها ذلك مع ادعائها دينا على الميت
+",000,False,000,False,False,False,2,44
+"### || AUTO الوصية بالأفضل والوصية للأفضل
+",000,False,000,False,False,False,2,87
+"### | AUTO باب المواريث
+",000,False,000,False,False,False,1,1148
+"### || AUTO ما يحبس من الميراث للجنين الوارث
+",000,False,000,False,False,False,2,61
+"### || AUTO التحاق المرتد بدار الحرب
+",000,False,000,False,False,False,2,108
+"### || AUTO نكاح مرتدين ارتدا معا
+",000,False,000,False,False,False,2,60
+"### || AUTO نكاح مرتدين ارتد أحدهما قبل الآخر
+",000,False,000,False,False,False,2,30
+"### || AUTO هل للمرتد حق في ماله إذا عاد من دار الحرب مسلما
+",000,False,000,False,False,False,2,47
+"### || AUTO ميراث ابنة جارية ادعاها أخوان عند موت جدها لأبويها هذين
+",000,False,000,False,False,False,2,49
+"### || AUTO إقراره بولد في مرض موته
+",000,False,000,False,False,False,2,32
+"### || AUTO الإقرار بوارث مع ذي قرابة
+",000,False,000,False,False,False,2,23
+"### || AUTO ميراث زوجة المرتد
+",000,False,000,False,False,False,2,34
+"### || AUTO ميراث من أسلم أبواه وهو غلام يعقل
+",000,False,000,False,False,False,2,41
+"### || AUTO عدم التمييز بين ولد المسلم وبين ولد النصراني أو بين ولده من حرة وولده من مملوكة
+",000,False,000,False,False,False,2,81
+"### || AUTO بناء القسمة
+",000,False,000,False,False,False,2,39
+"### ||| AUTO بناء أحد الشريكين في الأرض
+",000,False,000,False,False,False,3,36
+"### || AUTO انهدام دار مشاعة
+",000,False,000,False,False,False,2,20
+"### || AUTO انهدام رحا مشتركة
+",000,False,000,False,False,False,2,24
+"### || AUTO انهدام حائط مشترك
+",000,False,000,False,False,False,2,32
+"### || AUTO اختلاف الشريكين في تعلية الحائط
+",000,False,000,False,False,False,2,26
+"### || AUTO بناء المسجد في الطريق الواسع
+",000,False,000,False,False,False,2,33
+"### || AUTO التجاوز على الطريق
+",000,False,000,False,False,False,2,20
+"### || AUTO هل تزول صفة المسجد بخراب ما حوله
+",000,False,000,False,False,False,2,72
+"### || AUTO هل يجوز استبدال أرض بالمسجد
+",000,False,000,False,False,False,2,39
+"### || AUTO ما يعد تجاوزا على الطريق
+",000,False,000,False,False,False,2,78
+"### || AUTO شراء نخلة مع طريقها
+",000,False,000,False,False,False,2,52
+"### || AUTO ادعاء مجرى ماء
+",000,False,000,False,False,False,2,51
+"### || AUTO في إحياء الأرض الموات
+",000,False,000,False,False,False,2,93
+"### | AUTO باب الضمان في الوديعة والعارية
+",000,False,000,False,False,False,1,1058
+"### || AUTO ضمان الوديع المنكر
+",000,False,000,False,False,False,2,35
+"### || AUTO ما يضمنه الغاصب
+",000,False,000,False,False,False,2,39
+"### || AUTO مدى ضمان المقرض ما قبضه زيادة عن القرض
+",000,False,000,False,False,False,2,105
+"### || AUTO هل يضمن الوكيل البضاعة في الطريق
+",000,False,000,False,False,False,2,73
+"### || AUTO سكنى أحد الشريكين الدار عنه غيبة الآخر
+",000,False,000,False,False,False,2,144
+"### || AUTO ضمان المستودع والبيطار
+",000,False,000,False,False,False,2,53
+"### || AUTO ضمان المستودع الوديعة عند سفره بها
+",000,False,000,False,False,False,2,108
+"### || AUTO معيار التفرقة بين العارية والقرض
+",000,False,000,False,False,False,2,42
+"### || CHECK هل يضمن من دخل منزل غيره بذنه
+",000,False,000,False,False,False,2,65
+"### || AUTO ضمان من تناول متاع السوقي فانكسر
+",000,False,000,False,False,False,2,55
+"### || AUTO بيع ملك الغير
+",000,False,000,False,False,False,2,46
+"### || AUTO ظفر المحارب بسلاحه قبل القسمة
+",000,False,000,False,False,False,2,39
+"### || AUTO بيع أحد الورثة حصته من المستودع
+",000,False,000,False,False,False,2,71
+"### || AUTO جرح العجماء
+",000,False,000,False,False,False,2,63
+"### || AUTO جرح العجماء
+",000,False,000,False,False,False,2,4
+"### || AUTO ضمان المستعير
+",000,False,000,False,False,False,2,26
+"### || AUTO ضمان الاكار
+",000,False,000,False,False,False,2,38
+"### || AUTO ما يفعل بأموال الغريب المتوفى
+",000,False,000,False,False,False,2,45
+"### | AUTO باب الهبة والصدقة
+",000,False,000,False,False,False,1,1191
+"### || AUTO إفراغ الدار الموهوبة
+",000,False,000,False,False,False,2,27
+"### || AUTO التصدق بأمة عليها حلي وثياب
+",000,False,000,False,False,False,2,23
+"### || AUTO هبة درهم من درهمين
+",000,False,000,False,False,False,2,44
+"### || AUTO التصدق بدار على ابنين صغيرين
+",000,False,000,False,False,False,2,23
+"### || AUTO الجمع بين الصدقة والهبة
+",000,False,000,False,False,False,2,24
+"### || AUTO من موانع الرجوع في الهبة
+",000,False,000,False,False,False,2,24
+"### || CHECK بطلان الدين باتحاد الذمة
+",000,False,000,False,False,False,2,5
+"### || CHECK عودة الدين بزوال اتحاد الذمة
+",000,False,000,False,False,False,2,6
+"### || AUTO جعل مهرها خادما مشركا
+",000,False,000,False,False,False,2,24
+"### || AUTO وهب عبدا في مرضه
+",000,False,000,False,False,False,2,11
+"### || AUTO وهب عبدا في مرضه
+",000,False,000,False,False,False,2,39
+"### || AUTO اتحاد الذمة
+",000,False,000,False,False,False,2,33
+"### || AUTO اتحاد الذمة
+",000,False,000,False,False,False,2,21
+"### || AUTO اتحاد الذمة
+",000,False,000,False,False,False,2,21
+"### || AUTO مانع من موانع الرجوع في الهبة
+",000,False,000,False,False,False,2,66
+"### || AUTO ما يعد زيادة مانعة من الرجوع في الهبة
+",000,False,000,False,False,False,2,64
+"### || AUTO القول لمن في قبض الهبة
+",000,False,000,False,False,False,2,31
+"### || AUTO التسوية في الهبة بين الابن والابنة
+",000,False,000,False,False,False,2,41
+"### || AUTO البراءة من العين برائة من الضمان فقط
+",000,False,000,False,False,False,2,43
+"### || AUTO نقل المتاع الموهوب إلى بلد آخر هل يمنع الرجوع
+",000,False,000,False,False,False,2,47
+"### || AUTO الوعاء لا يدخل في الهبة
+",000,False,000,False,False,False,2,28
+"### || AUTO هبة الوعاء لا ترد على ما فيه
+",000,False,000,False,False,False,2,24
+"### || AUTO سرقة الواهب الشيء الموهوب
+",000,False,000,False,False,False,2,35
+"### || AUTO ضمان الواهب فعله في الشيء الموهوب
+",000,False,000,False,False,False,2,68
+"### || AUTO التخيير في الهبة
+",000,False,000,False,False,False,2,41
+"### || AUTO الخيار في الهبة
+",000,False,000,False,False,False,2,30
+"### || AUTO مطلب تصدق الأب بدار على ابنه
+",000,False,000,False,False,False,2,34
+"### || AUTO لا رجوع في الصدقة
+",000,False,000,False,False,False,2,38
+"### || AUTO استحقاق الهبة بعوض مشروط
+",000,False,000,False,False,False,2,42
+"### || AUTO دفع الموهوب له شيء الموهوب له عوضا
+",000,False,000,False,False,False,2,56
+"### || AUTO استحقاق العوض في الهبة يعوض
+",000,False,000,False,False,False,2,40
+"### || AUTO تعويض الواهب بغير شرط
+",000,False,000,False,False,False,2,40
+"### || AUTO الأذن بالصلاة في أرضه
+",000,False,000,False,False,False,2,52
+"### || AUTO لا رجوع في الهبة للمسجد
+",000,False,000,False,False,False,2,42
+"### | AUTO باب بيع الشجرة
+",000,False,000,False,False,False,1,252
+"### || AUTO بأصلها وأرضها
+",000,False,000,False,False,False,2,18
+"### || AUTO بأصلها وأرضها
+",000,False,000,False,False,False,2,6
+"### || AUTO ما علا من الأرض
+",000,False,000,False,False,False,2,22
+"### || AUTO ما علا من الأرض
+",000,False,000,False,False,False,2,25
+"### || AUTO عروق الشجرة
+",000,False,000,False,False,False,2,27
+"### || AUTO عروق الشجرة
+",000,False,000,False,False,False,2,3
+"### || AUTO شجرة بموضعها
+",000,False,000,False,False,False,2,11
+"### || AUTO شجرة بموضعها
+",000,False,000,False,False,False,2,44
+"### || AUTO دور اليد في الإثبات
+",000,False,000,False,False,False,2,45
+"### || AUTO قصيل ترك حتى نما
+",000,False,000,False,False,False,2,47
+"### | AUTO باب الرهن
+",000,False,000,False,False,False,1,1611
+"### || AUTO الباقي من الرهن رهن بالكل ويهلك بحصته
+",000,False,000,False,False,False,2,45
+"### || AUTO السهو عن تحديد مبلغ القرض بعد تمام الرهن
+",000,False,000,False,False,False,2,44
+"### || AUTO الضمان في رهن السيوف
+",000,False,000,False,False,False,2,56
+"### || AUTO ضمان الخاتم المرهون
+",000,False,000,False,False,False,2,40
+"### || AUTO موت الراهن بعد استعارته المرهون
+",000,False,000,False,False,False,2,27
+"### || AUTO معيار ما يضمن في الرهن
+",000,False,000,False,False,False,2,64
+"### || AUTO إقرار أحد المرتهنين بالتلجئة
+",000,False,000,False,False,False,2,48
+"### || AUTO اعتاق العبد المرهون والمشتري
+",000,False,000,False,False,False,2,49
+"### || AUTO رهنان من المطلوب ومن الكفيل
+",000,False,000,False,False,False,2,87
+"### || AUTO رهن وآخر من أجنبيين بغير أمر المطلوب
+",000,False,000,False,False,False,2,45
+"### || AUTO رهن جارية ذات زوج
+",000,False,000,False,False,False,2,49
+"### || AUTO رهن جارية زوجها الراهن
+",000,False,000,False,False,False,2,80
+"### || AUTO رهنتني وفلانا
+",000,False,000,False,False,False,2,15
+"### || AUTO رهنتني وفلانا
+",000,False,000,False,False,False,2,44
+"### || AUTO وهبتها لي ولفلان
+",000,False,000,False,False,False,2,11
+"### || AUTO وهبتها لي ولفلان
+",000,False,000,False,False,False,2,27
+"### || AUTO أجرتني وفلانا
+",000,False,000,False,False,False,2,16
+"### || AUTO أباق العبد المرهون
+",000,False,000,False,False,False,2,53
+"### || AUTO في صيغة الرهن
+",000,False,000,False,False,False,2,52
+"### || AUTO رهن عبد جنى عليه الخ
+",000,False,000,False,False,False,2,57
+"### || AUTO حبس المرهون بما أنفقه المرتهن عليه بأمر القاضي
+",000,False,000,False,False,False,2,62
+"### || AUTO حبس حق الشرب بحصة كريه
+",000,False,000,False,False,False,2,37
+"### || AUTO رهن ببعض حقك
+",000,False,000,False,False,False,2,15
+"### || AUTO رهن ببعض حقك
+",000,False,000,False,False,False,2,20
+"### || AUTO رهن بالمهر
+",000,False,000,False,False,False,2,55
+"### || AUTO الفرق بين: خذ أيهما شئت وبين أحدهما رهن بدينك
+",000,False,000,False,False,False,2,94
+"### || AUTO لبس المرتهن الثوب المرهون بإذن وبدون إذن
+",000,False,000,False,False,False,2,93
+"### || AUTO شرب المرتهن من لبن الشاة المرهون بأذن
+",000,False,000,False,False,False,2,35
+"### || AUTO هلاك المغصوب بعد رهنه
+",000,False,000,False,False,False,2,71
+"### || AUTO وديعة رهنت
+",000,False,000,False,False,False,2,56
+"### || AUTO بيع المغصوب
+",000,False,000,False,False,False,2,37
+"### || AUTO ما يرهن وما لا يرهن
+",000,False,000,False,False,False,2,37
+"### || AUTO هلاك الرهن
+",000,False,000,False,False,False,2,22
+"### || AUTO هلاك الرهن
+",000,False,000,False,False,False,2,8
+"### || AUTO حكم المضمون بغيره
+",000,False,000,False,False,False,2,57
+"### | AUTO باب الفلوس والدراهم إذا بهرجت
+",000,False,000,False,False,False,1,826
+"### || AUTO عروض بدراهم لم تعد تنفق
+",000,False,000,False,False,False,2,56
+"### || AUTO قليل نبهرجه
+",000,False,000,False,False,False,2,17
+"### || AUTO قليل نبهرجه
+",000,False,000,False,False,False,2,37
+"### || AUTO دراهم بلد تغيرت
+",000,False,000,False,False,False,2,26
+"### || AUTO لا خيار رؤية النقود
+",000,False,000,False,False,False,2,22
+"### || AUTO أقرضه دراهم ثم بهرجت
+",000,False,000,False,False,False,2,7
+"### || AUTO أقرضه دراهم ثم بهرجت
+",000,False,000,False,False,False,2,28
+"### || AUTO بدرهم فلوس
+",000,False,000,False,False,False,2,11
+"### || AUTO بدرهم فلوس
+",000,False,000,False,False,False,2,28
+"### || AUTO بدرهم فلوس
+",000,False,000,False,False,False,2,15
+"### || AUTO بدرهم فلوس
+",000,False,000,False,False,False,2,5
+"### || AUTO المزبق والمكحل
+",000,False,000,False,False,False,2,16
+"### || AUTO المزبق والمكحل
+",000,False,000,False,False,False,2,18
+"### || AUTO باع فلسا بفلسين
+",000,False,000,False,False,False,2,6
+"### || AUTO باع فلسا بفلسين
+",000,False,000,False,False,False,2,62
+"### || AUTO درهم زائف
+",000,False,000,False,False,False,2,34
+"### || AUTO مما يعد رضاء بالعيب
+",000,False,000,False,False,False,2,29
+"### || AUTO رؤية الخياط
+",000,False,000,False,False,False,2,33
+"### || AUTO رؤية الخياط
+",000,False,000,False,False,False,2,6
+"### || AUTO ديناران بدينار ودرهم ثم استحق أحد الدينارين
+",000,False,000,False,False,False,2,33
+"### || AUTO نقرة فضة بدراهم جزافا
+",000,False,000,False,False,False,2,10
+"### || AUTO نقرة فضة بدراهم جزافا
+",000,False,000,False,False,False,2,29
+"### || AUTO تدبير العبد الآبق
+",000,False,000,False,False,False,2,29
+"### || AUTO فصيل عظم في بيت المستودع
+",000,False,000,False,False,False,2,44
+"### || AUTO فصيل عظم في بيت مستعار
+",000,False,000,False,False,False,2,48
+"### || AUTO دجاجة ابتلعت لؤلؤة
+",000,False,000,False,False,False,2,35
+"### || AUTO تصارفا مفترقين
+",000,False,000,False,False,False,2,45
+"### || AUTO انعدام المحل
+",000,False,000,False,False,False,2,3
+"### || AUTO تراب الصواغين
+",000,False,000,False,False,False,2,7
+"### || AUTO تراب الصواغين
+",000,False,000,False,False,False,2,19
+"### || AUTO كسب دون سبب
+",000,False,000,False,False,False,2,32
+"### || AUTO بيع الشرب مستقلا لا يجوز
+",000,False,000,False,False,False,2,30
+"### | AUTO باب الآبق واللقطة
+",000,False,000,False,False,False,1,714
+"### || AUTO سقوط الجعل بفرار العبد الآبق ثانية
+",000,False,000,False,False,False,2,44
+"### || AUTO الجعل لمن جاء به من مسيرة ثلاثة أيام ثانية
+",000,False,000,False,False,False,2,25
+"### || AUTO القول للمولى في كون العبد لم يأبق
+",000,False,000,False,False,False,2,42
+"### || AUTO اعتاق المولى عبده الآبق
+",000,False,000,False,False,False,2,39
+"### || AUTO تدبير الآبق
+",000,False,000,False,False,False,2,35
+"### || AUTO اللقطة لا قيمة لها
+",000,False,000,False,False,False,2,37
+"### || AUTO بيع المولى عبده الآبق قبل علمه بالقبض عليه
+",000,False,000,False,False,False,2,79
+"### || AUTO لقطة أقل من عشرة دراهم
+",000,False,000,False,False,False,2,54
+"### || AUTO لقطة قيمتها مائة درهم
+",000,False,000,False,False,False,2,72
+"### || AUTO تملك الأموال السائبة والمباحة
+",000,False,000,False,False,False,2,50
+"### || AUTO تملك المباح بوضع اليد دلالة
+",000,False,000,False,False,False,2,44
+"### || AUTO بعير مذبوح في البادية
+",000,False,000,False,False,False,2,37
+"### || AUTO العبد الآبق يؤمر شخص يأخذه
+",000,False,000,False,False,False,2,36
+"### || AUTO هبة العبد الآبق ممن جاء به بعد قبضه لا تسقط الجعل
+",000,False,000,False,False,False,2,37
+"### || AUTO بيع الآبق ممن جاء به
+",000,False,000,False,False,False,2,16
+"### || AUTO ملتقط لفظة أضاعها ثم وجدها
+",000,False,000,False,False,False,2,32
+"### || AUTO ضالة هلكت بعد أن أنفق عليها بأمر القاضي
+",000,False,000,False,False,False,2,31
+"### | AUTO باب الأشربة
+",000,False,000,False,False,False,1,777
+"### || AUTO ما أسكر كثيره
+",000,False,000,False,False,False,2,12
+"### || AUTO ما أسكر كثيره
+",000,False,000,False,False,False,2,11
+"### || AUTO عصير ذهب أقل من ثلثيه
+",000,False,000,False,False,False,2,21
+"### || AUTO السؤال عن الخبز والنبيذ
+",000,False,000,False,False,False,2,22
+"### || AUTO نقيع الزبيب ونقيع التمر
+",000,False,000,False,False,False,2,10
+"### || AUTO نقيع الزبيب ونقيع التمر
+",000,False,000,False,False,False,2,22
+"### || AUTO نقيع الأجاص والتين
+",000,False,000,False,False,False,2,9
+"### || AUTO نقيع الأجاص والتين
+",000,False,000,False,False,False,2,4
+"### || AUTO إنزال العصير قبل ذهاب ثلثيه
+",000,False,000,False,False,False,2,51
+"### || AUTO دوارق عصير وماء
+",000,False,000,False,False,False,2,45
+"### || AUTO الإكراه على شرب النبيذ
+",000,False,000,False,False,False,2,39
+"### || AUTO طبخ العنب بالدادي
+",000,False,000,False,False,False,2,58
+"### || AUTO طلي الخائبة بالخردل
+",000,False,000,False,False,False,2,43
+"### || AUTO شرب الأنبذة باقتصاد سنة
+",000,year,000,False,False,False,2,40
+"### || AUTO عصير لا يصير خلا إلا إذا صار خمرا
+",000,False,000,False,False,False,2,70
+"### || AUTO شق زق لمسلم
+",000,False,000,False,False,False,2,13
+"### || AUTO شق زق لمسلم
+",000,False,000,False,False,False,2,39
+"### || AUTO كسر حباب فيه خمر
+",000,False,000,False,False,False,2,26
+"### || AUTO شق زق لمشرك
+",000,False,000,False,False,False,2,41
+"### || AUTO الكأس المسكرة
+",000,False,000,False,False,False,2,9
+"### || AUTO الكأس المسكرة
+",000,False,000,False,False,False,2,5
+"### || AUTO قعد السكر
+",000,False,000,False,False,False,2,33
+"### || AUTO رأي أبو يوسف في النبيذ
+",000,False,000,False,False,False,2,55
+"### || AUTO عصير طبخ فذهب ثلثاه ثم اشتد
+",000,False,000,False,False,False,2,37
+"### || AUTO طلاق من سكر بالبنج الخ
+",000,False,000,False,False,False,2,59
+"### | AUTO باب ما يكره وما لا يكره
+",000,False,000,False,False,False,1,869
+"### || AUTO الخضاب
+",000,False,000,False,False,False,2,11
+"### || AUTO الخضاب
+",000,False,000,False,False,False,2,17
+"### || AUTO لبس الخز
+",000,False,000,False,False,False,2,9
+"### || AUTO لبس الخز
+",000,False,000,False,False,False,2,17
+"### || AUTO الثوب المشبع بالعصفر
+",000,False,000,False,False,False,2,8
+"### || AUTO الثوب المشبع بالعصفر
+",000,False,000,False,False,False,2,6
+"### || AUTO تحلية المنطقة وحمائل السيف بالفضة
+",000,False,000,False,False,False,2,11
+"### || AUTO تحلية المنطقة وحمائل السيف بالفضة
+",000,False,000,False,False,False,2,10
+"### || AUTO خوان الذهب والفضة الخ
+",000,False,000,False,False,False,2,82
+"### || AUTO مطلب الستور
+",000,False,000,False,False,False,2,17
+"### || AUTO كسب المغنية والنائحة
+",000,False,000,False,False,False,2,11
+"### || AUTO كسب المغنية والنائحة
+",000,False,000,False,False,False,2,35
+"### || AUTO قتل الأمة المغنية خطأ
+",000,False,000,False,False,False,2,30
+"### || AUTO هدم بيت مصور
+",000,False,000,False,False,False,2,54
+"### || AUTO لا يمنع الذمي من الخمر والخنزير
+",000,False,000,False,False,False,2,21
+"### || AUTO حضور وليمة فيها لعابون
+",000,False,000,False,False,False,2,29
+"### || AUTO شد الأسنان بالذهب
+",000,False,000,False,False,False,2,10
+"### || AUTO شد الأسنان بالذهب
+",000,False,000,False,False,False,2,13
+"### || AUTO شد الثنية الساقطة
+",000,False,000,False,False,False,2,55
+"### || AUTO قلنسوة الثعالب
+",000,False,000,False,False,False,2,9
+"### || AUTO قلنسوة الثعالب
+",000,False,000,False,False,False,2,14
+"### || AUTO القلم الحرير في الثوب
+",000,False,000,False,False,False,2,9
+"### || AUTO القلم الحرير في الثوب
+",000,False,000,False,False,False,2,15
+"### || AUTO التختم بالحديد
+",000,False,000,False,False,False,2,5
+"### || AUTO التختم بالحديد
+",000,False,000,False,False,False,2,8
+"### || AUTO المعانقة والقبلة
+",000,False,000,False,False,False,2,7
+"### || AUTO المعانقة والقبلة
+",000,False,000,False,False,False,2,29
+"### || AUTO افتراش الحرير وتوسد الديباج
+",000,False,000,False,False,False,2,16
+"### || AUTO افتراش الحرير وتوسد الديباج
+",000,False,000,False,False,False,2,20
+"### || AUTO جلد الكلب المدبوغ
+",000,False,000,False,False,False,2,19
+"### || AUTO الجلود المدبوغة
+",000,False,000,False,False,False,2,29
+"### || AUTO الوضوء بالدقيق أو السويق
+",000,False,000,False,False,False,2,11
+"### || AUTO الوضوء بالدقيق أو السويق
+",000,False,000,False,False,False,2,24
+"### || AUTO حكم من ماتت وفي بطنها ولد
+",000,False,000,False,False,False,2,36
+"### || AUTO الحقنة
+",000,False,000,False,False,False,2,9
+"### || AUTO الحقنة
+",000,False,000,False,False,False,2,14
+"### || AUTO بلع درة رجل
+",000,False,000,False,False,False,2,31
+"### || AUTO بدأ الكافر بالسلام
+",000,False,000,False,False,False,2,26
+"### || AUTO بيع الثور لمجوسي
+",000,False,000,False,False,False,2,31
+"### || AUTO التصرف بأرض الحوز
+",000,False,000,False,False,False,2,54
+"### | AUTO باب الشركة
+",000,False,000,False,False,False,1,1265
+"### || AUTO المشاركة فيما اشترى من أموال التجارة
+",000,False,000,False,False,False,2,59
+"### || AUTO الوكالة والمشاركة في عبد اشتراه
+",000,False,000,False,False,False,2,46
+"### || AUTO سلطة الشريك في شركة العنان في الاستقراض
+",000,False,000,False,False,False,2,80
+"### || AUTO تفضيل الربح لأحد شريكي شركة الصنائع
+",000,False,000,False,False,False,2,24
+"### || AUTO صفة رأس المال
+",000,False,000,False,False,False,2,42
+"### || AUTO قبول الوكالة دلالة والقول لمن؟
+",000,False,000,False,False,False,2,74
+"### || AUTO معيار التفرقة بين شركتي المفاوضة والعنان
+",000,False,000,False,False,False,2,51
+"### || AUTO شركة الصانع
+",000,False,000,False,False,False,2,20
+"### || AUTO لأحد شريكي المفاوضة تبر ذهب أو فضة
+",000,False,000,False,False,False,2,44
+"### || AUTO ما يرثه أحد الشريكين
+",000,False,000,False,False,False,2,34
+"### || AUTO إقراض أحد المتفاوضين
+",000,False,000,False,False,False,2,25
+"### || AUTO إشراك اثنين على التوالي فيما اشتراه
+",000,False,000,False,False,False,2,55
+"### || AUTO قال: له ثلاثة على التوالي اشتر شيئا معينا بيني وبينك
+",000,False,000,False,False,False,2,80
+"### || AUTO إشراك أحد الشريكين في الشيء غيرهما فيه
+",000,False,000,False,False,False,2,41
+"### || AUTO أشركه في حنطته كلها فذهب نصفها
+",000,False,000,False,False,False,2,51
+"### || AUTO الدين المشترك
+",000,False,000,False,False,False,2,24
+"### || AUTO تزوجها أحد الشريكين في الدين على حصته فيما لهما من دين عليها
+",000,False,000,False,False,False,2,41
+"### || AUTO تزوجها أحد الشريكين على مقدار نصف الدين الذي في ذمتها ثم جعل مبلغ المهر قصاصا
+",000,False,000,False,False,False,2,35
+"### || AUTO استأجر بحصته من الدين شيئا
+",000,False,000,False,False,False,2,67
+"### || AUTO مفاوض اشترى عبدا
+",000,False,000,False,False,False,2,35
+"### || AUTO منع أحد المتفاوضين شريكه من بيع جارية بعينها
+",000,False,000,False,False,False,2,35
+"### || AUTO دفع الأجرة لأحد القصارين الشريكين
+",000,False,000,False,False,False,2,57
+"### || AUTO شراء أحد المفاوضين جارية لنفسه
+",000,False,000,False,False,False,2,62
+"### || AUTO تقبل القصارين والخياطين مفاوضة
+",000,False,000,False,False,False,2,44
+"### || AUTO شركة الأعمال
+",000,False,000,False,False,False,2,48
+"### || AUTO تقبل غير الشركاء
+",000,False,000,False,False,False,2,54
+"### || AUTO خلطا حنطتيهما واشتركا بالثلث
+",000,False,000,False,False,False,2,34
+"### | AUTO باب المضاربة
+",000,False,000,False,False,False,1,621
+"### || AUTO المضاربة بالفلوس
+",000,False,000,False,False,False,2,11
+"### || AUTO المضاربة بالفلوس
+",000,False,000,False,False,False,2,24
+"### || AUTO المضاربة بالفلوس
+",000,False,000,False,False,False,2,11
+"### || AUTO نفقة المضارب
+",000,False,000,False,False,False,2,26
+"### || AUTO نفقة شريك العنان
+",000,False,000,False,False,False,2,45
+"### || AUTO الإذن بالتجارة للصغير والوصي
+",000,False,000,False,False,False,2,49
+"### || AUTO الضمان في المضاربة
+",000,False,000,False,False,False,2,71
+"### ||| AUTO هلاك المال في يدي المضارب الثاني
+",000,False,000,False,False,False,3,31
+"### ||| AUTO لا يضمن ما لم يربح
+",000,False,000,False,False,False,3,36
+"### || AUTO القول لمن في المضاربة بالنقد والنسيئة الخ
+",000,False,000,False,False,False,2,42
+"### || AUTO تعاقد المضارب مع رب المال والعكس
+",000,False,000,False,False,False,2,38
+"### || AUTO دفع مال المضاربة لرب المال
+",000,False,000,False,False,False,2,39
+"### || AUTO المضاربة الفاسدة وهلاك المال
+",000,False,000,False,False,False,2,75
+"### || AUTO أجر المضارب في المضاربة الفاسدة
+",000,False,000,False,False,False,2,49
+"### || AUTO جحد المضاربة ثم الإقرار بها
+",000,False,000,False,False,False,2,99
+"### || AUTO جحد الوكيل ثم إقراره
+",000,False,000,False,False,False,2,39
+"### | AUTO باب الشرب
+",000,False,000,False,False,False,1,351
+"### || AUTO أذن أصحاب النهر لغيرهم بالسقي
+",000,False,000,False,False,False,2,61
+"### || AUTO ملء الحب من نهر لا يملكه
+",000,False,000,False,False,False,2,36
+"### || AUTO التعريش في بستانه على ساقية الغير
+",000,False,000,False,False,False,2,28
+"### || AUTO مهايأة السقي من نهر بينهما
+",000,False,000,False,False,False,2,61
+"### || AUTO كيفية الانتفاع بنهر الشفة
+",000,False,000,False,False,False,2,55
+"### || AUTO اتخاذ الفواليز
+",000,False,000,False,False,False,2,30
+"### || AUTO غرس الشجر على نهر الشرب
+",000,False,000,False,False,False,2,35
+"### || AUTO كري النهر
+",000,False,000,False,False,False,2,12
+"### || AUTO كري النهر
+",000,False,000,False,False,False,2,22
+"### || AUTO كري النهر
+",000,False,000,False,False,False,2,8
+"### | AUTO باب العتاق
+",000,False,000,False,False,False,1,943
+"### || AUTO مال العبد المعتق
+",000,False,000,False,False,False,2,24
+"### || AUTO اعتاق أحد الشريكين العبد
+",000,False,000,False,False,False,2,22
+"### || AUTO معيار اليسار
+",000,False,000,False,False,False,2,18
+"### || AUTO أنتم أحرار إلا
+",000,False,000,False,False,False,2,14
+"### || AUTO أنتم أحرار إلا
+",000,False,000,False,False,False,2,17
+"### || AUTO كل مملوك اشتريه فهو حر أن ...
+",000,False,000,False,False,False,2,54
+"### || AUTO ارتداد المعتقة عتقا معلقا على شرط
+",000,False,000,False,False,False,2,37
+"### || AUTO قوله لعبده يا بني يعتقه الخ
+",000,False,000,False,False,False,2,23
+"### || AUTO قوله لعبده: يا مولاي أو يا حر
+",000,False,000,False,False,False,2,51
+"### || AUTO قوله لعبده: يا سيدي
+",000,False,000,False,False,False,2,21
+"### || AUTO تعليق عتقها في الوصية على خدمتها
+",000,False,000,False,False,False,2,21
+"### || AUTO إذا خدمت ابني وابنتي حتى يستغنيا فأنت حرة 000؟
+",000,False,000,False,False,False,2,60
+"### || AUTO المأذون
+",000,False,000,False,False,False,2,50
+"### || AUTO تعليق عتقه على أداء مبلغ ظهر فيه زيوف
+",000,False,000,False,False,False,2,54
+"### || AUTO اشتر لنفسك بألف درهم
+",000,False,000,False,False,False,2,11
+"### || AUTO اشتر لنفسك بألف درهم
+",000,False,000,False,False,False,2,35
+"### || AUTO قول ابن المورث لأحد العبيد في التركة هذا أخي الخ
+",000,False,000,False,False,False,2,62
+"### || AUTO إن وهبك فلان مني فأنت حر
+",000,False,000,False,False,False,2,14
+"### || AUTO إن وهبك فلان مني فأنت حر
+",000,False,000,False,False,False,2,49
+"### || AUTO أحدكما حر
+",000,False,000,False,False,False,2,10
+"### || AUTO أحدكما حر
+",000,False,000,False,False,False,2,27
+"### || AUTO أقر لأحدهما
+",000,False,000,False,False,False,2,34
+"### || AUTO أقر بمملوك أبيه لغيره ثم اقر بأنه اعتق
+",000,False,000,False,False,False,2,54
+"### || AUTO قال: لأمته وهي حامل أنت حرة الخ
+",000,False,000,False,False,False,2,33
+"### || AUTO قال: لغلامه يا بني
+",000,False,000,False,False,False,2,26
+"### || AUTO ادعت العتق وأنكر المولى
+",000,False,000,False,False,False,2,38
+"### || AUTO هو ابني
+",000,False,000,False,False,False,2,10
+"### || AUTO هو ابني
+",000,False,000,False,False,False,2,16
+"### || AUTO دبره أحدهما واعتق الآخر معا
+",000,False,000,False,False,False,2,14
+"### || AUTO دبره أحدهما واعتق الآخر معا
+",000,False,000,False,False,False,2,41
+"### | AUTO باب المكاتب
+",000,False,000,False,False,False,1,615
+"### || AUTO تكافل المدينين
+",000,False,000,False,False,False,2,24
+"### || AUTO شرط أن عجزا ردا إلى الرق
+",000,False,000,False,False,False,2,50
+"### || AUTO كاتبهما ولم يشترط ردهما إلى الرق بالعجز
+",000,False,000,False,False,False,2,53
+"### || AUTO كاتبه على شيء بعينه
+",000,False,000,False,False,False,2,33
+"### || AUTO كاتبه على عبد بعينه أو جارية بعينها
+",000,False,000,False,False,False,2,92
+"### || AUTO كاتبه على خمر
+",000,False,000,False,False,False,2,81
+"### || AUTO مكاتب ارتد ولحق
+",000,False,000,False,False,False,2,5
+"### || AUTO مكاتب ارتد ولحق
+",000,False,000,False,False,False,2,35
+"### || AUTO مكاتبة الورثة عبدا لمورثهم المرتد
+",000,False,000,False,False,False,2,33
+"### || AUTO طلب المكاتب رجوعه في الرق لعجزه
+",000,False,000,False,False,False,2,35
+"### || AUTO اعتاق الوارثين أو أحدهما مكاتب المورث
+",000,False,000,False,False,False,2,59
+"### || AUTO قضاء أبي يوسف في ثلاثة آلاف تركها رجل
+",000,False,000,False,False,False,2,112
+"### | AUTO باب السير
+",000,False,000,False,False,False,1,6116
+"### || AUTO إدعاء الخارجين من دار الحرب الإسلام
+",000,False,000,False,False,False,2,70
+"### || AUTO مدبر قتل قتيلا خطأ
+",000,False,000,False,False,False,2,9
+"### || AUTO مدبر قتل قتيلا خطأ
+",000,False,000,False,False,False,2,33
+"### || AUTO إسلام أهل الحرب
+",000,False,000,False,False,False,2,60
+"### || AUTO إهداء ملك من دار الحرب إلى الخليفة من أحرارهم
+",000,False,000,False,False,False,2,69
+"### || AUTO جناية المستأمنين على بعضهم وعلى المسلمين
+",000,False,000,False,False,False,2,48
+"### || AUTO حكم الزنادقة والمتزندقين
+",000,False,000,False,False,False,2,24
+"### || AUTO اباق العبد المسلم لمسلم إلى دار الإسلام
+",000,False,000,False,False,False,2,96
+"### || AUTO حكم الساحر
+",000,False,000,False,False,False,2,49
+"### || AUTO الصبي متى يصلي
+",000,False,000,False,False,False,2,20
+"### || AUTO الصبي متى يصلي
+",000,False,000,False,False,False,2,14
+"### || AUTO صلاة الكافر مع المسلمين بصلاتهم
+",000,False,000,False,False,False,2,34
+"### || AUTO إذن الوالدين بالجهاد
+",000,False,000,False,False,False,2,56
+"### || AUTO السفر إلى غير الجهاد
+",000,False,000,False,False,False,2,50
+"### || AUTO السفر إلى الجهاد
+",000,False,000,False,False,False,2,29
+"### || AUTO إدخال المصاحف أرض العدو
+",000,False,000,False,False,False,2,9
+"### || AUTO إدخال المصاحف أرض العدو
+",000,False,000,False,False,False,2,43
+"### || AUTO التبادل الثقافي الديني مع دار الحرب
+",000,False,000,False,False,False,2,54
+"### || AUTO نية الأسير المسلم الإقامة في دار الحرب
+",000,False,000,False,False,False,2,27
+"### || AUTO أين يدفن القتيل
+",000,False,000,False,False,False,2,76
+"### || AUTO قتيل أوصى بوصية ثم مات
+",000,False,000,False,False,False,2,60
+"### || AUTO من يدخل في الأمان من القرابة والبنين والموالي وما يدخل من المتاع
+",000,False,000,False,False,False,2,120
+"### || AUTO دلالة اليد على الملك
+",000,False,000,False,False,False,2,27
+"### || AUTO أوصى بألف درهم
+",000,False,000,False,False,False,2,42
+"### || AUTO أمنوه على عشرة رؤوس من رقيقه
+",000,False,000,False,False,False,2,27
+"### || AUTO أوصى بخدمة عبده لرجل ورقبته لآخر فأسر العبد الخ
+",000,False,000,False,False,False,2,36
+"### || AUTO أوصى بطائفة من ماله
+",000,False,000,False,False,False,2,61
+"### || AUTO من أصاب ذهبا أو فضة فله كذا
+",000,False,000,False,False,False,2,44
+"### || AUTO الفضة والذهب لا ينصرفان إلى الدراهم والدنانير
+",000,False,000,False,False,False,2,18
+"### || AUTO الثوب لا ينصرف إلى القلنسوة
+",000,False,000,False,False,False,2,43
+"### || AUTO المتاع ينصرف إلى الثياب والبسط الخ
+",000,False,000,False,False,False,2,53
+"### || AUTO ما ينصرف إليه الصوف
+",000,False,000,False,False,False,2,35
+"### || AUTO ما ينصرف إليه الجز
+",000,False,000,False,False,False,2,33
+"### || AUTO من قتل قتيلا فله سلبه
+",000,False,000,False,False,False,2,67
+"### || AUTO متى يعتبر أمير العسكر معزولا؟
+",000,False,000,False,False,False,2,38
+"### || AUTO متى يعتبر أمير المصر معزولا؟
+",000,False,000,False,False,False,2,40
+"### || AUTO ما تنصرف إليه الدابة
+",000,False,000,False,False,False,2,44
+"### || AUTO الزيادة على أجر المثل
+",000,False,000,False,False,False,2,48
+"### || AUTO خطأ القاضي وتعمده
+",000,False,000,False,False,False,2,78
+"### || AUTO ضمان الأجير المشترك
+",000,False,000,False,False,False,2,46
+"### || AUTO استأجر قوما مشاهرة
+",000,False,000,False,False,False,2,6
+"### || AUTO استأجر قوما مشاهرة
+",000,False,000,False,False,False,2,92
+"### || AUTO إن قتلت ذلك الفارس فلك كذا
+",000,False,000,False,False,False,2,37
+"### || AUTO لو أمر الذمي بالقتل
+",000,False,000,False,False,False,2,8
+"### || AUTO لو أمر الذمي بالقتل
+",000,False,000,False,False,False,2,26
+"### || AUTO استئجار الأمير من يقتل الأسير
+",000,False,000,False,False,False,2,30
+"### || AUTO ما تجوز فيه المهاياة على الفرس المشترك
+",000,False,000,False,False,False,2,80
+"### || CHECK قبول الإقال: ة من البيع دلالة
+",000,False,000,False,False,False,2,7
+"### || AUTO هلاك الخمس في يد الإمام الخ
+",000,False,000,False,False,False,2,35
+"### || AUTO هلاك الثلث
+",000,False,000,False,False,False,2,106
+"### || AUTO قبول الشراء دلالة
+",000,False,000,False,False,False,2,43
+"### || AUTO العقد بين غائبين بالمراسلة وبدونها
+",000,False,000,False,False,False,2,35
+"### || AUTO المال المتروك المباح
+",000,False,000,False,False,False,2,85
+"### || AUTO جواز الهبة لمن يشاء أن يأخذ
+",000,False,000,False,False,False,2,45
+"### || AUTO حكم القاضي لنفسه
+",000,False,000,False,False,False,2,30
+"### || AUTO أول أمر الفتنة الكبرى
+",000,False,000,False,False,False,2,65
+"### ||| AUTO شراء عثمان بن عفان إبل الصدقة بالمزاد
+",000,False,000,False,False,False,3,60
+"### || AUTO ما يعد قبضا
+",000,False,000,False,False,False,2,199
+"### || AUTO ضمان ثمن الغنيمة المبيعة
+",000,False,000,False,False,False,2,25
+"### || AUTO ضمن القاضي مال اليتيم
+",000,False,000,False,False,False,2,27
+"### || AUTO ضمن الأب والوصي مال اليتيم
+",000,False,000,False,False,False,2,38
+"### || AUTO حكم الطعام والعلف في دار الحرب
+",000,False,000,False,False,False,2,188
+"### || AUTO طيب الكسب
+",000,False,000,False,False,False,2,49
+"### || AUTO كسب دون سبب
+",000,False,000,False,False,False,2,37
+"### || AUTO أجر الناقل
+",000,False,000,False,False,False,2,64
+"### || AUTO هدية ملك العدو لرسول أمير عسكر المسلمين أو لأمير عسكرهم
+",000,False,000,False,False,False,2,71
+"### || AUTO أعتق عبدا على دراهم وخمر
+",000,False,000,False,False,False,2,26
+"### || AUTO أعتق عبدا على دراهم وميتة أو دم
+",000,False,000,False,False,False,2,24
+"### || AUTO خروج المدين إلى أرض العدو
+",000,False,000,False,False,False,2,60
+"### || AUTO طبول الحرب وأجراسها
+",000,False,000,False,False,False,2,127
+"### || AUTO لبس ثوب القز في الحرب
+",000,False,000,False,False,False,2,27
+"### || AUTO ستر الحيطان باللبود
+",000,False,000,False,False,False,2,24
+"### || AUTO استعمال الديباج والذهب والفضة
+",000,False,000,False,False,False,2,27
+"### || AUTO تزيين الدار
+",000,False,000,False,False,False,2,58
+"### ||| AUTO أسس الأخلاق الإسلامية
+",000,False,000,False,False,False,3,55
+"### || AUTO بيع السلاح في الفتنة
+",000,False,000,False,False,False,2,17
+"### || AUTO بيع السلاح في الفتنة
+",000,False,000,False,False,False,2,9
+"### || AUTO بيع السلاح في الفتنة
+",000,False,000,False,False,False,2,10
+"### || AUTO الحسبة
+",000,False,000,False,False,False,2,16
+"### || AUTO الحسبة
+",000,False,000,False,False,False,2,20
+"### || AUTO بيع الذمي الخمر والخنزير في دار الإسلام
+",000,False,000,False,False,False,2,43
+"### || AUTO فداء الأسير بأمره
+",000,False,000,False,False,False,2,43
+"### || AUTO فداء المكاتب بأمره
+",000,False,000,False,False,False,2,62
+"### || AUTO فداء العبد المأذون بأمره
+",000,False,000,False,False,False,2,28
+"### || AUTO أمره بشراء أسير من دار الحرب
+",000,False,000,False,False,False,2,48
+"### || AUTO وكيل الأسير من يفديه
+",000,False,000,False,False,False,2,46
+"### || AUTO غصب أهل دار الحرب بعضهم بعضا
+",000,False,000,False,False,False,2,7
+"### || AUTO الرجوع إلى قانونهم قبل إسلامهم
+",000,False,000,False,False,False,2,65
+"### || AUTO الوفاء للمشركين
+",000,False,000,False,False,False,2,39
+"### || AUTO زواج الأسير في دار الحرب
+",000,False,000,False,False,False,2,93
+"### || AUTO أمة مسلمة سبيت فوطئها حربي
+",000,False,000,False,False,False,2,28
+"### || AUTO التقدم إليه بالخروج
+",000,False,000,False,False,False,2,18
+"### || AUTO أخذ الخراج منه بعد إقامته سنة
+",000,year,000,False,False,False,2,16
+"### || AUTO متى يصبح ذمة
+",000,False,000,False,False,False,2,105
+"### || AUTO فصل في المرتد
+",000,False,000,False,False,False,2,123
+"### ||| AUTO عتق المرتد عبده/توكيله بذلك
+",000,False,000,False,False,False,3,69
+"### ||| AUTO ارتداد من علق عتقه ولحوقه بدار الحرب
+",000,False,000,False,False,False,3,50
+"### || AUTO حكم ما يسترده المسلمون مع العدو
+",000,False,000,False,False,False,2,109
+"### || AUTO المشتري يرهن العين أو يؤجرها ثم يجد عيبا
+",000,False,000,False,False,False,2,49
+"### || AUTO بعير في سهمه جعله بدنة
+",000,False,000,False,False,False,2,47
+"### || AUTO دابة في سهمه جعلها وقفا
+",000,False,000,False,False,False,2,22
+"### || AUTO حبس الفرس في سبيل الله عشرين سنة
+",000,year,000,False,False,False,2,31
+"### || AUTO عبد ليتيم سبي فاشتراه رجل
+",000,False,000,False,False,False,2,64
+"### || AUTO الشهادة على الغائب بالطلاق
+",000,False,000,False,False,False,2,19
+"### || AUTO إخبار الزوجة بوفاة زوجها
+",000,False,000,False,False,False,2,32
+"### || AUTO أخبرها واحد بوفاة زوجها
+",000,False,000,False,False,False,2,28
+"### || AUTO زعمت أن زوجها ارتد وهو أسير
+",000,False,000,False,False,False,2,36
+"### || AUTO ما لا يصدقه القاضي من أقوال الزوجين
+",000,False,000,False,False,False,2,58
+"### || AUTO القول قول المعروف بالجنون بأنه كان مجنونا يوم طلق
+",000,False,000,False,False,False,2,37
+"### || AUTO اشترط عليه أهل الحرب أن لا يخرج إلا بأذن من ملكهم
+",000,False,000,False,False,False,2,57
+"### || AUTO تغير صفة المنتفع من وصية وما إليها
+",000,False,000,False,False,False,2,66
+"### || AUTO هبة الحربي المستأمن
+",000,False,000,False,False,False,2,60
+"### || AUTO الوصية في سبيل الله
+",000,False,000,False,False,False,2,58
+"### || AUTO ما يعد قرضا أو صلة في الغزو في سبيل الله
+",000,False,000,False,False,False,2,32
+"### || AUTO حربي أسلم في دار الإسلام
+",000,False,000,False,False,False,2,28
+"### || AUTO حولان الحول على السائمة في دار الإسلام
+",000,False,000,False,False,False,2,22
+"### || AUTO حولان الحول على المسلم في دار الحرب
+",000,False,000,False,False,False,2,54
+"### || AUTO مر على العاشر فكتمه
+",000,False,000,False,False,False,2,28
+"### || AUTO حربي مر على العاشر
+",000,False,000,False,False,False,2,9
+"### || AUTO حربي مر على العاشر
+",000,False,000,False,False,False,2,19
+"### || AUTO لقطة دار الحرب
+",000,False,000,False,False,False,2,45
+"### || AUTO ادعاء الحربي أنه مسلم
+",000,False,000,False,False,False,2,102
+"### || AUTO المستأمن بعد إقامته سنة
+",000,year,000,False,False,False,2,66
+"### || AUTO حربي اشترى أرضا في دار الإسلام فغصبت
+",000,False,000,False,False,False,2,47
+"### || AUTO حربيان اشترى أحدهما أرضا في دار الإسلام
+",000,False,000,False,False,False,2,90
+"### || AUTO حربي استأجر أرض عشر
+",000,False,000,False,False,False,2,31
+"### || AUTO ذمي سرق صبيا من دار الحرب ثم أخرجه
+",000,False,000,False,False,False,2,31
+"### || AUTO ذمي اشترى صبيا في دار الحرب
+",000,False,000,False,False,False,2,79
+"### || AUTO الترك سبوا صغار أهل الحرب
+",000,False,000,False,False,False,2,42
+"### || AUTO إسلام الصبي من أهل الحرب بإسلام أبيه بعد أسره
+",000,False,000,False,False,False,2,45
+"### || AUTO حربي صار ذميا ثم سبي ابنه
+",000,False,000,False,False,False,2,33
+"### || AUTO حربي أسلم وأخرج ماله
+",000,False,000,False,False,False,2,27
+"### || AUTO حديث الحجاج بن علاط
+",000,False,000,False,False,False,2,43
+"### | AUTO باب الحيل والمخارج
+",000,False,000,False,False,False,1,4
+"### | AUTO كتاب الحيل
+",000,False,000,False,False,False,1,15
+"### | AUTO كتاب الحيل
+",000,False,000,False,False,False,1,9
+"### | AUTO كتاب الحيل
+",000,False,000,False,False,False,1,19
+"### | AUTO كتاب الحيل
+",000,False,000,False,False,False,1,2999
+"### || AUTO المقصود بالحيلة
+",000,False,000,False,False,False,2,25
+"### || AUTO سند الحيل من الكتاب
+",000,False,000,False,False,False,2,22
+"### || AUTO سند الحيلة من الآثار
+",000,False,000,False,False,False,2,33
+"### || AUTO مثال لحيلة مشروعة
+",000,False,000,False,False,False,2,56
+"### || AUTO الحيلة في تجنب فساد العقد
+",000,False,000,False,False,False,2,38
+"### || AUTO الحيلة في إبطال خيار الرؤية
+",000,False,000,False,False,False,2,47
+"### || AUTO الحيلة في جعل مال المضاربة مضمونا
+",000,False,000,False,False,False,2,42
+"### || AUTO الحيلة في إثبات كون الدين مؤجلا
+",000,False,000,False,False,False,2,71
+"### || AUTO الحيلة في القضاء على الغائب بدين
+",000,False,000,False,False,False,2,85
+"### || AUTO الحيلة في رهن نصف الدار المشاع
+",000,False,000,False,False,False,2,39
+"### || AUTO الحيلة في إثبات الرهن على الراهن الغائب
+",000,False,000,False,False,False,2,32
+"### || AUTO الحيلة في إثبات المستأجر ما أنفقه على العين بأمر المؤجر
+",000,False,000,False,False,False,2,52
+"### || AUTO الحيل في بيع العبد المدبر
+",000,False,000,False,False,False,2,58
+"### || AUTO الحيلة في إيجار دار فيها نخل
+",000,False,000,False,False,False,2,30
+"### || AUTO الحيلة في الإجارة لا تنقضي بموت المؤاجرين
+",000,False,000,False,False,False,2,61
+"### || AUTO إجارة الأرض مع عين النفط أو القير
+",000,False,000,False,False,False,2,35
+"### || AUTO الحيلة في شراء الوكيل ما وكل ببيعه
+",000,False,000,False,False,False,2,45
+"### || AUTO الحيلة في نقل العهدة عن الوكيل
+",000,False,000,False,False,False,2,31
+"### || AUTO الحيلة في وطأ المكاتبة
+",000,False,000,False,False,False,2,24
+"### || AUTO مطلب: حرة
+",000,False,000,False,False,False,2,35
+"### ||| AUTO أولاد أحرار من أمة غير أم ولد
+",000,False,000,False,False,False,3,32
+"### || AUTO المخرج في يمن من حلف أن لا ينفق على امرأته
+",000,False,000,False,False,False,2,48
+"### || AUTO المخرج من يمين من حلف لا يسكن هذه الدار
+",000,False,000,False,False,False,2,38
+"### || AUTO حلف لا يصوم شهر رمضان
+",000,False,000,False,False,False,2,27
+"### || AUTO حلف ليعطين فلانا حقه ولا يتهيأ له
+",000,False,000,False,False,False,2,29
+"### || AUTO حلف بالعتاق والطلاق على أكل عشر جوزات
+",000,False,000,False,False,False,2,74
+"### || AUTO حلف على معرفة امرأته عدد دراهم أنفقتها
+",000,False,000,False,False,False,2,81
+"### || AUTO أن صدقتني في كذا وإلا فأنت طالق
+",000,False,000,False,False,False,2,71
+"### || AUTO البيع بشرط البراءة من كل عيب
+",000,False,000,False,False,False,2,16
+"### || AUTO رأى ابن أبي ليلى في شرط البراءة من كل عيب
+",000,False,000,False,False,False,2,62
+"### || AUTO الحيلة في جعل الوقف ملزما
+",000,False,000,False,False,False,2,42
+"### || AUTO المخرج من النذر
+",000,False,000,False,False,False,2,49
+"### || AUTO له ديون على الناس؟
+",000,False,000,False,False,False,2,43
+"### || AUTO اللقمة المشؤمة
+",000,False,000,False,False,False,2,29
+"### || AUTO أن خرجت من هذه الدار إلا بأذني الخ
+",000,False,000,False,False,False,2,36
+"### || AUTO تخويف المرأة بأنت طارق
+",000,False,000,False,False,False,2,21
+"### || AUTO بيع البرج مع الحمام
+",000,False,000,False,False,False,2,50
+"### || AUTO التعليقان المتقابلان على: أن كلمتني
+",000,False,000,False,False,False,2,36
+"### || AUTO خيار الصغيرة زوجها عمها
+",000,False,000,False,False,False,2,15
+"### || AUTO استعمال حقين معا خشية سقوط أحدهما باستعمال الآخر
+",000,False,000,False,False,False,2,41
+"### || AUTO الحيلة في جعل ما يقضيه الكفيل بالنفس من دين على المطلوب للكفيل نفسه
+",000,False,000,False,False,False,2,73
+"### || AUTO الصلح على الميراث
+",000,False,000,False,False,False,2,71
+"### || AUTO الحيلة في إسقاط رجوع الشريك في الدين على شريكه
+",000,False,000,False,False,False,2,78
+"### || AUTO حبلى أرادت أن تهب مهرها لزوجها أن ماتت
+",000,False,000,False,False,False,2,43
+"### || AUTO الشرط الجزائي الاتفاقي
+",000,False,000,False,False,False,2,63
+"### || AUTO الحيلة في إسقاط المشتري الشفعة
+",000,False,000,False,False,False,2,135
+"### || AUTO الاحتيال في إبطال الشفعة
+",000,False,000,False,False,False,2,15
+"### || AUTO الاحتيال في إبطال الشفعة
+",000,False,000,False,False,False,2,10
+"### || AUTO رأي أبي الليث
+",000,False,000,False,False,False,2,68
+"### || AUTO جعل الضيعة لكها لأمه
+",000,False,000,False,False,False,2,67
+"### || AUTO الحيلة في أن لا يحلف في خصومة على ضيعة
+",000,False,000,False,False,False,2,33
+"### || AUTO كل امرأة تزوجها طالق
+",000,False,000,False,False,False,2,31
+"### || AUTO كل امرأة تزوجها فهي طالق ثلاثا
+",000,False,000,False,False,False,2,162
+"### || AUTO إفتاء أبي الليث
+",000,False,000,False,False,False,2,46
+"### || AUTO الحيلة في إخفاء تزوج المطلقة زوجا غيره
+",000,False,000,False,False,False,2,62
+"### || AUTO الحيلة في ضمان الرهن
+",000,False,000,False,False,False,2,54
+"### || AUTO حلف بطلاقها ثلاثا على فعل لم يجد بدا من إتيانه
+",000,False,000,False,False,False,2,42
+"### || AUTO طلقها ثلاثا وجحد
+",000,False,000,False,False,False,2,78
+"### || AUTO جحود الطالب القابض القبض
+",000,False,000,False,False,False,2,78
+"### || AUTO إنكار الإقالة
+",000,False,000,False,False,False,2,27
+"### || AUTO حلف لا يبيع جاريته من فلان
+",000,False,000,False,False,False,2,33
+"### || AUTO مطلب: مريض ادعى
+",000,False,000,False,False,False,2,55
+"### | AUTO باب ما يسأل عنه من المسائل المتشابهة
+",000,False,000,False,False,False,1,1089
+"### || AUTO زوج أمه وأختيه من رجل واحد في عقدة واحدة
+",000,False,000,False,False,False,2,73
+"### || AUTO كل الميراث لأخي امرأته
+",000,False,000,False,False,False,2,62
+"### || AUTO مات عن ثلاث بنات فاختلفت انصبتهن
+",000,False,000,False,False,False,2,81
+"### || AUTO مملوك تزوج ابنة مولاه
+",000,False,000,False,False,False,2,49
+"### || AUTO زوج كل منهما صاحبه
+",000,False,000,False,False,False,2,48
+"### || AUTO ميراث أمة علق مولاها عتقها على كون ما في بطنها جارية
+",000,False,000,False,False,False,2,91
+"### || AUTO حامل حلف بطلاقها معلقا على فعلها كذا
+",000,False,000,False,False,False,2,54
+"### || AUTO تشهد في صلاة المغرب عشر مرات
+",000,False,000,False,False,False,2,115
+"### || AUTO عشرون ظهرا بعشرين درهما
+",000,False,000,False,False,False,2,48
+"### || AUTO عشرون ظهرا بعشرين درهما
+",000,False,000,False,False,False,2,5
+"### || AUTO درهم وأربعة دوانيق
+",000,False,000,False,False,False,2,43
+"### || AUTO إن كانت هذه أو تلك في دار فلان
+",000,False,000,False,False,False,2,83
+"### || AUTO المحرمات من النساء
+",000,False,000,False,False,False,2,159
+"### || AUTO حساب الشهر
+",000,False,000,False,False,False,2,74
+"### || AUTO تزوج امرأة وزوج أمها على ابنه
+",000,False,000,False,False,False,2,39
+"### || AUTO تزوج امرأة وزوج ابنتهما من ابنه
+",000,False,000,False,False,False,2,12
+"### || AUTO تزوج امرأة وزوج ابنتهما من ابنه
+",000,False,000,False,False,False,2,45
+"### | AUTO باب الإقرار
+",000,False,000,False,False,False,1,1636
+"### || AUTO أقر بميراثه من امرأة ولرجل أنه أخوها
+",000,False,000,False,False,False,2,56
+"### || AUTO إقرار مجهول النسب
+",000,False,000,False,False,False,2,78
+"### || AUTO أقر بميراثها من زوج ولرجل بأنه أخوه
+",000,False,000,False,False,False,2,8
+"### || AUTO أقر بعتق أبيه العبد وبدين على أبيه لمدعيه
+",000,False,000,False,False,False,2,42
+"### || AUTO لفلان على أبي ألف درهم لا بل لفلان
+",000,False,000,False,False,False,2,48
+"### || AUTO أوصى لهذا لا بل لهذا
+",000,False,000,False,False,False,2,18
+"### || AUTO أقر بعتق أبيه العبد وبدين على أبيه
+",000,False,000,False,False,False,2,76
+"### || AUTO غصبت كذا فربحت كذا
+",000,False,000,False,False,False,2,38
+"### || AUTO غصبتك كذا 00 لا بل غصبتني القميص
+",000,False,000,False,False,False,2,28
+"### || AUTO له علي دراهم مضاعفة
+",000,False,000,False,False,False,2,29
+"### || AUTO أضعافا مضاعفة
+",000,False,000,False,False,False,2,8
+"### || AUTO أضعافا مضاعفة
+",000,False,000,False,False,False,2,13
+"### || AUTO ما بين 00 إلى
+",000,False,000,False,False,False,2,47
+"### || AUTO عشرة إلا خمسة إلا درهم
+",000,False,000,False,False,False,2,21
+"### || AUTO أقر عدة قرارات متناقضة
+",000,False,000,False,False,False,2,42
+"### || AUTO كذا وكذا درهما
+",000,False,000,False,False,False,2,11
+"### || AUTO كذا وكذا درهما
+",000,False,000,False,False,False,2,52
+"### || AUTO أعتق أمة لها ولد فاختلفا في زمن العتق
+",000,False,000,False,False,False,2,63
+"### || AUTO اشترى دارا فاختلفا في باب منها
+",000,False,000,False,False,False,2,9
+"### || AUTO اشترى دارا فاختلفا في باب منها
+",000,False,000,False,False,False,2,38
+"### || AUTO الحلف على العلم أو على البتات
+",000,False,000,False,False,False,2,97
+"### || AUTO إثبات الزواج عند النزاع بين مدعيين
+",000,False,000,False,False,False,2,99
+"### || AUTO غزل الزوجة قطن الزوج لمن يكون؟
+",000,False,000,False,False,False,2,94
+"### || AUTO غلط البائع في تسليم بذر مكان بذر
+",000,False,000,False,False,False,2,54
+"### || AUTO صب زيتا أو خلا وادعى أن فأرة ماتت فيه
+",000,False,000,False,False,False,2,49
+"### || AUTO استهلك لحما ثم قال: هي ميتة
+",000,False,000,False,False,False,2,30
+"### || AUTO لفلان علي غير درهم
+",000,False,000,False,False,False,2,12
+"### || AUTO لفلان علي غير درهم
+",000,False,000,False,False,False,2,13
+"### || AUTO طلقني وهذا ابنه
+",000,False,000,False,False,False,2,19
+"### || AUTO طلقني وهذا ابنه
+",000,False,000,False,False,False,2,65
+"### || AUTO نزاع بين الجدة والأب على الحضانة والنفقة
+",000,False,000,False,False,False,2,115
+"### || AUTO اعتبار الحيازة القريبة العهد قائمة
+",000,False,000,False,False,False,2,50
+"### || AUTO الدعوى بسماع الشهود
+",000,False,000,False,False,False,2,83
+"### || AUTO حلف على أن له بينة بعد ما أنكر ذلك
+",000,False,000,False,False,False,2,72
+"### || AUTO أقر القتل مرتين
+",000,False,000,False,False,False,2,56
+"### | AUTO باب الاستحسان
+",000,False,000,False,False,False,1,2368
+"### || AUTO غسل موضع الجمجمة
+",000,False,000,False,False,False,2,20
+"### || AUTO الأخذ من الشارب
+",000,False,000,False,False,False,2,21
+"### || AUTO قياس الشارب على الحاجب
+",000,False,000,False,False,False,2,41
+"### || AUTO مطلب
+",000,False,000,False,False,False,2,85
+"### || AUTO هل للضيف مناولة لقمة لآخر الخ
+",000,False,000,False,False,False,2,107
+"### || AUTO معلم في المسجد
+",000,False,000,False,False,False,2,50
+"### || AUTO هل يعطى السائل لوجه الله؟
+",000,False,000,False,False,False,2,42
+"### || AUTO كتابة الجنب القرآن
+",000,False,000,False,False,False,2,20
+"### || AUTO عش الخطاف في المسجد
+",000,False,000,False,False,False,2,23
+"### || AUTO تعمير الكنسية بأجرة
+",000,False,000,False,False,False,2,18
+"### || AUTO طلاق الزوجة التي لا تصلي
+",000,False,000,False,False,False,2,40
+"### || AUTO الاحتطاب من المقبرة
+",000,False,000,False,False,False,2,26
+"### || AUTO قتل الكلاب الضارة
+",000,False,000,False,False,False,2,28
+"### || AUTO حد الختان
+",000,False,000,False,False,False,2,26
+"### || AUTO قراءة الجنب
+",000,False,000,False,False,False,2,35
+"### || AUTO مصحف القرآن الخلق
+",000,False,000,False,False,False,2,33
+"### || AUTO استئجار أجير لغسل ميت
+",000,False,000,False,False,False,2,22
+"### || AUTO استئجار أجير لحمل الميت وحفر القبر
+",000,False,000,False,False,False,2,18
+"### || AUTO حساب الوكيل والوصي
+",000,False,000,False,False,False,2,35
+"### || AUTO تحليف المرأة في منزلها
+",000,False,000,False,False,False,2,80
+"### || AUTO طهارة حب الخمر
+",000,False,000,False,False,False,2,102
+"### || AUTO حنطة صبت عليها الخمر
+",000,False,000,False,False,False,2,21
+"### || AUTO حنطة طبخت بالخمر
+",000,False,000,False,False,False,2,33
+"### || AUTO النجاسة في القدر
+",000,False,000,False,False,False,2,86
+"### || AUTO سراج المسجد
+",000,False,000,False,False,False,2,9
+"### || AUTO سراج المسجد
+",000,False,000,False,False,False,2,31
+"### || AUTO حقوق الوالد النصراني
+",000,False,000,False,False,False,2,27
+"### || AUTO حق التعلم ونفقة تعليم الصبي
+",000,False,000,False,False,False,2,78
+"### || AUTO لا التزام برد ما يعلق بالثوب
+",000,False,000,False,False,False,2,55
+"### || AUTO جواز المشي في أرض الغير اضطرارا
+",000,False,000,False,False,False,2,47
+"### || AUTO هدية من ظالم أو غاصب أو مراب
+",000,False,000,False,False,False,2,70
+"### || AUTO أحكام النهي عن المنكر
+",000,False,000,False,False,False,2,117
+"### || AUTO مذاكرة العلم أفضل أم الصلاة؟
+",000,False,000,False,False,False,2,83
+"### || AUTO صلاة القابلة
+",000,False,000,False,False,False,2,26
+"### || AUTO إخراج الحبوب من البعر
+",000,False,000,False,False,False,2,62
+"### || AUTO البعرة في اللبن
+",000,False,000,False,False,False,2,42
+"### || AUTO جارية لها لبن
+",000,False,000,False,False,False,2,17
+"### || AUTO لا مسؤولية على الناقد
+",000,False,000,False,False,False,2,23
+"### || AUTO شراء الصبي من الفامي
+",000,False,000,False,False,False,2,62
+"### || AUTO جدي يربى بلبن الحمار أو الخنزير
+",000,False,000,False,False,False,2,55
+"### || AUTO أي الأعمال أفضل؟
+",000,False,000,False,False,False,2,38
+"### || AUTO في صلاة العيد
+",000,False,000,False,False,False,2,9
+"### || AUTO في صلاة العيد
+",000,False,000,False,False,False,2,41
+"### || AUTO بول الحمير أثناء دوس الحنطة
+",000,False,000,False,False,False,2,48
+"### || AUTO الغيبة
+",000,False,000,False,False,False,2,16
+"### || AUTO الاستثناء بغير قصد من الطلاق بقصد
+",000,False,000,False,False,False,2,97
+"### || AUTO السلام على من يقرأ القرآن
+",000,False,000,False,False,False,2,55
+"### || AUTO الصلاة على الأنبياء أثناء تلاوة القرآن
+",000,False,000,False,False,False,2,50
+"### || AUTO سماع النداء
+",000,False,000,False,False,False,2,13
+"### || AUTO الامتناع عن كتابة الشهادة
+",000,False,000,False,False,False,2,63
+"### || AUTO الضحك في الصلاة
+",000,False,000,False,False,False,2,29
+"### || AUTO سكوت البكر عند تزويجها بغير كفوء
+",000,False,000,False,False,False,2,30
+"### || AUTO طلقها الوكيل على مال
+",000,False,000,False,False,False,2,60
+"### | AUTO باب رواية الحديث والإفتاء
+",000,False,000,False,False,False,1,504
+"### || AUTO 1  الرواية
+",000,False,000,False,False,False,2,146
+"### ||| AUTO حدثني
+",000,False,000,False,False,False,3,22
+"### ||| AUTO حدثني
+",000,False,000,False,False,False,3,66
+"### ||| AUTO الإجازة
+",000,False,000,False,False,False,3,55
+"### || AUTO 2  الإفتاء
+",000,False,000,False,False,False,2,353
+"### ||| AUTO التفرقة بين الحكاية والفتوى
+",000,False,000,False,False,False,3,25
+"### ||| AUTO شرط الإفتاء بقول فقيه أن يعلم من أين قال
+",000,False,000,False,False,False,3,71
+"### ||| AUTO اعتذار عصام بن يوسف عن خروجه عن سمت تقليد أبي حنيفة
+",000,False,000,False,False,False,3,74
+"### ||| CHECK أبو حنيفة وأصحابه هم ورثة الفقه عن الرسول (ص) والصحابة والتابعين
+",000,False,000,False,False,False,3,67
+"### ||| AUTO شرط قياس مسألة على أخرى:
+",000,False,000,False,False,False,3,113
+"### | AUTO تم بعون الله وحسن توفيقه.
+",000,False,000,False,False,False,1,26

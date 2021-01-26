@@ -1,0 +1,329 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO مجموعة رسائل حول الزيدية
+",000,False,000,False,False,False,1,63
+"### || CHECK [تمهيد]
+",000,False,000,False,False,False,2,50
+"### | AUTO المهدوية عند الزيدية والجعفرية
+",000,False,000,False,False,False,1,22105
+"### || CHECK [المقدمة]
+",000,False,000,False,False,False,2,617
+"### || AUTO مدخل :
+",000,False,000,False,False,False,2,429
+"### || CHECK [الإمام المهدي عن سادات أهل البيت الزيدية]
+",000,False,000,False,False,False,2,131
+"### ||| AUTO اسمه : محمد بن عبدالله ، من ولد فاطمة الزهراء (ع) . من
+",000,False,000,False,False,False,3,72
+"### ||| AUTO ولادته ومكان ظهوره : يولد في آخر الزمان ، ويظهره الله
+",000,False,000,False,False,False,3,23
+"### ||| AUTO مدة ملكه واستحكامه : يعيش بعد أن يملك ويستحكم على الأرض ،
+",000,False,000,False,False,False,3,20
+"### || AUTO روايات سادات أهل البيت الزيدية في المهدي :
+",000,False,000,False,False,False,2,1237
+"### ||| AUTO أ- [ ما أثر عن الرسول (ص) ]
+",000,False,000,False,False,False,3,479
+"### ||| AUTO ب- [ما أثر عن أمير المؤمنين علي بن أبي طالب (ع) ]
+",000,False,000,False,False,False,3,73
+"### ||| AUTO ج- [ما أثر عن زيد بن علي بن الحسين (ع) ]
+",000,False,000,False,False,False,3,198
+"### ||| AUTO د- [ما أثر عن عبدالله بن الحسن بن الحسن (ع) ]
+",000,False,000,False,False,False,3,76
+"### ||| AUTO ه - [ما أثر عن إبراهيم بن عبدالله بن الحسن بن الحسن (ع) ]
+",000,False,000,False,False,False,3,159
+"### ||| AUTO و- [ما أثر عن إدريس بن عبدالله بن الحسن بن الحسن (ع) ]
+",000,False,000,False,False,False,3,51
+"### ||| AUTO ز- [ ما أثر عن القاسم بن إبراهيم الرسي (ع) ]
+",000,False,000,False,False,False,3,78
+"### ||| CHECK [ما أثر عن الهادي يحيى بن الحسين]
+",000,False,000,False,False,False,3,114
+"### || AUTO صفات الإمام المهدي (ع) ، وحاله حال خروجه :
+",000,False,000,False,False,False,2,258
+"### || AUTO [ الإمام المهدي (ع) ، وفلسفة الغيبة ]
+",000,False,000,False,False,False,2,1912
+"### ||| CHECK [المهدي عند الإمامية ، اسمه ، وميلاده ، وأمه]
+",000,False,000,False,False,False,3,53
+"### ||| AUTO 4- الحمل ، والولادة ، وما بعد الولادة...:
+",000,False,000,False,False,False,3,917
+"### ||| AUTO 5- المهدي ، وعدم التصريح باسمه :
+",000,False,000,False,False,False,3,685
+"### || AUTO 6- الغيبة ، فلسفتها وأسبابها :
+",000,False,000,False,False,False,2,876
+"### ||| AUTO فلسفتها :
+",000,False,000,False,False,False,3,130
+"### ||| AUTO أسبابها :
+",000,False,000,False,False,False,3,740
+"### |||| AUTO السبب الأول : [ الخوف من القتل ]
+",000,False,000,False,False,False,4,254
+"### |||| AUTO السبب الثاني : [ لئلا يكون في عنقه بيعة لأحد ]
+",000,False,000,False,False,False,4,230
+"### |||| AUTO السبب الثالث : [ ما حجبه إلا سوء أعمال العباد ]
+",000,False,000,False,False,False,4,143
+"### |||| AUTO السبب الرابع : [ لا ندري ما السبب ؟! ]
+",000,False,000,False,False,False,4,110
+"### || AUTO [ مع المنصور بالله أمير المؤمنين عبدالله بن حمزة بن رسول الله ]
+",000,False,000,False,False,False,2,1749
+"### ||| AUTO المنصور بالله عبدالله بن حمزة ms019 يجيب :
+",000,False,000,False,False,False,3,1366
+"### ||| AUTO المنصور بالله عبدالله بن حمزة يسأل :
+",000,False,000,False,False,False,3,341
+"### || CHECK [بدلالة خبر ms025 الثقلين]
+",000,False,000,False,False,False,2,7338
+"### ||| CHECK [حجج يتمسك بها الإمامية ، لإثبات الغيبة]
+",000,False,000,False,False,False,3,1292
+"### ||| CHECK [بدلالة خبر الاثني عشر خليفة]
+",000,False,000,False,False,False,3,5312
+"### |||| AUTO [ روايات أهل السنة في الإثني عشر خليفة ]
+",000,year,000,False,False,False,4,2362
+"### |||| AUTO [ روايات الجعفرية في الإثني عشر خليفة ]
+",000,False,000,False,False,False,4,2520
+"### ||| CHECK [بدلالة خبر الميتة الجاهلية]
+",000,False,000,False,False,False,3,730
+"### || AUTO [ أراجيف حول المهدي (ع) والغيبة عند الزيدية ]
+",000,False,000,False,False,False,2,4508
+"### ||| CHECK [بقول الإمام علي في الخائف المغمور]
+",000,False,000,False,False,False,3,2405
+"### ||| CHECK [برواية الإمام الهادي من كان منتظرا لقائمنا]
+",000,False,000,False,False,False,3,743
+"### ||| CHECK [بدلالة رواية الحسين بن القاسم العياني حول الغيبة]
+",000,False,000,False,False,False,3,1351
+"### || AUTO 7- الغيبة ، المدة ، والظهور :
+",000,False,000,False,False,False,2,980
+"### || AUTO [ عود للكلام على الإمام المهدي ( محمد بن عبدالله ) عند
+",000,False,000,False,False,False,2,1941
+"### || CHECK [خاتمة]
+",000,False,000,False,False,False,2,123
+"### | AUTO العصمة عند الزيدية والجعفرية
+",000,False,000,False,False,False,1,7515
+"### || CHECK [المقدمة]
+",000,False,000,False,False,False,2,182
+"### || AUTO [ الفصل الأول : بيان عقيدة الزيدية في العصمة ]
+",000,False,000,False,False,False,2,2454
+"### || AUTO [ الفصل الثاني : بيان عقيدة الجعفرية في العصمة ]
+",000,False,000,False,False,False,2,2641
+"### || AUTO [ الفصل الثالث : شبه يثيرها الجعفرية حول الزيدية ]
+",000,False,000,False,False,False,2,1134
+"### || AUTO [ فائدة ، وخاتمة لهذا المبحث حول العصمة ]
+",000,False,000,False,False,False,2,1098
+"### | AUTO حجج العقول في الدعوة والتبليغ 1-2-3
+",000,False,000,False,False,False,1,11016
+"### || AUTO حجج العقول في الدعوة والتبليغ (1)
+",000,False,000,False,False,False,2,3648
+"### || AUTO حجج العقول في الدعوة والتبليغ (2)
+",000,False,000,False,False,False,2,2033
+"### || AUTO حجج العقول في الدعوة والتبليغ (3)
+",000,False,000,False,False,False,2,5325
+"### | AUTO مناقشة مختصرة لرسالة الشيخ البلاغي في البداء
+",000,False,000,False,False,False,1,1103
+"### | AUTO اصطفاء أهل البيت (ع) في كتاب الله تعالى
+",000,False,000,False,False,False,1,17306
+"### || CHECK [المقدمة]
+",000,False,000,False,False,False,2,128
+"### || CHECK [أطراف الحوار]
+",000,False,000,False,False,False,2,17165
+"### | AUTO الزواج بين مفهوم الزواج الشرعي والمتعة
+",000,False,000,False,False,False,1,8721
+"### || CHECK [المقدمة]
+",000,False,000,False,False,False,2,128
+"### || CHECK [الزواج ، معناه ، وأساسه ، وأهدافه ، وشروطه]
+",000,False,000,False,False,False,2,1041
+"### ||| CHECK [الزواج الدائم]
+",000,False,000,False,False,False,3,155
+"### ||| AUTO [ الحكمة من تشريع الزواج ]
+",000,False,000,False,False,False,3,156
+"### ||| AUTO [ الحكمة من اشتراط الولي ]
+",000,False,000,False,False,False,3,411
+"### ||| AUTO [ الحكمة من اشتراط الشاهدين ]
+",000,False,000,False,False,False,3,174
+"### ||| AUTO [ استحباب إشاعة الزواج ]
+",000,False,000,False,False,False,3,139
+"### || AUTO [ ملك اليمين ]
+",000,False,000,False,False,False,2,944
+"### ||| AUTO [ وطء ملك اليمين ]
+",000,False,000,False,False,False,3,872
+"### || AUTO [ زواج المتعة ]
+",000,False,000,False,False,False,2,6600
+"### ||| AUTO [ صفة زواج المتعة ]
+",000,False,000,False,False,False,3,89
+"### ||| AUTO [ زواج المتعة من منظور شرعي وواقعي ]
+",000,False,000,False,False,False,3,1200
+"### ||| AUTO [ زواج المتعة من منظور روائي ]
+",000,False,000,False,False,False,3,4832
+"### |||| AUTO [ روايات جعفرية تدين زواج المتعة ]
+",000,False,000,False,False,False,4,2378
+"### |||| AUTO [ روايات زيدية تدين زواج المتعة ، وفيه إجماع أهل البيت (ع)
+",000,False,000,False,False,False,4,2426
+"### ||| CHECK [فائدة ، حول إجماع أهل البيت]
+",000,False,000,False,False,False,3,315
+"### ||| AUTO [ خاتمة ]
+",000,False,000,False,False,False,3,100
+"### | AUTO الزيدية والمعتزلة .. ( والتأثر ) .. قراءة متأنية
+",000,False,000,False,False,False,1,12430
+"### || CHECK [المقدمة]
+",000,False,000,False,False,False,2,424
+"### || AUTO الزيدية :
+",000,False,000,False,False,False,2,509
+"### ||| AUTO [ الزيدية والنسبة المذهبية ]
+",000,False,000,False,False,False,3,174
+"### ||| AUTO [ بماذا تميزت الزيدية ؟ ]
+",000,False,000,False,False,False,3,332
+"### || AUTO [ الزيدية والمعتزلة ]
+",000,False,000,False,False,False,2,2592
+"### ||| CHECK [القول الأول في التأثر]
+",000,False,000,False,False,False,3,265
+"### ||| CHECK [القول الثاني في التأثر]
+",000,False,000,False,False,False,3,226
+"### ||| CHECK [القول الثالث في التأثر]
+",000,False,000,False,False,False,3,807
+"### ||| CHECK [القول الرابع في التأثر]
+",000,False,000,False,False,False,3,418
+"### ||| CHECK [القول الخامس في التأثر]
+",000,False,000,False,False,False,3,286
+"### ||| AUTO المعتزلة تتأثر بالزيدية :
+",000,False,000,False,False,False,3,106
+"### ||| AUTO علاقة أئمة أهل البيت الأوائل! بالمعتزلة :
+",000,False,000,False,False,False,3,429
+"### || AUTO عقيدة أهل البيت (ع) من غير طريق السادة الرسية :
+",000,False,000,False,False,False,2,7861
+"### ||| AUTO التوحيد :
+",000,False,000,False,False,False,3,924
+"### |||| AUTO [ مسألة الأسماء والصفات ]
+",000,False,000,False,False,False,4,763
+"### |||| AUTO [مسألة الرؤية في حق الله سبحانه وتعالى ]
+",000,False,000,False,False,False,4,158
+"### ||| AUTO العدل :
+",000,False,000,False,False,False,3,1131
+"### |||| AUTO [مسألة أفعال العباد ، ومعاصيهم ]
+",000,False,000,False,False,False,4,1128
+"### ||| AUTO الوعد والوعيد :
+",000,False,000,False,False,False,3,2051
+"### |||| AUTO 30- قال الشريف الحسني : سئل الحسن بن يحيى عن الوعد والوعيد
+",000,False,000,False,False,False,4,441
+"### |||| AUTO [ مسألة المنزلة بين المنزلتين ]
+",000,False,000,False,False,False,4,911
+"### |||| AUTO [ مسألة الخلود ]
+",000,False,000,False,False,False,4,270
+"### |||| AUTO [ مسألة الشفاعة ]
+",000,False,000,False,False,False,4,257
+"### |||| AUTO [ نطق الشهادة ، مع الإخلاص ، والختم بالصالحات شرط الجنة ] :
+",000,False,000,False,False,False,4,168
+"### ||| AUTO الإمامة :
+",000,False,000,False,False,False,3,3464
+"### |||| AUTO [ الوصية من الرسول (ص) إلى أمير المؤمنين (ع) ]
+",000,False,000,False,False,False,4,853
+"### |||| AUTO [ إمامة علي والحسنين وذريتهم (ع) ]
+",000,False,000,False,False,False,4,320
+"### |||| AUTO [ الإمامة في أهل البيت (ع) ، بني فاطمة ، أبناء البطنين ]
+",000,False,000,False,False,False,4,571
+"### |||| AUTO [ مسألة إجماع أهل البيت (ع) ، وحجيتهم على الأمة ولزوم
+",000,False,000,False,False,False,4,586
+"### |||| AUTO [ تفضيل أهل البيت (ع) ، للإمام علي (ع) على أبي بكر وعمر ]
+",000,False,000,False,False,False,4,406
+"### |||| AUTO [ حال من تقدم على أمير المؤمنين (ع) ، وعدم صحة أمر الرسول
+",000,False,000,False,False,False,4,126
+"### |||| AUTO [ حال عثمان بن عفان ، وما نقم المسلمون عليه ]
+",000,False,000,False,False,False,4,168
+"### |||| AUTO [ حال المعتزلين لعلي (ع) في حروبه ]
+",000,False,000,False,False,False,4,118
+"### |||| AUTO [ حال معاوية بن أبي سفيان ، وابنه يزيد ]
+",000,False,000,False,False,False,4,164
+"### |||| AUTO [ أهل البيت لا يصححون إمامة المشائخ ( بطلان إمامة المفضول
+",000,False,000,False,False,False,4,149
+"### || AUTO فروع الزيدية من غير طريق السادة الرسية :
+",000,False,000,False,False,False,2,598
+"### ||| AUTO [ إرسال اليد في الصلاة ]
+",000,False,000,False,False,False,3,43
+"### ||| AUTO [ الجهر بالبسملة في الصلوات الجهرية ]
+",000,False,000,False,False,False,3,145
+"### ||| AUTO [ لفظة "" آمين "" ، في الصلاة ]
+",000,False,000,False,False,False,3,42
+"### ||| AUTO [ صلاة التراويح ، جماعة في المسجد ]
+",000,False,000,False,False,False,3,55
+"### ||| AUTO [ لفظة "" حي على خير العمل "" ، في الأذان والإقامة ، وتثنية
+",000,False,000,False,False,False,3,100
+"### ||| AUTO [ المسح على الخفين ] :
+",000,False,000,False,False,False,3,204
+"### || AUTO مفارقات :
+",000,False,000,False,False,False,2,194
+"### || AUTO خاتمة :
+",000,False,000,False,False,False,2,245
+"### | AUTO ### || AUTO وقفات مع الأكوع في كتابه
+",000,False,000,False,False,False,1,4178
+"### || AUTO وقفات مع الأكوع في كتابه
+",000,False,000,False,False,False,2,11
+"### || CHECK [المقدمة]
+",000,False,000,False,False,False,2,191
+"### || AUTO الوقفة الأولى : قال القاضي إسماعيل الأكوع ، في حاشية له ص 11 :
+",000,False,000,False,False,False,2,573
+"### || AUTO الوقفة الثانية : قال القاضي إسماعيل الأكوع ، ص 15 ، متكلما
+",000,False,000,False,False,False,2,302
+"### || AUTO الوقفة الثالثة : قال القاضي إسماعيل الأكوع ، ص 15 ، متكلما
+",000,False,000,False,False,False,2,327
+"### || AUTO الوقفة الرابعة : قال القاضي إسماعيل الأكوع ، ص 19 ، متكلما
+",000,False,000,False,False,False,2,198
+"### || AUTO الوقفة الخامسة : قال القاضي إسماعيل الأكوع ، ص 20 ، متكلما
+",000,False,000,False,False,False,2,345
+"### || AUTO الوقفة السادسة : قال القاضي إسماعيل الأكوع ، ص 32 ، متكلما
+",000,False,000,False,False,False,2,1024
+"### || AUTO الوقفة السابعة : قال القاضي إسماعيل الأكوع ، ص 33 ، متكلما
+",000,False,000,False,False,False,2,657
+"### || AUTO الوقفة الثامنة : قال القاضي إسماعيل الأكوع ، ص 42 ، في حاشية
+",000,False,000,False,False,False,2,201
+"### || AUTO الوقفة التاسعة : قال القاضي إسماعيل الأكوع ، ص 92 ، خاتما
+",000,False,000,False,False,False,2,237
+"### || AUTO الوقفة العاشرة : وبها أختم ، فأقول : هذا أخي القارئ ، ما
+",000,False,000,False,False,False,2,111
+"### | AUTO الشبه الوردية حول الزيدية
+",000,False,000,False,False,False,1,39738
+"### || CHECK [المقدمة]
+",000,False,000,False,False,False,2,115
+"### || AUTO الشبهة الأولى :
+",000,False,000,False,False,False,2,123
+"### || AUTO الشبهة الثانية :
+",000,False,000,False,False,False,2,1506
+"### || AUTO الشبهة الثالثة :
+",000,False,000,False,False,False,2,172
+"### || AUTO الشبهة الرابعة :
+",000,False,000,False,False,False,2,215
+"### || AUTO الشبهة الخامسة :
+",000,False,000,False,False,False,2,379
+"### || AUTO الشبهة السادسة :
+",000,False,000,False,False,False,2,286
+"### || AUTO الشبهة السابعة :
+",000,False,000,False,False,False,2,558
+"### || AUTO الشبهة الثامنة :
+",000,False,000,False,False,False,2,571
+"### || AUTO الشبهة التاسعة :
+",000,False,000,False,False,False,2,599
+"### || AUTO الشبهة العاشرة :
+",000,False,000,False,False,False,2,976
+"### || AUTO الشبهة الحادية عشر :
+",000,False,000,False,False,False,2,850
+"### || AUTO الشبهة الثانية عشر :
+",000,False,000,False,False,False,2,916
+"### || AUTO الشبهة الثالثة عشر :
+",000,False,000,False,False,False,2,1514
+"### || AUTO الشبهة الرابعة عشر :
+",000,False,000,False,False,False,2,1694
+"### || AUTO الشبهة الخامسة عشر :
+",000,False,000,False,False,False,2,1503
+"### || AUTO الشبهة السادسة عشر :
+",000,False,000,False,False,False,2,1786
+"### || AUTO الشبهة السابعة عشر :
+",000,False,000,False,False,False,2,1185
+"### || AUTO الشبهة الثامنة عشر :
+",000,False,000,False,False,False,2,2241
+"### || AUTO الشبهة التاسعة عشر :
+",000,False,000,False,False,False,2,26
+"### || AUTO الشبهة العشرون:
+",000,False,000,False,False,False,2,1628
+"### || AUTO الشبهة الحادية والعشرون :
+",000,False,000,False,False,False,2,7062
+"### || AUTO الشبهة الثانية والعشرون :
+",000,False,000,False,False,False,2,91
+"### || AUTO الشبهة الثالثة والعشرون :
+",000,False,000,False,False,False,2,1651
+"### || AUTO الشبهة الرابعة والعشرون :
+",000,False,000,False,False,False,2,476
+"### || AUTO الشبهة الخامسة والعشرون :
+",000,False,000,False,False,False,2,659
+"### || CHECK [الشبهة السادسة والسابعة والعشرون]
+",000,False,000,False,False,False,2,10954

@@ -1,0 +1,133 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [ مقدمة ]
+",000,False,000,False,False,False,1,11532
+"### || مقدمات وفصول لا بد منها
+",000,False,000,False,False,False,2,1105
+"### || ذكر البحار والأنهار
+",000,False,000,False,False,False,2,2912
+"### || ذكر الأسامي واختلافها
+",000,False,000,False,False,False,2,1302
+"### || ذكر الخصائص في الأقاليم
+",000,False,000,False,False,False,2,730
+"### || ذكر المذاهب والذمة
+",000,False,000,False,False,False,2,1179
+"### || ذكر ما عاينت من الأسباب
+",000,False,000,False,False,False,2,556
+"### || ذكر المواضع المختلف فيها NoteV01P046N01
+",000,False,000,False,False,False,2,283
+"### || باب اختصرناه للفقهاء
+",000,False,000,False,False,False,2,2066
+"### || ذكر أقاليم العالم ومركز القبلة
+",000,False,000,False,False,False,2,990
+"### ||| الإقليم الأول
+",000,False,000,False,False,False,3,112
+"### ||| الإقليم الثاني
+",000,False,000,False,False,False,3,78
+"### ||| الإقليم الثالث
+",000,False,000,False,False,False,3,137
+"### ||| الإقليم الرابع
+",000,False,000,False,False,False,3,110
+"### ||| الإقليم الخامس
+",000,False,000,False,False,False,3,78
+"### ||| الإقليم السادس
+",000,False,000,False,False,False,3,110
+"### ||| الإقليم السابع
+",000,False,000,False,False,False,3,124
+"### | ذكر مملكة الإسلام
+",000,False,000,False,False,False,1,572
+"### | جزيرة العرب
+",000,False,000,False,False,False,1,9240
+"### || جمل NoteV01P095N01 شئون هذا الإقليم
+",000,False,000,False,False,False,2,4303
+"### ||| واما المسافات 
+",000,False,000,False,False,False,3,2118
+"### | إقليم العراق
+",000,False,000,False,False,False,1,5084
+"### || جمل شئون هذا الإقليم
+",000,False,000,False,False,False,2,2559
+"### ||| واما المسافات 
+",000,False,000,False,False,False,3,734
+"### | إقليم أقور
+",000,False,000,False,False,False,1,3627
+"### || جمل شئون هذا الإقليم
+",000,False,000,False,False,False,2,2264
+"### ||| واما المسافات
+",000,False,000,False,False,False,3,899
+"### | إقليم الشام	
+",000,False,000,False,False,False,1,9116
+"### || جمل شئون هذا الإقليم
+",000,False,000,False,False,False,2,3500
+"### ||| واما المسافات 
+",000,False,000,False,False,False,3,1172
+"### | إقليم مصر
+",000,False,000,False,False,False,1,4979
+"### || جمل شئون هذا الإقليم
+",000,False,000,False,False,False,2,3100
+"### ||| واما المسافات 
+",000,False,000,False,False,False,3,549
+"### | إقليم المغرب
+",000,False,000,False,False,False,1,7088
+"### || جمل شئون هذا الإقليم
+",000,False,000,False,False,False,2,3609
+"### ||| واما المسافات 
+",000,False,000,False,False,False,3,1787
+"### | ذكر بادية العرب
+",000,False,000,False,False,False,1,2459
+"### | إقليم المشرق
+",000,False,000,False,False,False,1,18331
+"### || جانب هيطل
+",000,False,000,False,False,False,2,3782
+"### || ذكر جيحون وما عليه
+",000,False,000,False,False,False,2,1645
+"### || ذكر المعابر والشعب NoteV01P292N03
+",000,False,000,False,False,False,2,245
+"### || جانب خراسان
+",000,False,000,False,False,False,2,5272
+"### || جمل شئون هذا الإقليم
+",000,False,000,False,False,False,2,7116
+"### ||| واما المسافات 
+",000,False,000,False,False,False,3,3631
+"### | إقليم الديلم
+",000,False,000,False,False,False,1,4659
+"### || جمل شئون هذا الإقليم
+",000,False,000,False,False,False,2,2148
+"### ||| واما المسافات 
+",000,False,000,False,False,False,3,715
+"### | إقليم الرحاب
+",000,False,000,False,False,False,1,2772
+"### || جمل شئون هذا الإقليم
+",000,False,000,False,False,False,2,1668
+"### ||| واما المسافات 
+",000,False,000,False,False,False,3,1008
+"### | إقليم الجبال
+",000,False,000,False,False,False,1,3719
+"### || جمل شئون هذا الإقليم
+",000,False,000,False,False,False,2,1719
+"### ||| واما المسافات 
+",000,False,000,False,False,False,3,653
+"### | إقليم خوزستان
+",000,False,000,False,False,False,1,4086
+"### || جمل شئون هذا الإقليم
+",000,False,000,False,False,False,2,1613
+"### ||| واما المسافات NoteV01P418N14 
+",000,False,000,False,False,False,3,723
+"### | إقليم فارس
+",000,False,000,False,False,False,1,7684
+"### || جمل شئون هذا الإقليم
+",000,False,000,False,False,False,2,4422
+"### ||| واما المسافات 
+",000,False,000,False,False,False,3,2058
+"### | إقليم كرمان
+",000,False,000,False,False,False,1,2983
+"### || جمل شئون هذا الإقليم
+",000,False,000,False,False,False,2,1270
+"### ||| واما المسافات
+",000,False,000,False,False,False,3,407
+"### | إقليم السند
+",000,False,000,False,False,False,1,2730
+"### || جمل شئون هذا الإقليم
+",000,False,000,False,False,False,2,1485
+"### ||| واما المسافات 
+",000,False,000,False,False,False,3,672
+"### | المفازة التي بين هذه أقاليم
+",000,False,000,False,False,False,1,59095

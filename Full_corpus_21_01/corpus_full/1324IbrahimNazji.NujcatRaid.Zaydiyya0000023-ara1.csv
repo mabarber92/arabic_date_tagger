@@ -1,0 +1,303 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO نجعة الرائد وشرعة الوارد في المترادف والمتوارد
+",000,False,000,False,False,False,1,62
+"### | AUTO الباب الأول في الخلق وذكر احوال الفطرة وما يتصل بها
+",000,False,000,False,False,False,1,9829
+"### || AUTO فصل في قوة البنية وضعفها
+",000,False,000,False,False,False,2,268
+"### || AUTO فصل في حسن المنظر وقبحه
+",000,False,000,False,False,False,2,496
+"### || AUTO فصل في السمن والهزال
+",000,False,000,False,False,False,2,710
+"### || AUTO فصل في الطول والقصر
+",000,False,000,False,False,False,2,473
+"### || AUTO فصل في الأطوار والاسنان
+",000,False,000,False,False,False,2,955
+"### || AUTO تتمة في الحواس وافعالها وما يتعلق بها
+",000,False,000,False,False,False,2,131
+"### || AUTO فصل في البصر
+",000,False,000,False,False,False,2,823
+"### || AUTO فصل في السمع
+",000,False,000,False,False,False,2,315
+"### || AUTO فصل في الذوق
+",000,False,000,False,False,False,2,618
+"### || AUTO فصل في الشم
+",000,False,000,False,False,False,2,1093
+"### || AUTO فصل في اللمس
+",000,False,000,False,False,False,2,3810
+"### | AUTO الباب الثاني في وصف الغرائز والملكات وما يأخذ مأخذها ويضاف اليها
+",000,False,000,False,False,False,1,4174
+"### || AUTO فصل في كرم الأخلاق ولؤمها
+",000,False,000,False,False,False,2,240
+"### || AUTO فصل في الجود والبخل
+",000,False,000,False,False,False,2,527
+"### || AUTO فصل في الشجاعة والجبن
+",000,False,000,False,False,False,2,363
+"### || AUTO فصل في الانفة والاستكانة
+",000,False,000,False,False,False,2,398
+"### || AUTO فصل في الكبر والتواضع
+",000,False,000,False,False,False,2,380
+"### || AUTO فصل في سهولة الخلق وتوعره
+",000,False,000,False,False,False,2,260
+"### || AUTO فصل في الحلم والسفه
+",000,False,000,False,False,False,2,378
+"### || AUTO فصل في الطلاقة والعبوس
+",000,False,000,False,False,False,2,254
+"### || AUTO فصل في الظرف والسماجة
+",000,False,000,False,False,False,2,199
+"### || AUTO فصل في الذكاء والبلادة
+",000,False,000,False,False,False,2,281
+"### || AUTO فصل في الكيس والحمق وذكر الجنون والخرف
+",000,False,000,False,False,False,2,882
+"### | AUTO الباب الثالث في الأحوال الطبيعية وما يتصل بها ويذكر معها
+",000,False,000,False,False,False,1,10845
+"### || AUTO فصل في النوم والسهر
+",000,False,000,False,False,False,2,879
+"### || AUTO فصل في الجوع والشبع
+",000,False,000,False,False,False,2,974
+"### || AUTO فصل في تفصيل هيئات الاكل وضروبه وما يتبع ذلك من تفصيل احوال الآكل
+",000,False,000,False,False,False,2,877
+"### || AUTO فصل في العطش والري
+",000,False,000,False,False,False,2,989
+"### || AUTO فصل في الشراب والسكر
+",000,False,000,False,False,False,2,1062
+"### || AUTO فصل في الاعتلال والصحة
+",000,False,000,False,False,False,2,1204
+"### || AUTO فصل في العوارض الطبيعية
+",000,False,000,False,False,False,2,461
+"### || AUTO فصل في الحميات
+",000,False,000,False,False,False,2,463
+"### || AUTO فصل في البثور والآثار والآفات الجلدية
+",000,False,000,False,False,False,2,773
+"### || AUTO فصل في القروح والاخرجة والاورام
+",000,False,000,False,False,False,2,491
+"### || AUTO فصل في الجراحات
+",000,False,000,False,False,False,2,1065
+"### || AUTO فصل في الخلع والكسر وما يتصل بهما
+",000,False,000,False,False,False,2,368
+"### || AUTO فصل في الاحتضار
+",000,False,000,False,False,False,2,296
+"### || AUTO فصل في الموت
+",000,False,000,False,False,False,2,932
+"### | AUTO الباب الرابع في حركات النفس وانفعالاتها وما يلحق بذلك
+",000,False,000,False,False,False,1,9089
+"### || AUTO فصل في السرور والحزن
+",000,False,000,False,False,False,2,888
+"### || AUTO فصل في الضحك والبكاء
+",000,False,000,False,False,False,2,887
+"### || AUTO فصل في الصبر والجزع
+",000,False,000,False,False,False,2,630
+"### || AUTO فصل في الخوف والأمن
+",000,False,000,False,False,False,2,847
+"### || AUTO فصل في الحياء والوقاحة
+",000,False,000,False,False,False,2,759
+"### || AUTO فصل في الرقة والقسوة
+",000,False,000,False,False,False,2,535
+"### || AUTO فصل في الحب والبغض
+",000,False,000,False,False,False,2,352
+"### || AUTO فصل في المواصلة والقطيعة
+",000,False,000,False,False,False,2,311
+"### || AUTO فصل في المداهنة والخداع
+",000,False,000,False,False,False,2,178
+"### || AUTO فصل في العشق والخلو
+",000,False,000,False,False,False,2,329
+"### || AUTO فصل في العفة والدعارة
+",000,False,000,False,False,False,2,215
+"### || AUTO فصل في الشوق والسلوان
+",000,False,000,False,False,False,2,279
+"### || AUTO فصل في النشاط والسأم
+",000,False,000,False,False,False,2,411
+"### || AUTO فصل في الامل ومصايره
+",000,False,000,False,False,False,2,587
+"### || AUTO فصل في الطمع والقناعة
+",000,False,000,False,False,False,2,343
+"### || AUTO فصل في الحسد
+",000,False,000,False,False,False,2,190
+"### || AUTO فصل في الغضب واطفائه
+",000,False,000,False,False,False,2,801
+"### || AUTO فصل في الحقد والعداوة
+",000,False,000,False,False,False,2,310
+"### || AUTO فصل في التندم
+",000,False,000,False,False,False,2,227
+"### | AUTO الباب الخامس في الأصول والانساب والطبقات وما يتصل بها
+",000,False,000,False,False,False,1,3545
+"### || AUTO فصل في كرم المحتد ولؤمه
+",000,False,000,False,False,False,2,390
+"### || AUTO فصل في النسب والانتساب
+",000,False,000,False,False,False,2,387
+"### || AUTO فصل في القرابة والرحم
+",000,False,000,False,False,False,2,275
+"### || AUTO فصل في اشراف الناس وسفلتهم
+",000,False,000,False,False,False,2,278
+"### || AUTO فصل في النباهة والخمول
+",000,False,000,False,False,False,2,308
+"### || AUTO فصل في العزة والذلة
+",000,False,000,False,False,False,2,339
+"### || AUTO فصل في السمو الى المعالي والقعود عنها
+",000,False,000,False,False,False,2,201
+"### || AUTO فصل في التعظيم والاحتقار
+",000,False,000,False,False,False,2,307
+"### || AUTO فصل في الفخر والمفاخرة
+",000,False,000,False,False,False,2,239
+"### || AUTO فصل في تقدم الرجل على اقرانه
+",000,False,000,False,False,False,2,164
+"### || AUTO فصل في ذكر الاكفاء
+",000,False,000,False,False,False,2,150
+"### || AUTO فصل في التفرد وانقطاع النظير
+",000,False,000,False,False,False,2,82
+"### || AUTO فصل في الشبه بين الرجلين
+",000,False,000,False,False,False,2,210
+"### || AUTO فصل في القدوة والاحتذاء
+",000,False,000,False,False,False,2,102
+"### || AUTO فصل في ذكر طبقات شتى من الناس
+",000,False,000,False,False,False,2,103
+"### | AUTO الباب السادس في العلم والأدب وما إليهما
+",000,False,000,False,False,False,1,5691
+"### || AUTO فصل في العلم والعلماء
+",000,False,000,False,False,False,2,468
+"### || AUTO فصل في الادب
+",000,False,000,False,False,False,2,162
+"### || AUTO فصل في الحفظ
+",000,False,000,False,False,False,2,197
+"### || AUTO فصل في التأليف
+",000,False,000,False,False,False,2,251
+"### || AUTO فصل في الفصاحة
+",000,False,000,False,False,False,2,797
+"### || AUTO فصل في البلاغة
+",000,False,000,False,False,False,2,482
+"### || AUTO فصل في الخطابة
+",000,False,000,False,False,False,2,375
+"### || AUTO فصل في الكتابة والانشاء
+",000,False,000,False,False,False,2,478
+"### || AUTO فصل في الشعر
+",000,False,000,False,False,False,2,1046
+"### || AUTO فصل في النقد
+",000,False,000,False,False,False,2,285
+"### || AUTO فصل في الجدل
+",000,False,000,False,False,False,2,508
+"### || AUTO فصل في القراءة
+",000,False,000,False,False,False,2,137
+"### || AUTO فصل في الخط
+",000,False,000,False,False,False,2,497
+"### | AUTO الباب السابع فيما يعرض في الألفة والمجتمع والتقلب والمعاش
+",000,False,000,False,False,False,1,13752
+"### || AUTO فصل في الاجتماع والافتراق
+",000,False,000,False,False,False,2,265
+"### || AUTO فصل في الجماعات
+",000,False,000,False,False,False,2,132
+"### || AUTO فصل في المخالطة والعزلة
+",000,False,000,False,False,False,2,248
+"### || AUTO فصل في الحديث
+",000,False,000,False,False,False,2,579
+"### || AUTO فصل في الإصغاء
+",000,False,000,False,False,False,2,160
+"### || AUTO فصل في الجد والهزل
+",000,False,000,False,False,False,2,315
+"### || AUTO فصل في السخرية والهزؤ
+",000,False,000,False,False,False,2,136
+"### || AUTO فصل في الإخبار والاستخبار
+",000,False,000,False,False,False,2,453
+"### || AUTO فصل في ظهور الخبر واستسراره ms163
+",000,False,000,False,False,False,2,199
+"### || AUTO فصل في الصدق والكذب
+",000,False,000,False,False,False,2,479
+"### || AUTO فصل في النميمة واصلاح ذات البين
+",000,False,000,False,False,False,2,202
+"### || AUTO فصل في كتمان السر وافشائه
+",000,False,000,False,False,False,2,405
+"### || AUTO فصل في المشاورة والاستبداد
+",000,False,000,False,False,False,2,350
+"### || AUTO فصل في جودة الرأي وفساده
+",000,False,000,False,False,False,2,402
+"### || AUTO فصل في اتفاق الرأي واختلافه
+",000,False,000,False,False,False,2,148
+"### || AUTO فصل في النصيحة والغش
+",000,False,000,False,False,False,2,215
+"### || AUTO فصل في الاغراء والزجر عنه
+",000,False,000,False,False,False,2,210
+"### || AUTO فصل في الثقة والاتهام
+",000,False,000,False,False,False,2,349
+"### || AUTO فصل في الذنب والبراءة
+",000,False,000,False,False,False,2,175
+"### || AUTO فصل في اللوم والمعذرة
+",000,False,000,False,False,False,2,325
+"### || AUTO فصل في الصفح والمؤاخذة
+",000,False,000,False,False,False,2,393
+"### || AUTO فصل في الاحسان والاساءة
+",000,False,000,False,False,False,2,256
+"### || AUTO فصل في أخيار الناس واشرارهم
+",000,False,000,False,False,False,2,321
+"### || AUTO فصل في النفع والضرر
+",000,False,000,False,False,False,2,332
+"### || AUTO فصل في الكد والكسل
+",000,False,000,False,False,False,2,425
+"### || AUTO فصل في التعب والراحة
+",000,False,000,False,False,False,2,265
+"### || AUTO فصل في علو الهمة وسقوطها
+",000,False,000,False,False,False,2,251
+"### || AUTO فصل في السرعة والبطء
+",000,False,000,False,False,False,2,547
+"### || AUTO فصل في الإعجال والاعتياق
+",000,False,000,False,False,False,2,220
+"### || AUTO فصل في اطلاق العنان وحبسه
+",000,False,000,False,False,False,2,301
+"### || AUTO فصل في التمادي في الضلال والرجوع عنه
+",000,False,000,False,False,False,2,177
+"### || AUTO فصل في الانقياد والامتناع
+",000,False,000,False,False,False,2,336
+"### || AUTO فصل في الكره والرضى
+",000,False,000,False,False,False,2,266
+"### || AUTO فصل في الشفاعة والوسيلة
+",000,False,000,False,False,False,2,178
+"### || AUTO فصل في العهد والميثاق وذكر الحلف وما يتصل به
+",000,False,000,False,False,False,2,506
+"### || AUTO فصل في الوفاء والغدر
+",000,False,000,False,False,False,2,252
+"### || AUTO فصل في الوعد والوعيد
+",000,False,000,False,False,False,2,364
+"### || AUTO فصل في الاسعاف والرد
+",000,False,000,False,False,False,2,379
+"### || AUTO فصل في القصد والاستمناح
+",000,False,000,False,False,False,2,147
+"### || AUTO فصل في الصنيعة
+",000,False,000,False,False,False,2,180
+"### || AUTO فصل في الهبة والحرمان
+",000,False,000,False,False,False,2,374
+"### || AUTO فصل في ترادف النعم
+",000,False,000,False,False,False,2,139
+"### || AUTO فصل في الشكر والكفران
+",000,False,000,False,False,False,2,293
+"### || AUTO فصل في المدح والذم
+",000,False,000,False,False,False,2,512
+"### || AUTO فصل في حسن الصيت وقبحه
+",000,False,000,False,False,False,2,244
+"### || AUTO فصل في ركوب العار واجتنابه
+",000,False,000,False,False,False,2,337
+"### | AUTO الباب الثامن في معالجة الآمور وذكر أشياء من صفاتها واحوالها
+",000,False,000,False,False,False,1,4356
+"### || AUTO فصل في العزم على الامر والانثناء عنه
+",000,False,000,False,False,False,2,374
+"### || AUTO فصل في مزاولة الامر
+",000,False,000,False,False,False,2,152
+"### || AUTO فصل في صعوبة الامر وسهولته
+",000,False,000,False,False,False,2,414
+"### || AUTO فصل في تقسيم الصعوبة والامتناع على ما يوصف بهما
+",000,False,000,False,False,False,2,195
+"### || AUTO فصل في التباس الامر ووضوحه
+",000,False,000,False,False,False,2,517
+"### || AUTO فصل في الشك واليقين
+",000,False,000,False,False,False,2,295
+"### || AUTO فصل في الظن
+",000,False,000,False,False,False,2,446
+"### || AUTO فصل في العلم بالشيء والجهل به
+",000,False,000,False,False,False,2,324
+"### || AUTO فصل في الفحص والاختبار
+",000,False,000,False,False,False,2,428
+"### || AUTO فصل في العلامات والدلائل
+",000,False,000,False,False,False,2,387
+"### || AUTO فصل في توقع الامر ومفاجأته
+",000,False,000,False,False,False,2,376
+"### || AUTO فصل في مراقبة الامر واغفاله
+",000,False,000,False,False,False,2,325
+"### || AUTO فصل في الاستعداد للامر ms219
+",000,False,000,False,False,False,2,117

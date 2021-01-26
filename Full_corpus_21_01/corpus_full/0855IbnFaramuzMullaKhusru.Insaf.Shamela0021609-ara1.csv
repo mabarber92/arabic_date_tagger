@@ -1,0 +1,855 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | المقدمة
+",000,False,000,False,False,False,1,3665
+"### | [كتاب الطهارة]
+",000,False,000,False,False,False,1,4
+"### | [باب المياه]
+",000,False,000,False,False,False,1,12895
+"### | [باب الآنية]
+",000,False,000,False,False,False,1,3221
+"### | [باب الاستنجاء]
+",000,False,000,False,False,False,1,4692
+"### | [باب السواك وسنة الوضوء]
+",000,False,000,False,False,False,1,4438
+"### | [باب فرض الوضوء وصفته]
+",000,False,000,False,False,False,1,6587
+"### | [باب مسح الخفين]
+",000,False,000,False,False,False,1,5589
+"### | [باب نواقض الوضوء]
+",000,False,000,False,False,False,1,6993
+"### | [باب الغسل]
+",000,False,000,False,False,False,1,7659
+"### | [باب التيمم]
+",000,False,000,False,False,False,1,10267
+"### | [باب إزالة النجاسة]
+",000,False,000,False,False,False,1,8179
+"### | [باب الحيض]
+",000,False,000,False,False,False,1,187
+"### | كتاب الصلاة: 
+",000,False,000,False,False,False,1,9332
+"### | [كتاب الصلاة]
+",000,False,000,False,False,False,1,4122
+"### | [باب الأذان]
+",000,False,000,False,False,False,1,5026
+"### | [باب شروط الصلاة]
+",000,False,000,False,False,False,1,4094
+"### | [باب ستر العورة]
+",000,False,000,False,False,False,1,7495
+"### | [فوائد]
+",000,False,000,False,False,False,1,354
+"### | [باب اجتناب النجاسة]
+",000,False,000,False,False,False,1,3568
+"### | [باب استقبال القبلة]
+",000,False,000,False,False,False,1,3400
+"### | [باب النية]
+",000,False,000,False,False,False,1,4119
+"### | [باب صفة الصلاة]
+",000,False,000,False,False,False,1,16795
+"### | [باب سجود السهو]
+",000,False,000,False,False,False,1,7765
+"### | [باب صلاة التطوع]
+",000,False,000,False,False,False,1,10210
+"### | [باب صلاة الجماعة]
+",000,False,000,False,False,False,1,19864
+"### | [باب صلاة أهل الأعذار]
+",000,False,000,False,False,False,1,5347
+"### | [فوائد]
+",000,False,000,False,False,False,1,3483
+"### | [فصل في صلاة الخوف]
+",000,False,000,False,False,False,1,3255
+"### | [باب صلاة الجمعة]
+",000,False,000,False,False,False,1,11385
+"### | [باب صلاة العيدين]
+",000,False,000,False,False,False,1,4345
+"### | [باب صلاة الكسوف]
+",000,False,000,False,False,False,1,1904
+"### | [باب صلاة الاستسقاء]
+",000,False,000,False,False,False,1,1856
+"### | [كتاب الجنائز]
+",000,False,000,False,False,False,1,22402
+"### | [كتاب الزكاة]
+",000,False,000,False,False,False,1,9075
+"### | [باب زكاة بهيمة الأنعام]
+",000,False,000,False,False,False,1,8492
+"### | [باب زكاة الخارج من الأرض]
+",000,False,000,False,False,False,1,9175
+"### | [باب زكاة الأثمان]
+",000,False,000,False,False,False,1,4621
+"### | [باب زكاة العروض]
+",000,False,000,False,False,False,1,2266
+"### | [باب زكاة الفطر]
+",000,False,000,False,False,False,1,4556
+"### | [باب إخراج الزكاة]
+",000,False,000,False,False,False,1,6350
+"### | [باب ذكر أهل الزكاة]
+",000,False,000,False,False,False,1,10974
+"### | [كتاب الصيام]
+",000,False,000,False,False,False,1,6407
+"### | [باب ما يفسد الصوم ويوجب الكفارة]
+",000,False,000,False,False,False,1,5047
+"### | [باب ما يكره وما يستحب وحكم القضاء]
+",000,False,000,False,False,False,1,3635
+"### | [باب صوم التطوع]
+",000,False,000,False,False,False,1,3244
+"### | [كتاب الاعتكاف]
+",000,False,000,False,False,False,1,5976
+"### | [كتاب المناسك]
+",000,False,000,False,False,False,1,7814
+"### | [باب المواقيت]
+",000,False,000,False,False,False,1,1574
+"### | [باب الإحرام]
+",000,False,000,False,False,False,1,4941
+"### | [باب محظورات الإحرام]
+",000,False,000,False,False,False,1,836
+"### | [فوائد]
+",000,False,000,False,False,False,1,9449
+"### | [باب الفدية]
+",000,False,000,False,False,False,1,5763
+"### | [باب جزاء الصيد]
+",000,False,000,False,False,False,1,2347
+"### | [باب صيد الحرم ونباته]
+",000,False,000,False,False,False,1,1697
+"### | [فوائد]
+",000,False,000,False,False,False,1,1290
+"### | [باب دخول مكة]
+",000,False,000,False,False,False,1,4149
+"### | [باب صفة الحج]
+",000,False,000,False,False,False,1,6989
+"### | [باب الفوات والإحصار]
+",000,False,000,False,False,False,1,2063
+"### | [باب الهدي والأضاحي]
+",000,False,000,False,False,False,1,8019
+"### | [كتاب الجهاد]
+",000,False,000,False,False,False,1,7874
+"### | [باب قسمة الغنيمة]
+",000,False,000,False,False,False,1,6126
+"### | [باب حكم الأرضين المغنومة]
+",000,False,000,False,False,False,1,1413
+"### | [باب الفيء]
+",000,False,000,False,False,False,1,819
+"### | [باب الأمان]
+",000,False,000,False,False,False,1,1423
+"### | [باب الهدنة]
+",000,False,000,False,False,False,1,1130
+"### | [باب عقد الذمة]
+",000,False,000,False,False,False,1,2682
+"### | [باب أحكام أهل الذمة]
+",000,False,000,False,False,False,1,4876
+"### | [كتاب البيع]
+",000,False,000,False,False,False,1,14973
+"### | [باب الشروط في البيع]
+",000,False,000,False,False,False,1,4328
+"### | [باب الخيار في البيع]
+",000,False,000,False,False,False,1,23403
+"### | [باب الربا والصرف]
+",000,False,000,False,False,False,1,7992
+"### | [باب بيع الأصول والثمار]
+",000,False,000,False,False,False,1,5772
+"### | [باب السلم]
+",000,False,000,False,False,False,1,7422
+"### | باب الرهن: 
+",000,False,000,False,False,False,1,33
+"### | [باب القرض]
+",000,False,000,False,False,False,1,2537
+"### | [باب الرهن]
+",000,False,000,False,False,False,1,9657
+"### | [باب الضمان]
+",000,False,000,False,False,False,1,6008
+"### | [باب الحوالة]
+",000,False,000,False,False,False,1,2329
+"### | [باب الصلح]
+",000,False,000,False,False,False,1,2679
+"### | [فوائد]
+",000,False,000,False,False,False,1,4549
+"### | [كتاب الحجر]
+",000,False,000,False,False,False,1,14690
+"### | [باب الوكالة]
+",000,False,000,False,False,False,1,9827
+"### | [كتاب الشركة]
+",000,False,000,False,False,False,1,10623
+"### | [باب المساقاة]
+",000,False,000,False,False,False,1,3845
+"### | [باب الإجارة]
+",000,False,000,False,False,False,1,15820
+"### | [باب السبق]
+",000,False,000,False,False,False,1,1996
+"### | [كتاب العارية]
+",000,False,000,False,False,False,1,3405
+"### | [كتاب الغصب]
+",000,False,000,False,False,False,1,23992
+"### | [كتاب الشفعة]
+",000,False,000,False,False,False,1,12238
+"### | [باب الوديعة]
+",000,False,000,False,False,False,1,6735
+"### | [باب إحياء الموات]
+",000,False,000,False,False,False,1,6270
+"### | [باب الجعالة]
+",000,False,000,False,False,False,1,1807
+"### | [باب اللقطة]
+",000,False,000,False,False,False,1,5650
+"### | [باب اللقيط]
+",000,False,000,False,False,False,1,5600
+"### | [كتاب الوقف]
+",000,False,000,False,False,False,1,10013
+"### | [فوائد مصرف الوقف إلى الجهة المعينة له]
+",000,False,000,False,False,False,1,2833
+"### | [فوائد احتاج الخان المسبل أو الدار الموقوفة لسكنى الحاج]
+",000,False,000,False,False,False,1,7822
+"### | [باب الهبة والعطية]
+",000,False,000,False,False,False,1,1412
+"### | [فائدة وهب الغائب هبة وأنفذها مع رسول الموهوب له]
+",000,False,000,False,False,False,1,825
+"### | [فوائد صور البراءة من المجهول]
+",000,False,000,False,False,False,1,2209
+"### | [فوائد ولد له ولد بعد موته]
+",000,False,000,False,False,False,1,1081
+"### | [فوائد قال لها أنت طالق إن لم تبرئيني]
+",000,False,000,False,False,False,1,4224
+"### | [فائدة وتفارق العطية الوصية في أربعة]
+",000,False,000,False,False,False,1,1427
+"### | [كتاب الوصايا]
+",000,False,000,False,False,False,1,5023
+"### | [فوائد أوجبه في البيع أو الهبة فلم يقبل فيهما]
+",000,False,000,False,False,False,1,1361
+"### | [باب الموصى له]
+",000,False,000,False,False,False,1,5181
+"### | [باب الموصى به]
+",000,False,000,False,False,False,1,3612
+"### | [باب الوصية بالأنصباء والأجزاء]
+",000,False,000,False,False,False,1,1878
+"### | [باب الموصى إليه]
+",000,False,000,False,False,False,1,2898
+"### | [كتاب الفرائض]
+",000,False,000,False,False,False,1,246
+"### | [باب ميراث ذوي الفروض]
+",000,False,000,False,False,False,1,1408
+"### | [باب العصبات]
+",000,False,000,False,False,False,1,505
+"### | [باب أصول المسائل]
+",000,False,000,False,False,False,1,625
+"### | [باب تصحيح المسائل]
+",000,False,000,False,False,False,1,162
+"### | [باب المناسخات]
+",000,False,000,False,False,False,1,134
+"### | [باب قسم التركات]
+",000,False,000,False,False,False,1,128
+"### | [باب ذوي الأرحام]
+",000,False,000,False,False,False,1,847
+"### | [باب ميراث الحمل]
+",000,False,000,False,False,False,1,1095
+"### | [باب ميراث المفقود]
+",000,False,000,False,False,False,1,1015
+"### | [باب ميراث الخنثى]
+",000,False,000,False,False,False,1,778
+"### | [باب ميراث الغرقى ومن عمي موتهم]
+",000,False,000,False,False,False,1,2645
+"### | [باب الإقرار بمشارك في الميراث]
+",000,False,000,False,False,False,1,1068
+"### | [باب ميراث القاتل]
+",000,False,000,False,False,False,1,383
+"### | [باب ميراث المعتق بعضه]
+",000,False,000,False,False,False,1,837
+"### | [باب الولاء]
+",000,False,000,False,False,False,1,2899
+"### | [كتاب العتق]
+",000,False,000,False,False,False,1,278
+"### | [فوائد خيف على الرقيق الزنا والفساد في العتق]
+",000,False,000,False,False,False,1,7039
+"### | [باب التدبير]
+",000,False,000,False,False,False,1,2577
+"### | [باب الكتابة]
+",000,False,000,False,False,False,1,8012
+"### | [باب أحكام أمهات الأولاد]
+",000,False,000,False,False,False,1,2684
+"### | [كتاب النكاح]
+",000,False,000,False,False,False,1,7335
+"### | [باب أركان النكاح وشروطه]
+",000,False,000,False,False,False,1,11798
+"### | [باب المحرمات في ms2527 النكاح]
+",000,False,000,False,False,False,1,7142
+"### | [باب الشروط في النكاح]
+",000,False,000,False,False,False,1,5653
+"### | [باب حكم العيوب في النكاح]
+",000,False,000,False,False,False,1,3501
+"### | [باب نكاح الكفار]
+",000,False,000,False,False,False,1,3470
+"### | [كتاب الصداق]
+",000,False,000,False,False,False,1,15474
+"### | [باب الوليمة]
+",000,False,000,False,False,False,1,1530
+"### | [فوائد جمة في آداب الأكل والشرب]
+",000,False,000,False,False,False,1,3350
+"### | [باب عشرة النساء]
+",000,False,000,False,False,False,1,6347
+"### | [كتاب الخلع]
+",000,False,000,False,False,False,1,8256
+"### | [كتاب الطلاق]
+",000,False,000,False,False,False,1,3167
+"### | [باب سنة الطلاق وبدعته]
+",000,year,000,False,False,False,1,2500
+"### | [باب صريح الطلاق وكنايته]
+",000,False,000,False,False,False,1,6149
+"### | [باب ما يختلف به عدد الطلاق]
+",000,False,000,False,False,False,1,4804
+"### | [باب الاستثناء في الطلاق]
+",000,False,000,False,False,False,1,1341
+"### | [باب الطلاق في الماضي والمستقبل]
+",000,False,000,False,False,False,1,3902
+"### | [باب تعليق الطلاق بالشروط]
+",000,False,000,False,False,False,1,9241
+"### | [فصل مسائل متفرقة قال أنت طالق إذا رأيت الهلال]
+",000,False,000,False,False,False,1,1585
+"### | [باب التأويل في الحلف]
+",000,False,000,False,False,False,1,3600
+"### | [باب الشك في الطلاق]
+",000,False,000,False,False,False,1,2188
+"### | [باب الرجعة]
+",000,False,000,False,False,False,1,3127
+"### | [باب الإيلاء]
+",000,False,000,False,False,False,1,3997
+"### | [كتاب الظهار]
+",000,False,000,False,False,False,1,6841
+"### | [كتاب اللعان]
+",000,False,000,False,False,False,1,6032
+"### | [كتاب العدد]
+",000,False,000,False,False,False,1,5265
+"### | [فصل ويجب الإحداد على المعتدة من الوفاة]
+",000,False,000,False,False,False,1,785
+"### | [فصل وتجب عدة الوفاة في المنزل الذي وجبت فيه]
+",000,False,000,False,False,False,1,1644
+"### | [باب استبراء الإماء]
+",000,False,000,False,False,False,1,2020
+"### | [كتاب الرضاع]
+",000,False,000,False,False,False,1,3852
+"### | [كتاب النفقات]
+",000,False,000,False,False,False,1,6375
+"### | [باب نفقة الأقارب والمماليك]
+",000,False,000,False,False,False,1,4049
+"### | [باب الحضانة]
+",000,False,000,False,False,False,1,2838
+"### | [كتاب الجنايات]
+",000,False,000,False,False,False,1,4932
+"### | [باب شروط القصاص]
+",000,False,000,False,False,False,1,2686
+"### | [باب استيفاء القصاص]
+",000,False,000,False,False,False,1,2700
+"### | [باب العفو عن القصاص]
+",000,False,000,False,False,False,1,1795
+"### | [باب ما يوجب القصاص فيما دون النفس]
+",000,False,000,False,False,False,1,2629
+"### | [كتاب الديات]
+",000,False,000,False,False,False,1,4321
+"### | [باب مقادير ديات النفس]
+",000,False,000,False,False,False,1,1747
+"### | [تنبيهات دية الجنين الحر المسلم إذا سقط ميتا]
+",000,False,000,False,False,False,1,1906
+"### | [باب ديات الأعضاء ومنافعها]
+",000,False,000,False,False,False,1,3551
+"### | [باب الشجاج وكسر العظام]
+",000,False,000,False,False,False,1,1901
+"### | [باب العاقلة وما تحمله]
+",000,False,000,False,False,False,1,7591
+"### | [باب حد الزنا]
+",000,False,000,False,False,False,1,1595
+"### | [فصل ولا يجب الحد إلا بثلاثة شروط]
+",000,False,000,False,False,False,1,77
+"### | [فصل الثاني انتفاء الشبهة]
+",000,False,000,False,False,False,1,2855
+"### | [باب القذف]
+",000,False,000,False,False,False,1,4175
+"### | [باب حد المسكر]
+",000,False,000,False,False,False,1,4030
+"### | [باب القطع في السرقة]
+",000,False,000,False,False,False,1,8180
+"### | [باب قتال أهل البغي]
+",000,False,000,False,False,False,1,2433
+"### | [باب حكم المرتد]
+",000,False,000,False,False,False,1,4447
+"### | [كتاب الأطعمة]
+",000,False,000,False,False,False,1,139
+"### | "" باب الذكاة ""، 
+",000,False,000,False,False,False,1,4111
+"### | [باب الذكاة]
+",000,False,000,False,False,False,1,3973
+"### | [كتاب الصيد]
+",000,False,000,False,False,False,1,4593
+"### | [كتاب الأيمان]
+",000,False,000,False,False,False,1,7369
+"### | [باب جامع الأيمان]
+",000,False,000,False,False,False,1,9876
+"### | [باب النذر]
+",000,False,000,False,False,False,1,5590
+"### | [كتاب القضاء]
+",000,False,000,False,False,False,1,2202
+"### | [فوائد جعل قاضيين فأكثر في عمل ms3388 واحد]
+",000,False,000,False,False,False,1,2447
+"### | [فوائد أدى اجتهاد القاضي ي إلى حكم]
+",000,False,000,False,False,False,1,2675
+"### | [باب أدب القاضي]
+",000,False,000,False,False,False,1,5894
+"### | [باب طريق الحكم وصفته]
+",000,False,000,False,False,False,1,13298
+"### | [باب حكم كتاب القاضي إلى القاضي]
+",000,False,000,False,False,False,1,2077
+"### | [باب القسمة]
+",000,False,000,False,False,False,1,2061
+"### | [فوائد قسم الوقف]
+",000,False,000,False,False,False,1,3243
+"### | [باب الدعاوى والبينات]
+",000,False,000,False,False,False,1,416
+"### | [فائدتان الدعوى والإنكار]
+",000,False,000,False,False,False,1,4856
+"### | [باب تعارض البينتين]
+",000,False,000,False,False,False,1,2607
+"### | [كتاب الشهادات]
+",000,False,000,False,False,False,1,5698
+"### | [باب شروط من تقبل شهادته]
+",000,False,000,False,False,False,1,4299
+"### | [موانع الشهادة]
+",000,False,000,False,False,False,1,1795
+"### | [باب أقسام المشهود به]
+",000,False,000,False,False,False,1,1640
+"### | [باب الشهادة على الشهادة والرجوع عن الشهادة]
+",000,False,000,False,False,False,1,3001
+"### | [باب اليمين في الدعاوى]
+",000,False,000,False,False,False,1,1990
+"### | [كتاب الإقرار]
+",000,False,000,False,False,False,1,4974
+"### | [باب ما يحصل به الإقرار تنبيه]
+",000,False,000,False,False,False,1,916
+"### | [باب الحكم فيما إذا وصل بإقراره ما يغيره]
+",000,False,000,False,False,False,1,5226
+"### | [باب الإقرار بالمجمل]
+",000,False,000,False,False,False,1,4688
+"### | [قاعدة نافعة جامعة لصفة الروايات المنقولة عن الإمام أحمد]
+",000,False,000,False,False,False,1,60
+"### | 2 - 
+",000,False,000,False,False,False,1,37
+"### | 3 - 
+",000,False,000,False,False,False,1,58
+"### | 4 - 
+",000,False,000,False,False,False,1,84
+"### | 6 - 
+",000,False,000,False,False,False,1,86
+"### | 7 - 
+",000,False,000,False,False,False,1,35
+"### | 8 - 
+",000,False,000,False,False,False,1,50
+"### | 9 - 
+",000,False,000,False,False,False,1,53
+"### | 10 - 
+",000,False,000,False,False,False,1,14
+"### | 11 - 
+",000,False,000,False,False,False,1,38
+"### | 12 - 
+",000,False,000,False,False,False,1,82
+"### | 13 - 
+",000,False,000,False,False,False,1,116
+"### | 14 - 
+",000,False,000,False,False,False,1,134
+"### | 15 - 
+",000,False,000,False,False,False,1,131
+"### | 16 - 
+",000,False,000,False,False,False,1,75
+"### | 17 - 
+",000,False,000,False,False,False,1,19
+"### | 18 - 
+",000,False,000,False,False,False,1,89
+"### | 19 - 
+",000,False,000,False,False,False,1,19
+"### | 20 - 
+",000,False,000,False,False,False,1,106
+"### | 21 - 
+",000,False,000,False,False,False,1,20
+"### | 22 - 
+",000,False,000,False,False,False,1,97
+"### | 23 - 
+",000,False,000,False,False,False,1,79
+"### | 24 - 
+",000,False,000,False,False,False,1,19
+"### | 25 - 
+",000,False,000,False,False,False,1,37
+"### | 26 - 
+",000,False,000,False,False,False,1,129
+"### | 28 - 
+",000,False,000,False,False,False,1,36
+"### | 29 - 
+",000,False,000,False,False,False,1,31
+"### | 30 - 
+",000,False,000,False,False,False,1,73
+"### | 31 - 
+",000,False,000,False,False,False,1,91
+"### | 32 - 
+",000,False,000,False,False,False,1,59
+"### | 33 - 
+",000,False,000,False,False,False,1,29
+"### | 34 - 
+",000,False,000,False,False,False,1,43
+"### | 35 - 
+",000,False,000,False,False,False,1,48
+"### | 36 - 
+",000,False,000,False,False,False,1,74
+"### | 37 - 
+",000,False,000,False,False,False,1,24
+"### | 38 - 
+",000,False,000,False,False,False,1,25
+"### | 39 - 
+",000,False,000,False,False,False,1,25
+"### | 40 - 
+",000,False,000,False,False,False,1,29
+"### | 41 - 
+",000,False,000,False,False,False,1,94
+"### | 43 - 
+",000,False,000,False,False,False,1,56
+"### | 44 - 
+",000,False,000,False,False,False,1,182
+"### | 46 - 
+",000,False,000,False,False,False,1,16
+"### | 47 - 
+",000,False,000,False,False,False,1,26
+"### | 48 - 
+",000,False,000,False,False,False,1,41
+"### | 49 - 
+",000,False,000,False,False,False,1,53
+"### | 50 - 
+",000,False,000,False,False,False,1,16
+"### | 51 - 
+",000,False,000,False,False,False,1,37
+"### | 52 - 
+",000,False,000,False,False,False,1,21
+"### | 53 - 
+",000,False,000,False,False,False,1,23
+"### | 54 - 
+",000,False,000,False,False,False,1,23
+"### | 55 - 
+",000,False,000,False,False,False,1,39
+"### | 56 - 
+",000,False,000,False,False,False,1,42
+"### | 57 - 
+",000,False,000,False,False,False,1,37
+"### | 58 - 
+",000,False,000,False,False,False,1,3070
+"### | [فصل من نقل الفقه عن الإمام أحمد]
+",000,False,000,False,False,False,1,72
+"### | 1 - 
+",000,False,000,False,False,False,1,25
+"### | 2 - 
+",000,False,000,False,False,False,1,28
+"### | 3 - 
+",000,False,000,False,False,False,1,79
+"### | 5 - 
+",000,False,000,False,False,False,1,13
+"### | 6 - 
+",000,False,000,False,False,False,1,27
+"### | 7 - 
+",000,False,000,False,False,False,1,25
+"### | 8 - 
+",000,False,000,False,False,False,1,21
+"### | 9 - 
+",000,False,000,False,False,False,1,42
+"### | 10 - 
+",000,False,000,False,False,False,1,29
+"### | 11 - 
+",000,False,000,False,False,False,1,25
+"### | 12 - 
+",000,False,000,False,False,False,1,27
+"### | 13 - 
+",000,False,000,False,False,False,1,33
+"### | 14 - 
+",000,False,000,False,False,False,1,27
+"### | 15 - 
+",000,False,000,False,False,False,1,25
+"### | 16 - 
+",000,False,000,False,False,False,1,29
+"### | 17 - 
+",000,False,000,False,False,False,1,41
+"### | 18 - 
+",000,False,000,False,False,False,1,21
+"### | 19 - 
+",000,False,000,False,False,False,1,17
+"### | 20 - 
+",000,False,000,False,False,False,1,16
+"### | 21 - 
+",000,False,000,False,False,False,1,33
+"### | 23 - 
+",000,False,000,False,False,False,1,25
+"### | 24 - 
+",000,False,000,False,False,False,1,74
+"### | 25 - 
+",000,False,000,False,False,False,1,31
+"### | 26 - 
+",000,False,000,False,False,False,1,36
+"### | 27 - 
+",000,False,000,False,False,False,1,27
+"### | 28 - 
+",000,False,000,False,False,False,1,21
+"### | 29 - 
+",000,False,000,False,False,False,1,22
+"### | 30 - 
+",000,False,000,False,False,False,1,15
+"### | 31 - 
+",000,False,000,False,False,False,1,18
+"### | 32 - 
+",000,False,000,False,False,False,1,25
+"### | 33 - 
+",000,False,000,False,False,False,1,27
+"### | 34 - 
+",000,False,000,False,False,False,1,17
+"### | 35 - 
+",000,False,000,False,False,False,1,27
+"### | 36 - 
+",000,False,000,False,False,False,1,16
+"### | 37 - 
+",000,False,000,False,False,False,1,23
+"### | 38 - 
+",000,False,000,False,False,False,1,29
+"### | 39 - 
+",000,False,000,False,False,False,1,19
+"### | 40 - 
+",000,False,000,False,False,False,1,23
+"### | 41 - 
+",000,False,000,False,False,False,1,35
+"### | 42 - 
+",000,False,000,False,False,False,1,31
+"### | 43 - 
+",000,False,000,False,False,False,1,17
+"### | 44 - 
+",000,False,000,False,False,False,1,27
+"### | 45 - 
+",000,False,000,False,False,False,1,16
+"### | 46 - 
+",000,False,000,False,False,False,1,40
+"### | 47 - 
+",000,False,000,False,False,False,1,44
+"### | 48 - 
+",000,False,000,False,False,False,1,22
+"### | 49 - 
+",000,False,000,False,False,False,1,42
+"### | 50 - 
+",000,False,000,False,False,False,1,18
+"### | 51 - 
+",000,False,000,False,False,False,1,16
+"### | 52 - 
+",000,False,000,False,False,False,1,47
+"### | 53 - 
+",000,False,000,False,False,False,1,31
+"### | 54 - 
+",000,False,000,False,False,False,1,15
+"### | 55 - 
+",000,False,000,False,False,False,1,46
+"### | 56 - 
+",000,False,000,False,False,False,1,18
+"### | 57 - 
+",000,False,000,False,False,False,1,26
+"### | 58 - 
+",000,False,000,False,False,False,1,27
+"### | 59 - 
+",000,False,000,False,False,False,1,24
+"### | 60 - 
+",000,False,000,False,False,False,1,26
+"### | 61 - 
+",000,False,000,False,False,False,1,27
+"### | 62 - 
+",000,False,000,False,False,False,1,15
+"### | 63 - 
+",000,False,000,False,False,False,1,16
+"### | 64 - 
+",000,False,000,False,False,False,1,34
+"### | 65 - 
+",000,False,000,False,False,False,1,23
+"### | 66 - 
+",000,False,000,False,False,False,1,17
+"### | 67 - 
+",000,False,000,False,False,False,1,32
+"### | 68 - 
+",000,False,000,False,False,False,1,23
+"### | 69 - 
+",000,False,000,False,False,False,1,31
+"### | 70 - 
+",000,False,000,False,False,False,1,29
+"### | 71 - 
+",000,False,000,False,False,False,1,41
+"### | 72 - 
+",000,False,000,False,False,False,1,19
+"### | 73 - 
+",000,False,000,False,False,False,1,17
+"### | 74 - 
+",000,False,000,False,False,False,1,27
+"### | 75 - 
+",000,False,000,False,False,False,1,16
+"### | 76 - 
+",000,False,000,False,False,False,1,24
+"### | 77 - 
+",000,False,000,False,False,False,1,37
+"### | 78 - 
+",000,False,000,False,False,False,1,27
+"### | 79 - 
+",000,False,000,False,False,False,1,41
+"### | 80 - 
+",000,False,000,False,False,False,1,28
+"### | 81 - 
+",000,False,000,False,False,False,1,33
+"### | 82 - 
+",000,False,000,False,False,False,1,34
+"### | 83 - 
+",000,False,000,False,False,False,1,27
+"### | 84 - 
+",000,False,000,False,False,False,1,16
+"### | 85 - 
+",000,False,000,False,False,False,1,33
+"### | 86 - 
+",000,False,000,False,False,False,1,25
+"### | 87 - 
+",000,False,000,False,False,False,1,29
+"### | 88 - 
+",000,False,000,False,False,False,1,31
+"### | 89 - 
+",000,False,000,False,False,False,1,18
+"### | 90 - 
+",000,False,000,False,False,False,1,29
+"### | 91 - 
+",000,False,000,False,False,False,1,29
+"### | 92 - 
+",000,False,000,False,False,False,1,25
+"### | 93 - 
+",000,False,000,False,False,False,1,29
+"### | 94 - 
+",000,False,000,False,False,False,1,22
+"### | 95 - 
+",000,False,000,False,False,False,1,14
+"### | 96 - 
+",000,False,000,False,False,False,1,24
+"### | 97 - 
+",000,False,000,False,False,False,1,13
+"### | 98 - 
+",000,False,000,False,False,False,1,34
+"### | 99 - 
+",000,False,000,False,False,False,1,21
+"### | 100 - 
+",000,False,000,False,False,False,1,24
+"### | 101 - 
+",000,False,000,False,False,False,1,19
+"### | 102 - 
+",000,False,000,False,False,False,1,52
+"### | 103 - 
+",000,False,000,False,False,False,1,37
+"### | 104 - 
+",000,False,000,False,False,False,1,21
+"### | 105 - 
+",000,False,000,False,False,False,1,55
+"### | 106 - 
+",000,False,000,False,False,False,1,33
+"### | 107 - 
+",000,False,000,False,False,False,1,24
+"### | 108 - 
+",000,False,000,False,False,False,1,25
+"### | 109 - 
+",000,False,000,False,False,False,1,17
+"### | 110 - 
+",000,False,000,False,False,False,1,30
+"### | 111 - 
+",000,False,000,False,False,False,1,15
+"### | 112 - 
+",000,False,000,False,False,False,1,19
+"### | 113 - 
+",000,False,000,False,False,False,1,24
+"### | 114 - 
+",000,False,000,False,False,False,1,18
+"### | 115 - 
+",000,False,000,False,False,False,1,14
+"### | 116 - 
+",000,False,000,False,False,False,1,19
+"### | 117 - 
+",000,False,000,False,False,False,1,19
+"### | 118 - 
+",000,False,000,False,False,False,1,21
+"### | 119 - 
+",000,False,000,False,False,False,1,39
+"### | 120 - 
+",000,False,000,False,False,False,1,25
+"### | 121 - 
+",000,False,000,False,False,False,1,38
+"### | 122 - 
+",000,False,000,False,False,False,1,27
+"### | 123 - 
+",000,False,000,False,False,False,1,14
+"### | 124 - 
+",000,False,000,False,False,False,1,33
+"### | 125 - 
+",000,False,000,False,False,False,1,19
+"### | 126 - 
+",000,False,000,False,False,False,1,38
+"### | 128 - 
+",000,False,000,False,False,False,1,25
+"### | 129 - 
+",000,False,000,False,False,False,1,23
+"### | 130 - 
+",000,False,000,False,False,False,1,27
+"### | 131 - 
+",000,False,000,False,False,False,1,155
+"### | 1 - 
+",000,False,000,False,False,False,1,5
+"### | 2 - 
+",000,False,000,False,False,False,1,5
+"### | 3 - 
+",000,False,000,False,False,False,1,3
+"### | 4 - 
+",000,False,000,False,False,False,1,5
+"### | 5 - 
+",000,False,000,False,False,False,1,3
+"### | 6 - 
+",000,False,000,False,False,False,1,3
+"### | 7 - 
+",000,False,000,False,False,False,1,5
+"### | 8 - 
+",000,False,000,False,False,False,1,3
+"### | 9 - 
+",000,False,000,False,False,False,1,3
+"### | 10 - 
+",000,False,000,False,False,False,1,9
+"### | 11 - 
+",000,False,000,False,False,False,1,5
+"### | 12 - 
+",000,False,000,False,False,False,1,7
+"### | 13 - 
+",000,False,000,False,False,False,1,7
+"### | 14 - 
+",000,False,000,False,False,False,1,7
+"### | 15 - 
+",000,False,000,False,False,False,1,10
+"### | 17 - 
+",000,False,000,False,False,False,1,7
+"### | 18 - 
+",000,False,000,False,False,False,1,9
+"### | 19 - 
+",000,False,000,False,False,False,1,5
+"### | 20 - 
+",000,False,000,False,False,False,1,9
+"### | 21 - 
+",000,False,000,False,False,False,1,7
+"### | 22 - 
+",000,False,000,False,False,False,1,3
+"### | 23 - 
+",000,False,000,False,False,False,1,3
+"### | 24 - 
+",000,False,000,False,False,False,1,7
+"### | 25 - 
+",000,False,000,False,False,False,1,5
+"### | 26 - 
+",000,False,000,False,False,False,1,7
+"### | 27 - 
+",000,False,000,False,False,False,1,3
+"### | 28 - 
+",000,False,000,False,False,False,1,3
+"### | 29 - 
+",000,False,000,False,False,False,1,7
+"### | 30 - 
+",000,False,000,False,False,False,1,9
+"### | 31 - 
+",000,False,000,False,False,False,1,5
+"### | 32 - 
+",000,False,000,False,False,False,1,5
+"### | 33 - 
+",000,False,000,False,False,False,1,5
+"### | 34 - 
+",000,False,000,False,False,False,1,203

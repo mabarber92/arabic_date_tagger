@@ -1,0 +1,63 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO باب الألف الممدودة
+",000,False,000,False,False,False,1,4124
+"### | AUTO باب الألف المهموزة
+",000,False,000,False,False,False,1,608
+"### | CHECK باب الألف المهموزة في التسكين
+",000,False,000,False,False,False,1,816
+"### | AUTO باب الألف المقصورة
+",000,False,000,False,False,False,1,2430
+"### | AUTO باب الباء
+",000,False,000,False,False,False,1,8050
+"### | AUTO باب التاء
+",000,False,000,False,False,False,1,1280
+"### | AUTO باب الثاء
+",000,False,000,False,False,False,1,842
+"### | AUTO باب الجيم
+",000,False,000,False,False,False,1,2436
+"### | AUTO باب الحاء
+",000,False,000,False,False,False,1,2740
+"### | AUTO باب الخاء
+",000,False,000,False,False,False,1,579
+"### | AUTO باب الدال
+",000,False,000,False,False,False,1,3751
+"### | AUTO باب الذال
+",000,False,000,False,False,False,1,580
+"### | AUTO باب الراء
+",000,False,000,False,False,False,1,8493
+"### | AUTO باب الزاي
+",000,False,000,False,False,False,1,1273
+"### | AUTO باب السين
+",000,False,000,False,False,False,1,2434
+"### | AUTO باب الشين
+",000,False,000,False,False,False,1,497
+"### | AUTO باب الصاد
+",000,False,000,False,False,False,1,753
+"### | AUTO باب الضاد
+",000,False,000,False,False,False,1,1561
+"### | AUTO باب الطاء
+",000,False,000,False,False,False,1,1602
+"### | AUTO باب الظاء
+",000,False,000,False,False,False,1,319
+"### | AUTO باب العين
+",000,False,000,False,False,False,1,4010
+"### | AUTO باب الغين
+",000,False,000,False,False,False,1,260
+"### | AUTO باب الفاء
+",000,False,000,False,False,False,1,2268
+"### | AUTO باب القاف
+",000,False,000,False,False,False,1,1471
+"### | AUTO باب الكاف
+",000,False,000,False,False,False,1,504
+"### | AUTO باب اللام
+",000,False,000,False,False,False,1,1364
+"### | AUTO باب الميم
+",000,False,000,False,False,False,1,1511
+"### | AUTO باب النون
+",000,False,000,False,False,False,1,1719
+"### | AUTO باب الهاء
+",000,False,000,False,False,False,1,1004
+"### | AUTO باب الواو
+",000,False,000,False,False,False,1,1546
+"### | AUTO باب الياء
+",000,False,000,False,False,False,1,2488

@@ -1,0 +1,809 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK [المقدمة والتقليد]
+",000,False,000,False,False,False,1,1388
+"### | AUTO كتاب الطهارة
+",000,False,000,False,False,False,1,26968
+"### || AUTO فصل فى أحكام التخلى
+",000,False,000,False,False,False,2,265
+"### || AUTO فصل فى الاستنجاء PageV01P012 مسألة 1 : يجب غسل مخرج البول بالماء مرتين على الاحوط ، وإن كان الاقوى
+",000,False,000,False,False,False,2,213
+"### || AUTO فصل فى الاستبراء PageV01P013 وكيفيته على الاحوط الاولى أن يمسح بقوة ما بين المقعد وأصل الذكر ثلاثا ثم
+",000,False,000,False,False,False,2,258
+"### || AUTO فصل فى الوضوء
+",000,False,000,False,False,False,2,849
+"### || AUTO القول فى شرائط الوضوء
+",000,False,000,False,False,False,2,1150
+"### || AUTO فصل فى موجبات الوضوء وغاياته
+",000,False,000,False,False,False,2,565
+"### || AUTO القول فى أحكام الخلل PageV01P024 مسألة 1 : لو تيقن الحدث وشك فى الطهارة أو ظن بها تطهر ولو كان شكه فى
+",000,False,000,False,False,False,2,324
+"### || AUTO فصل فى وضوء الجبيرة
+",000,False,000,False,False,False,2,501
+"### || AUTO فصل فى الاغسال
+",000,False,000,False,False,False,2,34
+"### || AUTO القول فى السبب
+",000,False,000,False,False,False,2,319
+"### || AUTO القول فى أحكام الجنب
+",000,False,000,False,False,False,2,380
+"### || AUTO القول فى واجبات الغسل
+",000,False,000,False,False,False,2,1069
+"### || AUTO فصل فى غسل الحيض
+",000,False,000,False,False,False,2,1813
+"### || AUTO القول فى أحكام الحيض PageV01P043 وهى أمور : منها عدم جواز الصلاة والصيام والطواف والاعتكاف لها ، ومنها
+",000,False,000,False,False,False,2,840
+"### || AUTO فصل فى الاستحاضة
+",000,False,000,False,False,False,2,1031
+"### || AUTO فصل فى النفاس PageV01P052 وهو دم الولادة معها أو بعدها قبل انقضاء عشرة أيام من حينها ولو كان سقطا
+",000,False,000,False,False,False,2,457
+"### || AUTO فصل فى غسل الميت PageV01P054 وسبب وجوبه مس ميت الانسان بعد برد تمام جسده وقبل تمام غسله لا بعده ولو
+",000,False,000,False,False,False,2,334
+"### || AUTO فصل فى أحكام الاموات
+",000,False,000,False,False,False,2,7153
+"### ||| AUTO القول فى غسل الميت
+",000,False,000,False,False,False,3,831
+"### ||| AUTO القول فى كيفية غسل الميت
+",000,False,000,False,False,False,3,728
+"### ||| AUTO القول فى آداب الغسل PageV01P063 وهى أمور : وضعه على ساجة أو سرير ، وأن ينزع قميصه من طرف رجليه وإن
+",000,False,000,False,False,False,3,124
+"### ||| AUTO القول فى تكفين الميت
+",000,False,000,False,False,False,3,454
+"### ||| AUTO القول فى مستحبات الكفن وآداب التكفين
+",000,False,000,False,False,False,3,301
+"### ||| AUTO القول فى الحنوط
+",000,False,000,False,False,False,3,134
+"### ||| AUTO القول فى الجريدتين PageV01P067 من السنن الاكيدة وضع عودين رطبين مع الميت ، صغيرا أو كبيرا ذكرا أو أنثى
+",000,False,000,False,False,False,3,84
+"### ||| AUTO القول فى تشييع الجنازة
+",000,False,000,False,False,False,3,300
+"### ||| AUTO القول فى الصلاة على الميت
+",000,False,000,False,False,False,3,384
+"### ||| AUTO القول فى كيفية صلاة الميت
+",000,False,000,False,False,False,3,409
+"### ||| AUTO القول فى شرائط صلاة الميت
+",000,False,000,False,False,False,3,766
+"### ||| AUTO القول فى آداب الصلاة على الميت
+",000,False,000,False,False,False,3,125
+"### ||| AUTO القول ms062 فى الدفن PageV01P076 يجب كفاية دفن الميت المسلم ومن بحكمه ، وهو مواراته فى حفيرة من الارض ،
+",000,False,000,False,False,False,3,546
+"### ||| AUTO القول فى مستحبات الدفن ومكروهاته
+",000,False,000,False,False,False,3,606
+"### ||| AUTO خاتمة تشتمل على مسائل PageV01P081 مسألة 1 : يجوز نقل الميت من بلد إلى بلد آخر قبل دفنه على كراهية ، إلا
+",000,False,000,False,False,False,3,1115
+"### || AUTO القول فى الاغسال المندوبة PageV01P086 وهى أقسام ms070 : زمانية ومكانية وفعلية : أما الزمانية فكثيرة منها غسل الجمعة
+",000,False,000,False,False,False,2,764
+"### || AUTO فصل فى التيمم
+",000,False,000,False,False,False,2,2873
+"### ||| AUTO القول فى مسوغاته PageV01P090 مسألة 1 : مسوغات التيمم أمور : منها عدم وجدان ما يكفيه من الماء لطهارته
+",000,False,000,False,False,False,3,1050
+"### ||| AUTO القول فيما يتيمم به
+",000,False,000,False,False,False,3,541
+"### ||| AUTO القول فى كيفية التيمم PageV01P097 مسألة 1 : كيفية التيمم مع الاختبار ضرب باطن الكفين بالارض معا دفعة ، ثم
+",000,False,000,False,False,False,3,255
+"### ||| AUTO القول فيما يعتبر فى التيمم
+",000,False,000,False,False,False,3,356
+"### ||| AUTO القول فى أحكام التيمم
+",000,False,000,False,False,False,3,654
+"### || AUTO فصل فى النجاسات
+",000,False,000,False,False,False,2,2675
+"### ||| AUTO القول فى النجاسات
+",000,False,000,False,False,False,3,1144
+"### ||| AUTO القول فى أحكام النجاسات PageV01P108 مسألة 1 : يشترط فى صحة الصلاة والطواف واجبهما ومندوبهما طهارة البدن ،
+",000,False,000,False,False,False,3,523
+"### ||| AUTO القول فى كيفية التنجيس بها PageV01P110 مسألة 1 : لا ينجس الملاقى لها مع اليبوسة ، ولا مع النداوة التى لم ينتقل
+",000,False,000,False,False,False,3,530
+"### ||| AUTO القول فيما يعفى عنه فى الصلاة
+",000,False,000,False,False,False,3,463
+"### || AUTO فصل فى المطهرات PageV01P114 وهى أحد عشر : أولها الماء ويطهر به كل متنجس حتى الماء كما تقدم فى فصل
+",000,False,000,False,False,False,2,1992
+"### ||| AUTO القول فى الاوانى PageV01P121 مسألة 1 : أوانى الكفار كأوانى غيرهم محكومة بالطهارة ما لم يعلم ملاقاتهم
+",000,False,000,False,False,False,3,446
+"### | AUTO كتاب الصلاة
+",000,False,000,False,False,False,1,31607
+"### || AUTO فصل فى مقدمات الصلاة
+",000,False,000,False,False,False,2,4535
+"### ||| AUTO المقدمة الاولى
+",000,False,000,False,False,False,3,1253
+"### ||| AUTO المقدمة الثانية فى القبلة
+",000,False,000,False,False,False,3,225
+"### ||| AUTO المقدمة الثالثة فى الستر والساتر
+",000,False,000,False,False,False,3,1120
+"### ||| AUTO المقدمة الرابعة فى المكان PageV01P134 مسألة 1 : كل مكان يجوز الصلاة فيه إلا المغصوب عينا أو منفعة وفى حكمه ما
+",000,False,000,False,False,False,3,1448
+"### ||| AUTO المقدمة الخامسة فى الاذان والاقامة
+",000,False,000,False,False,False,3,314
+"### ||| AUTO المقدمة السادسة PageV01P143 ينبغى للمصلى إحضار قلبه فى تمام الصلاة أقوالها وأفعالها ، فإنه لا يحسب
+",000,False,000,False,False,False,3,168
+"### || AUTO فصل فى أفعال الصلاة
+",000,False,000,False,False,False,2,17870
+"### ||| AUTO القول فى النية PageV01P144 مسألة 1 : النية عبارة عن قصد الفعل ، ويعتبر فيها التقرب إلى الله تعالى
+",000,False,000,False,False,False,3,1072
+"### ||| AUTO القول فى تكبيرة الاحرام
+",000,False,000,False,False,False,3,318
+"### ||| AUTO القول فى القيام PageV01P150 مسألة 1 : القيام ركن فى تكبيره الاحرام التى تقارنها النية ، وفى الركوع
+",000,False,000,False,False,False,3,392
+"### ||| AUTO القول فى القراءة والذكر
+",000,False,000,False,False,False,3,1176
+"### ||| AUTO القول فى الركوع
+",000,False,000,False,False,False,3,586
+"### ||| AUTO القول فى السجود PageV01P160 مسألة 1 : يجب فى كل ركعة سجدتان ، وهما معا ركن تبطل الصلاة بزيادتهما معا
+",000,False,000,False,False,False,3,972
+"### ||| AUTO القول فى سجدتى التلاوة والشكر
+",000,False,000,False,False,False,3,577
+"### ||| AUTO القول فى التشهد
+",000,False,000,False,False,False,3,162
+"### ||| AUTO القول فى التسليم
+",000,False,000,False,False,False,3,119
+"### ||| AUTO القول فى الترتيب PageV01P168 مسألة : يجب الترتيب فى أفعال الصلاة ، فيجب تقديم تكبيرة الاحرام على
+",000,False,000,False,False,False,3,104
+"### ||| AUTO القول فى الموالاة
+",000,False,000,False,False,False,3,126
+"### ||| AUTO بقى أمران القنوت والتعقيب
+",000,False,000,False,False,False,3,220
+"### ||| AUTO القول فى التعقيب
+",000,False,000,False,False,False,3,307
+"### ||| AUTO القول فى مبطلات الصلاة
+",000,False,000,False,False,False,3,1229
+"### ||| AUTO القول فى صلاة الايات
+",000,False,000,False,False,False,3,901
+"### ||| AUTO القول فى الخلل الواقع فى الصلاة PageV01P180 مسألة 1 : من أخل بالطهارة من الحدث بطلت صلاته مع العمد والسهو والعلم
+",000,False,000,False,False,False,3,855
+"### ||| AUTO القول فى الشك
+",000,False,000,False,False,False,3,317
+"### ||| AUTO القول فى الشك فى شى ء من أفعال الصلاة
+",000,False,000,False,False,False,3,381
+"### ||| AUTO القول فى الشك فى عدد ركعات الفريضة PageV01P187 مسألة 1 : لا حكم للشك المزبور بمجرد حصوله إن زال بعد ذلك وأما لو استقر
+",000,False,000,False,False,False,3,1025
+"### ||| AUTO القول فى الشكوك التى لا اعتبار بها
+",000,False,000,False,False,False,3,600
+"### ||| AUTO القول فى حكم الظن فى أفعال الصلاة وركعاتها
+",000,False,000,False,False,False,3,211
+"### ||| AUTO القول فى ركعات ms156 الاحتياط
+",000,False,000,False,False,False,3,547
+"### ||| AUTO القول فى الاجزاء المنسية
+",000,False,000,False,False,False,3,307
+"### ||| AUTO القول فى سجود السهو
+",000,False,000,False,False,False,3,388
+"### ||| AUTO ختام فيه مسائل متفرفة PageV01P200 مسألة 1 : لو شك فى أن ما بيده ظهر أو عصر فإن كان قد صلى الظهر بطل ما
+",000,False,000,False,False,False,3,1871
+"### ||| AUTO القول فى صلاة القضاء PageV01P207 يجب قضاء الصلوات اليومية التى فاتت فى أوقاتها عدا الجمعة عمدا كان أو
+",000,False,000,False,False,False,3,1078
+"### ||| AUTO القول فى صلاة الاستئجار PageV01P212 يجوز الاستئجار للنيابة عن الاموات فى قضاء الصلوات كسائر العبادات كما
+",000,False,000,False,False,False,3,663
+"### ||| AUTO القول فى صلاة العيدين
+",000,False,000,False,False,False,3,281
+"### ||| AUTO القول فى بعض الصلوات المندوبة PageV01P216 فمنها صلاة جعفر بن أبى طالب ( ع ) ، وهى من المستحبات الاكيدة ، ومن
+",000,False,000,False,False,False,3,549
+"### ||| AUTO ومنها صلاة الاستسقاء PageV01P218 وهو طلب السقيا ، وهى مستحبة عند غور الانهار وفتور الامطار ، ومنع السماء
+",000,False,000,False,False,False,3,479
+"### || AUTO فصل فى صلاة المسافر PageV01P220 يجب القصر على المسافر فى الصلوات الرباعية مع اجتماع الشروط الاتية ، وأما
+",000,False,000,False,False,False,2,7085
+"### ||| AUTO القول فى قواطع السفر
+",000,False,000,False,False,False,3,1363
+"### ||| AUTO القول فى أحكام المسافر
+",000,False,000,False,False,False,3,517
+"### ||| AUTO فصل فى صلاة الجماعة PageV01P237 وهى من المستحبات الاكيدة فى جميع الفرائض خصوصا اليومية ، ويتأكد فى الصبح
+",000,False,000,False,False,False,3,780
+"### ||| AUTO القول فى شرائط الجماعة
+",000,False,000,False,False,False,3,499
+"### ||| AUTO القول فى أحكام الجماعة
+",000,False,000,False,False,False,3,706
+"### ||| AUTO القول فى شرائط إمام الجماعة
+",000,False,000,False,False,False,3,881
+"### || AUTO البحث فى صلاة الجمعة PageV01P250 مسألة : 1 تجب صلاة الجمعة فى هذه الاعصار مخيرا بينها وبين صلاة الظهر ،
+",000,False,000,False,False,False,2,2096
+"### ||| AUTO القول فى شرائط صلاة الجمعة
+",000,False,000,False,False,False,3,1188
+"### ||| AUTO القول فيمن تجب عليه
+",000,False,000,False,False,False,3,226
+"### ||| AUTO القول فى وقتها
+",000,False,000,False,False,False,3,572
+"### | AUTO كتاب الصوم
+",000,False,000,False,False,False,1,7500
+"### || AUTO القول فيما يجب الامساك عنه
+",000,False,000,False,False,False,2,1717
+"### || AUTO القول فيما يكره للصائم ارتكابه
+",000,False,000,False,False,False,2,260
+"### || AUTO القول فيما يترتب على الافطار
+",000,False,000,False,False,False,2,964
+"### || AUTO القول فى شرائط صحة الصوم ووجوبه
+",000,False,000,False,False,False,2,765
+"### || AUTO القول فى طريق ثبوت هلال شهر رمضان وشوال
+",000,False,000,False,False,False,2,318
+"### || AUTO القول فى قضاء صوم شهر رمضان PageV01P279 لا يجب على الصبى قضاء ما أفطر فى زمان صباه ، ولا على المجنون والمغمى
+",000,False,000,False,False,False,2,583
+"### || AUTO القول فى أقسام الصوم
+",000,False,000,False,False,False,2,44
+"### || AUTO القول فى صوم الكفارة
+",000,False,000,False,False,False,2,376
+"### || AUTO وأما المندوب منه
+",000,False,000,False,False,False,2,151
+"### || AUTO وأما المكروه PageV01P284 فصوم الضيف نافلة من دون إذن مضيفه ، وكذا مع نهيه ، والاحوط تركه حتى مع
+",000,False,000,False,False,False,2,88
+"### || AUTO وأما المحظور
+",000,False,000,False,False,False,2,99
+"### || AUTO خاتمة فى الاعتكاف
+",000,False,000,False,False,False,2,1439
+"### ||| AUTO القول فى الشروط
+",000,False,000,False,False,False,3,976
+"### ||| AUTO القول فى أحكام الاعتكاف
+",000,False,000,False,False,False,3,407
+"### | AUTO كتاب الزكاة
+",000,False,000,False,False,False,1,8681
+"### || AUTO القول فيمن تجب عليه الزكاة
+",000,False,000,False,False,False,2,603
+"### || AUTO القول فيما تجب فيه الزكاة وما تستحب PageV01P294 مسألة : 1 تجب الزكاة فى الانعام الثلاثة : الابل والبقر والغنم ، وفى
+",000,False,000,False,False,False,2,1538
+"### ||| AUTO الاول فى زكاة الانعام
+",000,False,000,False,False,False,3,547
+"### ||| AUTO القول فى السوم أي الرعى
+",000,False,000,False,False,False,3,171
+"### ||| AUTO القول فى الحول PageV01P298 مسألة : 1 يتحقق الحول بتمام الاحد عشر ، والظاهر أن الزكاة تنتقل إلى
+",000,False,000,False,False,False,3,469
+"### ||| AUTO القول فى الشرط الاخير
+",000,False,000,False,False,False,3,270
+"### || AUTO الفصل الثانى
+",000,False,000,False,False,False,2,3
+"### || AUTO فى زكاة النقدين
+",000,False,000,False,False,False,2,530
+"### || AUTO الفصل الثالث فى زكاة الغلات PageV01P303 وقد تقدم أنه لا تجب الزكاة إلا فى أربعة أجناس : أي الحنطة والشعير والتمر
+",000,False,000,False,False,False,2,2130
+"### ||| AUTO المطلب الاول
+",000,False,000,False,False,False,3,1308
+"### ||| AUTO المطلب الثانى PageV01P309 إنما تجب الزكاة بعد إخراج ما يأخذه السلطان من عين الحاصل بعنوان المقاسمة
+",000,False,000,False,False,False,3,563
+"### ||| AUTO المطلب الثالث
+",000,False,000,False,False,False,3,176
+"### || AUTO القول فى أصناف المستحقين للزكاة ومصارفها
+",000,False,000,False,False,False,2,1202
+"### || AUTO القول فى أوصاف المستحقين للزكاة PageV01P317 وهى أمور : الاول الايمان ، فلا يعطى الكافر ، ولا المخالف للحق وإن كان من
+",000,False,000,False,False,False,2,546
+"### || AUTO القول فى بقية أحكام الزكاة
+",000,False,000,False,False,False,2,850
+"### || AUTO المقصد الثانى فى زكاة الابدان
+",000,False,000,False,False,False,2,47
+"### || AUTO القول فيمن تجب عليه
+",000,False,000,False,False,False,2,539
+"### || AUTO القول فى جنسها
+",000,False,000,False,False,False,2,152
+"### || AUTO القول فى قدرها
+",000,False,000,False,False,False,2,88
+"### || AUTO القول فى وقت وجوبها PageV01P327 وهو دخول ليلة العيد ، ويستمر وقت دفعها إلى وقت الزوال ، والافضل بل
+",000,False,000,False,False,False,2,298
+"### | AUTO كتاب الخمس
+",000,False,000,False,False,False,1,4283
+"### || AUTO القول فيما يجب فيه الخمس
+",000,False,000,False,False,False,2,3168
+"### || AUTO القول فى قسمته ومستحقيه
+",000,False,000,False,False,False,2,681
+"### || AUTO القول فى الانفال PageV01P346 وهى ما يستحقه الامام عليه السلام على جهة الخصوص لمنصب إمامته كما كان
+",000,False,000,False,False,False,2,329
+"### | AUTO كتاب الحج
+",000,False,000,False,False,False,1,20607
+"### || AUTO القول فى شرائط وجوب حجة الاسلام PageV01P348 وهى أمور : أحدها الكمال بالبلوغ والعقل ، فلا يجب على الصبى وإن كان
+",000,False,000,False,False,False,2,4164
+"### || AUTO القول فى الحج بالنذر والعهد واليمين
+",000,False,000,False,False,False,2,755
+"### || AUTO القول فى النيابة
+",000,False,000,False,False,False,2,1318
+"### || AUTO القول فى الوصية بالحج
+",000,False,000,False,False,False,2,1140
+"### || AUTO القول فى الحج المندوب
+",000,False,000,False,False,False,2,165
+"### || AUTO القول فى أقسام العمرة PageV01P380 مسألة 1 : تنقسم العمرة كالحج إلى واجب أصلى وعرضى ومندوب فتجب بأصل الشرع
+",000,False,000,False,False,False,2,194
+"### || AUTO القول فى أقسام الحج PageV01P381 وهى ثلاثة : تمتع وقران وإفراد ، والاول فرض من كان بعيدا عن مكة ،
+",000,False,000,False,False,False,2,377
+"### || AUTO القول فى صورة حج التمتع إجمالا PageV01P383 وهى أن يحرم فى أشهر الحج من إحدى المواقيت بالعمرة المتمتع بها إلى الحج ،
+",000,False,000,False,False,False,2,902
+"### || AUTO القول فى المواقيت
+",000,False,000,False,False,False,2,449
+"### || AUTO القول فى أحكام المواقيت
+",000,False,000,False,False,False,2,454
+"### || AUTO القول فى كيفية الاحرام
+",000,False,000,False,False,False,2,1259
+"### || AUTO القول فى تروك الاحرام PageV01P396 والمحرمات منه أمور : الاول صيد البر اصطيادا وأكلا ولو صاده محل وإشارة
+",000,False,000,False,False,False,2,2301
+"### || AUTO القول فى الطواف
+",000,False,000,False,False,False,2,128
+"### || AUTO القول فى واجبات الطواف
+",000,False,000,False,False,False,2,1322
+"### || AUTO القول فى صلاة الطواف
+",000,False,000,False,False,False,2,247
+"### || AUTO القول فى السعى
+",000,False,000,False,False,False,2,482
+"### || AUTO القول فى التقصير
+",000,False,000,False,False,False,2,114
+"### || AUTO القول فى الوقوف بعرفات
+",000,False,000,False,False,False,2,317
+"### || AUTO القول فى الوقوف بالمشعر الحرام
+",000,False,000,False,False,False,2,530
+"### || AUTO القول فى واجبات منى
+",000,False,000,False,False,False,2,1703
+"### || AUTO القول فيما يجب بعد أعمال منى
+",000,False,000,False,False,False,2,480
+"### || AUTO القول فى المبيت بمنى
+",000,False,000,False,False,False,2,338
+"### || AUTO القول فى رمى الجمار الثلاث
+",000,False,000,False,False,False,2,657
+"### || AUTO القول فى الصد والحصر
+",000,False,000,False,False,False,2,655
+"### | AUTO كتاب الامر بالمعروف والنهى عن المنكر
+",000,False,000,False,False,False,1,6573
+"### || AUTO القول فى أقسامهما وكيفية وجوبهما
+",000,False,000,False,False,False,2,442
+"### || AUTO القول فى شرائط وجوبهما
+",000,False,000,False,False,False,2,2375
+"### ||| AUTO وهى أمور : الاول أن يعرف الامر أو الناهى أن ما تركه المكلف
+",000,False,000,False,False,False,3,355
+"### ||| AUTO الشرط الثانى : أن يجوز ويحتمل تأثير الامر أو النهى، فلو علم
+",000,False,000,False,False,False,3,618
+"### ||| AUTO الشرط الثالث : أن يكون العاصى مصرا على الاستمرار فلو علم
+",000,False,000,False,False,False,3,418
+"### ||| AUTO الشرط الرابع : أن لا يكون فى إنكاره مفسدة.
+",000,False,000,False,False,False,3,978
+"### || AUTO القول فى مراتب الامر بالمعروف والنهى عن المنكر
+",000,False,000,False,False,False,2,1390
+"### ||| AUTO المرتبة الاولى : أن يعمل عملا يظهر منه انزجاره القلبى عن
+",000,False,000,False,False,False,3,298
+"### ||| AUTO المرتبة الثانية : الامر والنهى لسانا.
+",000,False,000,False,False,False,3,448
+"### ||| AUTO المرتبة الثالثة : الانكار باليد.
+",000,False,000,False,False,False,3,617
+"### || AUTO ختام فيه مسائل
+",000,False,000,False,False,False,2,349
+"### || AUTO فصل فى الدفاع
+",000,False,000,False,False,False,2,382
+"### || AUTO القول فى القسم الثانى PageV01P454 مسألة 1 : لا إشكال فى أن للانسان أن يدفع المحارب والمهاجم واللص ونحوهم
+",000,False,000,False,False,False,2,1314
+"### | AUTO كتاب المكاسب والمتاجر
+",000,False,000,False,False,False,1,13832
+"### || AUTO مقدمة تشتمل على مسائل PageV01P459 مسألة 1 : لا يجوز التكسب بالاعيان النجسة بجميع أنواعها على إشكال فى
+",000,False,000,False,False,False,2,2418
+"### || AUTO كتاب البيع PageV01P471 مسألة 1 : عقد البيع يحتاج إلى إيجاب وقبول، وقد يستغنى بالايجاب عن
+",000,False,000,False,False,False,2,760
+"### || AUTO القول فى شروط البيع
+",000,False,000,False,False,False,2,1832
+"### || AUTO القول فى شروط العوضين
+",000,False,000,False,False,False,2,747
+"### || AUTO القول فى الخيارات
+",000,False,000,False,False,False,2,6
+"### || AUTO الاول خيار المجلس
+",000,False,000,False,False,False,2,32
+"### || AUTO الثانى خيار الحيوان
+",000,False,000,False,False,False,2,109
+"### || AUTO الثالث خيار الشرط PageV01P486 أي الثابت بالاشتراط فى ضمن العقد ، ويجوز جعله لهما أو لاحدهما أو لثالث ،
+",000,False,000,False,False,False,2,706
+"### || AUTO الرابع خيار الغبن PageV01P489 وهو فيما إذا باع بدون ثمن المثل أو اشترى بأكثر منه مع الجهل بالقيمة ،
+",000,False,000,False,False,False,2,1107
+"### || AUTO الخامس : خيار التأخير
+",000,False,000,False,False,False,2,225
+"### || AUTO السادس خيار الرؤية
+",000,False,000,False,False,False,2,196
+"### || AUTO السابع خيار العيب
+",000,False,000,False,False,False,2,403
+"### || AUTO القول فى أحكام الخيار
+",000,False,000,False,False,False,2,185
+"### || AUTO القول فيما يدخل فى المبيع عند الاطلاق PageV01P498 مسألة 1 : من باع بستانا دخل فيه ms406 الارض والشجر والنخل ، وكذا الابنية من
+",000,False,000,False,False,False,2,301
+"### || AUTO القول فى القبض والتسليم PageV01P500 مسألة 1 : يجب على المتبايعين تسليم العوضين بعد العقد لو لم يشترط التأخير
+",000,False,000,False,False,False,2,394
+"### || AUTO القول فى النقد والنسيئة
+",000,False,000,False,False,False,2,263
+"### || AUTO القول فى الربا PageV01P503 وقد ثبت حرمته بالكتاب والسنة وإجماع من المسلمين ، بل لا يبعد كونها من
+",000,year,000,False,False,False,2,623
+"### || AUTO القول فى بيع الصرف
+",000,False,000,False,False,False,2,966
+"### || AUTO القول فى السلف PageV01P510 ويقال : السلم أيضا ، وهو ابتياع كل مؤجل بثمن حال عكس النسيئة ويقال
+",000,False,000,False,False,False,2,626
+"### || AUTO القول فى المرابحة والمواضعة والتولية PageV01P513 ما يقع من المتعاملين فى مقام البيع والشراء على نحوين : أحدهما أن لا يقع
+",000,False,000,False,False,False,2,619
+"### || AUTO القول فى بيع الثمار
+",000,False,000,False,False,False,2,905
+"### || AUTO القول فى بيع الحيوان PageV01P520 مسألة 1 : كل حيوان مملوك كما يجوز بيع جميعه يجوز بيع بعضه المشاع كالنصف
+",000,False,000,False,False,False,2,237
+"### || AUTO القول فى الاقالة PageV01P521 وحقيقتها فسخ العقد من الطرفين ، وهى جارية فى جميع العقود سوى النكاح ،
+",000,False,000,False,False,False,2,157
+"### | AUTO كتاب الشفعة والصلح والاجارة
+",000,False,000,False,False,False,1,1333
+"### | AUTO كتاب الصلح
+",000,False,000,False,False,False,1,1932
+"### | AUTO كتاب الاجارة PageV01P535 وهى إما متعلقة بأعيان مملوكة من حيوان أو دار أو عقار أو متاع أو ثياب
+",000,False,000,False,False,False,1,3485
+"### | AUTO كتاب الجعالة PageV01P550 وهى الالتزام بعوض معلوم على عمل محلل مقصود ، أو هى إنشاء الالتزام به ،
+",000,False,000,False,False,False,1,1138
+"### | AUTO كتاب العارية
+",000,False,000,False,False,False,1,914
+"### | AUTO كتاب الوديعة
+",000,False,000,False,False,False,1,2575
+"### | AUTO كتاب المضاربة
+",000,False,000,False,False,False,1,3372
+"### | AUTO كتاب الشركة PageV01P585 وهى كون الشى ء واحد لاثنين أو أزيد ، وهى أما فى عين أو دين أو منفعة أو
+",000,False,000,False,False,False,1,2855
+"### | AUTO كتاب المزارعة
+",000,False,000,False,False,False,1,1351
+"### | AUTO كتاب المساقاة PageV01P604 وهى المعاملة على أصول ثابتة بأن يسقيها مدة معينة بحصة من ثمرها وهى عقد
+",000,False,000,False,False,False,1,949
+"### | AUTO كتاب الدين والقرض PageV01P608 الدين مال كلى ثابت فى ذمة شخص لاخر بسبب من الاسباب ، ويقال لمن اشتغلت
+",000,False,000,False,False,False,1,2170
+"### || AUTO القول فى أحكام الدين
+",000,False,000,False,False,False,2,1008
+"### || AUTO القول فى القرض
+",000,False,000,False,False,False,2,1095
+"### | AUTO كتاب الرهن ms501
+",000,False,000,False,False,False,1,1943
+"### | AUTO كتاب الحجر
+",000,False,000,False,False,False,1,2696
+"### || AUTO القول فى الصغر
+",000,False,000,False,False,False,2,605
+"### || AUTO القول فى السفه
+",000,False,000,False,False,False,2,617
+"### || AUTO القول فى المفلس
+",000,False,000,False,False,False,2,998
+"### || AUTO القول فى المرض PageV01P635 المريض أن لم يتصل مرضه بموته فهو كالصحيح يتصرف فى ماله بما شاء وكيف شاء
+",000,False,000,False,False,False,2,444
+"### | AUTO كتاب الضمان
+",000,False,000,False,False,False,1,1099
+"### | AUTO كتاب الحوالة والكفالة PageV01P641 أما الحوالة فحقيقتها تحويل المديون ما فى ذمته إلى ذمة غيره ، وهى متقومة
+",000,False,000,False,False,False,1,1662
+"### || AUTO القول فى الكفالة
+",000,False,000,False,False,False,2,898
+"### | AUTO كتاب الوكالة PageV01P648 وهى تفويض أمر إلى الغير ليعمل له حال حياته أو إرجاع تمشية أمر من الامور
+",000,False,000,False,False,False,1,2329
+"### | AUTO كتاب الاقرار
+",000,False,000,False,False,False,1,1633
+"### | AUTO كتاب الهبة
+",000,False,000,False,False,False,1,1249
+"### | AUTO كتاب الوقف وأخواته PageV01P670 وهو تحبيس العين وتسبيل المنفعة ، وفيه فضل كثير وثواب جزيل ، ففى الصحيح
+",000,False,000,False,False,False,1,6951
+"### || AUTO القول فى الحبس وأخوانه
+",000,False,000,False,False,False,2,607
+"### || AUTO القول فى الصدقة
+",000,False,000,False,False,False,2,503
+"### | AUTO كتاب الوصية
+",000,False,000,False,False,False,1,4057
+"### | AUTO كتاب الايمان والنذور
+",000,False,000,False,False,False,1,3273
+"### || AUTO القول فى اليمين
+",000,False,000,False,False,False,2,1238
+"### || AUTO القول فى النذر
+",000,False,000,False,False,False,2,1916
+"### || AUTO القول فى العهد
+",000,False,000,False,False,False,2,115
+"### | AUTO كتاب الكفارات
+",000,False,000,False,False,False,1,2119
+"### || AUTO القول فى أقسامها
+",000,False,000,False,False,False,2,284
+"### || AUTO القول فى أحكام الكفارات
+",000,False,000,False,False,False,2,1832
+"### | AUTO كتاب الصيد والذباحة
+",000,False,000,False,False,False,1,4801
+"### || AUTO القول فى الصيد
+",000,False,000,False,False,False,2,2643
+"### || AUTO القول فى الذباحة
+",000,False,000,False,False,False,2,2154
+"### | AUTO كتاب الاطعمة والاشربة PageV01P762 والمقصود من هذا الكتاب بيان المحلل والمحرم من الحيوان وغير الحيوان
+",000,False,000,False,False,False,1,3846
+"### || AUTO القول فى الحيوان
+",000,False,000,False,False,False,2,1683
+"### || AUTO القول فى غير الحيوان
+",000,False,000,False,False,False,2,2147
+"### | AUTO كتاب الغصب
+",000,False,000,False,False,False,1,5546
+"### | AUTO كتاب إحياء الموات والمشتركات
+",000,False,000,False,False,False,1,6396
+"### || AUTO القول فى إحياء الموات
+",000,False,000,False,False,False,2,3112
+"### || AUTO تكملة
+",000,False,000,False,False,False,2,431
+"### || AUTO القول فى المشتركات
+",000,False,000,False,False,False,2,2848
+"### | AUTO كتاب اللقطة
+",000,False,000,False,False,False,1,3460
+"### || AUTO القول فى لقطة الحيوان
+",000,False,000,False,False,False,2,3117
+"### || AUTO خاتمة PageV01P846 إذا وجد صبيا ضائعا لا كافل له ولا يستقل بنفسه على السعى فيما يصلحه
+",000,False,000,False,False,False,2,323
+"### | AUTO كتاب النكاح
+",000,False,000,False,False,False,1,20505
+"### || AUTO فصل فى عقد النكاح وأحكامه
+",000,False,000,False,False,False,2,1964
+"### || AUTO فصل فى أولياء العقد
+",000,False,000,False,False,False,2,2061
+"### || AUTO فصل فى أسباب التحريم PageV01P875 أعنى ما بسببه يحرم ولا يصح تزويج الرجل بالمرأة ولا يقع الزواج بينهما ،
+",000,False,000,False,False,False,2,33
+"### || AUTO القول فى النسب
+",000,False,000,False,False,False,2,580
+"### || AUTO القول فى الرضاع
+",000,False,000,False,False,False,2,1563
+"### || AUTO تنبيه PageV01P886 إذا كان أخوان فى بيت واحد مثلا وكانت زوجة كل منهما أجنبية عن الاخر
+",000,False,000,False,False,False,2,1052
+"### || AUTO القول ms720 فى المصاهرة وما يلحق بها
+",000,False,000,False,False,False,2,1188
+"### || AUTO القول فى النكاح فى العدة وتكميل العدد
+",000,False,000,False,False,False,2,656
+"### || AUTO القول فى الكفر
+",000,False,000,False,False,False,2,835
+"### || AUTO القول فى النكاح المنقطع
+",000,False,000,False,False,False,2,788
+"### || AUTO القول فى ms732 العيوب الموجبة لخيار الفسخ والتدليس PageV01P906 وهى قسمان ، مشترك ومختص ، أما المشترك فهو الجنون ، وهو اختلال العقل ،
+",000,False,000,False,False,False,2,1172
+"### || AUTO فصل فى المهر ويقال له الصداق
+",000,False,000,False,False,False,2,1219
+"### || AUTO فى الشروط المذكورة فى عقد النكاح
+",000,False,000,False,False,False,2,155
+"### || AUTO فصل فى القسم والنشوز والشقاق PageV01P916 لكل واحد من الزوجين حق على صاحبه يجب عليه القيام به وإن كان حق الزوج
+",000,False,000,False,False,False,2,453
+"### || AUTO القول فى النشوز
+",000,False,000,False,False,False,2,608
+"### || AUTO فصل فى أحكام الاولاد والولادة PageV01P920 مسألة 1 : إنما يلحق ما ولدته المرأة بزوجها بشروط : الدخول مع الانزال أو
+",000,False,000,False,False,False,2,472
+"### || AUTO القول فى أحكام الولادة وما يلحق بها
+",000,False,000,False,False,False,2,957
+"### || AUTO فصل فى النفقات
+",000,False,000,False,False,False,2,1398
+"### || AUTO القول فى نفقة الاقارب
+",000,False,000,False,False,False,2,1084
+"### | AUTO كتاب الطلاق
+",000,False,000,False,False,False,1,5316
+"### || AUTO القول فى شروطه
+",000,False,000,False,False,False,2,914
+"### || AUTO القول فى الصيغة
+",000,False,000,False,False,False,2,547
+"### || AUTO القول فى أقسام الطلاق
+",000,False,000,False,False,False,2,705
+"### || AUTO فصل فى عدة الفراق
+",000,False,000,False,False,False,2,650
+"### || AUTO القول فى عدة الوفاة
+",000,False,000,False,False,False,2,1501
+"### || AUTO القول فى عدة وطء الشبهة
+",000,False,000,False,False,False,2,649
+"### || AUTO القول فى الرجعة
+",000,False,000,False,False,False,2,342
+"### | AUTO كتاب الخلع والمباراة
+",000,False,000,False,False,False,1,1080
+"### | AUTO كتاب الظهار PageV01P962 الذي كان طلاقا فى الجاهلية وموجبا للحرمة الابدية ، وقد غير شرع الاسلام
+",000,False,000,False,False,False,1,437
+"### | AUTO كتاب الايلاء
+",000,False,000,False,False,False,1,284
+"### | AUTO كتاب اللعان
+",000,False,000,False,False,False,1,942
+"### || CHECK [الثاني القتل]
+",000,False,000,False,False,False,2,3
+"### | AUTO كتاب المواريث
+",000,False,000,False,False,False,1,8730
+"### || AUTO الاول فى موجبات الارث :
+",000,False,000,False,False,False,2,51
+"### || AUTO الامر الثانى فى موانع الارث
+",000,False,000,False,False,False,2,28
+"### || AUTO الاول الكفر بأصنافه
+",000,False,000,False,False,False,2,1282
+"### || AUTO الثالث من الموانع الرق على ما فصل فى المفصلات
+",000,False,000,False,False,False,2,10
+"### || AUTO الرابع التولد من الزنا
+",000,False,000,False,False,False,2,168
+"### || AUTO الخامس من الموانع اللعان
+",000,False,000,False,False,False,2,116
+"### || AUTO وها هنا أمور عدت من الموانع ، وفيه تسامح .
+",000,False,000,False,False,False,2,1302
+"### || AUTO تنبيه
+",000,False,000,False,False,False,2,358
+"### || AUTO المقصد الاول فى ميراث الانساب :
+",000,False,000,False,False,False,2,428
+"### || AUTO وها هنا أمور :
+",000,False,000,False,False,False,2,4021
+"### || AUTO وأما اللواحق ففيها فصول :
+",000,False,000,False,False,False,2,282
+"### || AUTO الفصل الثانى فى ميراث الغرقى والمهدوم عليهم PageV01P1003 مسألة 1 : لو مات اثنان بينهما توارث فى آن واحد بحيث يعلم تقارن موتهما
+",000,False,000,False,False,False,2,340
+"### || AUTO الفصل الثالث فى ميراث المجوس وغيرهم من الكفار
+",000,False,000,False,False,False,2,334
+"### | AUTO كتاب القضاء
+",000,False,000,False,False,False,1,8391
+"### || AUTO القول فى صفات القاضى
+",000,False,000,False,False,False,2,513
+"### || AUTO القول فى وظائف القاضى
+",000,False,000,False,False,False,2,225
+"### || AUTO القول فى شروط سماع الدعوى
+",000,False,000,False,False,False,2,1075
+"### || AUTO القول فى الجواب بالاقرار PageV01P1016 مسالة 1 : اذا أقر المدعى عليه بالحق عينا أو دينا وكان جامعا لشرائط
+",000,False,000,False,False,False,2,641
+"### || AUTO القول فى الجواب بالانكار
+",000,False,000,False,False,False,2,1347
+"### || AUTO فروع
+",000,False,000,False,False,False,2,367
+"### || AUTO القول فى السكوت
+",000,False,000,False,False,False,2,458
+"### || AUTO القول فى أحكام الحلف
+",000,False,000,False,False,False,2,679
+"### || AUTO القول فى أحكام اليد
+",000,False,000,False,False,False,2,1334
+"### || AUTO الفصل الثانى
+",000,False,000,False,False,False,2,1146
+"### | AUTO كتاب الشهادات
+",000,False,000,False,False,False,1,2869
+"### || AUTO القول فيما به يصير الشاهد شاهدا
+",000,False,000,False,False,False,2,295
+"### || AUTO القول فى أقسام الحقوق
+",000,False,000,False,False,False,2,356
+"### || AUTO فروع
+",000,False,000,False,False,False,2,87
+"### || AUTO القول فى الشهادة على الشهادة
+",000,False,000,False,False,False,2,310
+"### || AUTO القول فى اللواحق PageV01P1049 مسألة 1 : يشترط فى قبول شهادة الشاهدين تواردهما على الشى ء الواحد ، فإن
+",000,False,000,False,False,False,2,940
+"### | AUTO كتاب الحدود
+",000,False,000,False,False,False,1,11391
+"### || AUTO القول فى ما يثبت به
+",000,False,000,False,False,False,2,750
+"### || AUTO القول فى الحد
+",000,False,000,False,False,False,2,720
+"### || AUTO المقام الثانى فى كيفية إيقاعه
+",000,False,000,False,False,False,2,330
+"### || AUTO القول فى اللواحق
+",000,False,000,False,False,False,2,350
+"### || AUTO الفصل الثانى فى اللواط والسحق والقيادة
+",000,False,000,False,False,False,2,602
+"### || AUTO الفصل الثالث فى حد القذف
+",000,False,000,False,False,False,2,13
+"### || AUTO القول فى الموجب
+",000,False,000,False,False,False,2,416
+"### || AUTO القول فى القاذف والمقذوف
+",000,False,000,False,False,False,2,346
+"### || AUTO القول فى الاحكام
+",000,False,000,False,False,False,2,242
+"### || AUTO فروع
+",000,False,000,False,False,False,2,236
+"### || AUTO الفصل الرابع فى حد المسكر
+",000,False,000,False,False,False,2,556
+"### || AUTO القول فى أحكامه وبعض اللواحق
+",000,False,000,False,False,False,2,306
+"### || AUTO الفصل الخامس فى حد السرقة PageV01P1077 والنظر فيه فى السارق والمسروق وما يثبت به والحد واللواحق
+",000,False,000,False,False,False,2,563
+"### || AUTO القول فى المسروق
+",000,False,000,False,False,False,2,809
+"### || AUTO القول فيما يثبت به
+",000,False,000,False,False,False,2,153
+"### || AUTO القول فى الحد PageV01P1083 مسألة 1 : حد السارق فى المرة الاولى قطع الاصابع الاربع من مفصل أصولها من
+",000,False,000,False,False,False,2,286
+"### || AUTO القول فى اللواحق PageV01P1084 مسألة 1 : لو سرق اثنان نصابا أو أكثر بما لا يبلغ نصيب كل منهما نصابا فهل
+",000,False,000,False,False,False,2,457
+"### || AUTO الفصل السادس فى حد المحارب PageV01P1086 مسألة 1 : المحارب هو كل من جرد سلاحه أو جهزه لاخافة الناس وإرادة الافساد
+",000,False,000,False,False,False,2,574
+"### || AUTO خاتمة فى سائر العقوبات
+",000,False,000,False,False,False,2,5
+"### || AUTO القول فى الارتداد
+",000,False,000,False,False,False,2,289
+"### || AUTO القول فى وطء البهيمة والميت
+",000,False,000,False,False,False,2,252
+"### || AUTO تتمة فيها أحكام أهل الذمة
+",000,False,000,False,False,False,2,410
+"### || AUTO القول فى كمية الجزية
+",000,False,000,False,False,False,2,437
+"### || AUTO القول فى شرائط الذمة
+",000,False,000,False,False,False,2,626
+"### || AUTO القول فى أحكام الابنية
+",000,False,000,False,False,False,2,475
+"### || AUTO وتلحق بالمقام فروع
+",000,False,000,False,False,False,2,310
+"### | AUTO كتاب القصاص
+",000,False,000,False,False,False,1,10115
+"### || AUTO القسم الاول فى قصاص النفس
+",000,False,000,False,False,False,2,17
+"### || AUTO القول فى الموجب
+",000,False,000,False,False,False,2,2467
+"### || AUTO القول فى الشرائط المعتبرة فى القصاص
+",000,False,000,False,False,False,2,1721
+"### || AUTO الثالث القسامة
+",000,False,000,False,False,False,2,7
+"### || AUTO الاول فى اللوث PageV01P1117 والمراد به أمارة ظنية قامت عند الحاكم على صدق المدعى كالشاهد الواحد أو
+",000,False,000,False,False,False,2,318
+"### || AUTO المقصد الثانى فى كمية ms911 القسامة
+",000,False,000,False,False,False,2,595
+"### || AUTO المقصد الثالث فى أحكامها
+",000,False,000,False,False,False,2,530
+"### || AUTO القول فى كيفية الاستيفاء PageV01P1123 مسألة 1 : قتل العمد يوجب القصاص عينا ، ولا يوجب الدية لا عينا ولا تخييرا
+",000,False,000,False,False,False,2,1594
+"### || AUTO القسم الثانى فى قصاص ما دون النفس
+",000,False,000,False,False,False,2,2112
+"### || AUTO وهنا فروع PageV01P1139 الاول : لو قطع من كان يده ناقصة بإصبع أو أزيد يدا كاملة صحيحة فللمجنى
+",000,False,000,False,False,False,2,744
+"### | AUTO كتاب الديات
+",000,False,000,False,False,False,1,18707
+"### || AUTO القول فى أقسام القتل
+",000,False,000,False,False,False,2,256
+"### || AUTO القول فى مقادير الديات
+",000,False,000,False,False,False,2,1198
+"### || AUTO القول فى موجبات الضمان
+",000,False,000,False,False,False,2,7
+"### || AUTO المبحث الاول فى المباشر
+",000,False,000,False,False,False,2,998
+"### || AUTO المبحث الثانى فى الاسباب
+",000,False,000,False,False,False,2,1127
+"### || AUTO المبحث الثالث فى تزاحم الموجبات PageV01P1158 مسألة 1 : إذا اجتمع السبب ms943 والمباشر فمع مساواتهما أو كان المباشر أقوى ضمن
+",000,False,000,False,False,False,2,208
+"### || AUTO القول فى الجناية على الاطراف
+",000,False,000,False,False,False,2,8
+"### || AUTO المقصد الاول فى ديات الاعضاء
+",000,False,000,False,False,False,2,48
+"### || AUTO الاول : الشعر PageV01P1159 مسألة 1 : فى شعر رأس الذكر صغيرا كان أو كبيرا كثيفا أو خفيفا الدية كاملة
+",000,False,000,False,False,False,2,331
+"### || AUTO الثانى : العينان
+",000,False,000,False,False,False,2,149
+"### || AUTO الثالث : الانف
+",000,False,000,False,False,False,2,195
+"### || AUTO الرابع : الاذن
+",000,False,000,False,False,False,2,111
+"### || AUTO الخامس : الشفتان
+",000,False,000,False,False,False,2,116
+"### || AUTO السادس : اللسان
+",000,False,000,False,False,False,2,298
+"### || AUTO السابع : الاسنان
+",000,False,000,False,False,False,2,282
+"### || AUTO الثامن : العنق
+",000,False,000,False,False,False,2,75
+"### || AUTO التاسع : اللحيان
+",000,False,000,False,False,False,2,101
+"### || AUTO العاشر : اليدان
+",000,False,000,False,False,False,2,207
+"### || AUTO الحادي عشر : الاصابع PageV01P1166 مسألة 1 : فى أصابع اليدين الدية كاملة ، وكذا فى أصابع الرجلين وفى كل
+",000,False,000,False,False,False,2,123
+"### || AUTO الثانى عشر : الظهر
+",000,False,000,False,False,False,2,111
+"### || AUTO الثالث عشر : النخاع
+",000,False,000,False,False,False,2,42
+"### || AUTO الرابع عشر : الثديان
+",000,False,000,False,False,False,2,127
+"### || AUTO الخامس عشر : الذكر
+",000,False,000,False,False,False,2,221
+"### || AUTO السادس عشر : الخصيتان
+",000,False,000,False,False,False,2,69
+"### || AUTO السابع عشر : الفرج
+",000,False,000,False,False,False,2,172
+"### || AUTO الثامن عشر : الاليان
+",000,False,000,False,False,False,2,66
+"### || AUTO التاسع عشر : الرجلان
+",000,False,000,False,False,False,2,93
+"### || AUTO العشرون : الاضلاع
+",000,False,000,False,False,False,2,184
+"### || AUTO خاتمة وفيها فروع
+",000,False,000,False,False,False,2,189
+"### || AUTO المقصد الثانى فى الجناية على المنافع
+",000,False,000,False,False,False,2,1294
+"### || AUTO المقصد الثالث فى الشجاج والجراح
+",000,False,000,False,False,False,2,255
+"### || AUTO هنا مسائل
+",000,False,000,False,False,False,2,501
+"### || AUTO القول فى اللواحق
+",000,False,000,False,False,False,2,374
+"### || AUTO الثانى من اللواحق فى العاقلة
+",000,False,000,False,False,False,2,804
+"### || AUTO الثالث من اللواحق فى الجناية على الحيوان
+",000,False,000,False,False,False,2,376
+"### || AUTO فروع
+",000,False,000,False,False,False,2,274
+"### || AUTO الرابع من اللواحق فى كفارة القتل
+",000,False,000,False,False,False,2,188
+"### || AUTO البحث حول المسائل المستحدثة
+",000,False,000,False,False,False,2,647
+"### || AUTO ومنها الكمبيالات ( سفته (
+",000,False,000,False,False,False,2,652
+"### || AUTO ومنها السرقفلية PageV01P1193 مسألة : 1 استئجار الاعيان المستأجرة دكة كانت أو دارا أو غيرهما لا يوجب
+",000,False,000,False,False,False,2,354
+"### || AUTO ومنها أعمال البنوك
+",000,False,000,False,False,False,2,877
+"### || AUTO ومنها بطاقات اليانصيب ( بخت آزمائى )
+",000,False,000,False,False,False,2,316
+"### || AUTO فمنها التلقيح والتوليد الصناعيان PageV01P1200 مسألة : 1 لا إشكال فى أن تلقيح ماء الرجل بزوجته جائز وإن وجب الاحتراز عن
+",000,False,000,False,False,False,2,583
+"### || AUTO ومنها التشريح والترقيع
+",000,False,000,False,False,False,2,283
+"### || AUTO فروع
+",000,False,000,False,False,False,2,249
+"### || AUTO ومنها تغيير الجنسية
+",000,False,000,False,False,False,2,510
+"### || AUTO ومنها الراديو والتلفزيون ونحوهما
+",000,False,000,False,False,False,2,512
+"### || AUTO ومنها مسائل الصلاة والصوم وغيرهما PageV01P1209 مسالة 1 يجوز الصلاة فى الطائرات مع مراعاة استقبال القبلة ، ولو دخل فى
+",000,False,000,False,False,False,2,1896
+"### || AUTO خاتمة
+",000,False,000,False,False,False,2,610

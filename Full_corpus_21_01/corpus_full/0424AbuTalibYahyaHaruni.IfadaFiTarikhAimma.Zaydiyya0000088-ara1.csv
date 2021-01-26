@@ -1,0 +1,173 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO الإفادة في تاريخ الأئمة السادة
+",000,False,000,False,False,False,1,41
+"### | AUTO مقدمة التحقيق
+",000,False,000,False,False,False,1,3452
+"### || AUTO ترجمة المؤلف
+",000,False,000,False,False,False,2,1559
+"### || AUTO هذا الكتاب
+",000,False,000,False,False,False,2,234
+"### || AUTO توثيق نسبة الكتاب إلى المؤلف
+",000,False,000,False,False,False,2,616
+"### || AUTO النسخ المعتمدة
+",000,False,000,False,False,False,2,311
+"### || AUTO عملي في الكتاب
+",000,False,000,False,False,False,2,346
+"### | AUTO [مقدمة المؤلف]
+",000,False,000,False,False,False,1,390
+"### | AUTO الإمام أمير المؤمنين علي بن أبي طالب عليه السلام
+",000,False,000,False,False,False,1,1468
+"### || AUTO [مولده]
+",000,False,000,False,False,False,2,160
+"### || AUTO بيعته عليه السلام
+",000,False,000,False,False,False,2,105
+"### || AUTO صفته عليه السلام
+",000,False,000,False,False,False,2,73
+"### || AUTO مدة خلافته عليه السلام بعد البيعة
+",000,False,000,False,False,False,2,56
+"### || AUTO أولاده عليه السلام:
+",000,False,000,False,False,False,2,349
+"### || AUTO عماله عليه السلام
+",000,False,000,False,False,False,2,125
+"### || AUTO مقتله صلوات الله عليه ومبلغ عمره وذكر موضع قبره
+",000,False,000,False,False,False,2,429
+"### | AUTO الإمام الحسن بن علي عليه السلام
+",000,False,000,False,False,False,1,683
+"### || AUTO صفته عليه السلام
+",000,False,000,False,False,False,2,37
+"### || AUTO بيعته عليه السلام
+",000,False,000,False,False,False,2,103
+"### || AUTO مدة خلافته عليه السلام
+",000,False,000,False,False,False,2,70
+"### || AUTO أولاده عليه السلام
+",000,False,000,False,False,False,2,156
+"### || AUTO عماله عليه السلام
+",000,False,000,False,False,False,2,89
+"### || AUTO مقتله عليه السلام ومبلغ عمره وموضع قبره
+",000,False,000,False,False,False,2,103
+"### | AUTO الإمام الحسين بن علي عليه السلام
+",000,False,000,False,False,False,1,618
+"### || AUTO صفته عليه السلام
+",000,False,000,False,False,False,2,34
+"### || AUTO بيعته عليه السلام
+",000,False,000,False,False,False,2,48
+"### || AUTO مدة ظهوره عليه السلام وانتصابه للأمر
+",000,False,000,False,False,False,2,107
+"### || AUTO أولاده عليه السلام
+",000,False,000,False,False,False,2,252
+"### || AUTO مقتله عليه السلام وموضع قبره
+",000,False,000,False,False,False,2,101
+"### | AUTO الإمام زيد بن علي عليه السلام
+",000,False,000,False,False,False,1,582
+"### || AUTO صفته عليه السلام
+",000,False,000,False,False,False,2,70
+"### || AUTO بيعته عليه السلام
+",000,False,000,False,False,False,2,246
+"### || AUTO أولاده عليه السلام:
+",000,False,000,False,False,False,2,37
+"### || AUTO مقتله ومبلغ عمره
+",000,False,000,False,False,False,2,174
+"### | AUTO الإمام يحيى بن زيد رضي الله عنه
+",000,False,000,False,False,False,1,660
+"### || AUTO صفته رضي الله عنه
+",000,False,000,False,False,False,2,59
+"### || AUTO أيام ظهوره وذكر بيعته رضي الله عنه
+",000,False,000,False,False,False,2,343
+"### || AUTO أولاده رضي الله عنه
+",000,False,000,False,False,False,2,49
+"### || AUTO مقتله رضي الله عنه ومبلغ عمره وموضع قبره
+",000,False,000,False,False,False,2,167
+"### | AUTO الإمام محمد بن عبد الله النفس الزكية (ع)
+",000,False,000,False,False,False,1,740
+"### || AUTO صفته عليه السلام ms28
+",000,False,000,False,False,False,2,121
+"### || AUTO بيعته عليه السلام وأيام ظهوره
+",000,False,000,False,False,False,2,299
+"### || AUTO أولاده عليه السلام:
+",000,False,000,False,False,False,2,59
+"### || AUTO عماله عليه السلام
+",000,False,000,False,False,False,2,55
+"### || AUTO مقتله ومبلغ عمره وموضع قبره
+",000,False,000,False,False,False,2,105
+"### | AUTO الإمام إبراهيم بن عبد الله بن الحسن بن الحسن
+",000,False,000,False,False,False,1,1320
+"### || AUTO صفته عليه السلام
+",000,False,000,False,False,False,2,103
+"### || AUTO بيعته عليه السلام ومدة ظهوره
+",000,False,000,False,False,False,2,494
+"### || AUTO نبذ من سيرته عليه السلام
+",000,False,000,False,False,False,2,448
+"### || AUTO عماله عليه السلام
+",000,False,000,False,False,False,2,48
+"### || AUTO مقتله عليه السلام وموضع قبره
+",000,False,000,False,False,False,2,109
+"### | AUTO الإمام الحسين بن علي الفخي
+",000,False,000,False,False,False,1,673
+"### || AUTO صفته عليه السلام
+",000,False,000,False,False,False,2,41
+"### || AUTO مدة ظهوره (ع) وذكر بيعته ومقتله وموضع قبره
+",000,False,000,False,False,False,2,578
+"### | AUTO الإمام يحيى بن عبد الله بن الحسن بن الحسن
+",000,False,000,False,False,False,1,1040
+"### || AUTO صفته عليه السلام
+",000,False,000,False,False,False,2,36
+"### || AUTO أولاده عليه السلام
+",000,False,000,False,False,False,2,25
+"### || AUTO بيعته عليه السلام ونبذ من أخباره ومقتله
+",000,False,000,False,False,False,2,856
+"### | AUTO الإمام محمد بن إبراهيم عليه السلام
+",000,False,000,False,False,False,1,576
+"### || AUTO أولاده عليه السلام:
+",000,False,000,False,False,False,2,34
+"### || AUTO بيعته ومدة ظهوره ونبذ من سيرته وذكروفاته وموضع قبره
+",000,False,000,False,False,False,2,454
+"### | AUTO الإمام القاسم بن إبراهيم عليه السلام
+",000,False,000,False,False,False,1,1594
+"### || AUTO صفته عليه السلام
+",000,False,000,False,False,False,2,110
+"### || AUTO مبايعته ونبذ من سيرته واستتاره ومبلغ عمره وموضع قبره
+",000,False,000,False,False,False,2,765
+"### | AUTO الإمام الهادي إلى الحق يحيى بن الحسين (ع)
+",000,False,000,False,False,False,1,2876
+"### || AUTO صفته عليه السلام وذكرعلمه وفضله ونبذ من سيرته
+",000,False,000,False,False,False,2,972
+"### || AUTO أولاده عليه السلام
+",000,False,000,False,False,False,2,21
+"### || AUTO بيعته ومدة ظهوره ونبذ من سيرته في ولايته
+",000,False,000,False,False,False,2,1697
+"### || AUTO مبلغ عمره وموضع قبره
+",000,False,000,False,False,False,2,61
+"### | AUTO الإمام الناصر للحق الحسن بن علي عليه السلام
+",000,False,000,False,False,False,1,3032
+"### || AUTO صفته عليه السلام ونبذ من أحواله قبل ظهوره
+",000,False,000,False,False,False,2,1170
+"### || AUTO أولاده عليه السلام
+",000,False,000,False,False,False,2,154
+"### || AUTO بيعته عند دخوله آمل، ونبذ من سيرته، ومدة أيامه بعد دخولها
+",000,False,000,False,False,False,2,489
+"### || AUTO [شيء من أخبار الإمام الداعي الحسن بن القاسم]
+",000,False,000,False,False,False,2,623
+"### || AUTO [عودة إلى أخبار الناصر]
+",000,False,000,False,False,False,2,440
+"### || AUTO [بيعة الإمام الداعي وشيء من أخباره]
+",000,False,000,False,False,False,2,115
+"### | AUTO الإمام المرتضى محمد بن يحيى رضي الله عنه
+",000,False,000,False,False,False,1,298
+"### || AUTO أولاده عليه السلام:
+",000,False,000,False,False,False,2,36
+"### || AUTO مدة انتصابه للأمر ومبلغ عمره وموضع قبره
+",000,False,000,False,False,False,2,178
+"### | AUTO الإمام الناصر لدين الله أحمد بن يحيى
+",000,False,000,False,False,False,1,225
+"### || AUTO أولاده عليه السلام:
+",000,False,000,False,False,False,2,24
+"### || AUTO مدة ظهوره ونبذ من سيرته، ووقت موته، وموضع قبره
+",000,False,000,False,False,False,2,109
+"### | AUTO الإمام المهدي لدين الله محمد بن الحسن الداعي
+",000,False,000,False,False,False,1,2995
+"### || AUTO صفته رضي الله عنه ونبذ من سيرته قبل ظهوره
+",000,False,000,False,False,False,2,1790
+"### || AUTO أولاده رضي الله عنه
+",000,False,000,False,False,False,2,24
+"### || AUTO بيعته ونبذ من سيرته بعد البيعة، ومدة ظهوره وموضع قبره
+",000,False,000,False,False,False,2,1137

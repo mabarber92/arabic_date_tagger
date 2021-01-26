@@ -1,0 +1,823 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | 
+",000,False,000,False,False,False,1,59
+"### | ثم بعدهم على حروف المعجم
+",000,False,000,False,False,False,1,1240
+"### || - باب الألف
+",000,False,000,False,False,False,2,36
+"### || - الباء
+",000,False,000,False,False,False,2,17
+"### || - التاء
+",000,False,000,False,False,False,2,17
+"### || - الثاء
+",000,False,000,False,False,False,2,28
+"### || - الجيم
+",000,False,000,False,False,False,2,40
+"### || - الحاء
+",000,False,000,False,False,False,2,78
+"### || - الخاء 
+",000,False,000,False,False,False,2,49
+"### ||| من البدرية
+",000,False,000,False,False,False,3,15
+"### ||| - ومن سائر قريش
+",000,False,000,False,False,False,3,10
+"### ||| - ومن الأنصار
+",000,False,000,False,False,False,3,9
+"### ||| - ومن بني كنانة
+",000,False,000,False,False,False,3,9
+"### ||| - ومن اليمن
+",000,False,000,False,False,False,3,21
+"### || - حرف الدال وحرف الذال
+",000,False,000,False,False,False,2,27
+"### || - الراء 
+",000,False,000,False,False,False,2,30
+"### ||| من البدرية
+",000,False,000,False,False,False,3,18
+"### ||| - ومن اليمن
+",000,False,000,False,False,False,3,11
+"### ||| - ومن الأنصار
+",000,False,000,False,False,False,3,12
+"### || - الزاي 
+",000,False,000,False,False,False,2,44
+"### ||| من البدرية بعد الزبير
+",000,False,000,False,False,False,3,24
+"### ||| - ومن قضاعة
+",000,False,000,False,False,False,3,14
+"### ||| - ومن ms01 اليمن
+",000,False,000,False,False,False,3,15
+"### || - السين 
+",000,False,000,False,False,False,2,123
+"### ||| من البدريين
+",000,False,000,False,False,False,3,18
+"### ||| - ومن حلفاء قريش
+",000,False,000,False,False,False,3,24
+"### ||| - ومن الأنصار
+",000,False,000,False,False,False,3,29
+"### ||| - ومن مصر
+",000,False,000,False,False,False,3,20
+"### ||| - ومن جهينة
+",000,False,000,False,False,False,3,11
+"### ||| - ومن اليمن
+",000,False,000,False,False,False,3,28
+"### ||| - ومن ثقيف
+",000,False,000,False,False,False,3,15
+"### || - باب الشين 
+",000,False,000,False,False,False,2,33
+"### ||| من قريش
+",000,False,000,False,False,False,3,17
+"### ||| - ومن الأنصار
+",000,False,000,False,False,False,3,13
+"### ||| - ومن ثقيف
+",000,False,000,False,False,False,3,18
+"### || - الصاد
+",000,False,000,False,False,False,2,41
+"### ||| - ومن سائر قريش
+",000,False,000,False,False,False,3,18
+"### ||| - ومن بني ليث
+",000,False,000,False,False,False,3,9
+"### ||| - ومن ناهلة
+",000,False,000,False,False,False,3,18
+"### || - الضاد
+",000,False,000,False,False,False,2,15
+"### || - الطاء
+",000,False,000,False,False,False,2,14
+"### || - الظاء
+",000,False,000,False,False,False,2,10
+"### || - باب العين 
+",000,False,000,False,False,False,2,416
+"### ||| من البدريين من قريش بعد أبي بكر وعمر وعثمان وعلي وابن عوف رضوان الله عليهم
+",000,False,000,False,False,False,3,54
+"### ||| - ومن بدرية الأنصار
+",000,False,000,False,False,False,3,23
+"### ||| - ومن سائر قريش
+",000,False,000,False,False,False,3,32
+"### ||| - ومن بني عبد المطلب
+",000,False,000,False,False,False,3,13
+"### ||| - ومن بني عبد شمس
+",000,False,000,False,False,False,3,13
+"### ||| - ومن بني نفيل
+",000,False,000,False,False,False,3,10
+"### ||| - ومن بني عبد الدار
+",000,False,000,False,False,False,3,11
+"### ||| - ومن بني أسد
+",000,False,000,False,False,False,3,17
+"### ||| - ومن بني مخزوم
+",000,False,000,False,False,False,3,20
+"### ||| - ومن بني تميم
+",000,False,000,False,False,False,3,32
+"### ||| - ومن حلفائهم
+",000,False,000,False,False,False,3,15
+"### ||| - ومن بني عدي بن كعب
+",000,False,000,False,False,False,3,14
+"### ||| - ومن بني سهم
+",000,False,000,False,False,False,3,13
+"### ||| - ومن بني نجيح
+",000,False,000,False,False,False,3,16
+"### ||| - ومن بني عامر بن لؤي
+",000,False,000,False,False,False,3,12
+"### ||| - ومن حلفائهم
+",000,False,000,False,False,False,3,23
+"### ||| - ومن سائر الأنصار
+",000,False,000,False,False,False,3,45
+"### ||| - ومن مصر
+",000,False,000,False,False,False,3,65
+"### ||| - ومن ربيعة بن نزار
+",000,False,000,False,False,False,3,17
+"### ||| - ومن اليمن
+",000,False,000,False,False,False,3,30
+"### ||| - ومن جهينة
+",000,False,000,False,False,False,3,9
+"### ||| - ومن ثقيف
+",000,False,000,False,False,False,3,10
+"### || - باب الغين
+",000,False,000,False,False,False,2,4
+"### || - باب الفاء
+",000,False,000,False,False,False,2,18
+"### || - القاف 
+",000,False,000,False,False,False,2,28
+"### ||| من البدريين
+",000,False,000,False,False,False,3,11
+"### ||| - ومن غير البدرية
+",000,False,000,False,False,False,3,23
+"### || - الكاف
+",000,False,000,False,False,False,2,42
+"### || - الميم 
+",000,False,000,False,False,False,2,128
+"### ||| من البدريين
+",000,False,000,False,False,False,3,21
+"### ||| - ومن الأنصار
+",000,False,000,False,False,False,3,25
+"### ||| - ومن قريش بعد البدريين
+",000,False,000,False,False,False,3,44
+"### ||| - ومن الأنصار
+",000,False,000,False,False,False,3,13
+"### ||| - ومن مضر
+",000,False,000,False,False,False,3,31
+"### ||| - ومن اليمن </span>
+",000,False,000,False,False,False,3,20
+"### || - النون 
+",000,False,000,False,False,False,2,60
+"### ||| من قريش
+",000,False,000,False,False,False,3,19
+"### ||| - ومن الأنصار
+",000,False,000,False,False,False,3,9
+"### ||| - ومن مصر
+",000,False,000,False,False,False,3,26
+"### ||| - ومن اليمن
+",000,False,000,False,False,False,3,19
+"### ||| - ومن ثقيف
+",000,False,000,False,False,False,3,12
+"### || - الواو
+",000,False,000,False,False,False,2,23
+"### || - الهاء
+",000,False,000,False,False,False,2,12
+"### || - الياء
+",000,False,000,False,False,False,2,8
+"### | - باب
+",000,False,000,False,False,False,1,56
+"### | - ومن النساء
+",000,False,000,False,False,False,1,195
+"### | ذكر من أخرج حديثهم في الصحيح محمد بن إسماعيل البخاري ومسلم بن الحجاج بعد الصحابة على حروف المعجم
+",000,False,000,False,False,False,1,12651
+"### || - باب الألف 
+",000,False,000,False,False,False,2,1129
+"### ||| ممن اسمه إبراهيم
+",000,False,000,False,False,False,3,223
+"### |||| ذكر ما اتفقا عليه 
+",000,False,000,False,False,False,4,58
+"### |||| (البخاري وحده)
+",000,False,000,False,False,False,4,170
+"### ||| ممن اسمه إسماعيل
+",000,False,000,False,False,False,3,152
+"### |||| - باب ذكر من اتفق البخاري عليه ومسلم 
+",000,False,000,False,False,False,4,88
+"### |||| الذي أخرج عنهم البخاري وحده
+",000,False,000,False,False,False,4,39
+"### |||| والذين أخرج عنهم مسلم وحده
+",000,False,000,False,False,False,4,36
+"### ||| - باب ذكر من اسمه اسحاق 
+",000,False,000,False,False,False,3,151
+"### |||| مما اتفق عليه البخاري ومسلم
+",000,False,000,False,False,False,4,57
+"### |||| والذين أخرج عنهم البخاري وحده
+",000,False,000,False,False,False,4,54
+"### |||| والذين أخرج عنهم مسلم وحده
+",000,False,000,False,False,False,4,44
+"### ||| - باب ذكر من اسمه أيوب 
+",000,False,000,False,False,False,3,39
+"### |||| ممن اتفقا عليه
+",000,False,000,False,False,False,4,19
+"### |||| - وللبخاري وحده
+",000,False,000,False,False,False,4,13
+"### |||| ولمسلم وحده </span>
+",000,False,000,False,False,False,4,12
+"### ||| ممن اسمه أسود
+",000,False,000,False,False,False,3,38
+"### |||| ذكر من اتفقا عليه 
+",000,False,000,False,False,False,4,26
+"### |||| - ولمسلم وحده
+",000,False,000,False,False,False,4,16
+"### ||| ممن اسمه أحمد
+",000,False,000,False,False,False,3,306
+"### |||| - باب ذكر من اتفقا عليه 
+",000,False,000,False,False,False,4,75
+"### |||| - والذين أخرج عنهم البخاري وحده
+",000,False,000,False,False,False,4,162
+"### |||| - والذين أخرج عنهم مسلم وحده
+",000,False,000,False,False,False,4,82
+"### ||| 
+",000,False,000,False,False,False,3,27
+"### |||| - وقد أخرج مسلم وحده عن
+",000,False,000,False,False,False,4,12
+"### |||| - وأخرج البخاري وحده عن
+",000,False,000,False,False,False,4,22
+"### ||| 
+",000,False,000,False,False,False,3,22
+"### |||| - وأخرجا جميعا عن
+",000,False,000,False,False,False,4,10
+"### |||| وأخرج مسلم وحده عن
+",000,False,000,False,False,False,4,18
+"### ||| 
+",000,False,000,False,False,False,3,197
+"### |||| - وأخرجا جميعا عن
+",000,False,000,False,False,False,4,77
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,56
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,73
+"### || - باب الباء 
+",000,False,000,False,False,False,2,244
+"### ||| ما اتفقا عليه
+",000,False,000,False,False,False,3,103
+"### ||| - والذي أخرج البخاري وحده
+",000,False,000,False,False,False,3,80
+"### ||| - والذي أخرج مسلم وحده
+",000,False,000,False,False,False,3,72
+"### || - باب التاء
+",000,False,000,False,False,False,2,38
+"### ||| ذكر ما اتفقا عليه
+",000,False,000,False,False,False,3,13
+"### ||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,3,31
+"### || - باب الثاء
+",000,False,000,False,False,False,2,81
+"### ||| اتفق عليه من هذا الحرف
+",000,False,000,False,False,False,3,31
+"### ||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,3,27
+"### ||| - وأخرج مسلم وحده </span>
+",000,False,000,False,False,False,3,36
+"### || - باب الجيم
+",000,False,000,False,False,False,2,193
+"### ||| 
+",000,False,000,False,False,False,3,72
+"### |||| المتفق عليه عند البخاري ومسلم
+",000,False,000,False,False,False,4,37
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,40
+"### ||| من بقية حرف الجيم
+",000,False,000,False,False,False,3,121
+"### |||| - والذي اتفقا عليه 
+",000,False,000,False,False,False,4,66
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,26
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,37
+"### || - باب الحاء
+",000,False,000,False,False,False,2,781
+"### ||| من اسمه الحسن
+",000,False,000,False,False,False,3,84
+"### |||| المتفق عليه
+",000,False,000,False,False,False,4,47
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,43
+"### ||| - ممن اسمه الحكم
+",000,False,000,False,False,False,3,43
+"### |||| والمتفق عليه 
+",000,False,000,False,False,False,4,27
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,17
+"### ||| - ممن اسمه حماد
+",000,False,000,False,False,False,3,69
+"### |||| والمتفق عليه
+",000,False,000,False,False,False,4,19
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,24
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,39
+"### ||| - ممن اسمه حبيب
+",000,False,000,False,False,False,3,46
+"### |||| المتفق عليه 
+",000,False,000,False,False,False,4,23
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,27
+"### ||| - ممن اسمه الحارث
+",000,False,000,False,False,False,3,76
+"### |||| المتفق عليه 
+",000,False,000,False,False,False,4,25
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,60
+"### ||| - ممن اسمه حفص
+",000,False,000,False,False,False,3,43
+"### |||| والمتفق عليه 
+",000,False,000,False,False,False,4,24
+"### |||| - وأخرج البخاري وحده عن
+",000,False,000,False,False,False,4,20
+"### ||| - ممن اسمه حميد
+",000,False,000,False,False,False,3,74
+"### |||| والمتفق عليه 
+",000,False,000,False,False,False,4,36
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,9
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,36
+"### ||| - ممن اسمه حنظلة
+",000,False,000,False,False,False,3,27
+"### |||| والمتفق عليه 
+",000,False,000,False,False,False,4,16
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,13
+"### ||| - ممن اسمه حمزة
+",000,False,000,False,False,False,3,60
+"### |||| والمتفق عليه 
+",000,False,000,False,False,False,4,18
+"### |||| - وأخرج البخاري وحده </span>
+",000,False,000,False,False,False,4,16
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,43
+"### ||| - ممن اسمه حسان
+",000,False,000,False,False,False,3,48
+"### |||| المتفق عليه 
+",000,False,000,False,False,False,4,22
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,36
+"### ||| 
+",000,False,000,False,False,False,3,18
+"### |||| - وأخرجا جميعا
+",000,False,000,False,False,False,4,15
+"### |||| - وأخرج البخاري
+",000,False,000,False,False,False,4,12
+"### ||| 
+",000,False,000,False,False,False,3,23
+"### |||| - وأخرجا جميعا
+",000,False,000,False,False,False,4,12
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,16
+"### ||| 
+",000,False,000,False,False,False,3,26
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,15
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,19
+"### ||| 
+",000,False,000,False,False,False,3,9
+"### |||| - وأخرجا جميعا
+",000,False,000,False,False,False,4,12
+"### ||| 
+",000,False,000,False,False,False,3,26
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,29
+"### ||| 
+",000,False,000,False,False,False,3,24
+"### |||| - وأخرجا جميعا عن
+",000,False,000,False,False,False,4,19
+"### |||| - وأخرج البخاري وحده </span>
+",000,False,000,False,False,False,4,13
+"### ||| 
+",000,False,000,False,False,False,3,154
+"### |||| - وأخرجا جميعا
+",000,False,000,False,False,False,4,46
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,54
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,67
+"### || - باب الخاء 
+",000,False,000,False,False,False,2,221
+"### ||| 
+",000,False,000,False,False,False,3,122
+"### |||| المتفق عليه
+",000,False,000,False,False,False,4,41
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,35
+"### |||| - وأخرج البخاري وحده </span>
+",000,False,000,False,False,False,4,56
+"### ||| 
+",000,False,000,False,False,False,3,104
+"### |||| - وقد أخرجا جميعا
+",000,False,000,False,False,False,4,50
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,25
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,38
+"### || - باب الدال
+",000,False,000,False,False,False,2,62
+"### ||| 
+",000,False,000,False,False,False,3,64
+"### |||| المتفق عليه
+",000,False,000,False,False,False,4,18
+"### |||| - البخاري وحده
+",000,False,000,False,False,False,4,14
+"### |||| - ولمسلم وحده
+",000,False,000,False,False,False,4,40
+"### || - باب الذال اتفقا على
+",000,False,000,False,False,False,2,37
+"### || - باب الراء
+",000,False,000,False,False,False,2,138
+"### ||| اتفقا على
+",000,False,000,False,False,False,3,50
+"### ||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,3,24
+"### ||| - وأخرج مسلم ms12 وحده
+",000,False,000,False,False,False,3,70
+"### || - باب الزاي
+",000,False,000,False,False,False,2,323
+"### ||| 
+",000,False,000,False,False,False,3,106
+"### |||| اتفقا على
+",000,False,000,False,False,False,4,43
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,16
+"### |||| - ولمسلم وحده
+",000,False,000,False,False,False,4,61
+"### ||| مما اسمه زيد
+",000,False,000,False,False,False,3,78
+"### |||| - وقد اتفقا جميعا على
+",000,False,000,False,False,False,4,28
+"### |||| - البخاري وحده
+",000,False,000,False,False,False,4,19
+"### |||| - ومسلم
+",000,False,000,False,False,False,4,36
+"### ||| 
+",000,False,000,False,False,False,3,151
+"### |||| - وقد اتفقا على
+",000,False,000,False,False,False,4,66
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,48
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,49
+"### || - باب السين
+",000,False,000,False,False,False,2,1001
+"### ||| 
+",000,False,000,False,False,False,3,294
+"### |||| اتفقا في هذا على
+",000,False,000,False,False,False,4,154
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,90
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,64
+"### ||| ممن اسمه سليمان
+",000,False,000,False,False,False,3,157
+"### |||| - ذكر من اتفقا عليه 
+",000,False,000,False,False,False,4,55
+"### |||| - البخاري وحده
+",000,False,000,False,False,False,4,34
+"### |||| - مسلم وحده
+",000,False,000,False,False,False,4,36
+"### |||| - وقد أخرج البخاري أيضا عن
+",000,False,000,False,False,False,4,51
+"### ||| ممن اسمه سعد
+",000,False,000,False,False,False,3,77
+"### |||| - المتفق عليه 
+",000,False,000,False,False,False,4,22
+"### |||| - وأخرج البخاري
+",000,False,000,False,False,False,4,41
+"### |||| - مسلم وحده
+",000,False,000,False,False,False,4,27
+"### ||| ممن اسمه سلمة
+",000,False,000,False,False,False,3,63
+"### |||| - والمتفق عليه 
+",000,False,000,False,False,False,4,27
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,26
+"### |||| - مسلم وحده
+",000,False,000,False,False,False,4,23
+"### ||| ممن اسمه سالم
+",000,False,000,False,False,False,3,50
+"### |||| - المتفق عليه 
+",000,False,000,False,False,False,4,27
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,8
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,19
+"### ||| ممن اسمه سلمان
+",000,False,000,False,False,False,3,46
+"### |||| - والمتفق عليه 
+",000,False,000,False,False,False,4,29
+"### |||| - أخرج البخاري وحده
+",000,False,000,False,False,False,4,12
+"### |||| - أخرج مسلم وحده
+",000,False,000,False,False,False,4,16
+"### ||| ممن اسمه سفيان
+",000,False,000,False,False,False,3,50
+"### |||| - المتفق عليه 
+",000,False,000,False,False,False,4,13
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,17
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,26
+"### ||| ممن اسمه سهل
+",000,False,000,False,False,False,3,51
+"### |||| - وأخرج مسلم وحده 
+",000,False,000,False,False,False,4,27
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,33
+"### ||| ممن اسمه سليم
+",000,False,000,False,False,False,3,37
+"### |||| - والمتفق عليه 
+",000,False,000,False,False,False,4,13
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,29
+"### ||| ممن اسمه سويد
+",000,False,000,False,False,False,3,28
+"### |||| - والمتفق عليه 
+",000,False,000,False,False,False,4,9
+"### |||| - مسلم وحده
+",000,False,000,False,False,False,4,22
+"### ||| 
+",000,False,000,False,False,False,3,192
+"### |||| - وأخرجا جميعا عن
+",000,False,000,False,False,False,4,70
+"### |||| - البخاري وحده
+",000,False,000,False,False,False,4,74
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,18
+"### |||| - وقد أخرج البخاري
+",000,False,000,False,False,False,4,45
+"### || - باب الشين 
+",000,False,000,False,False,False,2,186
+"### ||| المتفق عليه من هذا الباب
+",000,False,000,False,False,False,3,56
+"### ||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,3,33
+"### ||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,3,75
+"### ||| - واخرج مسلم وحده في كتاب الأطعمة
+",000,False,000,False,False,False,3,30
+"### || - باب الصاد
+",000,False,000,False,False,False,2,182
+"### ||| 
+",000,False,000,False,False,False,3,92
+"### |||| وقد اتفقا في هذا على
+",000,False,000,False,False,False,4,37
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,36
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,35
+"### ||| في بقية هذا الباب 
+",000,False,000,False,False,False,3,94
+"### |||| - واتفقا على
+",000,False,000,False,False,False,4,26
+"### |||| - البخاري وحده
+",000,False,000,False,False,False,4,22
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,50
+"### || - باب الضاد
+",000,False,000,False,False,False,2,44
+"### ||| اتفقا في هذا الباب على
+",000,False,000,False,False,False,3,17
+"### ||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,3,30
+"### || - باب الطاء
+",000,False,000,False,False,False,2,126
+"### ||| المتفق عليه من هذا الباب
+",000,False,000,False,False,False,3,41
+"### ||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,3,50
+"### ||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,3,49
+"### || - باب الظاء اتفقا جميعا
+",000,False,000,False,False,False,2,23
+"### || - باب العين
+",000,False,000,False,False,False,2,4008
+"### ||| ممن اسمه عبد الله
+",000,False,000,False,False,False,3,1157
+"### |||| المتفق عليه 
+",000,False,000,False,False,False,4,467
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,165
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,423
+"### |||| - في كراهية الشكال من الخيل
+",000,False,000,False,False,False,4,124
+"### ||| ممن اسمه عبد الرحمن
+",000,False,000,False,False,False,3,535
+"### |||| - ذكر المتفق عليه 
+",000,False,000,False,False,False,4,196
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,141
+"### |||| وأخرج مسلم وحده
+",000,False,000,False,False,False,4,206
+"### ||| ممن اسمه عبد الملك
+",000,False,000,False,False,False,3,156
+"### |||| - والمتفق عليه 
+",000,False,000,False,False,False,4,72
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,25
+"### |||| - وأخرج مسلم وحده </span>
+",000,False,000,False,False,False,4,71
+"### ||| ممن اسمه عبيد الله
+",000,False,000,False,False,False,3,201
+"### |||| - المتفق عليه 
+",000,False,000,False,False,False,4,128
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,62
+"### |||| - وأخرج البخاري وحده </span>
+",000,False,000,False,False,False,4,25
+"### ||| ممن اسمه عبد العزيز
+",000,False,000,False,False,False,3,126
+"### |||| - المتفق عليه 
+",000,False,000,False,False,False,4,53
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,27
+"### |||| - وأخرج مسلم
+",000,False,000,False,False,False,4,18
+"### |||| - وقد أخرج البخاري أيضا عن
+",000,False,000,False,False,False,4,46
+"### ||| عن سائر ما تكون أول أسمائهم
+",000,False,000,False,False,False,3,248
+"### |||| - والمتفق عليه 
+",000,False,000,False,False,False,4,126
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,48
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,75
+"### ||| ممن اسمه عمر
+",000,False,000,False,False,False,3,239
+"### |||| - والمتفق عليه 
+",000,False,000,False,False,False,4,89
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,33
+"### |||| - مسلم وحده
+",000,False,000,False,False,False,4,128
+"### ||| ممن اسمه عثمان
+",000,False,000,False,False,False,3,134
+"### |||| - والمتفق عليه 
+",000,False,000,False,False,False,4,60
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,46
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,36
+"### ||| ممن اسمه علي
+",000,False,000,False,False,False,3,209
+"### |||| - والمتفق عليه 
+",000,False,000,False,False,False,4,63
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,75
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,76
+"### ||| ممن اسمه عمرو
+",000,False,000,False,False,False,3,248
+"### |||| - والمتفق عليه 
+",000,False,000,False,False,False,4,140
+"### |||| - وأخرج البخاري
+",000,False,000,False,False,False,4,35
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,80
+"### ||| ممن اسمه عباد
+",000,False,000,False,False,False,3,62
+"### |||| - والمتفق عليه 
+",000,False,000,False,False,False,4,30
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,21
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,18
+"### ||| من اسمه عبيدة
+",000,False,000,False,False,False,3,26
+"### |||| - وقد اتفقا على 
+",000,False,000,False,False,False,4,8
+"### |||| - البخاري وحده
+",000,False,000,False,False,False,4,9
+"### |||| - ولمسلم وحده
+",000,False,000,False,False,False,4,15
+"### ||| من بقية هذا الحرف 
+",000,False,000,False,False,False,3,713
+"### |||| - واتفقا على
+",000,False,000,False,False,False,4,351
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,34
+"### |||| - وأخرج مسلم وحده  في كتاب المناسك</span>
+",000,False,000,False,False,False,4,132
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,209
+"### || من حرف الغين
+",000,False,000,False,False,False,2,25
+"### ||| - المتفق عليه 
+",000,False,000,False,False,False,3,11
+"### ||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,3,14
+"### || من حرف الفاء
+",000,False,000,False,False,False,2,112
+"### ||| - المتفق عليه 
+",000,False,000,False,False,False,3,39
+"### ||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,3,40
+"### ||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,3,39
+"### || 
+",000,False,000,False,False,False,2,198
+"### ||| ممن اسمه القاسم
+",000,False,000,False,False,False,3,92
+"### |||| - المتفق عليه 
+",000,False,000,False,False,False,4,32
+"### |||| - البخاري وحده
+",000,False,000,False,False,False,4,13
+"### |||| - مسلم وحده
+",000,False,000,False,False,False,4,58
+"### ||| من بقية الحرف
+",000,False,000,False,False,False,3,116
+"### |||| - المتفق عليه 
+",000,False,000,False,False,False,4,51
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,70
+"### || - باب الكاف
+",000,False,000,False,False,False,2,82
+"### ||| المتفق عليه من هذا الحرف
+",000,False,000,False,False,False,3,27
+"### ||| - أخرج البخاري وحده
+",000,False,000,False,False,False,3,25
+"### ||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,3,37
+"### || - باب اللام
+",000,False,000,False,False,False,2,29
+"### ||| أخرجا جميعا عن
+",000,False,000,False,False,False,3,10
+"### ||| - وأخرج مسلم وحده  في الأطعمة</span>
+",000,False,000,False,False,False,3,20
+"### || - باب الميم
+",000,False,000,False,False,False,2,1927
+"### ||| 
+",000,False,000,False,False,False,3,1005
+"### |||| المتفق عليه
+",000,False,000,False,False,False,4,612
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,402
+"### ||| من إسمه موسى
+",000,False,000,False,False,False,3,138
+"### |||| - المتفق عليه 
+",000,False,000,False,False,False,4,42
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,31
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,67
+"### ||| من بقية حرف الميم
+",000,False,000,False,False,False,3,790
+"### |||| - المتفق عليه 
+",000,False,000,False,False,False,4,337
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,133
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,329
+"### || - باب النون
+",000,False,000,False,False,False,2,169
+"### ||| المتفق عليه
+",000,False,000,False,False,False,3,87
+"### ||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,3,28
+"### ||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,3,62
+"### || - باب الواو
+",000,False,000,False,False,False,2,206
+"### ||| المتفق عليه
+",000,False,000,False,False,False,3,106
+"### ||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,3,14
+"### ||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,3,97
+"### || - باب الهاء
+",000,False,000,False,False,False,2,188
+"### ||| المتفق عليه
+",000,False,000,False,False,False,3,102
+"### ||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,3,42
+"### ||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,3,51
+"### || - باب لا
+",000,False,000,False,False,False,2,17
+"### || - باب الياء
+",000,False,000,False,False,False,2,856
+"### ||| ممن اسمه يحيى
+",000,False,000,False,False,False,3,409
+"### |||| المتفق عليه 
+",000,False,000,False,False,False,4,181
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,76
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,161
+"### ||| من بقية هذا الحرف
+",000,False,000,False,False,False,3,450
+"### |||| - المتفق عليه 
+",000,False,000,False,False,False,4,174
+"### |||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,4,116
+"### |||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,4,170
+"### || - باب النساء بعد الصحابيات
+",000,False,000,False,False,False,2,107
+"### ||| المتفق عليه
+",000,False,000,False,False,False,3,28
+"### ||| - وأخرج البخاري وحده
+",000,False,000,False,False,False,3,45
+"### ||| - وأخرج مسلم وحده
+",000,False,000,False,False,False,3,41
+"### | - ذكر مشايخ لأبي عبد الله البخاري لقيهم وسمع منهم ممن روى عن رجل عنهم
+",000,False,000,False,False,False,1,1409

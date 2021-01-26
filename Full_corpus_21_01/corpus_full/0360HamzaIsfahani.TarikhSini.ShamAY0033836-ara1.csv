@@ -1,0 +1,477 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO [مقدمة المؤلف]
+",000,False,000,False,False,False,1,808
+"### | AUTO الباب الأول في سياقة تواريخ سني ملوك الفرس على طبقاتهم
+",000,False,000,False,False,False,1,8346
+"### || AUTO الفصل الاول من الباب الأول في ذكر طبقات ملوك الفرس الأربع
+",000,False,000,False,False,False,2,1220
+"### || AUTO الفصل الثاني من الباب الأول في إعادة ذكر بعض ما مضى في الفصل
+",000,False,000,False,False,False,2,1066
+"### || AUTO الفصل الثالث من الباب الأول في اعادة ذكر كل ما مضى في الفصل
+",000,False,000,False,False,False,2,807
+"### || AUTO الفصل الرابع من الباب الأول في الاقتصار على ذكر أخبار ملوك الفرس،
+",000,False,000,False,False,False,2,4883
+"### ||| AUTO أوشهنج فيشداد:
+",000,False,000,False,False,False,3,57
+"### ||| AUTO طهمورث زيباوند:
+",000,False,000,False,False,False,3,194
+"### ||| AUTO جمشيد:
+",000,False,000,False,False,False,3,92
+"### ||| AUTO بيوراسب ده آك ده آك:
+",000,False,000,False,False,False,3,96
+"### ||| AUTO فريدون:
+",000,False,000,False,False,False,3,193
+"### ||| AUTO منوشجهر:
+",000,False,000,False,False,False,3,165
+"### ||| AUTO زو بن طهماسب:
+",000,False,000,False,False,False,3,8
+"### ||| AUTO لما ملك زو أمر باعادة ما كان خربه افراسياب من المدن والحصون
+",000,False,000,False,False,False,3,106
+"### ||| AUTO كيكاوس:
+",000,False,000,False,False,False,3,60
+"### ||| AUTO كيخسرو:
+",000,False,000,False,False,False,3,56
+"### ||| AUTO كيلهراسب:
+",000,False,000,False,False,False,3,85
+"### ||| AUTO كي كشتاسب:
+",000,False,000,False,False,False,3,113
+"### ||| AUTO كي اردشير:
+",000,False,000,False,False,False,3,125
+"### ||| AUTO هماي جهرازاد:
+",000,False,000,False,False,False,3,70
+"### ||| AUTO دارا بن بهمن:
+",000,False,000,False,False,False,3,63
+"### ||| AUTO دارا بن دارا:
+",000,False,000,False,False,False,3,85
+"### ||| AUTO الاسكندر:
+",000,False,000,False,False,False,3,121
+"### ||| AUTO الملوك الاشغانية:
+",000,False,000,False,False,False,3,238
+"### ||| AUTO شابور بن اشك:
+",000,False,000,False,False,False,3,79
+"### ||| AUTO جودرز بن اشك:
+",000,False,000,False,False,False,3,55
+"### ||| AUTO بلاش بن خسرو:
+",000,False,000,False,False,False,3,148
+"### ||| AUTO اردشير بن بابك:
+",000,False,000,False,False,False,3,595
+"### ||| AUTO شابور بن اردشير:
+",000,False,000,False,False,False,3,177
+"### ||| AUTO هرمز بن شابور:
+",000,False,000,False,False,False,3,59
+"### ||| AUTO بهرام بن هرمز:
+",000,False,000,False,False,False,3,68
+"### ||| AUTO بهرام بن بهرام:
+",000,False,000,False,False,False,3,44
+"### ||| AUTO بهرام بن بهرام بن بهرام:
+",000,False,000,False,False,False,3,106
+"### ||| AUTO نرسي بن بهرام:
+",000,False,000,False,False,False,3,28
+"### ||| AUTO هرمز بن نرسي:
+",000,False,000,False,False,False,3,52
+"### ||| AUTO شابور ذو الأكتاف:
+",000,False,000,False,False,False,3,194
+"### ||| AUTO اردشير بن شابور:
+",000,False,000,False,False,False,3,31
+"### ||| AUTO شابور بن شابور:
+",000,False,000,False,False,False,3,44
+"### ||| AUTO بهرام بن شابور:
+",000,False,000,False,False,False,3,73
+"### ||| AUTO يزدجرد بن بهرام الأثيم:
+",000,False,000,False,False,False,3,28
+"### ||| AUTO بهرام جور بن يزدجرد:
+",000,False,000,False,False,False,3,143
+"### ||| AUTO يزدجرد اللين بن بهرام:
+",000,False,000,False,False,False,3,25
+"### ||| AUTO فيروز بن يزدجرد:
+",000,False,000,False,False,False,3,105
+"### ||| AUTO بلاش بن فيروز:
+",000,False,000,False,False,False,3,34
+"### ||| AUTO قباد بن فيروز:
+",000,False,000,False,False,False,3,115
+"### ||| AUTO كسرى انوشيروان بن قباد:
+",000,False,000,False,False,False,3,476
+"### ||| AUTO هرمز بن كسرى:
+",000,False,000,False,False,False,3,32
+"### ||| AUTO كسرى ابرويز بن هرمز:
+",000,False,000,False,False,False,3,92
+"### ||| AUTO شيرويه بن كسرى:
+",000,False,000,False,False,False,3,65
+"### ||| AUTO اردشير بن شيرويه:
+",000,False,000,False,False,False,3,35
+"### ||| AUTO بوران دخت بنت ابرويز:
+",000,False,000,False,False,False,3,51
+"### ||| AUTO ارزمين دخت بنت ابرويز:
+",000,False,000,False,False,False,3,46
+"### ||| AUTO يزدجرد بن شهريار:
+",000,False,000,False,False,False,3,192
+"### || AUTO الفصل الخامس من الباب الأول [وهو حكاية جمل ما فى خداى نامه ... ]
+",000,False,000,False,False,False,2,351
+"### | AUTO الباب الثاني في سياقة تواريخ سني ملوك الروم
+",000,False,000,False,False,False,1,1968
+"### || AUTO الفصل الأول في سياقة سني ملوك مقدونية
+",000,False,000,False,False,False,2,110
+"### || AUTO الفصل الثاني من الباب الثاني في سياقة سني ملوك رومية
+",000,False,000,False,False,False,2,237
+"### || AUTO الفصل الثالث من الباب الثاني في سياقة سني ملوك قسطنطينية
+",000,False,000,False,False,False,2,271
+"### || AUTO الفصل الرابع من الباب الثاني في حكاية أخبار الملوك الذين
+",000,False,000,False,False,False,2,683
+"### ||| AUTO بطلميوس محب الأب، بطلميوس الصانع، بطلميوس محب الأم،
+",000,False,000,False,False,False,3,115
+"### ||| AUTO اغسطس، طباريس، قلودفس، نيرون:
+",000,False,000,False,False,False,3,106
+"### ||| AUTO طاطس، دومطيانس، ادريانس، انطونيس:
+",000,False,000,False,False,False,3,68
+"### ||| AUTO ديقيوس، دقلطيانس:
+",000,False,000,False,False,False,3,67
+"### ||| AUTO قسطنطين، يوليانس:
+",000,False,000,False,False,False,3,152
+"### ||| AUTO تيدوسيس، مرقيانس، زنين، نسطاس:
+",000,False,000,False,False,False,3,98
+"### ||| AUTO يوسطنيانس، طباريس، موريقس، فوقاس:
+",000,False,000,False,False,False,3,119
+"### || AUTO الفصل الخامس من الباب الثاني في ذكر ما حكاه القاضي وكيع من
+",000,False,000,False,False,False,2,660
+"### | AUTO الباب الثالث في سياقة تواريخ سني ملوك اليونانيين
+",000,False,000,False,False,False,1,248
+"### | AUTO الباب الرابع في سياقة تواريخ سني القبط
+",000,False,000,False,False,False,1,174
+"### | AUTO الباب الخامس في سياقة تواريخ سني الاسرائيلين
+",000,False,000,False,False,False,1,1438
+"### | AUTO الباب السادس في سياقة تواريخ اللخميين من ملوك عرب العراق
+",000,False,000,False,False,False,1,3028
+"### || AUTO امرؤ القيس بن عمرو بن عدي:
+",000,False,000,False,False,False,2,2219
+"### ||| AUTO عمرو بن امرى ء القيس:
+",000,False,000,False,False,False,3,64
+"### ||| AUTO امرؤ القيس بن البدأ بن عمرو:
+",000,False,000,False,False,False,3,97
+"### ||| AUTO عمرو بن الطوق:
+",000,False,000,False,False,False,3,38
+"### ||| AUTO النعمان بن امرى ء القيس:
+",000,False,000,False,False,False,3,288
+"### ||| AUTO المنذر بن النعمان:
+",000,False,000,False,False,False,3,64
+"### ||| AUTO الأسود بن المنذر:
+",000,False,000,False,False,False,3,60
+"### ||| AUTO المنذر بن المنذر:
+",000,False,000,False,False,False,3,28
+"### ||| AUTO النعمان بن الأسود:
+",000,False,000,False,False,False,3,48
+"### ||| AUTO أبو يعفر بن علقمة الذميلي:
+",000,False,000,False,False,False,3,25
+"### ||| AUTO أمرؤ القيس بن النعمان:
+",000,False,000,False,False,False,3,109
+"### ||| AUTO المنذر بن امرى ء القيس:
+",000,False,000,False,False,False,3,171
+"### ||| AUTO الحارث بن عمرو:
+",000,False,000,False,False,False,3,301
+"### ||| AUTO المنذر بن امرى ء القيس:
+",000,False,000,False,False,False,3,136
+"### ||| AUTO عمرو بن المنذر:
+",000,False,000,False,False,False,3,160
+"### ||| AUTO قابوس بن المنذر:
+",000,False,000,False,False,False,3,46
+"### ||| AUTO فيشهرت:
+",000,False,000,False,False,False,3,18
+"### ||| AUTO المنذر بن المنذر:
+",000,False,000,False,False,False,3,35
+"### ||| AUTO النعمان بن المنذر:
+",000,False,000,False,False,False,3,190
+"### ||| AUTO أياس بن قبيصة:
+",000,False,000,False,False,False,3,52
+"### ||| AUTO زاديه:
+",000,False,000,False,False,False,3,195
+"### ||| AUTO ثادريطوس:
+",000,False,000,False,False,False,3,62
+"### ||| AUTO أرزمين دخت بنت أبرويز:
+",000,False,000,False,False,False,3,27
+"### ||| AUTO يزدجرد بن شهريار:
+",000,False,000,False,False,False,3,52
+"### | AUTO الباب السابع في سياقة تواريخ غسان ملوك عرب الشام
+",000,False,000,False,False,False,1,1153
+"### || AUTO سليح بن حلوان:
+",000,False,000,False,False,False,2,1086
+"### ||| AUTO جفنة بن عمرو:
+",000,False,000,False,False,False,3,166
+"### ||| AUTO عمرو بن جفنة:
+",000,False,000,False,False,False,3,21
+"### ||| AUTO ثعلبة بن عمرو:
+",000,False,000,False,False,False,3,37
+"### ||| AUTO الحارث بن ثعلبة:
+",000,False,000,False,False,False,3,28
+"### ||| AUTO جبلة بن الحارث:
+",000,False,000,False,False,False,3,18
+"### ||| AUTO الحارث بن جبلة:
+",000,False,000,False,False,False,3,37
+"### ||| AUTO المنذر بن الحارث:
+",000,False,000,False,False,False,3,29
+"### ||| AUTO النعمان بن الحارث:
+",000,False,000,False,False,False,3,24
+"### ||| AUTO المنذر بن الحارث:
+",000,False,000,False,False,False,3,31
+"### ||| AUTO جبلة بن الحارث:
+",000,False,000,False,False,False,3,38
+"### ||| AUTO الأيهم بن الحارث:
+",000,False,000,False,False,False,3,29
+"### ||| AUTO عمرو بن الحارث:
+",000,False,000,False,False,False,3,40
+"### ||| AUTO جفنة الأصغر:
+",000,False,000,False,False,False,3,67
+"### ||| AUTO النعمان بن المنذر:
+",000,False,000,False,False,False,3,21
+"### ||| AUTO النعمان بن عمرو:
+",000,False,000,False,False,False,3,58
+"### ||| AUTO جبلة بن النعمان:
+",000,False,000,False,False,False,3,34
+"### ||| AUTO النعمان بن الأيهم:
+",000,False,000,False,False,False,3,28
+"### ||| AUTO الحارث بن الأيهم:
+",000,False,000,False,False,False,3,24
+"### ||| AUTO النعمان بن الحارث:
+",000,False,000,False,False,False,3,27
+"### ||| AUTO المنذر بن النعمان:
+",000,False,000,False,False,False,3,22
+"### ||| AUTO عمرو بن النعمان:
+",000,False,000,False,False,False,3,25
+"### ||| AUTO حجر بن النعمان:
+",000,False,000,False,False,False,3,28
+"### ||| AUTO الحارث بن حجر:
+",000,False,000,False,False,False,3,28
+"### ||| AUTO جبلة بن الحارث:
+",000,False,000,False,False,False,3,24
+"### ||| AUTO الحارث بن جبلة:
+",000,False,000,False,False,False,3,34
+"### ||| AUTO النعمان بن الحارث:
+",000,False,000,False,False,False,3,51
+"### ||| AUTO الأيهم بن جبلة:
+",000,False,000,False,False,False,3,8
+"### ||| AUTO ثم ملك بعده الأيهم بن جبلة بن الحارث بن أبي شمر سبعا وعشرين
+",000,False,000,False,False,False,3,48
+"### ||| AUTO المنذر بن جبلة:
+",000,False,000,False,False,False,3,28
+"### ||| AUTO شراحيل بن جبلة:
+",000,False,000,False,False,False,3,26
+"### ||| AUTO عمرو بن جبلة:
+",000,False,000,False,False,False,3,38
+"### ||| AUTO جبلة بن الأيهم:
+",000,False,000,False,False,False,3,51
+"### | AUTO الباب الثامن في سياقة تواريخ حمير ملوك عرب اليمن
+",000,False,000,False,False,False,1,2648
+"### || AUTO حمير بن سبا:
+",000,False,000,False,False,False,2,2367
+"### ||| AUTO وأول من ملك من أولاد قحطان حمير بن سبا، فبقي ملكا حتى مات
+",000,False,000,False,False,False,3,141
+"### ||| AUTO أبرهة ذو المنار:
+",000,False,000,False,False,False,3,41
+"### ||| AUTO أفريقيس بن أبرهة:
+",000,False,000,False,False,False,3,40
+"### ||| AUTO العبد ذو الأذعار:
+",000,False,000,False,False,False,3,28
+"### ||| AUTO هداد بن شراحيل:
+",000,False,000,False,False,False,3,34
+"### ||| AUTO بلقيس بنت هداد:
+",000,False,000,False,False,False,3,88
+"### ||| AUTO ناشر ينعم:
+",000,False,000,False,False,False,3,31
+"### ||| AUTO شمر يرعش:
+",000,False,000,False,False,False,3,165
+"### ||| AUTO أبو مالك:
+",000,False,000,False,False,False,3,41
+"### ||| AUTO الأقرن بن أبي مالك:
+",000,False,000,False,False,False,3,30
+"### ||| AUTO ذو جيشان بن الأقرن:
+",000,False,000,False,False,False,3,180
+"### ||| AUTO تبع بن الأقرن بن شمر:
+",000,False,000,False,False,False,3,36
+"### ||| AUTO ملكيكرب بن تبع:
+",000,False,000,False,False,False,3,26
+"### ||| AUTO أسعد أبو كرب:
+",000,False,000,False,False,False,3,119
+"### ||| AUTO حسان بن تبع:
+",000,False,000,False,False,False,3,8
+"### ||| AUTO ثم ملك إبنه حسان بن تبع، وهو الذي سار إلى جديس باليمامة
+",000,False,000,False,False,False,3,163
+"### ||| AUTO عبيد كلال:
+",000,False,000,False,False,False,3,31
+"### ||| AUTO تبع بن حسان بن تبع:
+",000,False,000,False,False,False,3,76
+"### ||| AUTO مرثد بن عبيد كلال:
+",000,False,000,False,False,False,3,30
+"### ||| AUTO وليعة بن مرثد:
+",000,False,000,False,False,False,3,26
+"### ||| AUTO أبرهة بن الصباح:
+",000,False,000,False,False,False,3,49
+"### ||| AUTO صهبان بن محرث:
+",000,False,000,False,False,False,3,75
+"### ||| AUTO حسان بن عمرو بن تبع:
+",000,False,000,False,False,False,3,47
+"### ||| AUTO ذو شناتر:
+",000,False,000,False,False,False,3,43
+"### ||| AUTO ثم إنه بعث إلى غلام منهم يقال له ذو نواس، وكان له ذوابتان
+",000,False,000,False,False,False,3,214
+"### ||| AUTO ذو جدن:
+",000,False,000,False,False,False,3,76
+"### ||| AUTO أبرهة بن الأشرم:
+",000,False,000,False,False,False,3,34
+"### ||| AUTO يكسوم بن أبرهة:
+",000,False,000,False,False,False,3,22
+"### ||| AUTO مسروق:
+",000,False,000,False,False,False,3,330
+"### ||| AUTO سنداد:
+",000,False,000,False,False,False,3,52
+"### ||| AUTO الهامرز بن آذركر:
+",000,False,000,False,False,False,3,85
+"### ||| AUTO أنوش ناد بن حشنشبنده:
+",000,False,000,False,False,False,3,23
+"### ||| AUTO المكعبر:
+",000,False,000,False,False,False,3,143
+"### ||| AUTO دادويه بن هرمز بن فيروز:
+",000,False,000,False,False,False,3,64
+"### | AUTO الباب التاسع في سياقة تواريخ ملوك كندة
+",000,False,000,False,False,False,1,226
+"### || AUTO حجر آكل المرار:
+",000,False,000,False,False,False,2,219
+"### ||| AUTO الحارث المقصور بن عمرو:
+",000,False,000,False,False,False,3,150
+"### | AUTO الباب العاشر في سياقة تاريخ قريش ملوك عرب الإسلام وهو عشرة فصول
+",000,False,000,False,False,False,1,14558
+"### || AUTO الفصل الأول من الباب العاشر في ذكر جمل من تواريخ المعديين
+",000,False,000,False,False,False,2,700
+"### || AUTO الفصل الثاني من الباب العاشر في ذكر ما جاءت به الروايات في
+",000,False,000,False,False,False,2,755
+"### || AUTO الفصل الثالث من الباب العاشر في ذكرى جمل من آثار مبدأ
+",000,False,000,False,False,False,2,322
+"### || AUTO الفصل الرابع من الباب العاشر في ذكر جمل من ادلاء النجوم على
+",000,False,000,False,False,False,2,307
+"### || AUTO الفصل الخامس من الباب العاشر في سياقة تواريخ ملوك قريش
+",000,False,000,False,False,False,2,481
+"### || AUTO الفصل السادس من الباب العاشر في إظهار نواريز سني الهجرة
+",000,False,000,False,False,False,2,3856
+"### || AUTO الفصل السابع من الباب العاشر في إظهار جمل من الأحداث
+",000,False,000,False,False,False,2,2074
+"### || AUTO الفصل الثامن من الباب العاشر في وصف الهرج الحادث على سلطان
+",000,False,000,False,False,False,2,2007
+"### ||| AUTO كان إبتداء ملك بني العباس في سنة إثنتين وثلاثين ومائة.
+",130,year,000,False,130,230,3,181
+"### ||| AUTO سنة إحدى عشرة وثلاثمائة:
+",311,year,000,False,311,049,3,89
+"### ||| AUTO سنة اثنتي عشرة وثلاثمائة:
+",312,year,000,False,312,048,3,37
+"### ||| AUTO سنة ثلاث عشرة وثلاثمائة:
+",313,year,000,False,313,047,3,43
+"### ||| AUTO سنة خمس عشرة وثلاثمائة:
+",315,year,000,False,315,045,3,432
+"### ||| AUTO سنة ست عشرة وثلاثمائة:
+",316,year,000,False,316,044,3,84
+"### ||| AUTO سنة تسع عشر وثلاثمائة:
+",319,year,000,False,319,041,3,347
+"### ||| AUTO سنة ثمان عشرة وثلاثمائة:
+",318,year,000,False,318,042,3,264
+"### ||| AUTO سنة تسع عشرة وثلاثمائة:
+",319,year,000,False,319,041,3,342
+"### ||| AUTO سنة عشرين وثلاثمائة:
+",320,year,000,False,320,040,3,187
+"### || AUTO الفصل التاسع من الباب العاشر في ذكر ولاة خراسان
+",000,False,000,False,False,False,2,3261
+"### ||| AUTO أبو مسلم ناقل الدولة:
+",000,False,000,False,False,False,3,158
+"### ||| AUTO أبو داود خالد بن ابراهيم:
+",000,False,000,False,False,False,3,67
+"### ||| AUTO ابو عصام بن سليم:
+",000,False,000,False,False,False,3,25
+"### ||| AUTO عبد الجبار بن عبد الرحمن:
+",000,False,000,False,False,False,3,12
+"### ||| AUTO ثم قدمها عبد الجبار بن عبد الرحمن الأزدي، فورد مرو يوم
+",000,False,000,False,False,False,3,122
+"### ||| AUTO أبو عون:
+",000,False,000,False,False,False,3,28
+"### ||| AUTO أبو مالك:
+",000,False,000,False,False,False,3,41
+"### ||| AUTO حازم بن حزيمة:
+",000,False,000,False,False,False,3,23
+"### ||| AUTO حميد بن قحطبة:
+",000,False,000,False,False,False,3,38
+"### ||| AUTO عبد الله حميد:
+",000,False,000,False,False,False,3,26
+"### ||| AUTO أبو عون ثانيا:
+",000,False,000,False,False,False,3,30
+"### ||| AUTO معاذ بن مسلم:
+",000,False,000,False,False,False,3,42
+"### ||| AUTO زهير بن المسيب:
+",000,False,000,False,False,False,3,24
+"### ||| AUTO الفضل بن سليمان:
+",000,False,000,False,False,False,3,46
+"### ||| AUTO جعفر بن محمد:
+",000,False,000,False,False,False,3,80
+"### ||| AUTO الحسن بن قحطبة:
+",000,False,000,False,False,False,3,45
+"### ||| AUTO غطريف بن عطا:
+",000,False,000,False,False,False,3,31
+"### ||| AUTO حمزة بن مالك:
+",000,False,000,False,False,False,3,46
+"### ||| AUTO الفضل بن يحيى:
+",000,False,000,False,False,False,3,95
+"### ||| AUTO منصور بن يزيد:
+",000,False,000,False,False,False,3,35
+"### ||| AUTO جعفر بن يحيى:
+",000,False,000,False,False,False,3,36
+"### ||| AUTO علي بن عيسى:
+",000,False,000,False,False,False,3,69
+"### ||| AUTO هرثمة بن أعين:
+",000,False,000,False,False,False,3,91
+"### ||| AUTO المأمون:
+",000,False,000,False,False,False,3,194
+"### ||| AUTO الفضل بن سهل:
+",000,False,000,False,False,False,3,62
+"### ||| AUTO رجا بن ضحاك:
+",000,False,000,False,False,False,3,49
+"### ||| AUTO طاهر بن الحسين:
+",000,False,000,False,False,False,3,100
+"### ||| AUTO طلحة بن طاهر:
+",000,False,000,False,False,False,3,8
+"### ||| AUTO فلما بلغ خبر موته المأمون كتب إلى عبد الله بن طاهر وهو
+",000,False,000,False,False,False,3,396
+"### ||| AUTO طاهر بن عبد الله:
+",000,False,000,False,False,False,3,107
+"### ||| AUTO محمد بن طاهر:
+",000,False,000,False,False,False,3,146
+"### ||| AUTO قبل ذلك عن أيدي الطاهرية في أيام ولاية طاهر بن عبد الله
+",000,False,000,False,False,False,3,405
+"### ||| AUTO عمرو بن الليث:
+",000,False,000,False,False,False,3,97
+"### ||| AUTO رافع بن هرثمة:
+",000,False,000,False,False,False,3,34
+"### ||| AUTO عمرو بن الليث ثانيا:
+",000,False,000,False,False,False,3,33
+"### ||| AUTO اسماعيل بن أحمد بن أسد:
+",000,False,000,False,False,False,3,53
+"### ||| AUTO أحمد بن اسماعيل:
+",000,False,000,False,False,False,3,20
+"### ||| AUTO نصر بن أحمد بن اسماعيل:
+",000,False,000,False,False,False,3,48
+"### ||| AUTO نوح بن نصر:
+",000,False,000,False,False,False,3,26
+"### ||| AUTO عبد الملك بن نوح:
+",000,False,000,False,False,False,3,143
+"### || AUTO الفصل العاشر من الباب العاشر وهو في ذكر تواريخ ولاة طبرستان
+",000,False,000,False,False,False,2,792
+"### ||| AUTO الحسن بن زيد:
+",000,False,000,False,False,False,3,68
+"### ||| AUTO محمد بن زيد:
+",000,False,000,False,False,False,3,61
+"### ||| AUTO محمد بن هارون:
+",000,False,000,False,False,False,3,41
+"### ||| AUTO اسماعيل بن أحمد:
+",000,False,000,False,False,False,3,38
+"### ||| AUTO الناصر:
+",000,False,000,False,False,False,3,86
+"### ||| AUTO أسفار بن شيرويه:
+",000,False,000,False,False,False,3,94
+"### ||| AUTO مرداويج الجبلي:
+",000,False,000,False,False,False,3,50
+"### ||| AUTO علي بن بويه:
+",000,False,000,False,False,False,3,74
+"### ||| AUTO الحسن بن بويه:
+",000,False,000,False,False,False,3,125

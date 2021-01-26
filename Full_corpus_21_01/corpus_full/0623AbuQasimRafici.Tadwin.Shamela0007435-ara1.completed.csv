@@ -1,0 +1,947 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | مقدمة
+",000,False,000,False,False,False,1,500
+"### | الفصل الأول: في فضائل قزوين وخصائصها
+",000,False,000,False,False,False,1,7010
+"### || القسم الأول: المنقول
+",000,False,000,False,False,False,2,5812
+"### ||| النوع الأول: الأخبار
+",000,False,000,False,False,False,3,4380
+"### ||| النوع الثاني: في الآثار
+",000,False,000,False,False,False,3,1434
+"### || القسم الثاني فضائلها وخصائصها المستنبطة.
+",000,False,000,False,False,False,2,1197
+"### | الفصل الثاني: في اسمها
+",000,False,000,False,False,False,1,921
+"### | الفصل الثالث: في كيفية بنائها وفتحها
+",000,False,000,False,False,False,1,936
+"### | الفصل الرابع: في ذكر نواحيها وأوديتها وقنيها ومساجدها ومقابرها
+",000,False,000,False,False,False,1,2063
+"### || مقابرها ومزاراتها.
+",000,False,000,False,False,False,2,260
+"### | القول في بيان من ورد قزوين من الصحابة والتابعين رضي الله عنهم أجمعين
+",000,False,000,False,False,False,1,318027
+"### || من ورد قزوين من الصحابة رضي الله عنهم أجمعين
+",000,False,000,False,False,False,2,6162
+"### || من ورد قزوين من التابعين رضي الله عنهم أجمعين
+",000,False,000,False,False,False,2,8475
+"### || القول فيمن بعد الصحابة والتابعين
+",000,False,000,False,False,False,2,303384
+"### ||| المحمدون
+",000,False,000,False,False,False,3,90421
+"### |||| حرف الألف في آبائهم
+",000,False,000,False,False,False,4,20471
+"### ||||| فصل
+",000,False,000,False,False,False,5,7355
+"### ||||| فصل
+",000,False,000,False,False,False,5,9829
+"### ||||| فصل
+",000,False,000,False,False,False,5,206
+"### ||||| فصل
+",000,False,000,False,False,False,5,1063
+"### ||||| فصل
+",000,False,000,False,False,False,5,39
+"### ||||| فصل
+",000,False,000,False,False,False,5,295
+"### ||||| فصل
+",000,False,000,False,False,False,5,943
+"### ||||| فصل
+",000,False,000,False,False,False,5,88
+"### ||||| فصل
+",000,False,000,False,False,False,5,88
+"### ||||| فصل
+",000,False,000,False,False,False,5,164
+"### |||| حرف الباء في الآباء
+",000,False,000,False,False,False,4,1652
+"### ||||| فصل
+",000,False,000,False,False,False,5,89
+"### ||||| فصل
+",000,False,000,False,False,False,5,771
+"### ||||| فصل
+",000,False,000,False,False,False,5,79
+"### ||||| فصل
+",000,False,000,False,False,False,5,143
+"### ||||| فصل
+",000,False,000,False,False,False,5,481
+"### |||| حرف التاء في الآباء
+",000,False,000,False,False,False,4,42
+"### |||| حرف الجيم في الآباء
+",000,False,000,False,False,False,4,731
+"### ||||| فصل
+",000,False,000,False,False,False,5,562
+"### ||||| فصل
+",000,False,000,False,False,False,5,128
+"### |||| حرف الحاء في الآباء
+",000,False,000,False,False,False,4,6902
+"### ||||| فصل
+",000,False,000,False,False,False,5,247
+"### ||||| فصل
+",000,False,000,False,False,False,5,102
+"### ||||| فصل
+",000,False,000,False,False,False,5,38
+"### ||||| فصل
+",000,False,000,False,False,False,5,55
+"### ||||| فصل
+",000,False,000,False,False,False,5,36
+"### ||||| فصل
+",000,False,000,False,False,False,5,3333
+"### ||||| فصل
+",000,False,000,False,False,False,5,1810
+"### ||||| فصل
+",000,False,000,False,False,False,5,26
+"### ||||| فصل
+",000,False,000,False,False,False,5,272
+"### ||||| فصل
+",000,False,000,False,False,False,5,66
+"### ||||| فصل
+",000,False,000,False,False,False,5,141
+"### ||||| فصل
+",000,False,000,False,False,False,5,291
+"### ||||| فصل
+",000,False,000,False,False,False,5,16
+"### ||||| فصل
+",000,False,000,False,False,False,5,74
+"### ||||| فصل
+",000,False,000,False,False,False,5,15
+"### ||||| فصل
+",000,False,000,False,False,False,5,293
+"### |||| حرف الخاء في الآباء
+",000,False,000,False,False,False,4,1302
+"### ||||| فصل
+",000,False,000,False,False,False,5,75
+"### ||||| فصل
+",000,False,000,False,False,False,5,84
+"### ||||| فصل
+",000,False,000,False,False,False,5,215
+"### ||||| فصل
+",000,False,000,False,False,False,5,244
+"### ||||| فصل
+",000,False,000,False,False,False,5,437
+"### ||||| فصل
+",000,False,000,False,False,False,5,84
+"### |||| حرف الدال في الآباء
+",000,False,000,False,False,False,4,513
+"### |||| حرف الراء في الآباء
+",000,False,000,False,False,False,4,566
+"### |||| حرف الزاء في الآباء
+",000,False,000,False,False,False,4,542
+"### |||| حرف السين في الآباء
+",000,False,000,False,False,False,4,1325
+"### |||| حرف الشين في الآباء
+",000,False,000,False,False,False,4,603
+"### |||| حرف الصاد في الآباء
+",000,False,000,False,False,False,4,593
+"### |||| حرف الطاء في الآباء
+",000,False,000,False,False,False,4,549
+"### |||| حرف الظاء في الآباء
+",000,False,000,False,False,False,4,53
+"### |||| حرف العين في الآباء
+",000,False,000,False,False,False,4,33698
+"### ||||| فصل
+",000,False,000,False,False,False,5,96
+"### ||||| فصل
+",000,False,000,False,False,False,5,82
+"### ||||| فصل
+",000,False,000,False,False,False,5,181
+"### ||||| فصل
+",000,False,000,False,False,False,5,70
+"### ||||| فصل
+",000,False,000,False,False,False,5,611
+"### ||||| فصل
+",000,False,000,False,False,False,5,359
+"### ||||| فصل
+",000,False,000,False,False,False,5,175
+"### ||||| فصل
+",000,False,000,False,False,False,5,536
+"### ||||| فصل
+",000,False,000,False,False,False,5,228
+"### ||||| فصل
+",000,False,000,False,False,False,5,50
+"### ||||| فصل
+",000,False,000,False,False,False,5,18077
+"### ||||| فصل
+",000,False,000,False,False,False,5,2775
+"### ||||| فصل
+",000,False,000,False,False,False,5,1043
+"### ||||| فصل
+",000,False,000,False,False,False,5,387
+"### ||||| فصل
+",000,False,000,False,False,False,5,41
+"### ||||| فصل
+",000,False,000,False,False,False,5,270
+"### ||||| فصل
+",000,False,000,False,False,False,5,300
+"### ||||| فصل
+",000,False,000,False,False,False,5,313
+"### ||||| فصل
+",000,False,000,False,False,False,5,351
+"### ||||| فصل
+",000,False,000,False,False,False,5,43
+"### ||||| فصل
+",000,False,000,False,False,False,5,284
+"### ||||| فصل
+",000,False,000,False,False,False,5,67
+"### ||||| فصل
+",000,False,000,False,False,False,5,157
+"### ||||| فصل
+",000,False,000,False,False,False,5,41
+"### ||||| فصل
+",000,False,000,False,False,False,5,4080
+"### ||||| فصل
+",000,False,000,False,False,False,5,140
+"### ||||| فصل
+",000,False,000,False,False,False,5,1727
+"### ||||| فصل
+",000,False,000,False,False,False,5,1056
+"### |||| حرف الغين في الآباء
+",000,False,000,False,False,False,4,134
+"### |||| حرف الفاء في الآباء
+",000,False,000,False,False,False,4,1193
+"### ||||| فصل
+",000,False,000,False,False,False,5,229
+"### ||||| فصل
+",000,False,000,False,False,False,5,91
+"### ||||| فصل
+",000,False,000,False,False,False,5,46
+"### ||||| فصل
+",000,False,000,False,False,False,5,355
+"### ||||| فصل
+",000,False,000,False,False,False,5,100
+"### ||||| فصل
+",000,False,000,False,False,False,5,214
+"### |||| حرف القاف في الآباء
+",000,False,000,False,False,False,4,1259
+"### ||||| فصل
+",000,False,000,False,False,False,5,105
+"### ||||| فصل
+",000,False,000,False,False,False,5,967
+"### ||||| فصل
+",000,False,000,False,False,False,5,98
+"### |||| حرف الكاف واللام في الآباء.
+",000,False,000,False,False,False,4,145
+"### |||| حرف الميم في الآباء
+",000,False,000,False,False,False,4,6650
+"### ||||| فصل
+",000,False,000,False,False,False,5,18
+"### ||||| فصل
+",000,False,000,False,False,False,5,60
+"### ||||| فصل
+",000,False,000,False,False,False,5,41
+"### ||||| فصل
+",000,False,000,False,False,False,5,41
+"### ||||| فصل
+",000,False,000,False,False,False,5,46
+"### ||||| فصل
+",000,False,000,False,False,False,5,2222
+"### ||||| فصل
+",000,False,000,False,False,False,5,965
+"### ||||| فصل
+",000,False,000,False,False,False,5,380
+"### ||||| فصل
+",000,False,000,False,False,False,5,155
+"### ||||| فصل
+",000,False,000,False,False,False,5,299
+"### ||||| فصل
+",000,False,000,False,False,False,5,43
+"### ||||| فصل
+",000,False,000,False,False,False,5,170
+"### ||||| فصل
+",000,False,000,False,False,False,5,30
+"### ||||| فصل
+",000,False,000,False,False,False,5,210
+"### ||||| فصل
+",000,False,000,False,False,False,5,87
+"### ||||| فصل
+",000,False,000,False,False,False,5,131
+"### ||||| فصل
+",000,False,000,False,False,False,5,21
+"### ||||| فصل
+",000,False,000,False,False,False,5,74
+"### ||||| فصل
+",000,False,000,False,False,False,5,168
+"### ||||| فصل
+",000,False,000,False,False,False,5,33
+"### ||||| فصل
+",000,False,000,False,False,False,5,173
+"### ||||| فصل
+",000,False,000,False,False,False,5,71
+"### ||||| فصل
+",000,False,000,False,False,False,5,974
+"### ||||| فصل
+",000,False,000,False,False,False,5,243
+"### ||||| فصل
+",000,False,000,False,False,False,5,35
+"### |||| حرف النون في الآباء
+",000,False,000,False,False,False,4,793
+"### ||||| فصل
+",000,False,000,False,False,False,5,362
+"### ||||| فصل
+",000,False,000,False,False,False,5,214
+"### |||| حرف الهاء في الآباء
+",000,False,000,False,False,False,4,542
+"### |||| حرف الواو في الآباء
+",000,False,000,False,False,False,4,516
+"### |||| حرف الياء في الآباء
+",000,False,000,False,False,False,4,3453
+"### ||||| فصل
+",000,False,000,False,False,False,5,655
+"### ||||| فصل
+",000,False,000,False,False,False,5,39
+"### ||||| فصل
+",000,False,000,False,False,False,5,351
+"### ||||| فصل
+",000,False,000,False,False,False,5,403
+"### ||||| فصل
+",000,False,000,False,False,False,5,63
+"### ||||| فصل
+",000,False,000,False,False,False,5,773
+"### ||||| فصل
+",000,False,000,False,False,False,5,581
+"### ||||| فصل
+",000,False,000,False,False,False,5,133
+"### |||| ""زيادات المحمدين من غير رعاية الترتيب في الآباء""
+",000,False,000,False,False,False,4,6233
+"### ||| القول فيمن سوى المحمدين.
+",000,False,000,False,False,False,3,212802
+"### |||| باب الالف
+",000,False,000,False,False,False,4,47992
+"### ||||| الأسم الاول
+",000,False,000,False,False,False,5,6820
+"### ||||| الإسم الثاني أحمد
+",000,False,000,False,False,False,5,27138
+"### ||||| الاسم الثالث ادريس.
+",000,False,000,False,False,False,5,100
+"### ||||| الاسم الرابع اسحاق.
+",000,False,000,False,False,False,5,894
+"### ||||| الاسم الخامس أسعد.
+",000,False,000,False,False,False,5,609
+"### ||||| الاسم السادس اسفنديار.
+",000,False,000,False,False,False,5,256
+"### ||||| الاسم السابع إسماعيل.
+",000,False,000,False,False,False,5,4155
+"### ||||| الإسم الثامن إسكندر.
+",000,False,000,False,False,False,5,203
+"### ||||| الإسم التاسع أشرف.
+",000,False,000,False,False,False,5,112
+"### ||||| الاسم العاشر أعرابي.
+",000,False,000,False,False,False,5,364
+"### ||||| الاسم الحادي عشر.
+",000,False,000,False,False,False,5,29
+"### ||||| الثاني عشر.
+",000,False,000,False,False,False,5,116
+"### ||||| الثالث عشر أميركا وأميره وأميري.
+",000,False,000,False,False,False,5,796
+"### ||||| زيادات حرف الألف من غير رعاية الترتيب في الأسماء والآباء.
+",000,False,000,False,False,False,5,6427
+"### |||| باب الباء منه عشرة أسماء
+",000,False,000,False,False,False,4,3393
+"### ||||| الاسم الأول
+",000,False,000,False,False,False,5,252
+"### ||||| الاسم الثاني
+",000,False,000,False,False,False,5,98
+"### ||||| الاسم الثالث
+",000,False,000,False,False,False,5,38
+"### ||||| الاسم الرابع
+",000,False,000,False,False,False,5,244
+"### ||||| الاسم الخامس
+",000,False,000,False,False,False,5,1409
+"### ||||| الاسم السادس.
+",000,False,000,False,False,False,5,259
+"### ||||| الإسم السابع
+",000,False,000,False,False,False,5,17
+"### ||||| الاسم الثامن
+",000,False,000,False,False,False,5,136
+"### ||||| الاسم التاسع
+",000,False,000,False,False,False,5,852
+"### ||||| الاسم العاشر
+",000,False,000,False,False,False,5,93
+"### |||| باب التاء فيه ثلاثة أسماء
+",000,False,000,False,False,False,4,386
+"### |||| باب الثاء
+",000,False,000,False,False,False,4,175
+"### |||| باب الجيم فيه ستة أسماء.
+",000,False,000,False,False,False,4,2715
+"### ||||| الاسم الأول
+",000,False,000,False,False,False,5,88
+"### ||||| الاسم الثاني
+",000,False,000,False,False,False,5,21
+"### ||||| الاسم الثالث
+",000,False,000,False,False,False,5,329
+"### ||||| الاسم الرابع
+",000,False,000,False,False,False,5,2028
+"### ||||| الإسم الخامس
+",000,False,000,False,False,False,5,41
+"### ||||| الاسم السادس
+",000,False,000,False,False,False,5,209
+"### |||| باب الحاء فيه سبعة عشرة أسماء
+",000,False,000,False,False,False,4,19277
+"### ||||| الإسم الأول
+",000,False,000,False,False,False,5,93
+"### ||||| الاسم الثاني
+",000,False,000,False,False,False,5,543
+"### ||||| الاسم الثالث
+",000,False,000,False,False,False,5,38
+"### ||||| الاسم الرابع
+",000,False,000,False,False,False,5,319
+"### ||||| الاسم الخامس
+",000,False,000,False,False,False,5,760
+"### ||||| الاسم السادس
+",000,False,000,False,False,False,5,9115
+"### ||||| الاسم السابع
+",000,False,000,False,False,False,5,4859
+"### ||||| الاسم الثامن
+",000,False,000,False,False,False,5,34
+"### ||||| الاسم التاسع
+",000,False,000,False,False,False,5,27
+"### ||||| الاسم العاشر
+",000,False,000,False,False,False,5,82
+"### ||||| الحادي عشر
+",000,False,000,False,False,False,5,1032
+"### ||||| الاسم الثالث عشر
+",000,False,000,False,False,False,5,108
+"### ||||| الرابع عشر
+",000,False,000,False,False,False,5,177
+"### ||||| الخامس عشر
+",000,False,000,False,False,False,5,1333
+"### ||||| الاسم السادس عشر.
+",000,False,000,False,False,False,5,88
+"### ||||| الاسم السابع عشر
+",000,False,000,False,False,False,5,193
+"### ||||| فصل
+",000,False,000,False,False,False,5,63
+"### ||||| زيادات حرف الحاء من غير رعاية الترتيب. في الأسماء والآباء.
+",000,False,000,False,False,False,5,433
+"### |||| باب الخاء فيه عشرة أسماء.
+",000,False,000,False,False,False,4,4337
+"### ||||| الاسم الأول
+",000,False,000,False,False,False,5,112
+"### ||||| الاسم الثاني
+",000,False,000,False,False,False,5,92
+"### ||||| الاسم الثالث
+",000,False,000,False,False,False,5,214
+"### ||||| الاسم الرابع
+",000,False,000,False,False,False,5,245
+"### ||||| الاسم الخامس
+",000,False,000,False,False,False,5,654
+"### ||||| الاسم السادس
+",000,False,000,False,False,False,5,335
+"### ||||| الاسم التاسع
+",000,False,000,False,False,False,5,748
+"### ||||| الاسم الثامن.
+",000,False,000,False,False,False,5,1675
+"### ||||| الإسم التاسع
+",000,False,000,False,False,False,5,164
+"### ||||| الاسم العاشر
+",000,False,000,False,False,False,5,109
+"### |||| باب الدال فيه سبعة أسماء
+",000,False,000,False,False,False,4,2145
+"### ||||| الاسم الاول
+",000,False,000,False,False,False,5,1281
+"### ||||| الاسم الثاني
+",000,False,000,False,False,False,5,19
+"### ||||| الاسم الثالث
+",000,False,000,False,False,False,5,84
+"### ||||| الاسم الرابع
+",000,False,000,False,False,False,5,138
+"### ||||| الاسم الخامس
+",000,False,000,False,False,False,5,206
+"### ||||| الاسم السادس
+",000,False,000,False,False,False,5,83
+"### ||||| الاسم السابع
+",000,False,000,False,False,False,5,208
+"### ||||| زيادات الدال
+",000,False,000,False,False,False,5,131
+"### |||| باب الذال
+",000,False,000,False,False,False,4,832
+"### |||| باب الراء. فيه أسماء ثمانية.
+",000,False,000,False,False,False,4,1169
+"### ||||| الأول
+",000,False,000,False,False,False,5,25
+"### ||||| الاسم الثاني
+",000,False,000,False,False,False,5,99
+"### ||||| الاسم الثالث
+",000,False,000,False,False,False,5,296
+"### ||||| الاسم الرابع
+",000,False,000,False,False,False,5,188
+"### ||||| الاسم الخامس
+",000,False,000,False,False,False,5,171
+"### ||||| الاسم السادس
+",000,False,000,False,False,False,5,74
+"### ||||| الاسم السابع
+",000,False,000,False,False,False,5,105
+"### ||||| الاسم الثامن
+",000,False,000,False,False,False,5,130
+"### ||||| زيادات حرف الراء
+",000,False,000,False,False,False,5,86
+"### |||| باب الزاي فيه سبعة أسماء 
+",000,False,000,False,False,False,4,1770
+"### ||||| الأول
+",000,False,000,False,False,False,5,468
+"### ||||| الاسم الثاني
+",000,False,000,False,False,False,5,212
+"### ||||| الاسم الثالث
+",000,False,000,False,False,False,5,217
+"### ||||| الاسم الرابع
+",000,False,000,False,False,False,5,239
+"### ||||| الاسم الخامس
+",000,False,000,False,False,False,5,57
+"### ||||| الاسم السادس
+",000,False,000,False,False,False,5,30
+"### ||||| الاسم السابع
+",000,False,000,False,False,False,5,414
+"### ||||| زيادات الزاي
+",000,False,000,False,False,False,5,147
+"### |||| باب السين أربعة عشر أسماء
+",000,False,000,False,False,False,4,6953
+"### ||||| الاسم الأول
+",000,False,000,False,False,False,5,107
+"### ||||| الاسم الثاني
+",000,False,000,False,False,False,5,91
+"### ||||| الاسم الثالث
+",000,False,000,False,False,False,5,1241
+"### ||||| الاسم الرابع
+",000,False,000,False,False,False,5,1804
+"### ||||| الاسم الخامس
+",000,False,000,False,False,False,5,324
+"### ||||| الاسم السادس
+",000,False,000,False,False,False,5,109
+"### ||||| الاسم السابع
+",000,False,000,False,False,False,5,1688
+"### ||||| الاسم الثامن
+",000,False,000,False,False,False,5,21
+"### ||||| الاسم التاسع
+",000,False,000,False,False,False,5,205
+"### ||||| الاسم العاشر
+",000,False,000,False,False,False,5,210
+"### ||||| الاسم الحادي عشر
+",000,False,000,False,False,False,5,532
+"### ||||| الاسم الثاني عشر
+",000,False,000,False,False,False,5,92
+"### ||||| الاسم الثالث عشر
+",000,False,000,False,False,False,5,24
+"### ||||| الاسم الرابع عشر
+",000,False,000,False,False,False,5,69
+"### ||||| زيادات حرف السين
+",000,False,000,False,False,False,5,446
+"### |||| باب الشين فيه ثلاثة عشر اسماء
+",000,False,000,False,False,False,4,3380
+"### ||||| الاسم الاول
+",000,False,000,False,False,False,5,138
+"### ||||| الاسم الثاني
+",000,False,000,False,False,False,5,81
+"### ||||| الاسم الثالث
+",000,False,000,False,False,False,5,1038
+"### ||||| الاسم الرابع
+",000,False,000,False,False,False,5,644
+"### ||||| الاسم الخامس
+",000,False,000,False,False,False,5,35
+"### ||||| الاسم السادس
+",000,False,000,False,False,False,5,60
+"### ||||| الاسم السابع
+",000,False,000,False,False,False,5,72
+"### ||||| الاسم الثامن
+",000,False,000,False,False,False,5,90
+"### ||||| الاسم التاسع
+",000,False,000,False,False,False,5,178
+"### ||||| الاسم العاشر
+",000,False,000,False,False,False,5,110
+"### ||||| الاسم الحادي عشر
+",000,False,000,False,False,False,5,86
+"### ||||| الاسم الثاني عشر
+",000,False,000,False,False,False,5,248
+"### ||||| الاسم الثالث عشر
+",000,False,000,False,False,False,5,306
+"### ||||| زيادات حرف السين
+",000,False,000,False,False,False,5,301
+"### |||| باب الصاد فيه خمسة أسماء
+",000,False,000,False,False,False,4,1612
+"### ||||| الاسم الأول
+",000,False,000,False,False,False,5,59
+"### ||||| الاسم الثاني
+",000,False,000,False,False,False,5,44
+"### ||||| الاسم الثالث
+",000,False,000,False,False,False,5,329
+"### ||||| الاسم الرابع
+",000,False,000,False,False,False,5,1056
+"### ||||| الاسم الخامس
+",000,False,000,False,False,False,5,38
+"### ||||| زيادات حرف الصاد
+",000,False,000,False,False,False,5,87
+"### |||| باب الضاد
+",000,False,000,False,False,False,4,196
+"### |||| باب الطاء فيه أسماء
+",000,False,000,False,False,False,4,2842
+"### ||||| الاسم الأول
+",000,False,000,False,False,False,5,1790
+"### ||||| الاسم الثاني
+",000,False,000,False,False,False,5,205
+"### ||||| الاسم الثالث
+",000,False,000,False,False,False,5,85
+"### ||||| الاسم الرابع
+",000,False,000,False,False,False,5,44
+"### ||||| الاسم الخامس
+",000,False,000,False,False,False,5,465
+"### ||||| زيادات حرف الطاء
+",000,False,000,False,False,False,5,255
+"### |||| باب الظاء
+",000,False,000,False,False,False,4,678
+"### |||| باب العين
+",000,False,000,False,False,False,4,76580
+"### ||||| الاسم الاول
+",000,False,000,False,False,False,5,131
+"### ||||| الاسم الثاني
+",000,False,000,False,False,False,5,64
+"### ||||| الاسم الثالث
+",000,False,000,False,False,False,5,50
+"### ||||| الاسم الرابع
+",000,False,000,False,False,False,5,229
+"### ||||| الاسم الخامس
+",000,False,000,False,False,False,5,2442
+"### ||||| الاسم السادس
+",000,False,000,False,False,False,5,918
+"### ||||| الاسم السابع
+",000,False,000,False,False,False,5,82
+"### ||||| الاسم الثامن
+",000,False,000,False,False,False,5,724
+"### ||||| الاسم التاسع
+",000,False,000,False,False,False,5,86
+"### ||||| الاسم العاشر
+",000,False,000,False,False,False,5,4786
+"### ||||| الاسم الحادي عشر
+",000,False,000,False,False,False,5,1153
+"### ||||| الاسم الثاني عشر
+",000,False,000,False,False,False,5,608
+"### ||||| الاسم الثالث عشر
+",000,False,000,False,False,False,5,31
+"### ||||| الاسم الرايع عشر
+",000,False,000,False,False,False,5,81
+"### ||||| الاسم الخامس عشر
+",000,False,000,False,False,False,5,1361
+"### ||||| الاسم السابع عشر
+",000,False,000,False,False,False,5,2470
+"### ||||| الاسم الثامن عشر
+",000,False,000,False,False,False,5,486
+"### ||||| الاسم التاسع عشر
+",000,False,000,False,False,False,5,117
+"### ||||| الاسم العشرون
+",000,False,000,False,False,False,5,109
+"### ||||| الاسم الحادي والعشرون
+",000,False,000,False,False,False,5,33
+"### ||||| الاسم الثاني والعشرون
+",000,False,000,False,False,False,5,39
+"### ||||| الاسم الثالث والعشرون
+",000,False,000,False,False,False,5,2058
+"### ||||| الاسم الرابع والعشرون
+",000,False,000,False,False,False,5,80
+"### ||||| الاسم الخامس والعشرون
+",000,False,000,False,False,False,5,8236
+"### ||||| الاسم السادس والعشرون
+",000,False,000,False,False,False,5,507
+"### ||||| الاسم السابع والعشرون
+",000,False,000,False,False,False,5,26
+"### ||||| الاسم الثامن والعشرون
+",000,False,000,False,False,False,5,89
+"### ||||| الاسم التاسع والعشرون
+",000,False,000,False,False,False,5,29
+"### ||||| الاسم الثلاثون
+",000,False,000,False,False,False,5,2275
+"### ||||| الاسم الحادي والثلاثون
+",000,False,000,False,False,False,5,1058
+"### ||||| الاسم ms0878 الثاني والثلاثون
+",000,False,000,False,False,False,5,228
+"### ||||| الاسم الثالث والثلاثون
+",000,False,000,False,False,False,5,474
+"### ||||| الاسم الرابع والثلاثون
+",000,False,000,False,False,False,5,1789
+"### ||||| الاسم الخامس والثلاثون
+",000,False,000,False,False,False,5,23
+"### ||||| الاسم السادس والثلاثون
+",000,False,000,False,False,False,5,39
+"### ||||| الاسم السابع والثلاثون
+",000,False,000,False,False,False,5,477
+"### ||||| الاسم الثامن والثلاثون
+",000,False,000,False,False,False,5,2182
+"### ||||| الاسم التاسع والثلاثون
+",000,False,000,False,False,False,5,30
+"### ||||| الاسم الأربعون
+",000,False,000,False,False,False,5,398
+"### ||||| الاسم الحادي والاربعون
+",000,False,000,False,False,False,5,55
+"### ||||| الاسم الثاني والاربعون
+",000,False,000,False,False,False,5,640
+"### ||||| الاسم الثالث والاربعون
+",000,False,000,False,False,False,5,72
+"### ||||| الاسم الرابع والأربعون
+",000,False,000,False,False,False,5,435
+"### ||||| الاسم الخامس والأربعون
+",000,False,000,False,False,False,5,116
+"### ||||| الاسم السادس والأربعون
+",000,False,000,False,False,False,5,81
+"### ||||| الاسم السابع والأربعون
+",000,False,000,False,False,False,5,62
+"### ||||| الاسم الثامن والأربعون
+",000,False,000,False,False,False,5,82
+"### ||||| الاسم التاسع والأربعون
+",000,False,000,False,False,False,5,24377
+"### ||||| الاسم الخمسون
+",000,False,000,False,False,False,5,92
+"### ||||| الاسم الحادي والخمسون
+",000,False,000,False,False,False,5,4557
+"### ||||| الثاني والخمسون
+",000,False,000,False,False,False,5,797
+"### ||||| الاسم الثالث والخمسون
+",000,False,000,False,False,False,5,39
+"### ||||| الاسم الرابع والخمسون
+",000,False,000,False,False,False,5,97
+"### ||||| الاسم الخامس والخمسون
+",000,False,000,False,False,False,5,344
+"### ||||| الاسم السادس والخمسون
+",000,False,000,False,False,False,5,67
+"### ||||| الاسم السابع والخمسون
+",000,False,000,False,False,False,5,23
+"### ||||| الاسم الثامن والخمسون
+",000,False,000,False,False,False,5,956
+"### ||||| زيادات حرف العين
+",000,False,000,False,False,False,5,4942
+"### ||||| زيادات حرف العين
+",000,False,000,False,False,False,5,2825
+"### |||| باب الغين فيه خمسة أسماء
+",000,False,000,False,False,False,4,685
+"### ||||| الاسم الأول
+",000,False,000,False,False,False,5,132
+"### ||||| الاسم الثاني
+",000,False,000,False,False,False,5,90
+"### ||||| الاسم الثالث
+",000,False,000,False,False,False,5,217
+"### ||||| الاسم الرابع
+",000,False,000,False,False,False,5,185
+"### ||||| الاسم الخامس
+",000,False,000,False,False,False,5,34
+"### ||||| الزيادات
+",000,False,000,False,False,False,5,28
+"### |||| باب الفاء عشر أسماء.
+",000,False,000,False,False,False,4,3579
+"### ||||| الاسم الأول
+",000,False,000,False,False,False,5,70
+"### ||||| الاسم الثاني
+",000,False,000,False,False,False,5,246
+"### ||||| الاسم الثالث
+",000,False,000,False,False,False,5,97
+"### ||||| الاسم الرابع
+",000,False,000,False,False,False,5,109
+"### ||||| الاسم الخامس
+",000,False,000,False,False,False,5,62
+"### ||||| الاسم السادس
+",000,False,000,False,False,False,5,283
+"### ||||| الاسم السابع
+",000,False,000,False,False,False,5,124
+"### ||||| الاسم الثامن
+",000,False,000,False,False,False,5,282
+"### ||||| الاسم التاسع
+",000,False,000,False,False,False,5,123
+"### ||||| الاسم العاشر
+",000,False,000,False,False,False,5,1043
+"### ||||| الاسم الحادي عشر
+",000,False,000,False,False,False,5,308
+"### ||||| الاسم الثاني عشر
+",000,False,000,False,False,False,5,245
+"### ||||| الاسم الثالث عشر
+",000,False,000,False,False,False,5,127
+"### ||||| الاسم الرابع عشر
+",000,False,000,False,False,False,5,20
+"### ||||| زيادات حرف الفاء
+",000,False,000,False,False,False,5,451
+"### |||| باب القاف فيه سبعة أسماء
+",000,False,000,False,False,False,4,2305
+"### ||||| الاسم الأول: القرا
+",000,False,000,False,False,False,5,70
+"### ||||| الاسم الثاني
+",000,False,000,False,False,False,5,16
+"### ||||| الاسم الثالث
+",000,False,000,False,False,False,5,307
+"### ||||| الاسم الرابع
+",000,False,000,False,False,False,5,1761
+"### ||||| الاسم الخامس.
+",000,False,000,False,False,False,5,26
+"### ||||| الاسم السادس
+",000,False,000,False,False,False,5,76
+"### ||||| الاسم السابع
+",000,False,000,False,False,False,5,20
+"### ||||| زيادات القاف
+",000,False,000,False,False,False,5,32
+"### |||| باب الكاف فيه خمسة أسماء
+",000,False,000,False,False,False,4,755
+"### ||||| الاسم الأول: كثير
+",000,False,000,False,False,False,5,465
+"### ||||| الاسم الثاني
+",000,False,000,False,False,False,5,134
+"### ||||| الاسم الثالث
+",000,False,000,False,False,False,5,45
+"### ||||| الاسم الرابع
+",000,False,000,False,False,False,5,103
+"### ||||| الاسم لخامس: كيا
+",000,False,000,False,False,False,5,17
+"### |||| باب ms1068 اللام فيه إسمان
+",000,False,000,False,False,False,4,493
+"### ||||| الاسم الاول: لاحق
+",000,False,000,False,False,False,5,373
+"### ||||| الاسم الثاني
+",000,False,000,False,False,False,5,16
+"### ||||| الزيادات
+",000,False,000,False,False,False,5,103
+"### |||| باب الميم فيه سبعة وأربعون أسماء
+",000,False,000,False,False,False,4,17473
+"### ||||| الاسم الأول
+",000,False,000,False,False,False,5,30
+"### ||||| الاسم الثاني: المؤيد
+",000,False,000,False,False,False,5,215
+"### ||||| الاسم الثالث
+",000,False,000,False,False,False,5,144
+"### ||||| الاسم الرابع
+",000,False,000,False,False,False,5,198
+"### ||||| الاسم الخامس
+",000,False,000,False,False,False,5,93
+"### ||||| الاسم السادس
+",000,False,000,False,False,False,5,963
+"### ||||| الاسم السابع
+",000,False,000,False,False,False,5,62
+"### ||||| الاسم الثامن
+",000,False,000,False,False,False,5,236
+"### ||||| الاسم التاسع
+",000,False,000,False,False,False,5,2422
+"### ||||| الاسم العاشر
+",000,False,000,False,False,False,5,143
+"### ||||| الاسم الحادي عشر
+",000,False,000,False,False,False,5,38
+"### ||||| الاسم الثاني عشر
+",000,False,000,False,False,False,5,28
+"### ||||| الاسم الثالث عشر
+",000,False,000,False,False,False,5,88
+"### ||||| الاسم الرابع عشر
+",000,False,000,False,False,False,5,150
+"### ||||| الاسم الخامس عشر
+",000,False,000,False,False,False,5,24
+"### ||||| الاسم السادس عشر
+",000,False,000,False,False,False,5,44
+"### ||||| الاسم السابع عشر
+",000,False,000,False,False,False,5,438
+"### ||||| الاسم الثامن عشر
+",000,False,000,False,False,False,5,636
+"### ||||| الاسم التاسع عشر
+",000,False,000,False,False,False,5,424
+"### ||||| الاسم العشرون
+",000,False,000,False,False,False,5,136
+"### ||||| الاسم الحادي والعشرون
+",000,False,000,False,False,False,5,73
+"### ||||| الاسم الثاني والعشرون
+",000,False,000,False,False,False,5,125
+"### ||||| الاسم الثالث والعشرون
+",000,False,000,False,False,False,5,20
+"### ||||| الاسم الرابع والعشرون
+",000,False,000,False,False,False,5,245
+"### ||||| الاسم الخامس والعشرون
+",000,False,000,False,False,False,5,908
+"### ||||| الاسم السادس والعشرون
+",000,False,000,False,False,False,5,271
+"### ||||| الاسم السابع والعشرون
+",000,False,000,False,False,False,5,100
+"### ||||| الاسم الثامن والعشرون
+",000,False,000,False,False,False,5,37
+"### ||||| الاسم التاسع والعشرن ms1099: المعالي
+",000,False,000,False,False,False,5,148
+"### ||||| الاسم الثلاثون
+",000,False,000,False,False,False,5,89
+"### ||||| الاسم الحادي والثلاثون
+",000,False,000,False,False,False,5,85
+"### ||||| الاسم الثاني والثلاثون
+",000,False,000,False,False,False,5,144
+"### ||||| الاسم الثالث الثلاثون: المليح
+",000,False,000,False,False,False,5,32
+"### ||||| الاسم الرابع والثلاثون
+",000,False,000,False,False,False,5,1110
+"### ||||| الاسم الخامس والثلاثون
+",000,False,000,False,False,False,5,99
+"### ||||| الاسم السادس والثلاثون
+",000,False,000,False,False,False,5,142
+"### ||||| الاسم السابع والثلاثون
+",000,False,000,False,False,False,5,2143
+"### ||||| الاسم الثامن والثلاثون
+",000,False,000,False,False,False,5,341
+"### ||||| الاسم التاسع والثلاثون
+",000,False,000,False,False,False,5,85
+"### ||||| الاسم الأربعون
+",000,False,000,False,False,False,5,28
+"### ||||| الاسم الحادي والأربعون
+",000,False,000,False,False,False,5,1742
+"### ||||| الاسم الثاني والأربعون
+",000,False,000,False,False,False,5,140
+"### ||||| الاسم الثالث والأربعون
+",000,False,000,False,False,False,5,15
+"### ||||| الاسم الرابع والاربعون: أبو المواهب
+",000,False,000,False,False,False,5,33
+"### ||||| الاسم الخامس والأربعون
+",000,False,000,False,False,False,5,353
+"### ||||| الاسم السادس والأربعون
+",000,False,000,False,False,False,5,99
+"### ||||| الاسم السابع والأربعون
+",000,False,000,False,False,False,5,54
+"### ||||| زيادات حرف الميم من غير رعاية الترتيب في الاباء
+",000,False,000,False,False,False,5,2343
+"### |||| باب النون فيه تسعة أسماء
+",000,False,000,False,False,False,4,4932
+"### ||||| الاسم الأول
+",000,False,000,False,False,False,5,86
+"### ||||| الاسم الثاني
+",000,False,000,False,False,False,5,221
+"### ||||| الاسم الثالث
+",000,False,000,False,False,False,5,1371
+"### ||||| الاسم الرابع
+",000,False,000,False,False,False,5,1910
+"### ||||| الاسم الخامس
+",000,False,000,False,False,False,5,92
+"### ||||| الاسم السادس
+",000,False,000,False,False,False,5,18
+"### ||||| الاسم السابع
+",000,False,000,False,False,False,5,249
+"### ||||| الاسم الثامن
+",000,False,000,False,False,False,5,789
+"### ||||| زيادات حرف النون
+",000,False,000,False,False,False,5,202
+"### |||| باب الهاء منه أسماء
+",000,False,000,False,False,False,4,4065
+"### ||||| الاسم الأول: هبة الله
+",000,False,000,False,False,False,5,1461
+"### ||||| الاسم الثاني
+",000,False,000,False,False,False,5,57
+"### ||||| الاسم الثالث
+",000,False,000,False,False,False,5,60
+"### ||||| الاسم الرابع
+",000,False,000,False,False,False,5,1702
+"### ||||| الاسم الخامس
+",000,False,000,False,False,False,5,345
+"### ||||| الاسم السادس
+",000,False,000,False,False,False,5,83
+"### ||||| الاسم السابع
+",000,False,000,False,False,False,5,152
+"### ||||| الاسم الثامن
+",000,False,000,False,False,False,5,25
+"### ||||| زيادات الهاء
+",000,False,000,False,False,False,5,185
+"### |||| باب الواو فيه خمسة أسماء
+",000,False,000,False,False,False,4,1560
+"### ||||| الاسم الأول
+",000,False,000,False,False,False,5,171
+"### ||||| الاسم الثاني
+",000,False,000,False,False,False,5,863
+"### ||||| الاسم الثالث
+",000,False,000,False,False,False,5,71
+"### ||||| الاسم الرابع
+",000,False,000,False,False,False,5,204
+"### ||||| الاسم الخامس
+",000,False,000,False,False,False,5,135
+"### ||||| الزيادات
+",000,False,000,False,False,False,5,123
+"### |||| باب الياء فيه سبعة أسماء
+",000,False,000,False,False,False,4,565
+"### ||||| الاسم الأول
+",000,False,000,False,False,False,5,565

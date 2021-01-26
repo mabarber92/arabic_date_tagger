@@ -1,0 +1,789 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | المجلد الأول: (
+",000,False,000,False,False,False,1,4
+"### | كتاب العقائد
+",000,False,000,False,False,False,1,2
+"### | مقدمة
+",000,False,000,False,False,False,1,5
+"### | 1- 
+",000,False,000,False,False,False,1,208
+"### | 2- 
+",000,False,000,False,False,False,1,719
+"### | 3- 
+",000,False,000,False,False,False,1,2042
+"### | كتاب العقائد
+",000,False,000,False,False,False,1,97179
+"### | المجلد الثاني: (
+",000,False,000,False,False,False,1,4
+"### | كتاب التوحيد
+",000,False,000,False,False,False,1,49891
+"### | ......................................... 
+",000,False,000,False,False,False,1,5601
+"### | .... 
+",000,False,000,False,False,False,1,5815
+"### | المجلد الثالث: (
+",000,False,000,False,False,False,1,4
+"### | كتاب الأسماء والصفات
+",000,False,000,False,False,False,1,22871
+"### | .... 
+",000,False,000,False,False,False,1,911
+"### | .................. 
+",000,False,000,False,False,False,1,42405
+"### | المجلد الرابع: (القسم الأول من كتاب العبادات)
+",000,False,000,False,False,False,1,14
+"### | *
+",000,False,000,False,False,False,1,0
+"### | فصل: في أصول مأخذهم
+",000,False,000,False,False,False,1,14772
+"### | ................. 
+",000,False,000,False,False,False,1,3197
+"### | فصل: في أصول الفقه
+",000,False,000,False,False,False,1,3207
+"### | .................................... 
+",000,False,000,False,False,False,1,241
+"### | .................................... 
+",000,False,000,False,False,False,1,479
+"### | باب الطهارة
+",000,False,000,False,False,False,1,2133
+"### | باب الاستنجاء
+",000,False,000,False,False,False,1,225
+"### | باب السواك وسنن الفطرة
+",000,False,000,False,False,False,1,867
+"### | باب الوضوء
+",000,False,000,False,False,False,1,626
+"### | باب المسح على الخفين
+",000,False,000,False,False,False,1,294
+"### | باب نواقض الوضوء
+",000,False,000,False,False,False,1,306
+"### | باب الغسل
+",000,False,000,False,False,False,1,1244
+"### | باب التيمم
+",000,False,000,False,False,False,1,1237
+"### | باب إزالة النجاسة
+",000,False,000,False,False,False,1,1759
+"### | باب الحيض
+",000,False,000,False,False,False,1,1184
+"### | كتاب الصلاة
+",000,False,000,False,False,False,1,1373
+"### | باب الأذان
+",000,False,000,False,False,False,1,1714
+"### | باب شروط الصلاة
+",000,False,000,False,False,False,1,11031
+"### | باب صفة الصلاة
+",000,False,000,False,False,False,1,7407
+"### | فصل أركان الصلاة
+",000,False,000,False,False,False,1,1404
+"### | باب سجود السهو
+",000,False,000,False,False,False,1,805
+"### | باب صلاة التطوع
+",000,False,000,False,False,False,1,7609
+"### | باب صلاة الجماعة
+",000,False,000,False,False,False,1,3758
+"### | فصل في الإمامة
+",000,False,000,False,False,False,1,2652
+"### | باب صلاة أهل الأعذار
+",000,False,000,False,False,False,1,2635
+"### | المجلد الخامس: (القسم الثاني من كتاب العبادات)
+",000,False,000,False,False,False,1,14
+"### | باب صلاة الجمعة
+",000,False,000,False,False,False,1,9968
+"### | باب صلاة العيدين
+",000,False,000,False,False,False,1,1041
+"### | باب صلاة الكسوف
+",000,False,000,False,False,False,1,306
+"### | باب الاستسقاء
+",000,False,000,False,False,False,1,94
+"### | كتاب الجنائز
+",000,False,000,False,False,False,1,17728
+"### | كتاب الزكاة
+",000,False,000,False,False,False,1,281
+"### | فصل في زكاة الحبوب والثمار
+",000,False,000,False,False,False,1,4119
+"### | فصل: في العروض
+",000,False,000,False,False,False,1,651
+"### | فصل في صدقة الفطر
+",000,False,000,False,False,False,1,2498
+"### | فصل ms1215 في إخراج الزكاة
+",000,False,000,False,False,False,1,3413
+"### | فصل [في مصرف الزكاة]
+",000,False,000,False,False,False,1,3557
+"### | كتاب الصيام
+",000,False,000,False,False,False,1,17903
+"### | كتاب الحج
+",000,False,000,False,False,False,1,6980
+"### | باب الأضاحي
+",000,False,000,False,False,False,1,1519
+"### | فصل في العقيقة
+",000,False,000,False,False,False,1,987
+"### | المجلد السادس: (كتاب البيع)
+",000,False,000,False,False,False,1,8
+"### | *
+",000,False,000,False,False,False,1,2357
+"### | ..... 
+",000,False,000,False,False,False,1,795
+"### | .... 
+",000,False,000,False,False,False,1,2127
+"### | باب الشروط في البيع
+",000,False,000,False,False,False,1,3002
+"### | باب الخيار
+",000,False,000,False,False,False,1,1689
+"### | فصل في خيار العيب
+",000,False,000,False,False,False,1,3468
+"### | فصل (لزوم البيع)
+",000,False,000,False,False,False,1,1466
+"### | باب الربا
+",000,False,000,False,False,False,1,5242
+"### | فصل بيع الدين بالدين
+",000,False,000,False,False,False,1,2047
+"### | فصل (الوفاء في العقد الفاسد)
+",000,False,000,False,False,False,1,1014
+"### | فصل (حكم التعامل بالجدد حين رخصت وصارت الفضة فيها أكثر من المقابل)
+",000,False,000,False,False,False,1,2933
+"### | باب بيع الأصول والثمار
+",000,False,000,False,False,False,1,1842
+"### | باب السلم
+",000,False,000,False,False,False,1,2412
+"### | فصل (بعض صور المعاملات الربوية)
+",000,False,000,False,False,False,1,5004
+"### | باب القرض
+",000,False,000,False,False,False,1,3284
+"### | باب الرهن
+",000,False,000,False,False,False,1,4964
+"### | فصل: (اختلاف الراهن والمرتهن)
+",000,False,000,False,False,False,1,748
+"### | باب الضمان
+",000,False,000,False,False,False,1,639
+"### | باب الحوالة
+",000,False,000,False,False,False,1,235
+"### | باب الصلح
+",000,False,000,False,False,False,1,2231
+"### | باب الحجر
+",000,False,000,False,False,False,1,2727
+"### | فصل: (دفع إلى السفيه أو الصبي أو المجنون ماله ببيع أو قرض)
+",000,False,000,False,False,False,1,523
+"### | باب الوكالة
+",000,False,000,False,False,False,1,1038
+"### | باب الشركة
+",000,False,000,False,False,False,1,1166
+"### | فصل (المضاربة بالعروض والمغشوش)
+",000,False,000,False,False,False,1,4369
+"### | فصل (حكم المزارعة)
+",000,False,000,False,False,False,1,2119
+"### | باب الإجارة
+",000,False,000,False,False,False,1,6344
+"### | باب العارية
+",000,False,000,False,False,False,1,803
+"### | باب الغصب
+",000,False,000,False,False,False,1,8252
+"### | باب الشفعة
+",000,False,000,False,False,False,1,2186
+"### | باب الوديعة
+",000,False,000,False,False,False,1,213
+"### | .... 
+",000,False,000,False,False,False,1,145
+"### | باب إحياء الموات
+",000,False,000,False,False,False,1,3367
+"### | باب الجعالة
+",000,False,000,False,False,False,1,387
+"### | باب اللقطة
+",000,False,000,False,False,False,1,833
+"### | المجلد السابع: (من 
+",000,False,000,False,False,False,1,6
+"### | كتاب الوقف
+",000,False,000,False,False,False,1,12174
+"### | باب الهبة والعطية
+",000,False,000,False,False,False,1,4212
+"### | كتاب الوصايا
+",000,False,000,False,False,False,1,3959
+"### | كتاب الفرائض
+",000,False,000,False,False,False,1,3812
+"### | كتاب العتق
+",000,False,000,False,False,False,1,1795
+"### | كتاب النكاح
+",000,False,000,False,False,False,1,2110
+"### | باب المحرمات في النكاح
+",000,False,000,False,False,False,1,4332
+"### | باب الشروط والعيوب في النكاح
+",000,False,000,False,False,False,1,636
+"### | باب نكاح الكفار
+",000,False,000,False,False,False,1,856
+"### | كتاب الصداق
+",000,False,000,False,False,False,1,1231
+"### | باب وليمة العرس
+",000,False,000,False,False,False,1,77
+"### | .... 
+",000,False,000,False,False,False,1,5555
+"### | باب عشرة النساء
+",000,False,000,False,False,False,1,833
+"### | باب الخلع
+",000,False,000,False,False,False,1,2735
+"### | كتاب الطلاق
+",000,False,000,False,False,False,1,9211
+"### | باب تعليق الطلاق بالشروط
+",000,False,000,False,False,False,1,1234
+"### | باب الرجعة
+",000,False,000,False,False,False,1,323
+"### | كتاب الظهار
+",000,False,000,False,False,False,1,558
+"### | .... 
+",000,False,000,False,False,False,1,882
+"### | كتاب العدد
+",000,False,000,False,False,False,1,2297
+"### | [فصل في صفة الإحداد]
+",000,False,000,False,False,False,1,575
+"### | كتاب الرضاع
+",000,False,000,False,False,False,1,636
+"### | باب النفقات
+",000,False,000,False,False,False,1,741
+"### | باب الحضانة
+",000,False,000,False,False,False,1,238
+"### | كتاب الجنايات
+",000,False,000,False,False,False,1,3170
+"### | كتاب الديات
+",000,False,000,False,False,False,1,1662
+"### | [فصل في دية العين والسمع والبصر]
+",000,False,000,False,False,False,1,1248
+"### | [فصل في الذين لا يلزمهم عقل]
+",000,False,000,False,False,False,1,771
+"### | كتاب الحدود
+",000,False,000,False,False,False,1,2129
+"### | باب حد القذف
+",000,False,000,False,False,False,1,507
+"### | باب حد المسكر
+",000,False,000,False,False,False,1,3441
+"### | باب القطع في السرقة
+",000,False,000,False,False,False,1,1212
+"### | باب حد قطاع الطريق
+",000,False,000,False,False,False,1,51
+"### | كتاب الأطعمة
+",000,False,000,False,False,False,1,975
+"### | باب الذكاة
+",000,False,000,False,False,False,1,6163
+"### | كتاب الأيمان والنذور
+",000,False,000,False,False,False,1,737
+"### | [فصل في حكم النذر]
+",000,False,000,False,False,False,1,2234
+"### | كتاب القضاء
+",000,False,000,False,False,False,1,6712
+"### | باب القسمة
+",000,False,000,False,False,False,1,994
+"### | باب الدعاوى والبينات
+",000,False,000,False,False,False,1,1410
+"### | كتاب الشهادات
+",000,False,000,False,False,False,1,2001
+"### | باب الإقرار
+",000,False,000,False,False,False,1,415
+"### | المجلد الثامن: (القسم الأول من: كتاب الجهاد)
+",000,False,000,False,False,False,1,14
+"### | كتاب الجهاد (حكمه، وفضله ms1974، والحث عليه)
+",000,False,000,False,False,False,1,12
+"### | *
+",000,False,000,False,False,False,1,7644
+"### | فصل: [في الأمر بالمعروف والنهي عن المنكر]
+",000,False,000,False,False,False,1,3346
+"### | فصل: [ترك الأمر بالمعروف والنهي عن المنكر على سبيل المداهنة]
+",000,False,000,False,False,False,1,4056
+"### | فصل: [ما جاء في الأمر بالمعروف والنهي عن المنكر]
+",000,False,000,False,False,False,1,9525
+"### | فصل: في ذكر الآثار عن السلف [في تحريم موالاة المشركين]
+",000,False,000,False,False,False,1,430
+"### | فصل: في التنبيه على حاصل ما تقدم [في حكم موالاة المشركين]
+",000,False,000,False,False,False,1,3410
+"### | 138-139 
+",000,False,000,False,False,False,1,9539
+"### | 79-81 
+",000,False,000,False,False,False,1,14627
+"### | ................................. 
+",000,False,000,False,False,False,1,29922
+"### | المجلد التاسع: (القسم الثاني من: كتاب الجهاد، وأول كتاب حكم المرتد)
+",000,False,000,False,False,False,1,22
+"### | تابع كتاب الجهاد
+",000,False,000,False,False,False,1,6
+"### | فصل: (في الإمامة، والبيعة، والسمع والطاعة)
+",000,False,000,False,False,False,1,38258
+"### | فصل: [فصل في قتال من ترك التوحيد]
+",000,False,000,False,False,False,1,19521
+"### | كتاب حكم المرتد
+",000,False,000,False,False,False,1,3728
+"### | .... 
+",000,False,000,False,False,False,1,12715
+"### | المجلد العاشر: (القسم الأخير من كتاب حكم المرتد)
+",000,False,000,False,False,False,1,16
+"### | تابع كتاب حكم المرتد
+",000,False,000,False,False,False,1,84483
+"### | المجلد الحادي عشر: (القسم الأول من كتاب مختصرات الردود)
+",000,False,000,False,False,False,1,18
+"### | كتاب مختصر الردود
+",000,False,000,False,False,False,1,20540
+"### | ............... 
+",000,False,000,False,False,False,1,2082
+"### | ............... 
+",000,False,000,False,False,False,1,129
+"### | ............... 
+",000,False,000,False,False,False,1,431
+"### | .............. 
+",000,False,000,False,False,False,1,298
+"### | ............. 
+",000,False,000,False,False,False,1,18050
+"### | ............... 
+",000,False,000,False,False,False,1,1532
+"### | ...... 
+",000,False,000,False,False,False,1,622
+"### | ..................... 
+",000,False,000,False,False,False,1,40430
+"### | ....................... 
+",000,False,000,False,False,False,1,14167
+"### | المجلد الثاني عشر: (القسم الثاني من كتاب مختصرات الردود)
+",000,False,000,False,False,False,1,18
+"### | تابع كتاب مختصرات الردود
+",000,False,000,False,False,False,1,25464
+"### | ................... 
+",000,False,000,False,False,False,1,31706
+"### | .............. 
+",000,False,000,False,False,False,1,42536
+"### | المجلد الثالث عشر: (تفسير واستنباط لسور وآيات من القرآن الكريم)
+",000,False,000,False,False,False,1,20
+"### | كتاب تفسير القرآن
+",000,False,000,False,False,False,1,6
+"### | *
+",000,False,000,False,False,False,1,2806
+"### | فضل حفظ القرآن
+",000,False,000,False,False,False,1,157
+"### | [ما في تفسير محمد صديق من بعض عبارات ms3568 المتكلمين]
+",000,False,000,False,False,False,1,6389
+"### | سورة الفاتحة
+",000,False,000,False,False,False,1,1621
+"### | ............ 
+",000,False,000,False,False,False,1,2935
+"### | سورة البقرة
+",000,False,000,False,False,False,1,6689
+"### | سورة آل عمران
+",000,False,000,False,False,False,1,1357
+"### | سورة النساء
+",000,False,000,False,False,False,1,69
+"### | سورة الأنعام
+",000,False,000,False,False,False,1,1209
+"### | سورة الأنعام
+",000,False,000,False,False,False,1,3114
+"### | سورة الأعراف
+",000,False,000,False,False,False,1,8590
+"### | سورة الأنفال
+",000,False,000,False,False,False,1,445
+"### | سورة يونس
+",000,False,000,False,False,False,1,1420
+"### | سورة هود
+",000,False,000,False,False,False,1,2884
+"### | سورة يوسف
+",000,False,000,False,False,False,1,8534
+"### | سورة إبراهيم
+",000,False,000,False,False,False,1,162
+"### | سورة الحجر
+",000,False,000,False,False,False,1,1498
+"### | سورة النحل
+",000,False,000,False,False,False,1,3392
+"### | سورة الإسراء
+",000,False,000,False,False,False,1,281
+"### | سورة الكهف
+",000,False,000,False,False,False,1,2668
+"### | سورة طه
+",000,False,000,False,False,False,1,1472
+"### | سورة المؤمنون
+",000,False,000,False,False,False,1,871
+"### | سورة النمل
+",000,False,000,False,False,False,1,301
+"### | سورة القصص
+",000,False,000,False,False,False,1,4302
+"### | سورة الزمر
+",000,False,000,False,False,False,1,2956
+"### | سورة الشورى
+",000,False,000,False,False,False,1,389
+"### | سورة الفتح
+",000,False,000,False,False,False,1,1502
+"### | سورة الحجرات
+",000,False,000,False,False,False,1,718
+"### | سورة الذاريات
+",000,False,000,False,False,False,1,2884
+"### | سورة الجن
+",000,False,000,False,False,False,1,1324
+"### | سورة الإنسان
+",000,False,000,False,False,False,1,135
+"### | سورة العلق والمدثر
+",000,False,000,False,False,False,1,1418
+"### | سورة التكاثر
+",000,False,000,False,False,False,1,753
+"### | سورة العصر
+",000,False,000,False,False,False,1,333
+"### | سورة الكوثر
+",000,False,000,False,False,False,1,598
+"### | سورة الكافرون
+",000,False,000,False,False,False,1,146
+"### | سورة تبت
+",000,False,000,False,False,False,1,370
+"### | سورة الإخلاص
+",000,False,000,False,False,False,1,261
+"### | سورة الفلق
+",000,False,000,False,False,False,1,226
+"### | سورة الناس
+",000,False,000,False,False,False,1,290
+"### | المجلد الرابع عشر: (
+",000,False,000,False,False,False,1,6
+"### | كتاب النصائح
+",000,False,000,False,False,False,1,32901
+"### | .......... 
+",000,False,000,False,False,False,1,17606
+"### | ..... 
+",000,False,000,False,False,False,1,43156
+"### | المجلد الخامس عشر: (القسم الأول من البيان الواضح وأنبل النصائح عن ارتكاب الفضائح)
+",000,False,000,False,False,False,1,26
+"### | مقدمة
+",000,False,000,False,False,False,1,305
+"### | [الباب الأول في الأمر بالمعروف والنهي عن المنكر]
+",000,False,000,False,False,False,1,8167
+"### | [الباب الثاني في تحريم التتن بأنواعه]
+",000,False,000,False,False,False,1,6942
+"### | الباب الثالث: كثرة الملاهي في هذا العصر
+",000,False,000,False,False,False,1,4063
+"### | ..... 
+",000,False,000,False,False,False,1,18197
+"### | .... 
+",000,False,000,False,False,False,1,1546
+"### | الباب الرابع التبرج
+",000,False,000,False,False,False,1,6986
+"### | الباب الخامس: التصوير
+",000,False,000,False,False,False,1,6304
+"### | الباب السادس: حلق اللحى
+",000,False,000,False,False,False,1,4317
+"### | الباب السابع: لباس الشرطة
+",000,False,000,False,False,False,1,6932
+"### | الباب الثامن: المكس
+",000,False,000,False,False,False,1,2340
+"### | الباب التاسع
+",000,False,000,False,False,False,1,4
+"### | الفصل الأول: في العلم وفضله وفضل أهله
+",000,False,000,False,False,False,1,6782
+"### | الفصل الثاني: من أعظم أسباب ضعف العلم والإسلام
+",000,False,000,False,False,False,1,4690
+"### | المجلد السادس عشر: (القسم الثاني من البيان الواضح، وتراجم أصحاب تلك الرسائل والأجوبة)
+",000,False,000,False,False,False,1,26
+"### | الباب التاسع (تابع)
+",000,False,000,False,False,False,1,6
+"### | الفصل الثالث: السبب الأعظم لضعف العلم والإسلام
+",000,False,000,False,False,False,1,7367
+"### | الفصل الرابع [أعظم أسباب التبرج]
+",000,False,000,False,False,False,1,6254
+"### | الفصل الخامس [الأمر من ديوان مجلس الوزراء بمنع النساء من العمل الذي يؤدي إلى اختلاطهن بالرجال]
+",000,False,000,False,False,False,1,214
+"### | الفصل السادس [مطالعة الصحف التي تسربت إلى بلاد المسلمين]
+",000,False,000,False,False,False,1,11028
+"### | الباب العاشر ""النظم""
+",000,False,000,False,False,False,1,4
+"### | [الفصل الأول القضاء الشرعي الذي أوجبه الله على عباده]
+",000,False,000,False,False,False,1,4819
+"### | الفصل الثاني: [الحكم الوضعي التشريعي ويسمى بالدستور وبالحقوق والقانون]
+",000,False,000,False,False,False,1,4576
+"### | الفصل الثالث: [ما يسمى بالنظم وبالقانون لم يكن يعرف في عهد سلفنا]
+",000,False,000,False,False,False,1,2647
+"### | ..... 
+",000,False,000,False,False,False,1,982
+"### | 1- 
+",000,False,000,False,False,False,1,122
+"### | 2- 
+",000,False,000,False,False,False,1,114
+"### | 3- 
+",000,False,000,False,False,False,1,52
+"### | 4- 
+",000,False,000,False,False,False,1,248
+"### | 5- 
+",000,False,000,False,False,False,1,192
+"### | 6- 
+",000,False,000,False,False,False,1,306
+"### | 7- 
+",000,False,000,False,False,False,1,111
+"### | 8- 
+",000,False,000,False,False,False,1,86
+"### | 9- 
+",000,False,000,False,False,False,1,273
+"### | 10- 
+",000,False,000,False,False,False,1,117
+"### | 11- 
+",000,False,000,False,False,False,1,145
+"### | 12- 
+",000,False,000,False,False,False,1,36
+"### | 1- 
+",000,False,000,False,False,False,1,21
+"### | 2- 
+",000,False,000,False,False,False,1,79
+"### | 13- 
+",000,False,000,False,False,False,1,216
+"### | 14- 
+",000,False,000,False,False,False,1,132
+"### | 15- 
+",000,False,000,False,False,False,1,109
+"### | 16- 
+",000,False,000,False,False,False,1,212
+"### | 17- 
+",000,False,000,False,False,False,1,135
+"### | 18- 
+",000,False,000,False,False,False,1,81
+"### | 19- 
+",000,False,000,False,False,False,1,68
+"### | 20- 
+",000,False,000,False,False,False,1,88
+"### | 21- 
+",000,False,000,False,False,False,1,161
+"### | 22- 
+",000,False,000,False,False,False,1,52
+"### | 23- 
+",000,False,000,False,False,False,1,127
+"### | 24- 
+",000,False,000,False,False,False,1,86
+"### | 25- 
+",000,False,000,False,False,False,1,56
+"### | 26- 
+",000,False,000,False,False,False,1,110
+"### | 27- 
+",000,False,000,False,False,False,1,42
+"### | 28- 
+",000,False,000,False,False,False,1,148
+"### | 29- 
+",000,False,000,False,False,False,1,28
+"### | 30- 
+",000,False,000,False,False,False,1,65
+"### | 31- 
+",000,False,000,False,False,False,1,96
+"### | 32- 
+",000,False,000,False,False,False,1,146
+"### | 33- 
+",000,False,000,False,False,False,1,85
+"### | 34- 
+",000,False,000,False,False,False,1,43
+"### | 35- 
+",000,False,000,False,False,False,1,96
+"### | 36- 
+",000,False,000,False,False,False,1,91
+"### | 37- 
+",000,False,000,False,False,False,1,73
+"### | 38- 
+",000,False,000,False,False,False,1,50
+"### | 39- 
+",000,False,000,False,False,False,1,113
+"### | 40- 
+",000,False,000,False,False,False,1,53
+"### | 41- 
+",000,False,000,False,False,False,1,90
+"### | 42- 
+",000,False,000,False,False,False,1,115
+"### | 43- 
+",000,False,000,False,False,False,1,149
+"### | 44- 
+",000,False,000,False,False,False,1,72
+"### | 45- 
+",000,False,000,False,False,False,1,63
+"### | 46- 
+",000,False,000,False,False,False,1,49
+"### | 47- 
+",000,False,000,False,False,False,1,58
+"### | 48- 
+",000,False,000,False,False,False,1,38
+"### | 49- 
+",000,False,000,False,False,False,1,59
+"### | 50- 
+",000,False,000,False,False,False,1,52
+"### | 51- 
+",000,False,000,False,False,False,1,74
+"### | 52- 
+",000,False,000,False,False,False,1,32
+"### | 53- 
+",000,False,000,False,False,False,1,22
+"### | 54- 
+",000,False,000,False,False,False,1,17
+"### | 55- 
+",000,False,000,False,False,False,1,101
+"### | 56- 
+",000,False,000,False,False,False,1,206
+"### | 57- 
+",000,False,000,False,False,False,1,173
+"### | 58- 
+",000,False,000,False,False,False,1,27
+"### | 59- 
+",000,False,000,False,False,False,1,60
+"### | 60- 
+",000,False,000,False,False,False,1,26
+"### | 61- 
+",000,False,000,False,False,False,1,14
+"### | 62- 
+",000,False,000,False,False,False,1,93
+"### | 63- 
+",000,False,000,False,False,False,1,33
+"### | 64- 
+",000,False,000,False,False,False,1,53
+"### | 65- 
+",000,False,000,False,False,False,1,29
+"### | 66- 
+",000,False,000,False,False,False,1,78
+"### | 67- 
+",000,False,000,False,False,False,1,45
+"### | 68- 
+",000,False,000,False,False,False,1,51
+"### | 69- 
+",000,False,000,False,False,False,1,45
+"### | 70- 
+",000,False,000,False,False,False,1,104
+"### | 71- 
+",000,False,000,False,False,False,1,113
+"### | 72- 
+",000,False,000,False,False,False,1,36
+"### | 73- 
+",000,False,000,False,False,False,1,49
+"### | 74- 
+",000,False,000,False,False,False,1,66
+"### | 75- 
+",000,False,000,False,False,False,1,113
+"### | 76- 
+",000,False,000,False,False,False,1,51
+"### | 77- 
+",000,False,000,False,False,False,1,52
+"### | 78- 
+",000,False,000,False,False,False,1,19
+"### | 79- 
+",000,False,000,False,False,False,1,39
+"### | 80- 
+",000,False,000,False,False,False,1,41
+"### | 81- 
+",000,False,000,False,False,False,1,108
+"### | 82- 
+",000,False,000,False,False,False,1,213
+"### | 83- 
+",000,False,000,False,False,False,1,118
+"### | 84- 
+",000,False,000,False,False,False,1,54
+"### | 85- 
+",000,False,000,False,False,False,1,84
+"### | 86- 
+",000,False,000,False,False,False,1,135
+"### | 87- 
+",000,False,000,False,False,False,1,190
+"### | 88- 
+",000,False,000,False,False,False,1,69
+"### | 89- 
+",000,False,000,False,False,False,1,61
+"### | 90- 
+",000,False,000,False,False,False,1,81
+"### | 91- 
+",000,False,000,False,False,False,1,86
+"### | 92- 
+",000,False,000,False,False,False,1,38
+"### | 93- 
+",000,False,000,False,False,False,1,113
+"### | 94- 
+",000,False,000,False,False,False,1,39
+"### | 95- 
+",000,False,000,False,False,False,1,87
+"### | 96- 
+",000,False,000,False,False,False,1,68
+"### | 97- 
+",000,False,000,False,False,False,1,45
+"### | 98- 
+",000,False,000,False,False,False,1,28
+"### | 99- 
+",000,False,000,False,False,False,1,49
+"### | 100- 
+",000,False,000,False,False,False,1,70
+"### | 101- 
+",000,False,000,False,False,False,1,41
+"### | 102- 
+",000,False,000,False,False,False,1,52
+"### | 103- 
+",000,False,000,False,False,False,1,55
+"### | 104- 
+",000,False,000,False,False,False,1,103
+"### | 105- 
+",000,False,000,False,False,False,1,60
+"### | 106- 
+",000,False,000,False,False,False,1,60
+"### | 107- 
+",000,False,000,False,False,False,1,634
+"### | كتاب تراجم أصحاب تلك الرسائل والأجوبة
+",000,False,000,False,False,False,1,3793
+"### | 1- 
+",000,False,000,False,False,False,1,15
+"### | 2- 
+",000,False,000,False,False,False,1,7
+"### | 3- 
+",000,False,000,False,False,False,1,7
+"### | 4- 
+",000,False,000,False,False,False,1,7
+"### | 5- 
+",000,False,000,False,False,False,1,7
+"### | 6- 
+",000,False,000,False,False,False,1,7
+"### | 7- 
+",000,False,000,False,False,False,1,7
+"### | 8- 
+",000,False,000,False,False,False,1,9
+"### | 9- 
+",000,False,000,False,False,False,1,11
+"### | 10- 
+",000,False,000,False,False,False,1,7
+"### | 11- 
+",000,False,000,False,False,False,1,9
+"### | 12- 
+",000,False,000,False,False,False,1,7
+"### | 13- 
+",000,False,000,False,False,False,1,9
+"### | 14- 
+",000,False,000,False,False,False,1,7
+"### | 15- 
+",000,False,000,False,False,False,1,7
+"### | 16- 
+",000,False,000,False,False,False,1,6341
+"### | 1- 
+",000,False,000,False,False,False,1,13
+"### | 2- 
+",000,False,000,False,False,False,1,15
+"### | 3- 
+",000,False,000,False,False,False,1,11
+"### | 4- 
+",000,False,000,False,False,False,1,7
+"### | 5- 
+",000,False,000,False,False,False,1,4963
+"### | 1- 
+",000,False,000,False,False,False,1,13
+"### | 2- 
+",000,False,000,False,False,False,1,13
+"### | 3- 
+",000,False,000,False,False,False,1,27
+"### | 4- 
+",000,False,000,False,False,False,1,17
+"### | 5- 
+",000,False,000,False,False,False,1,13
+"### | 6- 
+",000,False,000,False,False,False,1,21
+"### | 7- 
+",000,False,000,False,False,False,1,11
+"### | 8- 
+",000,False,000,False,False,False,1,5
+"### | 9- 
+",000,False,000,False,False,False,1,2084
+"### | 1- 
+",000,False,000,False,False,False,1,21
+"### | 2- 
+",000,False,000,False,False,False,1,21
+"### | 3- 
+",000,False,000,False,False,False,1,17
+"### | 4- 
+",000,False,000,False,False,False,1,21
+"### | 5- 
+",000,False,000,False,False,False,1,1181
+"### | 1- 
+",000,False,000,False,False,False,1,11
+"### | 2- 
+",000,False,000,False,False,False,1,13
+"### | 3- 
+",000,False,000,False,False,False,1,9
+"### | 4- 
+",000,False,000,False,False,False,1,13
+"### | 5- 
+",000,False,000,False,False,False,1,9
+"### | 6- 
+",000,False,000,False,False,False,1,11030

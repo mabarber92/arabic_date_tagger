@@ -1,0 +1,763 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [ المقدمة ]
+",000,False,000,False,False,False,1,2103
+"### || فهذه صورة الأرض عامرها والخراب منها وهى مقسومة على الممالك.
+",000,False,000,False,False,False,2,20
+"### || وعماد ممالك الأرض أربعة،
+",000,False,000,False,False,False,2,212
+"### || وقسمة الأرض على الجنوب والشمال:
+",000,False,000,False,False,False,2,222
+"### || وأما البحار
+",000,False,000,False,False,False,2,495
+"### || وأرض الروم
+",000,False,000,False,False,False,2,83
+"### || وأما مملكة الصين
+",000,False,000,False,False,False,2,227
+"### ||| وديار الأتراك متميزة،
+",000,False,000,False,False,False,3,76
+"### |||| فأما الغزية
+",000,False,000,False,False,False,4,30
+"### |||| وأما ديار الكيماكية
+",000,False,000,False,False,False,4,58
+"### ||| وأما الصين
+",000,False,000,False,False,False,3,57
+"### || وأرض الصقالبة
+",000,False,000,False,False,False,2,31
+"### || والروس
+",000,False,000,False,False,False,2,38
+"### || وأما الخزر
+",000,False,000,False,False,False,2,40
+"### || وأما التبت فإنها بين أرض الصين والهند
+",000,False,000,False,False,False,2,40
+"### || وأما جنوبى الأرض من بلاد السودان
+",000,False,000,False,False,False,2,187
+"### ||| وأما أرض النوبة
+",000,False,000,False,False,False,3,41
+"### ||| وأما أرض البجة
+",000,False,000,False,False,False,3,23
+"### ||| وأما الحبشة
+",000,False,000,False,False,False,3,29
+"### ||| وأما أرض الزنج
+",000,False,000,False,False,False,3,41
+"### || وأما أرض الهند
+",000,False,000,False,False,False,2,43
+"### || وأما مملكة الإسلام
+",000,False,000,False,False,False,2,221
+"### | ديار العرب
+",000,False,000,False,False,False,1,3430
+"### || ونبتدئ من مدن ديار العرب بمكة شرفها الله،
+",000,False,000,False,False,False,2,580
+"### || وأما المدينة
+",000,False,000,False,False,False,2,191
+"### || وأما اليمامة
+",000,False,000,False,False,False,2,18
+"### || وأما البحرين
+",000,False,000,False,False,False,2,38
+"### || [ سائر الحجاز ]
+",000,False,000,False,False,False,2,1514
+"### || وأما المسافات بديار العرب
+",000,False,000,False,False,False,2,111
+"### || وأما طرقها:
+",000,False,000,False,False,False,2,352
+"### | بحر الفارس
+",000,False,000,False,False,False,1,1328
+"### || وسأصف ما على سواحله صفة جامعة،
+",000,False,000,False,False,False,2,674
+"### ||| [ إذا أخذت من القلزم شرقى هذا البحر ]
+",000,False,000,False,False,False,3,357
+"### ||| وإذا أخذت من القلزم غربى هذا البحر،
+",000,False,000,False,False,False,3,256
+"### | ديار المغرب
+",000,False,000,False,False,False,1,2128
+"### || وأما المغرب فهو نصفان
+",000,False,000,False,False,False,2,1411
+"### ||| فأما الجانب الشرقى
+",000,False,000,False,False,False,3,788
+"### |||| [ مدن المغرب ]
+",000,False,000,False,False,False,4,624
+"### ||| وأما الغربى من المغرب فهو الأندلس،
+",000,False,000,False,False,False,3,602
+"### |||| والأندلس فى أيدى بنى أمية
+",000,False,000,False,False,False,4,45
+"### |||| ومن مشاهير مدن الأندلس
+",000,False,000,False,False,False,4,256
+"### |||| وثغور الجلالقة
+",000,False,000,False,False,False,4,97
+"### |||| والبربر الذين هم بأرض الأندلس وسائر المغرب صنفان،
+",000,False,000,False,False,False,4,71
+"### |||| 
+",000,False,000,False,False,False,4,35
+"### || وزويلة بلد فى وجه أرض السودان،
+",000,False,000,False,False,False,2,169
+"### || وملوك الأندلس بنو أمية،
+",000,False,000,False,False,False,2,104
+"### || والذي يقع من المغرب
+",000,False,000,False,False,False,2,43
+"### || وأما المسافات بالمغرب
+",000,False,000,False,False,False,2,167
+"### || وأما مسافات الأندلس
+",000,False,000,False,False,False,2,256
+"### | ديار مصر
+",000,False,000,False,False,False,1,1408
+"### || وأما مصر فإن لها حدا
+",000,False,000,False,False,False,2,81
+"### || المسافات بمصر:
+",000,False,000,False,False,False,2,86
+"### || وأما صفة مدنها وبقاعها:
+",000,False,000,False,False,False,2,1245
+"### | أرض الشام
+",000,False,000,False,False,False,1,2418
+"### || وأما جند فلسطين - وهو أول أجناد الشام مما يلى المغرب -
+",000,False,000,False,False,False,2,423
+"### || وأما الأردن
+",000,False,000,False,False,False,2,148
+"### || وأما جند دمشق
+",000,False,000,False,False,False,2,394
+"### || وجند فنسرين
+",000,False,000,False,False,False,2,676
+"### || وأما المسافات بالشام «3»
+",000,False,000,False,False,False,2,251
+"### || وأما المسافة فى أضعافه
+",000,False,000,False,False,False,2,358
+"### ||| فإنا نبدأ بفلسطين
+",000,False,000,False,False,False,3,76
+"### ||| وأما الأردن
+",000,False,000,False,False,False,3,35
+"### ||| وأما جند دمشق
+",000,False,000,False,False,False,3,31
+"### ||| وأما جند قنسرين
+",000,False,000,False,False,False,3,51
+"### ||| وأما العواصم
+",000,False,000,False,False,False,3,28
+"### ||| وأما الثغور
+",000,False,000,False,False,False,3,163
+"### |||| [ مسافات ثغور الجزيرة ]
+",000,False,000,False,False,False,4,74
+"### |||| وأما الثغور الشامية:
+",000,False,000,False,False,False,4,86
+"### || 
+",000,False,000,False,False,False,2,23
+"### | بحر الروم
+",000,False,000,False,False,False,1,597
+"### || وفى هذ البحر جزائر صغار وكبار وجبال،
+",000,False,000,False,False,False,2,224
+"### | أرض الجزيرة
+",000,False,000,False,False,False,1,953
+"### || وأما مسافاتها:
+",000,False,000,False,False,False,2,117
+"### || وأما صفة مدنها وبقاعها
+",000,False,000,False,False,False,2,724
+"### ||| وأما ديار مضر
+",000,False,000,False,False,False,3,359
+"### | العراق
+",000,False,000,False,False,False,1,1769
+"### || وأما المسافات
+",000,False,000,False,False,False,2,123
+"### || وأما مدنها
+",000,False,000,False,False,False,2,1511
+"### ||| فالبصرة
+",000,False,000,False,False,False,3,403
+"### ||| وأما واسط
+",000,False,000,False,False,False,3,56
+"### ||| وأما الكوفة
+",000,False,000,False,False,False,3,154
+"### ||| وأما بغداد
+",000,False,000,False,False,False,3,923
+"### || 
+",000,False,000,False,False,False,2,30
+"### | خوزستان «1»
+",000,False,000,False,False,False,1,1481
+"### || وأما حدود خوزستان
+",000,False,000,False,False,False,2,125
+"### || وأما ما يقع فيها من المدن
+",000,False,000,False,False,False,2,82
+"### || 
+",000,False,000,False,False,False,2,473
+"### ||| وخوزستان فى مستوى وأرض سهلة ومياه جارية،
+",000,False,000,False,False,False,3,191
+"### ||| وليس بجميع خوزستان جبال ولا رمال
+",000,False,000,False,False,False,3,21
+"### ||| وأما هواؤها وماؤها وتربتها وصحة أهلها
+",000,False,000,False,False,False,3,24
+"### ||| وأما ترابها
+",000,False,000,False,False,False,3,72
+"### ||| وأما ثمارهم وزرعهم
+",000,False,000,False,False,False,3,94
+"### ||| وأما لسانهم
+",000,False,000,False,False,False,3,16
+"### ||| وزيهم
+",000,False,000,False,False,False,3,20
+"### |||  والغالب على أخلاقهم
+",000,False,000,False,False,False,3,35
+"### ||| وأما ما ينتحلونه من الديانات
+",000,False,000,False,False,False,3,23
+"### || وأما الخاصيات بها:
+",000,False,000,False,False,False,2,503
+"### || وأما المسافات بها
+",000,False,000,False,False,False,2,302
+"### | بلاد فارس
+",000,False,000,False,False,False,1,9373
+"### || ذكر ما بفارس من الكور والمدن والزموم والأحياء والحصون وبيوت النيران والأنهار والبحار.
+",000,False,000,False,False,False,2,354
+"### ||| كور فارس خمس «3» :
+",000,False,000,False,False,False,3,141
+"### ||| وأما زمومها
+",000,False,000,False,False,False,3,60
+"### ||| وأما أحياء الأكراد
+",000,False,000,False,False,False,3,62
+"### ||| وأما أنهارها الكبار التى تحمل السفن إذا أجريت فيها فانها:
+",000,False,000,False,False,False,3,36
+"### ||| وأما بحارها
+",000,False,000,False,False,False,3,22
+"### ||| وأما بيوت نيرانها
+",000,False,000,False,False,False,3,30
+"### ||| وأما حصونها
+",000,False,000,False,False,False,3,24
+"### || وسأفصل كل ما ذكرته مجملا، فأبتدىء بذكر ما فى كل كورة من النواحى
+",000,False,000,False,False,False,2,843
+"### ||| نواحى كورة اصطخر:
+",000,False,000,False,False,False,3,217
+"### ||| وأما نواحى كورة أردشير خرة
+",000,False,000,False,False,False,3,244
+"### ||| وأما نواحى كورة داربجرد:
+",000,False,000,False,False,False,3,109
+"### ||| وأما نواحى كورة سابور:
+",000,False,000,False,False,False,3,163
+"### ||| وأما نواحى كورة أرجان:
+",000,False,000,False,False,False,3,83
+"### || وأما زمومها
+",000,False,000,False,False,False,2,209
+"### ||| فأما زم جيلويه المعروف بالزميجان
+",000,False,000,False,False,False,3,82
+"### ||| وأما زم الديوان، المعروف للحسين ابن صالح وهو من كورة سابور،
+",000,False,000,False,False,False,3,35
+"### ||| وأما زم اللوالجان لأحمد بن الليث- وهو فى كورة أردشير خره،
+",000,False,000,False,False,False,3,38
+"### ||| وأما زم الكاريان
+",000,False,000,False,False,False,3,50
+"### || وأما أحياء الأكراد بفارس
+",000,False,000,False,False,False,2,145
+"### || وأما حصون فارس
+",000,False,000,False,False,False,2,30
+"### || وأما المدن المحصنة
+",000,False,000,False,False,False,2,81
+"### || وأما القلاع بها «6»
+",000,False,000,False,False,False,2,252
+"### || وأما بيوت نيران فارس
+",000,False,000,False,False,False,2,145
+"### || وأما أنهار فارس
+",000,False,000,False,False,False,2,350
+"### || وأما بحار فارس
+",000,False,000,False,False,False,2,212
+"### || صفة معظم المدن فى مقاديرها وأبنيتها ونحو ذلك:
+",000,False,000,False,False,False,2,1043
+"### ||| أما اصطخر
+",000,False,000,False,False,False,3,96
+"### ||| وأما سابور
+",000,False,000,False,False,False,3,40
+"### ||| وأما دارابجرد
+",000,False,000,False,False,False,3,78
+"### ||| وأما جور
+",000,False,000,False,False,False,3,168
+"### ||| فأما مدينة شيراز
+",000,False,000,False,False,False,3,81
+"### ||| وأما كارزين
+",000,False,000,False,False,False,3,28
+"### ||| ومن أجل المدن التى بكورة اصطخر
+",000,False,000,False,False,False,3,257
+"### ||| وأما كورة سابور
+",000,False,000,False,False,False,3,76
+"### ||| وأما كورة دارابجرد
+",000,False,000,False,False,False,3,79
+"### ||| وأما مدن أردشير خره
+",000,False,000,False,False,False,3,96
+"### ||| وأكبر مدن فارس
+",000,False,000,False,False,False,3,105
+"### || وسنذكر المسافات بفارس:
+",000,False,000,False,False,False,2,719
+"### ||| فالطريق من شيراز إلى سيراف:
+",000,False,000,False,False,False,3,110
+"### ||| والطريق من شيراز إلى إلى كثه حومة يزد- وهو طريق خراسان-
+",000,False,000,False,False,False,3,105
+"### ||| والطريق من شيراز إلى ms095 جنابة:
+",000,False,000,False,False,False,3,71
+"### ||| والطريق من شيراز إلى الشيرجان:
+",000,False,000,False,False,False,3,113
+"### ||| والطريق من شيراز إلى جروم كرمان:
+",000,False,000,False,False,False,3,119
+"### ||| الطريق من شيراز إلى أصبهان:
+",000,False,000,False,False,False,3,100
+"### ||| الطريق من شيراز إلى خوزستان:
+",000,False,000,False,False,False,3,129
+"### || فأما المسافات بين المدن الكبار بفارس:
+",000,False,000,False,False,False,2,265
+"### || ذكر الماء والهواء والتربة بفارس.
+",000,False,000,False,False,False,2,260
+"### ||| وأما المياه
+",000,False,000,False,False,False,3,16
+"### || ذكر صور أهل فارس وزيهم ولسانهم «1» وأديانهم.
+",000,False,000,False,False,False,2,480
+"### ||| أما صورهم
+",000,False,000,False,False,False,3,71
+"### ||| وأما زيهم
+",000,False,000,False,False,False,3,121
+"### ||| وأما أخلاق ملوكهم والتناء منهم والمخالطين للسلطان من عمال الدواوين وغيرهم «10»
+",000,False,000,False,False,False,3,187
+"### ||| وأما أديانهم
+",000,False,000,False,False,False,3,110
+"### || ذكر طبقات الناس بفارس
+",000,False,000,False,False,False,2,1850
+"### ||| [ فى قديم الأيام ]
+",000,False,000,False,False,False,3,122
+"### ||| فأما فى الإسلام
+",000,False,000,False,False,False,3,611
+"### |||| فمنهم الهرمزان
+",000,False,000,False,False,False,4,46
+"### |||| ويقال إن سلمان الفارسي
+",000,False,000,False,False,False,4,34
+"### |||| ومنهم آل عمارة ويعرفون بآل الجلندى،
+",000,False,000,False,False,False,4,116
+"### |||| وآل الصفار
+",000,False,000,False,False,False,4,17
+"### |||| ومنهم آل أبى زهير المدينى
+",000,False,000,False,False,False,4,104
+"### |||| ومنهم آل حنظلة بن تميم
+",000,False,000,False,False,False,4,289
+"### ||| ومن ملوك الفرس ممن ملك بغير فارس
+",000,False,000,False,False,False,3,207
+"### |||| آل سامان،
+",000,False,000,False,False,False,4,200
+"### ||| وأما من ملك من فارس من غير الفرس فغلب عليه
+",000,False,000,False,False,False,3,57
+"### |||| فإن منهم على بن الحسين بن بشر
+",000,False,000,False,False,False,4,48
+"### ||| وأما ملوك الزموم
+",000,False,000,False,False,False,3,327
+"### |||| فإن منهم فى زم الزميجان المعروف بزم جيلويه
+",000,False,000,False,False,False,4,120
+"### |||| وأما زم الديوان
+",000,False,000,False,False,False,4,65
+"### |||| وأما زم اللوالجان
+",000,False,000,False,False,False,4,41
+"### |||| وأما زم الكاريان
+",000,False,000,False,False,False,4,25
+"### |||| وأما زم البازنجان
+",000,False,000,False,False,False,4,95
+"### ||| وأما من صلح من الفرس للدواوين من الكتاب والعمال والأدباء
+",000,False,000,False,False,False,3,534
+"### |||| فإن منهم عبد الحميد بن يحيى،
+",000,False,000,False,False,False,4,27
+"### |||| ومنهم عبد الله بن المقفع،
+",000,False,000,False,False,False,4,49
+"### |||| ومنهم سيبويه
+",000,False,000,False,False,False,4,33
+"### |||| والفرس هم شحنة دواوين الخلافة والعمال
+",000,False,000,False,False,False,4,233
+"### ||||| منهم المعلى «6» بن النضر
+",000,False,000,False,False,False,5,68
+"### ||||| وماهان بن بهرام
+",000,False,000,False,False,False,5,18
+"### ||||| وأخوه كامل بن بهرام
+",000,False,000,False,False,False,5,17
+"### ||||| ومنهم الحسن بن عبد الله
+",000,False,000,False,False,False,5,36
+"### ||||| ومنهم محمد بن يعقوب
+",000,False,000,False,False,False,5,28
+"### |||| وبفارس قوم يقال لهم أهل البيوتات ms106،
+",000,False,000,False,False,False,4,209
+"### ||||| منهم آل حبيب
+",000,False,000,False,False,False,5,53
+"### ||||| وآل أبى صفية
+",000,False,000,False,False,False,5,34
+"### ||||| وأما آل المرزبان بن زادية،
+",000,False,000,False,False,False,5,55
+"### ||||| وآل المرزبان بن خدايداد
+",000,False,000,False,False,False,5,56
+"### ||||| وآل مردشاد بن نسبة،
+",000,False,000,False,False,False,5,26
+"### ||||| 
+",000,False,000,False,False,False,5,15
+"### ||  وقد انتحل قوم من الفرس ديانات خرجوا بها عن «1» المذاهب،
+",000,False,000,False,False,False,2,346
+"### ||| من هؤلاء واشتهر ذكر الحسين بن منصور المعروف بالحلاج -
+",000,False,000,False,False,False,3,173
+"### ||| ومنهم الحسن الجنابى ويكنى بأبى سعيد
+",000,False,000,False,False,False,3,135
+"### || وسنذكر الخاصيات بها:
+",000,False,000,False,False,False,2,1127
+"### ||| 
+",000,False,000,False,False,False,3,491
+"### ||| فأما ما يرتفع من بلدان فارس مما ينقل إلى الأمصار، وما يفضل فى جنسه على سائر ما يرتفع فى البلدان:
+",000,False,000,False,False,False,3,640
+"### || فأما ms112 نقودهم وأوزانهم ومكاييلهم،
+",000,False,000,False,False,False,2,226
+"### || أبواب المال
+",000,False,000,False,False,False,2,396
+"### ||| فأما خراج الأرضين
+",000,False,000,False,False,False,3,248
+"### ||| وأما أبواب أموال الضياع
+",000,False,000,False,False,False,3,22
+"### ||| وأما الصدقات PageV01P095 وأعشار السفن وأخماس المعادن والجزية ودار الضرب والمراصد وضرائب الملاحات والآجام وأثمان الماء والمراعى
+",000,False,000,False,False,False,3,106
+"### | بلاد كرمان
+",000,False,000,False,False,False,1,1314
+"### || وأما ما يقع فيها من المدن التى أعرفها
+",000,False,000,False,False,False,2,153
+"### || ومن مشاهير جبالها المنيعة ms115
+",000,False,000,False,False,False,2,250
+"### || وجروم كرمان أكثر من صرودها،
+",000,False,000,False,False,False,2,146
+"### || [ صفة مدن كرمان ]
+",000,False,000,False,False,False,2,283
+"### || ولسان أهل كرمان
+",000,False,000,False,False,False,2,27
+"### || [ خاصياتها ]
+",000,False,000,False,False,False,2,49
+"### || وأما نقودهم
+",000,False,000,False,False,False,2,28
+"### || وأما المسافات بين مدن كرمان
+",000,False,000,False,False,False,2,359
+"### | بلاد السند
+",000,False,000,False,False,False,1,1572
+"### || والذي يقع من المدن فى هذه البلاد
+",000,False,000,False,False,False,2,1045
+"### || وأما المسافات بها
+",000,False,000,False,False,False,2,292
+"### || وأما ms124 أنهارها
+",000,False,000,False,False,False,2,131
+"### || 
+",000,False,000,False,False,False,2,33
+"### | أرمينية والران وأذربيجان
+",000,False,000,False,False,False,1,1449
+"### || [ مدنها ]
+",000,False,000,False,False,False,2,694
+"### ||| فأما أذربيجان
+",000,False,000,False,False,False,3,128
+"### ||| [ الران ]
+",000,False,000,False,False,False,3,407
+"### ||| [ أرمينية ]
+",000,False,000,False,False,False,3,174
+"### || [ مياهها ]
+",000,False,000,False,False,False,2,162
+"### ||| وأما الأنهار بهذه البلاد التى تجرى فيها السفن
+",000,False,000,False,False,False,3,80
+"### ||| وأما بحارها
+",000,False,000,False,False,False,3,72
+"### ||| فأما دجلة
+",000,False,000,False,False,False,3,27
+"### || [ خاصياتها ]
+",000,False,000,False,False,False,2,176
+"### || ولسان أذربيجان وأرمينية والران
+",000,False,000,False,False,False,2,25
+"### || ونقود أذربيجان والران وأرمينية
+",000,False,000,False,False,False,2,8
+"### || المسافات بهذه النواحى
+",000,False,000,False,False,False,2,343
+"### | الجبال «1»
+",000,False,000,False,False,False,1,1294
+"### || فأما المسافات بها
+",000,False,000,False,False,False,2,262
+"### || المسافات ما بين مدن الجبال:
+",000,False,000,False,False,False,2,78
+"### || المدن بالجبال:
+",000,False,000,False,False,False,2,831
+"### ||| وأما صفات المدن وغير ذلك بها:
+",000,False,000,False,False,False,3,504
+"### ||| [ المياه والجبال ]
+",000,False,000,False,False,False,3,87
+"### ||| فأما الرى
+",000,False,000,False,False,False,3,70
+"### ||| ومن الجبال المذكورة بهذه الكورة
+",000,False,000,False,False,False,3,160
+"### || وأما نقودهم
+",000,False,000,False,False,False,2,16
+"### || وأما أوزانهم
+",000,False,000,False,False,False,2,14
+"### || [ المعادن ]
+",000,False,000,False,False,False,2,23
+"### || والغالب على أهل الجبال كلها
+",000,False,000,False,False,False,2,21
+"### | الديلم «1»
+",000,False,000,False,False,False,1,1555
+"### || [ المدن ]
+",000,False,000,False,False,False,2,870
+"### ||| وأعظم هذه المدن الرى «6» ،
+",000,False,000,False,False,False,3,390
+"### ||| وأما قومس
+",000,False,000,False,False,False,3,53
+"### ||| وأما قزوين
+",000,False,000,False,False,False,3,65
+"### ||| وأما طبرستان
+",000,False,000,False,False,False,3,149
+"### ||| وأما جرجان
+",000,False,000,False,False,False,3,175
+"### || ذكر مسافات هذه الديار
+",000,False,000,False,False,False,2,351
+"### | بحر الخزر
+",000,False,000,False,False,False,1,1685
+"### || وليس فى هذا البحر جزيرة مسكونة فيها عمارة
+",000,False,000,False,False,False,2,68
+"### || [ شط البحر ]
+",000,False,000,False,False,False,2,166
+"### || وأما الخزر
+",000,False,000,False,False,False,2,682
+"### || وأما سياستهم وأمر المملكة بهم
+",000,False,000,False,False,False,2,251
+"### || 
+",000,False,000,False,False,False,2,254
+"### || المسافات بين بلاد بحر الخزر ونواحيها:
+",000,False,000,False,False,False,2,151
+"### | مفازة خراسان
+",000,False,000,False,False,False,1,1849
+"### || [ الجبال ]
+",000,False,000,False,False,False,2,83
+"### || وفى هذه المفازة قرى، ولا أعلم بها مدينة سوى سنيج،
+",000,False,000,False,False,False,2,50
+"### || وتحيط بهذه المفازة من مشاهير المدن
+",000,False,000,False,False,False,2,52
+"### || والطرق المعروفة فى هذه المفازة
+",000,False,000,False,False,False,2,1454
+"### ||| وسأصف مسافات هذه الطرق وما فيها إن شاء الله.
+",000,False,000,False,False,False,3,1380
+"### |||| الطريق من الرى إلى اصبهان:
+",000,False,000,False,False,False,4,268
+"### |||| وأما طريق نائين «5» :
+",000,False,000,False,False,False,4,163
+"### |||| وأما طريق شور
+",000,False,000,False,False,False,4,155
+"### |||| وأما طريق زاور:
+",000,False,000,False,False,False,4,184
+"### |||| وأما طريق خبيص:
+",000,False,000,False,False,False,4,198
+"### |||| الطريق من يزد إلى خراسان:
+",000,False,000,False,False,False,4,314
+"### ||||  وطرق هذه المفازة ms152 على الترتيب
+",000,False,000,False,False,False,4,49
+"### |||| وأما الطريق الجديد
+",000,False,000,False,False,False,4,82
+"### |||| وأما طريق سجستان
+",000,False,000,False,False,False,4,30
+"### | سجستان
+",000,False,000,False,False,False,1,1952
+"### || وأما مدنها وما يقع فى أضعافها مما يحتاج إلى معرفته
+",000,False,000,False,False,False,2,349
+"### ||| ومدينتها «5» العظمى تسمى زرنج
+",000,False,000,False,False,False,3,319
+"### || وأرضها
+",000,False,000,False,False,False,2,163
+"### || وأما أنهارها
+",000,False,000,False,False,False,2,279
+"### || [ الخاصيات ]
+",000,False,000,False,False,False,2,42
+"### || [ نواحيها ]
+",000,False,000,False,False,False,2,623
+"### || وأما المسافات بها
+",000,False,000,False,False,False,2,376
+"### ||| فإن الطريق من سجستان إلى هراة
+",000,False,000,False,False,False,3,96
+"### ||| وأما الطريق من سجستان إلى بست
+",000,False,000,False,False,False,3,89
+"### ||| وأما الطريق من بست إلى غزنة:
+",000,False,000,False,False,False,3,123
+"### ||| وأما الطريق من سجستان إلى كرمان وفارس
+",000,False,000,False,False,False,3,86
+"### || وسائر المسافات بسجستان:
+",000,False,000,False,False,False,2,119
+"### | ذكر خراسان
+",000,False,000,False,False,False,1,4814
+"### || وأما كور ms160 خراسان التى تجمع على الأعمال وتفرق
+",000,False,000,False,False,False,2,3758
+"### ||| فأما نيسابور
+",000,False,000,False,False,False,3,359
+"### |||| وإن جمعنا طوس إلى نيسابور
+",000,False,000,False,False,False,4,60
+"### ||| وأما مرو
+",000,False,000,False,False,False,3,841
+"### ||| أما هراة
+",000,False,000,False,False,False,3,503
+"### |||| وأما هراة
+",000,False,000,False,False,False,4,357
+"### |||| وأكبر مدينة بهراة بعد هراة كروخ وأوفه،
+",000,False,000,False,False,False,4,126
+"### ||| وبأسفزار أربع من المدن
+",000,False,000,False,False,False,3,62
+"### ||| وأما بوشنج
+",000,False,000,False,False,False,3,155
+"### ||| وأما باذغيس
+",000,False,000,False,False,False,3,128
+"### ||| وأما گنج رستاق
+",000,False,000,False,False,False,3,67
+"### ||| ومروروذ
+",000,False,000,False,False,False,3,137
+"### ||| والجوزجان
+",000,False,000,False,False,False,3,158
+"### ||| وغرج الشار «8»
+",000,False,000,False,False,False,3,73
+"### ||| وأما الغور
+",000,False,000,False,False,False,3,79
+"### ||| وأما سرخس
+",000,False,000,False,False,False,3,65
+"### ||| وأما نسا
+",000,False,000,False,False,False,3,37
+"### ||| وفراوة
+",000,False,000,False,False,False,3,57
+"### ||| وقوهستان
+",000,False,000,False,False,False,3,217
+"### ||| وأما بلخ
+",000,False,000,False,False,False,3,585
+"### |||| 
+",000,False,000,False,False,False,4,86
+"### |||| فأما بلخ
+",000,False,000,False,False,False,4,93
+"### |||| وأما طخيرستان
+",000,False,000,False,False,False,4,90
+"### |||| وأما مدن الختل
+",000,False,000,False,False,False,4,130
+"### |||| وأما بنجهير
+",000,False,000,False,False,False,4,66
+"### |||| وأما عمل الباميان
+",000,False,000,False,False,False,4,73
+"### |||| وكابل
+",000,False,000,False,False,False,4,55
+"### |||| [ خاصيات بلخ ]
+",000,False,000,False,False,False,4,51
+"### ||| وأما الغور
+",000,False,000,False,False,False,3,119
+"### ||| وأما سواحل جيحون وخوارزم
+",000,False,000,False,False,False,3,113
+"### |||| وآمل وزم
+",000,False,000,False,False,False,4,105
+"### || 
+",000,False,000,False,False,False,2,108
+"### || وأما المسافات بخراسان «5» :
+",000,False,000,False,False,False,2,810
+"### ||| وسنذكر لكل مدينة مشهورة جوامع من المسافات بين المدن التى فى عملها.
+",000,False,000,False,False,False,3,498
+"### |||| فأما نيسابور
+",000,False,000,False,False,False,4,138
+"### |||| وأما مسافات مدن مرو
+",000,False,000,False,False,False,4,105
+"### |||| وأما مسافات مدن هراة وما يتصل بها من بوشنج وباذغيس وكنج رستاق:
+",000,False,000,False,False,False,4,132
+"### |||| وأما مسافات مدن بلخ:
+",000,False,000,False,False,False,4,135
+"### ||| 
+",000,False,000,False,False,False,3,8
+"### | ما وراء النهر
+",000,False,000,False,False,False,1,13403
+"### || ما ms177 وراء النهر من أخصب أقاليم الإسلام وأنزهها وأكثرها خيرا،
+",000,False,000,False,False,False,2,314
+"### || 
+",000,False,000,False,False,False,2,1270
+"### ||| وأما سماحتهم
+",000,False,000,False,False,False,3,368
+"### ||| وأما بأسهم وشوكتهم
+",000,False,000,False,False,False,3,304
+"### ||| والملوك على هذا الإقليم وعلى سائر خراسان آل سامان،
+",000,False,000,False,False,False,3,212
+"### ||| وأما نزاهة ما وراء النهر
+",000,False,000,False,False,False,3,401
+"### || ولما وراء النهر كور:
+",000,False,000,False,False,False,2,5060
+"### ||| فأما جيحون «4»
+",000,False,000,False,False,False,3,166
+"### ||| فأول كورة على جيحون مما وراء النهر الختل والوخش،
+",000,False,000,False,False,False,3,100
+"### ||| [واشجرد والقواذيان والترمذ والصغانيان]
+",000,False,000,False,False,False,3,183
+"### ||| وأما خوارزم «1»
+",000,False,000,False,False,False,3,890
+"### |||| وبخوارزم من المدن
+",000,False,000,False,False,False,4,27
+"### |||| فأما قصبتها فإنها تسمى بالخوارزمية كاث،
+",000,False,000,False,False,False,4,76
+"### |||| 
+",000,False,000,False,False,False,4,679
+"### ||| [ صفة كور ما وراء النهر ]
+",000,False,000,False,False,False,3,3598
+"### |||| أما بخارى واسمها نومجكت «1» ،
+",000,False,000,False,False,False,4,1721
+"### ||||| وأما المدينة فلها سبعة أبواب
+",000,False,000,False,False,False,5,45
+"### ||||| ولقلعتها «12» بابان:
+",000,False,000,False,False,False,5,18
+"### ||||| وعلى «14» الربض دروب «14» ،
+",000,False,000,False,False,False,5,83
+"### ||||| وفى وسط الربض على أسواقها دروب «5» :
+",000,False,000,False,False,False,5,53
+"### ||||| [ أنهار بخارى ]
+",000,False,000,False,False,False,5,327
+"### ||||| أما رساتيق بخارى
+",000,False,000,False,False,False,5,447
+"### ||||| والجبل الذي يتصل ذيله «15» بقرية وركه
+",000,False,000,False,False,False,5,145
+"### ||||| ولبخارى مدن داخل «2» حائطها «3» وخارجا عنه «4» ،
+",000,False,000,False,False,False,5,163
+"### ||||| وأما لسان بخارى
+",000,False,000,False,False,False,5,33
+"### ||||| ونقودهم الدرهم
+",000,False,000,False,False,False,5,50
+"### ||||| وأما زيهم
+",000,False,000,False,False,False,5,22
+"### ||||| ولهم داخل الحائط وخارجه أسواق «3»
+",000,False,000,False,False,False,5,46
+"### ||||| 
+",000,False,000,False,False,False,5,136
+"### ||||| 
+",000,False,000,False,False,False,5,93
+"### |||| ويتصل ببخارى من شرقيها السغد،
+",000,False,000,False,False,False,4,1183
+"### ||||| وقصبة السغد «5» سمرقند،
+",000,False,000,False,False,False,5,1079
+"### ||||| [ مدن السغد غير سمرقند ]
+",000,False,000,False,False,False,5,80
+"### |||| وكش «14»
+",000,False,000,False,False,False,4,63
+"### |||| وأما نسف «4»
+",000,False,000,False,False,False,4,51
+"### |||| وأما أشروسنة
+",000,False,000,False,False,False,4,244
+"### |||| وأما الشاش وإيلاق
+",000,False,000,False,False,False,4,117
+"### ||||| ومدن الشاش:
+",000,False,000,False,False,False,5,31
+"### ||||| فأما إيلاق
+",000,False,000,False,False,False,5,27
+"### ||||| 
+",000,False,000,False,False,False,5,52
+"### |||| وأما أسبيجاب
+",000,False,000,False,False,False,4,46
+"### |||| وأما خجنده
+",000,False,000,False,False,False,4,29
+"### |||| وفرغانة
+",000,False,000,False,False,False,4,163
+"### || المسافات بما وراء النهر
+",000,False,000,False,False,False,2,6672
+"### ||| الطريق من وادى جيحون بفربر إلى فرغانة:
+",000,False,000,False,False,False,3,211
+"### ||| وأما طريق الشاش إلى أقصى بلد الإسلام
+",000,False,000,False,False,False,3,113
+"### ||| الطريق من بخارى إلى بلخ ms202:
+",000,False,000,False,False,False,3,74
+"### ||| الطريق من سمرقند إلى بلخ: تخرج من سمرقند إلى كش يومين، ثم إلى كندك
+",000,False,000,False,False,False,3,28
+"### ||| والطريق من بخارى إلى خوارزم:
+",000,False,000,False,False,False,3,128
+"### ||| والطريق إلى أشروسنة
+",000,False,000,False,False,False,3,30
+"### ||| وسنذكر المسافات بين أقاليم ما وراء النهر
+",000,False,000,False,False,False,3,6132
+"### |||| مسافات الختل والصغانيان وما بينهما من معبر بذخشان على نهر جرياب إلي
+",000,False,000,False,False,False,4,233
+"### |||| مسافات خوارزم:
+",000,False,000,False,False,False,4,103
+"### |||| وأما مسافات المدن ببخارى
+",000,False,000,False,False,False,4,104
+"### |||| وأما مسافات مدن سمرقند والسغد
+",000,False,000,False,False,False,4,68
+"### |||| والمسافات بكش ونسف:
+",000,False,000,False,False,False,4,75
+"### |||| وأما مسافات مدن أشروسنه
+",000,False,000,False,False,False,4,95
+"### |||| المسافات بين مدن الشاش وإيلاق وأسبيجاب وما يتصل بها:
+",000,False,000,False,False,False,4,5482

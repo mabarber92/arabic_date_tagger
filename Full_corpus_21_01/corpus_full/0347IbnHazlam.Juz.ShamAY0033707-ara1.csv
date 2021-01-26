@@ -1,0 +1,15 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK [الغلاف]
+",000,False,000,False,False,False,1,74
+"### | AUTO جزء فيه من حديث أبي الحسن خيثمة بن سليمان بن حيدرة القرشي
+",000,False,000,False,False,False,1,309
+"### | CHECK [حديث خيثمة بن سليمان]
+",000,False,000,False,False,False,1,2645
+"### | AUTO من حديث أحمد بن سليمان بن حذلم
+",000,False,000,False,False,False,1,4102
+"### || AUTO من حديث يزيد بن محمد بن عبد الصمد.
+",000,False,000,False,False,False,2,500
+"### || AUTO ومن حديث أبيه سليمان بن أيوب
+",000,False,000,False,False,False,2,2342
+"### | AUTO حديث أم زرع بأسمائهن
+",000,False,000,False,False,False,1,1455

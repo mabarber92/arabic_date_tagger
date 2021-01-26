@@ -1,0 +1,643 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO مجموع رسائل
+",000,False,000,False,False,False,1,37
+"### | AUTO مقدمة السيد العلامة مجدالدين بن محمد المؤيدي
+",000,False,000,False,False,False,1,3212
+"### | AUTO مقدمة التحقيق
+",000,False,000,False,False,False,1,5549
+"### || AUTO المؤلف
+",000,False,000,False,False,False,2,652
+"### || AUTO جهاده
+",000,False,000,False,False,False,2,78
+"### || AUTO صفته عليه السلام
+",000,False,000,False,False,False,2,19
+"### || AUTO مؤلفاته عليه السلام
+",000,False,000,False,False,False,2,187
+"### || AUTO وفاته عليه السلام
+",000,False,000,False,False,False,2,35
+"### || AUTO الكتاب
+",000,False,000,False,False,False,2,1804
+"### | AUTO كتاب البالغ المدرك
+",000,False,000,False,False,False,1,10283
+"### || AUTO النظر للعلم بوجود المدبر الحكيم
+",000,False,000,False,False,False,2,116
+"### || AUTO وجوب شكر المنعم
+",000,False,000,False,False,False,2,34
+"### || AUTO معرفة الآخرة
+",000,False,000,False,False,False,2,68
+"### || AUTO معرفة أنه لا بد من رسول
+",000,False,000,False,False,False,2,248
+"### || AUTO ورود الأخبار الكاذبة
+",000,False,000,False,False,False,2,46
+"### || AUTO أقسام الأخبار
+",000,False,000,False,False,False,2,231
+"### || AUTO ذكر الفترة والعمل فيها
+",000,False,000,False,False,False,2,354
+"### || AUTO ذكر شروط النظر
+",000,False,000,False,False,False,2,153
+"### || AUTO كتاب فيه معرفة الله عز وجل
+",000,False,000,False,False,False,2,58
+"### || AUTO التوحيد ونفي التشبيه
+",000,False,000,False,False,False,2,206
+"### || AUTO العدل
+",000,False,000,False,False,False,2,164
+"### || AUTO أفعال العباد
+",000,False,000,False,False,False,2,420
+"### || AUTO الوعد والوعيد
+",000,False,000,False,False,False,2,79
+"### || AUTO الإيمان برسالة محمد صلى الله عليه وآله وسلم
+",000,False,000,False,False,False,2,53
+"### || AUTO إمامة علي عليه السلام
+",000,False,000,False,False,False,2,331
+"### || AUTO إمامة الحسنين عليهما السلام
+",000,False,000,False,False,False,2,194
+"### || AUTO إمامة أهل البيت عليهم السلام، وصفات الإمام
+",000,False,000,False,False,False,2,1571
+"### || AUTO النهي عن إمامة الظالمين
+",000,False,000,False,False,False,2,395
+"### || AUTO أعوان الظلمة
+",000,False,000,False,False,False,2,350
+"### || AUTO الهدى
+",000,False,000,False,False,False,2,270
+"### || AUTO الضلال
+",000,False,000,False,False,False,2,485
+"### || AUTO العبادة
+",000,False,000,False,False,False,2,237
+"### || AUTO الإرادة
+",000,False,000,False,False,False,2,717
+"### || AUTO الإذن
+",000,False,000,False,False,False,2,113
+"### || AUTO الكفر
+",000,False,000,False,False,False,2,141
+"### || AUTO الشرك
+",000,False,000,False,False,False,2,594
+"### || AUTO الزكاة
+",000,False,000,False,False,False,2,490
+"### || AUTO حرمة الزكاة على الظالم
+",000,False,000,False,False,False,2,369
+"### || AUTO المحكم والمتشابه
+",000,False,000,False,False,False,2,889
+"### || AUTO تنزيه الأنبياء
+",000,False,000,False,False,False,2,265
+"### || AUTO تفسير الكتاب
+",000,False,000,False,False,False,2,609
+"### | AUTO كتاب الديانة
+",000,False,000,False,False,False,1,1317
+"### || AUTO التوحيد
+",000,False,000,False,False,False,2,486
+"### || AUTO العلم والقدرة والسمع والبصر
+",000,False,000,False,False,False,2,474
+"### || AUTO قيام الحجة على أهل الفترات
+",000,False,000,False,False,False,2,187
+"### || AUTO رضا الله وسخطه حسب عمل العبد لا حسب علم الله بمآل العبد
+",000,False,000,False,False,False,2,147
+"### | AUTO جواب لأهل صنعاء على كتاب كتبوه إليه عند قدومه البلد
+",000,False,000,False,False,False,1,1237
+"### || AUTO الإيمان بالله
+",000,False,000,False,False,False,2,104
+"### || AUTO الإيمان باليوم الآخر
+",000,False,000,False,False,False,2,82
+"### || AUTO الإيمان بمحمد
+",000,False,000,False,False,False,2,126
+"### || AUTO الإيمان بالقرآن
+",000,False,000,False,False,False,2,44
+"### || AUTO الاقرار بفرائض الإسلام ومنهياته
+",000,False,000,False,False,False,2,305
+"### || AUTO التمسك بأهل البيت دون من سواهم من الفرق
+",000,False,000,False,False,False,2,161
+"### || AUTO من عناصر الإيمان
+",000,False,000,False,False,False,2,159
+"### || AUTO الترضية على الصحابة وأمهات المؤمنين
+",000,False,000,False,False,False,2,94
+"### || AUTO الحوض والشفاعة
+",000,False,000,False,False,False,2,50
+"### | AUTO كتاب المسترشد في التوحيد
+",000,False,000,False,False,False,1,13358
+"### || AUTO معنى العزيز والعزة
+",000,False,000,False,False,False,2,544
+"### || AUTO باب معنى الإرادة من الله
+",000,False,000,False,False,False,2,1837
+"### || AUTO تفسير إرادة الله لأفعال العباد
+",000,False,000,False,False,False,2,350
+"### || AUTO إرادة الله لإخباره
+",000,False,000,False,False,False,2,355
+"### || AUTO باب تفسير معنى الأعلى
+",000,False,000,False,False,False,2,116
+"### || AUTO باب تفسير معنى الكبير ومخرج ذلك في اللطيف الخبير
+",000,False,000,False,False,False,2,76
+"### || AUTO باب تفسير معنى: إن الله بكل مكان
+",000,False,000,False,False,False,2,103
+"### || AUTO باب تفسير معنى: أين الله؟
+",000,False,000,False,False,False,2,245
+"### || AUTO باب تفسير معنى القدوس السلام المؤمن المهيمن العزيز الجبار
+",000,False,000,False,False,False,2,445
+"### || AUTO باب تفسير قول الله سبحانه ?ويحذركم الله نفسه?، ومعنى مخرج
+",000,False,000,False,False,False,2,845
+"### || AUTO باب ms094 تفسير قول الله سبحانه:?ويبقى وجه ربك ذو الجلال
+",000,False,000,False,False,False,2,822
+"### || AUTO باب تفسير قول القائل (واحد) ومخارجه في اللسان وما ينفى من
+",000,False,000,False,False,False,2,1214
+"### || AUTO باب الرد على من قال: إن الله جسم، وجواب من سأل عن معنى قول
+",000,False,000,False,False,False,2,252
+"### || AUTO الرد على من قال جسم لا كالأجسام
+",000,False,000,False,False,False,2,224
+"### || AUTO ذكر الأعراض
+",000,False,000,False,False,False,2,523
+"### || AUTO ذكر صفات الفعل
+",000,False,000,False,False,False,2,347
+"### || AUTO الإرادة
+",000,False,000,False,False,False,2,467
+"### || AUTO باب تفسير العلم في الله والرد على من قال إن لله علما سواه به
+",000,False,000,False,False,False,2,499
+"### || AUTO باب تفسير القدرة والرد على من زعم أن لله قدرة سواه بها قدر
+",000,False,000,False,False,False,2,690
+"### || AUTO باب تفسير معنى قوله الحي
+",000,False,000,False,False,False,2,322
+"### || AUTO باب تفسير قوله السميع والرد على من قال إنه سبحانه يسمع بجارحة
+",000,False,000,False,False,False,2,837
+"### || AUTO باب تفسير قول الله سبحانه ?والله بصير بالعباد?آل عمران: 20
+",000,False,000,False,False,False,2,293
+"### || AUTO باب الرد على أهل الزيغ من المشبهين
+",000,False,000,False,False,False,2,1716
+"### | AUTO كتاب المنزلة بين المنزلتين ms123
+",000,False,000,False,False,False,1,7577
+"### || AUTO شهادة جميع الأمة لنا بحقية ما نحن عليه
+",000,False,000,False,False,False,2,92
+"### || AUTO أصناف المسلمين
+",000,False,000,False,False,False,2,41
+"### || AUTO شهادتهم لنا في التوحيد
+",000,False,000,False,False,False,2,112
+"### || AUTO شهادتهم لنا في العدل
+",000,False,000,False,False,False,2,137
+"### || AUTO شهادتهم لنا في الوعد والوعيد
+",000,False,000,False,False,False,2,343
+"### || AUTO شهادتهم لنا في المنزلة بين المنزلتين
+",000,False,000,False,False,False,2,165
+"### || AUTO شهادتهم لنا في الأمر بالمعروف والنهي عن المنكر
+",000,False,000,False,False,False,2,246
+"### || AUTO باب ذكر التوحيد
+",000,False,000,False,False,False,2,221
+"### || AUTO باب في خلق القرآن
+",000,False,000,False,False,False,2,390
+"### || AUTO باب ذكر عدل الله في كتابه
+",000,False,000,False,False,False,2,157
+"### || AUTO باب ذكر قضاء الله في كتابه
+",000,False,000,False,False,False,2,145
+"### || AUTO باب ذكر قدر الله في كتابه
+",000,False,000,False,False,False,2,144
+"### || AUTO باب ذكر الإرادة
+",000,False,000,False,False,False,2,147
+"### || AUTO باب ذكر المشيئة
+",000,False,000,False,False,False,2,171
+"### || AUTO باب ذكر المحبة
+",000,False,000,False,False,False,2,88
+"### || AUTO باب ذكر الرضى
+",000,False,000,False,False,False,2,98
+"### || AUTO باب ذكر أعمال العباد
+",000,False,000,False,False,False,2,129
+"### || AUTO باب ذكر مشيئة العباد وإرادتهم
+",000,False,000,False,False,False,2,179
+"### || AUTO باب ذكر العبادة
+",000,False,000,False,False,False,2,115
+"### || AUTO باب ذكر المخلوق
+",000,False,000,False,False,False,2,664
+"### || AUTO باب ذكر الاستطاعة
+",000,False,000,False,False,False,2,394
+"### || AUTO باب ذكر الأطفال
+",000,False,000,False,False,False,2,475
+"### || AUTO باب ذكر المؤمنين
+",000,False,000,False,False,False,2,441
+"### || AUTO باب ذكر الأعمال الصالحة
+",000,False,000,False,False,False,2,235
+"### || AUTO باب ذكر الوعيد
+",000,False,000,False,False,False,2,479
+"### || AUTO باب ذكر أهل الكبائر
+",000,False,000,False,False,False,2,180
+"### || AUTO باب ذكر الأحكام في الكفار
+",000,False,000,False,False,False,2,261
+"### || AUTO باب ذكر المنافقين
+",000,False,000,False,False,False,2,277
+"### || AUTO باب ذكر المنزلة بين المنزلتين
+",000,False,000,False,False,False,2,372
+"### || AUTO باب ذكر القيام بالقسط
+",000,False,000,False,False,False,2,669
+"### | AUTO كتاب الجملة
+",000,False,000,False,False,False,1,2640
+"### || AUTO حكم من لم تبلغه الرسل
+",000,False,000,False,False,False,2,1815
+"### | AUTO كتاب أصول الدين
+",000,False,000,False,False,False,1,1960
+"### || AUTO التوحيد
+",000,False,000,False,False,False,2,328
+"### || AUTO العدل والحكمة
+",000,False,000,False,False,False,2,254
+"### || AUTO صدق الوعد والوعيد
+",000,False,000,False,False,False,2,160
+"### || AUTO الأمر بالمعروف والنهي عن المنكر
+",000,False,000,False,False,False,2,98
+"### || AUTO إمامة أمير المؤمنين علي عليه السلام
+",000,False,000,False,False,False,2,205
+"### || AUTO الخلاف بين الأمة فيمن تكون فيهم الإمامة
+",000,False,000,False,False,False,2,356
+"### || AUTO مسألة في العلم والقدرة والإرادة والمشيئة
+",000,False,000,False,False,False,2,505
+"### | AUTO كتاب الرد على سليمان بن جرير
+",000,False,000,False,False,False,1,766
+"### || AUTO حدوث صفات أفعال الله تعالى
+",000,False,000,False,False,False,2,754
+"### | AUTO كتاب تفسير الكرسي
+",000,False,000,False,False,False,1,1394
+"### || AUTO التشبيه في عهد رسول الله صلوات الله عليه وآله
+",000,False,000,False,False,False,2,153
+"### || AUTO أقوال المشبهة
+",000,False,000,False,False,False,2,163
+"### || AUTO الاحتجاج على المشبهة
+",000,False,000,False,False,False,2,233
+"### || AUTO سؤال أبي ذر رضي الله عنه عن آية الكرسي
+",000,False,000,False,False,False,2,777
+"### | AUTO كتاب العرش والكرسي
+",000,False,000,False,False,False,1,2024
+"### || AUTO معنى العرش والكرسي والوجه والكتاب والصراط والميزان...
+",000,False,000,False,False,False,2,866
+"### || AUTO الرد على من قال: إن لله عز وجل عرشا في السماء محيطا به
+",000,False,000,False,False,False,2,256
+"### || AUTO معنى قوله تعالى: ?الرحمن على العرش استوى?طه:5 وقوله تعالى:
+",000,False,000,False,False,False,2,321
+"### || AUTO الدليل على أن الله عزوجل يذكر الكرسي والعرش معرفة عباده بسعة ملكه
+",000,False,000,False,False,False,2,96
+"### || AUTO معنى قوله تعالى: ?رب العرش العظيم?التوبة:129 و?رب العرش
+",000,False,000,False,False,False,2,143
+"### || AUTO معنى قول الله تعالى: ?وكان عرشه على الماء?هود:7
+",000,False,000,False,False,False,2,333
+"### | AUTO كتاب الرد على المجبرة القدرية
+",000,False,000,False,False,False,1,6098
+"### | AUTO كتاب الرد على المجبرة القدرية أجاب به صلوات الله عليه ابنه
+",000,False,000,False,False,False,1,8113
+"### || AUTO مزاعم المجبرة
+",000,False,000,False,False,False,2,1725
+"### || AUTO ما يستدل به أهل العدل على أهل الجبر
+",000,False,000,False,False,False,2,3968
+"### || AUTO حجج العقل لأهل العدل والتوحيد
+",000,False,000,False,False,False,2,2008
+"### | AUTO كتاب الرد على الحسن بن محمد بن الحنفية
+",000,False,000,False,False,False,1,39000
+"### || AUTO مقدمة الكتاب
+",000,False,000,False,False,False,2,571
+"### || AUTO المسألة الأولى: عن استطاعة الرسل من بني آدم ترك البلاغ
+",000,False,000,False,False,False,2,1147
+"### || AUTO المسألة الثانية: من أخطر المعصية على بال إبليس وكيف علم
+",000,False,000,False,False,False,2,1336
+"### || AUTO المسألة الثالثة: أكانت محبة الله ومشيئته في دخول آدم وزوجه
+",000,False,000,False,False,False,2,1685
+"### || AUTO المسألة الرابعة: هل أراد الله تعالى خيرا في خلق النار ؟
+",000,False,000,False,False,False,2,475
+"### || AUTO المسألة الخامسة: هل يستطيع الإنسان أن يجهل ما عرف؟
+",000,False,000,False,False,False,2,895
+"### || AUTO المسألة السادسة: من أنطق الناس ومن خلق الكلام؟
+",000,False,000,False,False,False,2,662
+"### || AUTO المسألة السابعة: من خلق الحركات؟
+",000,False,000,False,False,False,2,680
+"### || AUTO المسألة الثامنة: هل الأعمال شيء أم أنها ليست شيئا؟
+",000,False,000,False,False,False,2,1529
+"### || AUTO المسألة التاسعة: الآجال
+",000,False,000,False,False,False,2,1905
+"### || AUTO المسألة العاشرة: هل الأرزاق مقسومة من عند الله؟
+",000,False,000,False,False,False,2,1573
+"### || AUTO المسألة الحادية عشرة: تقسيم العقول بين الخلق
+",000,False,000,False,False,False,2,1516
+"### || AUTO المسألة الثانية عشرة: نفوذ إرادة الله
+",000,False,000,False,False,False,2,983
+"### || AUTO المسألة الثالثة عشرة: الطبع والختم
+",000,False,000,False,False,False,2,1635
+"### || AUTO المسألة الرابعة عشرة: معنى زيادة المرض من الله في قلب
+",000,False,000,False,False,False,2,1375
+"### || AUTO المسألة الخامسة عشرة: هل يعذب الله عباده على ما صنعه فيهم؟
+",000,False,000,False,False,False,2,749
+"### || AUTO المسألة السادسة عشرة: معنى قول الله تعالى: ?وإذ يعدكم ms297 الله
+",000,False,000,False,False,False,2,2570
+"### || AUTO المسألة السابعة عشرة: معنى قول الله: ?وما أصابكم يوم التقى
+",000,False,000,False,False,False,2,694
+"### || AUTO المسألة الثامنة عشرة: تزيين الله لعباده
+",000,False,000,False,False,False,2,629
+"### || AUTO المسألة التاسعة عشرة: الفرق بين الجعل التشريعي والجعل
+",000,False,000,False,False,False,2,2301
+"### || AUTO المسألة العشرون: معنى إغراء الله تعالى بين خلقه في قوله
+",000,False,000,False,False,False,2,410
+"### || AUTO المسألة الحادية والعشرون: معنى قول الله تعالى: ?وهو الذي كف
+",000,False,000,False,False,False,2,509
+"### || AUTO المسألة الثانية والعشرون: عن ما وعد الله تعالى من الغنائم
+",000,False,000,False,False,False,2,197
+"### || AUTO المسألة الثالثة والعشرون: معنى قول الله تعالى: ?فكف ms323 أيديهم عنكم?
+",000,False,000,False,False,False,2,386
+"### || AUTO المسألة الرابعة والعشرون: معنى قوله تعالى: ?وإذ كففت بني
+",000,False,000,False,False,False,2,361
+"### || AUTO المسألة الخامسة والعشرون: معنى إلقاء الرعب وقذفه
+",000,False,000,False,False,False,2,924
+"### || AUTO المسألة السادسة والعشرون: معنى قوله تعالى: ?ولقد ذرأنا لجهنم?
+",000,False,000,False,False,False,2,789
+"### || AUTO المسألة السابعة والعشرون: معنى قوله تعالى: ?ولو شاء ربك لجعل
+",000,False,000,False,False,False,2,790
+"### || AUTO المسألة الثامنة والعشرون: معنى قوله تعالى: ?إن الإنسان خلق هلوعا?
+",000,False,000,False,False,False,2,911
+"### || AUTO المسألة التاسعة والعشرون: معنى قوله تعالى: ?ولا تكونوا
+",000,False,000,False,False,False,2,424
+"### || AUTO المسألة الثلاثون: معنى قوله تعالى: ?صم بكم عمي فهم لا
+",000,False,000,False,False,False,2,360
+"### || AUTO المسألة الحادية والثلاثون: معنى قوله تعالى: ? إنما نملي لهم
+",000,False,000,False,False,False,2,355
+"### || AUTO المسألة الثانية والثلاثون: معنى قوله تعالى ?أغفلنا قلبه?
+",000,False,000,False,False,False,2,405
+"### || AUTO المسألة الثالثة والثلاثون: معنى قوله تعالى: ?أنا أرسلنا
+",000,False,000,False,False,False,2,516
+"### || AUTO المسألة الرابعة والثلاثون: هل كان فرعون يستطيع قتل موسى
+",000,False,000,False,False,False,2,383
+"### || AUTO المسألة الخامسة والثلاثون: معنى قوله تعالى: ?وكذلك حقت كلمت
+",000,False,000,False,False,False,2,485
+"### || AUTO المسألة السادسة والثلاثون: في تفضيل بعض الخلق على بعض
+",000,False,000,False,False,False,2,320
+"### || AUTO المسألة السابعة والثلاثون: في سلطان الشيطان
+",000,False,000,False,False,False,2,429
+"### || AUTO المسألة الثامنة والثلاثون: في اختصاص الله رحمته لبعض خلقه
+",000,False,000,False,False,False,2,716
+"### || AUTO المسألة التاسعة والثلاثون: في حاجة العباد إلى تأييد الله تعالى
+",000,False,000,False,False,False,2,842
+"### || AUTO المسألة الأربعون: هل خلق الله أفعال العباد؟
+",000,False,000,False,False,False,2,1190
+"### || AUTO المسألة الحادية والأربعون: هل العباد مجبورون على الأعمال؟
+",000,False,000,False,False,False,2,1285
+"### || AUTO المسألة الثانية والأربعون: هل كلف الله الملائكة؟
+",000,False,000,False,False,False,2,771
+"### || AUTO المسألة الثالثة والأربعون: هل يثيب الله عباده على ما أجبروا عليه؟
+",000,False,000,False,False,False,2,318
+"### | AUTO باب إثبات النبوة
+",000,False,000,False,False,False,1,1261
+"### || AUTO الدليل على نبوة محمد صلى الله عليه وآله ms371 وسلم
+",000,False,000,False,False,False,2,129
+"### || AUTO معجزات سيدنا محمد بن عبدالله صلوات الله عليه وآله
+",000,False,000,False,False,False,2,540
+"### | AUTO جواب مسألة النبوة والإمامة
+",000,False,000,False,False,False,1,7302
+"### || AUTO استحقاق الأنبياء وعلامتهم
+",000,False,000,False,False,False,2,339
+"### || AUTO استحقاق الأوصياء وعلمهم
+",000,False,000,False,False,False,2,200
+"### || AUTO استحقاق الأئمة وعلمهم
+",000,False,000,False,False,False,2,873
+"### || AUTO تثبيت إمامة أمير المؤمنين علي بن أبي طالب صلوات الله عليه
+",000,False,000,False,False,False,2,503
+"### || AUTO ذكر خطايا الأنبياء عليهم السلام
+",000,False,000,False,False,False,2,20
+"### || AUTO قصة آدم عليه الصلاة والسلام
+",000,False,000,False,False,False,2,969
+"### || AUTO قصة سليمان عليه الصلاة والسلام
+",000,False,000,False,False,False,2,493
+"### || AUTO قصة يونس عليه الصلاة والسلام
+",000,False,000,False,False,False,2,566
+"### || AUTO قصة أيوب عليه الصلاة والسلام
+",000,False,000,False,False,False,2,471
+"### || AUTO قصة يوسف عليه الصلاة والسلام
+",000,False,000,False,False,False,2,618
+"### || AUTO قصة داود عليه الصلاة والسلام
+",000,False,000,False,False,False,2,425
+"### || AUTO طلب إبراهيم عليه الصلاة والسلام
+",000,False,000,False,False,False,2,98
+"### || AUTO طلب موسى عليه الصلاة والسلام
+",000,False,000,False,False,False,2,350
+"### || AUTO آيات موسى التسع
+",000,False,000,False,False,False,2,223
+"### || AUTO معنى قوله تعالى: ?والله خلقكم وما تعملون? الصافات:96
+",000,False,000,False,False,False,2,80
+"### || AUTO حال النبي محمد صلى الله عليه وعلى آله قبل البعثة
+",000,False,000,False,False,False,2,182
+"### || AUTO تفسير لا حول ولا قوة إلا بالله
+",000,False,000,False,False,False,2,75
+"### || AUTO تفسير العرش والكرسي
+",000,False,000,False,False,False,2,127
+"### || AUTO الرجل يكتفي باليسير ولا يطلب العلم
+",000,False,000,False,False,False,2,81
+"### || AUTO الرجل لا يستطيع الهجرة مخافة التلف
+",000,False,000,False,False,False,2,112
+"### || AUTO تفسير قوله تعالى: ?تؤتي الملك من تشاء وتنزع الملك ممن تشاء
+",000,False,000,False,False,False,2,263
+"### | AUTO الرد على ms399 من زعم أن القرآن قد ذهب بعضه
+",000,False,000,False,False,False,1,1227
+"### || AUTO ما يلزم القائل بذهاب بعض القرآن
+",000,False,000,False,False,False,2,507
+"### || AUTO حفظ الله لكتابه
+",000,False,000,False,False,False,2,309
+"### | AUTO كتاب تفسير معاني السنة
+",000,year,000,False,False,False,1,4856
+"### || AUTO ذكر تفاصيل من الصلاة والزكاة
+",000,False,000,False,False,False,2,204
+"### || AUTO ذكر تفاصيل الدية
+",000,False,000,False,False,False,2,1227
+"### || AUTO السنة التي لا يأثم مخالفها
+",000,year,000,False,False,False,2,1941
+"### | AUTO مسألة في الإمامة
+",000,False,000,False,False,False,1,587
+"### || AUTO بما وجب على الخلق طاعة أهل البيت
+",000,False,000,False,False,False,2,579
+"### | AUTO كتاب القياس للهادي عليه السلام
+",000,False,000,False,False,False,1,4263
+"### || AUTO سبب اختلاف الأمة هو لرفضها أهل البيت
+",000,False,000,False,False,False,2,574
+"### || AUTO كل ما تحتاج إليه الأمة في كتاب الله وسنة رسوله
+",000,False,000,False,False,False,2,1314
+"### || AUTO أهل البيت هم أعلم الخلق بالكتاب والسنة
+",000,year,000,False,False,False,2,2164
+"### | AUTO كتاب دعوة وجه بها إلى أحمد بن يحيى بن زيد ومن قبله
+",000,False,000,False,False,False,1,298
+"### | AUTO فضل الجهاد
+",000,False,000,False,False,False,1,4607
+"### || AUTO حظر الجهاد إلا مع من اصطفاه الله
+",000,False,000,False,False,False,2,342
+"### || AUTO الإمام المفترضة طاعته
+",000,False,000,False,False,False,2,193
+"### || AUTO وجوب طاعة القائم لله
+",000,False,000,False,False,False,2,201
+"### || AUTO الوعيد على من تخلف عن القائم
+",000,False,000,False,False,False,2,677
+"### || AUTO ثواب من اتبع القائم
+",000,False,000,False,False,False,2,260
+"### || AUTO حكم الفاسق من آل الرسول
+",000,False,000,False,False,False,2,181
+"### || AUTO الدعوة وشروطها
+",000,False,000,False,False,False,2,239
+"### || AUTO الحث على إجابة الدعوة
+",000,False,000,False,False,False,2,2072
+"### | AUTO جواب مسائل الحسين بن عبدالله الطبري
+",000,False,000,False,False,False,1,3793
+"### || AUTO ذكر سبب الزيادة على الحد
+",000,False,000,False,False,False,2,241
+"### || AUTO ذكر خرص الثمار
+",000,False,000,False,False,False,2,315
+"### || AUTO أخذ المال من الرعية
+",000,False,000,False,False,False,2,386
+"### || AUTO تمثيل أخذ الإمام الأموال لحماية الرعية
+",000,False,000,False,False,False,2,506
+"### || AUTO عدم جواز العشر لآل الرسول صلى الله عليه وآله وسلم
+",000,False,000,False,False,False,2,531
+"### || AUTO كيفية القسم للزكاة على أصنافها
+",000,False,000,False,False,False,2,484
+"### || AUTO مثال يدل على جواز القسمة على ما يراه الإمام من المصلحة
+",000,False,000,False,False,False,2,427
+"### || AUTO بم تثبت الإمامة في الإمام من آل رسول الله صلى الله عليه وآله وسلم؟
+",000,False,000,False,False,False,2,296
+"### | AUTO من سيرة الإمام الهادي إلى الحق يحيى بن الحسين صلوات الله عليه
+",000,False,000,False,False,False,1,2245
+"### || AUTO الانهزام بسبب المعاصي
+",000,False,000,False,False,False,2,707
+"### || AUTO وصف لسيرة الهادي عليه السلام
+",000,False,000,False,False,False,2,528
+"### || AUTO عهد الإمام الهادي عليه السلام لعماله
+",000,False,000,False,False,False,2,108
+"### || AUTO الأمر بتقوى الله وبالتواضع
+",000,False,000,False,False,False,2,61
+"### || AUTO الأمر بتعريف الرعية ما أوجب الله عليها
+",000,False,000,False,False,False,2,40
+"### || AUTO التحري في اختيار العمال
+",000,False,000,False,False,False,2,56
+"### || AUTO أحكام العشور
+",000,False,000,False,False,False,2,156
+"### || AUTO أحكام زكاة الغنم
+",000,False,000,False,False,False,2,74
+"### || AUTO أحكام زكاة البقر
+",000,False,000,False,False,False,2,64
+"### || AUTO أحكام زكاة الذهب والفضة
+",000,False,000,False,False,False,2,62
+"### || AUTO أحكام توزيع الزكاة
+",000,False,000,False,False,False,2,69
+"### || AUTO الأمر بالنزاهة
+",000,False,000,False,False,False,2,34
+"### || AUTO أحكام أموال أهل الذمة وأراضيهم
+",000,False,000,False,False,False,2,269
+"### | AUTO جواب مسألة الرجل من أهل قم
+",000,False,000,False,False,False,1,1883
+"### || AUTO المعرفة
+",000,False,000,False,False,False,2,128
+"### || AUTO العقل
+",000,False,000,False,False,False,2,173
+"### || AUTO تفرع المعرفة عن العقل
+",000,False,000,False,False,False,2,400
+"### || AUTO المعرفة بالتقليد
+",000,False,000,False,False,False,2,562
+"### || AUTO إلهام البهائم
+",000,False,000,False,False,False,2,255
+"### || AUTO الدليل على أن الله خلق الأشياء لا من شيء
+",000,False,000,False,False,False,2,110
+"### || AUTO العلة في بعثة الرسل
+",000,False,000,False,False,False,2,176
+"### | AUTO جواب مسائل أبي القاسم الرازي رحمه الله تعالى
+",000,False,000,False,False,False,1,12747
+"### || AUTO المساواة والتفضيل في العقل
+",000,False,000,False,False,False,2,61
+"### || AUTO استواء العقول في ما تقام به الحجة
+",000,False,000,False,False,False,2,431
+"### || AUTO تفضيل الله لمن يشاء في الزيادة في ms485 العقول
+",000,False,000,False,False,False,2,166
+"### || AUTO الحكمة من التفاوت في الخلق
+",000,False,000,False,False,False,2,179
+"### || AUTO نوع التفاوت بين عقل رسول الله وعقل أبي جهل
+",000,False,000,False,False,False,2,110
+"### || AUTO ما يفضل الله بسبب علمه بحال العبد مستقبلا
+",000,False,000,False,False,False,2,541
+"### || AUTO تسويغ التفضيل بغير العمل
+",000,False,000,False,False,False,2,777
+"### || AUTO كيفية أخذ الوحي عن الله
+",000,False,000,False,False,False,2,343
+"### || AUTO كيفية الحساب ومعناه
+",000,False,000,False,False,False,2,222
+"### || AUTO معنى يوم القيامة
+",000,False,000,False,False,False,2,181
+"### || AUTO وجوب الهجرة في سبيل الله
+",000,False,000,False,False,False,2,327
+"### || AUTO معنى كلام الله لموسى
+",000,False,000,False,False,False,2,296
+"### || AUTO معنى النفخ في الصور
+",000,False,000,False,False,False,2,245
+"### || AUTO الروح
+",000,False,000,False,False,False,2,761
+"### || AUTO فضل الملائكة على الأنبياء
+",000,False,000,False,False,False,2,227
+"### || AUTO معنى قوله تعالى ?والسماوات مطويات بيمينه?
+",000,False,000,False,False,False,2,175
+"### || AUTO معنى قوله تعالى: ?كل نفس بما كسبت رهينة?
+",000,False,000,False,False,False,2,97
+"### || AUTO الفرق بين الاسم والمسمى
+",000,False,000,False,False,False,2,123
+"### || AUTO كيف تكون وسوسة إبليس إلى الآدمي؟
+",000,False,000,False,False,False,2,682
+"### || AUTO خلق الملائكة والشياطين
+",000,False,000,False,False,False,2,177
+"### || AUTO تبديل الأرض والسموات
+",000,False,000,False,False,False,2,390
+"### || AUTO هل العمل من الإيمان؟
+",000,False,000,False,False,False,2,1070
+"### || AUTO إقامة الحد على من لم يشمله عطاء الإمام
+",000,False,000,False,False,False,2,798
+"### || AUTO تسبيح الأشياء وسجودها لله تعالى
+",000,False,000,False,False,False,2,964
+"### || AUTO علم العبد أنه صادق عند ربه
+",000,False,000,False,False,False,2,68
+"### || AUTO وسألت عن لقاح العقل؟
+",000,False,000,False,False,False,2,23
+"### || AUTO رياضة النفس
+",000,False,000,False,False,False,2,318
+"### || AUTO علم العبد أنه مجتهد في إرضاء الله
+",000,False,000,False,False,False,2,85
+"### || AUTO علم العبد أنه قد استوجب الجنة
+",000,False,000,False,False,False,2,110
+"### || AUTO المساواة في الحق بين الغني والفقير
+",000,False,000,False,False,False,2,128
+"### || AUTO أخذ الجزية من العروض
+",000,False,000,False,False,False,2,187
+"### || AUTO كلام أهل الجنة لأهل النار
+",000,False,000,False,False,False,2,227
+"### || AUTO اجتماع أهل البيت الواحد في الجنة
+",000,False,000,False,False,False,2,69
+"### || AUTO تفسير قول الله سبحانه: ?وإن يوما عند ربك كألف سنة مما تعدون?
+",000,year,000,False,False,False,2,90
+"### || AUTO كيفية المناصفة بين العباد في الآخرة
+",000,False,000,False,False,False,2,187
+"### || AUTO خروج أكثر من إمام في عصر واحد
+",000,False,000,False,False,False,2,137
+"### || AUTO من هم أهل الأعراف؟
+",000,False,000,False,False,False,2,133
+"### || AUTO رفع اليدين في الصلاة
+",000,False,000,False,False,False,2,105
+"### || AUTO تفسيرقول الله تعالى: ?إن ربك يعلم? وحكم صلاة الليل
+",000,False,000,False,False,False,2,175
+"### || AUTO عدم ثبوت التراويح عن النبي صلى الله عليه وآله وسلم
+",000,False,000,False,False,False,2,107
+"### || AUTO التزوج من امرأة لا تعرف الدين
+",000,False,000,False,False,False,2,100
+"### || AUTO حمل العرش
+",000,False,000,False,False,False,2,184
+"### || AUTO شرط مصالحة النبي لنصارى بني تغلب
+",000,False,000,False,False,False,2,338
+"### || AUTO تبيين من المراد بقوله تعالى: ?قاتلوا الذين يلونكم من
+",000,False,000,False,False,False,2,224
+"### || AUTO معراج النبي صلى الله عليه وآله
+",000,False,000,False,False,False,2,91
+"### || AUTO معنى قوله تعالى: ?فكان قاب قوسين أو أدنى?
+",000,False,000,False,False,False,2,109
+"### || AUTO الأعجمي لا يحسن إلا سورة أو سورتين
+",000,False,000,False,False,False,2,90
+"### || AUTO تعلم النساء
+",000,False,000,False,False,False,2,106
+"### | AUTO من مسائل محمد بن عبيدالله
+",000,False,000,False,False,False,1,2968
+"### || AUTO موالاة الظالمين
+",000,False,000,False,False,False,2,263
+"### || AUTO الاستعانة بالظالمين
+",000,False,000,False,False,False,2,803
+"### || AUTO مسألة من مسائل النباعي
+",000,False,000,False,False,False,2,362
+"### || AUTO مسألة لأبي القاسم محمد بن يحيى عليهما السلام
+",000,False,000,False,False,False,2,1356
+"### || AUTO مسألة في الذبائح
+",000,False,000,False,False,False,2,178
+"### | AUTO من مسائل علي بن محمد العلوي مما سأل عنها الهادي إلى الحق
+",000,False,000,False,False,False,1,216
+"### | AUTO جواب مسائل لابنه المرتضى عليهما السلام
+",000,False,000,False,False,False,1,600

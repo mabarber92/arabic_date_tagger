@@ -1,0 +1,201 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [خطبة الكتاب]
+",000,False,000,False,False,False,1,364
+"### | بغداد
+",000,False,000,False,False,False,1,7632
+"### || سر من رأى
+",000,False,000,False,False,False,2,3027
+"### | الربع الأول وهو ربع المشرق
+",000,False,000,False,False,False,1,8160
+"### || كور الجبل
+",000,False,000,False,False,False,2,142
+"### || الصيمرة
+",000,False,000,False,False,False,2,176
+"### || حلوان
+",000,False,000,False,False,False,2,73
+"### || الدينور
+",000,False,000,False,False,False,2,43
+"### || قزوين وزنجان
+",000,False,000,False,False,False,2,101
+"### || آذربيجان
+",000,False,000,False,False,False,2,112
+"### || همذان
+",000,False,000,False,False,False,2,76
+"### || نهاوند
+",000,False,000,False,False,False,2,37
+"### || الكرج
+",000,False,000,False,False,False,2,130
+"### || قم وما يضاف إليها
+",000,False,000,False,False,False,2,190
+"### || أصبهان
+",000,False,000,False,False,False,2,231
+"### || الري
+",000,False,000,False,False,False,2,142
+"### || قومس
+",000,False,000,False,False,False,2,93
+"### || طبرستان
+",000,False,000,False,False,False,2,97
+"### || جرجان
+",000,False,000,False,False,False,2,62
+"### || طوس
+",000,False,000,False,False,False,2,149
+"### || نيسابور
+",000,False,000,False,False,False,2,214
+"### || مرو
+",000,False,000,False,False,False,2,230
+"### || بوشنج
+",000,False,000,False,False,False,2,48
+"### || بادغيس
+",000,False,000,False,False,False,2,25
+"### || سجستان
+",000,False,000,False,False,False,2,220
+"### || ولاة سجستان
+",000,False,000,False,False,False,2,992
+"### || كرمان
+",000,False,000,False,False,False,2,113
+"### || الطالقان
+",000,False,000,False,False,False,2,40
+"### || الجوزجان
+",000,False,000,False,False,False,2,51
+"### || بلخ
+",000,False,000,False,False,False,2,731
+"### || مرو رود
+",000,False,000,False,False,False,2,210
+"### || ختل
+",000,False,000,False,False,False,2,67
+"### || بخارا
+",000,False,000,False,False,False,2,69
+"### || الصغد
+",000,False,000,False,False,False,2,41
+"### || سمرقند
+",000,False,000,False,False,False,2,173
+"### || فرغانة
+",000,False,000,False,False,False,2,30
+"### || إشتاخنج
+",000,False,000,False,False,False,2,64
+"### || الشاش
+",000,False,000,False,False,False,2,154
+"### || ولاة خراسان
+",000,False,000,False,False,False,2,2948
+"### | [الربع الثانى] الربع القبلي
+",000,False,000,False,False,False,1,1917
+"### || خطط الكوفة
+",000,False,000,False,False,False,2,396
+"### || المنازل من الكوفة إلى المدينة ومكة
+",000,False,000,False,False,False,2,147
+"### || مدينة رسول الله صلى الله عليه وسلم
+",000,False,000,False,False,False,2,419
+"### || مكة وأعمالها
+",000,False,000,False,False,False,2,465
+"### || ومن مكة إلى اليمن
+",000,False,000,False,False,False,2,150
+"### || جزائر اليمن
+",000,False,000,False,False,False,2,28
+"### || سواحلها
+",000,False,000,False,False,False,2,20
+"### || تسمية من يسكن كل بلد من قبائل العرب باليمن
+",000,False,000,False,False,False,2,59
+"### | الربع الثالث الجربي وهو ربع الشمال
+",000,False,000,False,False,False,1,8047
+"### || البصرة
+",000,False,000,False,False,False,2,156
+"### || جند حمص
+",000,False,000,False,False,False,2,268
+"### || جند دمشق
+",000,False,000,False,False,False,2,438
+"### || جند الأردن
+",000,False,000,False,False,False,2,163
+"### || جند فلسطين
+",000,False,000,False,False,False,2,332
+"### || مصر وكورها
+",000,False,000,False,False,False,2,776
+"### || معادن التبر
+",000,False,000,False,False,False,2,284
+"### || بلاد النوبة
+",000,False,000,False,False,False,2,135
+"### || بلاد البجة
+",000,False,000,False,False,False,2,723
+"### || طريق مكة من مصر
+",000,False,000,False,False,False,2,296
+"### || المغرب
+",000,False,000,False,False,False,2,209
+"### || برقة
+",000,False,000,False,False,False,2,290
+"### || سرت
+",000,False,000,False,False,False,2,149
+"### || ودان
+",000,False,000,False,False,False,2,67
+"### || زويلة
+",000,False,000,False,False,False,2,102
+"### || فزان
+",000,False,000,False,False,False,2,120
+"### || أطرابلس
+",000,False,000,False,False,False,2,179
+"### || القيروان
+",000,False,000,False,False,False,2,1388
+"### || جزيرة الأندلس ومدنها
+",000,False,000,False,False,False,2,490
+"### || رجعنا إلى ذكر تاهرت في معظم طريق المغرب
+",000,False,000,False,False,False,2,759
+"### || سجلماسة
+",000,False,000,False,False,False,2,89
+"### || السوس الأقصى
+",000,False,000,False,False,False,2,218
+"### | إلحاقات
+",000,False,000,False,False,False,1,2583
+"### || مساجد البصرة
+",000,False,000,False,False,False,2,17
+"### || نهر الأهواز
+",000,False,000,False,False,False,2,125
+"### || شيراز
+",000,False,000,False,False,False,2,44
+"### || نصيبين
+",000,False,000,False,False,False,2,68
+"### || المصيصة
+",000,False,000,False,False,False,2,39
+"### || عين زربة
+",000,False,000,False,False,False,2,30
+"### || ملطية
+",000,False,000,False,False,False,2,65
+"### || رعبان ودلوك
+",000,False,000,False,False,False,2,76
+"### || كيسوم
+",000,False,000,False,False,False,2,15
+"### || منبج
+",000,False,000,False,False,False,2,35
+"### || أذنة
+",000,False,000,False,False,False,2,25
+"### || باب إسكندرونة
+",000,False,000,False,False,False,2,36
+"### || تفليس
+",000,False,000,False,False,False,2,140
+"### || أرمينية
+",000,False,000,False,False,False,2,54
+"### || المسك
+",000,False,000,False,False,False,2,380
+"### || العنبر
+",000,False,000,False,False,False,2,362
+"### || العود
+",000,False,000,False,False,False,2,143
+"### || السنبل الهندي
+",000,False,000,False,False,False,2,215
+"### || القرنفل
+",000,False,000,False,False,False,2,80
+"### || الغوالي
+",000,False,000,False,False,False,2,78
+"### || صفة رامك وسك آخر
+",000,False,000,False,False,False,2,32
+"### || البان
+",000,False,000,False,False,False,2,71
+"### || ماء التفاح
+",000,False,000,False,False,False,2,34
+"### || حب لإزالة البخر
+",000,False,000,False,False,False,2,37
+"### || تسمية نصارى الحيرة بالعباد
+",000,False,000,False,False,False,2,61
+"### || ما أنفقه الخلفاء والملوك
+",000,False,000,False,False,False,2,183
+"### || رثاء ابن طولون
+",000,False,000,False,False,False,2,183
+"### || صفة سمرقند
+",000,False,000,False,False,False,2,68

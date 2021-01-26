@@ -1,0 +1,13 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | ذكر ما يحتمله الشعر
+",000,False,000,False,False,False,1,225
+"### | ذكر أنواع الضرائر
+",000,False,000,False,False,False,1,19
+"### | فصل الزيادة
+",000,False,000,False,False,False,1,6711
+"### | فصل النقص
+",000,False,000,False,False,False,1,10954
+"### | فصل التقديم والتأخير
+",000,False,000,False,False,False,1,3139
+"### | فصل البدل
+",000,False,000,False,False,False,1,10831

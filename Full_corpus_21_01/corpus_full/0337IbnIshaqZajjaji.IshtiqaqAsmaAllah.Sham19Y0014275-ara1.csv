@@ -1,0 +1,543 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK خطبة الكتاب
+",000,False,000,False,False,False,1,553
+"### | AUTO القول في اشتقاقها، وتصاريفها، واللغات
+",000,False,000,False,False,False,1,12
+"### | AUTO الله
+",000,False,000,False,False,False,1,1162
+"### | AUTO الرب
+",000,False,000,False,False,False,1,2
+"### | AUTO الرب
+",000,False,000,False,False,False,1,23
+"### | AUTO الرب
+",000,False,000,False,False,False,1,2
+"### | AUTO الرب
+",000,False,000,False,False,False,1,341
+"### | AUTO مسألة في رب من النحو
+",000,False,000,False,False,False,1,397
+"### | AUTO الرحمن الرحيم
+",000,False,000,False,False,False,1,630
+"### | AUTO المالك
+",000,False,000,False,False,False,1,2
+"### | AUTO المالك
+",000,False,000,False,False,False,1,23
+"### | AUTO المالك
+",000,False,000,False,False,False,1,537
+"### | AUTO المحيط
+",000,False,000,False,False,False,1,2
+"### | AUTO المحيط
+",000,False,000,False,False,False,1,207
+"### | AUTO القدير
+",000,False,000,False,False,False,1,2
+"### | AUTO القدير
+",000,False,000,False,False,False,1,348
+"### | CHECK العليم
+",000,False,000,False,False,False,1,1714
+"### | AUTO الحكيم
+",000,False,000,False,False,False,1,2
+"### | AUTO الحكيم
+",000,False,000,False,False,False,1,32
+"### | AUTO الحكيم
+",000,False,000,False,False,False,1,418
+"### | AUTO التواب
+",000,False,000,False,False,False,1,2
+"### | AUTO التواب
+",000,False,000,False,False,False,1,455
+"### | AUTO البصير
+",000,False,000,False,False,False,1,2
+"### | AUTO البصير
+",000,False,000,False,False,False,1,6
+"### | AUTO البصير
+",000,False,000,False,False,False,1,1109
+"### | AUTO الواسع
+",000,False,000,False,False,False,1,2
+"### | AUTO الواسع
+",000,False,000,False,False,False,1,229
+"### | AUTO البديع
+",000,False,000,False,False,False,1,2
+"### | AUTO البديع
+",000,False,000,False,False,False,1,14
+"### | AUTO البديع
+",000,False,000,False,False,False,1,5
+"### | AUTO البديع
+",000,False,000,False,False,False,1,165
+"### | AUTO السميع
+",000,False,000,False,False,False,1,2
+"### | AUTO السميع
+",000,False,000,False,False,False,1,6
+"### | AUTO السميع
+",000,False,000,False,False,False,1,44
+"### | AUTO السميع
+",000,False,000,False,False,False,1,33
+"### | AUTO السميع
+",000,False,000,False,False,False,1,42
+"### | AUTO السميع
+",000,False,000,False,False,False,1,862
+"### | AUTO الكافي
+",000,False,000,False,False,False,1,2
+"### | AUTO الكافي
+",000,False,000,False,False,False,1,570
+"### | AUTO الرؤوف
+",000,False,000,False,False,False,1,2
+"### | AUTO الرؤوف
+",000,False,000,False,False,False,1,79
+"### | AUTO الشاكر
+",000,False,000,False,False,False,1,2
+"### | AUTO الشاكر
+",000,False,000,False,False,False,1,481
+"### | AUTO الإله
+",000,False,000,False,False,False,1,4
+"### | AUTO الإله
+",000,False,000,False,False,False,1,17
+"### | AUTO الواحد
+",000,False,000,False,False,False,1,2
+"### | AUTO الواحد
+",000,False,000,False,False,False,1,4
+"### | AUTO الواحد
+",000,False,000,False,False,False,1,13
+"### | AUTO الواحد
+",000,False,000,False,False,False,1,11
+"### | AUTO الواحد
+",000,False,000,False,False,False,1,30
+"### | AUTO الواحد
+",000,False,000,False,False,False,1,16
+"### | AUTO الواحد
+",000,False,000,False,False,False,1,686
+"### | AUTO الغفور
+",000,False,000,False,False,False,1,2
+"### | AUTO الغفور
+",000,False,000,False,False,False,1,396
+"### | AUTO الحليم
+",000,False,000,False,False,False,1,2
+"### | AUTO الحليم
+",000,False,000,False,False,False,1,153
+"### | AUTO القابض
+",000,False,000,False,False,False,1,2
+"### | AUTO القابض
+",000,False,000,False,False,False,1,58
+"### | AUTO القابض
+",000,False,000,False,False,False,1,24
+"### | AUTO القابض
+",000,False,000,False,False,False,1,266
+"### | AUTO الباسط
+",000,False,000,False,False,False,1,2
+"### | AUTO الباسط
+",000,False,000,False,False,False,1,52
+"### | AUTO الباسط
+",000,False,000,False,False,False,1,19
+"### | AUTO الباسط
+",000,False,000,False,False,False,1,204
+"### | AUTO يا لا إله إلا هو
+",000,False,000,False,False,False,1,67
+"### | AUTO يا لا إله إلا هو
+",000,False,000,False,False,False,1,97
+"### | AUTO الحي
+",000,False,000,False,False,False,1,68
+"### | AUTO الحي
+",000,False,000,False,False,False,1,2
+"### | AUTO الحي
+",000,False,000,False,False,False,1,8
+"### | AUTO الحي
+",000,False,000,False,False,False,1,8
+"### | AUTO الحي
+",000,False,000,False,False,False,1,20
+"### | AUTO الحي
+",000,False,000,False,False,False,1,3
+"### | AUTO الحي
+",000,False,000,False,False,False,1,17
+"### | AUTO الحي
+",000,False,000,False,False,False,1,5
+"### | AUTO الحي
+",000,False,000,False,False,False,1,8
+"### | AUTO الحي
+",000,False,000,False,False,False,1,522
+"### | AUTO القيوم
+",000,False,000,False,False,False,1,2
+"### | AUTO القيوم
+",000,False,000,False,False,False,1,29
+"### | AUTO القيوم
+",000,False,000,False,False,False,1,516
+"### | AUTO العلي
+",000,False,000,False,False,False,1,2
+"### | AUTO العلي
+",000,False,000,False,False,False,1,557
+"### | AUTO العظيم
+",000,False,000,False,False,False,1,2
+"### | AUTO العظيم
+",000,False,000,False,False,False,1,203
+"### | AUTO الولي
+",000,False,000,False,False,False,1,2
+"### | AUTO الولي
+",000,False,000,False,False,False,1,913
+"### | AUTO الغني
+",000,False,000,False,False,False,1,2
+"### | AUTO الغني
+",000,False,000,False,False,False,1,40
+"### | AUTO الغني
+",000,False,000,False,False,False,1,28
+"### | AUTO الغني
+",000,False,000,False,False,False,1,1301
+"### | AUTO الحميد
+",000,False,000,False,False,False,1,2
+"### | AUTO الحميد
+",000,False,000,False,False,False,1,21
+"### | AUTO القائم
+",000,False,000,False,False,False,1,2
+"### | AUTO القائم
+",000,False,000,False,False,False,1,2
+"### | AUTO القائم
+",000,False,000,False,False,False,1,7
+"### | AUTO القائم
+",000,False,000,False,False,False,1,11
+"### | AUTO الوهاب
+",000,False,000,False,False,False,1,2
+"### | AUTO الوهاب
+",000,False,000,False,False,False,1,173
+"### | AUTO السريع
+",000,False,000,False,False,False,1,2
+"### | AUTO السريع
+",000,False,000,False,False,False,1,15
+"### | AUTO السريع
+",000,False,000,False,False,False,1,35
+"### | AUTO السريع
+",000,False,000,False,False,False,1,39
+"### | AUTO الخبير
+",000,False,000,False,False,False,1,2
+"### | AUTO الخبير
+",000,False,000,False,False,False,1,85
+"### | AUTO الرقيب
+",000,False,000,False,False,False,1,2
+"### | AUTO الرقيب
+",000,False,000,False,False,False,1,93
+"### | AUTO الحسيب
+",000,False,000,False,False,False,1,2
+"### | AUTO الحسيب
+",000,False,000,False,False,False,1,6
+"### | AUTO الحسيب
+",000,False,000,False,False,False,1,18
+"### | AUTO الحسيب
+",000,False,000,False,False,False,1,18
+"### | AUTO الحسيب
+",000,False,000,False,False,False,1,8
+"### | AUTO الحسيب
+",000,False,000,False,False,False,1,351
+"### | AUTO الشهيد
+",000,False,000,False,False,False,1,2
+"### | AUTO الشهيد
+",000,False,000,False,False,False,1,50
+"### | AUTO الشهيد
+",000,False,000,False,False,False,1,301
+"### | AUTO العفو
+",000,False,000,False,False,False,1,2
+"### | AUTO العفو
+",000,False,000,False,False,False,1,34
+"### | AUTO العفو
+",000,False,000,False,False,False,1,5
+"### | AUTO العفو
+",000,False,000,False,False,False,1,51
+"### | AUTO العفو
+",000,False,000,False,False,False,1,6
+"### | AUTO العفو
+",000,False,000,False,False,False,1,15
+"### | AUTO العفو
+",000,False,000,False,False,False,1,172
+"### | AUTO المقيت
+",000,False,000,False,False,False,1,2
+"### | AUTO المقيت
+",000,False,000,False,False,False,1,21
+"### | AUTO المقيت
+",000,False,000,False,False,False,1,26
+"### | AUTO الوكيل
+",000,False,000,False,False,False,1,2
+"### | AUTO الوكيل
+",000,False,000,False,False,False,1,28
+"### | AUTO الوكيل
+",000,False,000,False,False,False,1,8
+"### | AUTO الوكيل
+",000,False,000,False,False,False,1,29
+"### | AUTO الباطن والظاهر
+",000,False,000,False,False,False,1,119
+"### | AUTO القدير
+",000,False,000,False,False,False,1,2
+"### | AUTO القدير
+",000,False,000,False,False,False,1,18
+"### | AUTO اللطيف
+",000,False,000,False,False,False,1,2
+"### | AUTO اللطيف
+",000,False,000,False,False,False,1,184
+"### | CHECK المحيي المميت
+",000,False,000,False,False,False,1,315
+"### | CHECK يا نعم المولى ونعم النصير
+",000,False,000,False,False,False,1,833
+"### | AUTO الحفيظ
+",000,False,000,False,False,False,1,2
+"### | AUTO الحفيظ
+",000,False,000,False,False,False,1,76
+"### | AUTO القريب
+",000,False,000,False,False,False,1,2
+"### | AUTO القريب
+",000,False,000,False,False,False,1,6
+"### | AUTO القريب
+",000,False,000,False,False,False,1,318
+"### | AUTO يا مجيب
+",000,False,000,False,False,False,1,162
+"### | AUTO القوي
+",000,False,000,False,False,False,1,2
+"### | AUTO القوي
+",000,False,000,False,False,False,1,28
+"### | AUTO القوي
+",000,False,000,False,False,False,1,380
+"### | AUTO المجيد
+",000,False,000,False,False,False,1,2
+"### | AUTO المجيد
+",000,False,000,False,False,False,1,15
+"### | AUTO المجيد
+",000,False,000,False,False,False,1,14
+"### | AUTO الودود
+",000,False,000,False,False,False,1,14
+"### | AUTO الودود
+",000,False,000,False,False,False,1,87
+"### | AUTO الفعال
+",000,False,000,False,False,False,1,2
+"### | AUTO الفعال
+",000,False,000,False,False,False,1,557
+"### | AUTO الكبير
+",000,False,000,False,False,False,1,2
+"### | AUTO الكبير
+",000,False,000,False,False,False,1,1127
+"### | AUTO المتعالي
+",000,False,000,False,False,False,1,33
+"### | AUTO المتعالي
+",000,False,000,False,False,False,1,48
+"### | AUTO المتعالي
+",000,False,000,False,False,False,1,358
+"### | AUTO المنان
+",000,False,000,False,False,False,1,262
+"### | AUTO الخلاق والخالق
+",000,False,000,False,False,False,1,315
+"### | AUTO الباعث
+",000,False,000,False,False,False,1,2
+"### | AUTO الباعث
+",000,False,000,False,False,False,1,57
+"### | AUTO الصادق
+",000,False,000,False,False,False,1,2
+"### | AUTO الصادق
+",000,False,000,False,False,False,1,11
+"### | AUTO الصادق
+",000,False,000,False,False,False,1,1070
+"### | AUTO الوارث
+",000,False,000,False,False,False,1,439
+"### | AUTO الكريم
+",000,False,000,False,False,False,1,2
+"### | AUTO الكريم
+",000,False,000,False,False,False,1,4
+"### | AUTO الكريم
+",000,False,000,False,False,False,1,4
+"### | AUTO الكريم
+",000,False,000,False,False,False,1,19
+"### | AUTO الكريم
+",000,False,000,False,False,False,1,64
+"### | AUTO الكريم
+",000,False,000,False,False,False,1,339
+"### | AUTO الحق
+",000,False,000,False,False,False,1,11
+"### | AUTO الحق
+",000,False,000,False,False,False,1,40
+"### | AUTO الحق
+",000,False,000,False,False,False,1,4
+"### | AUTO الحق
+",000,False,000,False,False,False,1,9
+"### | AUTO الحق
+",000,False,000,False,False,False,1,4
+"### | AUTO الحق
+",000,False,000,False,False,False,1,15
+"### | AUTO الحق
+",000,False,000,False,False,False,1,305
+"### | AUTO المبين
+",000,False,000,False,False,False,1,13
+"### | AUTO المبين
+",000,False,000,False,False,False,1,143
+"### | AUTO النور
+",000,False,000,False,False,False,1,988
+"### | AUTO الهادي
+",000,False,000,False,False,False,1,5
+"### | AUTO الهادي
+",000,False,000,False,False,False,1,25
+"### | AUTO الهادي
+",000,False,000,False,False,False,1,179
+"### | AUTO الفتاح
+",000,False,000,False,False,False,1,2
+"### | AUTO الفتاح
+",000,False,000,False,False,False,1,24
+"### | AUTO الغافر
+",000,False,000,False,False,False,1,2
+"### | AUTO الغافر
+",000,False,000,False,False,False,1,20
+"### | AUTO القابل
+",000,False,000,False,False,False,1,2
+"### | AUTO القابل
+",000,False,000,False,False,False,1,11
+"### | AUTO القابل
+",000,False,000,False,False,False,1,24
+"### | AUTO القابل
+",000,False,000,False,False,False,1,15
+"### | AUTO القابل
+",000,False,000,False,False,False,1,389
+"### | AUTO الشديد
+",000,False,000,False,False,False,1,2
+"### | AUTO الشديد
+",000,False,000,False,False,False,1,13
+"### | AUTO الشديد
+",000,False,000,False,False,False,1,30
+"### | AUTO الشديد
+",000,False,000,False,False,False,1,8
+"### | AUTO الشديد
+",000,False,000,False,False,False,1,8
+"### | AUTO الشديد
+",000,False,000,False,False,False,1,61
+"### | AUTO الشديد
+",000,False,000,False,False,False,1,31
+"### | CHECK ذي الطول
+",000,False,000,False,False,False,1,179
+"### | AUTO الرزاق
+",000,False,000,False,False,False,1,8
+"### | AUTO الرزاق
+",000,False,000,False,False,False,1,4
+"### | AUTO ذو القوى
+",000,False,000,False,False,False,1,10
+"### | AUTO المتين
+",000,False,000,False,False,False,1,3
+"### | AUTO المتين
+",000,False,000,False,False,False,1,31
+"### | AUTO المتين
+",000,False,000,False,False,False,1,670
+"### | AUTO البار
+",000,False,000,False,False,False,1,2
+"### | AUTO البار
+",000,False,000,False,False,False,1,23
+"### | AUTO المقتدر
+",000,False,000,False,False,False,1,14
+"### | AUTO الباقي
+",000,False,000,False,False,False,1,2
+"### | AUTO الباقي
+",000,False,000,False,False,False,1,24
+"### | AUTO الباقي
+",000,False,000,False,False,False,1,7
+"### | AUTO الباقي
+",000,False,000,False,False,False,1,15
+"### | AUTO الباقي
+",000,False,000,False,False,False,1,119
+"### | AUTO ذو الجلال
+",000,False,000,False,False,False,1,8
+"### | AUTO ذو الجلال
+",000,False,000,False,False,False,1,222
+"### | AUTO ذو الإكرام
+",000,False,000,False,False,False,1,25
+"### | AUTO الأول والآخر
+",000,False,000,False,False,False,1,424
+"### | AUTO مسألة من هذا الباب
+",000,False,000,False,False,False,1,260
+"### | CHECK مسألة أخرى فيه
+",000,False,000,False,False,False,1,148
+"### | AUTO الباطن
+",000,False,000,False,False,False,1,7
+"### | AUTO الباطن
+",000,False,000,False,False,False,1,827
+"### | AUTO القدوس
+",000,False,000,False,False,False,1,2
+"### | AUTO القدوس
+",000,False,000,False,False,False,1,53
+"### | AUTO السلام
+",000,False,000,False,False,False,1,2
+"### | AUTO السلام
+",000,False,000,False,False,False,1,3
+"### | AUTO السلام
+",000,False,000,False,False,False,1,13
+"### | AUTO السلام
+",000,False,000,False,False,False,1,14
+"### | AUTO السلام
+",000,False,000,False,False,False,1,7
+"### | AUTO السلام
+",000,False,000,False,False,False,1,8
+"### | AUTO السلام
+",000,False,000,False,False,False,1,28
+"### | AUTO السلام
+",000,False,000,False,False,False,1,7
+"### | AUTO السلام
+",000,False,000,False,False,False,1,7
+"### | AUTO السلام
+",000,False,000,False,False,False,1,2
+"### | AUTO السلام
+",000,False,000,False,False,False,1,7
+"### | AUTO السلام
+",000,False,000,False,False,False,1,6
+"### | AUTO السلام
+",000,False,000,False,False,False,1,1014
+"### | AUTO المؤمن
+",000,False,000,False,False,False,1,2
+"### | AUTO المؤمن
+",000,False,000,False,False,False,1,1044
+"### | AUTO المهيمن
+",000,False,000,False,False,False,1,3
+"### | AUTO المهيمن
+",000,False,000,False,False,False,1,5
+"### | AUTO المهيمن
+",000,False,000,False,False,False,1,1228
+"### | AUTO العزيز
+",000,False,000,False,False,False,1,2
+"### | AUTO العزيز
+",000,False,000,False,False,False,1,8
+"### | AUTO العزيز
+",000,False,000,False,False,False,1,37
+"### | AUTO العزيز
+",000,False,000,False,False,False,1,14
+"### | AUTO العزيز
+",000,False,000,False,False,False,1,484
+"### | AUTO الجبار
+",000,False,000,False,False,False,1,2
+"### | AUTO الجبار
+",000,False,000,False,False,False,1,20
+"### | AUTO الجبار
+",000,False,000,False,False,False,1,21
+"### | AUTO الجبار
+",000,False,000,False,False,False,1,29
+"### | AUTO الجبار
+",000,False,000,False,False,False,1,205
+"### | AUTO المتكبر
+",000,False,000,False,False,False,1,26
+"### | AUTO الخالق
+",000,False,000,False,False,False,1,9
+"### | CHECK الباريء
+",000,False,000,False,False,False,1,164
+"### | AUTO المصور
+",000,False,000,False,False,False,1,2
+"### | AUTO المصور
+",000,False,000,False,False,False,1,123
+"### | CHECK المبديء المعيد
+",000,False,000,False,False,False,1,1317
+"### | AUTO الأحد
+",000,False,000,False,False,False,1,10
+"### | AUTO الصمد
+",000,False,000,False,False,False,1,2
+"### | AUTO الصمد
+",000,False,000,False,False,False,1,19
+"### | AUTO الصمد
+",000,False,000,False,False,False,1,16
+"### | AUTO الصمد PageV01P252
+",000,False,000,False,False,False,1,103
+"### | AUTO باب
+",000,False,000,False,False,False,1,438
+"### | AUTO باب
+",000,False,000,False,False,False,1,359
+"### | AUTO باب
+",000,False,000,False,False,False,1,1008
+"### | AUTO باب
+",000,False,000,False,False,False,1,756
+"### | AUTO باب
+",000,False,000,False,False,False,1,1556
+"### | AUTO باب
+",000,False,000,False,False,False,1,365
+"### | AUTO باب
+",000,False,000,False,False,False,1,3756
+"### | AUTO باب
+",000,False,000,False,False,False,1,742

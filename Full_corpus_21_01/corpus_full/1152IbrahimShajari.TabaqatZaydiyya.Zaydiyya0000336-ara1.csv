@@ -1,0 +1,123 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK [الجزء الأول]
+",000,False,000,False,False,False,1,114345
+"### || CHECK [إبراهيم بن رسول الله -صلىالله عليه وآله وسلم-]
+",000,False,000,False,False,False,2,126
+"### || AUTO علي بن أبي طالب
+",000,False,000,False,False,False,2,420
+"### || AUTO الحسن بن علي بن أبي طالب
+",000,False,000,False,False,False,2,205
+"### || AUTO الحسين بن علي بن أبي طالب -عليه السلام-
+",000,False,000,False,False,False,2,216
+"### ||| CHECK [أبي بن كعب بن قيس الأنصاري الخزرجي]
+",000,False,000,False,False,False,3,8
+"### || AUTO فصل ومن هنا الشروع على حروف المعجم.
+",000,False,000,False,False,False,2,8
+"### || AUTO فصل الهمزة
+",000,False,000,False,False,False,2,699
+"### ||| AUTO أسامة بن زيد
+",000,False,000,False,False,False,3,141
+"### ||| AUTO أسلع بن شريك بن عرف التميمي في الأصح
+",000,False,000,False,False,False,3,38
+"### ||| AUTO ### ||| AUTO أسيد بن أبي إياس
+",000,False,000,False,False,False,3,140
+"### ||| AUTO أفلح
+",000,False,000,False,False,False,3,40
+"### ||| AUTO أفلح بن أبي القعيس عم عائشة أم المؤمنين من الرضاعة وهكذا
+",000,False,000,False,False,False,3,65
+"### ||| AUTO أنس بن الحارث من بني أسد
+",000,False,000,False,False,False,3,25
+"### ||| CHECK [أوس بن الصامت بن قيس بن أصرم الأنصاري]
+",000,False,000,False,False,False,3,9
+"### ||| AUTO أنس بن مالك بن النضر الأنصاري
+",000,False,000,False,False,False,3,158
+"### ||| CHECK [بديل بن ورقاء بن ربيعة بن عبد العزى بن ربيعة الخزاعي]
+",000,False,000,False,False,False,3,12
+"### || AUTO فصل الباء الموحدة
+",000,False,000,False,False,False,2,519
+"### ||| AUTO البراء بن عازب
+",000,False,000,False,False,False,3,63
+"### ||| AUTO بشر بن عاصم
+",000,False,000,False,False,False,3,54
+"### ||| CHECK [بريدة بن الحصيب]
+",000,False,000,False,False,False,3,147
+"### ||| AUTO بشير بن سعد
+",000,False,000,False,False,False,3,197
+"### || AUTO فصل في التاء المثناة
+",000,False,000,False,False,False,2,105
+"### || AUTO فصل الثاء مثلثة
+",000,False,000,False,False,False,2,112
+"### || AUTO فصل الجيم
+",000,False,000,False,False,False,2,851
+"### || AUTO فصل الحاء مهملة
+",000,False,000,False,False,False,2,883
+"### || AUTO فصل الخاء معجمة ms015
+",000,False,000,False,False,False,2,350
+"### || AUTO فصل الدال
+",000,False,000,False,False,False,2,45
+"### || AUTO فصل الذال معجمة
+",000,False,000,False,False,False,2,52
+"### || AUTO فصل الراء مهملة
+",000,False,000,False,False,False,2,184
+"### || AUTO فصل الزاي
+",000,False,000,False,False,False,2,511
+"### || AUTO فصل السين مهملة
+",000,False,000,False,False,False,2,1438
+"### || AUTO فصل الشين معجمة
+",000,False,000,False,False,False,2,241
+"### || AUTO فصل الصاد مهملة
+",000,False,000,False,False,False,2,252
+"### || AUTO فصل الضاد معجمة
+",000,False,000,False,False,False,2,104
+"### || AUTO فصل الطاء
+",000,False,000,False,False,False,2,315
+"### || AUTO فصل العين مهملة
+",000,False,000,False,False,False,2,5226
+"### || AUTO فصل الغين معجمة
+",000,False,000,False,False,False,2,288
+"### || AUTO فصل القاف
+",000,False,000,False,False,False,2,297
+"### || AUTO فصل الكاف
+",000,False,000,False,False,False,2,223
+"### || AUTO فصل اللام
+",000,False,000,False,False,False,2,110
+"### || AUTO فصل الميم
+",000,False,000,False,False,False,2,1836
+"### || AUTO فصل النون
+",000,False,000,False,False,False,2,243
+"### || AUTO فصل الهاء
+",000,False,000,False,False,False,2,143
+"### || AUTO فصل الواو
+",000,False,000,False,False,False,2,380
+"### || AUTO فصل الياء
+",000,False,000,False,False,False,2,83
+"### || AUTO فصل في الكنى
+",000,False,000,False,False,False,2,97676
+"### ||| AUTO الهمزة
+",000,False,000,False,False,False,3,209
+"### ||| AUTO فصل الباء الموحدة
+",000,False,000,False,False,False,3,911
+"### |||| AUTO أبو بصرة الغفاري
+",000,False,000,False,False,False,4,748
+"### ||| AUTO فصل الدال
+",000,False,000,False,False,False,3,75
+"### ||| AUTO فصل الذال
+",000,False,000,False,False,False,3,135
+"### ||| AUTO الراء المهملة
+",000,False,000,False,False,False,3,228
+"### ||| AUTO السين مهملة
+",000,False,000,False,False,False,3,229
+"### ||| AUTO فصل الطاء
+",000,False,000,False,False,False,3,191
+"### ||| AUTO فصل العين مهملة
+",000,False,000,False,False,False,3,587
+"### ||| AUTO فصل القاف
+",000,False,000,False,False,False,3,265
+"### ||| AUTO فصل الكاف
+",000,False,000,False,False,False,3,40
+"### ||| AUTO فصل اللام
+",000,False,000,False,False,False,3,164
+"### ||| AUTO فصل الميم
+",000,False,000,False,False,False,3,94638
+"### | AUTO الجزء الثاني
+",000,False,000,False,False,False,1,124997

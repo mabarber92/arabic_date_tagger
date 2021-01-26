@@ -1,0 +1,701 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | نحو مير
+",000,False,000,False,False,False,1,113
+"### | مقدمة
+",000,False,000,False,False,False,1,98
+"### | تقريظ
+",000,False,000,False,False,False,1,140
+"### | فصل: [في أقسام كلام العرب]
+",000,False,000,False,False,False,1,19
+"### | 1 - 
+",000,False,000,False,False,False,1,3
+"### | 2 - 
+",000,False,000,False,False,False,1,4
+"### | المفرد: 
+",000,False,000,False,False,False,1,16
+"### | 1 - 
+",000,False,000,False,False,False,1,7
+"### | 2 - 
+",000,False,000,False,False,False,1,7
+"### | 3 - 
+",000,False,000,False,False,False,1,11
+"### | المركب: 
+",000,False,000,False,False,False,1,11
+"### | 1 - 
+",000,False,000,False,False,False,1,3
+"### | 2 - 
+",000,False,000,False,False,False,1,26
+"### | 1 - 
+",000,False,000,False,False,False,1,3
+"### | 2 - 
+",000,False,000,False,False,False,1,3
+"### | فصل: [في أقسام المركب المفيد]
+",000,False,000,False,False,False,1,9
+"### | الجملة الخبرية: 
+",000,False,000,False,False,False,1,12
+"### | الأول: ما كان جزءه الأول اسما، فتسمى جملة اسمية، 
+",000,False,000,False,False,False,1,22
+"### | الثاني: ما كان جزءه الأول فعلا، فتسمى جملة فعلية، 
+",000,False,000,False,False,False,1,53
+"### | الجملة الإنشائية: 
+",000,False,000,False,False,False,1,46
+"### | 
+",000,False,000,False,False,False,1,0
+"### | فصل
+",000,False,000,False,False,False,1,30
+"### | الأول: المركب الإضافي
+",000,False,000,False,False,False,1,16
+"### | الثاني: المركب العددي
+",000,False,000,False,False,False,1,37
+"### | الثالث: مركب منع الصرف
+",000,False,000,False,False,False,1,53
+"### | فصل
+",000,False,000,False,False,False,1,61
+"### | فصل: [في 
+",000,False,000,False,False,False,1,4
+"### | علامات الاسم
+",000,False,000,False,False,False,1,56
+"### | علامات الفعل
+",000,False,000,False,False,False,1,36
+"### | علامة الحرف
+",000,False,000,False,False,False,1,13
+"### | فصل: [في أقسام كلمات العرب]
+",000,False,000,False,False,False,1,17
+"### | 1 - 
+",000,False,000,False,False,False,1,3
+"### | 2 - 
+",000,False,000,False,False,False,1,3
+"### | المعرب 
+",000,False,000,False,False,False,1,38
+"### | المبني]
+",000,False,000,False,False,False,1,71
+"### | 1 - 
+",000,False,000,False,False,False,1,5
+"### | 2 - 
+",000,False,000,False,False,False,1,7
+"### | 3 - 
+",000,False,000,False,False,False,1,19
+"### | فصل: [في أقسام الاسم غير المتمكن]
+",000,False,000,False,False,False,1,14
+"### | الأول: المضمرات
+",000,False,000,False,False,False,1,94
+"### | الثاني: أسماء الإشارة
+",000,False,000,False,False,False,1,20
+"### | الثالث: الأسماء الموصولات
+",000,False,000,False,False,False,1,48
+"### | الرابع: أسماء أفعال
+",000,False,000,False,False,False,1,7
+"### | الأول: في معني الأمر الحاضر
+",000,False,000,False,False,False,1,15
+"### | الثاني: في معنى الفعل الماضي
+",000,False,000,False,False,False,1,11
+"### | الخامس: أسماء الأصوات
+",000,False,000,False,False,False,1,11
+"### | السادس: أسماء الظروف
+",000,False,000,False,False,False,1,9
+"### | ظرف الزمان
+",000,False,000,False,False,False,1,26
+"### | ظرف المكان
+",000,False,000,False,False,False,1,17
+"### | السابع: أسماء الكنايات
+",000,False,000,False,False,False,1,19
+"### | 2 - 
+",000,False,000,False,False,False,1,3
+"### | إما عن الحديث، 
+",000,False,000,False,False,False,1,8
+"### | الثامن: المركب العددي
+",000,False,000,False,False,False,1,9
+"### | فصل: [في أقسام الاسم]
+",000,False,000,False,False,False,1,12
+"### | المعرفة: 
+",000,False,000,False,False,False,1,15
+"### | الأول: المضمرات
+",000,False,000,False,False,False,1,4
+"### | الثاني: الإعلام
+",000,False,000,False,False,False,1,6
+"### | الثالث: أسماء الإشارة
+",000,False,000,False,False,False,1,5
+"### | الرابع: الأسماء الموصولات
+",000,False,000,False,False,False,1,9
+"### | الخامس: المعرف بالنداء
+",000,False,000,False,False,False,1,6
+"### | السادس: المعرف بالإلف واللام
+",000,False,000,False,False,False,1,7
+"### | السابع الإضافة إلى أحدهما
+",000,False,000,False,False,False,1,12
+"### | النكرة: 
+",000,False,000,False,False,False,1,18
+"### | 1 - 
+",000,False,000,False,False,False,1,3
+"### | 2 - 
+",000,False,000,False,False,False,1,4
+"### | المذكر: 
+",000,False,000,False,False,False,1,19
+"### | 1 - 
+",000,False,000,False,False,False,1,7
+"### | 2 - 
+",000,False,000,False,False,False,1,7
+"### | 3 - 
+",000,False,000,False,False,False,1,7
+"### | 4 - 
+",000,False,000,False,False,False,1,22
+"### | المؤنث 
+",000,False,000,False,False,False,1,5
+"### | 1 - 
+",000,False,000,False,False,False,1,3
+"### | 2 - 
+",000,False,000,False,False,False,1,5
+"### | الحقيقي: 
+",000,False,000,False,False,False,1,13
+"### | اللفظي 
+",000,False,000,False,False,False,1,33
+"### | 1 - 
+",000,False,000,False,False,False,1,3
+"### | 2 - 
+",000,False,000,False,False,False,1,3
+"### | 3 - 
+",000,False,000,False,False,False,1,10
+"### | الواحد، 
+",000,False,000,False,False,False,1,4
+"### | المثني: 
+",000,False,000,False,False,False,1,19
+"### | المجموع: 
+",000,False,000,False,False,False,1,38
+"### | 2 - 
+",000,False,000,False,False,False,1,34
+"### | جمع التصحيح: 
+",000,False,000,False,False,False,1,18
+"### | 1 - 
+",000,False,000,False,False,False,1,5
+"### | 2 - 
+",000,False,000,False,False,False,1,29
+"### | جمع المذكر 
+",000,False,000,False,False,False,1,25
+"### | 2 - 
+",000,False,000,False,False,False,1,23
+"### | 1 - 
+",000,False,000,False,False,False,1,5
+"### | 2 - 
+",000,False,000,False,False,False,1,5
+"### | 3 - 
+",000,False,000,False,False,False,1,5
+"### | 4 - 
+",000,False,000,False,False,False,1,16
+"### | 
+",000,False,000,False,False,False,1,0
+"### | جمع الكثرة: 
+",000,False,000,False,False,False,1,12
+"### | فصل: [في إعراب الاسم]
+",000,False,000,False,False,False,1,14
+"### | 1 - 
+",000,False,000,False,False,False,1,3
+"### | 2 - 
+",000,False,000,False,False,False,1,3
+"### | 3 - 
+",000,False,000,False,False,False,1,18
+"### | الأول: المفرد المصرف الصحيح
+",000,False,000,False,False,False,1,7
+"### | الثاني: المفرد المنصرف الجاري مجري الصحيح
+",000,False,000,False,False,False,1,9
+"### | الثالث: الجمع المكسر المنصرف
+",000,False,000,False,False,False,1,29
+"### | الرابع: جمع المؤنث السالم
+",000,False,000,False,False,False,1,13
+"### | الخامس: غير المنصرف
+",000,False,000,False,False,False,1,16
+"### | 1 - 
+",000,False,000,False,False,False,1,3
+"### | 2 - 
+",000,False,000,False,False,False,1,3
+"### | 3 - 
+",000,False,000,False,False,False,1,3
+"### | 4 - 
+",000,False,000,False,False,False,1,3
+"### | 5 - 
+",000,False,000,False,False,False,1,3
+"### | 6 - 
+",000,False,000,False,False,False,1,3
+"### | 7 - 
+",000,False,000,False,False,False,1,3
+"### | 8 - 
+",000,False,000,False,False,False,1,5
+"### | 9 - 
+",000,False,000,False,False,False,1,22
+"### | السادس: الأسماء الستة المكبرة
+",000,False,000,False,False,False,1,34
+"### | السابع: المثني
+",000,False,000,False,False,False,1,5
+"### | الثامن: كلا وكلتا؛ 
+",000,False,000,False,False,False,1,8
+"### | التاسع: اثنان، واثنتان.
+",000,False,000,False,False,False,1,21
+"### | العاشر: جمع المذكر السالم
+",000,False,000,False,False,False,1,7
+"### | الحادي عشر: أولو.
+",000,False,000,False,False,False,1,5
+"### | الثاني عشر: عشرون إلى تسعين.
+",000,False,000,False,False,False,1,32
+"### | الثالث عشر: الاسم المقصور
+",000,False,000,False,False,False,1,13
+"### | الرابع عشر: غير جمع المذكر السالم
+",000,False,000,False,False,False,1,31
+"### | الخامس: الاسم المنقوص
+",000,False,000,False,False,False,1,26
+"### | السادس عشر: جمع المذكر السالم
+",000,False,000,False,False,False,1,51
+"### | فصل: في إعراب المضارع
+",000,False,000,False,False,False,1,12
+"### | 1 - 
+",000,False,000,False,False,False,1,3
+"### | 2 - 
+",000,False,000,False,False,False,1,3
+"### | 3 - 
+",000,False,000,False,False,False,1,16
+"### | الأول: الصحيح المجرد من الضمير البارز المرفوع
+",000,False,000,False,False,False,1,25
+"### | الثاني: المفرد المعتل الواوي
+",000,False,000,False,False,False,1,25
+"### | الثالث: المفرد المعتل الأخر بالألف
+",000,False,000,False,False,False,1,23
+"### | الرابع: الصحيح أو المعتل بالمضمرات والنونات المذكورة
+",000,False,000,False,False,False,1,75
+"### | فصل: [في عوامل الإعراب]
+",000,False,000,False,False,False,1,14
+"### | 1 - 
+",000,False,000,False,False,False,1,3
+"### | 2 - 
+",000,False,000,False,False,False,1,3
+"### | القسم الأول: في العوامل اللفظية
+",000,False,000,False,False,False,1,13
+"### | 1 - 
+",000,False,000,False,False,False,1,3
+"### | 2 - 
+",000,False,000,False,False,False,1,3
+"### | 3 - 
+",000,False,000,False,False,False,1,18
+"### | الباب الأول: في بيان الحروف العاملة
+",000,False,000,False,False,False,1,10
+"### | الفصل الأول: في بيان الحروف العاملة في الاسم
+",000,False,000,False,False,False,1,16
+"### | القسم الأول: الحروف الجارة: 
+",000,False,000,False,False,False,1,40
+"### | القسم الثاني: الحروف المشبهة بالفعل
+",000,False,000,False,False,False,1,43
+"### | القسم الثالث: ما ولا [وإن ولات] المشبهات ب ليس 
+",000,False,000,False,False,False,1,27
+"### | القسم الرابع: لا التي لنفي الجنس
+",000,False,000,False,False,False,1,62
+"### | 1 - 
+",000,False,000,False,False,False,1,15
+"### | 2 - 
+",000,False,000,False,False,False,1,17
+"### | 3 - 
+",000,False,000,False,False,False,1,19
+"### | 4 - 
+",000,False,000,False,False,False,1,13
+"### | 5 - 
+",000,False,000,False,False,False,1,13
+"### | القسم الخامس: حروف النداء
+",000,False,000,False,False,False,1,56
+"### | الفصل الثاني: في بيان الحروف العاملة في المضارع
+",000,False,000,False,False,False,1,12
+"### | القسم الأول: الحروف التي تنصب الفعل المضارع
+",000,False,000,False,False,False,1,11
+"### | الأول: أن، 
+",000,False,000,False,False,False,1,18
+"### | الثاني: لن، 
+",000,False,000,False,False,False,1,9
+"### | الثالث: كي، 
+",000,False,000,False,False,False,1,7
+"### | الرابع: إذن، 
+",000,False,000,False,False,False,1,30
+"### | 1 - 
+",000,False,000,False,False,False,1,9
+"### | 2 - 
+",000,False,000,False,False,False,1,13
+"### | 3 - 
+",000,False,000,False,False,False,1,25
+"### | 4 - 
+",000,False,000,False,False,False,1,5
+"### | 5 - 
+",000,False,000,False,False,False,1,5
+"### | 6 - 
+",000,False,000,False,False,False,1,19
+"### | القسم الثاني: الحروف الجازمة للفعل المضارع
+",000,False,000,False,False,False,1,133
+"### | الباب الثاني: في عمل الأفعال
+",000,False,000,False,False,False,1,23
+"### | القسم الأول: المعروف
+",000,False,000,False,False,False,1,21
+"### | الفاعل
+",000,False,000,False,False,False,1,9
+"### | الأول: 
+",000,False,000,False,False,False,1,2
+"### | المفعول المطلق
+",000,False,000,False,False,False,1,8
+"### | الثاني: 
+",000,False,000,False,False,False,1,2
+"### | المفعول فيه
+",000,False,000,False,False,False,1,7
+"### | الثالث: 
+",000,False,000,False,False,False,1,2
+"### | المفعول معه
+",000,False,000,False,False,False,1,9
+"### | الرابع: 
+",000,False,000,False,False,False,1,2
+"### | المفعول له
+",000,False,000,False,False,False,1,7
+"### | الخامس: الحال
+",000,False,000,False,False,False,1,6
+"### | السادس: التمييز
+",000,False,000,False,False,False,1,22
+"### | فصل: [في المنصوبات]
+",000,False,000,False,False,False,1,67
+"### | المفعول له
+",000,False,000,False,False,False,1,14
+"### | الحال
+",000,False,000,False,False,False,1,44
+"### | التميز
+",000,False,000,False,False,False,1,30
+"### | المفعول به
+",000,False,000,False,False,False,1,35
+"### | فصل: [في أقسام الفاعل]
+",000,False,000,False,False,False,1,14
+"### | 2 - 
+",000,False,000,False,False,False,1,3
+"### | مضمر 
+",000,False,000,False,False,False,1,85
+"### | القسم الثاني: المجهول
+",000,False,000,False,False,False,1,37
+"### | فصل: [في أقسام المتعدي]
+",000,False,000,False,False,False,1,16
+"### | أولها: يتعدي إلى مفعول ms12 واحد
+",000,False,000,False,False,False,1,9
+"### | ثانيها: يتعدي إلى مفعولين، يجوز فيه الاقتصار على أحدهما، 
+",000,False,000,False,False,False,1,20
+"### | ثالثها: يتعدي إلى مفعولين (2) ولا يجوز الاقتصار على أحدهما، 
+",000,False,000,False,False,False,1,30
+"### | رابعها: يتعدي إلى ثلاثة مفاعيل
+",000,False,000,False,False,False,1,54
+"### | فصل: [في بيان الأفعال الناقصة]
+",000,False,000,False,False,False,1,89
+"### | فصل: [في بيان أفعال المقاربة]
+",000,False,000,False,False,False,1,74
+"### | فصل: [في بيان أفعال المدح والذم]
+",000,False,000,False,False,False,1,76
+"### | فصل: [في بيان افعل في التعجب]
+",000,False,000,False,False,False,1,28
+"### | الأول: ما أفعله، 
+",000,False,000,False,False,False,1,31
+"### | الثاني أفعل به 
+",000,False,000,False,False,False,1,25
+"### | الباب الثالث: في عمل الأسماء العاملة
+",000,False,000,False,False,False,1,14
+"### | القسم الأول: الأسماء الشرطية بمعنى إن، 
+",000,False,000,False,False,False,1,45
+"### | القسم الثاني: أسماء الأفعال بمعنى الماضي
+",000,False,000,False,False,False,1,24
+"### | القسم الثالث: أسماء الأفعال بمعنى أمر الحاضر
+",000,False,000,False,False,False,1,23
+"### | القسم الرابع: اسم الفاعل بمعنى الحال أو الاستقبال
+",000,False,000,False,False,False,1,65
+"### | القسم الخامس: اسم المفعول بمعني الحال والاستقبال
+",000,False,000,False,False,False,1,40
+"### | القسم السادس: الصفة المشبهة، 
+",000,False,000,False,False,False,1,21
+"### | القسم السابع: اسم تفضيل
+",000,False,000,False,False,False,1,12
+"### | 1 - 
+",000,False,000,False,False,False,1,13
+"### | 2 - 
+",000,False,000,False,False,False,1,11
+"### | 3 - 
+",000,False,000,False,False,False,1,14
+"### | القسم الثامن: المصدر
+",000,False,000,False,False,False,1,16
+"### | القسم التاسع: الاسم المضاف
+",000,False,000,False,False,False,1,23
+"### | القسم العاشر: الاسم التام
+",000,False,000,False,False,False,1,59
+"### | القسم الحادي عشر: أسماء الكناية من العدد
+",000,False,000,False,False,False,1,38
+"### | 2 - 
+",000,False,000,False,False,False,1,3
+"### | خبرية: 
+",000,False,000,False,False,False,1,29
+"### | القسم الثاني: في العوامل المنوية
+",000,False,000,False,False,False,1,15
+"### | الأول: الابتداء
+",000,False,000,False,False,False,1,44
+"### | الثاني: خلو الفعل المضارع من الناصب والجازم
+",000,False,000,False,False,False,1,32
+"### | خاتمة
+",000,False,000,False,False,False,1,17
+"### | الفصل الأول: في [بيان] التوابع
+",000,False,000,False,False,False,1,33
+"### | الأول: الصفة
+",000,False,000,False,False,False,1,92
+"### | الثاني: التأكيد
+",000,False,000,False,False,False,1,24
+"### | 1 - 
+",000,False,000,False,False,False,1,3
+"### | 2 - 
+",000,False,000,False,False,False,1,4
+"### | التأكيد اللفظي
+",000,False,000,False,False,False,1,17
+"### | التأكيد المعنوي
+",000,False,000,False,False,False,1,65
+"### | الثالث: البدل
+",000,False,000,False,False,False,1,15
+"### | 2 - 
+",000,False,000,False,False,False,1,3
+"### | بدل الاشتمال
+",000,False,000,False,False,False,1,4
+"### | 3 - 
+",000,False,000,False,False,False,1,3
+"### | بدل الغلط
+",000,False,000,False,False,False,1,4
+"### | 4 - 
+",000,False,000,False,False,False,1,3
+"### | بدل البعض
+",000,False,000,False,False,False,1,43
+"### | الرابع: العطف بالحروف
+",000,False,000,False,False,False,1,29
+"### | الخامس: عطف البيان
+",000,False,000,False,False,False,1,24
+"### | الفصل الثاني: في بيان 
+",000,False,000,False,False,False,1,8
+"### | المنصرف
+",000,False,000,False,False,False,1,3
+"### | غير المنصرف
+",000,False,000,False,False,False,1,28
+"### | 1 - 
+",000,False,000,False,False,False,1,3
+"### | 2 - 
+",000,False,000,False,False,False,1,3
+"### | 3 - 
+",000,False,000,False,False,False,1,3
+"### | 4 - 
+",000,False,000,False,False,False,1,3
+"### | 5 - 
+",000,False,000,False,False,False,1,3
+"### | 6 - 
+",000,False,000,False,False,False,1,3
+"### | 7 - 
+",000,False,000,False,False,False,1,3
+"### | 8 - 
+",000,False,000,False,False,False,1,5
+"### | 9 - 
+",000,False,000,False,False,False,1,69
+"### | الفصل الثالث: في بيان الحروف غير العاملة
+",000,False,000,False,False,False,1,15
+"### | الأول: حروف التنبيه
+",000,False,000,False,False,False,1,11
+"### | الثاني: حروف الإيجاب
+",000,False,000,False,False,False,1,14
+"### | الثالث: حروف التفسير
+",000,False,000,False,False,False,1,13
+"### | الرابع: الحروف المصدرية
+",000,False,000,False,False,False,1,21
+"### | الخامس: حروف التحضيض
+",000,False,000,False,False,False,1,12
+"### | السادس: حروف التوقع
+",000,False,000,False,False,False,1,22
+"### | السابع: حروف الاستفهام
+",000,False,000,False,False,False,1,11
+"### | الثامن: حرف الردع
+",000,False,000,False,False,False,1,19
+"### | التاسع: التنوين
+",000,False,000,False,False,False,1,8
+"### | 1 - 
+",000,False,000,False,False,False,1,5
+"### | 2 - 
+",000,False,000,False,False,False,1,19
+"### | 3 - 
+",000,False,000,False,False,False,1,5
+"### | 4 - 
+",000,False,000,False,False,False,1,7
+"### | 5 - 
+",000,False,000,False,False,False,1,30
+"### | العاشر: نون التأكيد في آخر المضارع
+",000,False,000,False,False,False,1,14
+"### | الحادي عشر: حروف الزيادة
+",000,False,000,False,False,False,1,22
+"### | الثاني عشر: حروف الشرط
+",000,False,000,False,False,False,1,42
+"### | الثالث ms18 عشر: لولا، 
+",000,False,000,False,False,False,1,15
+"### | الرابع عشر: اللام المفتوحة
+",000,False,000,False,False,False,1,11
+"### | الخامس عشر: ما بمعني ما دام 
+",000,False,000,False,False,False,1,14
+"### | السادس عشر: حروف العطف
+",000,False,000,False,False,False,1,20
+"### | بحث الاستثناء
+",000,False,000,False,False,False,1,50
+"### | 1 - 
+",000,False,000,False,False,False,1,3
+"### | 2 - 
+",000,False,000,False,False,False,1,4
+"### | المتصل
+",000,False,000,False,False,False,1,23
+"### | المنقطع
+",000,False,000,False,False,False,1,39
+"### | القسم الأول: أنه يقع بعد إلا في كلام موجب، 
+",000,False,000,False,False,False,1,80
+"### | القسم الثاني: أنه يقع بعد إلا في كلام غير موجب
+",000,False,000,False,False,False,1,24
+"### | 1 - 
+",000,False,000,False,False,False,1,9
+"### | 2 - 
+",000,False,000,False,False,False,1,13
+"### | القسم الثالث: المستثنى المفرغ
+",000,False,000,False,False,False,1,29
+"### | القسم الرابع: أنه يقع بعد غير، وسوى، وسواء، 
+",000,False,000,False,False,False,1,105
+"### | خلاصة الكتاب
+",000,False,000,False,False,False,1,31
+"### | اللفظ العربي: 
+",000,False,000,False,False,False,1,19
+"### | المفرد: 
+",000,False,000,False,False,False,1,9
+"### | الاسم: 
+",000,False,000,False,False,False,1,5
+"### | المعرب 
+",000,False,000,False,False,False,1,32
+"### | المنصوب: 
+",000,False,000,False,False,False,1,36
+"### | المجرور: 
+",000,False,000,False,False,False,1,16
+"### | المرفوع 
+",000,False,000,False,False,False,1,17
+"### | 1 - 
+",000,False,000,False,False,False,1,3
+"### | 2 - 
+",000,False,000,False,False,False,1,3
+"### | 3 - 
+",000,False,000,False,False,False,1,9
+"### | 4 - 
+",000,False,000,False,False,False,1,3
+"### | 5 - 
+",000,False,000,False,False,False,1,5
+"### | المبني: 
+",000,False,000,False,False,False,1,18
+"### | 1 - 
+",000,False,000,False,False,False,1,3
+"### | 2 - 
+",000,False,000,False,False,False,1,4
+"### | المشتق: 
+",000,False,000,False,False,False,1,16
+"### | الجامد: 
+",000,False,000,False,False,False,1,64
+"### | الفعل 
+",000,False,000,False,False,False,1,5
+"### | اللازم: 
+",000,False,000,False,False,False,1,10
+"### | المتعدي: 
+",000,False,000,False,False,False,1,13
+"### | 1 - 
+",000,False,000,False,False,False,1,11
+"### | 2 - 
+",000,False,000,False,False,False,1,11
+"### | 3 - 
+",000,False,000,False,False,False,1,8
+"### | الحروف: 
+",000,False,000,False,False,False,1,10
+"### | حروف الجر، 
+",000,False,000,False,False,False,1,29
+"### | النواصب للفعل المضارع؛ 
+",000,False,000,False,False,False,1,10
+"### | الجوازم للمضارع؛ 
+",000,False,000,False,False,False,1,15
+"### | الحروف المشبهة 
+",000,False,000,False,False,False,1,22
+"### | حروف النداء 
+",000,False,000,False,False,False,1,17
+"### | لا النافية للجنس، 
+",000,False,000,False,False,False,1,11
+"### | العاملة:
+",000,False,000,False,False,False,1,3
+"### | الحروف العاطفة؛ 
+",000,False,000,False,False,False,1,14
+"### | حروف التنبيه؛ 
+",000,False,000,False,False,False,1,6
+"### | حروف الإيجاب؛ 
+",000,False,000,False,False,False,1,10
+"### | حروف التفسير؛ 
+",000,False,000,False,False,False,1,6
+"### | حروف التحضيض؛ 
+",000,False,000,False,False,False,1,13
+"### | حروف التوقع؛ 
+",000,False,000,False,False,False,1,5
+"### | حروف الاستفهام؛ 
+",000,False,000,False,False,False,1,6
+"### | حرف الردع، 
+",000,False,000,False,False,False,1,53
+"### | الجمل
+",000,False,000,False,False,False,1,15
+"### | أصل الجملة على أربعة أوجه
+",000,False,000,False,False,False,1,15
+"### | 1 - 
+",000,False,000,False,False,False,1,15
+"### | 2 - 
+",000,False,000,False,False,False,1,15
+"### | 3 - 
+",000,False,000,False,False,False,1,3
+"### | الظرفية: 
+",000,False,000,False,False,False,1,13
+"### | 4 - 
+",000,False,000,False,False,False,1,3
+"### | الشرطية: 
+",000,False,000,False,False,False,1,11
+"### | صفة الجملة تسعة
+",000,False,000,False,False,False,1,29
+"### | 2 - 
+",000,False,000,False,False,False,1,3
+"### | المعللة: 
+",000,False,000,False,False,False,1,22
+"### | 3 - 
+",000,False,000,False,False,False,1,24
+"### | 4 - 
+",000,False,000,False,False,False,1,21
+"### | 5 - 
+",000,False,000,False,False,False,1,3
+"### | النتيجية: 
+",000,False,000,False,False,False,1,24
+"### | 6 - 
+",000,False,000,False,False,False,1,19
+"### | 7 - 
+",000,False,000,False,False,False,1,3
+"### | المقطوعة: 
+",000,False,000,False,False,False,1,12
+"### | 8 - 
+",000,False,000,False,False,False,1,3
+"### | الحالية: 
+",000,False,000,False,False,False,1,17
+"### | 9 - 
+",000,False,000,False,False,False,1,3
+"### | المعطوفة: 
+",000,False,000,False,False,False,1,18
+"### | التتمة
+",000,False,000,False,False,False,1,276
+"### | 1 - 
+",000,False,000,False,False,False,1,5
+"### | 2 - 
+",000,False,000,False,False,False,1,3
+"### | 3 - 
+",000,False,000,False,False,False,1,5
+"### | 4 - 
+",000,False,000,False,False,False,1,9
+"### | 5 - 
+",000,False,000,False,False,False,1,128
+"### | 1 - 
+",000,False,000,False,False,False,1,3
+"### | 2 - 
+",000,False,000,False,False,False,1,3
+"### | 3 - 
+",000,False,000,False,False,False,1,65
+"### | 1 - 
+",000,False,000,False,False,False,1,59
+"### | المراج والمصادر
+",000,False,000,False,False,False,1,492

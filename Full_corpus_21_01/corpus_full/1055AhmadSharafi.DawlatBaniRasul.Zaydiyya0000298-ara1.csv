@@ -1,0 +1,265 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO القسم الأول الدراسة التمهيدية
+",000,False,000,False,False,False,1,13049
+"### || AUTO ترجمة المؤلف
+",000,False,000,False,False,False,2,1835
+"### ||| AUTO اسمه ونسبه:
+",000,False,000,False,False,False,3,63
+"### ||| AUTO مولده ونشأته ووفاته:
+",000,False,000,False,False,False,3,236
+"### ||| AUTO آراء العلماء في (الشرفي) من المعاصرين له وغيرهم
+",000,False,000,False,False,False,3,117
+"### ||| AUTO شيوخه وتلاميذه:
+",000,False,000,False,False,False,3,573
+"### ||| AUTO مؤلفاته(2):
+",000,False,000,False,False,False,3,564
+"### ||| AUTO الجزء الأول:
+",000,False,000,False,False,False,3,102
+"### ||| AUTO الجزء الثاني:
+",000,False,000,False,False,False,3,86
+"### ||| AUTO الجزء الثالث:
+",000,False,000,False,False,False,3,91
+"### || AUTO مصادر المخطوط:
+",000,False,000,False,False,False,2,4240
+"### || AUTO عرض موجز لما ورد في المخطوط
+",000,False,000,False,False,False,2,3735
+"### ||| AUTO - الدولة الرسولية
+",000,False,000,False,False,False,3,403
+"### ||| AUTO الأئمة الزيدية:
+",000,False,000,False,False,False,3,476
+"### ||| AUTO الطريق إلى الإمامة:
+",000,False,000,False,False,False,3,622
+"### ||| AUTO تعارض الأئمة:
+",000,False,000,False,False,False,3,405
+"### ||| AUTO الاعتراضات على الإمام:
+",000,False,000,False,False,False,3,236
+"### ||| AUTO العلاقات الزيدية الرسولية:
+",000,False,000,False,False,False,3,731
+"### ||| AUTO القوى والزعامات القبلية المتنفذة:
+",000,False,000,False,False,False,3,773
+"### || AUTO ### ||| AUTO العلاقات المذهبية:
+",000,False,000,False,False,False,2,2111
+"### ||| AUTO العلاقات المذهبية:
+",000,False,000,False,False,False,3,338
+"### ||| AUTO (ب) الزيدية والإسماعيلية:
+",000,False,000,False,False,False,3,1568
+"### ||| AUTO المرأة في المخطوط:
+",000,False,000,False,False,False,3,204
+"### || AUTO الوعي الجغرافي باليمن وتقسيماته الداخلية:
+",000,False,000,False,False,False,2,159
+"### || AUTO الظواهر الطبيعية:
+",000,False,000,False,False,False,2,102
+"### || AUTO منهاج التحقيق
+",000,False,000,False,False,False,2,861
+"### | AUTO القسم الثاني متن المخطوط محققا
+",000,False,000,False,False,False,1,148626
+"### || AUTO [329] ذكر دولة بني رسول وتملكهم لليمن
+",000,False,000,False,False,False,2,105807
+"### ||| AUTO خبر السلطان المظفر.
+",000,False,000,False,False,False,3,4490
+"### ||| AUTO [الإمام المعتضد بالله يحيى بن المحسن]
+",000,False,000,False,False,False,3,3706
+"### |||| AUTO [نبذة من سيرة محمد بن المنصور]
+",000,False,000,False,False,False,4,2335
+"### |||| AUTO ولما بلغ تمادي أهل الجوف على الخلاف آل دعام بالسوق، وآل
+",000,False,000,False,False,False,4,729
+"### ||| AUTO وهي طويلة وكانت وفاته -عليه السلام- في شهر رجب من ست
+",000,False,000,False,False,False,3,2005
+"### |||| AUTO [نبذة من تاريخ بني رسول منقولة من تاريخ مكة]
+",000,False,000,False,False,False,4,983
+"### |||| AUTO سيرة أولاد المنصور
+",000,False,000,False,False,False,4,859
+"### ||| AUTO -عليهم السلام-(1) على صعدة.
+",000,False,000,False,False,False,3,43964
+"### |||| AUTO [غزوة ضروان]
+",000,False,000,False,False,False,4,96
+"### |||| AUTO غزوة ضبعات
+",000,False,000,False,False,False,4,52
+"### |||| AUTO غزوة السية(7):
+",000,False,000,False,False,False,4,147
+"### |||| AUTO غزوة شبام الأولى:
+",000,False,000,False,False,False,4,154
+"### |||| AUTO غزوة حلب:
+",000,False,000,False,False,False,4,137
+"### |||| AUTO دخول السلطان عمر بن علي بن رسول صنعاء:
+",000,False,000,False,False,False,4,70
+"### |||| AUTO نزول المغرب(9):
+",000,False,000,False,False,False,4,885
+"### |||| AUTO ابتداء مكر بني حمزة على الإمام -عليه السلام-:
+",000,False,000,False,False,False,4,546
+"### |||| AUTO وقعة حضور(1)
+",000,False,000,False,False,False,4,800
+"### |||| AUTO وقعة كوكبان:
+",000,False,000,False,False,False,4,1671
+"### |||| AUTO رجوع [الأمراء](1) الحمزيين إلى جهات الظاهر:
+",000,False,000,False,False,False,4,375
+"### |||| AUTO وقعة أرتل:
+",000,False,000,False,False,False,4,674
+"### |||| AUTO قصة أخذ الجنات:
+",000,False,000,False,False,False,4,328
+"### |||| AUTO وقعة قارن:
+",000,False,000,False,False,False,4,707
+"### |||| AUTO قصة ذروة وفتحها:
+",000,False,000,False,False,False,4,1138
+"### |||| AUTO صفة الصلح الذي وقع بين الإمام -عليه السلام- وبين الأمراء
+",000,False,000,False,False,False,4,118
+"### |||| AUTO قال مصنف سيرة المهدي -عليه السلام-: فلما بلغني ذلك وكنت في
+",000,False,000,False,False,False,4,419
+"### |||| AUTO [صلح بني حمزة مع الإمام المهدي]
+",000,False,000,False,False,False,4,1011
+"### |||| AUTO فتح صنعاء:
+",000,False,000,False,False,False,4,623
+"### |||| AUTO قصة حرب ذمرمر:
+",000,False,000,False,False,False,4,228
+"### |||| AUTO [الصلح بين الإمام وأسد الدين]:
+",000,False,000,False,False,False,4,226
+"### |||| AUTO قصة سقوط الحصان بالإمام -عليه السلام-:
+",000,False,000,False,False,False,4,157
+"### |||| AUTO [صلح أسد الدين مع المظفر وغدره للإمام]
+",000,False,000,False,False,False,4,301
+"### |||| AUTO قصة خروج الإمام -عليه السلام- من صنعاء:
+",000,False,000,False,False,False,4,915
+"### |||| AUTO قصة ضبوة:
+",000,False,000,False,False,False,4,414
+"### |||| AUTO قصة خلاف الأمراء بني ms158 حمزة على الإمام -عليه السلام-:
+",000,False,000,False,False,False,4,508
+"### |||| AUTO قصة الصلح بين الإمام وبين السطان المظفر:
+",000,False,000,False,False,False,4,377
+"### |||| AUTO قصة أخذ جبل الحرام(1):
+",000,False,000,False,False,False,4,70
+"### |||| AUTO فتح صنعاء المرة الثانية وخروج أسد الدين منها هاربا:
+",000,False,000,False,False,False,4,308
+"### |||| AUTO قصة مكر سنحان:
+",000,False,000,False,False,False,4,492
+"### |||| AUTO قصة الآية العظمى في صخرة العمري:
+",000,False,000,False,False,False,4,635
+"### |||| AUTO قصة فتح مسور وحصون حملان(6) PageV01P305 لما وصل الإمام -عليه السلام- إلى حصن ثلا وصل قوم من حملان يقال لهم: بنو
+",000,False,000,False,False,False,4,714
+"### |||| AUTO غزوة مأرب:
+",000,False,000,False,False,False,4,1218
+"### |||| AUTO فتح براش صنعاء:
+",000,False,000,False,False,False,4,681
+"### |||| AUTO تسليم هداد:
+",000,False,000,False,False,False,4,461
+"### |||| AUTO قصة حرب رباب:
+",000,False,000,False,False,False,4,122
+"### |||| AUTO قصة طلوع سلطان اليمن:
+",000,False,000,False,False,False,4,523
+"### |||| AUTO قصة غدر أسد الدين:
+",000,False,000,False,False,False,4,236
+"### |||| AUTO قصة خلاف الأمير شمس الدين أحمد بن المنصور: وما كان بعد ذلك
+",000,False,000,False,False,False,4,943
+"### |||| AUTO قصة نهوض أسد الدين ومن معه من الغز قاصدين صعدة قودا(7)
+",000,False,000,False,False,False,4,213
+"### |||| AUTO [دخول الأميران شمس الدين وأسد الدين صعدة]:
+",000,False,000,False,False,False,4,332
+"### |||| AUTO واجتمعت الرواية في شهاب(1) الحداد ورجل آخر معه، أنهما رأس
+",000,False,000,False,False,False,4,1313
+"### |||| AUTO [خبر الحرائق التي حدثت للمسجد النبوي]:
+",000,False,000,False,False,False,4,478
+"### |||| AUTO وجملة من مات بذلك بضع عشرة نفسا، وكان سلامة من بقي منهم
+",000,False,000,False,False,False,4,801
+"### |||| AUTO فتح صعدة المرة الثانية:
+",000,False,000,False,False,False,4,901
+"### |||| AUTO وقعة الجدم وقتل معمر بن مفدا(1):
+",000,False,000,False,False,False,4,1015
+"### |||| AUTO وقعة الشطبة(1):
+",000,False,000,False,False,False,4,2155
+"### |||| AUTO وقعة البيضاء:
+",000,False,000,False,False,False,4,451
+"### |||| AUTO وقعة المضلعة:
+",000,False,000,False,False,False,4,165
+"### |||| AUTO غزوة مأرب الأخيرة:
+",000,False,000,False,False,False,4,558
+"### |||| AUTO قصة صلح أسد الدين:
+",000,False,000,False,False,False,4,508
+"### |||| AUTO قصة حصر براقش وخراب الجنات وبلاد الباطنية والمحطة على
+",000,False,000,False,False,False,4,878
+"### |||| AUTO قصة خلاف ابن عمه الأمير الكبير أحمد بن قاسم بن جعفر وأسباب ذلك:
+",000,False,000,False,False,False,4,418
+"### |||| AUTO ذكر السبب في غضب الرصاص
+",000,False,000,False,False,False,4,561
+"### |||| AUTO قصة نفور الرصاص ومن لحقه من الناكثين لبيعة أمير المؤمنين:
+",000,False,000,False,False,False,4,1004
+"### |||| AUTO ذكر أسر الأمير أحمد بن القاسم وما كان بعد ذلك من البلوى
+",000,False,000,False,False,False,4,352
+"### |||| AUTO قصة خروج الحسن بن وهاس من ظفر إلى ظفار وطلوع الرصاص وحزبه
+",000,False,000,False,False,False,4,741
+"### |||| AUTO [قصة أخذ ذروة]:
+",000,False,000,False,False,False,4,842
+"### |||| AUTO قصة قتل البغاة على الإمام -عليه السلام- من أهل الإقلاع وهم
+",000,False,000,False,False,False,4,367
+"### |||| AUTO قصة الخطب الأعظم والرزء الأكبر الذي عم المسلمين وهدم قواعد
+",000,False,000,False,False,False,4,4407
+"### ||||| AUTO قصة نهوضه -عليه السلام- إلى وادي شوابة:
+",000,False,000,False,False,False,5,1918
+"### ||||| AUTO قصة قبره -عليه السلام-
+",000,False,000,False,False,False,5,1733
+"### |||| AUTO صفة بيعة الحسن بن وهاس بن أبي هاشم بن محمد [بن حسين بن
+",000,False,000,False,False,False,4,1145
+"### |||| AUTO ولما علم السلطان المظفر ببيعة الحسن بن وهاس، نهض إلى
+",000,False,000,False,False,False,4,617
+"### |||| AUTO انتهى ما أردت نقله من كتاب هذا الذي خلع ms253 قناع الدين
+",000,False,000,False,False,False,4,1508
+"### ||| AUTO [الإمام المنصور الحسن بن بدر الدين]
+",000,False,000,False,False,False,3,6520
+"### |||| AUTO [رسالة الحسين بن بدر الدين في إبطال إمامة الحسن بن وهاس]
+",000,False,000,False,False,False,4,1241
+"### |||| AUTO [رسالة الإمام الحسن بن بدر الدين جوابا على بعض المعترضين عليه]:
+",000,False,000,False,False,False,4,4783
+"### ||| AUTO [الإمام المهدي إبراهيم بن تاج الدين -عليه السلام- ]
+",000,False,000,False,False,False,3,3787
+"### ||| AUTO [الإمام المهدي محمد بن المطهر]
+",000,False,000,False,False,False,3,5884
+"### |||| AUTO وكانت وفاة الإمام المهدي -عليه السلام- في ذمرمر قبلي صنعاء
+",000,False,000,False,False,False,4,3579
+"### ||| AUTO [الإمام يحيى بن محمد السراجي]
+",000,False,000,False,False,False,3,721
+"### ||| AUTO [الإمام علي بن صلاح]
+",000,False,000,False,False,False,3,284
+"### ||| AUTO وتوفي بعد موت السيد يحيى بن الحسين بمدة قريبة، وقبره
+",000,False,000,False,False,False,3,1406
+"### ||| AUTO [الواثق بالله المطهر بن محمد]
+",000,False,000,False,False,False,3,1230
+"### ||| AUTO [السيد أحمد بن علي بن أبي الفتح]
+",000,False,000,False,False,False,3,190
+"### ||| AUTO [الإمام المهدي علي بن محمد]
+",000,False,000,False,False,False,3,2013
+"### ||| AUTO [الإمام الناصر محمد بن علي]
+",000,False,000,False,False,False,3,8001
+"### ||| AUTO [الإمام المنصور علي بن صلاح]
+",000,False,000,False,False,False,3,1724
+"### ||| AUTO [الإمام المهدي أحمد بن يحيى المرتضى]
+",000,False,000,False,False,False,3,7063
+"### |||| AUTO [من وصية المهدي أحمد ms387 بن يحيى المرتضى]
+",000,False,000,False,False,False,4,1756
+"### ||| AUTO [الإمام الهادي علي بن المؤيد]
+",000,False,000,False,False,False,3,1156
+"### ||| AUTO [الإمام المتوكل المطهر بن محمد بن سليمان]
+",000,False,000,False,False,False,3,1702
+"### ||| AUTO [الإمام المهدي صلاح بن علي]
+",000,False,000,False,False,False,3,1025
+"### ||| AUTO الإمام المنصور الناصر بن محمد
+",000,False,000,False,False,False,3,1549
+"### || AUTO الملاحق
+",000,False,000,False,False,False,2,42832
+"### ||| AUTO أبيات البسامة التي تناولها العلامة الشرفي بالشرح في هذا
+",000,False,000,False,False,False,3,419
+"### ||| AUTO المصطلحات والكلمات الغريبة التي وردت في المخطوط
+",000,False,000,False,False,False,3,919
+"### ||| AUTO الأئمة الزيديون
+",000,False,000,False,False,False,3,785
+"### ||| AUTO المصادر والمراجع
+",000,False,000,False,False,False,3,1135
+"### ||| AUTO الفهارس
+",000,False,000,False,False,False,3,39591
+"### |||| AUTO فهرس الآيات القرآنية
+",000,False,000,False,False,False,4,911
+"### |||| AUTO فهرس الأحاديث
+",000,False,000,False,False,False,4,272
+"### |||| AUTO فهرس الأعلام
+",000,False,000,False,False,False,4,1413
+"### |||| AUTO فهرس الأماكن والبلدان
+",000,False,000,False,False,False,4,737
+"### |||| CHECK [فهرس الموضوعات]
+",000,False,000,False,False,False,4,36274

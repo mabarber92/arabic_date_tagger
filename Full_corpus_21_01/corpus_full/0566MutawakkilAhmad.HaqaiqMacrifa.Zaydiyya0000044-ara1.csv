@@ -1,0 +1,219 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO حقائق المعرفة في علم الكلام
+",000,False,000,False,False,False,1,87639
+"### || AUTO المقدمة
+",000,False,000,False,False,False,2,3150
+"### ||| AUTO قواعد أساسية لفهم مسائل العقيدة
+",000,False,000,False,False,False,3,37
+"### ||| AUTO 1- إستعمال العقل باعتباره مناط التكليف، وأداة النظر:
+",000,False,000,False,False,False,3,286
+"### ||| AUTO 2- الاعتماد على الحجج القرآنية وإرجاع متشابه الكتاب إلى محكمه:
+",000,False,000,False,False,False,3,412
+"### ||| AUTO 3- مراعاة سياق الآيات
+",000,False,000,False,False,False,3,108
+"### ||| AUTO 4- تحديد معنى ms005 المصطلحات
+",000,False,000,False,False,False,3,413
+"### ||| AUTO 5- فهم الأحاديث النبوية في ضوء القرآن
+",000,False,000,False,False,False,3,438
+"### ||| AUTO 6- اتباع نهج آل محمد عليهم السلام
+",000,False,000,False,False,False,3,150
+"### ||| AUTO هذا الكتاب
+",000,False,000,False,False,False,3,123
+"### ||| AUTO تعريف بالمخطوطات التي اعتمدنا عليها عند المراجعة
+",000,False,000,False,False,False,3,702
+"### || AUTO المؤلف
+",000,False,000,False,False,False,2,3870
+"### ||| AUTO نسبه
+",000,False,000,False,False,False,3,64
+"### ||| AUTO مولده ونشأته
+",000,False,000,False,False,False,3,337
+"### ||| AUTO مشائخه وإجازاته
+",000,False,000,False,False,False,3,223
+"### ||| AUTO ابتداء دعوته
+",000,False,000,False,False,False,3,312
+"### ||| AUTO صوت اليمن والإسلام
+",000,False,000,False,False,False,3,248
+"### ||| AUTO معاركه مع المتمردين
+",000,False,000,False,False,False,3,4
+"### ||| AUTO 1 وقعة الشرزة
+",000,False,000,False,False,False,3,695
+"### ||| AUTO 2 معركة ms018 غيل جلاجل
+",000,False,000,False,False,False,3,255
+"### ||| AUTO 3 معركة زبيد
+",000,False,000,False,False,False,3,293
+"### ||| AUTO من أوائل الداعين إلى وحدة اليمن شمالا وجنوبا
+",000,False,000,False,False,False,3,216
+"### ||| AUTO داعية عدالة اجتماعية
+",000,False,000,False,False,False,3,195
+"### ||| AUTO شعره عليه السلام
+",000,False,000,False,False,False,3,545
+"### ||| AUTO مؤلفاته
+",000,False,000,False,False,False,3,305
+"### ||| AUTO وفاته
+",000,False,000,False,False,False,3,39
+"### ||| AUTO مصادر ترجمته
+",000,False,000,False,False,False,3,137
+"### || CHECK [[مقدمة المؤلف]]
+",000,False,000,False,False,False,2,228
+"### || AUTO باب معرفة النظر
+",000,False,000,False,False,False,2,2593
+"### ||| AUTO فصل في الكلام في العقل
+",000,False,000,False,False,False,3,612
+"### ||| AUTO فصل في الكلام في الحواس
+",000,False,000,False,False,False,3,147
+"### ||| AUTO فصل في الكلام في وجوب النظر والاستدلال
+",000,False,000,False,False,False,3,1783
+"### || AUTO باب حقيقة معرفة الصنع
+",000,False,000,False,False,False,2,10838
+"### ||| AUTO فصل في الكلام في الهواء
+",000,False,000,False,False,False,3,1536
+"### ||| AUTO فصل في الكلام في الأنوار واختلاف الليل والنهار
+",000,False,000,False,False,False,3,715
+"### ||| AUTO فصل في الكلام في الأرض
+",000,False,000,False,False,False,3,649
+"### ||| AUTO فصل في الكلام في خلق الإنسان
+",000,False,000,False,False,False,3,164
+"### ||| AUTO فصل في الكلام في الجسم والعرض
+",000,False,000,False,False,False,3,2238
+"### ||| AUTO فصل في الكلام في الألوان والطعوم والروائح
+",000,False,000,False,False,False,3,5178
+"### ||| AUTO فصل في الكلام في الروح
+",000,False,000,False,False,False,3,262
+"### || AUTO باب حقيقة معرفة الصانع
+",000,False,000,False,False,False,2,2792
+"### ||| AUTO فصل في الكلام في أن الله تعالى شيء
+",000,False,000,False,False,False,3,196
+"### ||| AUTO فصل في الكلام في أن الله حي قادر
+",000,False,000,False,False,False,3,220
+"### ||| AUTO فصل في الكلام في أن الله عالم حكيم
+",000,False,000,False,False,False,3,263
+"### ||| AUTO فصل في الكلام في معرفة الصانع
+",000,False,000,False,False,False,3,625
+"### ||| AUTO فصل في الكلام في صفات الله والفرق بين الأسماء والصفات
+",000,False,000,False,False,False,3,1210
+"### ||| AUTO فصل في الكلام في أن الله تعالى قديم
+",000,False,000,False,False,False,3,139
+"### || AUTO باب حقيقة معرفة التوحيد
+",000,False,000,False,False,False,2,5792
+"### ||| AUTO فصل في الكلام في أصل التوحيد وحقيقته
+",000,False,000,False,False,False,3,886
+"### ||| AUTO فصل في الكلام فيما اتفق عليه أهل القبلة وما اختلفوا فيه من
+",000,False,000,False,False,False,3,2800
+"### ||| AUTO فصل في الكلام في الإرادة
+",000,False,000,False,False,False,3,1066
+"### || AUTO باب حقيقة معرفة العدل
+",000,False,000,False,False,False,2,8341
+"### ||| AUTO فصل في الكلام في اختلاف أهل القبلة في العدل وذكر ما أجمعوا
+",000,False,000,False,False,False,3,1736
+"### ||| AUTO فصل في الكلام في الاستطاعة
+",000,False,000,False,False,False,3,832
+"### ||| AUTO فصل في الكلام في الوعد والوعيد
+",000,False,000,False,False,False,3,1053
+"### ||| AUTO فصل في الكلام في المنزلة بين المنزلتين
+",000,False,000,False,False,False,3,930
+"### ||| AUTO فصل في الكلام في الهداية والإضلال
+",000,False,000,False,False,False,3,2123
+"### || AUTO باب حقيقة معرفة النعمة
+",000,False,000,False,False,False,2,3785
+"### ||| AUTO فصل في الكلام فيما خلق الله من النعم
+",000,False,000,False,False,False,3,1782
+"### ||| AUTO فصل في الكلام في ما فطر الله عليه العبد
+",000,False,000,False,False,False,3,671
+"### ||| AUTO فصل في الكلام في أن ما أمر الله به العبد فهو له نعمة
+",000,False,000,False,False,False,3,679
+"### ||| AUTO فصل في الكلام في أن الله نهى عن فعل ما يستقبحه العقل ويضر
+",000,False,000,False,False,False,3,464
+"### || AUTO باب حقيقة معرفة شكر المنعم
+",000,False,000,False,False,False,2,6749
+"### ||| AUTO فصل في الكلام في حقيقة الشكر
+",000,False,000,False,False,False,3,71
+"### ||| AUTO فصل في الكلام فيما يجب أن يعتقد بالقلب من الشكر
+",000,False,000,False,False,False,3,1433
+"### ||| AUTO فصل في الكلام في واجبات اللسان
+",000,False,000,False,False,False,3,960
+"### ||| AUTO فصل في الكلام في واجبات السمع
+",000,False,000,False,False,False,3,255
+"### ||| AUTO فصل في الكلام في واجبات البصر
+",000,False,000,False,False,False,3,684
+"### ||| AUTO فصل في الكلام في واجبات اليدين
+",000,False,000,False,False,False,3,88
+"### ||| AUTO فصل في الكلام في واجبات النفس على الكمال
+",000,False,000,False,False,False,3,365
+"### ||| AUTO فصل في الكلام في حقيقة الشكر
+",000,False,000,False,False,False,3,716
+"### ||| AUTO فصل في الكلام في الهجرة
+",000,False,000,False,False,False,3,344
+"### ||| AUTO فصل في الكلام في التجارة
+",000,False,000,False,False,False,3,987
+"### ||| AUTO فصل في الكلام في التوبة
+",000,False,000,False,False,False,3,585
+"### || AUTO باب حقيقة معرفة البلاء
+",000,False,000,False,False,False,2,6597
+"### ||| AUTO فصل في الكلام في امتزاج النعمة والمحنة
+",000,False,000,False,False,False,3,447
+"### ||| AUTO فصل في الكلام في الرزق
+",000,False,000,False,False,False,3,927
+"### ||| AUTO فصل في الكلام في الصبر على البلية
+",000,False,000,False,False,False,3,622
+"### ||| AUTO فصل في الكلام في الموت
+",000,False,000,False,False,False,3,708
+"### ||| AUTO فصل في الكلام في الآجال
+",000,False,000,False,False,False,3,3202
+"### || AUTO باب حقيقة معرفة الجزاء
+",000,False,000,False,False,False,2,5227
+"### ||| AUTO فصل في الكلام فيما اختلفت فيه الأمة من عذاب القبر والنفخ في
+",000,False,000,False,False,False,3,383
+"### ||| AUTO فصل في الكلام في الصور
+",000,False,000,False,False,False,3,126
+"### ||| AUTO فصل في الكلام في الميزان
+",000,False,000,False,False,False,3,970
+"### ||| AUTO فصل في الكلام في الكتاب
+",000,False,000,False,False,False,3,419
+"### ||| AUTO فصل في الكلام في الصراط
+",000,False,000,False,False,False,3,520
+"### ||| AUTO فصل في الكلام في الشفاعة
+",000,False,000,False,False,False,3,465
+"### ||| AUTO فصل في الكلام في أطفال المشركين
+",000,False,000,False,False,False,3,241
+"### ||| AUTO فصل في الكلام في أزواج أهل الجنة
+",000,False,000,False,False,False,3,851
+"### ||| AUTO فصل في الكلام في جزاء الأعمال وذكر الخواتم
+",000,False,000,False,False,False,3,416
+"### || AUTO باب حقيقة معرفة الكتاب
+",000,False,000,False,False,False,2,5551
+"### ||| AUTO فصل في الكلام في فضائل القرآن
+",000,False,000,False,False,False,3,951
+"### ||| AUTO فصل في الكلام في معاني القرآن
+",000,False,000,False,False,False,3,814
+"### ||| AUTO فصل في الكلام في الناسخ والمنسوخ
+",000,False,000,False,False,False,3,2909
+"### ||| AUTO فصل في الكلام في الاختلاف في الكتاب
+",000,False,000,False,False,False,3,537
+"### || AUTO باب حقيقة معرفة النبيء صلى الله عليه وآله وسلم
+",000,False,000,False,False,False,2,4171
+"### ||| AUTO فصل في الكلام في نبيئنا محمد صلى الله عليه وآله وسلم
+",000,False,000,False,False,False,3,1442
+"### ||| AUTO فصل في الكلام في معنى الرسالة
+",000,False,000,False,False,False,3,219
+"### ||| AUTO فصل في الكلام في اختلاف الناس في النبيء صلى الله عليه وآله وسلم
+",000,False,000,False,False,False,3,435
+"### ||| AUTO فصل في الكلام في خطايا الأنبياء عليهم السلام
+",000,False,000,False,False,False,3,1133
+"### || AUTO باب حقيقة معرفة الإمام
+",000,False,000,False,False,False,2,13603
+"### ||| AUTO فصل في الكلام في إمامة أمير المؤمنين علي بن أبي طالب عليه السلام
+",000,False,000,False,False,False,3,1584
+"### ||| AUTO فصل في الكلام في اختلاف الأمة في إمامة علي بن أبي طالب عليه السلام
+",000,False,000,False,False,False,3,3570
+"### ||| AUTO فصل في الكلام في إمامة الحسن والحسين عليهما السلام
+",000,False,000,False,False,False,3,712
+"### ||| AUTO فصل في الكلام في الأئمة من بعدهما
+",000,False,000,False,False,False,3,1695
+"### ||| AUTO فصل في الكلام في إمامة زيد بن علي عليهما السلام ومن قام
+",000,False,000,False,False,False,3,3370
+"### ||| AUTO فصل في الكلام في فرق الشيعة
+",000,False,000,False,False,False,3,2042
+"### || AUTO باب حقيقة معرفة الاختلاف
+",000,False,000,False,False,False,2,4290
+"### ||| AUTO فصل في الكلام في الفرقة الناجية
+",000,False,000,False,False,False,3,3023

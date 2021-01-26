@@ -1,0 +1,2119 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | مولد رسول ms002 الله صلى الله عليه وسلم ووفاته
+",000,False,000,False,False,False,1,516
+"### | سنة إحدى من التاريخ 
+",001,year,000,False,001,239,1,366
+"### || وصول النبي صلى الله عليه وسلم إلى المدينة 
+",000,False,000,False,False,False,2,363
+"### | سنة اثنتين
+",002,year,000,False,002,238,1,1660
+"### || غزوة الأبواء
+",000,False,000,False,False,False,2,93
+"### || غزوة بواط 
+",000,False,000,False,False,False,2,43
+"### || غزوة العشيرة 
+",000,False,000,False,False,False,2,40
+"### || غزوة سفوان 
+",000,False,000,False,False,False,2,56
+"### || غزوة ناحية جهينة 
+",000,False,000,False,False,False,2,19
+"### || غزوة بدر الكبرى 
+",000,False,000,False,False,False,2,172
+"### || غزوة الكدر
+",000,False,000,False,False,False,2,63
+"### || غزوة السويق 
+",000,False,000,False,False,False,2,99
+"### || تسمية من استشهد مع رسول الله صلى الله عليه وسلم ببدر
+",000,False,000,False,False,False,2,272
+"### ||| من بني المطلب 
+",000,False,000,False,False,False,3,36
+"### ||| من بيني زهرة
+",000,False,000,False,False,False,3,40
+"### ||| من بني عدي 
+",000,False,000,False,False,False,3,37
+"### ||| من بني الحارث 
+",000,False,000,False,False,False,3,27
+"### ||| استشهاد أبي أنسة 
+",000,False,000,False,False,False,3,35
+"### ||| ومن الأنصار 
+",000,False,000,False,False,False,3,41
+"### ||| من بني الخزرج 
+",000,False,000,False,False,False,3,19
+"### ||| من بني سلمة 
+",000,False,000,False,False,False,3,23
+"### ||| من بني حبيب 
+",000,False,000,False,False,False,3,18
+"### ||| من بني عدي 
+",000,False,000,False,False,False,3,27
+"### ||| من بني مالك 
+",000,False,000,False,False,False,3,38
+"### || سرية عبيدة إلى سيف البحر 
+",000,False,000,False,False,False,2,160
+"### ||  سرية حمزة إلى سيف البحر 
+",000,False,000,False,False,False,2,134
+"### || سرية سعد بن مالك 
+",000,False,000,False,False,False,2,137
+"### || بعث عبدالله بن غالب الليثي 
+",000,False,000,False,False,False,2,49
+"### || تجسس خبر عير أبي سفيان
+",000,False,000,False,False,False,2,48
+"### || صرف القبلة إلى الكعبة 
+",000,False,000,False,False,False,2,401
+"### | سنة ثلاث 
+",003,year,000,False,003,237,1,1916
+"### || عزوة ذي أمر ثم غزوة بحران
+",000,False,000,False,False,False,2,79
+"### || حصل بني قينقاع 
+",000,False,000,False,False,False,2,164
+"### || غزوة أحد
+",000,False,000,False,False,False,2,1126
+"### ||| تسمية من استشهد مع رسول الله صلى الله عليه وسلم يوم أحد
+",000,False,000,False,False,False,3,793
+"### |||| من بني هاشم 
+",000,False,000,False,False,False,4,24
+"### |||| من بني أمية 
+",000,False,000,False,False,False,4,27
+"### |||| من بني عبد الدار 
+",000,False,000,False,False,False,4,16
+"### |||| من بني مخزوم 
+",000,False,000,False,False,False,4,19
+"### |||| من الأنصار 
+",000,False,000,False,False,False,4,93
+"### |||| من بني ظفر 
+",000,False,000,False,False,False,4,25
+"### |||| من راتج 
+",000,False,000,False,False,False,4,32
+"### |||| من بني ضيعة 
+",000,False,000,False,False,False,4,42
+"### |||| من بني عبيد 
+",000,False,000,False,False,False,4,21
+"### |||| من بني ثعلبة 
+",000,False,000,False,False,False,4,36
+"### |||| من بني السلم 
+",000,False,000,False,False,False,4,21
+"### |||| من بني العجلان 
+",000,False,000,False,False,False,4,23
+"### |||| من بني معاوية 
+",000,False,000,False,False,False,4,16
+"### |||| من بني النجار 
+",000,False,000,False,False,False,4,28
+"### |||| من بني عمرو بن مبذول 
+",000,False,000,False,False,False,4,30
+"### |||| من بني عمرو بن مالك 
+",000,False,000,False,False,False,4,27
+"### |||| من بين عدي 
+",000,False,000,False,False,False,4,17
+"### |||| من بني مازن 
+",000,False,000,False,False,False,4,27
+"### |||| من بني دينار 
+",000,False,000,False,False,False,4,19
+"### |||| من بني الحارث 
+",000,False,000,False,False,False,4,34
+"### |||| من بني الأبجر 
+",000,False,000,False,False,False,4,42
+"### |||| من بني ساعدة 
+",000,False,000,False,False,False,4,29
+"### |||| من بني طريف 
+",000,False,000,False,False,False,4,29
+"### |||| من بني عوف 
+",000,False,000,False,False,False,4,83
+"### |||| من بني ساعدة 
+",000,False,000,False,False,False,4,27
+"### |||| من بني الحبلى 
+",000,False,000,False,False,False,4,17
+"### |||| من بني سلمة 
+",000,False,000,False,False,False,4,53
+"### |||| من بني سواد 
+",000,False,000,False,False,False,4,33
+"### |||| من بني زريق 
+",000,False,000,False,False,False,4,74
+"### || خروج الرسول صلى الله عليه وسلم إلى حمراء الاسد
+",000,False,000,False,False,False,2,196
+"### || يوم الرجيع 
+",000,False,000,False,False,False,2,384
+"### | سنة أربع 
+",004,year,000,False,004,236,1,529
+"### || حديث بئر معونة 
+",000,False,000,False,False,False,2,267
+"### || سراياه في سنة خمس 
+",005,year,000,False,005,235,2,269
+"### | سنة ست 
+",006,year,000,False,006,234,1,573
+"### || سراياه عليه السلام في سنة ست
+",006,year,000,False,006,234,2,85
+"### || إرسال الرسل إلى الأمراء والملوك 
+",000,False,000,False,False,False,2,62
+"### || غزوة بني المصطلق 
+",000,False,000,False,False,False,2,217
+"### || صلح الحديبية 
+",000,False,000,False,False,False,2,222
+"### | سنة سبع 
+",007,year,000,False,007,233,1,714
+"### || غزوة خيبر 
+",000,False,000,False,False,False,2,174
+"### || مصالحة فدك 
+",000,False,000,False,False,False,2,92
+"### || تسمية من قتل من المسلمين في خيبر 
+",000,False,000,False,False,False,2,169
+"### ||| من قريش 
+",000,False,000,False,False,False,3,49
+"### ||| من الأنصار 
+",000,False,000,False,False,False,3,24
+"### ||| من بني زريق 
+",000,False,000,False,False,False,3,15
+"### ||| من الأوس 
+",000,False,000,False,False,False,3,45
+"### ||| من بني غفار 
+",000,False,000,False,False,False,3,57
+"### || حصار وادي القرى 
+",000,False,000,False,False,False,2,33
+"### || مصالحة فدك 
+",000,False,000,False,False,False,2,34
+"### || سراياه صلى الله عليه وسلم سنة سبع 
+",007,year,000,False,007,233,2,102
+"### || عمرة القضاء 
+",000,False,000,False,False,False,2,151
+"### | سنة ثمان 
+",008,year,000,False,008,232,1,896
+"### || وقعة مؤتة 
+",000,False,000,False,False,False,2,78
+"### || فتح مكة 
+",000,False,000,False,False,False,2,87
+"### || إرسال السرايا حوالي مكة 
+",000,False,000,False,False,False,2,36
+"### || سرية خالد إلى بني جذيمة 
+",000,False,000,False,False,False,2,60
+"### || هدم العزى 
+",000,False,000,False,False,False,2,65
+"### || غزوة حنين
+",000,False,000,False,False,False,2,127
+"### || غزوة الطائف 
+",000,False,000,False,False,False,2,124
+"### || نزوله صلى الله عليه وسلم الجعرانة 
+",000,False,000,False,False,False,2,67
+"### || تسمية المؤلفة قلوبهم 
+",000,False,000,False,False,False,2,77
+"### || تسمية من استشهد من المسلمين يوم الطائف 
+",000,False,000,False,False,False,2,239
+"### ||| من بني أمية 
+",000,False,000,False,False,False,3,25
+"### ||| من تيم بن مرة 
+",000,False,000,False,False,False,3,37
+"### ||| من مخزوم 
+",000,False,000,False,False,False,3,20
+"### ||| من بني عدي 
+",000,False,000,False,False,False,3,16
+"### ||| من بني سهم 
+",000,False,000,False,False,False,3,18
+"### ||| من بني سعد 
+",000,False,000,False,False,False,3,25
+"### ||| من الأنصار 
+",000,False,000,False,False,False,3,22
+"### ||| من بني مازن 
+",000,False,000,False,False,False,3,25
+"### ||| من بني ساعدة 
+",000,False,000,False,False,False,3,19
+"### ||| من الأوس 
+",000,False,000,False,False,False,3,83
+"### | سنة تسع 
+",009,year,000,False,009,231,1,300
+"### || غزوة تبوك 
+",000,False,000,False,False,False,2,54
+"### ||| الثلاثة الذين خلفوا 
+",000,False,000,False,False,False,3,30
+"### || سرية أكيدر دومة 
+",000,False,000,False,False,False,2,52
+"### || نزول سورة براءة 
+",000,False,000,False,False,False,2,88
+"### || قدوم وفود القبائل على الرسول صلى الله عليه وسلم 
+",000,False,000,False,False,False,2,132
+"### | سنة عشر
+",010,year,000,False,010,230,1,105
+"### || حجة الوداع 
+",000,False,000,False,False,False,2,22
+"### || إسلام أهل نجران 
+",000,False,000,False,False,False,2,104
+"### | سنة أحدى عشرة
+",011,year,000,False,011,229,1,4481
+"### || وفاة الرسول صلى الله عليه وسلم 
+",000,False,000,False,False,False,2,38
+"### || عمره صلى الله عليه وسلم 
+",000,False,000,False,False,False,2,336
+"### || وفاة فاطمة رضي الله عنها 
+",000,False,000,False,False,False,2,114
+"### || تسمية عماله صلى الله عليه وسلم 
+",000,False,000,False,False,False,2,676
+"### ||| تسمية رسله صلى الله عليه وسلم
+",000,False,000,False,False,False,3,118
+"### ||| تسمية عماله على الصدقات
+",000,False,000,False,False,False,3,122
+"### ||| تسمية من كتب له صلى الله عليه وسلم
+",000,False,000,False,False,False,3,52
+"### ||| حاجبه وصاحب نفقاته وخازنه وخادمه ومؤذناه وحرسه صلى الله عليه وسلم
+",000,False,000,False,False,False,3,75
+"### || خلافة أبي بكر الصديق
+",000,False,000,False,False,False,2,93
+"### || إنفاذ جيش أسامة 
+",000,False,000,False,False,False,2,189
+"### || الردة 
+",000,False,000,False,False,False,2,24
+"### || خروج أبي بكر إلى ذي القصة 
+",000,False,000,False,False,False,2,164
+"### || ردة طليحة الأسدي
+",000,False,000,False,False,False,2,306
+"### || ردة بني سليم 
+",000,False,000,False,False,False,2,168
+"### || ردة بني تميم
+",000,False,000,False,False,False,2,465
+"### || خبر اليمامة 
+",000,False,000,False,False,False,2,1619
+"### ||| تسمية من استشهد يوم اليمامة 
+",000,False,000,False,False,False,3,751
+"### |||| من بني عبد شمس 
+",000,False,000,False,False,False,4,31
+"### |||| من بني أسد بن خزيمة 
+",000,False,000,False,False,False,4,21
+"### |||| من بني سليم 
+",000,False,000,False,False,False,4,34
+"### |||| من حضرموت 
+",000,False,000,False,False,False,4,51
+"### |||| قال من بني المطلب 
+",000,False,000,False,False,False,4,34
+"### |||| من بني أسد بن عبد العزى 
+",000,False,000,False,False,False,4,20
+"### |||| من بني عبد ms041 الدار 
+",000,False,000,False,False,False,4,22
+"### |||| من بني زهرة 
+",000,False,000,False,False,False,4,56
+"### |||| من بني مخزوم 
+",000,False,000,False,False,False,4,49
+"### |||| من بني عدي 
+",000,False,000,False,False,False,4,48
+"### |||| من بني ليث 
+",000,False,000,False,False,False,4,12
+"### |||| من بني سهم 
+",000,False,000,False,False,False,4,34
+"### |||| من بني عامر بن لؤي 
+",000,False,000,False,False,False,4,71
+"### |||| من بني منقذ 
+",000,False,000,False,False,False,4,37
+"### |||| من الأنصار 
+",000,False,000,False,False,False,4,47
+"### |||| من بني جحجبا 
+",000,False,000,False,False,False,4,16
+"### |||| من بني أنيف 
+",000,False,000,False,False,False,4,15
+"### |||| من بني العجلان 
+",000,False,000,False,False,False,4,41
+"### |||| من الخزرج 
+",000,False,000,False,False,False,4,34
+"### |||| من بني الحبلى 
+",000,False,000,False,False,False,4,34
+"### |||| من بني سالم 
+",000,False,000,False,False,False,4,27
+"### |||| من بني ساعدة 
+",000,False,000,False,False,False,4,38
+"### |||| من بني سلمة 
+",000,False,000,False,False,False,4,28
+"### |||| من بني غنم 
+",000,False,000,False,False,False,4,17
+"### |||| من بني سواد 
+",000,False,000,False,False,False,4,29
+"### |||| من بني مازن بن النجار 
+",000,False,000,False,False,False,4,16
+"### |||| من بني عمرو بن مبذول 
+",000,False,000,False,False,False,4,21
+"### |||| من بني مالك بن النجار 
+",000,False,000,False,False,False,4,51
+"### |||| من بني زريق 
+",000,False,000,False,False,False,4,24
+"### || ردة البحرين
+",000,False,000,False,False,False,2,104
+"### || ردة عمان والنجير وحضرموت واليمن 
+",000,False,000,False,False,False,2,261
+"### | سنة اثنتي عشرة 
+",012,year,000,False,012,228,1,314
+"### | سنة ثلاث عشرة 
+",013,year,000,False,013,227,1,1279
+"### || وفاة الصديق وعمره 
+",000,False,000,False,False,False,2,203
+"### || مدة خلافة الصديق 
+",000,False,000,False,False,False,2,27
+"### || خلافة عمر بن الخطاب رضي الله عنه
+",000,False,000,False,False,False,2,117
+"### || تسمية عمال أبي بكر 
+",000,False,000,False,False,False,2,210
+"### || فتوح أبي عبيد الثقفي في العراق
+",000,False,000,False,False,False,2,355
+"### || العلاء بن الحضرمي يفتح الزارة والغابة 
+",000,False,000,False,False,False,2,100
+"### | سنة أربع عشرة 
+",014,year,000,False,014,226,1,830
+"### || فتح دمشق 
+",000,False,000,False,False,False,2,138
+"### || وقعة فحل 
+",000,False,000,False,False,False,2,74
+"### || فتح حمص وبعلبك 
+",000,False,000,False,False,False,2,41
+"### || فتوح البصرة
+",000,False,000,False,False,False,2,610
+"### | سنة خمس عشرة 
+",015,year,000,False,015,225,1,1011
+"### || فتوح الأردن والبقاع وبعلبك وحمص
+",000,False,000,False,False,False,2,128
+"### || وقعة جامعة اليرموك 
+",000,False,000,False,False,False,2,154
+"### || فتح نهر تيري ودست ميسان بالعراق 
+",000,False,000,False,False,False,2,73
+"### || موقعة القادسية
+",000,False,000,False,False,False,2,315
+"### || فتح المدائن
+",000,False,000,False,False,False,2,379
+"### | | سنة ست عشرة
+",016,year,000,False,016,224,1,178
+"### || فتح الأهواز 
+",000,False,000,False,False,False,2,42
+"### || فتح حلب وأنطاكية ومنبج وبيت المقدس
+",000,False,000,False,False,False,2,142
+"### | سنة سبع عشرة
+",017,year,000,False,017,223,1,554
+"### || فتوح أبي موسى الأشعري
+",000,False,000,False,False,False,2,182
+"### || موقعة جلولاء
+",000,False,000,False,False,False,2,252
+"### || بناء الكوفة
+",000,False,000,False,False,False,2,90
+"### | سنة ثمان عشرة
+",018,year,000,False,018,222,1,543
+"### || عام الرمادة 
+",000,False,000,False,False,False,2,33
+"### || طاعون عمواس 
+",000,False,000,False,False,False,2,26
+"### || فتح الرها وسميساط والجزيرة 
+",000,False,000,False,False,False,2,212
+"### || فتح حلوان والماهات وما سبذان 
+",000,False,000,False,False,False,2,62
+"### || فتح ms060 جند يسابور والسوس 
+",000,False,000,False,False,False,2,20
+"### || فتح سرق ورامهمز 
+",000,False,000,False,False,False,2,144
+"### || فتح تستر 
+",000,False,000,False,False,False,2,33
+"### || فتح ريشهر 
+",000,False,000,False,False,False,2,40
+"### || بناء الكوفة 
+",000,False,000,False,False,False,2,26
+"### | سنة تسع عشرة
+",019,year,000,False,019,221,1,241
+"### || فتح قيسارية 
+",000,False,000,False,False,False,2,48
+"### || فتح تكريت 
+",000,False,000,False,False,False,2,14
+"### || فتح صهاب وتوج 
+",000,False,000,False,False,False,2,199
+"### | سنة عشرين
+",020,year,000,False,020,220,1,1205
+"### || فتح مصر 
+",000,False,000,False,False,False,2,363
+"### || فتح أنطابلس 
+",000,False,000,False,False,False,2,112
+"### || وقعة تستر
+",000,False,000,False,False,False,2,752
+"### | سنة إحدى وعشرين
+",021,year,000,False,021,219,1,723
+"### || موقعة نهاوند 
+",000,False,000,False,False,False,2,685
+"### || فتح الاسكندرية 
+",000,False,000,False,False,False,2,57
+"### | سنة اثنتين وعشرين
+",022,year,000,False,022,218,1,347
+"### || فتح الدينور وما سبذان وماه دينار 
+",000,False,000,False,False,False,2,117
+"### || فتح همذان والري
+",000,False,000,False,False,False,2,56
+"### || فتح أذريبجان 
+",000,False,000,False,False,False,2,97
+"### || فتح أطرابلس والاسكندرية 
+",000,False,000,False,False,False,2,93
+"### | سنة ثلاث وعشرين
+",023,year,000,False,023,217,1,889
+"### || غزوة إصطخر الأولى 
+",000,False,000,False,False,False,2,48
+"### || مقتل عمر عمره ومدة خلافته 
+",000,False,000,False,False,False,2,208
+"### || تسمية عمال عمر بن الخطاب
+",000,False,000,False,False,False,2,647
+"### ||| القضاة 
+",000,False,000,False,False,False,3,269
+"### |||| الشامات
+",000,False,000,False,False,False,4,108
+"### |||| مصر والجزيرة
+",000,False,000,False,False,False,4,78
+"### ||| كتابه وحاجبه وخازنه ومن كان على بيت ماله
+",000,False,000,False,False,False,3,130
+"### | سنة أربع وعشرين 
+",024,year,000,False,024,216,1,177
+"### || خلافة عثمان رضي الله عنه فيها استخلف عثمان بن أبي
+",000,False,000,False,False,False,2,40
+"### || فتح همذان 
+",000,False,000,False,False,False,2,67
+"### || فتح الري 
+",000,False,000,False,False,False,2,82
+"### | سنة خمس وعشرين 
+",025,year,000,False,025,215,1,152
+"### || انتقاض الاسكندرية وإعادة فتحها 
+",000,False,000,False,False,False,2,84
+"### | سنة ست وعشرين
+",026,year,000,False,026,214,1,132
+"### || فتح سابور 
+",000,False,000,False,False,False,2,132
+"### | سنة سبع وعشرين
+",027,year,000,False,027,213,1,190
+"### || فتح أرجان ودرابجرد 
+",000,False,000,False,False,False,2,69
+"### || ابن أبي سرح يغزو أفريقية 
+",000,False,000,False,False,False,2,126
+"### | سنة ثمان وعشرين
+",028,year,000,False,028,212,1,95
+"### || غزوة أذربيجان 
+",000,False,000,False,False,False,2,32
+"### || غزو ms075 قبرس 
+",000,False,000,False,False,False,2,79
+"### | سنة تسع وعشرين
+",029,year,000,False,029,211,1,479
+"### || ولاية ابن عامر على البصرة وفارس 
+",000,False,000,False,False,False,2,71
+"### || فتح أصبهان 
+",000,False,000,False,False,False,2,69
+"### || فتح إصطخر 
+",000,False,000,False,False,False,2,224
+"### || غزو البيلقان وبرذعة وجرزان وحيزان وبلنجر 
+",000,False,000,False,False,False,2,68
+"### || فتح جرجان 
+",000,False,000,False,False,False,2,69
+"### | سنة ثلاثين
+",030,year,000,False,030,210,1,539
+"### || فتوح فارس وخراسان وسجستان 
+",000,False,000,False,False,False,2,389
+"### || فتح طبرستان 
+",000,False,000,False,False,False,2,75
+"### || حفر نهر الأبلة بالبصرة
+",000,False,000,False,False,False,2,92
+"### | سنة إحدى وثلاثين 
+",031,year,000,False,031,209,1,109
+"### | سنة اثنتين وثلاثين 
+",032,year,000,False,032,208,1,57
+"### | سنة ثلاث وثلاثين
+",033,year,000,False,033,207,1,173
+"### || قتال عبد الله بن خازم لقارن 
+",000,False,000,False,False,False,2,83
+"### || فتح زرنج 
+",000,False,000,False,False,False,2,30
+"### || غزو ملطية وأفريقية 
+",000,False,000,False,False,False,2,29
+"### || غزو الحبشة 
+",000,False,000,False,False,False,2,67
+"### | سنة أربع وثلاثين 
+",034,year,000,False,034,206,1,57
+"### | سنة خمس وثلاثين 
+",035,year,000,False,035,205,1,2705
+"### || الفتنة زمن عثمان رضي الله عنه 
+",000,False,000,False,False,False,2,2099
+"### || مدة خلافة عثمان وعمره
+",000,False,000,False,False,False,2,95
+"### || | تسمية عمال عثمان بن عفان
+",000,False,000,False,False,False,2,531
+"### ||| مكة 
+",000,False,000,False,False,False,3,29
+"### ||| المدينة 
+",000,False,000,False,False,False,3,19
+"### ||| البصرة 
+",000,False,000,False,False,False,3,48
+"### ||| الكوفة 
+",000,False,000,False,False,False,3,56
+"### ||| مصر 
+",000,False,000,False,False,False,3,27
+"### ||| الشام 
+",000,False,000,False,False,False,3,17
+"### ||| صاحب شرطه وحاجبه ومن على بيت المال وكاتبه 
+",000,False,000,False,False,False,3,55
+"### ||| القضاة 
+",000,False,000,False,False,False,3,336
+"### |||| قضاء البصرة 
+",000,False,000,False,False,False,4,40
+"### |||| الكوفة 
+",000,False,000,False,False,False,4,9
+"### |||| اليمن
+",000,False,000,False,False,False,4,17
+"### |||| خراسان 
+",000,False,000,False,False,False,4,74
+"### |||| سجستان 
+",000,False,000,False,False,False,4,51
+"### |||| السند 
+",000,False,000,False,False,False,4,36
+"### |||| البحرين 
+",000,False,000,False,False,False,4,32
+"### |||| الصائفة 
+",000,False,000,False,False,False,4,119
+"### | سنة ست وثلاثين
+",036,year,000,False,036,204,1,2170
+"### || خلافة علي بن أبي طالب رضي الله عنه 
+",000,False,000,False,False,False,2,42
+"### || خروج طلحة والزبير وعائشة 
+",000,False,000,False,False,False,2,93
+"### || معركة الجمل
+",000,False,000,False,False,False,2,2022
+"### ||| تفصيل خبر معركة الجمل 
+",000,False,000,False,False,False,3,1021
+"### ||| تسمية من حفظ لنا ممن قتل يوم الجمل
+",000,False,000,False,False,False,3,807
+"### |||| من بني أمية 
+",000,False,000,False,False,False,4,21
+"### |||| من بني حببيب بن عبد شمس 
+",000,False,000,False,False,False,4,32
+"### |||| من بني عبد العزى بن عبد شمس 
+",000,False,000,False,False,False,4,32
+"### |||| من بني أسد 
+",000,False,000,False,False,False,4,27
+"### |||| من بني عبد الدار 
+",000,False,000,False,False,False,4,19
+"### |||| من بني عبد بن قصي 
+",000,False,000,False,False,False,4,27
+"### |||| من بني زهرة 
+",000,False,000,False,False,False,4,52
+"### |||| من بني مخزوم 
+",000,False,000,False,False,False,4,47
+"### |||| من بني تيم بن مرة 
+",000,False,000,False,False,False,4,45
+"### |||| من بني جمح 
+",000,False,000,False,False,False,4,59
+"### |||| من بني سهم 
+",000,False,000,False,False,False,4,21
+"### |||| من بني عامر 
+",000,False,000,False,False,False,4,30
+"### |||| من بني الحارث 
+",000,False,000,False,False,False,4,15
+"### |||| من بني تميم 
+",000,False,000,False,False,False,4,23
+"### |||| من بني غيلان 
+",000,False,000,False,False,False,4,40
+"### |||| من بلهجيم 
+",000,False,000,False,False,False,4,14
+"### |||| من قيس عيلان 
+",000,False,000,False,False,False,4,36
+"### |||| من باهلة 
+",000,False,000,False,False,False,4,22
+"### |||| من اليمن 
+",000,False,000,False,False,False,4,13
+"### |||| من طاحية 
+",000,False,000,False,False,False,4,19
+"### |||| من الجهاضم 
+",000,False,000,False,False,False,4,382
+"### || غزو الهند 
+",000,False,000,False,False,False,2,39
+"### | سنة سبع وثلاثين
+",037,year,000,False,037,203,1,181
+"### || وقعة صفين 
+",000,False,000,False,False,False,2,127
+"### || خروج شبث بن ربعي 
+",000,False,000,False,False,False,2,74
+"### | سنة ثمان وثلاثين
+",038,year,000,False,038,202,1,1189
+"### || مقتل محمد بن أبي بكر 
+",000,False,000,False,False,False,2,87
+"### || تفصيل خبر صفين
+",000,False,000,False,False,False,2,935
+"### || وقعة النهروان
+",000,False,000,False,False,False,2,186
+"### | سنة تسع وثلاثين 
+",039,year,000,False,039,201,1,90
+"### | سنة أربعين 
+",040,year,000,False,040,200,1,668
+"### || بيعة الحسن بن علي 
+",000,False,000,False,False,False,2,70
+"### || تسمية عمال علي بن أبي طالب
+",000,False,000,False,False,False,2,481
+"### |||  خراسان 
+",000,False,000,False,False,False,3,25
+"### ||| سجستان 
+",000,False,000,False,False,False,3,64
+"### ||| السند 
+",000,False,000,False,False,False,3,43
+"### ||| البحرين 
+",000,False,000,False,False,False,3,21
+"### ||| اليمن 
+",000,False,000,False,False,False,3,46
+"### ||| الجزيرة 
+",000,False,000,False,False,False,3,5
+"### ||| القضاء 
+",000,False,000,False,False,False,3,47
+"### |||| قضاء البصرة 
+",000,False,000,False,False,False,4,34
+"### |||| الكوفة 
+",000,False,000,False,False,False,4,27
+"### ||| الشرط 
+",000,False,000,False,False,False,3,18
+"### ||| كتابه 
+",000,False,000,False,False,False,3,21
+"### ||| حاجبه 
+",000,False,000,False,False,False,3,36
+"### ||| مكة
+",000,False,000,False,False,False,3,46
+"### ||| المدينة 
+",000,False,000,False,False,False,3,33
+"### ||| مصر 
+",000,False,000,False,False,False,3,57
+"### ||| البصرة 
+",000,False,000,False,False,False,3,54
+"### ||| الكوفة 
+",000,False,000,False,False,False,3,63
+"### | سنة إحدى وأربعين معاوية بن أبي سفيان 
+",041,year,000,False,041,199,1,343
+"### || عام الجماعة
+",000,False,000,False,False,False,2,114
+"### || خروج ابن أبي الحوساء على معاوية 
+",000,False,000,False,False,False,2,50
+"### || خروج حوثرة بن ذراع 
+",000,False,000,False,False,False,2,41
+"### || خروج سهم والخطيم 
+",000,False,000,False,False,False,2,71
+"### || ولاية عقبة بن نافع لأفريقية 
+",000,False,000,False,False,False,2,97
+"### | سنة اثنتين وأربعين 
+",042,year,000,False,042,198,1,118
+"### | سنة ثلاث وأربعين 
+",043,year,000,False,043,197,1,85
+"### | سنة أربع وأربعين
+",044,year,000,False,044,196,1,114
+"### || فتح كابل 
+",000,False,000,False,False,False,2,117
+"### | سنة خمس واربعين 
+",045,year,000,False,045,195,1,143
+"### | سنة ست وأربعين 
+",046,year,000,False,046,194,1,76
+"### | سنة سبع وأربعين 
+",047,year,000,False,047,193,1,72
+"### | سنة ثمان وأربعين 
+",048,year,000,False,048,192,1,78
+"### | سنة تسع وأربعين 
+",049,year,000,False,049,191,1,116
+"### || خروج شبيب بن بجرة 
+",000,False,000,False,False,False,2,82
+"### | سنة خمسين 
+",050,year,000,False,050,190,1,574
+"### || بناء القيروان 
+",000,False,000,False,False,False,2,72
+"### || غزو أفريقية وفتح جلولاء المغرب 
+",000,False,000,False,False,False,2,211
+"### || جمع العراق لزياد
+",000,False,000,False,False,False,2,105
+"### || غزو القيقان 
+",000,False,000,False,False,False,2,141
+"### | سنة إحدى وخمسين
+",051,year,000,False,051,189,1,1549
+"### || مقتل حجر بن عدي 
+",000,False,000,False,False,False,2,40
+"### || أخذ البيعة ليزيد بن معاوية 
+",000,False,000,False,False,False,2,1521
+"### | سنة اثنتين وخمسين 
+",052,year,000,False,052,188,1,54
+"### | سنة ثلاث وخمسين
+",053,year,000,False,053,187,1,815
+"### || خروج قريب وزحاف 
+",000,False,000,False,False,False,2,725
+"### | سنة أربع وخمسين ms119
+",054,year,000,False,054,186,1,171
+"### | سنة خمس وخمسين
+",055,year,000,False,055,185,1,79
+"### | سنة ست وخمسين
+",056,year,000,False,056,184,1,107
+"### || غزو سمرقند 
+",000,False,000,False,False,False,2,116
+"### | سنة سبع وخمسين 
+",057,year,000,False,057,183,1,113
+"### | سنة ثمان وخمسين
+",058,year,000,False,058,182,1,121
+"### | سنة تسع وخمسين
+",059,year,000,False,059,181,1,561
+"### || أبو المهاجر يغزو قرطاجنة
+",000,False,000,False,False,False,2,103
+"### || وفاة معاوية بن أبي سفيان 
+",000,False,000,False,False,False,2,135
+"### || غزوة رودس 
+",000,False,000,False,False,False,2,77
+"### || القضاة في خلافة معاوية 
+",000,False,000,False,False,False,2,169
+"### ||| البصرة 
+",000,False,000,False,False,False,3,54
+"### ||| الكوفة 
+",000,False,000,False,False,False,3,32
+"### ||| المدينة
+",000,False,000,False,False,False,3,105
+"### || من كان على الرسائل والديوان والحجابة والشرط والحرس والخاتم
+",000,False,000,False,False,False,2,120
+"### | سنة ستين 
+",060,year,000,False,060,180,1,1061
+"### || خبر معاوية مع عمرو بن معاوية العقيلي
+",000,False,000,False,False,False,2,277
+"### || ولاية يزيد بن معاوية بن أبي سفيان 
+",000,False,000,False,False,False,2,55
+"### || خروج الحسين إلى العراق 
+",000,False,000,False,False,False,2,164
+"### || يزيد يطلب من والي المدينة أخذ البيعة له
+",000,False,000,False,False,False,2,479
+"### | سنة إحدى وستين
+",061,year,000,False,061,179,1,414
+"### || مقتل الحسين وأصحابه 
+",000,False,000,False,False,False,2,416
+"### | سنة اثنتين وستين 
+",062,year,000,False,062,178,1,166
+"### | سنة ثلاث وستين 
+",063,year,000,False,063,177,1,3536
+"### || وقعة الحرة 
+",000,False,000,False,False,False,2,2999
+"### ||| تسمية من قتل يوم الحرة
+",000,False,000,False,False,False,3,2290
+"### |||| من بني هاشم 
+",000,False,000,False,False,False,4,52
+"### |||| من حلفائهم 
+",000,False,000,False,False,False,4,55
+"### |||| من بني المطلب 
+",000,False,000,False,False,False,4,38
+"### |||| من حلفائهم 
+",000,False,000,False,False,False,4,25
+"### |||| من بني نوفل 
+",000,False,000,False,False,False,4,40
+"### |||| من بني أمية 
+",000,False,000,False,False,False,4,36
+"### |||| من بني أسد 
+",000,False,000,False,False,False,4,123
+"### |||| من حلفائهم 
+",000,False,000,False,False,False,4,24
+"### |||| من بني عبد الدار 
+",000,False,000,False,False,False,4,61
+"### |||| من بني زهرة
+",000,False,000,False,False,False,4,105
+"### |||| من حلفائهم 
+",000,False,000,False,False,False,4,26
+"### |||| من بني تيم بن مرة 
+",000,False,000,False,False,False,4,65
+"### |||| من حلفائهم 
+",000,False,000,False,False,False,4,48
+"### |||| من بني مخزوم 
+",000,False,000,False,False,False,4,52
+"### |||| من بني عدي 
+",000,False,000,False,False,False,4,142
+"### |||| من بني سهم بن عمرو 
+",000,False,000,False,False,False,4,45
+"### |||| من بني جمح 
+",000,False,000,False,False,False,4,57
+"### |||| من حلفائهم 
+",000,False,000,False,False,False,4,27
+"### |||| من بني عامر بن لؤي
+",000,False,000,False,False,False,4,142
+"### |||| من بني حجير
+",000,False,000,False,False,False,4,67
+"### |||| من بني الحارث بن فهر
+",000,False,000,False,False,False,4,48
+"### |||| من بني قيس بن الحارث بن فهر 
+",000,False,000,False,False,False,4,41
+"### |||| من بني محارب بن فهر 
+",000,False,000,False,False,False,4,122
+"### |||| من الأنصار ثم من بني عوف
+",000,False,000,False,False,False,4,65
+"### |||| من بني حنش بن عوف 
+",000,False,000,False,False,False,4,44
+"### |||| من بني ثعلبة 
+",000,False,000,False,False,False,4,21
+"### |||| من بني جحجبا 
+",000,False,000,False,False,False,4,37
+"### |||| من بني العجلان 
+",000,False,000,False,False,False,4,18
+"### |||| من بني معاوية بن مالك 
+",000,False,000,False,False,False,4,61
+"### |||| من بني عبد الأشهل 
+",000,False,000,False,False,False,4,22
+"### |||| من بني زعوراء 
+",000,False,000,False,False,False,4,52
+"### |||| من النبيت 
+",000,False,000,False,False,False,4,18
+"### |||| من بني حارثة بن الحارث 
+",000,False,000,False,False,False,4,51
+"### |||| من بني ظفر 
+",000,False,000,False,False,False,4,25
+"### |||| من بني مالك بن النجار 
+",000,False,000,False,False,False,4,226
+"### |||| من بني عدي بن النجار 
+",000,False,000,False,False,False,4,45
+"### |||| من بني دينار بن النجار 
+",000,False,000,False,False,False,4,25
+"### |||| من بني مازن 
+",000,False,000,False,False,False,4,73
+"### |||| من بني الحرث 
+",000,False,000,False,False,False,4,109
+"### |||| من بني عوف 
+",000,False,000,False,False,False,4,25
+"### |||| من بني سالم بن عوف 
+",000,False,000,False,False,False,4,32
+"### |||| من بني سلمة 
+",000,False,000,False,False,False,4,45
+"### |||| من بني بياضة 
+",000,False,000,False,False,False,4,21
+"### |||| من بني زريق 
+",000,False,000,False,False,False,4,70
+"### |||| من آل المعلى 
+",000,False,000,False,False,False,4,86
+"### || من قتل صبرا 
+",000,False,000,False,False,False,2,54
+"### || استشهاد عقبة بن نافع
+",000,False,000,False,False,False,2,175
+"### || ابن الزبير يرفض مبايعة يزيد 
+",000,False,000,False,False,False,2,134
+"### || حرق الكعبة 
+",000,False,000,False,False,False,2,202
+"### | سنة أربع وستين
+",064,year,000,False,064,176,1,1801
+"### || وفاة يزيد بن معاوية 
+",000,False,000,False,False,False,2,45
+"### || بيعة مروان بن الحكم 
+",000,False,000,False,False,False,2,40
+"### || فك الحصار عن ابن الزبير وانشقاق الخوارج عليه 
+",000,False,000,False,False,False,2,285
+"### || حصار الكعبة 
+",000,False,000,False,False,False,2,206
+"### || وفاة يزيد بن معاوية
+",000,False,000,False,False,False,2,103
+"### || القضاة في خلافة يزيد 
+",000,False,000,False,False,False,2,33
+"### ||| على البصرة 
+",000,False,000,False,False,False,3,17
+"### ||| وعلى المدينة 
+",000,False,000,False,False,False,3,19
+"### || مقتل مرداس بن أدية 
+",000,False,000,False,False,False,2,137
+"### || خروج نافع بن الازرق وعبد الله والزبير ابنا ماحوز 
+",000,False,000,False,False,False,2,194
+"### || ابن الزبير يأخذ البيعة لنفسه
+",000,False,000,False,False,False,2,151
+"### || خبر عبيد الله بن زياد بالبصرة بعد موت يزيد
+",000,False,000,False,False,False,2,328
+"### || ولاية مروان بن الحكم 
+",000,False,000,False,False,False,2,33
+"### || وقعة راهط 
+",000,False,000,False,False,False,2,310
+"### | سنة خمس وستين 
+",065,year,000,False,065,175,1,437
+"### || ولاية عبد الملك بن مروان 
+",000,False,000,False,False,False,2,416
+"### |  سنة ست وستين
+",066,year,000,False,066,174,1,158
+"### | سنة سبع وستين 
+",067,year,000,False,067,173,1,120
+"### || وقعة المذار 
+",000,False,000,False,False,False,2,91
+"### | سنة ثمان وستين 
+",068,year,000,False,068,172,1,108
+"### | سنة تسع وستين 
+",069,year,000,False,069,171,1,90
+"### | سنة سبعين
+",070,year,000,False,070,170,1,179
+"### | سنة أحدى وسبعين 
+",071,year,000,False,071,169,1,60
+"### | سنة اثنتين وسبعين 
+",072,year,000,False,072,168,1,232
+"### | سنة ثلاث وسبعين
+",073,year,000,False,073,167,1,286
+"### || القضاة
+",000,False,000,False,False,False,2,215
+"### ||| البصرة 
+",000,False,000,False,False,False,3,220
+"### | سنة أربع وسبعين
+",074,year,000,False,074,166,1,147
+"### | سنة خمس وسبعين
+",075,year,000,False,075,165,1,424
+"### || قتال الحجاج للأزارقة 
+",000,False,000,False,False,False,2,62
+"### || خروج داود بن النعمان
+",000,False,000,False,False,False,2,288
+"### | سنة ست وسبعين
+",076,year,000,False,076,164,1,296
+"### || خروج صالح بن مسرح وشبيب بن يزيد
+",000,False,000,False,False,False,2,293
+"### | سنة سبع وسبعين
+",077,year,000,False,077,163,1,212
+"### || خبر القتال بين الحجاج وشبيب
+",000,False,000,False,False,False,2,211
+"### | سنة ثمان وسبعين 
+",078,year,000,False,078,162,1,247
+"### | سنة تسع وسبعين
+",079,year,000,False,079,161,1,267
+"### || خروج الريان النكري بالبحرين
+",000,False,000,False,False,False,2,132
+"### || غزو موسى بن نصير المغرب 
+",000,False,000,False,False,False,2,141
+"### | سنة ثمانين
+",080,year,000,False,080,160,1,146
+"### | سنة إحدى وثمانين
+",081,year,000,False,081,159,1,242
+"### || ابن الأشعث يخلع الحجاج 
+",000,False,000,False,False,False,2,245
+"### | سنة اثنتين وثمانين
+",082,year,000,False,082,158,1,1550
+"### || وقعة الزاوية 
+",000,False,000,False,False,False,2,1547
+"### ||| تسمية القراء الذين خرجوا مع ابن الأشعث 
+",000,False,000,False,False,False,3,443
+"### | سنة ثلاث وثمانين 
+",083,year,000,False,083,157,1,167
+"### | سنة أربع وثمانين
+",084,year,000,False,084,156,1,255
+"### | سنة خمس وثمانين 
+",085,year,000,False,085,155,1,122
+"### | سنة ست وثمانين
+",086,year,000,False,086,154,1,1848
+"### || وفاة عبد الملك بن مروان 
+",000,False,000,False,False,False,2,135
+"### || تسمية ولاة عبد الملك
+",000,False,000,False,False,False,2,734
+"### ||| المدينة 
+",000,False,000,False,False,False,3,107
+"### ||| مكة 
+",000,False,000,False,False,False,3,32
+"### ||| اليمن 
+",000,False,000,False,False,False,3,15
+"### ||| البصرة 
+",000,False,000,False,False,False,3,122
+"### ||| الكوفة 
+",000,False,000,False,False,False,3,140
+"### ||| خراسان 
+",000,False,000,False,False,False,3,126
+"### ||| سجستان 
+",000,False,000,False,False,False,3,233
+"### || القضاة 
+",000,False,000,False,False,False,2,661
+"### ||| قضاة البصرة 
+",000,False,000,False,False,False,3,62
+"### ||| الكوفة 
+",000,False,000,False,False,False,3,59
+"### ||| المدينة 
+",000,False,000,False,False,False,3,110
+"### ||| الشام 
+",000,False,000,False,False,False,3,10
+"### ||| السند 
+",000,False,000,False,False,False,3,53
+"### ||| البحران 
+",000,False,000,False,False,False,3,111
+"### ||| عمان 
+",000,False,000,False,False,False,3,70
+"### ||| مصر 
+",000,False,000,False,False,False,3,75
+"### ||| أفريقية 
+",000,False,000,False,False,False,3,41
+"### ||| الجزيرة 
+",000,False,000,False,False,False,3,16
+"### ||| أرمنية وأذربيجان 
+",000,False,000,False,False,False,3,46
+"### ||| اليمامة 
+",000,False,000,False,False,False,3,25
+"### ||| الصائفة 
+",000,False,000,False,False,False,3,32
+"### ||| الشامات
+",000,False,000,False,False,False,3,46
+"### |||| فلسطين 
+",000,False,000,False,False,False,4,11
+"### |||| حمص 
+",000,False,000,False,False,False,4,21
+"### |||| البلقاء 
+",000,False,000,False,False,False,4,33
+"### || الموسم 
+",000,False,000,False,False,False,2,48
+"### || الشرط 
+",000,False,000,False,False,False,2,36
+"### || كاتب الرسائل 
+",000,False,000,False,False,False,2,10
+"### || الخراج والجند 
+",000,False,000,False,False,False,2,34
+"### || الخاتم وبيوت الأموال والخزائن 
+",000,False,000,False,False,False,2,15
+"### || الحاجب 
+",000,False,000,False,False,False,2,7
+"### || الحرس 
+",000,False,000,False,False,False,2,44
+"### || ولاية الوليد بن عبد الملك
+",000,False,000,False,False,False,2,98
+"### | سنة سبع وثمانين 
+",087,year,000,False,087,153,1,208
+"### || قتيبة يفتح بيكند 
+",000,False,000,False,False,False,2,199
+"### | سنة ثمان وثمانين
+",088,year,000,False,088,152,1,119
+"### || قتيبة يغزو تومشكث وأرمثنة 
+",000,False,000,False,False,False,2,127
+"### | سنة تسع وثمانين 
+",089,year,000,False,089,151,1,146
+"### | سنة تسعين 
+",090,year,000,False,090,150,1,65
+"### | سنة إحدى وتسعين
+",091,year,000,False,091,149,1,60
+"### | سنة اثنتين وتسعين 
+",092,year,000,False,092,148,1,82
+"### | سنة ثلاث وتسعين 
+",093,year,000,False,093,147,1,354
+"### || فتوح محمد بن القاسم الثقفي 
+",000,False,000,False,False,False,2,359
+"### | سنة أربع وتسعين 
+",094,year,000,False,094,146,1,100
+"### | سنة خمس وتسعين 
+",095,year,000,False,095,145,1,454
+"### || مسلمة يفتح شروان وجمران والبران وصول والباب
+",000,False,000,False,False,False,2,103
+"### || من كان على شرط الحجاج وحرسه وكتابه
+",000,False,000,False,False,False,2,311
+"### | سنة ست وتسعين
+",096,year,000,False,096,144,1,896
+"### || بيعة سليمان بن عبد الملك
+",000,False,000,False,False,False,2,27
+"### || تسمية عمال الوليد بن عبد الملك والحجاج
+",000,False,000,False,False,False,2,628
+"### ||| على البصرة 
+",000,False,000,False,False,False,3,56
+"### ||| الكوفة 
+",000,False,000,False,False,False,3,34
+"### ||| خراسان 
+",000,False,000,False,False,False,3,15
+"### ||| سجستان 
+",000,False,000,False,False,False,3,26
+"### ||| البحران 
+",000,False,000,False,False,False,3,28
+"### ||| عمان 
+",000,False,000,False,False,False,3,14
+"### ||| السند 
+",000,False,000,False,False,False,3,19
+"### ||| مكة 
+",000,False,000,False,False,False,3,32
+"### ||| المدينة 
+",000,False,000,False,False,False,3,58
+"### ||| اليمامة 
+",000,False,000,False,False,False,3,19
+"### ||| الجزيرة 
+",000,False,000,False,False,False,3,12
+"### ||| مصر 
+",000,False,000,False,False,False,3,30
+"### ||| أفريقية 
+",000,False,000,False,False,False,3,37
+"### ||| اليمن 
+",000,False,000,False,False,False,3,17
+"### ||| الشامات
+",000,False,000,False,False,False,3,38
+"### |||| دمشق 
+",000,False,000,False,False,False,4,21
+"### |||| الأردن 
+",000,False,000,False,False,False,4,15
+"### |||| فلسطين 
+",000,False,000,False,False,False,4,9
+"### |||| حمص 
+",000,False,000,False,False,False,4,19
+"### ||| الموسم 
+",000,False,000,False,False,False,3,63
+"### ||| الصائفة 
+",000,False,000,False,False,False,3,21
+"### ||| الشرط 
+",000,False,000,False,False,False,3,27
+"### ||| الرسائل 
+",000,False,000,False,False,False,3,5
+"### ||| الخراج والجند 
+",000,False,000,False,False,False,3,12
+"### ||| الخاتم 
+",000,False,000,False,False,False,3,25
+"### ||| بيوت الأموال والخزائن 
+",000,False,000,False,False,False,3,11
+"### ||| الحرس 
+",000,False,000,False,False,False,3,7
+"### ||| حاجبه 
+",000,False,000,False,False,False,3,35
+"### ||| القضاة
+",000,False,000,False,False,False,3,127
+"### |||| قضاءالمدينة 
+",000,False,000,False,False,False,4,56
+"### |||| وعلى الكوفة 
+",000,False,000,False,False,False,4,81
+"### || مقتل قتيبة بن مسلم الباهلي
+",000,False,000,False,False,False,2,165
+"### | سنة سبع وتسعين
+",097,year,000,False,097,143,1,159
+"### || غزوة يزيد بن المهلب جرجان 
+",000,False,000,False,False,False,2,156
+"### | سنة ثمان وتسعين
+",098,year,000,False,098,142,1,234
+"### || غزو يزيد بن المهلب طبرستان
+",000,False,000,False,False,False,2,238
+"### | سنة تسع وتسعين
+",099,year,000,False,099,141,1,937
+"### || وفاة سليمان بن عبد الملك 
+",000,False,000,False,False,False,2,92
+"### || خلافة عمر بن عبد العزيز 
+",000,False,000,False,False,False,2,27
+"### || من كان على شرط يزيد بن المهلب وكاتبه 
+",000,False,000,False,False,False,2,109
+"### || تسمية عمال سليمان بن عبد الملك 
+",000,False,000,False,False,False,2,696
+"### ||| مكة 
+",000,False,000,False,False,False,3,23
+"### ||| المدينة 
+",000,False,000,False,False,False,3,37
+"### ||| اليمن 
+",000,False,000,False,False,False,3,27
+"### ||| البصرة 
+",000,False,000,False,False,False,3,41
+"### ||| الكوفة 
+",000,False,000,False,False,False,3,27
+"### ||| خراسان 
+",000,False,000,False,False,False,3,48
+"### ||| سجستان 
+",000,False,000,False,False,False,3,14
+"### ||| السند 
+",000,False,000,False,False,False,3,61
+"### ||| البحران 
+",000,False,000,False,False,False,3,39
+"### ||| أفريقية 
+",000,False,000,False,False,False,3,38
+"### ||| عمان 
+",000,False,000,False,False,False,3,24
+"### ||| اليمامة 
+",000,False,000,False,False,False,3,21
+"### ||| أرمينية 
+",000,False,000,False,False,False,3,25
+"### ||| الموسم 
+",000,False,000,False,False,False,3,42
+"### ||| الصائفة 
+",000,False,000,False,False,False,3,23
+"### ||| الشرط 
+",000,False,000,False,False,False,3,9
+"### ||| كاتب الرسائل 
+",000,False,000,False,False,False,3,22
+"### ||| الخراج والجند 
+",000,False,000,False,False,False,3,12
+"### ||| الخاتم 
+",000,False,000,False,False,False,3,15
+"### ||| بيوت الأموال والخزائن والرقيق والنفقات 
+",000,False,000,False,False,False,3,19
+"### ||| الحرس ms186 
+",000,False,000,False,False,False,3,13
+"### ||| حاجبه 
+",000,False,000,False,False,False,3,279
+"### | سنة مائة
+",100,year,000,False,100,140,1,60
+"### | سنة إحدى ومائة
+",101,year,000,False,101,139,1,787
+"### || وفاة عمر بن عبد العزيز
+",000,False,000,False,False,False,2,151
+"### || بيعة يزيد بن عبد الملك 
+",000,False,000,False,False,False,2,47
+"### || تسمية عمال عمر بن عبد العزيز
+",000,False,000,False,False,False,2,619
+"### ||| البصرة 
+",000,False,000,False,False,False,3,15
+"### ||| الكوفة 
+",000,False,000,False,False,False,3,25
+"### ||| خراسان 
+",000,False,000,False,False,False,3,15
+"### ||| سجستان 
+",000,False,000,False,False,False,3,29
+"### ||| السند 
+",000,False,000,False,False,False,3,29
+"### ||| البحران 
+",000,False,000,False,False,False,3,24
+"### ||| عمان 
+",000,False,000,False,False,False,3,30
+"### ||| اليمامة 
+",000,False,000,False,False,False,3,9
+"### ||| مكة 
+",000,False,000,False,False,False,3,25
+"### ||| المدينة 
+",000,False,000,False,False,False,3,43
+"### ||| اليمن 
+",000,False,000,False,False,False,3,15
+"### ||| الجزيرة وأرمينية وأذربيجان 
+",000,False,000,False,False,False,3,37
+"### ||| الشامات
+",000,False,000,False,False,False,3,41
+"### |||| دمشق 
+",000,False,000,False,False,False,4,9
+"### |||| الأردن 
+",000,False,000,False,False,False,4,9
+"### |||| فلسطين 
+",000,False,000,False,False,False,4,15
+"### |||| حمص 
+",000,False,000,False,False,False,4,9
+"### |||| قنسرين 
+",000,False,000,False,False,False,4,15
+"### |||| البلقاء 
+",000,False,000,False,False,False,4,13
+"### ||| مصر 
+",000,False,000,False,False,False,3,15
+"### ||| أفريقية 
+",000,False,000,False,False,False,3,38
+"### ||| قضاء 
+",000,False,000,False,False,False,3,129
+"### |||| البصرة 
+",000,False,000,False,False,False,4,114
+"### |||| قضاء الكوفة 
+",000,False,000,False,False,False,4,20
+"### |||| قضاء المدينة 
+",000,False,000,False,False,False,4,18
+"### ||| الموسم 
+",000,False,000,False,False,False,3,17
+"### ||| الصائفة 
+",000,False,000,False,False,False,3,21
+"### ||| الشرط 
+",000,False,000,False,False,False,3,17
+"### ||| كاتبه 
+",000,False,000,False,False,False,3,21
+"### ||| الخراج والجند 
+",000,False,000,False,False,False,3,12
+"### ||| خاتمة 
+",000,False,000,False,False,False,3,7
+"### ||| الحرس 
+",000,False,000,False,False,False,3,25
+"### ||| حاجبه 
+",000,False,000,False,False,False,3,135
+"### | سنة اثنتين ومائة
+",102,year,000,False,102,138,1,553
+"### || مقتل يزيد بن أبي مسلم
+",000,False,000,False,False,False,2,446
+"### | سنة ثلاث ومائة
+",103,year,000,False,103,137,1,186
+"### | سنة أربع ومائة
+",104,year,000,False,104,136,1,342
+"### || ولاية الجراح على أرمينية وفتح بلنجر
+",000,False,000,False,False,False,2,349
+"### | سنة خمس ومائة
+",105,year,000,False,105,135,1,1089
+"### || وفاة يزيد بن عبد الملك 
+",000,False,000,False,False,False,2,95
+"### || بيعة هشام بن عبد الملك 
+",000,False,000,False,False,False,2,20
+"### || تسمية عمال يزيد بن عبد الملك 
+",000,False,000,False,False,False,2,715
+"### ||| المدينة 
+",000,False,000,False,False,False,3,36
+"### ||| مكة 
+",000,False,000,False,False,False,3,51
+"### ||| اليمن 
+",000,False,000,False,False,False,3,11
+"### ||| البصرة 
+",000,False,000,False,False,False,3,123
+"### ||| الكوفة 
+",000,False,000,False,False,False,3,59
+"### ||| خراسان 
+",000,False,000,False,False,False,3,67
+"### ||| سجستان 
+",000,False,000,False,False,False,3,40
+"### ||| السند 
+",000,False,000,False,False,False,3,82
+"### ||| البحران واليمامة 
+",000,False,000,False,False,False,3,12
+"### ||| أرمينية 
+",000,False,000,False,False,False,3,40
+"### ||| الجزيرة 
+",000,False,000,False,False,False,3,25
+"### ||| أفريقية 
+",000,False,000,False,False,False,3,43
+"### ||| مصر 
+",000,False,000,False,False,False,3,10
+"### ||| قضاء 
+",000,False,000,False,False,False,3,123
+"### |||| البصرة 
+",000,False,000,False,False,False,4,49
+"### |||| الكوفة 
+",000,False,000,False,False,False,4,25
+"### |||| المدينة 
+",000,False,000,False,False,False,4,64
+"### ||| الموسم 
+",000,False,000,False,False,False,3,21
+"### ||| الصائفة 
+",000,False,000,False,False,False,3,17
+"### ||| الشرط 
+",000,False,000,False,False,False,3,13
+"### ||| الخراج والجند والرسائل 
+",000,False,000,False,False,False,3,18
+"### ||| الخاتم والخزائن وبيوت الأموال 
+",000,False,000,False,False,False,3,16
+"### ||| الحرس 
+",000,False,000,False,False,False,3,23
+"### ||| حاجبه 
+",000,False,000,False,False,False,3,7
+"### || ولاية ابن هبيرة على العراق ومن كان على شرطه وكتابه
+",000,False,000,False,False,False,2,181
+"### | سنة ست ومائة
+",106,year,000,False,106,134,1,174
+"### | سنة سبع ومائة
+",107,year,000,False,107,133,1,202
+"### | سنة ثمان ومائة
+",108,year,000,False,108,132,1,186
+"### | سنة تسع ومائة 
+",109,year,000,False,109,131,1,88
+"### | سنة عشر ومائة 
+",110,year,000,False,110,130,1,206
+"### || غزاة الطين 
+",000,False,000,False,False,False,2,205
+"### | سنة إحدى عشرة ومائة
+",111,year,000,False,111,129,1,163
+"### | سنة اثنتي عشرة ومائة
+",112,year,000,False,112,128,1,427
+"### |  سنة ثلاث عشرة ومائة
+",113,year,000,False,113,127,1,305
+"### | سنة أربع عشرة ومائة
+",114,year,000,False,114,126,1,146
+"### | سنة خمس عشرة ومائة
+",115,year,000,False,115,125,1,143
+"### | سنة ست عشرة ومائة
+",116,year,000,False,116,124,1,166
+"### | سنة سبع عشرة ومائة
+",117,year,000,False,117,123,1,191
+"### | سنة ثمان عشرة ومائة 
+",118,year,000,False,118,122,1,152
+"### | سنة تسع عشرة ومائة
+",119,year,000,False,119,121,1,141
+"### | سنة عشرين ومائة
+",120,year,000,False,120,120,1,344
+"### ||  من كان على شرط خالد القسري وعلى الرسائل والخراج والتجوين 
+",000,False,000,False,False,False,2,184
+"### | سنة إحدى وعشرين ومائة
+",121,year,000,False,121,119,1,180
+"### || غزو مروان بن محمد من أرمينية
+",000,False,000,False,False,False,2,183
+"### | سنة اثنتين وعشرين ومائة
+",122,year,000,False,122,118,1,350
+"### || خروج عبد الأعلى بن حديج
+",000,False,000,False,False,False,2,53
+"### || خروج ميسرة الحقير
+",000,False,000,False,False,False,2,307
+"### | سنة ثلاث وعشرين ومائة
+",123,year,000,False,123,117,1,48
+"### | سنة أربع وعشرين ومائة 
+",124,year,000,False,124,116,1,512
+"### | سنة خمس وعشرين ومائة
+",125,year,000,False,125,115,1,1494
+"### || تسمية عمال هشام بن عبد الملك
+",000,False,000,False,False,False,2,1402
+"### ||| مكة والمدينة والطائف 
+",000,False,000,False,False,False,3,31
+"### ||| المدينة 
+",000,False,000,False,False,False,3,69
+"### ||| اليمن 
+",000,False,000,False,False,False,3,50
+"### ||| البصرة 
+",000,False,000,False,False,False,3,31
+"### ||| والشرط 
+",000,False,000,False,False,False,3,105
+"### ||| الكوفة 
+",000,False,000,False,False,False,3,126
+"### ||| خراسان 
+",000,False,000,False,False,False,3,85
+"### ||| سجستان 
+",000,False,000,False,False,False,3,79
+"### ||| السند 
+",000,False,000,False,False,False,3,63
+"### ||| البحران 
+",000,False,000,False,False,False,3,56
+"### ||| اليمامة 
+",000,False,000,False,False,False,3,23
+"### ||| مصر 
+",000,False,000,False,False,False,3,17
+"### ||| أفريقية 
+",000,False,000,False,False,False,3,116
+"### ||| الموسم 
+",000,False,000,False,False,False,3,126
+"### ||| الصائفة 
+",000,False,000,False,False,False,3,27
+"### ||| أرمينية 
+",000,False,000,False,False,False,3,69
+"### ||| القضاة في ولاية هشام بن عبد الملك
+",000,False,000,False,False,False,3,227
+"### |||| البصرة 
+",000,False,000,False,False,False,4,57
+"### |||| الكوفة 
+",000,False,000,False,False,False,4,84
+"### |||| المدينة 
+",000,False,000,False,False,False,4,107
+"### ||| شرط هشام 
+",000,False,000,False,False,False,3,28
+"### ||| كاتب الرسائل 
+",000,False,000,False,False,False,3,14
+"### ||| الخراج والجند 
+",000,False,000,False,False,False,3,38
+"### ||| الخاتم 
+",000,False,000,False,False,False,3,13
+"### ||| الخزائن وبيوت الأموال 
+",000,False,000,False,False,False,3,15
+"### ||| الحرس 
+",000,False,000,False,False,False,3,16
+"### ||| الخاتم الصغير والخاصة 
+",000,False,000,False,False,False,3,11
+"### ||| حاجبه 
+",000,False,000,False,False,False,3,144
+"### | سنة ست وعشرين ومائة
+",126,year,000,False,126,114,1,1883
+"### || تسمية عمال الوليد بن يزيد
+",000,False,000,False,False,False,2,341
+"### ||| المدينة 
+",000,False,000,False,False,False,3,45
+"### ||| اليمن 
+",000,False,000,False,False,False,3,13
+"### ||| البصرة 
+",000,False,000,False,False,False,3,13
+"### ||| الكوفة 
+",000,False,000,False,False,False,3,27
+"### ||| خراسان 
+",000,False,000,False,False,False,3,19
+"### ||| سجستان 
+",000,False,000,False,False,False,3,19
+"### ||| السند 
+",000,False,000,False,False,False,3,19
+"### ||| البحران 
+",000,False,000,False,False,False,3,34
+"### ||| اليمامة 
+",000,False,000,False,False,False,3,17
+"### ||| أفريقية 
+",000,False,000,False,False,False,3,19
+"### ||| عمان 
+",000,False,000,False,False,False,3,23
+"### ||| القضاء
+",000,False,000,False,False,False,3,49
+"### |||| قضاء البصرة 
+",000,False,000,False,False,False,4,20
+"### |||| الكوفة 
+",000,False,000,False,False,False,4,13
+"### |||| المدينة 
+",000,False,000,False,False,False,4,42
+"### ||| الموسم 
+",000,False,000,False,False,False,3,19
+"### ||| الجزيرة وأرمينية وأذربيجان 
+",000,False,000,False,False,False,3,29
+"### ||| الصائفة 
+",000,False,000,False,False,False,3,17
+"### ||| شرط الوليد 
+",000,False,000,False,False,False,3,14
+"### ||| كاتب الرسائل 
+",000,False,000,False,False,False,3,17
+"### ||| الخراج والجند 
+",000,False,000,False,False,False,3,14
+"### ||| الخاتم والخزائن وبيوت المال 
+",000,False,000,False,False,False,3,18
+"### ||| الخاتم الصغير 
+",000,False,000,False,False,False,3,12
+"### ||| حاجبه 
+",000,False,000,False,False,False,3,7
+"### ||| الحرس
+",000,False,000,False,False,False,3,10
+"### || ولاية يوسف بن عمر العراق
+",000,False,000,False,False,False,2,163
+"### || بيعة يزيد بن الوليد ووفاته
+",000,False,000,False,False,False,2,238
+"### || تسمية عمال يزيد بن الوليد
+",000,False,000,False,False,False,2,378
+"### ||| مكة والمدينة والطائف 
+",000,False,000,False,False,False,3,41
+"### ||| البصرة 
+",000,False,000,False,False,False,3,104
+"### ||| الكوفة 
+",000,False,000,False,False,False,3,19
+"### ||| سجستان 
+",000,False,000,False,False,False,3,59
+"### ||| خراسان 
+",000,False,000,False,False,False,3,26
+"### ||| أفريقية 
+",000,False,000,False,False,False,3,10
+"### ||| قضاء 
+",000,False,000,False,False,False,3,57
+"### |||| البصرة 
+",000,False,000,False,False,False,4,13
+"### |||| الكوفة 
+",000,False,000,False,False,False,4,7
+"### |||| المدينة 
+",000,False,000,False,False,False,4,53
+"### ||| شرط يزيد بن الوليد 
+",000,False,000,False,False,False,3,18
+"### ||| كاتب الرسائل 
+",000,False,000,False,False,False,3,14
+"### ||| الخراج والجند والخاتم الصغير 
+",000,False,000,False,False,False,3,20
+"### ||| خاتم الخلافة 
+",000,False,000,False,False,False,3,52
+"### || خروج سعيد بن بحدل بالجزيرة
+",000,False,000,False,False,False,2,164
+"### | سنة سبع وعشرين ومائة
+",127,year,000,False,127,113,1,1594
+"### || خبر بيعة مروان بن محمد وخلع إبراهيم بن الوليد
+",000,False,000,False,False,False,2,644
+"### || خبر بيعة عبد الله بن معاوية بالكوفة
+",000,False,000,False,False,False,2,226
+"### || وفاة سعيد بن بحدل واستخلاف الضحاك 
+",000,False,000,False,False,False,2,733
+"### | سنة ثمان وعشرين ومائة
+",128,year,000,False,128,112,1,1173
+"### || خبر القتال بين الضحاك ومروان
+",000,False,000,False,False,False,2,585
+"### || خروج بسطام بن ليث الثعلبي بأذربيجان
+",000,False,000,False,False,False,2,188
+"### || ولاية عبد الله بن عمر بن عبد العزيز العراق
+",000,False,000,False,False,False,2,95
+"### || ولاية يزيد بن عمر بن هبيرة على العراق
+",000,False,000,False,False,False,2,337
+"### | سنة تسع وعشرين ومائة
+",129,year,000,False,129,111,1,1389
+"### || خبر خروج طالب الحق بحضرموت
+",000,False,000,False,False,False,2,253
+"### || خطبة أبي حمزة
+",000,False,000,False,False,False,2,364
+"### || خروج شيبان بن عبد العزيز اليشكري
+",000,False,000,False,False,False,2,127
+"### || مقتل شيبان وظهور أبي مسلم الخراساني وخبر قتال نصر للكرماني
+",000,False,000,False,False,False,2,573
+"### | سنة ثلاثين ومائة
+",130,year,000,False,130,110,1,1367
+"### || وقعة قديد
+",000,False,000,False,False,False,2,980
+"### ||| تسمية من قتل بقديد
+",000,False,000,False,False,False,3,753
+"### | سنة إحدى وثلاثين ومائة
+",131,year,000,False,131,109,1,651
+"### | سنة اثنتين وثلاثين ومائة
+",132,year,000,False,132,108,1,2764
+"### || خبر القضاء على ابن هبيرة بواسط
+",000,False,000,False,False,False,2,914
+"### || سفيان بن معاوية يدعو إلى بيعة بني هاشم 
+",000,False,000,False,False,False,2,167
+"### || توجيه عبد الله بن علي لقتال مروان
+",000,False,000,False,False,False,2,474
+"### || تسمية عمال مروان بن محمد
+",000,False,000,False,False,False,2,978
+"### ||| البصرة 
+",000,False,000,False,False,False,3,123
+"### ||| الكوفة ms251
+",000,False,000,False,False,False,3,136
+"### ||| خراسان 
+",000,False,000,False,False,False,3,23
+"### ||| سجستان 
+",000,False,000,False,False,False,3,51
+"### ||| السند 
+",000,False,000,False,False,False,3,19
+"### ||| البحران 
+",000,False,000,False,False,False,3,39
+"### ||| اليمامة 
+",000,False,000,False,False,False,3,29
+"### ||| المدينة 
+",000,False,000,False,False,False,3,92
+"### ||| مكة 
+",000,False,000,False,False,False,3,83
+"### ||| أفريقية 
+",000,False,000,False,False,False,3,13
+"### ||| اليمن 
+",000,False,000,False,False,False,3,53
+"### ||| أرمينية 
+",000,False,000,False,False,False,3,60
+"### ||| القضاء
+",000,False,000,False,False,False,3,103
+"### |||| قضاء البصرة 
+",000,False,000,False,False,False,4,47
+"### |||| الكوفة 
+",000,False,000,False,False,False,4,37
+"### |||| المدينة 
+",000,False,000,False,False,False,4,30
+"### ||| الموسم 
+",000,False,000,False,False,False,3,47
+"### ||| شرط مروان 
+",000,False,000,False,False,False,3,10
+"### ||| ديوان الجند والخراج وبيوت الأموال والخزائن 
+",000,False,000,False,False,False,3,16
+"### ||| كاتب الرسائل 
+",000,False,000,False,False,False,3,8
+"### ||| الخاتم الصغير 
+",000,False,000,False,False,False,3,14
+"### ||| خاتم الخلافة 
+",000,False,000,False,False,False,3,6
+"### ||| حاجبه 
+",000,False,000,False,False,False,3,93
+"### ||| البصرة 
+",000,False,000,False,False,False,3,26
+"### ||| رسائل الخليفة 
+",000,False,000,False,False,False,3,48
+"### || خلافة السفاح
+",000,False,000,False,False,False,2,280
+"### | سنة ثلاث وثلاثين ومائة
+",133,year,000,False,133,107,1,91
+"### | سنة أربع وثلاثين ومائة
+",134,year,000,False,134,106,1,134
+"### | سنة خمس وثلاثين ومائة
+",135,year,000,False,135,105,1,76
+"### | سنة ست وثلاثين ومائة
+",136,year,000,False,136,104,1,780
+"### || تسمية عمال أبي العباس
+",000,False,000,False,False,False,2,695
+"### ||| البصرة 
+",000,False,000,False,False,False,3,35
+"### ||| الكوفة 
+",000,False,000,False,False,False,3,42
+"### ||| مكة 
+",000,False,000,False,False,False,3,39
+"### ||| المدينة 
+",000,False,000,False,False,False,3,84
+"### ||| اليمن 
+",000,False,000,False,False,False,3,66
+"### ||| خراسان 
+",000,False,000,False,False,False,3,9
+"### ||| سجستان 
+",000,False,000,False,False,False,3,48
+"### ||| السند 
+",000,False,000,False,False,False,3,42
+"### ||| البحران 
+",000,False,000,False,False,False,3,32
+"### ||| اليمامة 
+",000,False,000,False,False,False,3,17
+"### ||| الجزيرة 
+",000,False,000,False,False,False,3,47
+"### ||| الصائفة 
+",000,False,000,False,False,False,3,15
+"### ||| الموسم
+",000,False,000,False,False,False,3,52
+"### ||| القضاء
+",000,False,000,False,False,False,3,107
+"### |||| قضاء البصرة 
+",000,False,000,False,False,False,4,72
+"### |||| الكوفة 
+",000,False,000,False,False,False,4,23
+"### |||| المدينة 
+",000,False,000,False,False,False,4,37
+"### ||| شرط أبي العباس 
+",000,False,000,False,False,False,3,15
+"### ||| الخاتم والحرس 
+",000,False,000,False,False,False,3,16
+"### ||| حاجبه 
+",000,False,000,False,False,False,3,123
+"### | سنة سبع وثلاثين ومائة
+",137,year,000,False,137,103,1,226
+"### | سنة ثمان وثلاثين ومائة
+",138,year,000,False,138,102,1,92
+"### | سنة تسع وثلاثين ومائة
+",139,year,000,False,139,101,1,83
+"### | سنة أربعين ومائة
+",140,year,000,False,140,100,1,122
+"### | سنة إحدى  وأربعين ومائة
+",141,year,000,False,141,099,1,105
+"### | سنة اثنتين وأربعين ومائة
+",142,year,000,False,142,098,1,102
+"### | سنة ثلاث واربعين ومائة
+",143,year,000,False,143,097,1,147
+"### | سنة اربع وأربعين ومائة
+",144,year,000,False,144,096,1,102
+"### | سنة خمس وأربعين ومائة
+",145,year,000,False,145,095,1,404
+"### || خروج محمد النفس الزكية وأخوه إبراهيم
+",000,False,000,False,False,False,2,391
+"### | سنة ست وأربعين ومائة
+",146,year,000,False,146,094,1,132
+"### | سنة سبع واربعين ومائة
+",147,year,000,False,147,093,1,89
+"### | سنة ثمان واربعين ومائة
+",148,year,000,False,148,092,1,65
+"### | سنة تسع وأربعين ومائة
+",149,year,000,False,149,091,1,85
+"### | سنة خمسين ومائة
+",150,year,000,False,150,090,1,61
+"### | سنة إحدى وخمسين ومائة
+",151,year,000,False,151,089,1,53
+"### | سنة اثنتين وخمسين ومائة
+",152,year,000,False,152,088,1,64
+"### | سنة ثلاث وخمسين ومائة
+",153,year,000,False,153,087,1,112
+"### | سنة اربع وخمسين ومائة
+",154,year,000,False,154,086,1,100
+"### | سنة خمس وخمسين ومائة
+",155,year,000,False,155,085,1,71
+"### | سنة ست وخمسين ومائة
+",156,year,000,False,156,084,1,76
+"### | سنة سبع وخمسين ومائة
+",157,year,000,False,157,083,1,58
+"### | سنة ثمان وخمسين ومائة
+",158,year,000,False,158,082,1,163
+"### | سنة تسع وخمسين ومائة
+",159,year,000,False,159,081,1,81
+"### | سنة ستين ومائة
+",160,year,000,False,160,080,1,1633
+"### || تسمية عمال أبي جعفر
+",000,False,000,False,False,False,2,1501
+"### ||| المدينة 
+",000,False,000,False,False,False,3,125
+"### ||| مكة 
+",000,False,000,False,False,False,3,88
+"### ||| اليمن 
+",000,False,000,False,False,False,3,52
+"### ||| البصرة 
+",000,False,000,False,False,False,3,316
+"### ||| الكوفة 
+",000,False,000,False,False,False,3,30
+"### ||| خراسان 
+",000,False,000,False,False,False,3,56
+"### ||| سجستان 
+",000,False,000,False,False,False,3,62
+"### ||| السند 
+",000,False,000,False,False,False,3,111
+"### ||| البحران 
+",000,False,000,False,False,False,3,24
+"### ||| اليمامة 
+",000,False,000,False,False,False,3,17
+"### ||| الجزيرة 
+",000,False,000,False,False,False,3,90
+"### ||| أفريقية 
+",000,False,000,False,False,False,3,213
+"### ||| القضاء
+",000,False,000,False,False,False,3,246
+"### |||| البصرة 
+",000,False,000,False,False,False,4,31
+"### |||| الكوفة 
+",000,False,000,False,False,False,4,40
+"### |||| المدينة 
+",000,False,000,False,False,False,4,196
+"### ||| الموسم 
+",000,False,000,False,False,False,3,19
+"### ||| الشرط 
+",000,False,000,False,False,False,3,37
+"### ||| الرسائل 
+",000,False,000,False,False,False,3,9
+"### ||| كاتب الخراج 
+",000,False,000,False,False,False,3,8
+"### ||| رسائل الفتوح 
+",000,False,000,False,False,False,3,10
+"### ||| بيوت الأموال 
+",000,False,000,False,False,False,3,16
+"### ||| الخزائن 
+",000,False,000,False,False,False,3,19
+"### ||| ديوان جند خراسان وصوافي الأرض وأحوازها 
+",000,False,000,False,False,False,3,45
+"### ||| وعلى زمام الجند 
+",000,False,000,False,False,False,3,13
+"### ||| وعلى الحرس والخاتم 
+",000,False,000,False,False,False,3,21
+"### ||| وعلى ديوان الخاتم 
+",000,False,000,False,False,False,3,15
+"### ||| حاجبه 
+",000,False,000,False,False,False,3,14
+"### || خلافة محمد المهدي
+",000,False,000,False,False,False,2,53
+"### | سنة إحدى وستين ومائة
+",161,year,000,False,161,079,1,85
+"### | سنة اثنتين وستين ومائة
+",162,year,000,False,162,078,1,92
+"### | سنة ثلاث وستين ومائة
+",163,year,000,False,163,077,1,68
+"### | سنة أربع وستين ومائة
+",164,year,000,False,164,076,1,53
+"### | سنة خمس وستين ومائة
+",165,year,000,False,165,075,1,80
+"### | سنة ست وستين ومائة
+",166,year,000,False,166,074,1,33
+"### | سنة سبع وستين ومائة
+",167,year,000,False,167,073,1,88
+"### | سنة ثمان وستين ومائة
+",168,year,000,False,168,072,1,70
+"### | سنة تسع وستين ومائة
+",169,year,000,False,169,071,1,1363
+"### || تسمية عمال المهدي
+",000,False,000,False,False,False,2,701
+"### ||| المدينة 
+",000,False,000,False,False,False,3,65
+"### ||| مكة 
+",000,False,000,False,False,False,3,47
+"### ||| اليمن 
+",000,False,000,False,False,False,3,43
+"### ||| البصرة 
+",000,False,000,False,False,False,3,64
+"### ||| الكوفه 
+",000,False,000,False,False,False,3,79
+"### ||| خراسان 
+",000,False,000,False,False,False,3,49
+"### ||| سجستان 
+",000,False,000,False,False,False,3,38
+"### ||| السند 
+",000,False,000,False,False,False,3,66
+"### ||| الجزيرة 
+",000,False,000,False,False,False,3,48
+"### ||| أفريقية 
+",000,False,000,False,False,False,3,23
+"### ||| القضاء
+",000,False,000,False,False,False,3,123
+"### |||| البصرة 
+",000,False,000,False,False,False,4,51
+"### |||| الكوفة 
+",000,False,000,False,False,False,4,27
+"### |||| المدينة 
+",000,False,000,False,False,False,4,76
+"### ||| الموسم 
+",000,False,000,False,False,False,3,17
+"### ||| الشرط 
+",000,False,000,False,False,False,3,15
+"### ||| كاتب الرسائل 
+",000,False,000,False,False,False,3,24
+"### ||| وعلى ديوان خراسان 
+",000,False,000,False,False,False,3,15
+"### ||| وعلى ديوان النفقات وبيوت الأموال والخزائن والرقيق وديوان الشام 
+",000,False,000,False,False,False,3,38
+"### ||| وعلى ديوان جند خراسان 
+",000,False,000,False,False,False,3,12
+"### ||| وعلى بيت المال 
+",000,False,000,False,False,False,3,9
+"### ||| والمظالم 
+",000,False,000,False,False,False,3,7
+"### ||| والخاتم 
+",000,False,000,False,False,False,3,14
+"### ||| الحرس 
+",000,False,000,False,False,False,3,17
+"### ||| حاجبه 
+",000,False,000,False,False,False,3,19
+"### || خروج عبد السلام اليشكري
+",000,False,000,False,False,False,2,525
+"### || خلافة الهادي
+",000,False,000,False,False,False,2,115
+"### | سنة سبعين ومائة
+",170,year,000,False,170,070,1,381
+"### || تسمية عمال موسى
+",000,False,000,False,False,False,2,209
+"### ||| مكة 
+",000,False,000,False,False,False,3,29
+"### ||| اليمن 
+",000,False,000,False,False,False,3,17
+"### ||| البصرة 
+",000,False,000,False,False,False,3,19
+"### ||| الكوفة 
+",000,False,000,False,False,False,3,21
+"### ||| خراسان 
+",000,False,000,False,False,False,3,21
+"### ||| سجستان 
+",000,False,000,False,False,False,3,14
+"### ||| السند 
+",000,False,000,False,False,False,3,32
+"### ||| الجزيرة 
+",000,False,000,False,False,False,3,25
+"### ||| أفريقية 
+",000,False,000,False,False,False,3,19
+"### ||| 
+",000,False,000,False,False,False,3,44
+"### |||| البصرة 
+",000,False,000,False,False,False,4,20
+"### |||| الكوفة 
+",000,False,000,False,False,False,4,15
+"### |||| المدينة 
+",000,False,000,False,False,False,4,28
+"### ||| الموسم 
+",000,False,000,False,False,False,3,9
+"### ||| الشرط 
+",000,False,000,False,False,False,3,11
+"### ||| الرسائل والديوان 
+",000,False,000,False,False,False,3,8
+"### ||| الخاتم 
+",000,False,000,False,False,False,3,7
+"### ||| الحرس 
+",000,False,000,False,False,False,3,11
+"### ||| الخزائن وبيوت الاموال 
+",000,False,000,False,False,False,3,13
+"### ||| حاجبه 
+",000,False,000,False,False,False,3,7
+"### ||| ووزيره صاحب أمره كله 
+",000,False,000,False,False,False,3,16
+"### || خلافة هارون الرشيد
+",000,False,000,False,False,False,2,116
+"### | سنة إحدى وسبعين ومائة
+",171,year,000,False,171,069,1,50
+"### | سنة اثنتين وسبعين ومائة
+",172,year,000,False,172,068,1,69
+"### | سنة ثلاث وسبعين ومائة
+",173,year,000,False,173,067,1,64
+"### | سنة أربع وسبعين ومائة
+",174,year,000,False,174,066,1,54
+"### | سنة خمس وسبعين ومائة
+",175,year,000,False,175,065,1,51
+"### | سنة ست وسبعين ومائة
+",176,year,000,False,176,064,1,89
+"### | سنة سبع وسبعين ومائة
+",177,year,000,False,177,063,1,79
+"### | سنة ثمان وسبعين ومائة
+",178,year,000,False,178,062,1,81
+"### | سنة تسع وسبعين ومائة
+",179,year,000,False,179,061,1,50
+"### | سنة ثمانين ومائة
+",180,year,000,False,180,060,1,1175
+"### || خروج الوليد بن طريف الشاري ومقتله
+",000,False,000,False,False,False,2,434
+"### || خروج باسسير وصحصح والفضيل بن أبي سعيد
+",000,False,000,False,False,False,2,161
+"### || خروج جراشه بن شيبان
+",000,False,000,False,False,False,2,547
+"### | سنة إحدى وثمانين ومائة
+",181,year,000,False,181,059,1,52
+"### | سنة اثنتين وثمانين ومائة
+",182,year,000,False,182,058,1,39
+"### | سنة ثلاث وثمانين ومائة
+",183,year,000,False,183,057,1,38
+"### | سنة اربع وثمانين ومائة
+",184,year,000,False,184,056,1,49
+"### | سنة خمس وثمانين ومائة
+",185,year,000,False,185,055,1,36
+"### | سنة ست وثمانين ومائة
+",186,year,000,False,186,054,1,55
+"### | سنة سبع وثمانين ومائة
+",187,year,000,False,187,053,1,110
+"### | سنة ثمان وثمانين ومائة
+",188,year,000,False,188,052,1,54
+"### | سنة تسع وثمانين ومائة
+",189,year,000,False,189,051,1,63
+"### | سنة تسعين ومائة
+",190,year,000,False,190,050,1,92
+"### | سنة إحدى وتسعين ومائة
+",191,year,000,False,191,049,1,71
+"### | سنة اثنتين وتسعين ومائة
+",192,year,000,False,192,048,1,89
+"### | سنة ثلاث وتسعين ومائة
+",193,year,000,False,193,047,1,1508
+"### || بيعة محمد الأمين
+",000,False,000,False,False,False,2,21
+"### || تسمية عمال أمير المؤمنين هارون
+",000,False,000,False,False,False,2,1430
+"### ||| مكة 
+",000,False,000,False,False,False,3,206
+"### ||| اليمن 
+",000,False,000,False,False,False,3,64
+"### ||| البصرة 
+",000,False,000,False,False,False,3,196
+"### ||| الكوفة 
+",000,False,000,False,False,False,3,95
+"### ||| خراسان 
+",000,False,000,False,False,False,3,80
+"### ||| سجستان 
+",000,False,000,False,False,False,3,126
+"### ||| السند 
+",000,False,000,False,False,False,3,111
+"### ||| الجزيرة 
+",000,False,000,False,False,False,3,42
+"### ||| مصر 
+",000,False,000,False,False,False,3,76
+"### ||| أفريقية 
+",000,False,000,False,False,False,3,122
+"### ||| الموسم 
+",000,False,000,False,False,False,3,23
+"### ||| القضاء
+",000,False,000,False,False,False,3,115
+"### |||| قضاء البصرة 
+",000,False,000,False,False,False,4,61
+"### |||| الكوفة 
+",000,False,000,False,False,False,4,41
+"### |||| المدينة 
+",000,False,000,False,False,False,4,29
+"### ||| الشرط 
+",000,False,000,False,False,False,3,51
+"### ||| كاتب الرسائل 
+",000,False,000,False,False,False,3,24
+"### ||| الديوان والخراج والجند 
+",000,False,000,False,False,False,3,19
+"### ||| الخاتم 
+",000,False,000,False,False,False,3,50
+"### ||| الحرس 
+",000,False,000,False,False,False,3,47
+"### ||| حاجبه 
+",000,False,000,False,False,False,3,91
+"### | سنة أربع وتسعين ومائة
+",194,year,000,False,194,046,1,67
+"### | سنة خمس وتسعين ومائة
+",195,year,000,False,195,045,1,88
+"### | سنة ست وتسعين ومائة
+",196,year,000,False,196,044,1,110
+"### | سنة سبع وتسعين ومائة
+",197,year,000,False,197,043,1,53
+"### | سنة ثمان وتسعين ومائة
+",198,year,000,False,198,042,1,165
+"### || على شرطه 
+",000,False,000,False,False,False,2,20
+"### || قاضي المخلوع 
+",000,False,000,False,False,False,2,36
+"### || البصرة 
+",000,False,000,False,False,False,2,13
+"### | سنة تسع وتسعين ومائة
+",199,year,000,False,199,041,1,322
+"### || خروج ابن طباطبا بالكوفة
+",000,False,000,False,False,False,2,84
+"### || وثوب محمد بن جعفر بالبصرة ms296 ومحمد بن سليمان بالمدينة
+",000,False,000,False,False,False,2,45
+"### || أبو السرايا يهزم بعوث الحسن بن سهل
+",000,False,000,False,False,False,2,103
+"### || خروج ابن الافطس بمكة
+",000,False,000,False,False,False,2,104
+"### | سنة مائتين
+",200,year,000,False,200,040,1,117
+"### | سنة إحدى ومائتين
+",201,year,000,False,201,039,1,82
+"### | سنة اثنتين ومائتين
+",202,year,000,False,202,038,1,57
+"### | سنة ثلاث ومائتين
+",203,year,000,False,203,037,1,74
+"### | سنة أربع ومائتين
+",204,year,000,False,204,036,1,55
+"### | سنة خمس ومائتين
+",205,year,000,False,205,035,1,48
+"### | سنة ست ومائتين
+",206,year,000,False,206,034,1,42
+"### | سنة سبع ومائتين
+",207,year,000,False,207,033,1,69
+"### | سنة ثمان ومائتين
+",208,year,000,False,208,032,1,59
+"### | سنة تسع ومائتين
+",209,year,000,False,209,031,1,49
+"### | سنع عشر ومائتين
+",000,False,000,False,False,False,1,40
+"### | سنة إحدى عشرة ومائتين
+",211,year,000,False,211,029,1,31
+"### | سنة أثنتي عشرة ومائتين
+",210,year,000,False,210,030,1,43
+"### | سنة ثلاث عشرة ومائتين
+",213,year,000,False,213,027,1,59
+"### | سنة أربع وعشرة ومائتين
+",214,year,000,False,214,026,1,36
+"### | سنة خمس عشرة ومائتين
+",215,year,000,False,215,025,1,61
+"### | سنة ست عشرة ومائتين
+",216,year,000,False,216,024,1,22
+"### | سنة سبع عشرة ومائتين
+",217,year,000,False,217,023,1,39
+"### | سنة ثمان عشرة ومائتين
+",218,year,000,False,218,022,1,106
+"### || تسمية عمال المأمون
+",000,False,000,False,False,False,2,85
+"### ||| المدينة 
+",000,False,000,False,False,False,3,90
+"### | سنة تسع عشرة ومائتين
+",219,year,000,False,219,021,1,52
+"### | سنة عشرين ومائتين
+",220,year,000,False,220,020,1,62
+"### | سنة إحدى وعشرين ومائتين
+",221,year,000,False,221,019,1,25
+"### | سنة اثنتين وعشرين ومائتين
+",222,year,000,False,222,018,1,54
+"### | سنة ثلاث وعشرين ومائتين
+",223,year,000,False,223,017,1,189
+"### | سنة أربع وعشرين ومائتين
+",224,year,000,False,224,016,1,31
+"### | سنة خمس وعشرين ومائتين 
+",225,year,000,False,225,015,1,30
+"### | سنة ست وعشرين ومائتين
+",226,year,000,False,226,014,1,30
+"### | سنة سبع وعشرين ومائتين
+",227,year,000,False,227,013,1,73
+"### | سنة ثمان وعشرين ومائتين
+",228,year,000,False,228,012,1,58
+"### | سنة تسع وعشرين ومائتين
+",229,year,000,False,229,011,1,31
+"### | سنة ثلاثين ومائتين
+",230,year,000,False,230,010,1,23
+"### | سنة إحدى وثلاثين ومائتين
+",231,year,000,False,231,009,1,109
+"### | سنة اثنتين وثلاثين ومائتين
+",232,year,000,False,232,008,1,18

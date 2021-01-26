@@ -1,0 +1,259 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | المقدمات
+",000,False,000,False,False,False,1,2
+"### | مقدمة المؤلف
+",000,False,000,False,False,False,1,308
+"### | مقدمة لا يسع المقلد جهلها
+",000,False,000,False,False,False,1,4920
+"### | كتاب الطهارة
+",000,False,000,False,False,False,1,4
+"### | باب النجاسات
+",000,False,000,False,False,False,1,4606
+"### | باب المياه
+",000,False,000,False,False,False,1,1945
+"### | باب ندب لقاضي الحاجة التواري
+",000,False,000,False,False,False,1,1943
+"### | باب الوضوء
+",000,False,000,False,False,False,1,6819
+"### | باب الغسل
+",000,False,000,False,False,False,1,4094
+"### | باب التيمم
+",000,False,000,False,False,False,1,4005
+"### | باب الحيض
+",000,False,000,False,False,False,1,2002
+"### | كتاب الصلاة
+",000,False,000,False,False,False,1,4
+"### | مدخل
+",000,False,000,False,False,False,1,6154
+"### | باب الأوقات
+",000,False,000,False,False,False,1,2752
+"### | باب الإذان والإقامة
+",000,False,000,False,False,False,1,2833
+"### | باب صفة الصلاة
+",000,False,000,False,False,False,1,7872
+"### | باب والجماعة سنة مؤكدة
+",000,year,000,False,False,False,1,6092
+"### | باب سجود السهو
+",000,False,000,False,False,False,1,3378
+"### | باب والقضاء
+",000,False,000,False,False,False,1,763
+"### | ...... 
+",000,False,000,False,False,False,1,243
+"### | باب صلاة الجمعة
+",000,False,000,False,False,False,1,2609
+"### | باب ويجب قصر الرباعي
+",000,False,000,False,False,False,1,1325
+"### | باب وشرط جماعة الخوف
+",000,False,000,False,False,False,1,571
+"### | باب وفي وجوب صلاة العيدين خلاف
+",000,False,000,False,False,False,1,1644
+"### | باب ويسن للكسوفين حالهما ركعتان
+",000,False,000,False,False,False,1,1850
+"### | كتاب الجنائز
+",000,False,000,False,False,False,1,9109
+"### | كتاب الزكاة
+",000,False,000,False,False,False,1,4
+"### | مدخل
+",000,False,000,False,False,False,1,1569
+"### | باب في نصاب الذهب والفضة
+",000,False,000,False,False,False,1,1871
+"### | باب زكاة الإبل
+",000,False,000,False,False,False,1,409
+"### | باب ولا شيء فيما دون ثلاثين من البقر
+",000,False,000,False,False,False,1,250
+"### | باب ولا شيء فيما دون أربعين من الغنم
+",000,False,000,False,False,False,1,1353
+"### | [باب "" ما أخرجت الارض في نصاب فصاعدا ضم احصاده الحول
+",000,False,000,False,False,False,1,1384
+"### | [باب "" ومصرفها من تضمنته الآية
+",000,False,000,False,False,False,1,6419
+"### | باب والفطرة تجب من فجر أول شوال إلي الغروب
+",000,False,000,False,False,False,1,1300
+"### | كتاب الخمس
+",000,False,000,False,False,False,1,3170
+"### | كتاب الصيام
+",000,False,000,False,False,False,1,4
+"### | مدخل
+",000,False,000,False,False,False,1,3905
+"### | باب وشروط النذر بالصوم
+",000,False,000,False,False,False,1,403
+"### | باب الاعتكاف وشروطه
+",000,False,000,False,False,False,1,3240
+"### | كتاب الحج
+",000,False,000,False,False,False,1,4
+"### | مدخل
+",000,False,000,False,False,False,1,11818
+"### | باب العمرة
+",000,False,000,False,False,False,1,501
+"### | باب المتمتع
+",000,False,000,False,False,False,1,1126
+"### | باب القارن
+",000,False,000,False,False,False,1,3283
+"### | كتاب النكاح
+",000,False,000,False,False,False,1,4
+"### | مدخل
+",000,False,000,False,False,False,1,15346
+"### | باب على واهب الأمة وبائعها استبراء غير الحامل
+",000,False,000,False,False,False,1,1850
+"### | باب الفراش
+",000,False,000,False,False,False,1,1058
+"### | كتاب الطلاق
+",000,False,000,False,False,False,1,4
+"### | باب إنما يصح من زوج مختار مكلف
+",000,False,000,False,False,False,1,5018
+"### | باب الخلع
+",000,False,000,False,False,False,1,646
+"### | ..... 
+",000,False,000,False,False,False,1,2155
+"### | باب العدة
+",000,False,000,False,False,False,1,6911
+"### | باب الظهار
+",000,False,000,False,False,False,1,2015
+"### | باب الايلاء
+",000,False,000,False,False,False,1,879
+"### | باب اللعان
+",000,False,000,False,False,False,1,1428
+"### | باب الحضانة
+",000,False,000,False,False,False,1,1613
+"### | باب النفقات
+",000,False,000,False,False,False,1,4162
+"### | باب الرضاع
+",000,False,000,False,False,False,1,1838
+"### | كتاب البيع
+",000,False,000,False,False,False,1,4
+"### | مدخل
+",000,False,000,False,False,False,1,11141
+"### | باب الشروط المقارنة للعقد
+",000,False,000,False,False,False,1,1032
+"### | باب الربويات
+",000,False,000,False,False,False,1,5772
+"### | باب الخيارات
+",000,False,000,False,False,False,1,5279
+"### | باب ما يدخل في المبيع
+",000,False,000,False,False,False,1,1801
+"### | باب البيع غير الصحيح
+",000,False,000,False,False,False,1,478
+"### | .... 
+",000,False,000,False,False,False,1,502
+"### | باب المأذون
+",000,False,000,False,False,False,1,1145
+"### | باب المرابحة
+",000,False,000,False,False,False,1,600
+"### | باب الإقالة
+",000,False,000,False,False,False,1,435
+"### | باب القرض
+",000,False,000,False,False,False,1,1631
+"### | باب الصرف
+",000,False,000,False,False,False,1,741
+"### | باب السلم
+",000,False,000,False,False,False,1,2061
+"### | كتاب الشفعة
+",000,False,000,False,False,False,1,3648
+"### | كتاب الإجارة
+",000,False,000,False,False,False,1,4
+"### | مدخل
+",000,False,000,False,False,False,1,2603
+"### | باب وإجارة الآدميين
+",000,False,000,False,False,False,1,1326
+"### | .... 
+",000,False,000,False,False,False,1,2282
+"### | باب المزارعة
+",000,False,000,False,False,False,1,1188
+"### | باب الإحياء والتحجر
+",000,False,000,False,False,False,1,1101
+"### | باب المضاربة
+",000,False,000,False,False,False,1,2247
+"### | كتاب الشركة
+",000,False,000,False,False,False,1,4
+"### | مدخل
+",000,False,000,False,False,False,1,700
+"### | باب شركة الأملاك
+",000,False,000,False,False,False,1,2861
+"### | باب القسمة
+",000,False,000,False,False,False,1,1299
+"### | كتاب الرهن
+",000,False,000,False,False,False,1,2561
+"### | كتاب العارية
+",000,False,000,False,False,False,1,1280
+"### | كتاب الهبة
+",000,False,000,False,False,False,1,3476
+"### | كتاب الوقف
+",000,False,000,False,False,False,1,5749
+"### | كتاب الوديعة
+",000,False,000,False,False,False,1,959
+"### | كتاب الغصب
+",000,False,000,False,False,False,1,4260
+"### | كتاب العتق
+",000,False,000,False,False,False,1,4
+"### | مدخل
+",000,False,000,False,False,False,1,3523
+"### | باب والتدبير
+",000,False,000,False,False,False,1,863
+"### | باب الكتابة
+",000,False,000,False,False,False,1,1156
+"### | باب الولاء
+",000,False,000,False,False,False,1,1121
+"### | كتاب الأيمان
+",000,False,000,False,False,False,1,4
+"### | مدخل
+",000,False,000,False,False,False,1,3247
+"### | باب الكفارة
+",000,False,000,False,False,False,1,990
+"### | باب النذر
+",000,False,000,False,False,False,1,2534
+"### | باب الضالة واللقطة واللقيط
+",000,False,000,False,False,False,1,1646
+"### | باب الصيد
+",000,False,000,False,False,False,1,1468
+"### | باب الذبح
+",000,False,000,False,False,False,1,1525
+"### | باب الأضحية
+",000,False,000,False,False,False,1,3316
+"### | باب الأطعمة والأشربة
+",000,False,000,False,False,False,1,4582
+"### | باب اللباس
+",000,False,000,False,False,False,1,2551
+"### | كتاب الدعاوى
+",000,False,000,False,False,False,1,6009
+"### | كتاب الإقرار
+",000,False,000,False,False,False,1,2781
+"### | كتاب الشهادات
+",000,False,000,False,False,False,1,6046
+"### | كتاب الوكالة
+",000,False,000,False,False,False,1,2700
+"### | باب الكفالة
+",000,False,000,False,False,False,1,1696
+"### | باب الحوالة
+",000,False,000,False,False,False,1,479
+"### | باب التفليس
+",000,False,000,False,False,False,1,2659
+"### | باب الصلح
+",000,False,000,False,False,False,1,610
+"### | باب الإبراء
+",000,False,000,False,False,False,1,604
+"### | باب الإكراه
+",000,False,000,False,False,False,1,510
+"### | باب القضاء
+",000,False,000,False,False,False,1,8944
+"### | كتاب الحدود
+",000,False,000,False,False,False,1,4
+"### | مدخل
+",000,False,000,False,False,False,1,6007
+"### | باب حد القذف
+",000,False,000,False,False,False,1,1112
+"### | باب حد الشرب
+",000,False,000,False,False,False,1,864
+"### | باب حد السارق
+",000,False,000,False,False,False,1,5591
+"### | كتاب الجنايات
+",000,False,000,False,False,False,1,4
+"### | مدخل
+",000,False,000,False,False,False,1,9720
+"### | باب الديات
+",000,False,000,False,False,False,1,4731
+"### | باب القسامة
+",000,False,000,False,False,False,1,1864
+"### | كتاب الوصايا
+",000,False,000,False,False,False,1,5783
+"### | كتاب السير
+",000,False,000,False,False,False,1,20891

@@ -1,0 +1,19 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO مع الإمامية
+",000,False,000,False,False,False,1,740
+"### | AUTO الباب الأول: الإمامة
+",000,False,000,False,False,False,1,4129
+"### || AUTO الفصل الأول: النص على أسماء الأئمة
+",000,False,000,False,False,False,2,2993
+"### || AUTO الفصل الثاني : الحديث المروي في كتب أهل السنة
+",000,year,000,False,False,False,2,1132
+"### | AUTO الباب الثاني: العصمة
+",000,False,000,False,False,False,1,2318
+"### | AUTO الباب الثالث: المهدي الموعود عليه السلام
+",000,False,000,False,False,False,1,2318
+"### | AUTO الباب الرابع: الاختلاف
+",000,False,000,False,False,False,1,4267
+"### || AUTO الفصل الأول: جواز الاختلاف في الفروع
+",000,False,000,False,False,False,2,719
+"### || AUTO الفصل الثاني : إختلاف الإمامية
+",000,False,000,False,False,False,2,3660

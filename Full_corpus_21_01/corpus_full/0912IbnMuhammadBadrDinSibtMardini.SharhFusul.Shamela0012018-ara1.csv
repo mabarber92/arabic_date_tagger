@@ -1,0 +1,499 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | المجلد الأول
+",000,False,000,False,False,False,1,4
+"### | مقدمة
+",000,False,000,False,False,False,1,829
+"### | القسم الأول: القسم الدراسي
+",000,False,000,False,False,False,1,8
+"### | الباب الأول: حياة المؤلف (بسط المارديني)
+",000,False,000,False,False,False,1,12
+"### | الفصل الأول: اسمه ونسبه ms003 ومولده
+",000,False,000,False,False,False,1,24
+"### | الفصل الثاني: نشأته وطلبه للعلم
+",000,False,000,False,False,False,1,142
+"### | الفصل الثاني: نشأته وطلبه للعلم
+",000,False,000,False,False,False,1,92
+"### | الفصل الثالث: أهم أعماله
+",000,False,000,False,False,False,1,44
+"### | 1- 
+",000,False,000,False,False,False,1,28
+"### | 2- 
+",000,False,000,False,False,False,1,42
+"### | 3- 
+",000,False,000,False,False,False,1,51
+"### | 4- 
+",000,False,000,False,False,False,1,73
+"### | الفصل الرابع: صفاته وثناء العلماء عليه
+",000,False,000,False,False,False,1,140
+"### | 2- 
+",000,False,000,False,False,False,1,18
+"### | 3- 
+",000,False,000,False,False,False,1,32
+"### | 4- 
+",000,False,000,False,False,False,1,127
+"### | 5- 
+",000,False,000,False,False,False,1,16
+"### | 6- 
+",000,False,000,False,False,False,1,50
+"### | 7- 
+",000,False,000,False,False,False,1,16
+"### | 8- 
+",000,False,000,False,False,False,1,16
+"### | الفصل الخامس: شيوخه
+",000,False,000,False,False,False,1,134
+"### | 2- 
+",000,False,000,False,False,False,1,52
+"### | 3- 
+",000,False,000,False,False,False,1,38
+"### | 4- 
+",000,False,000,False,False,False,1,51
+"### | 5- 
+",000,False,000,False,False,False,1,38
+"### | 6- 
+",000,False,000,False,False,False,1,35
+"### | 7- 
+",000,False,000,False,False,False,1,30
+"### | 8- 
+",000,False,000,False,False,False,1,47
+"### | 9- 
+",000,False,000,False,False,False,1,38
+"### | 10- 
+",000,False,000,False,False,False,1,25
+"### | الفصل السادس: تلاميذه
+",000,False,000,False,False,False,1,72
+"### | 1- 
+",000,False,000,False,False,False,1,23
+"### | 2- 
+",000,False,000,False,False,False,1,30
+"### | 3- 
+",000,False,000,False,False,False,1,32
+"### | 4- 
+",000,False,000,False,False,False,1,41
+"### | 5- 
+",000,False,000,False,False,False,1,27
+"### | 6- 
+",000,False,000,False,False,False,1,38
+"### | الفصل السابع: مؤلفاته عامة:
+",000,False,000,False,False,False,1,83
+"### | 1- 
+",000,False,000,False,False,False,1,23
+"### | 2- 
+",000,False,000,False,False,False,1,27
+"### | 3- 
+",000,False,000,False,False,False,1,15
+"### | 4- 
+",000,False,000,False,False,False,1,25
+"### | 5- 
+",000,False,000,False,False,False,1,19
+"### | 6- 
+",000,False,000,False,False,False,1,24
+"### | 7- 
+",000,False,000,False,False,False,1,15
+"### | 8- 
+",000,False,000,False,False,False,1,25
+"### | 9- 
+",000,False,000,False,False,False,1,19
+"### | 10- 
+",000,False,000,False,False,False,1,9
+"### | 11- 
+",000,False,000,False,False,False,1,17
+"### | 12- 
+",000,False,000,False,False,False,1,17
+"### | 13- 
+",000,False,000,False,False,False,1,17
+"### | 14- 
+",000,False,000,False,False,False,1,18
+"### | 15 - 
+",000,False,000,False,False,False,1,15
+"### | 16 - 
+",000,False,000,False,False,False,1,11
+"### | 17 - 
+",000,False,000,False,False,False,1,17
+"### | 18- 
+",000,False,000,False,False,False,1,21
+"### | 19- 
+",000,False,000,False,False,False,1,11
+"### | 25- 
+",000,False,000,False,False,False,1,30
+"### | 21- 
+",000,False,000,False,False,False,1,15
+"### | 22- 
+",000,False,000,False,False,False,1,11
+"### | 23- 
+",000,False,000,False,False,False,1,11
+"### | 24- 
+",000,False,000,False,False,False,1,13
+"### | 25- 
+",000,False,000,False,False,False,1,15
+"### | 26- 
+",000,False,000,False,False,False,1,13
+"### | 27- 
+",000,False,000,False,False,False,1,21
+"### | 28- 
+",000,False,000,False,False,False,1,17
+"### | 29- 
+",000,False,000,False,False,False,1,17
+"### | 30- 
+",000,False,000,False,False,False,1,17
+"### | 31- 
+",000,False,000,False,False,False,1,17
+"### | 32- 
+",000,False,000,False,False,False,1,21
+"### | 33- 
+",000,False,000,False,False,False,1,21
+"### | 34- 
+",000,False,000,False,False,False,1,15
+"### | 35- 
+",000,False,000,False,False,False,1,11
+"### | 36- 
+",000,False,000,False,False,False,1,26
+"### | 37- 
+",000,False,000,False,False,False,1,15
+"### | 38- 
+",000,False,000,False,False,False,1,19
+"### | 39- 
+",000,False,000,False,False,False,1,13
+"### | 40- 
+",000,False,000,False,False,False,1,24
+"### | 41- 
+",000,False,000,False,False,False,1,17
+"### | 42- 
+",000,False,000,False,False,False,1,17
+"### | 43- 
+",000,False,000,False,False,False,1,13
+"### | 44- 
+",000,False,000,False,False,False,1,15
+"### | 45- 
+",000,False,000,False,False,False,1,17
+"### | 46- 
+",000,False,000,False,False,False,1,17
+"### | الفصل الثامن: وفاته
+",000,False,000,False,False,False,1,68
+"### | الباب الثاني: في الكتاب المحقق
+",000,False,000,False,False,False,1,10
+"### | الفصل الأول: إثبات نسبة الكتاب إلى المؤلف، ووصف المخطوطات، وبيان أماكن وجودها
+",000,False,000,False,False,False,1,1072
+"### | الفصل الثاني: منهجه في الكتاب
+",000,False,000,False,False,False,1,321
+"### | الفصل الثالث: اختياراته الفقهية في الكتاب
+",000,False,000,False,False,False,1,58
+"### | 1- 
+",000,False,000,False,False,False,1,25
+"### | 2- 
+",000,False,000,False,False,False,1,27
+"### | 3- 
+",000,False,000,False,False,False,1,23
+"### | 4- 
+",000,False,000,False,False,False,1,14
+"### | 5- 
+",000,False,000,False,False,False,1,17
+"### | 1- 
+",000,False,000,False,False,False,1,23
+"### | 2- 
+",000,False,000,False,False,False,1,25
+"### | 3- 
+",000,False,000,False,False,False,1,21
+"### | 4- 
+",000,False,000,False,False,False,1,21
+"### | 5- 
+",000,False,000,False,False,False,1,27
+"### | 6- 
+",000,False,000,False,False,False,1,29
+"### | 7- 
+",000,False,000,False,False,False,1,23
+"### | 8- 
+",000,False,000,False,False,False,1,15
+"### | 9- 
+",000,False,000,False,False,False,1,22
+"### | 10- 
+",000,False,000,False,False,False,1,17
+"### | 11- 
+",000,False,000,False,False,False,1,15
+"### | 17- 
+",000,False,000,False,False,False,1,14
+"### | 18- 
+",000,False,000,False,False,False,1,26
+"### | الباب الثالث: في المؤلف الأصل ((ابن الهائم))
+",000,False,000,False,False,False,1,14
+"### | الفصل الأول: اسمه ونسبه ومولده
+",000,False,000,False,False,False,1,112
+"### | الفصل الثاني: شيوخه.
+",000,False,000,False,False,False,1,89
+"### | 2- 
+",000,False,000,False,False,False,1,61
+"### | 3- 
+",000,False,000,False,False,False,1,41
+"### | 4- 
+",000,False,000,False,False,False,1,68
+"### | الفصل الثالث: تلاميذه
+",000,False,000,False,False,False,1,21
+"### | 1- 
+",000,False,000,False,False,False,1,54
+"### | 2- 
+",000,False,000,False,False,False,1,43
+"### | 3- 
+",000,False,000,False,False,False,1,60
+"### | 4- 
+",000,False,000,False,False,False,1,22
+"### | 5- 
+",000,False,000,False,False,False,1,29
+"### | 6- 
+",000,False,000,False,False,False,1,47
+"### | الفصل الرابع: ثناء العلماء عليه
+",000,False,000,False,False,False,1,18
+"### | 1- 
+",000,False,000,False,False,False,1,45
+"### | 2- 
+",000,False,000,False,False,False,1,30
+"### | 3- 
+",000,False,000,False,False,False,1,39
+"### | 4- 
+",000,False,000,False,False,False,1,31
+"### | 5- 
+",000,False,000,False,False,False,1,59
+"### | 6- 
+",000,False,000,False,False,False,1,15
+"### | 7- 
+",000,False,000,False,False,False,1,37
+"### | الفصل الخامس: مؤلفاته
+",000,False,000,False,False,False,1,52
+"### | 1- 
+",000,False,000,False,False,False,1,15
+"### | 2- 
+",000,False,000,False,False,False,1,19
+"### | 3- 
+",000,False,000,False,False,False,1,17
+"### | 4- 
+",000,False,000,False,False,False,1,21
+"### | 5- 
+",000,False,000,False,False,False,1,17
+"### | 6- 
+",000,False,000,False,False,False,1,15
+"### | 7- 
+",000,False,000,False,False,False,1,20
+"### | 8- 
+",000,False,000,False,False,False,1,17
+"### | 9- 
+",000,False,000,False,False,False,1,19
+"### | 10- 
+",000,False,000,False,False,False,1,21
+"### | 11- 
+",000,False,000,False,False,False,1,19
+"### | 12- 
+",000,False,000,False,False,False,1,13
+"### | 13- 
+",000,False,000,False,False,False,1,17
+"### | 14- 
+",000,False,000,False,False,False,1,13
+"### | 15- 
+",000,False,000,False,False,False,1,17
+"### | 16- 
+",000,False,000,False,False,False,1,9
+"### | 17- 
+",000,False,000,False,False,False,1,9
+"### | 18- 
+",000,False,000,False,False,False,1,15
+"### | 19- 
+",000,False,000,False,False,False,1,13
+"### | 20- 
+",000,False,000,False,False,False,1,21
+"### | 21- 
+",000,False,000,False,False,False,1,17
+"### | 22- 
+",000,False,000,False,False,False,1,15
+"### | 23- 
+",000,False,000,False,False,False,1,22
+"### | 24- 
+",000,False,000,False,False,False,1,23
+"### | 25- 
+",000,False,000,False,False,False,1,21
+"### | 26- 
+",000,False,000,False,False,False,1,21
+"### | 27- 
+",000,False,000,False,False,False,1,33
+"### | 28- 
+",000,False,000,False,False,False,1,16
+"### | 29- 
+",000,False,000,False,False,False,1,17
+"### | 30- 
+",000,False,000,False,False,False,1,23
+"### | 31- 
+",000,False,000,False,False,False,1,15
+"### | 32- 
+",000,False,000,False,False,False,1,17
+"### | 33- 
+",000,False,000,False,False,False,1,18
+"### | 34- 
+",000,False,000,False,False,False,1,19
+"### | 35- 
+",000,False,000,False,False,False,1,18
+"### | 36- 
+",000,False,000,False,False,False,1,15
+"### | 37- 
+",000,False,000,False,False,False,1,21
+"### | 38- 
+",000,False,000,False,False,False,1,13
+"### | 39- 
+",000,False,000,False,False,False,1,31
+"### | 40- 
+",000,False,000,False,False,False,1,14
+"### | 41- 
+",000,False,000,False,False,False,1,15
+"### | 42- 
+",000,False,000,False,False,False,1,30
+"### | 43- 
+",000,False,000,False,False,False,1,22
+"### | 44- 
+",000,False,000,False,False,False,1,21
+"### | الفصل السادس: وفاته.
+",000,False,000,False,False,False,1,66
+"### | الباب الرابع: في الكتاب المشروح
+",000,False,000,False,False,False,1,10
+"### | الفصل الأول: اسم الكتاب
+",000,False,000,False,False,False,1,20
+"### | الفصل الثاني: نسبة الكتاب إلى المؤلف
+",000,False,000,False,False,False,1,116
+"### | الفصل الثاني: نسبة الكتاب إلى المؤلف
+",000,False,000,False,False,False,1,102
+"### | الفصل الثالث: شروح الكتاب
+",000,False,000,False,False,False,1,128
+"### | الفصل الرابع: نسخ الكتاب، وتحقيقه
+",000,False,000,False,False,False,1,118
+"### | القسم الثاني: الكتاب المحقق
+",000,False,000,False,False,False,1,8
+"### | مقدمة المؤلف
+",000,False,000,False,False,False,1,468
+"### | .......................... 
+",000,False,000,False,False,False,1,114
+"### | الفصل الأول: الحقوق المتعلقة بالتركة
+",000,False,000,False,False,False,1,841
+"### | الفصل الثاني: أسباب الإرث
+",000,False,000,False,False,False,1,507
+"### | الفصل الثالث: شروط الإرث
+",000,False,000,False,False,False,1,682
+"### | الفصل الرابع: المجمع على توريثهم من الذكور والإناث
+",000,False,000,False,False,False,1,276
+"### | الفصل الخامس: من يرث عند اجتماع الذكور والإناث
+",000,False,000,False,False,False,1,801
+"### | الفصل السادس: التوراث بأسباب الإرث من جانبين ومن جانب واحد
+",000,False,000,False,False,False,1,286
+"### | الفصل السابع: الفروض المقدرة في الكتاب الله ومن يستحقها
+",000,False,000,False,False,False,1,917
+"### | الفصل الثامن: العصبات وأقسامهم
+",000,False,000,False,False,False,1,803
+"### | الفصل التاسع: أحكام التعصيب
+",000,False,000,False,False,False,1,647
+"### | الفصل العاشر: أقسام الورثة
+",000,False,000,False,False,False,1,292
+"### | الفصل الحادى عشر: ترتيب العصيات
+",000,False,000,False,False,False,1,152
+"### | الفصل الثانى عشر: مراتب جهات الإرث
+",000,False,000,False,False,False,1,287
+"### | الفصل الثالث عشر: حكم اجتماع جهتي تعصيب أو جهتي فرض أوجهتي فرض وتعصيب في شخص واحد
+",000,False,000,False,False,False,1,126
+"### | ...................... 
+",000,False,000,False,False,False,1,90
+"### | ........................ 
+",000,False,000,False,False,False,1,656
+"### | الفصل الرابع عشر: فروع تتعلق بالجمع بين الفرض والتعصيب
+",000,False,000,False,False,False,1,962
+"### | الفصل الخامس عشر: الحجب
+",000,False,000,False,False,False,1,724
+"### | الفصل السادس عشر: حجب الحرمان
+",000,False,000,False,False,False,1,1419
+"### | الفصل السابع عشر: موانع الإرث
+",000,False,000,False,False,False,1,226
+"### | ................................... 
+",000,False,000,False,False,False,1,522
+"### | ......................... 
+",000,False,000,False,False,False,1,15
+"### | ........................................ 
+",000,False,000,False,False,False,1,107
+"### | .................................. 
+",000,False,000,False,False,False,1,981
+"### | الفصل الثامن عشر: أقسام الناس في الإرث بحسب الإرث وعدمه
+",000,False,000,False,False,False,1,433
+"### | الفصل التاسع عشر: عدم تأثير سبب الإرث وشرطه عند وجود المانع.
+",000,False,000,False,False,False,1,433
+"### | الفصل العشرون: المحجوب هل يحجب غيره أو لا
+",000,False,000,False,False,False,1,604
+"### | الفصل الحادى والعشرون: أحكام الأب
+",000,False,000,False,False,False,1,1348
+"### | الفصل الثانى والعشرون: أحكام الأولاد وأولاد البنين
+",000,False,000,False,False,False,1,977
+"### | ................................. 
+",000,False,000,False,False,False,1,83
+"### | ................................ 
+",000,False,000,False,False,False,1,249
+"### | الفصل الثالث والعشرون: أحكام الإخوة وبنيهم
+",000,False,000,False,False,False,1,829
+"### | الفصل الرابع والعشرون: أحكام الجدات
+",000,False,000,False,False,False,1,859
+"### | الفصل الخامس والعشرون ms086: أحكام الجد والإخوة
+",000,False,000,False,False,False,1,387
+"### | ..................... 
+",000,False,000,False,False,False,1,1308
+"### | الفصل السادس والعشرون: مقدمات التأصيل والتصحيح
+",000,False,000,False,False,False,1,58
+"### | ..................................................... 
+",000,False,000,False,False,False,1,2311
+"### | الفصل السابع والعشرون: التأصيل
+",000,False,000,False,False,False,1,2847
+"### | الفصل الثامن والعشرون: التصحيح
+",000,False,000,False,False,False,1,1278
+"### | ............... 
+",000,False,000,False,False,False,1,996
+"### | المجلد الثاني
+",000,False,000,False,False,False,1,4
+"### | القسم الثاني: الكتاب ms117 المحقق (تابع)
+",000,False,000,False,False,False,1,10
+"### | الفصل التاسع والعشرون: قسمة المسائل بعد التصحيح
+",000,False,000,False,False,False,1,849
+"### | الفصل الثلاثون: في استخراج نصيب كل وارث من مبلغ التصحيح ms120 بعد التأصيل وقبل التصحيح
+",000,False,000,False,False,False,1,2330
+"### | الفصل الواحد والثلاثون: فصل في المناسخة
+",000,False,000,False,False,False,1,2348
+"### | الفصل الثاني والثلاثون: فصل في معرفة الاختصار من تصحيح المسألة حيث أمكن اختصاره
+",000,False,000,False,False,False,1,2029
+"### | الفصل الثالث والثلاثون: فصل في قسمة التركات
+",000,False,000,False,False,False,1,978
+"### | الفصل الرابع والثلاثون: فصل فيما إذا كان في التركة كسر
+",000,False,000,False,False,False,1,755
+"### | الفصل الخامس والثلاثون فصل في معرفة المصطلح في القيراط والحبة والدانق في مصر والشام
+",000,False,000,False,False,False,1,1067
+"### | الفصل السادس والثلاثون: في معرفة قسمة التركة إذا كانت جزءا من شيء واحد ليست أجزاؤه متفاضلة
+",000,False,000,False,False,False,1,438
+"### | الفصل السابع والثلاثون: فيما إذا كانت التركة نقدا وعلمت بعض التركة وأرادت أن تعلم جملة التركة
+",000,False,000,False,False,False,1,539
+"### | الفصل الثامن والثلاثون: فيما إذا اجتمع في تركة نقد وعرض فأخذ بعض الورثة بحصته منها النقد والآخر العرض
+",000,False,000,False,False,False,1,1098
+"### | الفصل التاسع والثلاثون: فيما إذا باع بعض الورثة نصيبه أو وهبه من سائرهم
+",000,False,000,False,False,False,1,824
+"### | الفصل الأربعون: فيما إذا كان لبعض الورثة دين على الميت وأخذ من التركة جزءا معلوما بدينه، وميراثه جميعا
+",000,False,000,False,False,False,1,608
+"### | الفصل الواحد والأربعون: فيما إذا كان على بعض الورثة دين لمورثه
+",000,False,000,False,False,False,1,712
+"### | الفصل الثاني والأربعون: في الولاء
+",000,False,000,False,False,False,1,4231
+"### | الفصل الثالث والأربعون: في حكم الحمل وحكم الإرث معه
+",000,False,000,False,False,False,1,1945
+"### | الفصل الرابع والأربعون: في حكم إرث المفقود والإرث معه والإرث منه
+",000,False,000,False,False,False,1,1134
+"### | الفصل الخامس والأربعون: في أحكام الخنثى المشكل وحكم إرث من معه من الورثة الواضحين
+",000,False,000,False,False,False,1,2471
+"### | الفصل السادس والأربعون: الرد
+",000,False,000,False,False,False,1,54
+"### | ...................................................................................................... 
+",000,False,000,False,False,False,1,1267
+"### | الفصل السابع والأربعون: كيفية توريث ذوي الأرحام
+",000,False,000,False,False,False,1,2778
+"### | الفصل الثامن والأربعون: ميراث الغرقى ونحوهم
+",000,False,000,False,False,False,1,89
+"### | ................................................................................................. 
+",000,False,000,False,False,False,1,290
+"### | الفصل التاسع والأربعون: الملقبات
+",000,False,000,False,False,False,1,2255
+"### | ....................................... 
+",000,False,000,False,False,False,1,4
+"### | .................................................. 
+",000,False,000,False,False,False,1,144

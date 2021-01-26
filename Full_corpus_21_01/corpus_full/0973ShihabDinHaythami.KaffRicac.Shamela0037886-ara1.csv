@@ -1,0 +1,113 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | عملي في الكتاب
+",000,False,000,False,False,False,1,6
+"### | 1 - 
+",000,False,000,False,False,False,1,11
+"### | 2 - 
+",000,False,000,False,False,False,1,19
+"### | 3 - 
+",000,False,000,False,False,False,1,21
+"### | 4 - 
+",000,False,000,False,False,False,1,19
+"### | 5 - 
+",000,False,000,False,False,False,1,166
+"### | وصف النسخة
+",000,False,000,False,False,False,1,4
+"### | 1 - 
+",000,False,000,False,False,False,1,2
+"### | 
+",000,False,000,False,False,False,1,0
+"### | النسخة الخطية (ز
+",000,False,000,False,False,False,1,94
+"### | 2 - 
+",000,False,000,False,False,False,1,131
+"### | أمثلة للأخطاء في النسختين (الخطية، والمطبوعة) وتم تصويبها من مصادر التحقيق:
+",000,False,000,False,False,False,1,213
+"### | أمثلة الأخطاء في النسخة المطبوعة وتم تصويبها من المخطوط أو من مصادر التحقيق:
+",000,False,000,False,False,False,1,89
+"### | 3 - 
+",000,False,000,False,False,False,1,37
+"### | ترجمة ابن حجر الهيتمي
+",000,False,000,False,False,False,1,8
+"### | اسمه
+",000,False,000,False,False,False,1,14
+"### | نسبه ومولده
+",000,False,000,False,False,False,1,33
+"### | شيوخه
+",000,False,000,False,False,False,1,77
+"### | ثناء العلماء عليه
+",000,False,000,False,False,False,1,121
+"### | ما أخذ العلماء عليه
+",000,False,000,False,False,False,1,30
+"### | تصانيفه
+",000,False,000,False,False,False,1,305
+"### | وفاته
+",000,False,000,False,False,False,1,39
+"### | تنبيه
+",000,False,000,False,False,False,1,34
+"### | صحة نسبة الكتاب إلى مؤلفه:
+",000,False,000,False,False,False,1,10
+"### | 1 - 
+",000,False,000,False,False,False,1,52
+"### | 2 - 
+",000,False,000,False,False,False,1,61
+"### | 3 - 
+",000,False,000,False,False,False,1,22
+"### | 4 - 
+",000,False,000,False,False,False,1,758
+"### | المقدمة
+",000,False,000,False,False,False,1,1435
+"### | الباب الأول: في أقسام الغناء المحرم وغيره
+",000,False,000,False,False,False,1,14
+"### | القسم الأول: في سماع مجرد الغناء من غير آلة
+",000,False,000,False,False,False,1,4028
+"### | القسم الثاني: في سماع الغناء المقترن برقص أو نحو دف أو مزمار أو وتر
+",000,False,000,False,False,False,1,2880
+"### | القسم الثالث: في قراءة ms038 القرآن بالألحان
+",000,False,000,False,False,False,1,1067
+"### | القسم الرابع: في الدف
+",000,False,000,False,False,False,1,1454
+"### | القسم الخامس: في الكوبة وسائر الطبول
+",000,False,000,False,False,False,1,1159
+"### | القسم السادس: في الضرب بالصفاقتين
+",000,False,000,False,False,False,1,223
+"### | القسم السابع: في الضرب بالقضيب على الوسائد
+",000,False,000,False,False,False,1,192
+"### | القسم الثامن: في التصفيق ببطن أحد الكفين على الآخر
+",000,False,000,False,False,False,1,262
+"### | القسم التاسع: الضرب بالأقلام على الصيني أو بإحدى قطعتين منه على الأخرى:
+",000,False,000,False,False,False,1,723
+"### | القسم العاشر: في الشبابة والزمارة وهي اليراع
+",000,False,000,False,False,False,1,2090
+"### | القسم الحادي عشر: الموصول
+",000,False,000,False,False,False,1,64
+"### | القسم الثاني عشر: المزمار العراقي وما يضرب به مع الأوتار
+",000,False,000,False,False,False,1,293
+"### | القسم الثالث عشر: الأوتار والمعازف
+",000,False,000,False,False,False,1,3846
+"### | القسم الرابع عشر: في بيان أن ما مر صغيرة أو كبيرة
+",000,False,000,False,False,False,1,967
+"### | الباب الثاني: في أقسام اللهو المحرم وغيره
+",000,False,000,False,False,False,1,193
+"### | القسم الأول: اللعب بالنرد
+",000,False,000,False,False,False,1,1522
+"### | القسم [الثاني]: اللعب بالشطرنج
+",000,False,000,False,False,False,1,5231
+"### | القسم الثالث: اللعب بالحزة والقرق
+",000,False,000,False,False,False,1,340
+"### | القسم الرابع: اللعب بما تسميه العامة الطاب والدك
+",000,False,000,False,False,False,1,218
+"### | القسم الخامس: اللعب بالكنجفة
+",000,False,000,False,False,False,1,65
+"### | القسم السادس: اللعب بالخاتم ونحوه
+",000,False,000,False,False,False,1,43
+"### | القسم السابع: اللعب بالجوز
+",000,False,000,False,False,False,1,112
+"### | القسم الثامن: اللعب بالحمام
+",000,False,000,False,False,False,1,409
+"### | القسم التاسع: اللعب بغير الحمام
+",000,False,000,False,False,False,1,86
+"### | القسم العاشر: اللعب بأمور أخرى في معنى ما مر
+",000,False,000,False,False,False,1,94
+"### | القسم الحادي عشر: اللعب بالمسابقة بالجري ونحوه وبالمصارعة ونحوها
+",000,False,000,False,False,False,1,573

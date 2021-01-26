@@ -1,0 +1,519 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | الإهداء
+",000,False,000,False,False,False,1,210
+"### | المقدمة
+",000,False,000,False,False,False,1,2092
+"### | 1- 
+",000,False,000,False,False,False,1,5
+"### | 2- 
+",000,False,000,False,False,False,1,19
+"### | 3- 
+",000,False,000,False,False,False,1,11
+"### | 4- 
+",000,False,000,False,False,False,1,5
+"### | 5- 
+",000,False,000,False,False,False,1,5
+"### | 6- 
+",000,False,000,False,False,False,1,5
+"### | 7- 
+",000,False,000,False,False,False,1,5
+"### | 8- 
+",000,False,000,False,False,False,1,356
+"### | (1) ع ز و [عزين]
+",000,False,000,False,False,False,1,55
+"### | (2) وس ل [الوسيلة]
+",000,False,000,False,False,False,1,52
+"### | (3) ن ه ج [منهاجا]
+",000,False,000,False,False,False,1,67
+"### | (4) ي ن ع [وينعه]
+",000,False,000,False,False,False,1,45
+"### | (5) ر ي ش [وريشا]
+",000,False,000,False,False,False,1,50
+"### | (6) ك ب د [كبد]
+",000,False,000,False,False,False,1,62
+"### | (7) س ن و [سنا]
+",000,False,000,False,False,False,1,56
+"### | (8) ح ف د [حفدة]
+",000,False,000,False,False,False,1,47
+"### | (9) ح ن ن [حنانا]
+",000,False,000,False,False,False,1,47
+"### | (10) ي أس [ييأس]
+",000,False,000,False,False,False,1,52
+"### | (11) ث ب ر [مثبورا]
+",000,False,000,False,False,False,1,62
+"### | (12) م خ ض [المخاض]
+",000,False,000,False,False,False,1,53
+"### | (13) ن د و [نديا]
+",000,False,000,False,False,False,1,53
+"### | (14) أث ث [أثاثا]
+",000,False,000,False,False,False,1,56
+"### | (15) ص ف ص ف [صفصفا]
+",000,False,000,False,False,False,1,47
+"### | (16) ض ح و [تضحى]
+",000,False,000,False,False,False,1,51
+"### | (17) خ ور [خوار]
+",000,False,000,False,False,False,1,53
+"### | (18) ون ي [تنيا]
+",000,False,000,False,False,False,1,63
+"### | (19) ع ر ر [والمعتر]
+",000,False,000,False,False,False,1,48
+"### | (20) ش ي د [مشيد]
+",000,False,000,False,False,False,1,55
+"### | (21) ش وظ [شواظ]
+",000,False,000,False,False,False,1,108
+"### | (22) ف ل ح [أفلح]
+",000,False,000,False,False,False,1,113
+"### | (24) ن ح س [نحاس]
+",000,False,000,False,False,False,1,63
+"### | (25) م ش ج [أمشاج]
+",000,False,000,False,False,False,1,60
+"### | (26) ف وم [وفومها]
+",000,False,000,False,False,False,1,92
+"### | (27) س م د [سامدون]
+",000,False,000,False,False,False,1,63
+"### | (28) غ ول [غول]
+",000,False,000,False,False,False,1,61
+"### | (29) وس ق [اتسق]
+",000,False,000,False,False,False,1,51
+"### | (30) خ ل د [خالدون]
+",000,False,000,False,False,False,1,88
+"### | (31) ج ف ن [وجفان]
+",000,False,000,False,False,False,1,62
+"### | (32) م ر ض [مرض]
+",000,False,000,False,False,False,1,58
+"### | (33) ل ز ب [لازب]
+",000,False,000,False,False,False,1,47
+"### | (34) ن د د [أندادا]
+",000,False,000,False,False,False,1,73
+"### | (35) ش وب [شوبا]
+",000,False,000,False,False,False,1,47
+"### | (36) ق ط ن [قطنا]
+",000,False,000,False,False,False,1,45
+"### | (37) ط ل ق [الطلاق]
+",000,False,000,False,False,False,1,131
+"### | (38) س ن ن [مسنون]
+",000,False,000,False,False,False,1,65
+"### | (39) ب أس [البائس]
+",000,False,000,False,False,False,1,55
+"### | (40) غ د ق [غدقا]
+",000,False,000,False,False,False,1,43
+"### | (41) ق ب س [قبس]
+",000,False,000,False,False,False,1,105
+"### | (42) أل م [أليم]
+",000,False,000,False,False,False,1,56
+"### | (43) ق ف و [وقفينا]
+",000,False,000,False,False,False,1,63
+"### | (44) ر د ى [تردى]
+",000,False,000,False,False,False,1,60
+"### | (45) ن ه ر [ونهر]
+",000,False,000,False,False,False,1,46
+"### | (46) ان م [للأنام]
+",000,False,000,False,False,False,1,53
+"### | (47) ح ور [يحور]
+",000,False,000,False,False,False,1,48
+"### | (48) ع ول [تعولوا]
+",000,False,000,False,False,False,1,47
+"### | (49) ل وم [مليم]
+",000,False,000,False,False,False,1,55
+"### | (50) ع ف و [يعفو]
+",000,False,000,False,False,False,1,76
+"### | (51) ح س س [تحسونهم]
+",000,False,000,False,False,False,1,70
+"### | (52) ل ف و [ألفينا]
+",000,False,000,False,False,False,1,59
+"### | (53) ج ن ف [جنفا]
+",000,False,000,False,False,False,1,59
+"### | (54) ب أس [بالبأساء]
+",000,False,000,False,False,False,1,55
+"### | (55) ر م ز [رمزا]
+",000,False,000,False,False,False,1,47
+"### | (56) ف وز [فاز]
+",000,False,000,False,False,False,1,56
+"### | (57) س وو [سواء]
+",000,False,000,False,False,False,1,51
+"### | (58) س ن و [سنة]
+",000,year,000,False,False,False,1,67
+"### | (59) خ ل ق [خلاق]
+",000,False,000,False,False,False,1,78
+"### | (60) ق ن ت [قانتون]
+",000,False,000,False,False,False,1,58
+"### | (61) ج د د [جد]
+",000,False,000,False,False,False,1,76
+"### | (62) ان ي [آن]
+",000,False,000,False,False,False,1,58
+"### | (63) س ل ق [سلقوكم]
+",000,False,000,False,False,False,1,49
+"### | (64) ك د ي [وأكدى]
+",000,False,000,False,False,False,1,51
+"### | (65) ش ح ن [المشحون]
+",000,False,000,False,False,False,1,54
+"### | (66) ز ن م [زنيم]
+",000,False,000,False,False,False,1,48
+"### | (67) ق د د [قددا]
+",000,False,000,False,False,False,1,54
+"### | (68) ف ل ق [الفلق]
+",000,False,000,False,False,False,1,64
+"### | (69) وز ر [وزر]
+",000,False,000,False,False,False,1,59
+"### | (70) ن ح ب [نحبه]
+",000,False,000,False,False,False,1,48
+"### | (71) ز وج [زوج]
+",000,False,000,False,False,False,1,57
+"### | (72) م ر ر [مرة]
+",000,False,000,False,False,False,1,57
+"### | (73) ع ص ر [المعصرات]
+",000,False,000,False,False,False,1,53
+"### | (74) ع ض د [عضدك]
+",000,False,000,False,False,False,1,62
+"### | (75) غ ب ر [الغابرين]
+",000,False,000,False,False,False,1,56
+"### | (76) ن ص ب [الأنصاب]
+",000,False,000,False,False,False,1,55
+"### | (77) ص د ف [يصدفون]
+",000,False,000,False,False,False,1,69
+"### | (78) اس ى [تأس]
+",000,False,000,False,False,False,1,56
+"### | (79) ب س ل [تبسل]
+",000,False,000,False,False,False,1,63
+"### | (80) اف ل [أفلت]
+",000,False,000,False,False,False,1,58
+"### | (81) ص ر م [كالصريم]
+",000,False,000,False,False,False,1,50
+"### | (82) ف ت أ [تفتؤا]
+",000,False,000,False,False,False,1,59
+"### | (83) م ل ق [إملاق]
+",000,False,000,False,False,False,1,42
+"### | (84) ح د ق [حدائق]
+",000,False,000,False,False,False,1,52
+"### | (85) ق وت [مقيتا]
+",000,False,000,False,False,False,1,57
+"### | (86) س ر ى [سريا]
+",000,False,000,False,False,False,1,57
+"### | (87) اود [يؤده]
+",000,False,000,False,False,False,1,43
+"### | (88) د ه ق [دهاقا]
+",000,False,000,False,False,False,1,52
+"### | (89) ك ن د [لكنود]
+",000,False,000,False,False,False,1,63
+"### | (90) ن غ ض [فسينغضون]
+",000,False,000,False,False,False,1,50
+"### | (91) ه ر ع [يهرعون]
+",000,False,000,False,False,False,1,51
+"### | (92) ر ف د [الرفد]
+",000,False,000,False,False,False,1,59
+"### | (93) ت ب ب [تتبيب]
+",000,False,000,False,False,False,1,57
+"### | (94) ه ي ت [هيت]
+",000,False,000,False,False,False,1,60
+"### | (95) ع ص ب [عصيب]
+",000,False,000,False,False,False,1,54
+"### | (96) س أم [يسأمون]
+",000,False,000,False,False,False,1,50
+"### | (97) وص د [مؤصدة]
+",000,False,000,False,False,False,1,45
+"### | (98) أب ل [أبابيل]
+",000,False,000,False,False,False,1,48
+"### | (99) ث ق ف [ثقفتموهم]
+",000,False,000,False,False,False,1,52
+"### | (100) ن ق ع [نقعا]
+",000,False,000,False,False,False,1,59
+"### | (101) س وو [سواء]
+",000,False,000,False,False,False,1,41
+"### | (102) خ ض د [مخضود]
+",000,False,000,False,False,False,1,47
+"### | (103) ه ض م [هضيم]
+",000,False,000,False,False,False,1,53
+"### | (104) س د د [سديدا]
+",000,False,000,False,False,False,1,51
+"### | (105) أل ل [إلا]
+",000,False,000,False,False,False,1,45
+"### | (106) س ف ل [أسفل]
+",000,False,000,False,False,False,1,56
+"### | (107) خ م د [خامدين]
+",000,False,000,False,False,False,1,55
+"### | (108) ح د ب [حدب]
+",000,False,000,False,False,False,1,57
+"### | (109) ز ب ر [زبر]
+",000,False,000,False,False,False,1,54
+"### | (110) س ح ق [فسحقا]
+",000,False,000,False,False,False,1,63
+"### | (111) ح ن ف [حنيفا]
+",000,False,000,False,False,False,1,62
+"### | (112) غ ر ر [غرور]
+",000,False,000,False,False,False,1,64
+"### | (113) ح ص ر [حصورا]
+",000,False,000,False,False,False,1,55
+"### | (114) ص ع ق [الصاعقة]
+",000,False,000,False,False,False,1,56
+"### | (115) س وم [مسومين]
+",000,False,000,False,False,False,1,59
+"### | (116) ق م ط ر [قمطريرا]
+",000,False,000,False,False,False,1,57
+"### | (117) س وق [ساق]
+",000,False,000,False,False,False,1,58
+"### | (118) أوب [إيابهم]
+",000,False,000,False,False,False,1,52
+"### | (119) ص وع [صواع]
+",000,False,000,False,False,False,1,55
+"### | (120) ح وب [حوبا]
+",000,False,000,False,False,False,1,45
+"### | (121) ع ن ت [العنت]
+",000,False,000,False,False,False,1,65
+"### | (122) ف ت ل [فتيلا]
+",000,False,000,False,False,False,1,80
+"### | (123) ق ط م ر [قطمير]
+",000,False,000,False,False,False,1,73
+"### | (124) ث ب ت [ثبات]
+",000,False,000,False,False,False,1,55
+"### | (125) ر ك س [أركسهم]
+",000,False,000,False,False,False,1,49
+"### | (126) أم ر [أمرنا]
+",000,False,000,False,False,False,1,45
+"### | (127) ف ت ن [يفتنكم]
+",000,False,000,False,False,False,1,63
+"### | (128) خ ن ق [والمنخنقة]
+",000,False,000,False,False,False,1,58
+"### | (129) غ ن ي [يغنوا]
+",000,False,000,False,False,False,1,63
+"### | (130) ه ون [الهون]
+",000,False,000,False,False,False,1,42
+"### | (131) ن ق ر [نقيرا]
+",000,False,000,False,False,False,1,65
+"### | (132) ف ر ض [فارض]
+",000,False,000,False,False,False,1,45
+"### | (133) خ ي ط [الخيط ms31]
+",000,False,000,False,False,False,1,54
+"### | (134) ي م م [تيمموا]
+",000,False,000,False,False,False,1,77
+"### | (135) ش ر ى [شروا]
+",000,False,000,False,False,False,1,60
+"### | (136) ع ر ب [عربا]
+",000,False,000,False,False,False,1,62
+"### | (137) ح س ب [حسبانا]
+",000,False,000,False,False,False,1,54
+"### | (138) ع ن ت [وعنت]
+",000,False,000,False,False,False,1,62
+"### | (139) ض ن ك [ضنكا]
+",000,False,000,False,False,False,1,58
+"### | (140) ف ج ج [فج]
+",000,False,000,False,False,False,1,59
+"### | (141) س م ر [سامرا]
+",000,False,000,False,False,False,1,53
+"### | (142) ن ح س [نحس]
+",000,False,000,False,False,False,1,60
+"### | (143) ح ب ك [الحبك]
+",000,False,000,False,False,False,1,50
+"### | (144) ش ر ق [والإشراق]
+",000,False,000,False,False,False,1,55
+"### | (145) ح ر ض [حرضا]
+",000,False,000,False,False,False,1,59
+"### | (146) ي ت م [اليتيم]
+",000,False,000,False,False,False,1,56
+"### | (147) ف ط ر [منفطر]
+",000,False,000,False,False,False,1,56
+"### | (148) وز ع [يوزعون]
+",000,False,000,False,False,False,1,58
+"### | (149) خ ب و [خبت]
+",000,False,000,False,False,False,1,57
+"### | (150) م ه ل [كالمهل]
+",000,False,000,False,False,False,1,50
+"### | (151) س ر ي [أسرى]
+",000,False,000,False,False,False,1,77
+"### | (152) وب ل [وبيلا]
+",000,False,000,False,False,False,1,53
+"### | (153) ن ق ب [فنقبوا]
+",000,False,000,False,False,False,1,49
+"### | (154) ه م س [همسا]
+",000,False,000,False,False,False,1,57
+"### | (155) ش غ ف [شغفها]
+",000,False,000,False,False,False,1,55
+"### | (156) ق م ح [مقمحون]
+",000,False,000,False,False,False,1,52
+"### | (157) م ر ج [مريج]
+",000,False,000,False,False,False,1,53
+"### | (158) ث ج ج [ثجاجا]
+",000,False,000,False,False,False,1,59
+"### | (159) ح س ر [محسورا]
+",000,False,000,False,False,False,1,61
+"### | (160) ح ج ج [الحج]
+",000,False,000,False,False,False,1,74
+"### | (161) ح س م [حسوما]
+",000,False,000,False,False,False,1,58
+"### | (162) ح ت م [حتما]
+",000,False,000,False,False,False,1,50
+"### | (163) ح ور [وحور]
+",000,False,000,False,False,False,1,50
+"### | (164) ز م ه ر [زمهريرا]
+",000,False,000,False,False,False,1,62
+"### | (165) غ ر م [غراما]
+",000,False,000,False,False,False,1,61
+"### | (166) ج ب ر [جبار]
+",000,False,000,False,False,False,1,51
+"### | (167) ه ز ل [بالهزل]
+",000,False,000,False,False,False,1,59
+"### | (168) ت ر ب [والترائب]
+",000,False,000,False,False,False,1,53
+"### | (169) ب ور [بورا]
+",000,False,000,False,False,False,1,48
+"### | (170) وض ن [موضونة]
+",000,False,000,False,False,False,1,54
+"### | (171) خ ص م [الخصام]
+",000,False,000,False,False,False,1,61
+"### | (172) ح ن ذ [حنيذ]
+",000,False,000,False,False,False,1,55
+"### | (173) ج د ث [الأجداث]
+",000,False,000,False,False,False,1,50
+"### | (174) ه ل ع [هلوعا]
+",000,False,000,False,False,False,1,61
+"### | (175) ن وص [مناص]
+",000,False,000,False,False,False,1,54
+"### | (176) د س ر [دسر]
+",000,False,000,False,False,False,1,45
+"### | (177) ر ك ز [ركزا]
+",000,False,000,False,False,False,1,46
+"### | (178) ب س ر [باسرة]
+",000,False,000,False,False,False,1,51
+"### | (179) ن س ل [ينسلون]
+",000,False,000,False,False,False,1,57
+"### | (180) ع ن ق [أعناقهم]
+",000,False,000,False,False,False,1,61
+"### | (181) ض ي ز [ضيزى]
+",000,False,000,False,False,False,1,60
+"### | (182) أن ي [إناه]
+",000,False,000,False,False,False,1,101
+"### | (183) س ن ه[يتسنه]
+",000,False,000,False,False,False,1,70
+"### | (184) خ ت ر [ختار]
+",000,False,000,False,False,False,1,46
+"### | (185) ق ط ر [القطر]
+",000,False,000,False,False,False,1,65
+"### | (186) خ م ط [خمط]
+",000,False,000,False,False,False,1,43
+"### | (187) ج د د [جدد]
+",000,False,000,False,False,False,1,52
+"### | (188) ش م ز [اشمأزت]
+",000,False,000,False,False,False,1,61
+"### | (189) أب و [آباءنا]
+",000,False,000,False,False,False,1,55
+"### | (190) ل ي ت [يلتكم]
+",000,False,000,False,False,False,1,51
+"### | (191) ه ي م [الهيم]
+",000,False,000,False,False,False,1,69
+"### | (192) أب ب [وأبا]
+",000,False,000,False,False,False,1,45
+"### | (193) د ك ك [دكة]
+",000,False,000,False,False,False,1,56
+"### | (194) س ر ر [سرا]
+",000,False,000,False,False,False,1,46
+"### | (195) س وم [تسيمون]
+",000,False,000,False,False,False,1,41
+"### | (196) ط م ث [يطمثهن]
+",000,False,000,False,False,False,1,61
+"### | (197) ر ج و [ترجون]
+",000,False,000,False,False,False,1,48
+"### | (198) ت ر ب [متربة]
+",000,False,000,False,False,False,1,55
+"### | (199) ه ط ع [مهطعين]
+",000,False,000,False,False,False,1,45
+"### | (200) س م و [سميا]
+",000,False,000,False,False,False,1,56
+"### | (201) ص ه ر [يصهر]
+",000,False,000,False,False,False,1,61
+"### | (202) ع ب د [العابدين]
+",000,False,000,False,False,False,1,61
+"### | (203) ن وأ [لتنوء]
+",000,False,000,False,False,False,1,51
+"### | (204) ح م ل [حمولة]
+",000,False,000,False,False,False,1,63
+"### | (205) د ب ر [دابر]
+",000,False,000,False,False,False,1,45
+"### | (206) ع ف و [العفو]
+",000,False,000,False,False,False,1,66
+"### | (207) ب ن ن [بنان]
+",000,False,000,False,False,False,1,74
+"### | (208) م ك ى [مكاء]
+",000,False,000,False,False,False,1,112
+"### | (209) ل ب س [لباس]
+",000,False,000,False,False,False,1,59
+"### | (210) ن س ل [والنسل]
+",000,False,000,False,False,False,1,43
+"### | (211) ع ص ر [إعصار]
+",000,False,000,False,False,False,1,52
+"### | (212) ن ع ق [ينعق]
+",000,False,000,False,False,False,1,66
+"### | (213) ش ج ر [شجر]
+",000,False,000,False,False,False,1,58
+"### | (214) ر غ م [مراغما]
+",000,False,000,False,False,False,1,54
+"### | (215) ص ل د [صلدا]
+",000,False,000,False,False,False,1,66
+"### | (216) أص ر [إصرا]
+",000,False,000,False,False,False,1,68
+"### | (217) ب وأ [تبوء]
+",000,False,000,False,False,False,1,50
+"### | (218) م ن ن [ممنون]
+",000,False,000,False,False,False,1,51
+"### | (219) ج وب [جابوا]
+",000,False,000,False,False,False,1,61
+"### | (220) ج م م [جما]
+",000,False,000,False,False,False,1,59
+"### | (221) ك ث ر [الكوثر]
+",000,False,000,False,False,False,1,162
+"### | (222) غ س ق [غاسق]
+",000,False,000,False,False,False,1,74
+"### | (223) ع م ه[يعمهون]
+",000,False,000,False,False,False,1,54
+"### | (224) م ر ض [مرض]
+",000,False,000,False,False,False,1,55
+"### | (225) ب ر أ [بارئكم]
+",000,False,000,False,False,False,1,54
+"### | (226) ر ي ب [ريب]
+",000,False,000,False,False,False,1,69
+"### | (227) غ ي ب [بالغيب]
+",000,False,000,False,False,False,1,61
+"### | (228) خ ت م [ختم]
+",000,False,000,False,False,False,1,50
+"### | (229) ص ف ر [صفراء]
+",000,False,000,False,False,False,1,58
+"### | (230) وق ت [مواقيت]
+",000,False,000,False,False,False,1,44
+"### | (231) ص ف و [صفوان]
+",000,False,000,False,False,False,1,66
+"### | (232) ق ن ط ر [بقنطار]
+",000,False,000,False,False,False,1,62
+"### | (233) ن ق ذ [فأنقذكم]
+",000,False,000,False,False,False,1,67
+"### | (234) ص ر ر [صر]
+",000,False,000,False,False,False,1,47
+"### | (235) ب وأ [تبوئ ms48]
+",000,False,000,False,False,False,1,53
+"### | (236) ر ب ب [ربيون]
+",000,False,000,False,False,False,1,52
+"### | (237) ل م س [لامستم]
+",000,False,000,False,False,False,1,58
+"### | (238) ط م س [نطمس]
+",000,False,000,False,False,False,1,56
+"### | (239) ن ع م [الأنعام]
+",000,False,000,False,False,False,1,51
+"### | (240) وق ذ [والموقوذة]
+",000,False,000,False,False,False,1,69
+"### | (241) ز ل م [بالأزلام]
+",000,False,000,False,False,False,1,71
+"### | (242) خ م ص [مخمصة]
+",000,False,000,False,False,False,1,41
+"### | (243) ن ق ب [نقيبا]
+",000,False,000,False,False,False,1,56
+"### | (244) ن ف ق [نفقا]
+",000,False,000,False,False,False,1,56
+"### | (245) غ ر ر [غرورا]
+",000,False,000,False,False,False,1,60
+"### | (246) ق ر ف [وليقترفوا]
+",000,False,000,False,False,False,1,62
+"### | (247) ر ج س [رجس]
+",000,False,000,False,False,False,1,54
+"### | (248) ق م ل [والقمل]
+",000,False,000,False,False,False,1,59
+"### | (249) ب ج س [فانبجست]
+",000,False,000,False,False,False,1,57
+"### | (250) خ ف ي [أخفيها]
+",000,False,000,False,False,False,1,175

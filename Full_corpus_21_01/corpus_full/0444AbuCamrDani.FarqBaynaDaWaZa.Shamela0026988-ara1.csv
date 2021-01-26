@@ -1,0 +1,213 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | مقدمة [المحقق]
+",000,False,000,False,False,False,1,30
+"### | 1 - 
+",000,False,000,False,False,False,1,9
+"### | 2 - 
+",000,False,000,False,False,False,1,9
+"### | 3 - 
+",000,False,000,False,False,False,1,7
+"### | 4 - 
+",000,False,000,False,False,False,1,15
+"### | 5 - 
+",000,False,000,False,False,False,1,15
+"### | 6 - 
+",000,False,000,False,False,False,1,11
+"### | 7 - 
+",000,False,000,False,False,False,1,11
+"### | 8 - 
+",000,False,000,False,False,False,1,19
+"### | 9 - 
+",000,False,000,False,False,False,1,11
+"### | 10 - 
+",000,False,000,False,False,False,1,11
+"### | 11 - 
+",000,False,000,False,False,False,1,7
+"### | 12 - 
+",000,False,000,False,False,False,1,66
+"### | المؤلف
+",000,False,000,False,False,False,1,74
+"### | الكتاب
+",000,False,000,False,False,False,1,421
+"### | ملاحظات ومآخذ على طبعة كشك
+",000,False,000,False,False,False,1,245
+"### | 61/ 12 - 13 
+",000,False,000,False,False,False,1,249
+"### | 66/ 4 - 5 
+",000,False,000,False,False,False,1,271
+"### | 88/ 6 - 8 
+",000,False,000,False,False,False,1,68
+"### | 92/ 4 - 5 
+",000,False,000,False,False,False,1,46
+"### | 94/ 2 - 3 
+",000,False,000,False,False,False,1,80
+"### | 95/ 1 - 2 
+",000,False,000,False,False,False,1,78
+"### | 99/ 12 - 13 
+",000,False,000,False,False,False,1,26
+"### | 100/ 1 - 2 
+",000,False,000,False,False,False,1,548
+"### | مخطوطتا الكتاب
+",000,False,000,False,False,False,1,4
+"### | الأولى: نسخة الأزهرية: (الأصل)
+",000,False,000,False,False,False,1,66
+"### | الثانية: نسخة المكتبة الوطنية بمدريد: (م)
+",000,False,000,False,False,False,1,513
+"### | باب ذكر الفرق بين الضاد والظاء في المخرج، وحال كل واحد منهما
+",000,False,000,False,False,False,1,276
+"### | فصل
+",000,False,000,False,False,False,1,126
+"### | باب ذكر ال
+",000,False,000,False,False,False,1,6
+"### | فصل
+",000,False,000,False,False,False,1,440
+"### | فصل
+",000,False,000,False,False,False,1,128
+"### | باب ذكر ال
+",000,False,000,False,False,False,1,6
+"### | فصل
+",000,False,000,False,False,False,1,75
+"### | فصل
+",000,False,000,False,False,False,1,72
+"### | باب ذكر ال
+",000,False,000,False,False,False,1,6
+"### | فصل
+",000,False,000,False,False,False,1,87
+"### | 
+",000,False,000,False,False,False,1,0
+"### | فصل
+",000,False,000,False,False,False,1,41
+"### | فصل
+",000,False,000,False,False,False,1,112
+"### | باب ذكر ال
+",000,False,000,False,False,False,1,6
+"### | فصل
+",000,False,000,False,False,False,1,438
+"### | فصل
+",000,False,000,False,False,False,1,38
+"### | باب ذكر ال
+",000,False,000,False,False,False,1,6
+"### | فصل
+",000,False,000,False,False,False,1,100
+"### | فصل
+",000,False,000,False,False,False,1,81
+"### | باب ذكر ال
+",000,False,000,False,False,False,1,6
+"### | فصل
+",000,False,000,False,False,False,1,146
+"### | فصل
+",000,False,000,False,False,False,1,215
+"### | باب ذكر الفصل الثامن، وهو الانتظار وما تصرف منه
+",000,False,000,False,False,False,1,34
+"### | باب ذكر الفصل التاسع، وهو الحفظ والمحافظة وما تصرف من ذلك
+",000,False,000,False,False,False,1,187
+"### | باب ذكر ال
+",000,False,000,False,False,False,1,6
+"### | فصل
+",000,False,000,False,False,False,1,61
+"### | فصل
+",000,False,000,False,False,False,1,55
+"### | باب ذكر الفصل الحادي عشر، وهو الظل والظلال وما تصرف من ذلك
+",000,False,000,False,False,False,1,121
+"### | باب ذكر الفصل الثاني عشر، وهو الظلة والظلل
+",000,False,000,False,False,False,1,93
+"### | باب ذكر الفصل الثالث عشر، وهو الظلم والتظالم وما تصرف منه
+",000,False,000,False,False,False,1,327
+"### | باب ذكر الفصل الرابع عشر، وهو الظلمة والظلام والإظلام وما تصرف من ذلك
+",000,False,000,False,False,False,1,79
+"### | باب ذكر الفصل الخامس عشر، وهو العظم، واحد العظام
+",000,False,000,False,False,False,1,53
+"### | باب ذكر الفصل السادس عشر، وهو العظم والعظمة وما اشتق من ذلك
+",000,False,000,False,False,False,1,62
+"### | باب ذكر الفصل السابع عشر، وهو الظهر من الإنسان والدابة والأرض
+",000,False,000,False,False,False,1,105
+"### | باب ذكر الفصل الثامن عشر، وهو الإظهار (1) والظهور كله وما تصرف من ذلك
+",000,False,000,False,False,False,1,77
+"### | باب ذكر الفصل التاسع عشر، وهو الظهار، مأخوذ من الظهر
+",000,False,000,False,False,False,1,70
+"### | باب ذكر الفصل الموفي عشرين (1)، وهو المظاهرة والتظاهر وما تصرف من ذلك
+",000,False,000,False,False,False,1,64
+"### | باب ذكر الفصل الحادي والعشرين، وهو الظمأ وما تصرف منه
+",000,False,000,False,False,False,1,75
+"### | باب ذكر الفصل الثاني والعشرين، وهو الغلظ والغلظة وما تصرف من ذلك
+",000,False,000,False,False,False,1,84
+"### | باب ذكر الفصل الثالث والعشرين، وهو الظهر والظهيرة
+",000,False,000,False,False,False,1,67
+"### | باب ذكر الفصل الرابع والعشرين، وهو اليقظة ضد النوم
+",000,False,000,False,False,False,1,58
+"### | باب ذكر الفصل الخامس والعشرين، وهو ms21 الظعن
+",000,False,000,False,False,False,1,73
+"### | باب ذكر الفصل السادس والعشرين، وهو الحظر
+",000,False,000,False,False,False,1,75
+"### | باب ذكر ال
+",000,False,000,False,False,False,1,6
+"### | فصل
+",000,False,000,False,False,False,1,42
+"### | فصل
+",000,False,000,False,False,False,1,58
+"### | باب ذكر الفصل (1) الثامن والعشرين، وهو الظفر
+",000,False,000,False,False,False,1,51
+"### | باب ذكر الفصل التاسع والعشرين، وهو اللفظ
+",000,False,000,False,False,False,1,69
+"### | باب ذكر الفصل الموفي ثلاثين (1)، وهو الفظ
+",000,False,000,False,False,False,1,45
+"### | باب ذكر الفصل الحادي والثلاثين، وهو الشواظ
+",000,False,000,False,False,False,1,62
+"### | باب ذكر الفصل الثاني والثلاثين، وهو قوله، عز وجل في سورة المعارج: كلا إنها لظى 
+",000,False,000,False,False,False,1,143
+"### | باب ما ورد من حرف الظاء في المتعارف من الكلام دون القرآن، سوى ما قدمناه في الفصول المتقدمة
+",000,False,000,False,False,False,1,1098
+"### | الفهارس العامة
+",000,False,000,False,False,False,1,21
+"### | فهرس الآيات القرآنية
+",000,False,000,False,False,False,1,867
+"### | فهرس الأحاديث الشريفة
+",000,False,000,False,False,False,1,74
+"### | فهرس الأعلام
+",000,False,000,False,False,False,1,99
+"### | فهرس الأماكن
+",000,False,000,False,False,False,1,12
+"### | فهرس الفرق
+",000,False,000,False,False,False,1,7
+"### | فهرس القبائل
+",000,False,000,False,False,False,1,11
+"### | فهرس الأمثال
+",000,False,000,False,False,False,1,15
+"### | فهرس الأقوال
+",000,False,000,False,False,False,1,48
+"### | فهرس القوافي
+",000,False,000,False,False,False,1,57
+"### | فهرس اللغة
+",000,False,000,False,False,False,1,635
+"### | فهرس الموضوعات
+",000,False,000,False,False,False,1,422
+"### | ثبت المصادر
+",000,False,000,False,False,False,1,2479
+"### | فهرس الفهارس
+",000,False,000,False,False,False,1,4
+"### | 1 - 
+",000,False,000,False,False,False,1,9
+"### | 2 - 
+",000,False,000,False,False,False,1,9
+"### | 3 - 
+",000,False,000,False,False,False,1,7
+"### | 4 - 
+",000,False,000,False,False,False,1,7
+"### | 5 - 
+",000,False,000,False,False,False,1,7
+"### | 6 - 
+",000,False,000,False,False,False,1,7
+"### | 7 - 
+",000,False,000,False,False,False,1,7
+"### | 8 - 
+",000,False,000,False,False,False,1,7
+"### | 9 - 
+",000,False,000,False,False,False,1,7
+"### | 10 - 
+",000,False,000,False,False,False,1,7
+"### | 11 - 
+",000,False,000,False,False,False,1,7
+"### | 12 - 
+",000,False,000,False,False,False,1,7
+"### | 13 - 
+",000,False,000,False,False,False,1,9

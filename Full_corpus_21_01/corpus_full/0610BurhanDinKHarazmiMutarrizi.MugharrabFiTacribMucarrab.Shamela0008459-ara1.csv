@@ -1,0 +1,1275 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [مقدمة الكتاب]
+",000,False,000,False,False,False,1,438
+"### | [باب الهمزة]
+",000,False,000,False,False,False,1,4
+"### | [الهمزة مع الباء]
+",000,False,000,False,False,False,1,362
+"### | [الهمزة مع التاء]
+",000,False,000,False,False,False,1,276
+"### | [الهمزة مع الثاء]
+",000,False,000,False,False,False,1,160
+"### | [الهمزة مع الجيم]
+",000,False,000,False,False,False,1,441
+"### | [الهمزة مع الحاء]
+",000,False,000,False,False,False,1,44
+"### | [الهمزة مع الخاء ms006]
+",000,False,000,False,False,False,1,128
+"### | [الهمزة مع الدال]
+",000,False,000,False,False,False,1,143
+"### | [الهمزة مع الذال]
+",000,False,000,False,False,False,1,145
+"### | [الهمزة مع الراء]
+",000,False,000,False,False,False,1,308
+"### | [الهمزة مع الزاي]
+",000,False,000,False,False,False,1,122
+"### | [الهمزة مع السين]
+",000,False,000,False,False,False,1,258
+"### | [الهمزة مع الطاء]
+",000,False,000,False,False,False,1,54
+"### | [الهمزة مع الغين]
+",000,False,000,False,False,False,1,48
+"### | [الهمزة مع الفاء]
+",000,False,000,False,False,False,1,92
+"### | [الهمزة مع الكاف]
+",000,False,000,False,False,False,1,199
+"### | [الهمزة مع اللام]
+",000,False,000,False,False,False,1,147
+"### | [الهمزة مع الميم]
+",000,False,000,False,False,False,1,390
+"### | [الهمزة مع النون ms013]
+",000,False,000,False,False,False,1,167
+"### | [الهمزة مع الواو]
+",000,False,000,False,False,False,1,230
+"### | [الهمزة مع الهاء]
+",000,False,000,False,False,False,1,146
+"### | [الهمزة مع الياء]
+",000,False,000,False,False,False,1,205
+"### | [باب الباء]
+",000,False,000,False,False,False,1,4
+"### | [الباء مع الهمزة]
+",000,False,000,False,False,False,1,107
+"### | [الباء مع التاء]
+",000,False,000,False,False,False,1,178
+"### | [الباء مع الثاء]
+",000,False,000,False,False,False,1,60
+"### | [الباء مع الحاء]
+",000,False,000,False,False,False,1,182
+"### | [الباء مع الخاء]
+",000,False,000,False,False,False,1,207
+"### | [الباء مع الدال]
+",000,False,000,False,False,False,1,594
+"### | [الباء مع الذال]
+",000,False,000,False,False,False,1,145
+"### | [الباء مع الراء]
+",000,False,000,False,False,False,1,1001
+"### | [الباء مع الزاي]
+",000,False,000,False,False,False,1,239
+"### | [الباء مع السين المهملة]
+",000,False,000,False,False,False,1,108
+"### | [الباء مع الشين المعجمة]
+",000,False,000,False,False,False,1,161
+"### | [الباء مع الصاد المهملة]
+",000,False,000,False,False,False,1,103
+"### | [الباء مع الضاد المعجمة]
+",000,False,000,False,False,False,1,195
+"### | [الباء مع الطاء المهملة]
+",000,False,000,False,False,False,1,198
+"### | [الباء مع الظاء المعجمة]
+",000,False,000,False,False,False,1,64
+"### | [الباء مع العين]
+",000,False,000,False,False,False,1,257
+"### | [الباء مع الغين المعجمة]
+",000,False,000,False,False,False,1,111
+"### | [الباء مع القاف]
+",000,False,000,False,False,False,1,221
+"### | [الباء مع الكاف]
+",000,False,000,False,False,False,1,104
+"### | [الباء مع اللام]
+",000,False,000,False,False,False,1,416
+"### | [الباء مع النون]
+",000,False,000,False,False,False,1,290
+"### | [الباء مع الواو]
+",000,False,000,False,False,False,1,390
+"### | [الباء مع الهاء]
+",000,False,000,False,False,False,1,349
+"### | [الباء مع الياء]
+",000,False,000,False,False,False,1,669
+"### | [باب التاء]
+",000,False,000,False,False,False,1,4
+"### | [التاء مع الهمزة]
+",000,False,000,False,False,False,1,95
+"### | [التاء مع الباء ms038]
+",000,False,000,False,False,False,1,182
+"### | [التاء مع الجيم]
+",000,False,000,False,False,False,1,31
+"### | [التاء مع الخاء]
+",000,False,000,False,False,False,1,51
+"### | [التاء مع الراء]
+",000,False,000,False,False,False,1,230
+"### | [التاء مع السين]
+",000,False,000,False,False,False,1,19
+"### | [التاء مع العين]
+",000,False,000,False,False,False,1,40
+"### | [التاء مع الفاء]
+",000,False,000,False,False,False,1,78
+"### | [التاء مع القاف]
+",000,False,000,False,False,False,1,62
+"### | [التاء مع اللام]
+",000,False,000,False,False,False,1,115
+"### | [التاء مع الميم]
+",000,False,000,False,False,False,1,343
+"### | [التاء مع النون]
+",000,False,000,False,False,False,1,26
+"### | [التاء مع الواو]
+",000,False,000,False,False,False,1,193
+"### | [التاء مع الياء]
+",000,False,000,False,False,False,1,123
+"### | [باب الثاء المثلثة]
+",000,False,000,False,False,False,1,6
+"### | [الثاء مع الهمزة]
+",000,False,000,False,False,False,1,86
+"### | [الثاء مع الباء]
+",000,False,000,False,False,False,1,109
+"### | [الثاء مع التاء الفوقانية]
+",000,False,000,False,False,False,1,26
+"### | [الثاء مع الجيم]
+",000,False,000,False,False,False,1,35
+"### | [الثاء مع الخاء]
+",000,False,000,False,False,False,1,31
+"### | [الثاء مع الدال]
+",000,False,000,False,False,False,1,95
+"### | [الثاء مع الراء المهملة]
+",000,False,000,False,False,False,1,50
+"### | [الثاء مع الطاء]
+",000,False,000,False,False,False,1,23
+"### | [الثاء مع العين المهملة]
+",000,False,000,False,False,False,1,114
+"### | [الثاء مع الغين المعجمة]
+",000,False,000,False,False,False,1,58
+"### | [الثاء مع الفاء]
+",000,False,000,False,False,False,1,152
+"### | [الثاء مع القاف]
+",000,False,000,False,False,False,1,128
+"### | [الثاء مع الكاف]
+",000,False,000,False,False,False,1,23
+"### | [الثاء مع اللام]
+",000,False,000,False,False,False,1,65
+"### | [الثاء مع الميم]
+",000,False,000,False,False,False,1,418
+"### | [الثاء مع النون]
+",000,False,000,False,False,False,1,401
+"### | [الثاء مع الواو]
+",000,False,000,False,False,False,1,391
+"### | [الثاء مع الياء]
+",000,False,000,False,False,False,1,103
+"### | [باب الجيم]
+",000,False,000,False,False,False,1,4
+"### | [باب الجيم مع الهمزة]
+",000,False,000,False,False,False,1,17
+"### | [باب الجيم مع الباء]
+",000,False,000,False,False,False,1,310
+"### | [الجيم مع الثاء]
+",000,False,000,False,False,False,1,85
+"### | [الجيم مع الحاء]
+",000,False,000,False,False,False,1,246
+"### | [الجيم مع الخاء]
+",000,False,000,False,False,False,1,36
+"### | [الجيم مع الدال]
+",000,False,000,False,False,False,1,375
+"### | [الجيم مع الذال]
+",000,False,000,False,False,False,1,161
+"### | [الجيم مع الراء]
+",000,False,000,False,False,False,1,611
+"### | [الجيم مع الزاي]
+",000,False,000,False,False,False,1,654
+"### | [الجيم مع السين المهملة]
+",000,False,000,False,False,False,1,80
+"### | [الجيم مع الشين المعجمة]
+",000,False,000,False,False,False,1,73
+"### | [الجيم مع الصاد المهملة]
+",000,False,000,False,False,False,1,30
+"### | [الجيم مع العين]
+",000,False,000,False,False,False,1,291
+"### | [الجيم مع الفاء]
+",000,False,000,False,False,False,1,303
+"### | [الجيم مع اللام]
+",000,False,000,False,False,False,1,594
+"### | [الجيم مع الميم]
+",000,False,000,False,False,False,1,900
+"### | [الجيم مع النون]
+",000,False,000,False,False,False,1,639
+"### | [الجيم مع الواو]
+",000,False,000,False,False,False,1,598
+"### | [الجيم مع الهاء]
+",000,False,000,False,False,False,1,640
+"### | [الجيم مع الياء التحتانية]
+",000,False,000,False,False,False,1,74
+"### | [باب الحاء]
+",000,False,000,False,False,False,1,4
+"### | [الحاء مع الباء الموحدة]
+",000,False,000,False,False,False,1,591
+"### | [الحاء مع التاء]
+",000,False,000,False,False,False,1,59
+"### | [الحاء مع الثاء]
+",000,False,000,False,False,False,1,53
+"### | [الحاء مع الجيم]
+",000,False,000,False,False,False,1,663
+"### | [الحاء مع الدال]
+",000,False,000,False,False,False,1,615
+"### | [الحاء مع الذال]
+",000,False,000,False,False,False,1,237
+"### | [الحاء مع الراء]
+",000,False,000,False,False,False,1,1276
+"### | [الحاء مع الزاي]
+",000,False,000,False,False,False,1,213
+"### | [الحاء مع السين المهملة]
+",000,False,000,False,False,False,1,461
+"### | [الحاء مع الشين المعجمة]
+",000,False,000,False,False,False,1,287
+"### | [الحاء مع الصاد المهملة]
+",000,False,000,False,False,False,1,660
+"### | [الحاء مع الضاد المعجمة]
+",000,False,000,False,False,False,1,222
+"### | [الحاء مع الطاء المهملة]
+",000,False,000,False,False,False,1,120
+"### | [الحاء مع الظاء المعجمة]
+",000,False,000,False,False,False,1,52
+"### | [الحاء مع الفاء]
+",000,False,000,False,False,False,1,556
+"### | [الحاء مع القاف]
+",000,False,000,False,False,False,1,215
+"### | [الحاء مع الكاف]
+",000,False,000,False,False,False,1,146
+"### | [الحاء مع اللام]
+",000,False,000,False,False,False,1,561
+"### | [الحاء مع الميم]
+",000,False,000,False,False,False,1,1121
+"### | [الحاء مع النون]
+",000,False,000,False,False,False,1,296
+"### | [الحاء مع الواو]
+",000,False,000,False,False,False,1,473
+"### | [الحاء مع الياء]
+",000,False,000,False,False,False,1,590
+"### | [باب الخاء المعجمة]
+",000,False,000,False,False,False,1,6
+"### | [الخاء مع الباء الموحدة]
+",000,False,000,False,False,False,1,183
+"### | [الخاء مع التاء ms108]
+",000,False,000,False,False,False,1,514
+"### | [الخاء مع الثاء المثلثة]
+",000,False,000,False,False,False,1,57
+"### | [الخاء مع الجيم]
+",000,False,000,False,False,False,1,23
+"### | [الخاء مع الدال المهملة]
+",000,False,000,False,False,False,1,237
+"### | [الخاء مع الذال المعجمة]
+",000,False,000,False,False,False,1,57
+"### | [الخاء مع الراء المهملة]
+",000,False,000,False,False,False,1,564
+"### | [الخاء مع الزاي المعجمة]
+",000,False,000,False,False,False,1,226
+"### | [الخاء مع السين المهملة]
+",000,False,000,False,False,False,1,154
+"### | [الخاء مع الشين المعجمة]
+",000,False,000,False,False,False,1,149
+"### | [الخاء مع الصاد المهملة]
+",000,False,000,False,False,False,1,304
+"### | [الخاء مع الضاد المعجمة]
+",000,False,000,False,False,False,1,130
+"### | [الخاء مع الطاء المهملة]
+",000,False,000,False,False,False,1,381
+"### | [الخاء مع الفاء]
+",000,False,000,False,False,False,1,207
+"### | [الخاء مع القاف]
+",000,False,000,False,False,False,1,17
+"### | [الخاء مع اللام]
+",000,False,000,False,False,False,1,996
+"### | [الخاء مع الميم]
+",000,False,000,False,False,False,1,184
+"### | [الخاء مع النون]
+",000,False,000,False,False,False,1,249
+"### | [الخاء مع الواو]
+",000,False,000,False,False,False,1,274
+"### | [الخاء مع الياء التحتانية]
+",000,False,000,False,False,False,1,311
+"### | [باب الدال المهملة]
+",000,False,000,False,False,False,1,6
+"### | [الدال مع الهمزة]
+",000,False,000,False,False,False,1,116
+"### | [الدال مع الباء الموحدة]
+",000,False,000,False,False,False,1,303
+"### | [الدال مع الثاء المثلثة]
+",000,False,000,False,False,False,1,21
+"### | [الدال مع الجيم]
+",000,False,000,False,False,False,1,69
+"### | [الدال مع الحاء المهملة]
+",000,False,000,False,False,False,1,72
+"### | [الدال مع الخاء المعجمة]
+",000,False,000,False,False,False,1,102
+"### | [الدال مع الراء المهملة]
+",000,False,000,False,False,False,1,401
+"### | [الدال مع السين المهملة]
+",000,False,000,False,False,False,1,150
+"### | [الدال مع العين المهملة]
+",000,False,000,False,False,False,1,234
+"### | [الدال مع الغين المعجمة]
+",000,False,000,False,False,False,1,49
+"### | [الدال مع الفاء]
+",000,False,000,False,False,False,1,336
+"### | [الدال مع القاف]
+",000,False,000,False,False,False,1,76
+"### | [الدال مع الكاف]
+",000,False,000,False,False,False,1,17
+"### | [الدال مع اللام]
+",000,False,000,False,False,False,1,293
+"### | [الدال مع الميم]
+",000,False,000,False,False,False,1,217
+"### | [الدال مع النون]
+",000,False,000,False,False,False,1,219
+"### | [الدال مع الواو]
+",000,False,000,False,False,False,1,290
+"### | [الدال مع الهاء]
+",000,False,000,False,False,False,1,211
+"### | [الدال مع الياء التحتانية]
+",000,False,000,False,False,False,1,96
+"### | [باب الذال المعجمة]
+",000,False,000,False,False,False,1,6
+"### | [الذال مع الهمزة]
+",000,False,000,False,False,False,1,88
+"### | [الذال مع الباء الموحدة]
+",000,False,000,False,False,False,1,92
+"### | [الذال مع الحاء المهملة]
+",000,False,000,False,False,False,1,31
+"### | [الذال مع الخاء المعجمة]
+",000,False,000,False,False,False,1,23
+"### | [الذال مع الراء المهملة]
+",000,False,000,False,False,False,1,187
+"### | [الذال مع العين المهملة]
+",000,False,000,False,False,False,1,38
+"### | [الذال مع الفاء]
+",000,False,000,False,False,False,1,39
+"### | [الذال مع الكاف]
+",000,False,000,False,False,False,1,147
+"### | [الذال مع اللام]
+",000,False,000,False,False,False,1,52
+"### | [الذال مع الميم]
+",000,False,000,False,False,False,1,554
+"### | [الذال مع النون]
+",000,False,000,False,False,False,1,36
+"### | [الذال مع الواو]
+",000,False,000,False,False,False,1,222
+"### | [باب الراء المهملة]
+",000,False,000,False,False,False,1,6
+"### | [الراء ms142 مع الهمزة]
+",000,False,000,False,False,False,1,260
+"### | [الراء مع الباء الموحدة]
+",000,False,000,False,False,False,1,569
+"### | [الراء مع التاء الفوقية]
+",000,False,000,False,False,False,1,377
+"### | [الراء مع الثاء المثلثة]
+",000,False,000,False,False,False,1,75
+"### | [الراء مع الجيم]
+",000,False,000,False,False,False,1,274
+"### | [الراء مع الحاء المهملة]
+",000,False,000,False,False,False,1,319
+"### | [الراء مع الخاء المعجمة]
+",000,False,000,False,False,False,1,43
+"### | [الراء مع الدال المهملة]
+",000,False,000,False,False,False,1,105
+"### | [الراء مع الذال المعجمة]
+",000,False,000,False,False,False,1,33
+"### | [الراء مع الزاي المعجمة]
+",000,False,000,False,False,False,1,256
+"### | [الراء مع السين المهملة]
+",000,False,000,False,False,False,1,223
+"### | [الراء مع الشين المعجمة]
+",000,False,000,False,False,False,1,85
+"### | [الراء مع الصاد المهملة]
+",000,False,000,False,False,False,1,83
+"### | [الراء مع الضاد المعجمة]
+",000,False,000,False,False,False,1,83
+"### | [الراء مع الطاء المهملة]
+",000,False,000,False,False,False,1,149
+"### | [الراء مع العين ms152 المهملة]
+",000,False,000,False,False,False,1,268
+"### | [الراء مع الغين المعجمة]
+",000,False,000,False,False,False,1,143
+"### | [الراء مع الفاء]
+",000,False,000,False,False,False,1,630
+"### | [الراء مع القاف]
+",000,False,000,False,False,False,1,426
+"### | [الراء مع الكاف]
+",000,False,000,False,False,False,1,324
+"### | [الراء مع الميم]
+",000,False,000,False,False,False,1,571
+"### | [الراء مع النون]
+",000,False,000,False,False,False,1,39
+"### | [الراء مع الواو]
+",000,False,000,False,False,False,1,659
+"### | [الراء مع الهاء]
+",000,False,000,False,False,False,1,225
+"### | [الراء مع الياء التحتانية]
+",000,False,000,False,False,False,1,322
+"### | [باب الزاي]
+",000,False,000,False,False,False,1,4
+"### | [والزاي مع الهمزة]
+",000,False,000,False,False,False,1,36
+"### | [الزاي مع الباء الموحدة]
+",000,False,000,False,False,False,1,268
+"### | [الزاي مع الجيم المعجمة]
+",000,False,000,False,False,False,1,51
+"### | [الزاي مع الحاء المهملة]
+",000,False,000,False,False,False,1,151
+"### | [الزاي مع الراء المهملة]
+",000,False,000,False,False,False,1,321
+"### | [الزاي مع الطاء المهملة]
+",000,False,000,False,False,False,1,26
+"### | [الزاي مع العين المهملة]
+",000,False,000,False,False,False,1,30
+"### | [الزاي مع الغين المعجمة]
+",000,False,000,False,False,False,1,30
+"### | [الزاي مع الفاء]
+",000,False,000,False,False,False,1,35
+"### | [الزاي مع القاف]
+",000,False,000,False,False,False,1,29
+"### | [الزاي مع الكاف]
+",000,False,000,False,False,False,1,109
+"### | [الزاي مع اللام]
+",000,False,000,False,False,False,1,98
+"### | [الزاي مع الميم]
+",000,False,000,False,False,False,1,279
+"### | [الزاي مع النون]
+",000,False,000,False,False,False,1,358
+"### | [الزاي مع الواو]
+",000,False,000,False,False,False,1,389
+"### | [الزاي مع الهاء]
+",000,False,000,False,False,False,1,137
+"### | [الزاي مع الياء التحتانية]
+",000,False,000,False,False,False,1,164
+"### | [باب السين المهملة]
+",000,False,000,False,False,False,1,6
+"### | [السين مع الهمزة]
+",000,False,000,False,False,False,1,40
+"### | [السين مع الباء الموحدة]
+",000,False,000,False,False,False,1,447
+"### | [السين مع التاء الفوقية]
+",000,False,000,False,False,False,1,238
+"### | [السين مع الجيم]
+",000,False,000,False,False,False,1,249
+"### | [السين مع الحاء المهملة]
+",000,False,000,False,False,False,1,260
+"### | [السين مع الخاء المعجمة]
+",000,False,000,False,False,False,1,261
+"### | [السين مع الدال المهملة]
+",000,False,000,False,False,False,1,187
+"### | [السين مع الراء المهملة]
+",000,False,000,False,False,False,1,705
+"### | [السين مع الطاء المهملة]
+",000,False,000,False,False,False,1,54
+"### | [السين مع العين المهملة]
+",000,False,000,False,False,False,1,207
+"### | [السين مع الفاء]
+",000,False,000,False,False,False,1,482
+"### | [السين مع القاف]
+",000,False,000,False,False,False,1,370
+"### | [السين مع الكاف]
+",000,False,000,False,False,False,1,330
+"### | [السين مع اللام]
+",000,False,000,False,False,False,1,1012
+"### | [السين مع الميم]
+",000,False,000,False,False,False,1,530
+"### | [السين مع النون]
+",000,False,000,False,False,False,1,294
+"### | [السين مع الواو]
+",000,False,000,False,False,False,1,710
+"### | [السين مع الهاء]
+",000,False,000,False,False,False,1,203
+"### | [السين مع الياء التحتانية]
+",000,False,000,False,False,False,1,345
+"### | [باب الشين]
+",000,False,000,False,False,False,1,4
+"### | [الشين مع الهمزة]
+",000,False,000,False,False,False,1,30
+"### | [الشين مع الباء الموحدة]
+",000,False,000,False,False,False,1,331
+"### | [الشين مع التاء الفوقية]
+",000,False,000,False,False,False,1,33
+"### | [الشين مع الثاء المثلثة]
+",000,False,000,False,False,False,1,44
+"### | [الشين مع الجيم]
+",000,False,000,False,False,False,1,135
+"### | [الشين مع الحاء المهملة]
+",000,False,000,False,False,False,1,50
+"### | [الشين مع الخاء المعجمة]
+",000,False,000,False,False,False,1,106
+"### | [الشين مع الدال المهملة]
+",000,False,000,False,False,False,1,134
+"### | [الشين مع الذال المعجمة]
+",000,False,000,False,False,False,1,77
+"### | [الشين مع الراء المهملة]
+",000,False,000,False,False,False,1,881
+"### | [الشين مع الزاي المعجمة]
+",000,False,000,False,False,False,1,29
+"### | [الشين مع الصاد المهملة]
+",000,False,000,False,False,False,1,26
+"### | [الشين مع الطاء المهملة]
+",000,False,000,False,False,False,1,90
+"### | [الشين مع الظاء المعجمة]
+",000,False,000,False,False,False,1,54
+"### | [الشين مع العين المهملة]
+",000,False,000,False,False,False,1,295
+"### | [الشين مع الغين المعجمة]
+",000,False,000,False,False,False,1,36
+"### | [الشين مع الفاء]
+",000,False,000,False,False,False,1,584
+"### | [الشين مع القاف]
+",000,False,000,False,False,False,1,244
+"### | [الشين مع الكاف]
+",000,False,000,False,False,False,1,96
+"### | [الشين مع اللام]
+",000,False,000,False,False,False,1,56
+"### | [الشين مع الميم]
+",000,False,000,False,False,False,1,204
+"### | [الشين مع النون]
+",000,False,000,False,False,False,1,280
+"### | [الشين مع الواو]
+",000,False,000,False,False,False,1,205
+"### | [الشين مع الهاء]
+",000,False,000,False,False,False,1,353
+"### | [الشين مع الياء التحتانية]
+",000,False,000,False,False,False,1,350
+"### | [باب الصاد المهملة]
+",000,False,000,False,False,False,1,6
+"### | [الصاد مع الهمزة]
+",000,False,000,False,False,False,1,11
+"### | [الصاد مع الباء الموحدة]
+",000,False,000,False,False,False,1,340
+"### | [الصاد مع الحاء المهملة]
+",000,False,000,False,False,False,1,168
+"### | [الصاد مع الخاء المعجمة]
+",000,False,000,False,False,False,1,14
+"### | [الصاد مع الدال المهملة]
+",000,False,000,False,False,False,1,298
+"### | [الصاد مع الذال]
+",000,False,000,False,False,False,1,11
+"### | [الصاد مع الراء]
+",000,False,000,False,False,False,1,342
+"### | [الصاد مع العين المهملة]
+",000,False,000,False,False,False,1,138
+"### | [الصاد مع الغين المعجمة]
+",000,False,000,False,False,False,1,73
+"### | [الصاد مع الفاء]
+",000,False,000,False,False,False,1,437
+"### | [الصاد مع القاف]
+",000,False,000,False,False,False,1,70
+"### | [الصاد مع الكاف]
+",000,False,000,False,False,False,1,28
+"### | [الصاد مع اللام]
+",000,False,000,False,False,False,1,429
+"### | [الصاد مع الميم]
+",000,False,000,False,False,False,1,306
+"### | [الصاد مع النون]
+",000,False,000,False,False,False,1,224
+"### | [الصاد مع الواو]
+",000,False,000,False,False,False,1,317
+"### | [الصاد مع الهاء]
+",000,False,000,False,False,False,1,105
+"### | [الصاد مع الياء التحتانية]
+",000,False,000,False,False,False,1,135
+"### | [باب الضاد المعجمة]
+",000,False,000,False,False,False,1,6
+"### | [الضاد مع الهمزة]
+",000,False,000,False,False,False,1,79
+"### | [الضاد مع الباء الموحدة]
+",000,False,000,False,False,False,1,161
+"### | [الضاد مع التاء والثاء]
+",000,False,000,False,False,False,1,14
+"### | [الضاد مع الجيم]
+",000,False,000,False,False,False,1,81
+"### | [الضاد مع الحاء المهملة]
+",000,False,000,False,False,False,1,106
+"### | [الضاد مع الخاء والدال والذال]
+",000,False,000,False,False,False,1,17
+"### | [الضاد مع الراء المهملة]
+",000,False,000,False,False,False,1,513
+"### | [الضاد مع الزاي المعجمة]
+",000,False,000,False,False,False,1,21
+"### | [الضاد مع العين المهملة]
+",000,False,000,False,False,False,1,147
+"### | [الضاد مع الغين المعجمة]
+",000,False,000,False,False,False,1,89
+"### | [الضاد مع الفاء]
+",000,False,000,False,False,False,1,50
+"### | [الضاد مع اللام]
+",000,False,000,False,False,False,1,116
+"### | [الضاد مع الميم]
+",000,False,000,False,False,False,1,246
+"### | [الضاد مع النون]
+",000,False,000,False,False,False,1,47
+"### | [الضاد مع الياء التحتانية]
+",000,False,000,False,False,False,1,173
+"### | [باب الطاء المهملة]
+",000,False,000,False,False,False,1,6
+"### | [الطاء مع الباء الموحدة]
+",000,False,000,False,False,False,1,255
+"### | [الطاء مع التاء والثاء والجيم]
+",000,False,000,False,False,False,1,17
+"### | [الطاء مع الحاء المهملة]
+",000,False,000,False,False,False,1,39
+"### | [الطاء مع الخاء المعجمة]
+",000,False,000,False,False,False,1,54
+"### | [الطاء مع الدال والذال]
+",000,False,000,False,False,False,1,14
+"### | [الطاء مع الراء المهملة]
+",000,False,000,False,False,False,1,364
+"### | [الطاء مع الزاي]
+",000,False,000,False,False,False,1,11
+"### | [الطاء مع السين المهملة]
+",000,False,000,False,False,False,1,30
+"### | [الطاء مع الشين والصاد والضاد]
+",000,False,000,False,False,False,1,17
+"### | [الطاء مع العين المهملة]
+",000,False,000,False,False,False,1,222
+"### | [الطاء مع الغين]
+",000,False,000,False,False,False,1,11
+"### | [الطاء مع الفاء]
+",000,False,000,False,False,False,1,160
+"### | [الطاء مع القاف والكاف]
+",000,False,000,False,False,False,1,14
+"### | [الطاء مع اللام]
+",000,False,000,False,False,False,1,514
+"### | [الطاء مع الميم]
+",000,False,000,False,False,False,1,174
+"### | [الطاء مع النون]
+",000,False,000,False,False,False,1,26
+"### | [الطاء مع الواو]
+",000,False,000,False,False,False,1,146
+"### | [الطاء مع الهاء]
+",000,False,000,False,False,False,1,143
+"### | [الطاء مع الياء التحتانية]
+",000,False,000,False,False,False,1,252
+"### | [باب الظاء المعجمة]
+",000,False,000,False,False,False,1,6
+"### | [الظاء مع الهمزة]
+",000,False,000,False,False,False,1,49
+"### | [الظاء مع الباء]
+",000,False,000,False,False,False,1,17
+"### | [الظاء مع التاء إلى الذال]
+",000,False,000,False,False,False,1,17
+"### | [الظاء مع الراء]
+",000,False,000,False,False,False,1,154
+"### | [الظاء مع العين]
+",000,False,000,False,False,False,1,25
+"### | [الظاء مع الفاء]
+",000,False,000,False,False,False,1,95
+"### | [الظاء مع اللام]
+",000,False,000,False,False,False,1,143
+"### | [الظاء مع النون]
+",000,False,000,False,False,False,1,89
+"### | [الظاء مع الهاء]
+",000,False,000,False,False,False,1,225
+"### | [باب العين المهملة]
+",000,False,000,False,False,False,1,6
+"### | [العين مع الهمزة]
+",000,False,000,False,False,False,1,11
+"### | [العين مع الباء الموحدة]
+",000,False,000,False,False,False,1,362
+"### | [العين ms244 مع التاء]
+",000,False,000,False,False,False,1,299
+"### | [العين مع الثاء]
+",000,False,000,False,False,False,1,125
+"### | [العين مع الجيم]
+",000,False,000,False,False,False,1,438
+"### | [العين مع الحاء والخاء]
+",000,False,000,False,False,False,1,14
+"### | [العين مع الدال المهملة]
+",000,False,000,False,False,False,1,474
+"### | [العين مع الذال المعجمة]
+",000,False,000,False,False,False,1,189
+"### | [العين مع الراء المهملة]
+",000,False,000,False,False,False,1,1456
+"### | [العين مع الزاي المعجمة]
+",000,False,000,False,False,False,1,314
+"### | [العين مع السين المهملة]
+",000,False,000,False,False,False,1,224
+"### | [العين مع الشين المعجمة]
+",000,False,000,False,False,False,1,151
+"### | [العين مع الصاد المهملة]
+",000,False,000,False,False,False,1,364
+"### | [العين مع الضاد المعجمة]
+",000,False,000,False,False,False,1,133
+"### | [العين مع الطاء]
+",000,False,000,False,False,False,1,252
+"### | [العين مع الظاء المعجمة]
+",000,False,000,False,False,False,1,20
+"### | [العين مع الفاء]
+",000,False,000,False,False,False,1,567
+"### | [العين مع القاف]
+",000,False,000,False,False,False,1,624
+"### | [العين مع الكاف]
+",000,False,000,False,False,False,1,183
+"### | [العين مع اللام]
+",000,False,000,False,False,False,1,513
+"### | [العين مع الميم]
+",000,False,000,False,False,False,1,388
+"### | [العين مع النون]
+",000,False,000,False,False,False,1,532
+"### | [العين مع الواو]
+",000,False,000,False,False,False,1,546
+"### | [العين مع الهاء]
+",000,False,000,False,False,False,1,126
+"### | [العين مع الياء]
+",000,False,000,False,False,False,1,651
+"### | [باب الغين] 
+",000,False,000,False,False,False,1,8
+"### | (الغين مع الهمزة 
+",000,False,000,False,False,False,1,5
+"### | [الغين مع الباء الموحدة]
+",000,False,000,False,False,False,1,103
+"### | [الغين مع التاء الفوقية]
+",000,False,000,False,False,False,1,19
+"### | [الغين مع الثاء إلى الخاء]
+",000,False,000,False,False,False,1,17
+"### | [الغين مع الدال المهملة]
+",000,False,000,False,False,False,1,88
+"### | [الغين مع الذال المعجمة]
+",000,False,000,False,False,False,1,65
+"### | [الغين مع الراء المهملة]
+",000,False,000,False,False,False,1,453
+"### | [الغين مع الزاي المعجمة]
+",000,False,000,False,False,False,1,67
+"### | [الغين مع السين المهملة]
+",000,False,000,False,False,False,1,190
+"### | [الغين مع الشين المعجمة]
+",000,False,000,False,False,False,1,127
+"### | [الغين مع الصاد المهملة]
+",000,False,000,False,False,False,1,29
+"### | [الغين مع الضاد المعجمة]
+",000,False,000,False,False,False,1,49
+"### | [الغين مع الطاء المهملة]
+",000,False,000,False,False,False,1,59
+"### | [الغين مع الظاء]
+",000,False,000,False,False,False,1,11
+"### | [الغين مع الفاء]
+",000,False,000,False,False,False,1,106
+"### | [الغين مع القاف والكاف]
+",000,False,000,False,False,False,1,14
+"### | [الغين مع اللام]
+",000,False,000,False,False,False,1,738
+"### | [الغين مع الميم]
+",000,False,000,False,False,False,1,390
+"### | [الغين مع النون]
+",000,False,000,False,False,False,1,229
+"### | [الغين مع الواو]
+",000,False,000,False,False,False,1,370
+"### | [الغين مع الهاء]
+",000,False,000,False,False,False,1,11
+"### | [الغين مع الياء التحتانية]
+",000,False,000,False,False,False,1,259
+"### | [باب الفاء]
+",000,False,000,False,False,False,1,4
+"### | [الفاء مع الهمزة]
+",000,False,000,False,False,False,1,49
+"### | [الفاء مع الباء]
+",000,False,000,False,False,False,1,11
+"### | [الفاء مع التاء الفوقية]
+",000,False,000,False,False,False,1,254
+"### | [الفاء مع الثاء]
+",000,False,000,False,False,False,1,11
+"### | [الفاء مع الجيم]
+",000,False,000,False,False,False,1,187
+"### | [الفاء مع الحاء المهملة]
+",000,False,000,False,False,False,1,208
+"### | [الفاء مع الخاء المعجمة]
+",000,False,000,False,False,False,1,78
+"### | [الفاء مع الدال المهملة]
+",000,False,000,False,False,False,1,235
+"### | [الفاء مع الذال المعجمة]
+",000,False,000,False,False,False,1,12
+"### | [الفاء مع الراء المهملة]
+",000,False,000,False,False,False,1,1492
+"### | [الفاء مع الزاي]
+",000,False,000,False,False,False,1,11
+"### | [الفاء مع السين المهملة]
+",000,False,000,False,False,False,1,135
+"### | [الفاء مع الشين المعجمة]
+",000,False,000,False,False,False,1,98
+"### | [الفاء مع الصاد المهملة]
+",000,False,000,False,False,False,1,98
+"### | [الفاء مع الضاد المعجمة]
+",000,False,000,False,False,False,1,303
+"### | [الفاء مع الطاء المهملة]
+",000,False,000,False,False,False,1,193
+"### | [الفاء مع العين المهملة]
+",000,False,000,False,False,False,1,37
+"### | [الفاء مع الغين المعجمة]
+",000,False,000,False,False,False,1,29
+"### | [الفاء مع القاف]
+",000,False,000,False,False,False,1,268
+"### | [الفاء مع الكاف]
+",000,False,000,False,False,False,1,116
+"### | [الفاء مع اللام]
+",000,False,000,False,False,False,1,342
+"### | [الفاء مع النون]
+",000,False,000,False,False,False,1,53
+"### | [الفاء مع الواو]
+",000,False,000,False,False,False,1,354
+"### | [الفاء مع الهاء]
+",000,False,000,False,False,False,1,35
+"### | [الفاء مع الياء]
+",000,False,000,False,False,False,1,129
+"### | [باب القاف] 
+",000,False,000,False,False,False,1,8
+"### | (القاف مع الهمزة 
+",000,False,000,False,False,False,1,5
+"### | [القاف مع الباء]
+",000,False,000,False,False,False,1,369
+"### | [القاف مع التاء الفوقانية]
+",000,False,000,False,False,False,1,77
+"### | [القاف مع الثاء المثلثة]
+",000,False,000,False,False,False,1,54
+"### | [القاف مع الحاء المهملة]
+",000,False,000,False,False,False,1,139
+"### | [القاف مع الدال المهملة]
+",000,False,000,False,False,False,1,470
+"### | [القاف مع الذال المعجمة]
+",000,False,000,False,False,False,1,121
+"### | [القاف مع الراء المهملة]
+",000,False,000,False,False,False,1,1461
+"### | [القاف مع الزاي المعجمة]
+",000,False,000,False,False,False,1,155
+"### | [القاف مع السين المهملة]
+",000,False,000,False,False,False,1,448
+"### | [القاف مع الشين]
+",000,False,000,False,False,False,1,132
+"### | [القاف مع الصاد المهملة]
+",000,False,000,False,False,False,1,603
+"### | [القاف مع الضاد المعجمة]
+",000,False,000,False,False,False,1,144
+"### | [القاف مع الطاء المهملة]
+",000,False,000,False,False,False,1,465
+"### | [القاف مع العين المهملة]
+",000,False,000,False,False,False,1,263
+"### | [القاف مع الغين]
+",000,False,000,False,False,False,1,11
+"### | [القاف مع الفاء]
+",000,False,000,False,False,False,1,178
+"### | [القاف مع القاف والكاف]
+",000,False,000,False,False,False,1,14
+"### | [القاف مع اللام]
+",000,False,000,False,False,False,1,456
+"### | [القاف مع الميم]
+",000,False,000,False,False,False,1,215
+"### | [القاف مع النون]
+",000,False,000,False,False,False,1,349
+"### | [القاف مع الواو]
+",000,False,000,False,False,False,1,463
+"### | [القاف مع الياء التحتانية]
+",000,False,000,False,False,False,1,193
+"### | [باب الكاف]
+",000,False,000,False,False,False,1,4
+"### | [الكاف مع الهمزة]
+",000,False,000,False,False,False,1,34
+"### | [الكاف مع الباء الموحدة]
+",000,False,000,False,False,False,1,282
+"### | [الكاف مع التاء الفوقانية]
+",000,False,000,False,False,False,1,399
+"### | [الكاف مع الثاء المثلثة]
+",000,False,000,False,False,False,1,149
+"### | [الكاف مع الجيم]
+",000,False,000,False,False,False,1,11
+"### | [الكاف مع الحاء المهملة]
+",000,False,000,False,False,False,1,79
+"### | [الكاف مع الخاء]
+",000,False,000,False,False,False,1,11
+"### | [الكاف مع الدال المهملة]
+",000,False,000,False,False,False,1,299
+"### | [الكاف مع الذال المعجمة]
+",000,False,000,False,False,False,1,67
+"### | [الكاف مع الراء المهملة]
+",000,False,000,False,False,False,1,757
+"### | [الكاف مع الزاي المعجمة]
+",000,False,000,False,False,False,1,16
+"### | [الكاف مع السين المهملة]
+",000,False,000,False,False,False,1,353
+"### | [الكاف مع الشين المعجمة]
+",000,False,000,False,False,False,1,106
+"### | [الكاف مع الصاد والضاد والطاء]
+",000,False,000,False,False,False,1,17
+"### | [الكاف مع الظاء]
+",000,False,000,False,False,False,1,29
+"### | [الكاف مع العين المهملة]
+",000,False,000,False,False,False,1,142
+"### | [الكاف ms335 مع الغين]
+",000,False,000,False,False,False,1,11
+"### | [الكاف مع الفاء]
+",000,False,000,False,False,False,1,770
+"### | [الكاف مع القاف]
+",000,False,000,False,False,False,1,11
+"### | [الكاف مع الكاف]
+",000,False,000,False,False,False,1,27
+"### | [الكاف مع اللام]
+",000,False,000,False,False,False,1,779
+"### | [الكاف مع الميم]
+",000,False,000,False,False,False,1,150
+"### | [الكاف مع النون]
+",000,False,000,False,False,False,1,214
+"### | [الكاف مع الواو]
+",000,False,000,False,False,False,1,227
+"### | [الكاف مع الهاء]
+",000,False,000,False,False,False,1,78
+"### | [الكاف مع الياء]
+",000,False,000,False,False,False,1,80
+"### | [باب اللام]
+",000,False,000,False,False,False,1,4
+"### | [اللام مع الهمزة]
+",000,False,000,False,False,False,1,57
+"### | [اللام مع الباء الموحدة]
+",000,False,000,False,False,False,1,260
+"### | [اللام مع التاء الفوقانية]
+",000,False,000,False,False,False,1,26
+"### | [اللام مع الثاء المثلثة]
+",000,False,000,False,False,False,1,56
+"### | [اللام مع الجيم]
+",000,False,000,False,False,False,1,94
+"### | [اللام مع الحاء المهملة]
+",000,False,000,False,False,False,1,376
+"### | [اللام مع الخاء المعجمة]
+",000,False,000,False,False,False,1,28
+"### | [اللام مع الزاي]
+",000,False,000,False,False,False,1,43
+"### | [اللام مع الطاء]
+",000,False,000,False,False,False,1,55
+"### | [اللام مع العين]
+",000,False,000,False,False,False,1,90
+"### | [اللام مع الغين]
+",000,False,000,False,False,False,1,55
+"### | [اللام مع الفاء]
+",000,False,000,False,False,False,1,73
+"### | [اللام مع القاف]
+",000,False,000,False,False,False,1,207
+"### | [اللام مع الكاف]
+",000,False,000,False,False,False,1,91
+"### | [اللام مع الميم]
+",000,False,000,False,False,False,1,180
+"### | [اللام مع الواو]
+",000,False,000,False,False,False,1,447
+"### | [اللام مع الهاء]
+",000,False,000,False,False,False,1,73
+"### | [اللام مع الياء]
+",000,False,000,False,False,False,1,57
+"### | [باب الميم]
+",000,False,000,False,False,False,1,4
+"### | [الميم مع الهمزة]
+",000,False,000,False,False,False,1,158
+"### | [الميم مع التاء]
+",000,False,000,False,False,False,1,140
+"### | [الميم مع الثاء المثلثة]
+",000,False,000,False,False,False,1,246
+"### | [الميم مع الجيم]
+",000,False,000,False,False,False,1,180
+"### | [الميم مع الحاء المهملة]
+",000,False,000,False,False,False,1,55
+"### | [الميم مع الخاء المعجمة]
+",000,False,000,False,False,False,1,82
+"### | [الميم مع الدال]
+",000,False,000,False,False,False,1,191
+"### | [الميم مع الذال المعجمة]
+",000,False,000,False,False,False,1,66
+"### | [الميم مع الراء المهملة]
+",000,False,000,False,False,False,1,462
+"### | [الميم مع الزاي المعجمة]
+",000,False,000,False,False,False,1,100
+"### | [الميم مع السين المهملة]
+",000,False,000,False,False,False,1,344
+"### | [الميم مع الشين المعجمة]
+",000,False,000,False,False,False,1,192
+"### | [الميم مع الصاد المهملة]
+",000,False,000,False,False,False,1,42
+"### | [الميم مع الضاد المعجمة]
+",000,False,000,False,False,False,1,55
+"### | [الميم مع الطاء المهملة]
+",000,False,000,False,False,False,1,20
+"### | [الميم مع الظاء]
+",000,False,000,False,False,False,1,11
+"### | [الميم مع العين المهملة]
+",000,False,000,False,False,False,1,104
+"### | [الميم مع الغين والفاء]
+",000,False,000,False,False,False,1,14
+"### | [الميم مع القاف]
+",000,False,000,False,False,False,1,103
+"### | [الميم مع الكاف]
+",000,False,000,False,False,False,1,99
+"### | [الميم مع اللام]
+",000,False,000,False,False,False,1,668
+"### | [الميم مع النون]
+",000,False,000,False,False,False,1,200
+"### | [الميم مع الواو]
+",000,False,000,False,False,False,1,293
+"### | [الميم مع الهاء]
+",000,False,000,False,False,False,1,194
+"### | [الميم مع الياء]
+",000,False,000,False,False,False,1,206
+"### | [باب النون]
+",000,False,000,False,False,False,1,4
+"### | [النون مع الهمزة]
+",000,False,000,False,False,False,1,11
+"### | [النون مع الباء الموحدة]
+",000,False,000,False,False,False,1,410
+"### | [النون مع التاء الفوقانية]
+",000,False,000,False,False,False,1,299
+"### | [النون مع الثاء المثلثة]
+",000,False,000,False,False,False,1,164
+"### | [النون مع الجيم]
+",000,False,000,False,False,False,1,617
+"### | [النون مع الحاء المهملة]
+",000,False,000,False,False,False,1,158
+"### | [النون مع الخاء المعجمة]
+",000,False,000,False,False,False,1,223
+"### | [النون مع الدال المهملة]
+",000,False,000,False,False,False,1,239
+"### | [النون مع الذال المعجمة]
+",000,False,000,False,False,False,1,14
+"### | [النون مع الراء]
+",000,False,000,False,False,False,1,51
+"### | [النون مع الزاي المعجمة]
+",000,False,000,False,False,False,1,349
+"### | [النون مع السين المهملة]
+",000,False,000,False,False,False,1,424
+"### | [النون مع الشين المعجمة]
+",000,False,000,False,False,False,1,560
+"### | [النون مع الصاد المهملة]
+",000,False,000,False,False,False,1,285
+"### | [النون مع الضاد المعجمة]
+",000,False,000,False,False,False,1,354
+"### | [النون مع الطاء المهملة]
+",000,False,000,False,False,False,1,172
+"### | [النون مع الظاء المعجمة]
+",000,False,000,False,False,False,1,32
+"### | [النون مع العين المهملة]
+",000,False,000,False,False,False,1,656
+"### | [النون مع الغين المعجمة]
+",000,False,000,False,False,False,1,153
+"### | [النون مع الفاء]
+",000,False,000,False,False,False,1,824
+"### | [النون مع القاف]
+",000,False,000,False,False,False,1,694
+"### | [النون مع الكاف]
+",000,False,000,False,False,False,1,549
+"### | [النون مع اللام]
+",000,False,000,False,False,False,1,11
+"### | [النون مع الميم]
+",000,False,000,False,False,False,1,388
+"### | [النون مع النون]
+",000,False,000,False,False,False,1,11
+"### | [النون مع الواو]
+",000,False,000,False,False,False,1,608
+"### | [النون مع الهاء]
+",000,False,000,False,False,False,1,227
+"### | [النون مع الياء التحتانية]
+",000,False,000,False,False,False,1,218
+"### | [باب الواو]
+",000,False,000,False,False,False,1,4
+"### | [الواو مع الهمزة]
+",000,False,000,False,False,False,1,129
+"### | [الواو مع الباء]
+",000,False,000,False,False,False,1,140
+"### | [الواو مع التاء الفوقية]
+",000,False,000,False,False,False,1,129
+"### | [الواو مع الثاء المثلثة]
+",000,False,000,False,False,False,1,257
+"### | [الواو مع الجيم]
+",000,False,000,False,False,False,1,310
+"### | [الواو مع الحاء المهملة]
+",000,False,000,False,False,False,1,110
+"### | [الواو مع الخاء المعجمة]
+",000,False,000,False,False,False,1,36
+"### | [الواو مع الدال المهملة]
+",000,False,000,False,False,False,1,514
+"### | [الواو مع الذال المعجمة]
+",000,False,000,False,False,False,1,50
+"### | [الواو مع الراء المهملة]
+",000,False,000,False,False,False,1,473
+"### | [الواو مع الزاي المعجمة]
+",000,False,000,False,False,False,1,184
+"### | [الواو مع السين]
+",000,False,000,False,False,False,1,432
+"### | [الواو مع الشين المعجمة]
+",000,False,000,False,False,False,1,224
+"### | [الواو مع الصاد المهملة]
+",000,False,000,False,False,False,1,310
+"### | [الواو مع الضاد المعجمة]
+",000,False,000,False,False,False,1,168
+"### | [الواو مع الطاء المهملة]
+",000,False,000,False,False,False,1,220
+"### | [الواو مع الظاء المعجمة]
+",000,False,000,False,False,False,1,32
+"### | [الواو مع العين المهملة]
+",000,False,000,False,False,False,1,22
+"### | [الواو مع الغين المعجمة]
+",000,False,000,False,False,False,1,95
+"### | [الواو مع الفاء]
+",000,False,000,False,False,False,1,228
+"### | [الواو مع القاف]
+",000,False,000,False,False,False,1,648
+"### | [الواو مع الكاف]
+",000,False,000,False,False,False,1,236
+"### | [الواو مع اللام]
+",000,False,000,False,False,False,1,515
+"### | [الواو مع الميم]
+",000,False,000,False,False,False,1,69
+"### | [الواو مع النون والواو]
+",000,False,000,False,False,False,1,14
+"### | [الواو مع الهاء]
+",000,False,000,False,False,False,1,319
+"### | [باب الهاء]
+",000,False,000,False,False,False,1,4
+"### | [الهاء مع الهمزة]
+",000,False,000,False,False,False,1,85
+"### | [الهاء مع الباء الموحدة]
+",000,False,000,False,False,False,1,108
+"### | [الهاء مع التاء الفوقية]
+",000,False,000,False,False,False,1,76
+"### | [الهاء مع الثاء]
+",000,False,000,False,False,False,1,11
+"### | [الهاء مع الجيم]
+",000,False,000,False,False,False,1,280
+"### | [الهاء مع الحاء والخاء]
+",000,False,000,False,False,False,1,14
+"### | [الهاء مع الدال]
+",000,False,000,False,False,False,1,272
+"### | [الهاء مع الذال]
+",000,False,000,False,False,False,1,11
+"### | [الهاء مع الراء المهملة]
+",000,False,000,False,False,False,1,308
+"### | [الهاء مع الزاي المعجمة]
+",000,False,000,False,False,False,1,163
+"### | [الهاء مع الشين المعجمة]
+",000,False,000,False,False,False,1,99
+"### | [الهاء مع الصاد المهملة]
+",000,False,000,False,False,False,1,40
+"### | [الهاء مع الضاد المعجمة]
+",000,False,000,False,False,False,1,77
+"### | [الهاء مع الطاء والظاء والعين والغين]
+",000,False,000,False,False,False,1,20
+"### | [الهاء مع الفاء]
+",000,False,000,False,False,False,1,25
+"### | [الهاء مع القاف]
+",000,False,000,False,False,False,1,47
+"### | [الهاء مع الكاف]
+",000,False,000,False,False,False,1,11
+"### | [الهاء مع اللام]
+",000,False,000,False,False,False,1,237
+"### | [الهاء مع الميم]
+",000,False,000,False,False,False,1,251
+"### | [الهاء مع النون]
+",000,False,000,False,False,False,1,143
+"### | [الهاء مع الواو]
+",000,False,000,False,False,False,1,203
+"### | [الهاء مع الياء]
+",000,False,000,False,False,False,1,239
+"### | [باب الياء]
+",000,False,000,False,False,False,1,4
+"### | [الياء مع الهمزة]
+",000,False,000,False,False,False,1,68
+"### | [الياء مع الباء الموحدة]
+",000,False,000,False,False,False,1,24
+"### | [الياء مع التاء الفوقية]
+",000,False,000,False,False,False,1,120
+"### | [الياء مع الثاء المثلثة]
+",000,False,000,False,False,False,1,16
+"### | [الياء مع الجيم والحاء الخاء]
+",000,False,000,False,False,False,1,17
+"### | [الياء مع الدال المهملة]
+",000,False,000,False,False,False,1,115
+"### | [الياء مع الذال المعجمة]
+",000,False,000,False,False,False,1,24
+"### | [الياء مع الراء المهملة]
+",000,False,000,False,False,False,1,14
+"### | [الياء مع الزاي]
+",000,False,000,False,False,False,1,11
+"### | [الياء مع السين المهملة]
+",000,False,000,False,False,False,1,129
+"### | [الياء مع الشين المعجمة]
+",000,False,000,False,False,False,1,42
+"### | [الياء مع الصاد والضاد والطاء والظاء]
+",000,False,000,False,False,False,1,20
+"### | [الياء مع العين المهملة]
+",000,False,000,False,False,False,1,21
+"### | [الياء مع الغين]
+",000,False,000,False,False,False,1,11
+"### | [الياء مع الفاء]
+",000,False,000,False,False,False,1,30
+"### | [الياء مع القاف]
+",000,False,000,False,False,False,1,22
+"### | [الياء مع الكاف]
+",000,False,000,False,False,False,1,11
+"### | [الياء مع اللام]
+",000,False,000,False,False,False,1,21
+"### | [الياء مع الميم]
+",000,False,000,False,False,False,1,231
+"### | [الياء مع النون]
+",000,False,000,False,False,False,1,27
+"### | [الياء مع الواو]
+",000,False,000,False,False,False,1,27
+"### | [رسالة في النحو]
+",000,False,000,False,False,False,1,71
+"### | [الباب الأول في المقدمات]
+",000,False,000,False,False,False,1,590
+"### | [فصل اختلاف آخر الكلمة باختلاف العوامل]
+",000,False,000,False,False,False,1,259
+"### | [فصل وما لا يظهر فيه الإعراب قدر في محله]
+",000,False,000,False,False,False,1,42
+"### | [فصل والإعراب كما يكون بالحركات فقد يكون بالحروف]
+",000,False,000,False,False,False,1,73
+"### | [فصل الرفع علم الفاعلية والنصب علم المفعولية والجر علم الإضافة]
+",000,False,000,False,False,False,1,258
+"### | [فصل التوابع وهي خمسة]
+",000,False,000,False,False,False,1,167
+"### | [فصل وإعراب الفعل على الرفع والنصب والجزم]
+",000,False,000,False,False,False,1,109
+"### | [فصل الساكنان لا يجتمعان]
+",000,False,000,False,False,False,1,64
+"### | [الباب الثاني]
+",000,False,000,False,False,False,1,4
+"### | [فصل مما يختص بالأسماء التثنية]
+",000,False,000,False,False,False,1,449
+"### | [فصل الاسم المفرد الذي يقع على الجمع فميز بينه وبين واحده بالتاء]
+",000,False,000,False,False,False,1,179
+"### | [التذكير والتأنيث]
+",000,False,000,False,False,False,1,106
+"### | [فصل ومن الأسماء المؤنثة ما لا علامة فيه]
+",000,False,000,False,False,False,1,115
+"### | [فصل ومما ذكر لكونه مخصوصا بالرجال دون النساء]
+",000,False,000,False,False,False,1,85
+"### | [فصل الأعداد وتأنيثها]
+",000,False,000,False,False,False,1,144
+"### | [فصل ms438 وبكون الأعداد مبهمة تحتاج إلى مميز]
+",000,False,000,False,False,False,1,117
+"### | [النسبة]
+",000,False,000,False,False,False,1,202
+"### | [فصل والألف الثالثة تقلب واوا]
+",000,False,000,False,False,False,1,101
+"### | [فصل وينسب إلى الصدر من المركب]
+",000,False,000,False,False,False,1,95
+"### | [فصل وللعرب في النسبة إلى الأسماء المضافة]
+",000,False,000,False,False,False,1,64
+"### | [فصل إذا نسب إلى الجمع]
+",000,False,000,False,False,False,1,50
+"### | [فصل والأسماء المتصلة بالأفعال]
+",000,False,000,False,False,False,1,539
+"### | [الباب الثالث في الأفعال الغير المنصرفة وما يجري مجرى الأدوات]
+",000,False,000,False,False,False,1,404
+"### | [الباب الرابع في الحروف]
+",000,False,000,False,False,False,1,1396
+"### | [فصل الحروف المقطعة]
+",000,False,000,False,False,False,1,380
+"### | [فصل وأما انقسامات كثيرة]
+",000,False,000,False,False,False,1,135
+"### | [فصل وحروف الزيادة من جملة ذلك عشر]
+",000,False,000,False,False,False,1,416
+"### | [فصل وحروف البدل أربعة عشر]
+",000,False,000,False,False,False,1,630
+"### | [خاتمة الكتاب]
+",000,False,000,False,False,False,1,182

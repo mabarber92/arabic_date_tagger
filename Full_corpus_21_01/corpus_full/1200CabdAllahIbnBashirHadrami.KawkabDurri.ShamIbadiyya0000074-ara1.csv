@@ -1,0 +1,29 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK الأول دون المقدمة
+",000,False,000,False,False,False,1,46434
+"### | CHECK Part1 - Book1
+",000,False,000,False,False,False,1,49099
+"### | CHECK Part1 - Book2
+",000,False,000,False,False,False,1,33763
+"### | CHECK Part2 - Book1
+",000,False,000,False,False,False,1,42256
+"### | CHECK Part2 - Book2
+",000,False,000,False,False,False,1,41194
+"### | CHECK Part3 - Book1
+",000,False,000,False,False,False,1,59283
+"### | CHECK Part3 - Book2
+",000,False,000,False,False,False,1,49934
+"### | CHECK Part4 - Book1
+",000,False,000,False,False,False,1,40074
+"### | CHECK Part4 - Book2
+",000,False,000,False,False,False,1,33780
+"### | CHECK Part5 - Book1
+",000,False,000,False,False,False,1,41651
+"### | CHECK Part5 - Book2
+",000,False,000,False,False,False,1,40599
+"### | CHECK Part6 - Book1
+",000,False,000,False,False,False,1,262
+"### | CHECK Part6 - Book1
+",000,False,000,False,False,False,1,37312
+"### | CHECK Part6 - Book2
+",000,False,000,False,False,False,1,29395

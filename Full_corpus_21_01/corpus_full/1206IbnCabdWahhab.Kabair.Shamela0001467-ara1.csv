@@ -1,0 +1,793 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | مقدمة
+",000,False,000,False,False,False,1,202
+"### | 1 - 
+",000,False,000,False,False,False,1,40
+"### | 2 - 
+",000,False,000,False,False,False,1,23
+"### | 3 - 
+",000,False,000,False,False,False,1,37
+"### | 4 - 
+",000,False,000,False,False,False,1,33
+"### | 5 - 
+",000,False,000,False,False,False,1,42
+"### | 6 - 
+",000,False,000,False,False,False,1,9
+"### | 7 - 
+",000,False,000,False,False,False,1,7
+"### | 8 - 
+",000,False,000,False,False,False,1,72
+"### | ترجمة موجزة عن المؤلف
+",000,False,000,False,False,False,1,1399
+"### | 2 - 
+",000,False,000,False,False,False,1,135
+"### | 3 - 
+",000,False,000,False,False,False,1,150
+"### | 4 - 
+",000,False,000,False,False,False,1,1332
+"### | كتاب الكبائر
+",000,False,000,False,False,False,1,4
+"### | باب أكبر الكبائر
+",000,False,000,False,False,False,1,95
+"### | 1 - 
+",000,False,000,False,False,False,1,391
+"### | باب كبائر القلب
+",000,False,000,False,False,False,1,11
+"### | 2 - 
+",000,False,000,False,False,False,1,176
+"### | 3 - 
+",000,False,000,False,False,False,1,205
+"### | باب ذكر الكبر
+",000,False,000,False,False,False,1,32
+"### | 4 - 
+",000,False,000,False,False,False,1,400
+"### | 5 - 
+",000,False,000,False,False,False,1,45
+"### | 6 - 
+",000,False,000,False,False,False,1,43
+"### | 7 - 
+",000,False,000,False,False,False,1,202
+"### | باب ذكر العجب
+",000,False,000,False,False,False,1,30
+"### | 8 - 
+",000,False,000,False,False,False,1,203
+"### | 9 - 
+",000,False,000,False,False,False,1,80
+"### | باب ذكر الرياء والسمعة
+",000,False,000,False,False,False,1,28
+"### | 10 - 
+",000,False,000,False,False,False,1,182
+"### | 11 - 
+",000,False,000,False,False,False,1,25
+"### | 12 - 
+",000,False,000,False,False,False,1,189
+"### | باب الفرح
+",000,False,000,False,False,False,1,136
+"### | باب ذكر اليأس من روح الله والأمن من مكر الله
+",000,False,000,False,False,False,1,65
+"### | 13 - 
+",000,False,000,False,False,False,1,102
+"### | باب ذكر سوء ms021 الظن بالله
+",000,False,000,False,False,False,1,48
+"### | 14 - 
+",000,False,000,False,False,False,1,153
+"### | 15 - 
+",000,False,000,False,False,False,1,180
+"### | باب ذكر إرادة العلو والفساد
+",000,False,000,False,False,False,1,34
+"### | 16 - 
+",000,False,000,False,False,False,1,27
+"### | 17 - 
+",000,False,000,False,False,False,1,216
+"### | باب العداوة والبغضاء
+",000,False,000,False,False,False,1,31
+"### | باب الفحش
+",000,False,000,False,False,False,1,30
+"### | باب ذكر مودة أعداء الله
+",000,False,000,False,False,False,1,90
+"### | 18 - 
+",000,False,000,False,False,False,1,83
+"### | باب ذكر قسوة القلب
+",000,False,000,False,False,False,1,66
+"### | 19 - 
+",000,False,000,False,False,False,1,209
+"### | 20 - 
+",000,False,000,False,False,False,1,34
+"### | 21 - 
+",000,False,000,False,False,False,1,127
+"### | باب ذكر ضعف القلب
+",000,False,000,False,False,False,1,63
+"### | 22 - 
+",000,False,000,False,False,False,1,142
+"### | أبواب كبائر اللسان
+",000,False,000,False,False,False,1,3
+"### | باب التحذير من شر اللسان
+",000,False,000,False,False,False,1,36
+"### | 23 - 
+",000,False,000,False,False,False,1,154
+"### | 24 - 
+",000,False,000,False,False,False,1,143
+"### | 25 - 
+",000,False,000,False,False,False,1,27
+"### | 26 - 
+",000,False,000,False,False,False,1,33
+"### | 27 - 
+",000,False,000,False,False,False,1,230
+"### | 28 - 
+",000,False,000,False,False,False,1,32
+"### | 29 - 
+",000,False,000,False,False,False,1,124
+"### | 30 - 
+",000,False,000,False,False,False,1,65
+"### | باب ما جاء في كثرة الكلام
+",000,False,000,False,False,False,1,24
+"### | 31 - 
+",000,False,000,False,False,False,1,25
+"### | 32 - 
+",000,False,000,False,False,False,1,186
+"### | باب التشدق وتكلف الفصاحة
+",000,False,000,False,False,False,1,20
+"### | 33 - 
+",000,False,000,False,False,False,1,89
+"### | 34 - 
+",000,False,000,False,False,False,1,27
+"### | 35 - 
+",000,False,000,False,False,False,1,26
+"### | 36 - 
+",000,False,000,False,False,False,1,113
+"### | باب شدة الجدال
+",000,False,000,False,False,False,1,19
+"### | 37 - 
+",000,False,000,False,False,False,1,12
+"### | 38 - 
+",000,False,000,False,False,False,1,100
+"### | باب من هابه الناس خوفا من لسانه
+",000,False,000,False,False,False,1,20
+"### | 39 - 
+",000,False,000,False,False,False,1,122
+"### | باب البذاء والفحش
+",000,False,000,False,False,False,1,18
+"### | 40 - 
+",000,False,000,False,False,False,1,20
+"### | 41 - 
+",000,False,000,False,False,False,1,148
+"### | 42 - 
+",000,False,000,False,False,False,1,22
+"### | 43 - 
+",000,False,000,False,False,False,1,32
+"### | 44 - 
+",000,False,000,False,False,False,1,79
+"### | باب ما جاء في الكذب
+",000,False,000,False,False,False,1,35
+"### | 45 - 
+",000,False,000,False,False,False,1,106
+"### | 46 - 
+",000,False,000,False,False,False,1,27
+"### | 47 - 
+",000,False,000,False,False,False,1,24
+"### | 48 - 
+",000,False,000,False,False,False,1,76
+"### | باب ما جاء في إخلاف الوعد
+",000,False,000,False,False,False,1,38
+"### | 49 - 
+",000,False,000,False,False,False,1,127
+"### | 50 - 
+",000,False,000,False,False,False,1,163
+"### | باب ما جاء في زعموا
+",000,False,000,False,False,False,1,43
+"### | 51 - 
+",000,False,000,False,False,False,1,153
+"### | 52 - 
+",000,False,000,False,False,False,1,66
+"### | باب ما جاء في الكذب والمزح ونحوه
+",000,False,000,False,False,False,1,32
+"### | 53 - 
+",000,False,000,False,False,False,1,25
+"### | 54 - 
+",000,False,000,False,False,False,1,222
+"### | 55 - 
+",000,False,000,False,False,False,1,56
+"### | 56 - 
+",000,False,000,False,False,False,1,49
+"### | 57 - 
+",000,False,000,False,False,False,1,107
+"### | 58 - 
+",000,False,000,False,False,False,1,54
+"### | باب ما جاء في التملق ومدح الإنسان بما ليس فيه
+",000,False,000,False,False,False,1,77
+"### | باب ما جاء في النهي عن كون الإنسان مداحا
+",000,False,000,False,False,False,1,38
+"### | 59 - 
+",000,False,000,False,False,False,1,43
+"### | 60 - 
+",000,False,000,False,False,False,1,212
+"### | باب ما يمحق الكذب من البركة
+",000,False,000,False,False,False,1,20
+"### | 61 - 
+",000,False,000,False,False,False,1,104
+"### | باب من تحلم ولم ير شيئا
+",000,False,000,False,False,False,1,20
+"### | 62 - 
+",000,False,000,False,False,False,1,106
+"### | باب ذكر مرض القلب وموته
+",000,False,000,False,False,False,1,17
+"### | 63 - 
+",000,False,000,False,False,False,1,319
+"### | 64 - 
+",000,False,000,False,False,False,1,120
+"### | باب ذكر الرضا بالمعصية
+",000,False,000,False,False,False,1,36
+"### | 65 - 
+",000,False,000,False,False,False,1,84
+"### | 66 - 
+",000,False,000,False,False,False,1,124
+"### | باب ذكر تمني المعصية والحرص عليها
+",000,False,000,False,False,False,1,20
+"### | 67 - 
+",000,False,000,False,False,False,1,176
+"### | 68 - 
+",000,False,000,False,False,False,1,263
+"### | باب ذكر الريب
+",000,False,000,False,False,False,1,123
+"### | 69 - 
+",000,False,000,False,False,False,1,119
+"### | باب السخط
+",000,False,000,False,False,False,1,39
+"### | 70 - 
+",000,False,000,False,False,False,1,102
+"### | باب القلق والاضطراب
+",000,False,000,False,False,False,1,48
+"### | 71 - 
+",000,False,000,False,False,False,1,150
+"### | 72 - 
+",000,False,000,False,False,False,1,20
+"### | 73 - 
+",000,False,000,False,False,False,1,148
+"### | باب الجهالة
+",000,False,000,False,False,False,1,25
+"### | 74 - 75 - 
+",000,False,000,False,False,False,1,155
+"### | 76 - 
+",000,False,000,False,False,False,1,42
+"### | باب القحة
+",000,False,000,False,False,False,1,20
+"### | 77 - 
+",000,False,000,False,False,False,1,149
+"### | باب الحرص على المال والشرف
+",000,False,000,False,False,False,1,17
+"### | 78 - 
+",000,False,000,False,False,False,1,133
+"### | باب الهلع والجبن
+",000,False,000,False,False,False,1,13
+"### | 79 - 
+",000,False,000,False,False,False,1,193
+"### | 80 - 
+",000,False,000,False,False,False,1,30
+"### | باب البخل
+",000,False,000,False,False,False,1,25
+"### | 81 - 
+",000,False,000,False,False,False,1,250
+"### | باب عقوبة البخل
+",000,False,000,False,False,False,1,14
+"### | 82 - 
+",000,False,000,False,False,False,1,113
+"### | 83 - 
+",000,False,000,False,False,False,1,11
+"### | 84 - 
+",000,False,000,False,False,False,1,144
+"### | باب ازدراء النعمة والاستخفاف بحرمات الله
+",000,False,000,False,False,False,1,22
+"### | باب بغض الصالحين
+",000,False,000,False,False,False,1,30
+"### | 85 - 
+",000,False,000,False,False,False,1,230
+"### | 86 - 
+",000,False,000,False,False,False,1,21
+"### | باب الحسد
+",000,False,000,False,False,False,1,20
+"### | 87 - 
+",000,False,000,False,False,False,1,15
+"### | 88 - 
+",000,False,000,False,False,False,1,222
+"### | باب سوء الظن بالمسلمين
+",000,False,000,False,False,False,1,27
+"### | 89 - 
+",000,False,000,False,False,False,1,180
+"### | باب ما جاء في الكذب على الله أو على رسوله
+",000,False,000,False,False,False,1,44
+"### | 90 - 
+",000,False,000,False,False,False,1,29
+"### | 91 - 
+",000,False,000,False,False,False,1,138
+"### | باب ما ms052 جاء في القول على الله بلا علم
+",000,False,000,False,False,False,1,61
+"### | 92 - 
+",000,False,000,False,False,False,1,257
+"### | باب ما جاء في شهادة الزور
+",000,False,000,False,False,False,1,21
+"### | 93 - 
+",000,False,000,False,False,False,1,91
+"### | 94 - 
+",000,False,000,False,False,False,1,129
+"### | باب ما جاء في اليمين الغموس
+",000,False,000,False,False,False,1,22
+"### | 95 - 
+",000,False,000,False,False,False,1,46
+"### | 96 - 
+",000,False,000,False,False,False,1,151
+"### | باب ما جاء في قذف المحصنات
+",000,False,000,False,False,False,1,26
+"### | 97 - 
+",000,False,000,False,False,False,1,104
+"### | باب ما جاء في ms055 ذي الوجهين
+",000,False,000,False,False,False,1,35
+"### | 98 - 
+",000,False,000,False,False,False,1,183
+"### | 99 - 
+",000,False,000,False,False,False,1,99
+"### | باب ما جاء في النميمة
+",000,False,000,False,False,False,1,25
+"### | 100 - 
+",000,False,000,False,False,False,1,212
+"### | 101 - 
+",000,False,000,False,False,False,1,23
+"### | 102 - 
+",000,False,000,False,False,False,1,104
+"### | باب ما جاء في البهتان
+",000,False,000,False,False,False,1,30
+"### | 103 - 
+",000,False,000,False,False,False,1,29
+"### | 104 - 
+",000,False,000,False,False,False,1,114
+"### | باب ما جاء من اللعن
+",000,False,000,False,False,False,1,61
+"### | 106 - 
+",000,False,000,False,False,False,1,19
+"### | 107 - 
+",000,False,000,False,False,False,1,111
+"### | 108 - 
+",000,False,000,False,False,False,1,40
+"### | باب ما جاء في إفشاء السر
+",000,False,000,False,False,False,1,20
+"### | 109 - 
+",000,False,000,False,False,False,1,33
+"### | 110 - 
+",000,False,000,False,False,False,1,120
+"### | 111 - 
+",000,False,000,False,False,False,1,49
+"### | باب ما جاء في لعن المسلم
+",000,False,000,False,False,False,1,20
+"### | 112 - 
+",000,False,000,False,False,False,1,21
+"### | 113 - 
+",000,False,000,False,False,False,1,110
+"### | باب ذكر تأكده في الأموات
+",000,False,000,False,False,False,1,17
+"### | 114 - 
+",000,False,000,False,False,False,1,139
+"### | باب ذكر قول يا عدو الله أو يا فاسق أو يا كافر ونحوه
+",000,False,000,False,False,False,1,41
+"### | 115 - 
+",000,False,000,False,False,False,1,239
+"### | 116 - 
+",000,False,000,False,False,False,1,17
+"### | 117 - 
+",000,False,000,False,False,False,1,91
+"### | باب ما جاء في لعن الرجل والديه
+",000,False,000,False,False,False,1,23
+"### | 118 - 
+",000,False,000,False,False,False,1,162
+"### | باب النهي عن دعوى الجاهلية
+",000,False,000,False,False,False,1,17
+"### | 119 - 
+",000,False,000,False,False,False,1,93
+"### | باب النهي عن الشفاعة في الحدود
+",000,False,000,False,False,False,1,35
+"### | 120 - 
+",000,False,000,False,False,False,1,152
+"### | 121 - 
+",000,False,000,False,False,False,1,13
+"### | 122 - 
+",000,False,000,False,False,False,1,198
+"### | باب من أعان على خصومة في الباطل
+",000,False,000,False,False,False,1,48
+"### | 123 - 
+",000,False,000,False,False,False,1,115
+"### | باب من شهد أمرا فليتكلم بخير أو ليسكت
+",000,False,000,False,False,False,1,26
+"### | 124 - 
+",000,False,000,False,False,False,1,36
+"### | باب ما يحذر من الكلام في الفتن
+",000,False,000,False,False,False,1,23
+"### | 125 - 
+",000,False,000,False,False,False,1,32
+"### | 126 - 
+",000,False,000,False,False,False,1,189
+"### | 127 - 
+",000,False,000,False,False,False,1,41
+"### | باب قول هلك الناس
+",000,False,000,False,False,False,1,14
+"### | 128 - 
+",000,False,000,False,False,False,1,103
+"### | باب الفخر
+",000,False,000,False,False,False,1,12
+"### | 129 - 
+",000,False,000,False,False,False,1,38
+"### | 130 - 
+",000,False,000,False,False,False,1,129
+"### | 131 - 
+",000,False,000,False,False,False,1,165
+"### | باب الطعن في الأنساب
+",000,False,000,False,False,False,1,14
+"### | 132 - 
+",000,False,000,False,False,False,1,151
+"### | باب من ادعى نسبا ليس له
+",000,False,000,False,False,False,1,20
+"### | 133 - 
+",000,False,000,False,False,False,1,15
+"### | 134 - 
+",000,False,000,False,False,False,1,148
+"### | 135 - 
+",000,False,000,False,False,False,1,91
+"### | باب من تبرأ من نسبه
+",000,False,000,False,False,False,1,17
+"### | 136 - 
+",000,False,000,False,False,False,1,21
+"### | 137 - 
+",000,False,000,False,False,False,1,21
+"### | 138 - 
+",000,False,000,False,False,False,1,230
+"### | باب من ادعى ما ليس له ومن إذا خاصم فجر
+",000,False,000,False,False,False,1,32
+"### | 139 - 
+",000,False,000,False,False,False,1,35
+"### | 140 - 
+",000,False,000,False,False,False,1,61
+"### | باب الدعوى في العلم افتخارا
+",000,False,000,False,False,False,1,17
+"### | 141 - 
+",000,False,000,False,False,False,1,63
+"### | 142 - 
+",000,False,000,False,False,False,1,103
+"### | باب ذكر جحود النعمة
+",000,False,000,False,False,False,1,14
+"### | 143 - 
+",000,False,000,False,False,False,1,46
+"### | 144 - 
+",000,False,000,False,False,False,1,148
+"### | 145 - 
+",000,False,000,False,False,False,1,100
+"### | باب ما جاء في لمز أهل طاعة الله والاستهزاء بضعفتهم
+",000,False,000,False,False,False,1,32
+"### | 146 - 
+",000,False,000,False,False,False,1,87
+"### | باب الاستهزاء
+",000,False,000,False,False,False,1,46
+"### | 147 - 
+",000,False,000,False,False,False,1,71
+"### | 148 - 
+",000,False,000,False,False,False,1,62
+"### | باب ترويع المسلم
+",000,False,000,False,False,False,1,11
+"### | 149 - 
+",000,False,000,False,False,False,1,96
+"### | باب المتشبع بما لم يعط
+",000,False,000,False,False,False,1,17
+"### | 150 - 
+",000,False,000,False,False,False,1,128
+"### | باب التحدث بالمعصية
+",000,False,000,False,False,False,1,11
+"### | 151 - 
+",000,False,000,False,False,False,1,149
+"### | باب ما جاء في الشتم بالزنا
+",000,False,000,False,False,False,1,20
+"### | 152 - 
+",000,False,000,False,False,False,1,102
+"### | باب النهي عن تسمية الفاسق سيدا
+",000,False,000,False,False,False,1,20
+"### | 153 - 
+",000,False,000,False,False,False,1,138
+"### | باب النهي عن الحلف بالأمانة
+",000,False,000,False,False,False,1,17
+"### | 154 - 
+",000,False,000,False,False,False,1,131
+"### | باب النهي عن الحلف بملة غير الإسلام
+",000,False,000,False,False,False,1,23
+"### | 155 - 
+",000,False,000,False,False,False,1,183
+"### | 156 - 
+",000,False,000,False,False,False,1,167
+"### | باب ما جاء في الغيبة
+",000,False,000,False,False,False,1,20
+"### | 157 - 
+",000,False,000,False,False,False,1,241
+"### | 158 - 
+",000,False,000,False,False,False,1,220
+"### | 159 - 
+",000,False,000,False,False,False,1,35
+"### | 160 - 
+",000,False,000,False,False,False,1,104
+"### | 161 - 
+",000,False,000,False,False,False,1,43
+"### | 162 - 
+",000,False,000,False,False,False,1,14
+"### | 163 - 
+",000,False,000,False,False,False,1,20
+"### | 164 - 
+",000,False,000,False,False,False,1,91
+"### | باب ما جاء في إضلال الأعمى عن الطريق
+",000,False,000,False,False,False,1,26
+"### | 165 - 
+",000,False,000,False,False,False,1,20
+"### | 166 - 
+",000,False,000,False,False,False,1,142
+"### | باب تشييع الفاحشة في المؤمنين
+",000,False,000,False,False,False,1,28
+"### | باب الرشوة
+",000,False,000,False,False,False,1,15
+"### | 167 - 
+",000,False,000,False,False,False,1,149
+"### | 168 - 
+",000,False,000,False,False,False,1,72
+"### | باب هدايا الأمراء غلول
+",000,False,000,False,False,False,1,14
+"### | 169 - 
+",000,False,000,False,False,False,1,269
+"### | باب الهدية على الشفاعة
+",000,False,000,False,False,False,1,14
+"### | 170 - 
+",000,False,000,False,False,False,1,113
+"### | باب الغلول
+",000,False,000,False,False,False,1,27
+"### | 171 - 
+",000,False,000,False,False,False,1,139
+"### | باب طاعة الأمراء
+",000,False,000,False,False,False,1,27
+"### | 172 - 
+",000,False,000,False,False,False,1,122
+"### | 173 - 
+",000,False,000,False,False,False,1,148
+"### | باب الخروج عن الجماعة
+",000,False,000,False,False,False,1,39
+"### | 174 - 
+",000,False,000,False,False,False,1,188
+"### | 175 - 
+",000,False,000,False,False,False,1,50
+"### | 176 - 
+",000,False,000,False,False,False,1,71
+"### | باب ما جاء في الفتن
+",000,False,000,False,False,False,1,43
+"### | 177 - 
+",000,False,000,False,False,False,1,206
+"### | 178 - 
+",000,False,000,False,False,False,1,27
+"### | 179 - 
+",000,False,000,False,False,False,1,161
+"### | 180 - 
+",000,False,000,False,False,False,1,400
+"### | 181 - 
+",000,False,000,False,False,False,1,250
+"### | 182 - 
+",000,False,000,False,False,False,1,74
+"### | باب تعظيم قتل النفس التي حرم الله إلا بالحق
+",000,False,000,False,False,False,1,29
+"### | 183 - 
+",000,False,000,False,False,False,1,322
+"### | 184 - 
+",000,False,000,False,False,False,1,126
+"### | 185 - 
+",000,False,000,False,False,False,1,96
+"### | 186 - 
+",000,False,000,False,False,False,1,20
+"### | 187 - 
+",000,False,000,False,False,False,1,103
+"### | باب تكثير السواد في الفتن
+",000,False,000,False,False,False,1,36
+"### | 189 - 
+",000,False,000,False,False,False,1,368
+"### | 190 - 
+",000,False,000,False,False,False,1,42
+"### | باب ذكر العقوق
+",000,False,000,False,False,False,1,14
+"### | 191 - 
+",000,False,000,False,False,False,1,170
+"### | 192 - 
+",000,False,000,False,False,False,1,38
+"### | 193 - 
+",000,False,000,False,False,False,1,33
+"### | 194 - 
+",000,False,000,False,False,False,1,171
+"### | باب ذكر القطيعة
+",000,False,000,False,False,False,1,35
+"### | 195 - 
+",000,False,000,False,False,False,1,173
+"### | 196 - 
+",000,False,000,False,False,False,1,85
+"### | باب أذى الجار
+",000,False,000,False,False,False,1,20
+"### | 197 - 
+",000,False,000,False,False,False,1,232
+"### | 198 - 
+",000,False,000,False,False,False,1,140
+"### | 199 - 
+",000,False,000,False,False,False,1,20
+"### | 200 - 
+",000,False,000,False,False,False,1,21
+"### | 201 - 
+",000,False,000,False,False,False,1,143
+"### | باب الاستخفاف بأهل الفضل
+",000,False,000,False,False,False,1,14
+"### | 202 - 
+",000,False,000,False,False,False,1,15
+"### | 203 - 
+",000,False,000,False,False,False,1,199
+"### | 204 - 
+",000,False,000,False,False,False,1,68
+"### | باب إغضاب الزوج
+",000,False,000,False,False,False,1,21
+"### | 205 - 
+",000,False,000,False,False,False,1,154
+"### | 206 - 
+",000,False,000,False,False,False,1,97
+"### | باب أذى الصالحين
+",000,False,000,False,False,False,1,26
+"### | 207 - 
+",000,False,000,False,False,False,1,68
+"### | 208 - 
+",000,False,000,False,False,False,1,87
+"### | باب ما جاء في الأمانة والخيانة فيها وتفسير الأمانة
+",000,False,000,False,False,False,1,163
+"### | باب الولايات من الأمانة
+",000,False,000,False,False,False,1,14
+"### | 209 - 
+",000,False,000,False,False,False,1,133
+"### | باب النهي عن طلبها
+",000,False,000,False,False,False,1,14
+"### | 210 - 
+",000,False,000,False,False,False,1,257
+"### | 211 - 
+",000,False,000,False,False,False,1,137
+"### | باب ما جاء في غش الرعية
+",000,False,000,False,False,False,1,20
+"### | 212 - 
+",000,False,000,False,False,False,1,115
+"### | باب الشفقة على الرعية
+",000,False,000,False,False,False,1,29
+"### | 213 - 
+",000,False,000,False,False,False,1,55
+"### | باب الاحتجاب دون الرعية
+",000,False,000,False,False,False,1,14
+"### | 214 - 
+",000,False,000,False,False,False,1,53
+"### | 215 - 
+",000,False,000,False,False,False,1,98
+"### | باب المحاباة في الولاية
+",000,False,000,False,False,False,1,14
+"### | 216 - 
+",000,False,000,False,False,False,1,73
+"### | 217 - 
+",000,False,000,False,False,False,1,79
+"### | باب الجور والظلم وخطر الولاية
+",000,False,000,False,False,False,1,17
+"### | 218 - 
+",000,False,000,False,False,False,1,23
+"### | 219 - 
+",000,False,000,False,False,False,1,214
+"### | 220 - 
+",000,False,000,False,False,False,1,30
+"### | 221 - 
+",000,False,000,False,False,False,1,87
+"### | باب ولاية من لا يحسن العدل
+",000,False,000,False,False,False,1,18
+"### | 222 - 
+",000,False,000,False,False,False,1,39
+"### | 322 - 
+",000,False,000,False,False,False,1,167
+"### | 224 - 
+",000,False,000,False,False,False,1,115
+"### | باب الأمانة في البيع والشراء والكيل والوزن
+",000,False,000,False,False,False,1,22
+"### | 225 - 
+",000,False,000,False,False,False,1,235
+"### | 226 - 
+",000,False,000,False,False,False,1,52
+"### | باب قوله كلكم راع وكلكم مسئول عن رعيته
+",000,False,000,False,False,False,1,36
+"### | 227 - 
+",000,False,000,False,False,False,1,188
+"### | باب الرفق بالمملوك
+",000,False,000,False,False,False,1,11
+"### | 228 - 
+",000,False,000,False,False,False,1,67
+"### | باب الرفق بالبهائم
+",000,False,000,False,False,False,1,11
+"### | 229 - 
+",000,False,000,False,False,False,1,49
+"### | 230 - 
+",000,False,000,False,False,False,1,35
+"### | 231 - 
+",000,False,000,False,False,False,1,60
+"### | 232 - 
+",000,False,000,False,False,False,1,47
+"### | باب إباق العبد
+",000,False,000,False,False,False,1,11
+"### | 233 - 
+",000,False,000,False,False,False,1,94
+"### | باب ظلم الأجير
+",000,False,000,False,False,False,1,11
+"### | 234 - 
+",000,False,000,False,False,False,1,158
+"### | باب سؤال المرأة الطلاق
+",000,False,000,False,False,False,1,14
+"### | 235 - 
+",000,False,000,False,False,False,1,134
+"### | باب ما جاء في الديوث
+",000,False,000,False,False,False,1,17
+"### | 236 - 
+",000,False,000,False,False,False,1,199
+"### | باب ظلم المرأة
+",000,False,000,False,False,False,1,11
+"### | 237 - 
+",000,False,000,False,False,False,1,145
+"### | باب الإشارة بالسلاح على وجه اللعب
+",000,False,000,False,False,False,1,20
+"### | 238 - 
+",000,False,000,False,False,False,1,32
+"### | 239 - 
+",000,False,000,False,False,False,1,150
+"### | 240 - 
+",000,False,000,False,False,False,1,19
+"### | 241 - 
+",000,False,000,False,False,False,1,83
+"### | باب العصبية
+",000,False,000,False,False,False,1,8
+"### | 242 - 
+",000,False,000,False,False,False,1,27
+"### | 243 - 
+",000,False,000,False,False,False,1,106
+"### | باب من آوى محدثا
+",000,False,000,False,False,False,1,14
+"### | 244 - 
+",000,False,000,False,False,False,1,181
+"### | كتاب المظالم
+",000,False,000,False,False,False,1,2
+"### | باب ظلم اليتيم
+",000,False,000,False,False,False,1,26
+"### | 245 - 
+",000,False,000,False,False,False,1,383
+"### | باب غصب الأرض
+",000,False,000,False,False,False,1,11
+"### | 246 - 
+",000,False,000,False,False,False,1,100
+"### | باب الظلم في الأبدان
+",000,False,000,False,False,False,1,14
+"### | 247 - 
+",000,False,000,False,False,False,1,214
+"### | 248 - 
+",000,False,000,False,False,False,1,60
+"### | باب الظلم في الأموال
+",000,False,000,False,False,False,1,14
+"### | 249 - 
+",000,False,000,False,False,False,1,94
+"### | باب خذلان المظلوم
+",000,False,000,False,False,False,1,11
+"### | 250 - 
+",000,False,000,False,False,False,1,183
+"### | 251 - 
+",000,False,000,False,False,False,1,80
+"### | باب ما جاء في أخوة الإسلام وحق المسلم على المسلم
+",000,False,000,False,False,False,1,39
+"### | 252 - 
+",000,False,000,False,False,False,1,154
+"### | 253 - 
+",000,False,000,False,False,False,1,14
+"### | 254 - 
+",000,False,000,False,False,False,1,185
+"### | 255 - 
+",000,False,000,False,False,False,1,61
+"### | 256 - 
+",000,False,000,False,False,False,1,174
+"### | 257 - 
+",000,False,000,False,False,False,1,14
+"### | 258 - 
+",000,False,000,False,False,False,1,231

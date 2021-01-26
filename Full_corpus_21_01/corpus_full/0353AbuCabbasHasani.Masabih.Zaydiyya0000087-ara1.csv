@@ -1,0 +1,675 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO المصابيح
+",000,False,000,False,False,False,1,222
+"### || AUTO شكر وتقدير
+",000,False,000,False,False,False,2,208
+"### | AUTO تقديم شيخ الإسلام مجد الدين بن محمد بن منصور المؤيدي.
+",000,False,000,False,False,False,1,8229
+"### || AUTO لا معرفة للعلم وأبوابه إلا بالكشف عن حملته وأربابه
+",000,False,000,False,False,False,2,454
+"### || AUTO لا ثمرة لأي قول وعمل لا يقصد بهما مطابقة أوامر الله ونواهيه
+",000,False,000,False,False,False,2,630
+"### || AUTO افتراق الأمة
+",000,False,000,False,False,False,2,780
+"### || AUTO الفرقة الناجية
+",000,False,000,False,False,False,2,4684
+"### || AUTO تعيين أهل السنة والجماعة، وبيان أهل البدعة والفرقة
+",000,year,000,False,False,False,2,1159
+"### | AUTO مقدمة التحقيق
+",000,False,000,False,False,False,1,749
+"### || AUTO أولا: خطة ومنهج تحقيق المخطوطة
+",000,False,000,False,False,False,2,65
+"### || AUTO صعوبات واجهت المحقق
+",000,False,000,False,False,False,2,110
+"### || AUTO منهج تحقيق النص
+",000,False,000,False,False,False,2,298
+"### || AUTO ثانيا: بين المخطوطة ومؤلفها
+",000,False,000,False,False,False,2,110
+"### | AUTO ترجمة المؤلف (الإمام أبو العباس الحسني)
+",000,False,000,False,False,False,1,4913
+"### || AUTO اسمه ونسبه
+",000,False,000,False,False,False,2,33
+"### || AUTO مولده ونشأته
+",000,False,000,False,False,False,2,65
+"### || AUTO مشائخه الذين أخذ عنهم العلوم
+",000,False,000,False,False,False,2,255
+"### || AUTO من روى عنهم المؤلف
+",000,False,000,False,False,False,2,2251
+"### || AUTO تنقلاته ورحلاته لطلب العلم
+",000,False,000,False,False,False,2,186
+"### || AUTO الملوك الذين عاصرهم.
+",000,False,000,False,False,False,2,118
+"### || AUTO ومن أئمة أهل البيت عليهم السلام عاصر المؤلف:
+",000,False,000,False,False,False,2,77
+"### || AUTO تلامذته ومكانته العلمية
+",000,False,000,False,False,False,2,95
+"### || AUTO نعته (ما قال فيه بعض العلماء من النعوت)
+",000,False,000,False,False,False,2,139
+"### || AUTO مؤلفاته
+",000,False,000,False,False,False,2,209
+"### || AUTO وفاته ومكان دفنه
+",000,False,000,False,False,False,2,52
+"### || AUTO مصادر ترجمته
+",000,False,000,False,False,False,2,152
+"### | AUTO ترجمة الشيخ علي بن بلال
+",000,False,000,False,False,False,1,3063
+"### || AUTO اسمه ونسبه
+",000,False,000,False,False,False,2,22
+"### || AUTO مولده ونشأته ووفاته
+",000,False,000,False,False,False,2,111
+"### || AUTO مشايخه الذين أخذ عنهم
+",000,False,000,False,False,False,2,169
+"### || AUTO مؤلفاته
+",000,False,000,False,False,False,2,131
+"### || AUTO ما قاله العلماء فيه
+",000,False,000,False,False,False,2,37
+"### || AUTO مصادر ترجمته
+",000,False,000,False,False,False,2,29
+"### || AUTO منهج ومصادر المؤلف
+",000,False,000,False,False,False,2,49
+"### || AUTO مصادر المؤلف
+",000,False,000,False,False,False,2,631
+"### || AUTO منهج ومصادر الشيخ علي بن بلال
+",000,False,000,False,False,False,2,70
+"### || AUTO مصادره
+",000,False,000,False,False,False,2,81
+"### || AUTO أهمية وتحليل موضوع المخطوطة
+",000,False,000,False,False,False,2,197
+"### || AUTO ثالثا: وصف النسخ المعتمدة في التحقيق
+",000,False,000,False,False,False,2,1029
+"### | CHECK [المصابيح في السيرة]
+",000,False,000,False,False,False,1,45121
+"### || AUTO خطبة الكتاب
+",000,False,000,False,False,False,2,76
+"### || AUTO [(1)الرسول الأعظم محمد بن عبد الله بن عبد المطلب بن هاشم]
+",000,False,000,False,False,False,2,22726
+"### ||| AUTO [اصطفاؤه صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,3,137
+"### ||| AUTO [تزويج والده صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,3,518
+"### ||| AUTO [قصة أصحاب الفيل]
+",000,False,000,False,False,False,3,60
+"### ||| AUTO [مولده صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,3,124
+"### ||| AUTO [رؤيا عبد المطلب]
+",000,False,000,False,False,False,3,92
+"### ||| AUTO [وصية هاشم للمطلب بسقاية الحج]
+",000,False,000,False,False,False,3,85
+"### ||| AUTO ### |||| AUTO [من دلائل نبوته صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,3,7109
+"### |||| AUTO [من دلائل نبوته صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,4,154
+"### |||| AUTO [ثانيا: صفة حمله صلى الله عليه وآله وسلم وذكر مولده]
+",000,False,000,False,False,False,4,156
+"### |||| AUTO [ثالثا: اضطراب الأصنام ونداء الذئب]
+",000,False,000,False,False,False,4,335
+"### |||| AUTO [رابعا: حديث الرضاع]
+",000,False,000,False,False,False,4,368
+"### |||| AUTO [خامسا: خبر شق الصدر]
+",000,False,000,False,False,False,4,220
+"### |||| AUTO [سادسا: تبشير أهل الزبور بنبوته صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,4,188
+"### |||| AUTO [سابعا: حديث حليمة وما رأت في اليقظة والمنام]
+",000,False,000,False,False,False,4,357
+"### |||| AUTO [رواية أخرى في شق صدره صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,4,501
+"### |||| AUTO [وفاة والدته صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,4,46
+"### |||| AUTO [مواقف لعبد المطلب]
+",000,False,000,False,False,False,4,51
+"### |||| AUTO [وفاة والده صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,4,61
+"### |||| AUTO [وفاة جده صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,4,465
+"### |||| AUTO [ذكر فاطمة بنت أسد]
+",000,False,000,False,False,False,4,212
+"### |||| AUTO [خروجه صلى الله عليه وآله وسلم مع عمه إلى الشام]
+",000,False,000,False,False,False,4,57
+"### |||| AUTO [قصة بحيرى: جرجيس النصراني]
+",000,False,000,False,False,False,4,265
+"### |||| AUTO [تجارته صلى الله عليه وآله وسلم لخديجة]
+",000,False,000,False,False,False,4,147
+"### |||| AUTO [زواجه صلى الله عليه وآله وسلم بخديجة]
+",000,False,000,False,False,False,4,304
+"### |||| AUTO [خطبة أبي طالب في تزويج خديجة]
+",000,False,000,False,False,False,4,306
+"### |||| AUTO [بدء نزول الوحي على رسول الله صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,4,265
+"### |||| AUTO [ترائي جبريل لرسول الله عليهما السلام]
+",000,False,000,False,False,False,4,201
+"### |||| AUTO [ترائي جبريل لرسول الله عليهما السلام على صورته]
+",000,False,000,False,False,False,4,231
+"### |||| AUTO [ذكر نزول الوحي على النبيين وتوقيفه]
+",000,False,000,False,False,False,4,152
+"### |||| AUTO [مواعظ وأمثال من صحف إبراهيم عليه السلام]
+",000,False,000,False,False,False,4,205
+"### |||| AUTO [تلقي الملائكة الوحي قبل بلوغه الأرض]
+",000,False,000,False,False,False,4,343
+"### |||| AUTO [ذكر بعض دلائل نبوته صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,4,133
+"### |||| AUTO [قصة بقرة آل ذريح]
+",000,False,000,False,False,False,4,117
+"### |||| AUTO [قصة بقرة بني سالم]
+",000,False,000,False,False,False,4,71
+"### |||| AUTO [قصة الذئب]
+",000,False,000,False,False,False,4,68
+"### |||| AUTO [قصة الجمل]
+",000,False,000,False,False,False,4,123
+"### |||| AUTO [قصة تسعة نفر من حضرموت]
+",000,False,000,False,False,False,4,150
+"### |||| AUTO [قصة معجزة الشجرة]
+",000,False,000,False,False,False,4,159
+"### |||| AUTO [إظهار دعوته وما رافقها من معجزات]
+",000,False,000,False,False,False,4,223
+"### |||| AUTO [إخباره صلى الله عليه وآله وسلم بسبعة رهط يأتون من وراء
+",000,False,000,False,False,False,4,86
+"### |||| AUTO [إخباره صلى الله عليه وآله وسلم بصفات أنصار أمير المؤمنين]
+",000,False,000,False,False,False,4,51
+"### |||| AUTO [قصة ذئب أبي الأشعث]
+",000,False,000,False,False,False,4,92
+"### |||| AUTO [نطق الحجر والشجر بالشهادة]
+",000,False,000,False,False,False,4,100
+"### |||| AUTO [نبع الماء من بين يديه صلى الله عليه وآله وسلم ومنقبة لعلي (ع)]
+",000,False,000,False,False,False,4,145
+"### ||| AUTO [أول من أسلم من الرجال والنساء]
+",000,False,000,False,False,False,3,327
+"### ||| AUTO [نسبه وتاريخ مولده صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,3,488
+"### ||| AUTO [الفروق الزمنية بين بعض الأنبياء]
+",000,False,000,False,False,False,3,147
+"### ||| AUTO [أعمار بعض الأنبياء والرسل عليهم السلام]
+",000,False,000,False,False,False,3,167
+"### ||| AUTO [تاريخ مولد النبي صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,3,101
+"### ||| AUTO [نعته وصفته وبعض أحواله صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,3,206
+"### ||| AUTO [صفة منطقه صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,3,123
+"### ||| AUTO ### |||| AUTO [صفة مدخله ومجلسه ومخرجه صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,3,1132
+"### |||| AUTO [صفة مدخله ومجلسه ومخرجه صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,4,165
+"### |||| AUTO [ثانيا: صفة مخرجه صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,4,106
+"### |||| AUTO [ثالثا: صفة مجلسه صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,4,112
+"### |||| AUTO [رابعا: صفة سيرته صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,4,145
+"### |||| AUTO [خامسا: صفة سكوته صلى الله عليه وآله وسلم عند جواز الكلام]
+",000,False,000,False,False,False,4,67
+"### |||| AUTO [قصته مع أم معبد وشاتها]
+",000,False,000,False,False,False,4,346
+"### |||| AUTO [سماعه صوت خفي بمكة]
+",000,False,000,False,False,False,4,87
+"### |||| AUTO [ما قاله حسان بن ثابت بعد سماعه للصوت]
+",000,False,000,False,False,False,4,103
+"### ||| AUTO [ذكر بعض أحوال مشيبه صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,3,169
+"### ||| AUTO [من ms097 أسماء النبي صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,3,151
+"### ||| AUTO [من مآثر آبائه وأجداده صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,3,437
+"### ||| AUTO [خبر في كون آباء النبي وأجداده على ملة إبراهيم عليهم
+",000,False,000,False,False,False,3,695
+"### |||| AUTO [أولا:مآثر عبد المطلب]
+",000,False,000,False,False,False,4,293
+"### |||| AUTO [ثانيا: مآثر هاشم بن عبد مناف]
+",000,False,000,False,False,False,4,98
+"### |||| AUTO [ثالثا: مآثر عبد مناف]
+",000,False,000,False,False,False,4,29
+"### |||| AUTO [رابعا: مآثر قصي]
+",000,False,000,False,False,False,4,101
+"### |||| AUTO [خامسا: مآثر فهر والنضر]
+",000,False,000,False,False,False,4,119
+"### ||| AUTO [أعمام رسول الله صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,3,4196
+"### |||| AUTO [(1) الحارث بن عبد المطلب]
+",000,False,000,False,False,False,4,153
+"### |||| AUTO [(2) الحمزة ms102 بن عبد المطلب]
+",000,False,000,False,False,False,4,294
+"### |||| AUTO [سبب إسلام ms103 حمزة]
+",000,False,000,False,False,False,4,364
+"### |||| AUTO [(3) أبو طالب]
+",000,False,000,False,False,False,4,382
+"### |||| AUTO [قصة ذبح والد الرسول]
+",000,False,000,False,False,False,4,1543
+"### |||| AUTO [أولاد أبي طالب]
+",000,False,000,False,False,False,4,19
+"### |||| AUTO [(1) طالب بن أبي طالب]
+",000,False,000,False,False,False,4,79
+"### |||| AUTO [(2) عقيل بن أبي طالب]
+",000,False,000,False,False,False,4,53
+"### |||| AUTO [(3) جعفر بن أبي طالب]
+",000,False,000,False,False,False,4,143
+"### |||| AUTO [الهجرة إلى الحبشة ودور جعفر بن أبي طالب]
+",000,False,000,False,False,False,4,272
+"### |||| AUTO [بين يدي النجاشي: مناظرة ومكايدة]
+",000,False,000,False,False,False,4,460
+"### |||| AUTO [(4) علي بن أبي طالب عليه السلام]
+",000,False,000,False,False,False,4,308
+"### |||| AUTO [(5) أم هانئ ابنة أبي طالب]
+",000,False,000,False,False,False,4,74
+"### |||| AUTO [(6) جمانة ابنة أبي طالب]
+",000,False,000,False,False,False,4,33
+"### ||| AUTO [إخوة رسول الله من الرضاعة]
+",000,False,000,False,False,False,3,57
+"### ||| AUTO ### |||| AUTO [أزواج النبي صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,3,715
+"### |||| AUTO [أزواج النبي صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,4,160
+"### |||| AUTO [ثانيا: اللاتي لم يدخل بهن صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,4,245
+"### |||| AUTO [أم المؤمنين خديجة بنت خويلد رضي الله عنها وبعض أخبارها]
+",000,False,000,False,False,False,4,225
+"### |||| AUTO [حفصة بنت عمر]
+",000,False,000,False,False,False,4,84
+"### ||| AUTO [أولاد النبي صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,3,118
+"### ||| AUTO [ذكر مارية القبطية]
+",000,False,000,False,False,False,3,91
+"### ||| AUTO [وفاة خديجة عليها السلام وأبي طالب]
+",000,False,000,False,False,False,3,119
+"### ||| AUTO [من فضائل الصديقة خديجة عليها السلام]
+",000,False,000,False,False,False,3,174
+"### ||| AUTO ### |||| AUTO [هجرة النبي صلى الله عليه وآله وسلم إلى
+",000,False,000,False,False,False,3,2040
+"### |||| AUTO [هجرة النبي صلى الله عليه وآله وسلم إلى
+",000,False,000,False,False,False,4,138
+"### |||| AUTO [قصة جن نصيبين]
+",000,False,000,False,False,False,4,183
+"### |||| AUTO [ثانيا: عرضه صلى الله عليه وآله وسلم نفسه على القبائل وأول
+",000,False,000,False,False,False,4,81
+"### |||| AUTO [بيعة العقبة الأولى]
+",000,False,000,False,False,False,4,63
+"### |||| AUTO [بيعة العقبة الثانية]
+",000,False,000,False,False,False,4,57
+"### |||| AUTO [موقف كفار قريش من بيعة الأوس والخزرج للرسول صلى الله عليه
+",000,False,000,False,False,False,4,171
+"### |||| AUTO [خطبة رسول الله صلى الله عليه وآله وسلم بعيد بيعة العقبة
+",000,False,000,False,False,False,4,124
+"### |||| AUTO [اجتماع كفار قريش بدار الندوة وأمر الله تعالى لرسوله
+",000,False,000,False,False,False,4,172
+"### |||| AUTO [أمره صلى الله عليه وآله وسلم عليا أن ينام على فراشه]
+",000,False,000,False,False,False,4,182
+"### |||| AUTO [استخلافه صلى الله عليه وآله وسلم عليا لإخراج أهله وأداء
+",000,False,000,False,False,False,4,86
+"### |||| AUTO [قدوم أمير المؤمنين عليه السلام إلى المدينة]
+",000,False,000,False,False,False,4,161
+"### |||| AUTO [وصول رسول الله المدينة]
+",000,False,000,False,False,False,4,240
+"### |||| AUTO [مؤاخاته صلى الله عليه وآله وسلم بين أصحابه]
+",000,False,000,False,False,False,4,152
+"### |||| AUTO [تزويج فاطمة عليها السلام]
+",000,False,000,False,False,False,4,229
+"### ||| AUTO غزواته صلى الله عليه وآله وسلم وسراياه
+",000,False,000,False,False,False,3,2927
+"### |||| AUTO [أولا: غزواته التي قاتل فيها بنفسه]
+",000,False,000,False,False,False,4,87
+"### |||| AUTO [ثانيا: غزواته التي لم يكن فيها قتال]
+",000,False,000,False,False,False,4,47
+"### |||| AUTO [ثالثا: سراياه]
+",000,False,000,False,False,False,4,909
+"### |||| AUTO [وفاة النبي صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,4,1546
+"### |||| AUTO [غسل النبي صلى الله عليه وآله وسلم]
+",000,False,000,False,False,False,4,305
+"### || AUTO [(2) استطراد عبد الله بن أبي قحافة (أبو بكر)]
+",000,False,000,False,False,False,2,2564
+"### ||| AUTO [بيعة أبي بكر وكيف تمت]
+",000,False,000,False,False,False,3,428
+"### ||| AUTO [موقف الإمام علي عليه السلام من بيعة أبي بكر]
+",000,False,000,False,False,False,3,365
+"### ||| AUTO [إخباره صلى الله عليه وآله وسلم لما سيكون بعده من تبديل بعض
+",000,False,000,False,False,False,3,219
+"### ||| AUTO [بين أبي بكر وخالد والإمام علي]
+",000,False,000,False,False,False,3,115
+"### ||| AUTO [منع فاطمة عليها السلام فدكا]
+",000,False,000,False,False,False,3,445
+"### ||| AUTO [وفاة فاطمة عليها السلام]
+",000,False,000,False,False,False,3,240
+"### ||| AUTO [حديث فاطمة (ع) في نساء المهاجرين والأنصار]
+",000,False,000,False,False,False,3,331
+"### ||| AUTO [وفاة أبي بكر]
+",000,False,000,False,False,False,3,407
+"### || AUTO [(3) استطراد: عمر بن الخطاب (أبو حفص)]
+",000,False,000,False,False,False,2,1236
+"### ||| AUTO [مقولة عمر بعد طعنه]
+",000,False,000,False,False,False,3,62
+"### ||| AUTO [قصة الستة أهل الشورى]
+",000,False,000,False,False,False,3,70
+"### ||| AUTO [حوار ومساءلة بين عمر وابن عباس]
+",000,False,000,False,False,False,3,1004
+"### || AUTO [(4) استطراد عثمان بن عفان بن أبي العاص الأموي]
+",000,False,000,False,False,False,2,2057
+"### ||| AUTO [بيعة عثمان وبعض أخباره كما نقلت عن الإمام النفس الزكية]
+",000,False,000,False,False,False,3,485
+"### ||| AUTO [بين عبد الرحمن بن عوف والزبير وعثمان]
+",000,False,000,False,False,False,3,106
+"### ||| AUTO [بين عثمان وأبي ذر الغفاري]
+",000,False,000,False,False,False,3,234
+"### ||| AUTO [بين عبد الله بن مسعود وعثمان بن عفان]
+",000,False,000,False,False,False,3,870
+"### ||| AUTO [بيعة أمير المؤمنين عليه السلام]
+",000,False,000,False,False,False,3,116
+"### ||| AUTO [عمال أمير المؤمنين عليه السلام]
+",000,False,000,False,False,False,3,227
+"### || AUTO [(5) أمير المؤمنين الإمام علي بن أبي طالب]
+",000,False,000,False,False,False,2,7452
+"### ||| AUTO [ما قبل بيعة أمير المؤمنين علي عليه السلام]
+",000,False,000,False,False,False,3,113
+"### ||| AUTO [أسس ومنطلقات بيعة أمير المؤمنين علي عليه السلام]
+",000,False,000,False,False,False,3,361
+"### ||| AUTO [أحاديث في أحقية أمير المؤمنين علي (ع) الخلافة]
+",000,False,000,False,False,False,3,359
+"### ||| AUTO [بعض أخبار صفين والجمل ونكث طلحة والزبير ببيعة أمير
+",000,False,000,False,False,False,3,731
+"### |||| AUTO [كتاب علي عليه السلام إلى طلحة والزبير]
+",000,False,000,False,False,False,4,84
+"### |||| AUTO [كتاب عائشة إلى ابن صوحان]
+",000,False,000,False,False,False,4,421
+"### ||| AUTO [تاريخ وقعة صفين]
+",000,False,000,False,False,False,3,3380
+"### |||| AUTO [كتاب معاوية إلى أمير المؤمنين]
+",000,False,000,False,False,False,4,128
+"### |||| AUTO [موقف الإمام علي عليه السلام من كتاب معاوية السابق]
+",000,False,000,False,False,False,4,279
+"### |||| AUTO [كتاب معاوية لابن العاص]
+",000,False,000,False,False,False,4,234
+"### |||| AUTO [خروج الإمام علي (ع) إلى صفين]
+",000,False,000,False,False,False,4,232
+"### |||| AUTO [عدد قتلى يوم الجمل وجنود أمير المؤمنين (ع)]
+",000,False,000,False,False,False,4,185
+"### |||| AUTO [رؤيا هند بنت عتبة]
+",000,False,000,False,False,False,4,490
+"### |||| AUTO [ذكر الحكمين]
+",000,False,000,False,False,False,4,907
+"### |||| AUTO [اجتماع الحكمين]
+",000,False,000,False,False,False,4,273
+"### |||| AUTO [حديث الخوارج وقتالهم]
+",000,False,000,False,False,False,4,317
+"### |||| AUTO [مقتل محمد بن أبي بكر ومالك الأشتر رحمهما الله تعالى]
+",000,False,000,False,False,False,4,312
+"### ||| AUTO [صفة أمير المؤمنين علي عليه السلام وحليته]
+",000,False,000,False,False,False,3,372
+"### |||| AUTO [وصف ضرار لأمير المؤمنين عليه السلام]
+",000,False,000,False,False,False,4,229
+"### ||| AUTO [أولاد علي عليه السلام]
+",000,False,000,False,False,False,3,529
+"### ||| AUTO [تأريخ ميلاد الحسن والحسين عليهما السلام]
+",000,False,000,False,False,False,3,126
+"### ||| AUTO [استشهاد أمير المؤمنين صلوات الله عليه]
+",000,False,000,False,False,False,3,1012
+"### ||| AUTO [دفن أمير المؤمنين عليه السلام وخطبة ولده الحسن بعدها]
+",000,False,000,False,False,False,3,213
+"### ||| AUTO [الأئمة السابقون من ولديهما]
+",000,False,000,False,False,False,3,240
+"### || AUTO [(6) الإمام الحسن بن علي بن أبي طالب (أبو محمد)]
+",000,False,000,False,False,False,2,1354
+"### ||| AUTO [بيعة الإمام الحسن وخروجه وخطبته]
+",000,False,000,False,False,False,3,213
+"### ||| AUTO [خطبة قيس بن سعد بن عبادة]
+",000,False,000,False,False,False,3,287
+"### ||| AUTO [تاريخ بيعة الإمام الحسن (ع)]
+",000,False,000,False,False,False,3,48
+"### ||| AUTO [خروجه (ع) إلى الشام]
+",000,False,000,False,False,False,3,418
+"### ||| AUTO [مقتل الإمام الحسن]
+",000,False,000,False,False,False,3,165
+"### ||| AUTO [وصية الإمام الحسن لأخيه الحسين عليهما السلام]
+",000,False,000,False,False,False,3,203
+"### || AUTO [(7)الإمام الحسين بن علي (أبو عبد الله)]
+",000,False,000,False,False,False,2,3542
+"### ||| AUTO [إخبار الرسول صلى الله عليه وآله وسلم باستشهاد الحسين (ع)
+",000,False,000,False,False,False,3,276
+"### ||| AUTO [عهد معاوية لابنه يزيد بالإمارة]
+",000,False,000,False,False,False,3,488
+"### ||| AUTO [دعوة الوليد بن عتبة للحسين ولابن الزبير للمبايعة ليزيد]
+",000,False,000,False,False,False,3,196
+"### ||| AUTO [زيارة ووداع الحسين لقبر جده المصطفى]
+",000,False,000,False,False,False,3,180
+"### ||| AUTO [قدوم الحسين (ع) الكوفة ومواقف النعمان بن بشير وغيره]
+",000,False,000,False,False,False,3,92
+"### ||| AUTO [اختيار ابن زياد لتولي الكوفة]
+",000,False,000,False,False,False,3,391
+"### ||| AUTO [خروج الحسين السبط (ع) إلى العراق]
+",000,False,000,False,False,False,3,247
+"### ||| AUTO [استشهاد الحسين السبط (ع)]
+",000,False,000,False,False,False,3,1010
+"### ||| AUTO [ذكر من استشهدوا مع الحسين (ع)]
+",000,False,000,False,False,False,3,126
+"### ||| AUTO [من استشهد من أهل بيته عليه السلام]
+",000,False,000,False,False,False,3,345
+"### ||| AUTO [عمره (ع) عند استشهاده]
+",000,False,000,False,False,False,3,173
+"### || AUTO [(8) الإمام الحسن بن الحسن بن علي بن أبي طالب (أبو محمد
+",000,False,000,False,False,False,2,974
+"### ||| AUTO [جهاده (ع) تحت لواء عمه الحسين (ع)]
+",000,False,000,False,False,False,3,102
+"### ||| AUTO [بيعته وخروجه]
+",000,False,000,False,False,False,3,267
+"### ||| AUTO [حرب الجماجم (الملحمة الكبرى)]
+",000,False,000,False,False,False,3,100
+"### ||| AUTO [أولاده عليه السلام]
+",000,False,000,False,False,False,3,69
+"### ||| AUTO [الحسن بن الحسن وصدقات الرسول صلى الله عليه وآله وسلم
+",000,False,000,False,False,False,3,173
+"### ||| AUTO [بين الحسن بن الحسن والحجاج وعبد الملك بن مروان]
+",000,False,000,False,False,False,3,242
+"### || AUTO [(9) الإمام زيد بن علي بن الحسين بن علي(أبو الحسين)]
+",000,False,000,False,False,False,2,2560
+"### ||| AUTO [بيعته وخروجه (ع)]
+",000,False,000,False,False,False,3,491
+"### ||| AUTO [بيعة الإمام زيد عليه السلام]
+",000,False,000,False,False,False,3,83
+"### ||| AUTO [الروافض]
+",000,False,000,False,False,False,3,342
+"### ||| AUTO [تاريخ خروج الإمام زيد عليه السلام]
+",000,False,000,False,False,False,3,583
+"### ||| AUTO [استشهاد الإمام زيد بن علي عليه السلام]
+",000,False,000,False,False,False,3,251
+"### ||| AUTO [ما صنع بالجسم والرأس الشريفين بعد استشهاده]
+",000,False,000,False,False,False,3,128
+"### ||| AUTO [إخبار الإمام علي عليه السلام بما سيجري لولده زيد]
+",000,False,000,False,False,False,3,326
+"### ||| AUTO [بعض من بايعوا الإمام زيد عليه السلام]
+",000,False,000,False,False,False,3,239
+"### ||| AUTO [صفة الإمام زيد عليه السلام]
+",000,False,000,False,False,False,3,33
+"### ||| AUTO [الجزاء من جنس العمل]
+",000,False,000,False,False,False,3,63
+"### || AUTO [(10) الإمام: يحيى بن زيد بن علي بن الحسين (أبو عبد الله)]
+",000,False,000,False,False,False,2,576
+"### ||| AUTO [مولد الإمام يحيى بن زيد عليهما السلام]
+",000,False,000,False,False,False,3,557
+"### | AUTO تتمة مصابيح أبي العباس الحسني
+",000,False,000,False,False,False,1,41320
+"### || AUTO [مقدمة المؤلف]
+",000,False,000,False,False,False,2,1295
+"### ||| AUTO [تابع ترجمة الإمام يحيى بن زيد]
+",000,False,000,False,False,False,3,190
+"### ||| AUTO [موقف والي خراسان من يحيى بعد قدومه]
+",000,False,000,False,False,False,3,312
+"### ||| AUTO [قتال يحيى بن زيد عليه السلام واستشهاده]
+",000,False,000,False,False,False,3,450
+"### ||| AUTO [حثه (ع) لأصحابه على الجهاد]
+",000,False,000,False,False,False,3,97
+"### ||| AUTO [استشهاد يحيى بن زيد عليهما السلام]
+",000,False,000,False,False,False,3,192
+"### || AUTO [(11) الإمام محمد بن عبد الله بن الحسن (النفس الزكية)]
+",000,False,000,False,False,False,2,3952
+"### ||| AUTO [فضله وزهده وشجاعته (ع)]
+",000,False,000,False,False,False,3,404
+"### ||| AUTO [خروجه (ع)]
+",000,False,000,False,False,False,3,84
+"### ||| AUTO [مكاتباته ودعوته]
+",000,False,000,False,False,False,3,408
+"### ||| AUTO [كتابه إلى خواص أصحابه]
+",000,False,000,False,False,False,3,1584
+"### ||| AUTO [مكاتبات بين النفس الزكية والسفاح]
+",000,False,000,False,False,False,3,1243
+"### ||| AUTO [استشهاده (ع)]
+",000,False,000,False,False,False,3,211
+"### || AUTO [(12)الإمام إبراهيم بن عبد الله بن الحسن(النفس الرضية)]
+",000,False,000,False,False,False,2,1210
+"### ||| AUTO [خروجه وبيعته (ع)]
+",000,False,000,False,False,False,3,235
+"### ||| AUTO [جهاده واستشهاده (ع)]
+",000,False,000,False,False,False,3,633
+"### ||| AUTO [تجهيز أبي جعفر السفاح جيشا لقتال صاحب الترجمة]
+",000,False,000,False,False,False,3,133
+"### ||| AUTO [رأي شعبة في صاحب الترجمة والخروج معه]
+",000,False,000,False,False,False,3,191
+"### || AUTO [(13) الإمام عبد الله بن محمد بن عبد الله بن الحسن (الأشتر)]
+",000,False,000,False,False,False,2,306
+"### ||| AUTO [سبب خروجه وبيعته (ع)]
+",000,False,000,False,False,False,3,203
+"### ||| AUTO [استشهاده ونعته]
+",000,False,000,False,False,False,3,83
+"### || AUTO [(14) الحسن بن إبراهيم بن عبد الله (ابن النفس الرضية)]
+",000,False,000,False,False,False,2,1083
+"### ||| AUTO [مطاردته وسجنه]
+",000,False,000,False,False,False,3,494
+"### || AUTO [(15) الحسين بن علي بن الحسن بن الحسن (صاحب فخ)]
+",000,False,000,False,False,False,2,4099
+"### ||| AUTO [إخباره صلى الله عليه وآله وسلم بموضوع قتل الفخي]
+",000,False,000,False,False,False,3,190
+"### ||| AUTO [صفته وفضله]
+",000,False,000,False,False,False,3,96
+"### ||| AUTO [خروجه من الكوفة وسفره إلى المدينة وبيعته]
+",000,False,000,False,False,False,3,615
+"### ||| AUTO [سخاءه (ع)]
+",000,False,000,False,False,False,3,411
+"### ||| AUTO [نماذج من كلامه]
+",000,False,000,False,False,False,3,424
+"### ||| AUTO [خروجه إلى مكة]
+",000,False,000,False,False,False,3,104
+"### ||| AUTO [رواية أخرى]
+",000,False,000,False,False,False,3,1713
+"### ||| AUTO [إخبار أمير المؤمنين (ع) بقتل الفخي]
+",000,False,000,False,False,False,3,209
+"### ||| AUTO [من خرج معه من أهل بيته]
+",000,False,000,False,False,False,3,319
+"### || AUTO [(16) عيسى بن زيد بن علي بن الحسين (ع)]
+",000,False,000,False,False,False,2,515
+"### ||| AUTO [خبره وبيعته]
+",000,False,000,False,False,False,3,496
+"### || AUTO [(17) يحيى بن عبد الله بن الحسن (أبو الحسن)]
+",000,False,000,False,False,False,2,2918
+"### ||| AUTO [من أجابه من العلماء]
+",000,False,000,False,False,False,3,80
+"### ||| AUTO [طوافه الأقطار وموقف هارون منه]
+",000,False,000,False,False,False,3,423
+"### ||| AUTO [أمان الرشيد لصاحب الترجمة]
+",000,False,000,False,False,False,3,1109
+"### ||| AUTO [استشهاده (ع)]
+",000,False,000,False,False,False,3,1188
+"### || AUTO [(18)إدريس بن عبد الله بن الحسن (صاحب المغرب)]
+",000,False,000,False,False,False,2,1202
+"### ||| AUTO [نص رسالته لأهل مصر وخروجه في المغرب]
+",000,False,000,False,False,False,3,547
+"### ||| AUTO [سلالة بعض أهل البيت في المغرب]
+",000,False,000,False,False,False,3,131
+"### ||| AUTO [خروجه (ع)]
+",000,False,000,False,False,False,3,426
+"### ||| AUTO [وصية إدريس لابنه واستطراد لبعض أخباره]
+",000,False,000,False,False,False,3,83
+"### || AUTO [(19)محمد بن إبراهيم بن إسماعيل بن إبراهيم بن الحسن]
+",000,False,000,False,False,False,2,2785
+"### ||| AUTO [سبب خروجه]
+",000,False,000,False,False,False,3,199
+"### ||| AUTO [بيعته وبعض من أخباره]
+",000,False,000,False,False,False,3,1230
+"### ||| AUTO [أبو السرايا ومواقفه مع صاحب الترجمة]
+",000,False,000,False,False,False,3,861
+"### ||| AUTO [وفاته ووصيته لأبي السرايا]
+",000,False,000,False,False,False,3,291
+"### ||| AUTO [خطبة أبي السرايا بعد استشهاده (ع)]
+",000,False,000,False,False,False,3,186
+"### || AUTO [(20)محمد بن محمد بن زيد بن علي بن الحسين]
+",000,False,000,False,False,False,2,3884
+"### ||| AUTO [خروجه وبيعته]
+",000,False,000,False,False,False,3,297
+"### ||| AUTO [خطبته بعد مبايعته]
+",000,False,000,False,False,False,3,377
+"### ||| AUTO [بعض أخباره]
+",000,False,000,False,False,False,3,1363
+"### ||| AUTO [استشهاد أبي السرايا]
+",000,False,000,False,False,False,3,1827
+"### || AUTO [(21) الإمام محمد بن سليمان (ع)]
+",000,False,000,False,False,False,2,72
+"### || AUTO [(22) الإمام القاسم بن إبراهيم بن إسماعيل (الرسي)]
+",000,False,000,False,False,False,2,2002
+"### ||| AUTO [بعض من أخباره]
+",000,False,000,False,False,False,3,111
+"### ||| AUTO [اجتماعه بأحمد بن عيسى وعبد الله بن موسى]
+",000,False,000,False,False,False,3,329
+"### ||| AUTO [خروجه (ع)]
+",000,False,000,False,False,False,3,1033
+"### ||| AUTO [بيعة أهل مصر وخروجه منها]
+",000,False,000,False,False,False,3,87
+"### ||| AUTO [خروجه إلى اليمن]
+",000,False,000,False,False,False,3,122
+"### ||| AUTO [علمه وزهده وبعض فضائله]
+",000,False,000,False,False,False,3,303
+"### || AUTO [(23) الإمام الهادي إلى الحق يحيى بن الحسين بن القاسم]
+",000,False,000,False,False,False,2,3481
+"### ||| AUTO [بعض أخباره قبل خروجه إلى اليمن]
+",000,False,000,False,False,False,3,96
+"### ||| AUTO [قدومه طبرستان]
+",000,False,000,False,False,False,3,180
+"### ||| AUTO [سبب رجوعه من اليمن المرة الأولى]
+",000,False,000,False,False,False,3,234
+"### ||| AUTO [جهاده للقرامطة]
+",000,False,000,False,False,False,3,274
+"### ||| AUTO [بعض مواقفه في شبابه]
+",000,False,000,False,False,False,3,446
+"### ||| AUTO وسمعت أنه كان يخرج في المفازة على نجيب فجاءه أعرابي ليسلب
+",000,False,000,False,False,False,3,94
+"### ||| AUTO [وفود أهل اليمن إليه (ع) المرة الأولى]
+",000,False,000,False,False,False,3,184
+"### ||| AUTO [توجه الوفد إلى الإمام الهادي (ع) مرة أخرى]
+",000,False,000,False,False,False,3,143
+"### ||| AUTO [دخوله صعدة وبيعته]
+",000,False,000,False,False,False,3,95
+"### ||| AUTO [توبة أبي العتاهية]
+",000,False,000,False,False,False,3,113
+"### ||| AUTO [مؤلفاته]
+",000,False,000,False,False,False,3,48
+"### ||| AUTO [شجاعته وبعض حروبه]
+",000,False,000,False,False,False,3,297
+"### ||| AUTO [علمه وزهده وفضله]
+",000,False,000,False,False,False,3,140
+"### ||| AUTO [عمره ومدة مكثه باليمن وتأريخ وفاته]
+",000,False,000,False,False,False,3,157
+"### ||| AUTO [إخبار أمير المؤمنين علي (ع) بصاحب الترجمة]
+",000,False,000,False,False,False,3,409
+"### ||| AUTO [فتح صنعاء ونواحيها وأسر ابنه المرتضى]
+",000,False,000,False,False,False,3,553
+"### || AUTO [(24) الإمام المرتضى محمد بن يحيى بن الحسين (أبو القاسم
+",000,False,000,False,False,False,2,1630
+"### ||| AUTO [وصية والده]
+",000,False,000,False,False,False,3,420
+"### ||| AUTO [خطبته بعد وفاة والده (ع)]
+",000,False,000,False,False,False,3,635
+"### ||| AUTO [خطبته بعد عزمه على الاعتزال]
+",000,False,000,False,False,False,3,557
+"### || AUTO [(25) الإمام الناصر أحمد بن يحيى بن الحسين (أبو الحسن)]
+",000,False,000,False,False,False,2,555
+"### ||| AUTO [تأريخ تسليم الأمر من أخيه المرتضى]
+",000,False,000,False,False,False,3,123
+"### ||| AUTO [بعض رسائله (ع)]
+",000,False,000,False,False,False,3,416
+"### || AUTO [(26) الإمام الناصر للحق الحسن بن علي الأطروش (أبو محمد)]
+",000,False,000,False,False,False,2,823
+"### ||| AUTO [تنقلاته وحروبه]
+",000,False,000,False,False,False,3,442
+"### ||| AUTO [ما ورد فيه على لسان أمير المؤمنين (ع)]
+",000,False,000,False,False,False,3,212
+"### ||| AUTO [سبب خروجه إلى الديلم]
+",000,False,000,False,False,False,3,151
+"### || AUTO قائمة المصادر والمراجع
+",000,False,000,False,False,False,2,9481
+"### ||| AUTO أولا: المصادر المخطوطة
+",000,False,000,False,False,False,3,503
+"### ||| AUTO ثانيا: المصادر المطبوعة
+",000,False,000,False,False,False,3,8975

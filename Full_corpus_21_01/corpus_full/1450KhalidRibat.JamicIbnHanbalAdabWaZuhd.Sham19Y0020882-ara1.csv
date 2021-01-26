@@ -1,0 +1,959 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO باب آداب اللسان
+",000,False,000,False,False,False,1,2106
+"### || AUTO 1 - استحباب حفظ اللسان وقلة الكلام
+",000,False,000,False,False,False,2,714
+"### || AUTO 2 - التحري في الحديث
+",000,False,000,False,False,False,2,125
+"### || AUTO 3 - فصل فيما يكره وما يباح من الكلام
+",000,False,000,False,False,False,2,165
+"### || AUTO 4 - ذم الكذب وصوره
+",000,False,000,False,False,False,2,152
+"### || AUTO 5 - بم يعرف الكذابون؟
+",000,False,000,False,False,False,2,23
+"### || AUTO 6 - أكذب الناس
+",000,False,000,False,False,False,2,18
+"### || AUTO 7 - ما رخص الكذب فيه
+",000,False,000,False,False,False,2,98
+"### || AUTO 8 - في المعاريض مندوحة عن الكذب
+",000,False,000,False,False,False,2,283
+"### || AUTO 9 - ما كره من الغيبة
+",000,False,000,False,False,False,2,190
+"### || AUTO 10 - الفرق بين الغيبة والبهتان
+",000,False,000,False,False,False,2,69
+"### || AUTO 11 - متى تباح الغيبة؟
+",000,False,000,False,False,False,2,265
+"### | AUTO باب آداب النظر
+",000,False,000,False,False,False,1,3057
+"### || AUTO 12 - التحذير من النظر إلى ما يحرم، أو يكره النظر إليه
+",000,False,000,False,False,False,2,291
+"### || AUTO 13 - حكم نظر الفجأة
+",000,False,000,False,False,False,2,139
+"### || AUTO 14 - لا تنظر المرأة إلى الرجل كما لا ينظر الرجل إلى المرأة
+",000,False,000,False,False,False,2,114
+"### || AUTO 15 - كراهة دخول الحمام لأجل النظر
+",000,False,000,False,False,False,2,178
+"### || AUTO 16 - البائع تأتيه المرأة تشتري فيرى كفها ونحو ذلك؟
+",000,False,000,False,False,False,2,100
+"### || AUTO 17 - ماذا ينظر الرجل من محارمه
+",000,False,000,False,False,False,2,426
+"### || AUTO 18 - هل ينظر إلى عورة صبيه ووالديه
+",000,False,000,False,False,False,2,67
+"### || AUTO 19 - لا ينظر إلى الغلام الأمرد
+",000,False,000,False,False,False,2,149
+"### || AUTO 20 - النظر إلى المملوكة
+",000,False,000,False,False,False,2,48
+"### || AUTO 21 - النظر إلى المملوكة وقد سرى العتق فيها
+",000,False,000,False,False,False,2,49
+"### || AUTO 22 - ينظر من أراد شراء الأمة إليها
+",000,False,000,False,False,False,2,72
+"### || AUTO 23 - نظر الذمية إلى المسلمة، والمسلمة إلى الذمية
+",000,False,000,False,False,False,2,217
+"### || AUTO 24 - نظر الطفل وغير أولي الإربة من الرجال إلى النساء
+",000,False,000,False,False,False,2,249
+"### || AUTO 25 - نظر العبد والخصي إلى النساء
+",000,False,000,False,False,False,2,954
+"### | AUTO باب آداب الطعام والشراب
+",000,False,000,False,False,False,1,1199
+"### || AUTO 26 - ليس في الطعام إسراف
+",000,False,000,False,False,False,2,26
+"### || AUTO 27 - كيف يؤكل الطعام مع الآخرين؟
+",000,False,000,False,False,False,2,87
+"### || AUTO 28 - استحباب غسل اليدين قبل الأكل وبعده
+",000,False,000,False,False,False,2,99
+"### || AUTO 29 - الأكل على السفر
+",000,False,000,False,False,False,2,51
+"### || AUTO 30 - الإناء يؤكل فيه ثم تغسل فيه اليد
+",000,False,000,False,False,False,2,42
+"### || AUTO 31 - استحباب الحمد مع الأكل
+",000,False,000,False,False,False,2,81
+"### || AUTO 32 - استحباب الأكل باليد لا بالملعقة
+",000,False,000,False,False,False,2,28
+"### || AUTO 33 - استحباب الأكل بثلاثة أصابع
+",000,False,000,False,False,False,2,45
+"### || AUTO 34 - كراهة استعمال الطعام
+",000,False,000,False,False,False,2,37
+"### || AUTO 35 - لا يطرح الفلفل والثوم في الطعام
+",000,False,000,False,False,False,2,74
+"### || AUTO 36 - جواز تفتيش التمر
+",000,False,000,False,False,False,2,51
+"### || AUTO 37 - تخليل الأسنان بعد الطعام
+",000,False,000,False,False,False,2,19
+"### || AUTO 38 - يكره أن يأكل متكئا
+",000,False,000,False,False,False,2,94
+"### || AUTO 39 - استحباب غسل اللحم بعد شرائه
+",000,False,000,False,False,False,2,19
+"### || AUTO 40 - جواز طبخ اللحم بالعنب
+",000,False,000,False,False,False,2,22
+"### || AUTO 41 - جواز قطع اللحم بالسكين
+",000,False,000,False,False,False,2,81
+"### || AUTO 42 - كراهة الإكثار من أكل اللحوم
+",000,False,000,False,False,False,2,33
+"### || AUTO 43 - يكره أن تطعم البهائم الخبز
+",000,False,000,False,False,False,2,33
+"### || AUTO 44 - كبس الخبز في الماء
+",000,False,000,False,False,False,2,27
+"### || AUTO 45 - كراهة الخبز الكبير
+",000,False,000,False,False,False,2,39
+"### || AUTO 46 - النهي عن النفخ في الشراب، والشرب من فم السقاء
+",000,False,000,False,False,False,2,101
+"### || AUTO 47 - النهي عن الشرب قائما
+",000,False,000,False,False,False,2,66
+"### || AUTO 48 - النهي عن اختناث الأسقية
+",000,False,000,False,False,False,2,34
+"### | AUTO باب آداب الاستئذان والزيارة والضيافة
+",000,False,000,False,False,False,1,1216
+"### || AUTO 49 - استحباب الاستئذان على كل حال
+",000,False,000,False,False,False,2,111
+"### || AUTO 50 - الاستئذان ثلاثا، والرفق في الطرق
+",000,False,000,False,False,False,2,42
+"### || AUTO 51 - جواز جعل الإذن رفع الحجاب
+",000,False,000,False,False,False,2,43
+"### || AUTO 52 - كراهية قول (أنا) عند الاستئذان
+",000,False,000,False,False,False,2,71
+"### || AUTO 53 - هل يستأذن في حوانيت السوق؟
+",000,False,000,False,False,False,2,31
+"### || AUTO 54 - كراهة دخول الأسواق
+",000,False,000,False,False,False,2,42
+"### || AUTO 55 - وضع العالم محبرته بين يديه وجواز استمداد الرجل منها دون استئذان
+",000,False,000,False,False,False,2,72
+"### || AUTO 56 - من آداب الزائر والمزور
+",000,False,000,False,False,False,2,267
+"### || AUTO 57 - حكم الضيافة
+",000,False,000,False,False,False,2,38
+"### || AUTO 58 - مدة جائزة الضيف
+",000,False,000,False,False,False,2,117
+"### || AUTO 59 - لا يكرمه بما يشق عليه
+",000,False,000,False,False,False,2,93
+"### || AUTO 60 - جواز الأكل من بيوت الأهل والأصدقاء بعد إذنهم
+",000,False,000,False,False,False,2,75
+"### || AUTO 61 - استحباب تكسير الخبز للضيف
+",000,False,000,False,False,False,2,30
+"### || AUTO 62 - استحباب مباسطة الضيفان على الطعام
+",000,False,000,False,False,False,2,132
+"### || AUTO 63 - كراهة زيارة القوم وقت طعامهم
+",000,False,000,False,False,False,2,46
+"### | AUTO باب آداب الجلوس
+",000,False,000,False,False,False,1,308
+"### || AUTO 64 - استحباب الجلوس إلى القبلة
+",000,False,000,False,False,False,2,21
+"### || AUTO 65 - كراهة الجلوس بين الظل والشمس
+",000,False,000,False,False,False,2,45
+"### || AUTO 66 - كراهة الجلوس وسط الحلقة
+",000,False,000,False,False,False,2,41
+"### || AUTO 67 - كراهة الجلوس مكان الآخر
+",000,False,000,False,False,False,2,35
+"### || AUTO 68 - الاستئذان عند القيام من المجلس
+",000,False,000,False,False,False,2,87
+"### || AUTO 69 - كفارة المجلس عند القيام منه
+",000,False,000,False,False,False,2,43
+"### || AUTO 70 - استحباب مجالسة الصالحين
+",000,False,000,False,False,False,2,32
+"### | AUTO باب آداب المشي والسفر
+",000,False,000,False,False,False,1,1608
+"### || AUTO 71 - كراهة السفر لأرض الفتن
+",000,False,000,False,False,False,2,71
+"### || AUTO 72 - حكم السياحة للتعمد
+",000,False,000,False,False,False,2,55
+"### || AUTO 73 - استحباب التفاؤل وكراهية الطيرة عند السفر
+",000,False,000,False,False,False,2,104
+"### || AUTO 74 - استحباب الصحبة عند السفر
+",000,False,000,False,False,False,2,76
+"### || AUTO 75 - استحباب المشرب وحدانا في غير السفر
+",000,False,000,False,False,False,2,41
+"### || AUTO 76 - متى تحتحب الصبية وتسافر مع ذي محرم
+",000,False,000,False,False,False,2,79
+"### || AUTO 77 - من يجوز أن يكون محرما للنساء في السفر
+",000,False,000,False,False,False,2,90
+"### || AUTO 78 - هل يكون المشرك، محرما للمسلمة في السفر؟
+",000,False,000,False,False,False,2,221
+"### || AUTO 79 - الوصية للمسافر والغازي والدعاء له
+",000,False,000,False,False,False,2,253
+"### || AUTO 80 - توديع المسافر
+",000,False,000,False,False,False,2,91
+"### || AUTO 81 - ركوب المحامل
+",000,False,000,False,False,False,2,70
+"### || AUTO 82 - كراهة السير الشديد إذا أثقل
+",000,False,000,False,False,False,2,91
+"### || AUTO 83 - من آداب الطريق
+",000,False,000,False,False,False,2,26
+"### || AUTO 84 - النهي عن أن يكون الرجل راكبا يمشي معه الرجل
+",000,False,000,False,False,False,2,43
+"### || AUTO 85 - المشي في الساحات الخربة وأملاك الناس
+",000,False,000,False,False,False,2,32
+"### || AUTO 86 - جواز المناهدة في السفر
+",000,False,000,False,False,False,2,141
+"### || AUTO 87 - استقبال القادمين من الحج والجهاد بالدعاء
+",000,False,000,False,False,False,2,87
+"### || AUTO 88 - كراهة إتيان النساء ليلا عند القدوم من السفر
+",000,False,000,False,False,False,2,32
+"### | AUTO باب آداب النوم
+",000,False,000,False,False,False,1,505
+"### || AUTO 89 - ما يستحب أن يقال عند النوم
+",000,False,000,False,False,False,2,71
+"### || AUTO 90 - أوقات يستحب فيها النوم
+",000,False,000,False,False,False,2,34
+"### || AUTO 91 - أوقات يكره فيها النوم
+",000,False,000,False,False,False,2,23
+"### || AUTO 92 - أوضاع يكره النوم عليها
+",000,False,000,False,False,False,2,96
+"### || AUTO 93 - في أماكن يكره فيها النوم
+",000,False,000,False,False,False,2,112
+"### || AUTO 94 - جواز تعبير الرؤيا
+",000,False,000,False,False,False,2,165
+"### | AUTO باب أدب الخطاب والمراسلات
+",000,False,000,False,False,False,1,839
+"### || AUTO 95 - كيف يصوغ كتابه
+",000,False,000,False,False,False,2,459
+"### || AUTO 96 - ذكر الدعاء في الكتب (حفظه الله - أبقاه الله)
+",000,False,000,False,False,False,2,90
+"### || AUTO 97 - ختم الخطاب
+",000,False,000,False,False,False,2,37
+"### || AUTO 98 - ما ينبغي أن تحويه الكتب
+",000,False,000,False,False,False,2,28
+"### || AUTO 99 - كيف يكتب إلى أهل الكتاب؟
+",000,False,000,False,False,False,2,220
+"### | AUTO باب التسمية والتكني
+",000,False,000,False,False,False,1,803
+"### || AUTO 100 - تكني من ليس له ولد
+",000,False,000,False,False,False,2,129
+"### || AUTO 101 - التكني بأبي القاسم أو بأبي محمد أو أبي عيسى
+",000,False,000,False,False,False,2,141
+"### || AUTO 102 - تكنية المرأة والصبي
+",000,False,000,False,False,False,2,115
+"### || AUTO 103 - تكنية المشرك
+",000,False,000,False,False,False,2,267
+"### || AUTO 104 - المكروه من الكنى والأسماء
+",000,False,000,False,False,False,2,53
+"### || AUTO 105 - فيمن له لقب لا يعرف إلا به، وهو لا يكرهه
+",000,False,000,False,False,False,2,94
+"### | AUTO باب حسن الخلق
+",000,False,000,False,False,False,1,1591
+"### || AUTO 106 - الحث على حسن الخلق
+",000,False,000,False,False,False,2,670
+"### || AUTO 107 - خلق الحلم
+",000,False,000,False,False,False,2,229
+"### || AUTO 108 - خلق العفو
+",000,False,000,False,False,False,2,391
+"### || AUTO 109 - خلق الرحمة
+",000,False,000,False,False,False,2,135
+"### || AUTO 110 - خلق الأمانة
+",000,False,000,False,False,False,2,60
+"### || AUTO 111 - خلق الكرم
+",000,False,000,False,False,False,2,57
+"### || AUTO 112 - خلق الإحسان
+",000,False,000,False,False,False,2,45
+"### | AUTO باب معاملة الوالدين وبرهما
+",000,False,000,False,False,False,1,1865
+"### || AUTO 113 - بر الوالدين ومنزلته
+",000,False,000,False,False,False,2,395
+"### || AUTO 114 - يستأذن الوالدان في طلب العلم؟
+",000,False,000,False,False,False,2,119
+"### || AUTO 115 - يستأذن الوالدان في الخروج للجهاد
+",000,False,000,False,False,False,2,167
+"### || AUTO 116 - حدود الطاعة للوالدين
+",000,False,000,False,False,False,2,688
+"### || AUTO 117 - إذا أمراه بترك صوم أو صلاة النفل؟
+",000,False,000,False,False,False,2,115
+"### || AUTO 118 - إذا أمراه بالتزوج؟
+",000,False,000,False,False,False,2,54
+"### || AUTO 119 - إذا أمراه بطلاق امرأته؟
+",000,False,000,False,False,False,2,84
+"### || AUTO 120 - إذا منعاه من الزواج؟
+",000,False,000,False,False,False,2,53
+"### || AUTO 121 - أمر الوالدين بالمعروف ونهيهما عن المنكر
+",000,False,000,False,False,False,2,185
+"### | AUTO باب معاملة الأولاد
+",000,False,000,False,False,False,1,325
+"### || AUTO 122 - تربية الأولاد وتأديبهم
+",000,False,000,False,False,False,2,82
+"### || AUTO 123 - تعليمهم القرآن
+",000,False,000,False,False,False,2,32
+"### || AUTO 124 - ضربهم على الصلاة، والتفريق بينهم في المضاجع
+",000,False,000,False,False,False,2,147
+"### || AUTO 125 - يستحب أن يستأذن الصبي إذا بلغ
+",000,False,000,False,False,False,2,60
+"### | AUTO باب معاملة المملوك
+",000,False,000,False,False,False,1,348
+"### || AUTO 126 - الحث على حسن المعاملة والرفق به
+",000,False,000,False,False,False,2,71
+"### || AUTO 127 - فيما يؤدب المملوك؟
+",000,False,000,False,False,False,2,128
+"### || AUTO 128 - حق المملوك والمملوكة
+",000,False,000,False,False,False,2,32
+"### || AUTO 129 - باب صلة الأرحام
+",000,False,000,False,False,False,2,113
+"### | AUTO باب معاملة الجار
+",000,False,000,False,False,False,1,381
+"### || AUTO 130 - حد الجوار
+",000,False,000,False,False,False,2,71
+"### || AUTO 131 - التحذير من جار السوء
+",000,False,000,False,False,False,2,79
+"### || AUTO 132 - حقوق الجار
+",000,False,000,False,False,False,2,115
+"### || AUTO 133 - استحباب السترة لمن يشرف على جاره لأجل النظر
+",000,False,000,False,False,False,2,49
+"### || AUTO 134 - إن كان الجار صاحب بدعة أو معصية؟
+",000,False,000,False,False,False,2,63
+"### | AUTO باب معاملة الإخوان
+",000,False,000,False,False,False,1,7209
+"### || AUTO 135 - فضل الإخوة في الله
+",000,False,000,False,False,False,2,109
+"### || AUTO 136 - من هو الخليل؟
+",000,False,000,False,False,False,2,42
+"### || AUTO 137 - فضيلة الحب في الله
+",000,False,000,False,False,False,2,454
+"### || AUTO 138 - يستحب له أن يخبره بأنه يحبه
+",000,False,000,False,False,False,2,50
+"### || AUTO 139 - لا يغالى في الحب والبغض
+",000,False,000,False,False,False,2,60
+"### || AUTO 140 - الشوق إليهم والتسلي بهم
+",000,False,000,False,False,False,2,143
+"### || AUTO 141 - كسوتهم والإغداق عليهم
+",000,False,000,False,False,False,2,144
+"### || AUTO 142 - إطعامهم أطيب الطعام
+",000,False,000,False,False,False,2,279
+"### || AUTO 143 - خدمتهم
+",000,False,000,False,False,False,2,36
+"### || AUTO 144 - تمريضهم والانحباس عن السفر من أجلهم
+",000,False,000,False,False,False,2,84
+"### || AUTO 145 - حفظ أسرارهم
+",000,False,000,False,False,False,2,64
+"### || AUTO 146 - قضاء حوائج أهليهم عند تغيبهم
+",000,False,000,False,False,False,2,33
+"### || AUTO 147 - حب الخير لهم
+",000,False,000,False,False,False,2,61
+"### || AUTO 148 - النصح لهم
+",000,False,000,False,False,False,2,166
+"### || AUTO 149 - شكر أهل المعروف
+",000,False,000,False,False,False,2,72
+"### || AUTO 150 - إكرام كريم القوم وإنزال الناس منازلهم
+",000,False,000,False,False,False,2,279
+"### || AUTO 151 - معاملتهم بما يحب أن يعاملوك به
+",000,False,000,False,False,False,2,92
+"### || AUTO 152 - قبول العذر وحسن الظن بالمسلمين
+",000,False,000,False,False,False,2,350
+"### || AUTO 153 - متى يحمد سوء الظن؟
+",000,False,000,False,False,False,2,32
+"### || AUTO 154 - الستر على المسيء
+",000,False,000,False,False,False,2,77
+"### || AUTO 155 - الزجر بالهجران لأهل المعاصي والبدع
+",000,False,000,False,False,False,2,71
+"### || AUTO 156 - عدم الهجران فوق ثلاث
+",000,False,000,False,False,False,2,59
+"### || AUTO 157 - فضل السلام
+",000,False,000,False,False,False,2,78
+"### || AUTO 158 - حكم إلقاء السلام ورده
+",000,False,000,False,False,False,2,80
+"### || AUTO 159 - السلام على المخنث
+",000,False,000,False,False,False,2,22
+"### || AUTO 160 - حكم إلقاء السلام بين المتخاصمين
+",000,False,000,False,False,False,2,203
+"### || AUTO 161 - السلام على أهل البدع والعصاة
+",000,False,000,False,False,False,2,141
+"### || AUTO 162 - السلام على أهل الذمة ومصافحتهم
+",000,False,000,False,False,False,2,309
+"### || AUTO 163 - السلام على المسلمين وفيهم الذمي
+",000,False,000,False,False,False,2,62
+"### || AUTO 164 - ما يفعل إذا رأى نصرانيا؟
+",000,False,000,False,False,False,2,35
+"### || AUTO 165 - هل يسلم على قرابته الذميين؟
+",000,False,000,False,False,False,2,97
+"### || AUTO 166 - إذا سلم على ذمي وهو لا يعلم أنه ذمي؟
+",000,False,000,False,False,False,2,28
+"### || AUTO 167 - حكم أداء السلام إذا تحمله؟
+",000,False,000,False,False,False,2,95
+"### || AUTO 168 - صفة السلام
+",000,False,000,False,False,False,2,93
+"### || AUTO 169 - قوله كيف أمسيت، وكيف أصبحت بدلا من السلام
+",000,False,000,False,False,False,2,62
+"### || AUTO 170 - حكم مصافحة الرجال بعضهم بعضا
+",000,False,000,False,False,False,2,55
+"### || AUTO 171 - هل يجوز القيام للعناق، وقيام أحد لأحد؟
+",000,False,000,False,False,False,2,426
+"### || AUTO 172 - حكم تقبيل الرجل يد الرجل ورأسه
+",000,False,000,False,False,False,2,397
+"### || AUTO 173 - حكم مصافحة النساء والتسليم عليهن
+",000,False,000,False,False,False,2,184
+"### || AUTO 174 - تقبيل الرجل ذات محرم منه
+",000,False,000,False,False,False,2,83
+"### || AUTO 175 - تقبيل الصغيرة وحملها
+",000,False,000,False,False,False,2,35
+"### || AUTO 176 - ما يسن أن يقول عند العطاس، وما يقال له
+",000,False,000,False,False,False,2,453
+"### || AUTO 177 - استحباب التشميت ثلاثا
+",000,False,000,False,False,False,2,71
+"### || AUTO 178 - استحباب خمر الوجه وخفض الصوت عند العطس
+",000,False,000,False,False,False,2,28
+"### || AUTO 179 - هل يشمت غير المسلم؟
+",000,False,000,False,False,False,2,78
+"### || AUTO 180 - هل يسن تشميت المرأة؟
+",000,False,000,False,False,False,2,101
+"### || AUTO 181 - استحباب عيادة المريض والتخفيف في عيادته
+",000,False,000,False,False,False,2,25
+"### || AUTO 182 - عيادة أهل الذمة
+",000,False,000,False,False,False,2,294
+"### || AUTO 183 - وقت عيادة المريض
+",000,False,000,False,False,False,2,45
+"### || AUTO 184 - الدعاء للمريض
+",000,False,000,False,False,False,2,25
+"### || AUTO 185 - كراهية الشكوى من المرض
+",000,False,000,False,False,False,2,213
+"### || AUTO 186 - كراهة تمني الموت
+",000,False,000,False,False,False,2,187
+"### || AUTO 187 - الحث على العزلة والبعد عن الاختلاط
+",000,False,000,False,False,False,2,156
+"### || AUTO 188 - ذكر من كره العزلة
+",000,False,000,False,False,False,2,130
+"### || AUTO 189 - فضل العزلة
+",000,False,000,False,False,False,2,100
+"### || AUTO 190 - حكم السياحة للتعبد
+",000,False,000,False,False,False,2,57
+"### | AUTO باب معاملة الحيوان والطير والنبات
+",000,False,000,False,False,False,1,2821
+"### || AUTO 191 - استحباب الرفق بالحيوان وعدم تعذيبه
+",000,False,000,False,False,False,2,163
+"### || AUTO 192 - كراهة التحريش بين الدواب
+",000,False,000,False,False,False,2,25
+"### || AUTO 193 - وسم الغنم وخصاء الدواب
+",000,False,000,False,False,False,2,80
+"### || AUTO 194 - كراهة نزو الحمار على الفرس
+",000,False,000,False,False,False,2,21
+"### || AUTO 195 - حذف الخيل
+",000,False,000,False,False,False,2,53
+"### || AUTO 196 - استخدام بقر الحرث في غير الحرث
+",000,False,000,False,False,False,2,32
+"### || AUTO 197 - قتل الكلب الأسود البهيم
+",000,False,000,False,False,False,2,142
+"### || AUTO 198 - هل يجوز قتل الخنزير؟
+",000,False,000,False,False,False,2,30
+"### || AUTO 199 - قتل دواب البيوت
+",000,False,000,False,False,False,2,157
+"### || AUTO 200 - حرق كور الزنابير وقتل النمل
+",000,False,000,False,False,False,2,185
+"### || AUTO 201 - كراهة سقي الدواب الخمر
+",000,False,000,False,False,False,2,58
+"### || AUTO 202 - جواز تسمية البهائم والطيور
+",000,False,000,False,False,False,2,33
+"### || AUTO 203 - اتخاذ الحمام للتربية
+",000,False,000,False,False,False,2,267
+"### || AUTO 204 - النهي عن اتخاذ الطير غرضا
+",000,False,000,False,False,False,2,59
+"### || AUTO 205 - قطع السدر والنخل وغيره من الشجر
+",000,False,000,False,False,False,2,212
+"### || AUTO 206 - تخويف الشجر وتلقيح النخل
+",000,False,000,False,False,False,2,1298
+"### | AUTO باب ما جاء في المحاسبة والمراقبة
+",000,False,000,False,False,False,1,3134
+"### || AUTO 207 - لزوم المحاسبة
+",000,False,000,False,False,False,2,229
+"### || AUTO 208 - محاسبة النفس
+",000,False,000,False,False,False,2,83
+"### || AUTO 209 - الانشغال بالنفس وإصلاحها
+",000,False,000,False,False,False,2,174
+"### || AUTO 210 - المجاهدة
+",000,False,000,False,False,False,2,193
+"### || AUTO 211 - معاتبة النفس وتوبيخها
+",000,False,000,False,False,False,2,195
+"### || AUTO 212 - المبادرة بطاعة الله واجتناب محارمه والمسارعة إلى الخيرات
+",000,False,000,False,False,False,2,678
+"### || AUTO 213 - القصد في الطاعة
+",000,False,000,False,False,False,2,121
+"### || AUTO 214 - المداومة على الطاعة
+",000,False,000,False,False,False,2,286
+"### || AUTO 215 - فضل طاعة الله عز وجل
+",000,False,000,False,False,False,2,516
+"### || AUTO 216 - شؤم المعصية
+",000,False,000,False,False,False,2,472
+"### || AUTO 217 - الحذر من صغار الذنوب
+",000,False,000,False,False,False,2,180
+"### | AUTO باب ما جاء في مكفرات الذنوب
+",000,False,000,False,False,False,1,1666
+"### || AUTO 218 - 1 - الاستغفار والتوبة
+",000,False,000,False,False,False,2,483
+"### || AUTO 219 - فضل التوبة
+",000,False,000,False,False,False,2,54
+"### || AUTO 220 - لزوم المبادرة إلى التوبة
+",000,False,000,False,False,False,2,54
+"### || AUTO 221 - أ- الإقلاع عن الذنب في الحال
+",000,False,000,False,False,False,2,198
+"### || AUTO 222 - ب - الندم على ما سلف من القبائح
+",000,False,000,False,False,False,2,125
+"### || AUTO 223 - أجناس ما يتاب منه
+",000,False,000,False,False,False,2,335
+"### || AUTO 224 - كيفية التوبة من حقوق العباد
+",000,False,000,False,False,False,2,38
+"### || AUTO 225 - 2 - الحسنات الماحيات
+",000,False,000,False,False,False,2,172
+"### || AUTO 226 - 3 - سكرات الموت تكفير للسيئات
+",000,False,000,False,False,False,2,200
+"### | AUTO باب ما جاء في الصبر
+",000,False,000,False,False,False,1,3605
+"### || AUTO 227 - فضل الصبر
+",000,False,000,False,False,False,2,69
+"### || AUTO 228 - أحوال الصبر على الطاعة
+",000,False,000,False,False,False,2,2220
+"### ||| AUTO 1 - قبل العبادة (تصحيح النية والإخلاص لله تعالي)
+",000,False,000,False,False,False,3,560
+"### ||| AUTO 2 - في نفس العبادة: (الخشوع)
+",000,False,000,False,False,False,3,177
+"### ||| AUTO 3 - بعد العبادة
+",000,False,000,False,False,False,3,1477
+"### || AUTO 229 - لا ينبغي ترك الطاعات خوفا من الرياء
+",000,False,000,False,False,False,2,119
+"### || AUTO 230 - ما جاء في الثناء الحسن وذكر من كره المدح
+",000,False,000,False,False,False,2,383
+"### || AUTO 231 - ثانيا: الصبر على المعاصي
+",000,False,000,False,False,False,2,227
+"### || AUTO 232 - ثالثا: الصبر على ما لا يدخل تحت الاختيار (المصائب، البلاء. .)
+",000,False,000,False,False,False,2,367
+"### || AUTO 233 - 1 - سكون الجوارح واللسان
+",000,False,000,False,False,False,2,118
+"### || AUTO 234 - 2 - عدم الشكوى
+",000,False,000,False,False,False,2,96
+"### | AUTO باب ما جاء في الشكر
+",000,False,000,False,False,False,1,2790
+"### || AUTO 235 - الحث على الشكر
+",000,False,000,False,False,False,2,73
+"### || AUTO 236 - أيهما أفضل: الشكر مع العافية، أم الصبر مع البلاء؟
+",000,False,000,False,False,False,2,53
+"### || AUTO 237 - 1 - إظهار الرضا عن الله عز وجل
+",000,False,000,False,False,False,2,174
+"### || AUTO 238 - 2 - الحمد
+",000,False,000,False,False,False,2,70
+"### || AUTO 239 - 3 - ذكر النعيم
+",000,False,000,False,False,False,2,1259
+"### || AUTO 240 - باب ما جاء في الخوف والرجاء
+",000,False,000,False,False,False,2,673
+"### || AUTO 241 - ما جاء في البكاء من خشية الله
+",000,False,000,False,False,False,2,369
+"### || AUTO 242 - ما جاء في الإشفاق
+",000,False,000,False,False,False,2,113
+"### | AUTO باب الزهد والفقر
+",000,False,000,False,False,False,1,9471
+"### || AUTO 243 - فضيلة الزهد
+",000,False,000,False,False,False,2,44
+"### || AUTO 244 - حقيقة الزهد
+",000,False,000,False,False,False,2,125
+"### || AUTO 245 - لا عيش إلا عيش الآخرة
+",000,False,000,False,False,False,2,350
+"### || AUTO 246 - لا تنال الآخرة إلا بالزهادة في الدنيا
+",000,False,000,False,False,False,2,1051
+"### || AUTO 247 - كن في الدنيا كأنك غريب
+",000,False,000,False,False,False,2,494
+"### || AUTO 248 - طول الأمل
+",000,False,000,False,False,False,2,292
+"### || AUTO 249 - ذكر الموت
+",000,False,000,False,False,False,2,449
+"### || AUTO 250 - ذم الدنيا وهوانها
+",000,False,000,False,False,False,2,777
+"### || AUTO 251 - الحذر من فتنة الدنيا أو الاغترار بها
+",000,False,000,False,False,False,2,399
+"### || AUTO 252 - ما جاء في أن فتنة الدنيا في المال، وذم المال
+",000,False,000,False,False,False,2,668
+"### || AUTO 253 - نعم المال الصالح للعبد الصالح
+",000,False,000,False,False,False,2,120
+"### || AUTO 254 - ما جاء أن الله يحمي عبده المؤمن من الدنيا وفتنتها
+",000,False,000,False,False,False,2,279
+"### || AUTO 255 - القناعة
+",000,False,000,False,False,False,2,201
+"### || AUTO 256 - الغنى غنى النفس
+",000,False,000,False,False,False,2,71
+"### || AUTO 257 - الزهد في الفضول وما زاد على المسكة والبلاغ من القوت، واغتنام التفرغ إلى عمارة الوقت وحسم الجأش والتحلي بحلى الأنبياء والصديقين
+",000,False,000,False,False,False,2,2244
+"### || AUTO 258 - فضل الصبر على الجوع والفقر، وذم الشبع
+",000,False,000,False,False,False,2,1150
+"### || AUTO 259 - فضل الفقراء على الأغنياء
+",000,False,000,False,False,False,2,753
+"### | AUTO باب ما جاء في الورع
+",000,False,000,False,False,False,1,3467
+"### || AUTO 260 - حقيقة الورع
+",000,False,000,False,False,False,2,107
+"### || AUTO 261 - فضل الورع ومنزلته
+",000,False,000,False,False,False,2,365
+"### || AUTO 262 - الحب على ألا يطعم إلا طيبا
+",000,False,000,False,False,False,2,425
+"### || AUTO 263 - الأمر بالوقوف عند الشبهة
+",000,False,000,False,False,False,2,386
+"### || AUTO 264 - ترك بعض الحلال مخافة الحرام
+",000,False,000,False,False,False,2,130
+"### || AUTO 265 - جواز الانتفاع بما فيه شبهة عند الضرورة والحاجة
+",000,False,000,False,False,False,2,100
+"### || AUTO 266 - حقيقة الشبهة وما جاء أن الحلال بين والحرام بين وبينهما أمور مشتبهات
+",000,False,000,False,False,False,2,188
+"### || AUTO 267 - هل المكروهات تقع تحت حد الشبهات؟
+",000,False,000,False,False,False,2,107
+"### || AUTO 268 - من أكل طعاما فبان فيه شبهة فقاءه
+",000,False,000,False,False,False,2,496
+"### || AUTO 269 - من كره الأكل أو الشرب من الصدقة
+",000,False,000,False,False,False,2,176
+"### || AUTO 270 - السراج أو النار أو الحطب لمن تكره ناحيته يستضاء به أو يخبز أو يطبخ
+",000,False,000,False,False,False,2,230
+"### || AUTO 271 - من كره أن يشم رائحة الطيب والبخور لمن تكره ناحيته
+",000,False,000,False,False,False,2,364
+"### || AUTO 272 - توبة من اختلط ماله بحرام
+",000,False,000,False,False,False,2,387
+"### | AUTO باب ما جاء في المحبة
+",000,False,000,False,False,False,1,4670
+"### || AUTO 273 - 1 - الابتلاء في الدنيا لتمحيصه من ذنوبه حتى يلقى الله وما عليه خطيئة
+",000,False,000,False,False,False,2,870
+"### || AUTO 274 - 2 - حسن التدبير له
+",000,False,000,False,False,False,2,361
+"### || AUTO 275 - من أسباب محبة الله لعبده
+",000,False,000,False,False,False,2,98
+"### || AUTO 276 - كيفية معرفة العبد قدر محبة الله له
+",000,False,000,False,False,False,2,47
+"### || AUTO 277 - 1 - محبة لقاء الله
+",000,False,000,False,False,False,2,52
+"### || AUTO 278 - 2 - الحرص على رضا الله عز وجل
+",000,False,000,False,False,False,2,286
+"### || AUTO 279 - 3 - الإكثار من ذكر الله والتنعم بمناجاته
+",000,False,000,False,False,False,2,87
+"### || AUTO 280 - 4 - أن يكون شفيقا على عباد الله رحيما بهم، شديدا على أعدائه
+",000,False,000,False,False,False,2,355
+"### || AUTO 281 - أثر إقبال العبد على الله عز وجل
+",000,False,000,False,False,False,2,124
+"### || AUTO 282 - حقيقة الذكر
+",000,False,000,False,False,False,2,46
+"### || AUTO 283 - فضيلة الذكر
+",000,False,000,False,False,False,2,859
+"### || AUTO 284 - فضيلة مجالس الذكر ومجالسة الصالحين
+",000,False,000,False,False,False,2,331
+"### || AUTO 285 - فضيلة ذكر الصالحين
+",000,False,000,False,False,False,2,45
+"### || AUTO 286 - الحث على الذكر جماعة وفرادى وعلى كل حال
+",000,False,000,False,False,False,2,358
+"### || AUTO 287 - الحث على مجالسة الصالحين
+",000,False,000,False,False,False,2,144
+"### || AUTO 288 - 1 - أن يكون الذاكر على طهارة
+",000,False,000,False,False,False,2,31
+"### || AUTO 289 - 2 - الخشوع والطمأنينة
+",000,False,000,False,False,False,2,159
+"### || AUTO 290 - ما يقول عند هبوب الريح
+",000,False,000,False,False,False,2,215
+"### || AUTO 291 - ما يقول عند سماع صوت الرعد
+",000,False,000,False,False,False,2,55
+"### || AUTO 292 - ما يقول عند الفزع
+",000,False,000,False,False,False,2,136
+"### | AUTO باب ما جاء في الدعاء
+",000,False,000,False,False,False,1,7003
+"### || AUTO 293 - الحث على الدعاء والمسألة
+",000,False,000,False,False,False,2,243
+"### || AUTO 294 - منزلة الدعاء
+",000,False,000,False,False,False,2,130
+"### || AUTO 295 - فصل: ما يستحب من الدعاء، وما يكره
+",000,False,000,False,False,False,2,245
+"### || AUTO 296 - 1 - طاعة الله وترك معصيته
+",000,False,000,False,False,False,2,173
+"### || AUTO 297 - 2 - أن يكون الداعي متوسلا إليه سبحانه بتوحيده وأسمائه وصفاته والعمل الصالح
+",000,False,000,False,False,False,2,155
+"### || AUTO 298 - أن يظهر الداعي الافتقار والمسكنة بين يدي الله سبحانه، وفي حال شريفة من حضور القلب والرجاء والإقبال على الله
+",000,False,000,False,False,False,2,148
+"### || AUTO 299 - 4 - الجزم وعزم المسألة وأن يدعو موقنا بالإجابة
+",000,False,000,False,False,False,2,58
+"### || AUTO 300 - 5 - غير مستعجل ولا مستبطئ الإجابة ولا قانط
+",000,False,000,False,False,False,2,103
+"### || AUTO 301 - 6 - غير معتد في الدعاء
+",000,False,000,False,False,False,2,22
+"### || AUTO 302 - 7 - أن يكون الدعاء بصوت منخفض خفي
+",000,False,000,False,False,False,2,46
+"### || AUTO 303 - 8 - الإكثار من الدعاء في حال الرخاء
+",000,False,000,False,False,False,2,44
+"### || AUTO 304 - هل يمسح بيده على وجهه بعد الدعاء؟
+",000,False,000,False,False,False,2,52
+"### || AUTO 305 - هل يجوز الاجتماع للدعاء؟
+",000,False,000,False,False,False,2,237
+"### || AUTO 306 - هل يجوز الدعاء لأهل الذمة؟
+",000,False,000,False,False,False,2,33
+"### || AUTO 307 - 1 - تقديم العمل الصالح
+",000,False,000,False,False,False,2,43
+"### || AUTO 308 - 2 - اغتنام الأحوال الصالحة
+",000,False,000,False,False,False,2,152
+"### || AUTO 309 - 3 - اغتنام الأوقات الفاضلة
+",000,False,000,False,False,False,2,231
+"### || AUTO 310 - 1 - الوقوع في شيء من محارم الله
+",000,False,000,False,False,False,2,74
+"### || AUTO 311 - 2 - أن يكون الداعي ضعيفا في نفسه
+",000,False,000,False,False,False,2,104
+"### || AUTO 312 - باب ما جاء في الحياء
+",000,False,000,False,False,False,2,330
+"### || AUTO 313 - باب ما جاء في التواضع وذم الكبر والعجب
+",000,False,000,False,False,False,2,1059
+"### || AUTO 314 - باب ما جاء في التوكل
+",000,False,000,False,False,False,2,530
+"### || AUTO 315 - باب ما جاء في اليقين
+",000,False,000,False,False,False,2,312
+"### || AUTO 316 - باب ما جاء في الحزن
+",000,False,000,False,False,False,2,133
+"### || AUTO 317 - باب ما جاء في التفكر
+",000,False,000,False,False,False,2,130
+"### || AUTO 318 - باب ما جاء في الحكمة
+",000,False,000,False,False,False,2,2210
+"### | AUTO باب ما جاء في أخبار أهل الزهد والورع
+",000,False,000,False,False,False,1,34107
+"### || AUTO 319 - من له اسمان من الأنبياء
+",000,False,000,False,False,False,2,41
+"### || AUTO 320 - هل الخضر وإلياس معمران؟
+",000,False,000,False,False,False,2,35
+"### || AUTO 321 - ما جاء في زهد النبي -صلى الله عليه وسلم- وأخباره
+",000,False,000,False,False,False,2,2545
+"### || AUTO 322 - ما جاء زهد آدم عليه السلام وأخباره
+",000,False,000,False,False,False,2,88
+"### || AUTO 323 - ما جاء في زهد نوح عليه السلام وأخباره
+",000,False,000,False,False,False,2,131
+"### || AUTO 324 - ما جاء في زهد إبراهيم عليه السلام وأخباره
+",000,False,000,False,False,False,2,256
+"### || AUTO 325 - ما جاء في زهد أيوب عليه السلام وأخباره
+",000,False,000,False,False,False,2,596
+"### || AUTO 326 - ما جاء في زهد موسى عليه السلام وأخباره
+",000,False,000,False,False,False,2,1584
+"### || AUTO 327 - ما جاء في زهد حزقيل عليه السلام وأخباره
+",000,False,000,False,False,False,2,690
+"### || AUTO 328 - ما جاء في زهد داود عليه السلام وأخباره
+",000,False,000,False,False,False,2,671
+"### || AUTO 329 - ما جاء في زهد سليمان عليه السلام وأخباره
+",000,False,000,False,False,False,2,188
+"### || AUTO 330 - ما جاء في زهد لقمان عليه السلام وأخباره
+",000,False,000,False,False,False,2,132
+"### || AUTO 331 - جاء في زهد عيسى عليه السلام وأخباره
+",000,False,000,False,False,False,2,694
+"### || AUTO 332 - ما جاء في زهد يحيى عليه السلام وأخباره
+",000,False,000,False,False,False,2,271
+"### || AUTO 333 - ما جاء في زهد أبي بكر الصديق -رضي الله عنه- وأخباره
+",000,False,000,False,False,False,2,535
+"### || AUTO 334 - ما جاء في زهد عمر بن الخطاب -رضي الله عنه- وأخباره
+",000,False,000,False,False,False,2,1760
+"### || AUTO 335 - ما جاء في زهد عثمان بن عفان -رضي الله عنه- وأخباره
+",000,False,000,False,False,False,2,391
+"### || AUTO 336 - ما جاء في زهد علي -رضي الله عنه- وأخباره
+",000,False,000,False,False,False,2,484
+"### || AUTO 337 - ما جاء في زهد أبي عبيدة بن الجراح -رضي الله عنه- وأخباره
+",000,False,000,False,False,False,2,124
+"### || AUTO 338 - ما جاء في زهد سعد بن أبي وقاص -رضي الله عنه- وأخباره
+",000,False,000,False,False,False,2,159
+"### || AUTO 339 - ما جاء في زهد الزبير بن العوام -رضي الله عنه-
+",000,False,000,False,False,False,2,52
+"### || AUTO 340 - ما جاء في زهد عثمان بن مظعون -رضي الله عنه-
+",000,False,000,False,False,False,2,58
+"### || AUTO 341 - ما جاء في زهد عبد الله بن رواحة -رضي الله عنه-
+",000,False,000,False,False,False,2,56
+"### || AUTO 342 - ما جاء في زهد سالم مولى حذيفة -رضي الله عنه-
+",000,False,000,False,False,False,2,39
+"### || AUTO 343 - ما جاء في زهد معاذ بن جبل -رضي الله عنه- وأخباره
+",000,False,000,False,False,False,2,230
+"### || AUTO 344 - ما جاء في زهد عتبة بن غزوان
+",000,False,000,False,False,False,2,56
+"### || AUTO 345 - ما جاء في زهد عمرو بن عتبة بن فرقد -رضي الله عنه- وأخباره
+",000,False,000,False,False,False,2,356
+"### || AUTO 346 - ما جاء في زهد سعيد بن عامر -رضي الله عنه- وأخباره
+",000,False,000,False,False,False,2,232
+"### || AUTO 347 - ما جاء في زهد أبي ذر -رضي الله عنه- وأخباره
+",000,False,000,False,False,False,2,635
+"### || AUTO 348 - ما جاء في زهد عبد الله بن مسعود -رضي الله عنه- وأخباره
+",000,False,000,False,False,False,2,547
+"### || AUTO 349 - ما جاء في زهد أبي الدرداء -رضي الله عنه- وأخباره
+",000,False,000,False,False,False,2,836
+"### || AUTO 350 - ما جاء في زهد أبي طلحة -رضي الله عنه-
+",000,False,000,False,False,False,2,78
+"### || AUTO 351 - ما جاء في زهد سلمان -رضي الله عنه- وأخباره
+",000,False,000,False,False,False,2,553
+"### || AUTO 352 - ما جاء في زهد عمار بن ياسر
+",000,False,000,False,False,False,2,40
+"### || AUTO 353 - ما جاء في زهد تميم الداري -رضي الله عنه-
+",000,False,000,False,False,False,2,101
+"### || AUTO 354 - ما جاء في زهد كعب بن مالك -رضي الله عنه-
+",000,False,000,False,False,False,2,41
+"### || AUTO 355 - ما جاء في زهد أبي موسى -رضي الله عنه-
+",000,False,000,False,False,False,2,129
+"### || AUTO 356 - ما جاء في زهد محمد بن مسلمة -رضي الله عنه-
+",000,False,000,False,False,False,2,325
+"### || AUTO 357 - ما جاء في زهد عثمان بن أبي العاص -رضي الله عنه-
+",000,False,000,False,False,False,2,278
+"### || AUTO 358 - ما جاء في زهد عمران بن حصين -رضي الله عنه- وأخباره
+",000,False,000,False,False,False,2,211
+"### || AUTO 359 - ما جاء في زهد أبي هريرة -رضي الله عنه- وأخباره
+",000,False,000,False,False,False,2,448
+"### || AUTO 360 - ما جاء في زهد عائشة -رضي الله عنها- وأخبارها
+",000,False,000,False,False,False,2,149
+"### || AUTO 361 - ما جاء في زهد عبد الله بن عامر -رضي الله عنه- وأخباره
+",000,False,000,False,False,False,2,190
+"### || AUTO 362 - ما جاء في زهد عبد الله بن عتبة -رضي الله عنه- وأخباره
+",000,False,000,False,False,False,2,57
+"### || AUTO 363 - ما جاء في زهد المسور بن مخرمة -رضي الله عنه- وأخباره
+",000,False,000,False,False,False,2,87
+"### || AUTO 364 - ما جاء في زهد عبد الله بن عباس -رضي الله عنهما- أخباره
+",000,False,000,False,False,False,2,140
+"### || AUTO 365 - ما جاء في زهد عدي بن حاتم
+",000,False,000,False,False,False,2,45
+"### || AUTO 366 - ما جاء في زهد عبد الله بن يزيد الخطمي وأخباره
+",000,False,000,False,False,False,2,136
+"### || AUTO 367 - ما جاء في زهد عبد الله بن الزبير -رضي الله عنهما- أخباره
+",000,False,000,False,False,False,2,82
+"### || AUTO 368 - ما جاء في زهد عبد الله بن عمر
+",000,False,000,False,False,False,2,727
+"### || AUTO 369 - ما جاء في زهد أبي أمامة
+",000,False,000,False,False,False,2,76
+"### || AUTO 370 - ما جاء في زهد سهل بن سعد
+",000,False,000,False,False,False,2,50
+"### || AUTO 371 - ما جاء في زهد أويس القرني وأخباره
+",000,False,000,False,False,False,2,530
+"### || AUTO 372 - ما جاء في زهد هرم بن حيان العبدي وأخباره
+",000,False,000,False,False,False,2,340
+"### || AUTO 373 - ما جاء في زهد عامر بن عبد قيس (عبد الله) وأخباره
+",000,False,000,False,False,False,2,2237
+"### || AUTO 374 - ما جاء في زهد الربيع بن خثيم وأخباره
+",000,False,000,False,False,False,2,772
+"### || AUTO 375 - ما جاء في زهد سويد بن شعبة وأخباره
+",000,False,000,False,False,False,2,63
+"### || AUTO 376 - ما جاء في زهد مسروق بن الأجدع وأخباره
+",000,False,000,False,False,False,2,224
+"### || AUTO 377 - ما جاء في زهد أبي مسلم الخولاني وأخباره
+",000,False,000,False,False,False,2,559
+"### || AUTO 378 - ما جاء في زهد صلة بن أشيم وأخباره
+",000,False,000,False,False,False,2,321
+"### || AUTO 379 - ما جاء في زهد علقمة بن قيس وأخباره
+",000,False,000,False,False,False,2,61
+"### || AUTO 380 - ما جاء في زهد الأحنف بن قيس وأخباره
+",000,False,000,False,False,False,2,217
+"### || AUTO 381 - ما جاء في زهد صفوان بن محرز وأخباره
+",000,False,000,False,False,False,2,237
+"### || AUTO 382 - ما جاء في زهد عمرو بن ميمون وأخباره
+",000,False,000,False,False,False,2,27
+"### || AUTO 383 - ما جاء في زهد الأسود بن يزيد الجوشي وأخباره
+",000,False,000,False,False,False,2,166
+"### || AUTO 384 - ما جاء في زهد يزيد بن شريك وأخباره
+",000,False,000,False,False,False,2,76
+"### || AUTO 385 - ما جاء في زهد زياد بن حدير وأخباره
+",000,False,000,False,False,False,2,51
+"### || AUTO 386 - ما جاء في زهد أبي البختري الطائي وأخباره
+",000,False,000,False,False,False,2,40
+"### || AUTO 387 - ما جاء في زهد أبي وائل شقيق بن سلمة وأخباره
+",000,False,000,False,False,False,2,222
+"### || AUTO 388 - ما جاء في زهد ميمون بن أبي شبيب وأخباره
+",000,False,000,False,False,False,2,130
+"### || AUTO 389 - ما جاء في زهد معاذة العدوية وأخبارها
+",000,False,000,False,False,False,2,60
+"### || AUTO 390 - ما جاء في زهد مطرف بن عبد الله بن الشخير وأخباره
+",000,False,000,False,False,False,2,366
+"### || AUTO 391 - ما جاء في زهد سالم بن عبد الله وأخباره
+",000,False,000,False,False,False,2,46
+"### || AUTO 392 - ما جاء في زهد عبد الله بن أبي الهذيل وأخباره
+",000,False,000,False,False,False,2,91
+"### || AUTO 393 - ما جاء في زهد إبراهيم التيمي وأخباره
+",000,False,000,False,False,False,2,42
+"### || AUTO 394 - ما جاء في زهد عروة بن الزبير وأخباره
+",000,False,000,False,False,False,2,130
+"### || AUTO 395 - ما جاء في زهد سعيد بن المسيب وأخباره
+",000,False,000,False,False,False,2,206
+"### || AUTO 396 - ما جاء في زهد العنبس بن عقبة وأخباره
+",000,False,000,False,False,False,2,40
+"### || AUTO 397 - ما جاء في زهد العلاء بن زياد وأخباره
+",000,False,000,False,False,False,2,540
+"### || AUTO 398 - ما جاء في زهد سعيد بن جبير وأخباره
+",000,False,000,False,False,False,2,103
+"### || AUTO 399 - ما جاء في زهد إبراهيم النخعي وأخباره
+",000,False,000,False,False,False,2,187
+"### || AUTO 400 - ما جاء في زهد أبي تميمة وأخباره
+",000,False,000,False,False,False,2,58
+"### || AUTO 401 - ما جاء في زهد عبد الرحمن بن الأسود وأخباره
+",000,False,000,False,False,False,2,55
+"### || AUTO 402 - ما جاء في زهد عبد الله بن محيريز وأخباره
+",000,False,000,False,False,False,2,52
+"### || AUTO 403 - ما جاء في زهد غزوان الرقاشي وأخباره
+",000,False,000,False,False,False,2,145
+"### || AUTO 404 - ما جاء في زهد سليمان بن عبد الملك وأخباره
+",000,False,000,False,False,False,2,84
+"### || AUTO 405 - ما جاء في زهد مسلم بن يسار وأخباره
+",000,False,000,False,False,False,2,168
+"### || AUTO 406 - ما جاء في زهد أبي حازم وأخباره
+",000,False,000,False,False,False,2,64
+"### || AUTO 407 - ما جاء في زهد عمر بن عبد العزيز وأخباره
+",000,False,000,False,False,False,2,721
+"### || AUTO 408 - ما جاء في زهد الشعبي وأخباره
+",000,False,000,False,False,False,2,34
+"### || AUTO 409 - ما جاء في زهد يزيد بن مرثد وأخباره
+",000,False,000,False,False,False,2,149
+"### || AUTO 410 - ما جاء في زهد أبي رجاء العطاردي وأخباره
+",000,False,000,False,False,False,2,92
+"### || AUTO 411 - ما جاء في زهد الضحاك بن عبد الرحمن بن عزرم وأخباره
+",000,False,000,False,False,False,2,60
+"### || AUTO 412 - ما جاء في زهد خليد العصري وأخباره
+",000,False,000,False,False,False,2,77
+"### || AUTO 413 - ما جاء في زهد طاوس بن كيسان وأخباره
+",000,False,000,False,False,False,2,502
+"### || AUTO 414 - ما جاء في زهد بكر بن عبد الله المزني وأخباره
+",000,False,000,False,False,False,2,146
+"### || AUTO 415 - ما جاء في زهد سعيد بن أبي الحسن وأخباره
+",000,False,000,False,False,False,2,47
+"### || AUTO 416 - ما جاء في زهد الحسن البصري وأخباره
+",000,False,000,False,False,False,2,542
+"### || AUTO 417 - ما جاء في زهد محمد بن سيرين وأخباره
+",000,False,000,False,False,False,2,451
+"### || AUTO 418 - ما جاء في زهد وهب بن منبة وأخباره
+",000,False,000,False,False,False,2,94
+"### || AUTO 419 - ما جاء في زهد عطاء بن رباح وأخباره
+",000,False,000,False,False,False,2,43
+"### || AUTO 420 - ما جاء في زهد محمد بن واسع وأخباره
+",000,False,000,False,False,False,2,155
+"### || AUTO 421 - ما جاء في زهد ثابت البناني وأخباره
+",000,False,000,False,False,False,2,116
+"### || AUTO 422 - ما جاء في زهد بلال بن سعد وأخباره
+",000,False,000,False,False,False,2,60
+"### || AUTO 423 - ما جاء في زهد محمد بن المنكدر وأخباره
+",000,False,000,False,False,False,2,51
+"### || AUTO 424 - ما جاء في زهد مالك بن دينار وأخباره
+",000,False,000,False,False,False,2,583
+"### || AUTO 425 - ما جاء في زهد عبد الله بن غالب وأخباره
+",000,False,000,False,False,False,2,186
+"### || AUTO 426 - ما جاء في زهد عطاء الخراساني وأخباره
+",000,False,000,False,False,False,2,81
+"### || AUTO 427 - ما جاء في زهد ابن جريج وأخباره
+",000,False,000,False,False,False,2,60
+"### || AUTO 428 - ما جاء في زهد محمد بن النضر وأخباره
+",000,False,000,False,False,False,2,38
+"### || AUTO 429 - ما جاء في زهد عبد الله بن عون وأخباره
+",000,False,000,False,False,False,2,66
+"### || AUTO 430 - ما جاء في زهد الأسود بن كلثوم وأخباره
+",000,False,000,False,False,False,2,171
+"### || AUTO 431 - ما جاء في زهد وهيب بن الورد وأخباره
+",000,False,000,False,False,False,2,145
+"### || AUTO 432 - ما جاء في زهد مالك بن مغول وأخباره
+",000,False,000,False,False,False,2,44
+"### || AUTO 433 - ما جاء في زهد عبد الله بن المبارك وأخباره
+",000,False,000,False,False,False,2,679
+"### || AUTO 434 - ما جاء في زهد أيوب بن وائل الراسبي وأخباره
+",000,False,000,False,False,False,2,66
+"### || AUTO 435 - ما جاء في زهد أيوب بن النجار وأخباره
+",000,False,000,False,False,False,2,90
+"### || AUTO 436 - ما جاء في زهد يزيد بن زريع وأخباره
+",000,False,000,False,False,False,2,53
+"### || AUTO 437 - ما جاء في زهد داود بن يحيى بن يمان وأخباره
+",000,False,000,False,False,False,2,29
+"### || AUTO 438 - ما جاء في زهد أبي الخلال وأخباره
+",000,False,000,False,False,False,2,85
+"### || AUTO 439 - ما جاء في زهد عيسى بن يونس وأخباره
+",000,False,000,False,False,False,2,46
+"### || AUTO 440 - ما جاء في زهد يوسف بن أسباط وأخباره
+",000,False,000,False,False,False,2,103
+"### || AUTO 441 - ما جاء في زهد سفيان بن عينية وأخباره
+",000,False,000,False,False,False,2,86
+"### || AUTO 442 - ما جاء في زهد شعيب بن حرب وأخباره
+",000,False,000,False,False,False,2,76
+"### || AUTO 443 - ما جاء في زهد أبي داود الحفري وأخباره
+",000,False,000,False,False,False,2,72
+"### || AUTO 444 - ما جاء في زهد محمد بن أدريس وأخباره
+",000,False,000,False,False,False,2,115
+"### || AUTO 445 - ما جاء في زهد محمد بن عبد الله بن إدريس وأخباره
+",000,False,000,False,False,False,2,121
+"### || AUTO 446 - ما جاء في زهد مخة أخت بشر بن الحارث وأخبارها
+",000,False,000,False,False,False,2,259
+"### || AUTO 447 - ما جاء في زهد بشر بن الحارث الحافي وأخباره
+",000,False,000,False,False,False,2,168
+"### || AUTO 448 - ما جاء في زهد عطاء بن محمد الحراني وأخباره
+",000,False,000,False,False,False,2,64
+"### || AUTO 449 - ما جاء في زهد محمد بن الضحاك وأخباره
+",000,False,000,False,False,False,2,147
+"### | AUTO أخطاء طباعية واستدراكات
+",000,False,000,False,False,False,1,14291
+"### || AUTO المجلد العشرون
+",000,False,000,False,False,False,2,14280

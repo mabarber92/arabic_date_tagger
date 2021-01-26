@@ -1,0 +1,49 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO القول المبين
+",000,False,000,False,False,False,1,1797
+"### || AUTO تصدير مؤسسة الإمام زيد بن علي الثقافية
+",000,False,000,False,False,False,2,1758
+"### | AUTO تقديم بقلم عبدالله بن حمود درهم العزي
+",000,False,000,False,False,False,1,1080
+"### || AUTO إشارة إلى مؤلف هذا الكتاب
+",000,False,000,False,False,False,2,117
+"### || AUTO الشيعي الصادق
+",000,False,000,False,False,False,2,185
+"### || AUTO كلمة عن المؤلف
+",000,False,000,False,False,False,2,173
+"### || AUTO بداية دراسته ومشائخه
+",000,False,000,False,False,False,2,55
+"### || AUTO صفاته الخلقية
+",000,False,000,False,False,False,2,34
+"### || AUTO دوره الإصلاحي في منطقة مجز، وتلاميذه
+",000,False,000,False,False,False,2,51
+"### || AUTO حرصه على تنظيم الأوقات
+",000,False,000,False,False,False,2,106
+"### || AUTO منهجه في فهم القران
+",000,False,000,False,False,False,2,33
+"### || AUTO مؤلفاته
+",000,False,000,False,False,False,2,60
+"### | AUTO مقدمة المؤلف
+",000,False,000,False,False,False,1,470
+"### | AUTO الفصل الأول: أهل البيت في القرآن
+",000,False,000,False,False,False,1,1420
+"### || AUTO آية التطهير
+",000,False,000,False,False,False,2,532
+"### || AUTO آية المودة
+",000,False,000,False,False,False,2,308
+"### || AUTO آية المباهلة
+",000,False,000,False,False,False,2,277
+"### || AUTO آية الصلاة
+",000,False,000,False,False,False,2,188
+"### | AUTO الفصل الثاني: أهل البيت في السنة
+",000,year,000,False,False,False,1,574
+"### || AUTO حديث الثقلين
+",000,False,000,False,False,False,2,138
+"### || AUTO حديث السفينة
+",000,False,000,False,False,False,2,104
+"### || AUTO حديث باب حطة
+",000,False,000,False,False,False,2,89
+"### || AUTO حديث النجوم
+",000,False,000,False,False,False,2,80
+"### || AUTO خاتمة
+",000,False,000,False,False,False,2,76

@@ -1,0 +1,4003 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | مقدمة
+",000,False,000,False,False,False,1,887
+"### | الباب الأول
+",000,False,000,False,False,False,1,3751
+"### || الفصل الأول
+",000,False,000,False,False,False,2,971
+"### || الفصل الثاني
+",000,False,000,False,False,False,2,390
+"### || الفصل الثالث
+",000,False,000,False,False,False,2,404
+"### || الفصل الرابع
+",000,False,000,False,False,False,2,1314
+"### || الفصل الخامس
+",000,False,000,False,False,False,2,661
+"### | الباب الثاني
+",000,False,000,False,False,False,1,78610
+"### || الفصل الأول
+",000,False,000,False,False,False,2,1512
+"### || الفصل الثاني
+",000,False,000,False,False,False,2,77089
+"### ||| حرف الألف 
+",000,False,000,False,False,False,3,809
+"### |||| بنو أبان
+",000,False,000,False,False,False,4,511
+"### |||| بنو ابان
+",000,False,000,False,False,False,4,30
+"### |||| بنو أبان
+",000,False,000,False,False,False,4,26
+"### |||| بنو أبان
+",000,False,000,False,False,False,4,24
+"### |||| بنو أبي الحسين
+",000,False,000,False,False,False,4,143
+"### |||| بنو أبي ربيعة
+",000,False,000,False,False,False,4,38
+"### |||| بنو ابيرق
+",000,False,000,False,False,False,4,56
+"### |||| بنو أبي كثير
+",000,False,000,False,False,False,4,22
+"### ||| الألف مع التاء المثناة فوق
+",000,False,000,False,False,False,3,50
+"### |||| بنو أتبع
+",000,False,000,False,False,False,4,53
+"### ||| الألف مع الحاء المهملة
+",000,False,000,False,False,False,3,143
+"### |||| بنو احاطة 
+",000,False,000,False,False,False,4,65
+"### |||| بنو أحمد
+",000,False,000,False,False,False,4,38
+"### |||| بنو أحمس
+",000,False,000,False,False,False,4,48
+"### ||| الألف مع الدال المهملة
+",000,False,000,False,False,False,3,140
+"### |||| بنو أد
+",000,False,000,False,False,False,4,29
+"### |||| بنو أدد
+",000,False,000,False,False,False,4,67
+"### |||| بنو ادي
+",000,False,000,False,False,False,4,50
+"### ||| الألف مع الذال المعجمة
+",000,False,000,False,False,False,3,54
+"### |||| بنو أذب
+",000,False,000,False,False,False,4,51
+"### ||| الألف مع الراء المهملة
+",000,False,000,False,False,False,3,230
+"### |||| بنو أرحب
+",000,False,000,False,False,False,4,73
+"### |||| بنو أراش
+",000,False,000,False,False,False,4,51
+"### |||| بنو أراش
+",000,False,000,False,False,False,4,27
+"### |||| بنو اردواجه
+",000,False,000,False,False,False,4,59
+"### |||| بنو أريش
+",000,False,000,False,False,False,4,58
+"### ||| الألف مع السين المهملة
+",000,False,000,False,False,False,3,738
+"### |||| بنو اسامة
+",000,False,000,False,False,False,4,43
+"### |||| بنو اسحاق
+",000,False,000,False,False,False,4,64
+"### |||| بنو أسد
+",000,False,000,False,False,False,4,126
+"### |||| بنو أسد
+",000,False,000,False,False,False,4,43
+"### |||| بنو - أسد
+",000,False,000,False,False,False,4,64
+"### |||| بنو أسد
+",000,False,000,False,False,False,4,113
+"### |||| بنو أسد
+",000,False,000,False,False,False,4,28
+"### |||| بنو اسرات
+",000,False,000,False,False,False,4,22
+"### |||| بنو اسرائن
+",000,False,000,False,False,False,4,21
+"### |||| بنو أسعد
+",000,False,000,False,False,False,4,17
+"### |||| بنو أسلم
+",000,False,000,False,False,False,4,35
+"### |||| بنو أسلم - بالفتح أيضا
+",000,False,000,False,False,False,4,41
+"### |||| بنو أسلم - بالفتح أيضا
+",000,False,000,False,False,False,4,38
+"### |||| بنو أسلم
+",000,False,000,False,False,False,4,41
+"### |||| بنو اسماء
+",000,False,000,False,False,False,4,54
+"### |||| بنو اسيد
+",000,False,000,False,False,False,4,68
+"### |||| بنو أسير
+",000,False,000,False,False,False,4,35
+"### ||| الألف مع الشين المعجمة
+",000,False,000,False,False,False,3,218
+"### |||| بنو أشجع
+",000,False,000,False,False,False,4,118
+"### |||| بنو اشرس
+",000,False,000,False,False,False,4,27
+"### |||| بنو أشعب
+",000,False,000,False,False,False,4,28
+"### |||| بنو أشعر
+",000,False,000,False,False,False,4,53
+"### ||| الألف مع العين المهملة
+",000,False,000,False,False,False,3,77
+"### ||| الألف مع الفاء
+",000,False,000,False,False,False,3,167
+"### |||| بنو أرفك
+",000,False,000,False,False,False,4,32
+"### |||| بنو أفصى
+",000,False,000,False,False,False,4,35
+"### |||| بنو أفصى
+",000,False,000,False,False,False,4,57
+"### |||| بنو أفصى
+",000,False,000,False,False,False,4,32
+"### |||| بنو افكة
+",000,False,000,False,False,False,4,44
+"### ||| الألف مع القاف
+",000,False,000,False,False,False,3,44
+"### |||| بنو أقيش
+",000,False,000,False,False,False,4,42
+"### ||| الألف مع الكاف
+",000,False,000,False,False,False,3,140
+"### |||| بنو آكل المرار
+",000,False,000,False,False,False,4,71
+"### |||| بنوأكلب
+",000,False,000,False,False,False,4,70
+"### |||| بنو أكور
+",000,False,000,False,False,False,4,14
+"### ||| الألف واللام مع الباء الموحدة
+",000,False,000,False,False,False,3,147
+"### |||| بنو البرك
+",000,False,000,False,False,False,4,64
+"### |||| بنو البكاء
+",000,False,000,False,False,False,4,62
+"### |||| بنو البيض ms032
+",000,False,000,False,False,False,4,53
+"### ||| الألف واللام مع التاء
+",000,False,000,False,False,False,3,48
+"### |||| بنو التيم
+",000,False,000,False,False,False,4,52
+"### ||| الألف واللام مع الثاء
+",000,False,000,False,False,False,3,44
+"### |||| بنو الثعلب
+",000,False,000,False,False,False,4,46
+"### ||| الألف واللام مع الجيم
+",000,False,000,False,False,False,3,157
+"### |||| بنو الجماهر
+",000,False,000,False,False,False,4,42
+"### |||| بنو الجون
+",000,False,000,False,False,False,4,47
+"### |||| بنو الجندع
+",000,False,000,False,False,False,4,58
+"### |||| بنو الجلاس
+",000,False,000,False,False,False,4,37
+"### ||| الألف واللام مع الحاء المهملة
+",000,False,000,False,False,False,3,1091
+"### |||| بنو الحادي
+",000,False,000,False,False,False,4,69
+"### |||| بنو الحارث
+",000,False,000,False,False,False,4,51
+"### |||| بنو الحارث
+",000,False,000,False,False,False,4,32
+"### |||| بنو الحارث
+",000,False,000,False,False,False,4,29
+"### |||| بنو الحارث
+",000,False,000,False,False,False,4,28
+"### |||| بنو الحارث
+",000,False,000,False,False,False,4,33
+"### |||| بنو الحارث
+",000,False,000,False,False,False,4,34
+"### |||| بنو الحارث
+",000,False,000,False,False,False,4,34
+"### |||| بنو الحارث الاكبر
+",000,False,000,False,False,False,4,42
+"### |||| بنو الحارث
+",000,False,000,False,False,False,4,30
+"### |||| بنو الحارث ms034
+",000,False,000,False,False,False,4,29
+"### |||| بنو الحارث
+",000,False,000,False,False,False,4,40
+"### |||| بنو الحارث
+",000,False,000,False,False,False,4,56
+"### |||| بنو الحارث
+",000,False,000,False,False,False,4,36
+"### |||| بنو الحارث
+",000,False,000,False,False,False,4,32
+"### |||| بنو الحارث
+",000,False,000,False,False,False,4,68
+"### |||| بنو الحارث
+",000,False,000,False,False,False,4,62
+"### |||| بنو الحارث
+",000,False,000,False,False,False,4,32
+"### |||| بنو الحارث
+",000,False,000,False,False,False,4,40
+"### |||| بنو الحارث
+",000,False,000,False,False,False,4,26
+"### |||| بنو الحارث
+",000,False,000,False,False,False,4,41
+"### |||| بنو الحارث
+",000,False,000,False,False,False,4,55
+"### |||| بنو الحارث - وثعلبة الاثر بن رهط من غالب.
+",000,False,000,False,False,False,4,16
+"### |||| بنو الحارث
+",000,False,000,False,False,False,4,30
+"### |||| بنو الحارث
+",000,False,000,False,False,False,4,125
+"### |||| بنو الحارث
+",000,False,000,False,False,False,4,44
+"### |||| بنو الحارث
+",000,False,000,False,False,False,4,32
+"### |||| بنو الحارث
+",000,False,000,False,False,False,4,31
+"### |||| بنو الحبط
+",000,False,000,False,False,False,4,78
+"### |||| بنو الحبلى
+",000,False,000,False,False,False,4,46
+"### ||| الألف واللام مع الخاء المعجمة
+",000,False,000,False,False,False,3,586
+"### |||| بنو الحجاج
+",000,False,000,False,False,False,4,14
+"### |||| بنو الحجر
+",000,False,000,False,False,False,4,42
+"### |||| بنو الحريش
+",000,False,000,False,False,False,4,42
+"### |||| بنو الحسحاس
+",000,False,000,False,False,False,4,44
+"### |||| بنو الحسن
+",000,False,000,False,False,False,4,22
+"### |||| بنو الحكم
+",000,False,000,False,False,False,4,24
+"### |||| بنو الحكم
+",000,False,000,False,False,False,4,32
+"### |||| بنو الحماس
+",000,False,000,False,False,False,4,46
+"### |||| بنو الحميس
+",000,False,000,False,False,False,4,58
+"### |||| بنو الخبائر
+",000,False,000,False,False,False,4,64
+"### |||| بنو الخزرج
+",000,False,000,False,False,False,4,92
+"### |||| بنو الخزرج
+",000,False,000,False,False,False,4,40
+"### |||| بنو الخزرج
+",000,False,000,False,False,False,4,48
+"### |||| بنو الخلج
+",000,False,000,False,False,False,4,68
+"### ||| الألف واللام مع الدال المهملة
+",000,False,000,False,False,False,3,614
+"### |||| بنو الدار
+",000,False,000,False,False,False,4,67
+"### |||| بنو الدؤل
+",000,False,000,False,False,False,4,68
+"### |||| بنو الدئل
+",000,False,000,False,False,False,4,224
+"### |||| بنو الديان
+",000,False,000,False,False,False,4,135
+"### |||| بنو الديش
+",000,False,000,False,False,False,4,69
+"### |||| بنو الديل
+",000,False,000,False,False,False,4,83
+"### ||| الألف واللام مع الدال المعجمة
+",000,False,000,False,False,False,3,98
+"### |||| بنو الذيب
+",000,False,000,False,False,False,4,68
+"### |||| بنو الذيب
+",000,False,000,False,False,False,4,33
+"### ||| الألف واللام مع الراء المهملة
+",000,False,000,False,False,False,3,226
+"### |||| بنو الرائش
+",000,False,000,False,False,False,4,50
+"### |||| بنو الربض
+",000,False,000,False,False,False,4,72
+"### |||| بنو الربعة
+",000,False,000,False,False,False,4,61
+"### |||| بنو الربعة
+",000,False,000,False,False,False,4,23
+"### |||| بنو الربعة
+",000,False,000,False,False,False,4,58
+"### ||| الألف واللام مع السين المهملة
+",000,False,000,False,False,False,3,440
+"### |||| بنو السبيع
+",000,False,000,False,False,False,4,72
+"### |||| بنو السحول
+",000,False,000,False,False,False,4,68
+"### |||| بنو السكاسك
+",000,False,000,False,False,False,4,49
+"### |||| بنو السكون
+",000,False,000,False,False,False,4,29
+"### |||| بنو السلف
+",000,False,000,False,False,False,4,55
+"### |||| بنو السلم
+",000,False,000,False,False,False,4,53
+"### |||| بنو السمعية
+",000,False,000,False,False,False,4,49
+"### |||| بنو السيد
+",000,False,000,False,False,False,4,72
+"### |||| بنو السيد
+",000,False,000,False,False,False,4,27
+"### ||| الألف واللام مع الشين المعجمة
+",000,False,000,False,False,False,3,246
+"### |||| بنو الشريد
+",000,False,000,False,False,False,4,171
+"### |||| بنو الشعرية
+",000,False,000,False,False,False,4,24
+"### |||| بنو الشيطان
+",000,False,000,False,False,False,4,65
+"### ||| الألف واللام مع الصاد المهملة
+",000,False,000,False,False,False,3,288
+"### |||| بنو الصائد
+",000,False,000,False,False,False,4,42
+"### |||| بنو الصدف
+",000,False,000,False,False,False,4,124
+"### |||| بنو الصيدا
+",000,False,000,False,False,False,4,41
+"### |||| بنو الصليحي
+",000,False,000,False,False,False,4,55
+"### |||| بنو الصيق
+",000,False,000,False,False,False,4,46
+"### ||| الألف واللام مع الضاد المعجمة
+",000,False,000,False,False,False,3,193
+"### |||| بنو الضباب
+",000,False,000,False,False,False,4,82
+"### |||| بنو الضباب
+",000,False,000,False,False,False,4,59
+"### |||| بنو الضبيب
+",000,False,000,False,False,False,4,65
+"### ||| الألف واللام مع الطاء المهملة
+",000,False,000,False,False,False,3,137
+"### |||| بنو الطفاوة
+",000,False,000,False,False,False,4,44
+"### |||| بنو الطماح
+",000,False,000,False,False,False,4,44
+"### |||| بنو الطميح
+",000,False,000,False,False,False,4,35
+"### |||| بنو الطول
+",000,False,000,False,False,False,4,26
+"### ||| الألف واللام مع العين المهملة
+",000,False,000,False,False,False,3,1073
+"### |||| بنو العبيد
+",000,False,000,False,False,False,4,97
+"### |||| بنو العبيد
+",000,False,000,False,False,False,4,34
+"### |||| بنو العتم
+",000,False,000,False,False,False,4,54
+"### |||| بنو العتيك
+",000,False,000,False,False,False,4,98
+"### |||| بنو العجل
+",000,False,000,False,False,False,4,45
+"### |||| بنو العجلان
+",000,False,000,False,False,False,4,42
+"### |||| بنو العجلان
+",000,False,000,False,False,False,4,51
+"### |||| بنو العجلان
+",000,False,000,False,False,False,4,74
+"### |||| بنو العجيف
+",000,False,000,False,False,False,4,38
+"### |||| بنو العدوية
+",000,False,000,False,False,False,4,78
+"### |||| بنو العشراء
+",000,False,000,False,False,False,4,75
+"### |||| بنو العفار
+",000,False,000,False,False,False,4,43
+"### |||| بنو العنبر
+",000,False,000,False,False,False,4,99
+"### |||| بنو العنبر
+",000,False,000,False,False,False,4,206
+"### |||| بنو العنقاء
+",000,False,000,False,False,False,4,63
+"### |||| بنو العيدي
+",000,False,000,False,False,False,4,63
+"### ||| الألف واللام مع الغين المعجمة
+",000,False,000,False,False,False,3,197
+"### |||| بنو الغافق
+",000,False,000,False,False,False,4,104
+"### |||| بنو الغوث
+",000,False,000,False,False,False,4,34
+"### |||| بنو الغوث
+",000,False,000,False,False,False,4,32
+"### |||| بنو الغوث
+",000,False,000,False,False,False,4,37
+"### ||| الألف واللام مع القاف
+",000,False,000,False,False,False,3,121
+"### |||| بنو القوية
+",000,False,000,False,False,False,4,39
+"### |||| بنو القين
+",000,False,000,False,False,False,4,47
+"### |||| بنو القين
+",000,False,000,False,False,False,4,53
+"### ||| الألف واللام مع الكاف
+",000,False,000,False,False,False,3,42
+"### ||| الألف واللام مع اللام
+",000,False,000,False,False,False,3,63
+"### |||| بنو الليث
+",000,False,000,False,False,False,4,60
+"### ||| الألف واللام مع الميم
+",000,False,000,False,False,False,3,709
+"### |||| بنو المصطلق
+",000,False,000,False,False,False,4,51
+"### |||| بنو المجمع
+",000,False,000,False,False,False,4,61
+"### |||| بنو ms052 المدينة
+",000,False,000,False,False,False,4,67
+"### |||| بنو المرمم
+",000,False,000,False,False,False,4,31
+"### |||| بنو المطلب
+",000,False,000,False,False,False,4,213
+"### |||| بنو ألمع
+",000,False,000,False,False,False,4,35
+"### |||| بنو ألمع
+",000,False,000,False,False,False,4,34
+"### |||| بنو المعافر
+",000,False,000,False,False,False,4,52
+"### |||| بنو المعقل
+",000,False,000,False,False,False,4,44
+"### |||| بنو المعلى
+",000,False,000,False,False,False,4,59
+"### |||| بنو المقاصف
+",000,False,000,False,False,False,4,63
+"### |||| بنو المنتفق
+",000,False,000,False,False,False,4,72
+"### ||| الألف واللام مع النون
+",000,False,000,False,False,False,3,532
+"### |||| بنو النار
+",000,False,000,False,False,False,4,49
+"### |||| بنو النبيت
+",000,False,000,False,False,False,4,48
+"### |||| بنو النجار
+",000,False,000,False,False,False,4,96
+"### |||| بنو النخع
+",000,False,000,False,False,False,4,92
+"### |||| بنو النضر
+",000,False,000,False,False,False,4,37
+"### |||| بنو النعامة
+",000,False,000,False,False,False,4,25
+"### |||| بنو النمر
+",000,False,000,False,False,False,4,122
+"### |||| بنو النمر
+",000,False,000,False,False,False,4,47
+"### |||| بنو النمر
+",000,False,000,False,False,False,4,66
+"### ||| الألف واللام مع الهاء
+",000,False,000,False,False,False,3,181
+"### |||| بنو الهان
+",000,False,000,False,False,False,4,31
+"### |||| بنو الهجيم
+",000,False,000,False,False,False,4,44
+"### |||| بنو الهميسع
+",000,False,000,False,False,False,4,34
+"### |||| بنو الهنوء
+",000,False,000,False,False,False,4,29
+"### |||| بنو الهون
+",000,False,000,False,False,False,4,22
+"### |||| بنو الهون
+",000,False,000,False,False,False,4,30
+"### ||| الألف واللام مع الواو
+",000,False,000,False,False,False,3,150
+"### |||| بنو الوحيد
+",000,False,000,False,False,False,4,44
+"### |||| بنو الوليد
+",000,False,000,False,False,False,4,114
+"### ||| الألف واللام مع الياء المثناة تحت
+",000,False,000,False,False,False,3,1422
+"### |||| بنو اليحمد
+",000,False,000,False,False,False,4,57
+"### |||| بنو اليهمة
+",000,False,000,False,False,False,4,38
+"### |||| بنو أمامة
+",000,False,000,False,False,False,4,57
+"### |||| بنو أمان
+",000,False,000,False,False,False,4,47
+"### |||| بنو امرئ القيس
+",000,False,000,False,False,False,4,29
+"### |||| بنو امرئ القيس
+",000,False,000,False,False,False,4,55
+"### |||| بنو امرئ القيس
+",000,False,000,False,False,False,4,58
+"### |||| بنو امرئ القيس
+",000,False,000,False,False,False,4,27
+"### |||| بنو امرئ القيس
+",000,False,000,False,False,False,4,52
+"### |||| بنو امرئ القيس
+",000,False,000,False,False,False,4,54
+"### |||| بنو أمة
+",000,False,000,False,False,False,4,57
+"### |||| بنو أميم
+",000,False,000,False,False,False,4,100
+"### |||| بنو أمية
+",000,False,000,False,False,False,4,59
+"### |||| بنو امية
+",000,False,000,False,False,False,4,31
+"### |||| بنو أمية
+",000,False,000,False,False,False,4,629
+"### |||| بنو أمي
+",000,False,000,False,False,False,4,162
+"### ||| الألف مع النون
+",000,False,000,False,False,False,3,248
+"### |||| بنو انسان
+",000,False,000,False,False,False,4,37
+"### |||| بنو أنف الناقة
+",000,False,000,False,False,False,4,74
+"### |||| بنو أنمار
+",000,False,000,False,False,False,4,95
+"### |||| بنو انمار
+",000,False,000,False,False,False,4,64
+"### ||| الألف مع الواو
+",000,False,000,False,False,False,3,337
+"### |||| بنو أود
+",000,False,000,False,False,False,4,41
+"### |||| بنو أود
+",000,False,000,False,False,False,4,45
+"### |||| بنو أوذ
+",000,False,000,False,False,False,4,75
+"### |||| بنو أوربة
+",000,False,000,False,False,False,4,44
+"### |||| بنو أوريغ
+",000,False,000,False,False,False,4,34
+"### |||| بنو أوس
+",000,False,000,False,False,False,4,43
+"### |||| بنو أوس
+",000,False,000,False,False,False,4,58
+"### |||| بنو أوس مناة
+",000,False,000,False,False,False,4,44
+"### ||| الألف مع الهاء
+",000,False,000,False,False,False,3,75
+"### |||| بنو أهود
+",000,False,000,False,False,False,4,33
+"### |||| بنو أهيل
+",000,False,000,False,False,False,4,44
+"### ||| الألف واللام مع الجيم
+",000,False,000,False,False,False,3,34
+"### |||| بنو الأجود
+",000,False,000,False,False,False,4,38
+"### ||| الألف واللام مع الخاء المعجمة
+",000,False,000,False,False,False,3,240
+"### |||| بنو الأخيضر
+",000,False,000,False,False,False,4,143
+"### |||| بنو الأخيل ms065
+",000,False,000,False,False,False,4,106
+"### ||| الألف واللام مع الراء المهملة
+",000,False,000,False,False,False,3,50
+"### |||| بنو الأرقم
+",000,False,000,False,False,False,4,46
+"### ||| الألف واللام مع الزاي
+",000,False,000,False,False,False,3,287
+"### |||| بنو الأزد
+",000,False,000,False,False,False,4,152
+"### |||| بنو الأزرق
+",000,False,000,False,False,False,4,59
+"### |||| بنو الأسد
+",000,False,000,False,False,False,4,46
+"### |||| بنو الأسد
+",000,False,000,False,False,False,4,49
+"### ||| الألف واللام مع الغين المعجمة
+",000,False,000,False,False,False,3,171
+"### |||| بنو الأغر
+",000,False,000,False,False,False,4,39
+"### |||| بنو الأغلب
+",000,False,000,False,False,False,4,133
+"### ||| الألف واللام مع الميم
+",000,False,000,False,False,False,3,68
+"### |||| بنو الآمري
+",000,False,000,False,False,False,4,46
+"### |||| بنو الأملوك
+",000,False,000,False,False,False,4,27
+"### ||| الألف واللام مع الألف والواو
+",000,False,000,False,False,False,3,138
+"### |||| بنو الأوس
+",000,False,000,False,False,False,4,91
+"### |||| بنو الأوس
+",000,False,000,False,False,False,4,64
+"### ||| الألف واللام وألف الهاء
+",000,False,000,False,False,False,3,58
+"### |||| بنو الأآه
+",000,False,000,False,False,False,4,54
+"### ||| الألف مع الياء
+",000,False,000,False,False,False,3,412
+"### |||| بنو أياد
+",000,False,000,False,False,False,4,75
+"### |||| بنو أياد
+",000,False,000,False,False,False,4,322
+"### |||| بنو أيوب
+",000,False,000,False,False,False,4,26
+"### ||| ما يقال فيهم آل فلان
+",000,False,000,False,False,False,3,3507
+"### |||| آل مع الباء الموحدة
+",000,False,000,False,False,False,4,196
+"### ||||| آل برجس 
+",000,False,000,False,False,False,5,16
+"### ||||| آل بدل
+",000,False,000,False,False,False,5,29
+"### ||||| آل بشار 
+",000,False,000,False,False,False,5,24
+"### ||||| آل بقوة
+",000,False,000,False,False,False,5,51
+"### ||||| آل بيوث
+",000,False,000,False,False,False,5,49
+"### ||||| آل تميم 
+",000,False,000,False,False,False,5,59
+"### |||| آل مع الجيم
+",000,False,000,False,False,False,4,141
+"### ||||| آل جحش
+",000,False,000,False,False,False,5,28
+"### ||||| آل جناح
+",000,False,000,False,False,False,5,27
+"### ||||| آل حجاج
+",000,False,000,False,False,False,5,35
+"### ||||| آل حجر
+",000,False,000,False,False,False,5,44
+"### ||||| آل حضاه 
+",000,False,000,False,False,False,5,13
+"### ||||| آل حمود
+",000,False,000,False,False,False,5,25
+"### |||| آل مع الدال المهملة
+",000,False,000,False,False,False,4,61
+"### ||||| آل دعيج
+",000,False,000,False,False,False,5,67
+"### |||| آل مع الذال المعجمة
+",000,False,000,False,False,False,4,45
+"### ||||| آل ذي شعبين
+",000,False,000,False,False,False,5,48
+"### |||| آل مع الراء
+",000,False,000,False,False,False,4,879
+"### ||||| آل ربيعة
+",000,False,000,False,False,False,5,756
+"### ||||| آل رجاء
+",000,False,000,False,False,False,5,24
+"### ||||| آل رحال
+",000,False,000,False,False,False,5,28
+"### ||||| آل رفيع
+",000,False,000,False,False,False,5,27
+"### ||||| آل روق
+",000,False,000,False,False,False,5,36
+"### ||||| آل رويم
+",000,False,000,False,False,False,5,44
+"### |||| آل مع السين المهملة
+",000,False,000,False,False,False,4,150
+"### ||||| آل سرية
+",000,False,000,False,False,False,5,30
+"### ||||| آل سلطان 
+",000,False,000,False,False,False,5,26
+"### ||||| آل سميط
+",000,False,000,False,False,False,5,51
+"### ||||| آل سند
+",000,False,000,False,False,False,5,17
+"### ||||| آل سنيد
+",000,False,000,False,False,False,5,28
+"### ||||| آل سيار
+",000,False,000,False,False,False,5,29
+"### |||| آل مع الشين المعجمة
+",000,False,000,False,False,False,4,76
+"### ||||| آل شبل
+",000,False,000,False,False,False,5,30
+"### ||||| آل شما
+",000,False,000,False,False,False,5,38
+"### ||||| آل شمرود
+",000,False,000,False,False,False,5,25
+"### |||| آل مع الصاد المهملة
+",000,False,000,False,False,False,4,32
+"### ||||| آل صيفي
+",000,False,000,False,False,False,5,35
+"### |||| آل مع الظاء المعجمة
+",000,False,000,False,False,False,4,28
+"### ||||| آل ظفير 
+",000,False,000,False,False,False,5,29
+"### |||| آل مع العين المهملة
+",000,False,000,False,False,False,4,992
+"### ||||| آل عامر
+",000,False,000,False,False,False,5,67
+"### ||||| آل عامر
+",000,False,000,False,False,False,5,225
+"### ||||| آل علي
+",000,False,000,False,False,False,5,30
+"### ||||| آل علي
+",000,False,000,False,False,False,5,196
+"### ||||| آل عمرو
+",000,False,000,False,False,False,5,30
+"### ||||| آل عمران
+",000,False,000,False,False,False,5,26
+"### ||||| آل عوسجة
+",000,False,000,False,False,False,5,33
+"### ||||| آل عيسى
+",000,False,000,False,False,False,5,400
+"### ||||| آل عيسى - أضا
+",000,False,000,False,False,False,5,40
+"### |||| آل مع الغين المعجمة
+",000,False,000,False,False,False,4,40
+"### ||||| آل غزي
+",000,False,000,False,False,False,5,48
+"### |||| آل مع الفاء
+",000,False,000,False,False,False,4,199
+"### ||||| آل فرج
+",000,False,000,False,False,False,5,39
+"### ||||| آل فضل
+",000,False,000,False,False,False,5,173
+"### |||| آل مع الميم
+",000,False,000,False,False,False,4,461
+"### ||||| آل محسن
+",000,False,000,False,False,False,5,28
+"### ||||| آل محمود
+",000,False,000,False,False,False,5,28
+"### ||||| آل مرا
+",000,False,000,False,False,False,5,274
+"### ||||| آل مسافر
+",000,False,000,False,False,False,5,33
+"### ||||| آل مسعود 
+",000,False,000,False,False,False,5,18
+"### ||||| آل مسلم
+",000,False,000,False,False,False,5,24
+"### ||||| آل منيحة
+",000,False,000,False,False,False,5,13
+"### ||||| آل منيخر
+",000,False,000,False,False,False,5,46
+"### ||||| آل منيع
+",000,False,000,False,False,False,5,44
+"### |||| آل مع النون
+",000,False,000,False,False,False,4,113
+"### ||||| آل نادر
+",000,False,000,False,False,False,5,44
+"### ||||| آل نادر
+",000,False,000,False,False,False,5,16
+"### ||||| آل نطاح
+",000,False,000,False,False,False,5,36
+"### ||||| آل نيار
+",000,False,000,False,False,False,5,18
+"### ||| ما يقال فيه أولاد فلان
+",000,False,000,False,False,False,3,533
+"### |||| أولاد مع الألف واللام
+",000,False,000,False,False,False,4,104
+"### ||||| أولاد الطابية
+",000,False,000,False,False,False,5,33
+"### ||||| أولاد الكافرة
+",000,False,000,False,False,False,5,35
+"### ||||| أولاد الهريم
+",000,False,000,False,False,False,5,29
+"### ||||| أولاد الهوبرية
+",000,False,000,False,False,False,5,29
+"### |||| أولاد مع الباء الموحدة
+",000,False,000,False,False,False,4,34
+"### ||||| أولاد بيرين
+",000,False,000,False,False,False,5,33
+"### |||| أولاد مع الجيم
+",000,False,000,False,False,False,4,62
+"### ||||| أولاد جوال
+",000,False,000,False,False,False,5,37
+"### ||||| أولاد جياش
+",000,False,000,False,False,False,5,28
+"### |||| أولاد مع الراء
+",000,False,000,False,False,False,4,27
+"### ||||| أولاد راشد
+",000,False,000,False,False,False,5,30
+"### |||| أولاد مع الزاي
+",000,False,000,False,False,False,4,63
+"### ||||| أولاد زعازع
+",000,False,000,False,False,False,5,63
+"### |||| أولاد مع السين المهملة
+",000,False,000,False,False,False,4,37
+"### ||||| أولاد سلام - بالتشديد
+",000,False,000,False,False,False,5,44
+"### |||| أولاد مع الصاد المهملة
+",000,False,000,False,False,False,4,42
+"### ||||| أولاد صورة
+",000,False,000,False,False,False,5,50
+"### |||| أولاد مع الغين المعجمة
+",000,False,000,False,False,False,4,56
+"### ||||| أولاد غالي
+",000,False,000,False,False,False,5,28
+"### ||||| أولاد غانم
+",000,False,000,False,False,False,5,31
+"### |||| أولاد مع الميم
+",000,False,000,False,False,False,4,74
+"### ||||| أولاد محمد
+",000,False,000,False,False,False,5,30
+"### ||||| أولاد منازل
+",000,False,000,False,False,False,5,58
+"### |||| أولاد مع النون
+",000,False,000,False,False,False,4,31
+"### ||||| أولاد نجية
+",000,False,000,False,False,False,5,29
+"### ||| 
+",000,False,000,False,False,False,3,882
+"### |||| البتيرات
+",000,False,000,False,False,False,4,59
+"### |||| البراجسة
+",000,False,000,False,False,False,4,23
+"### |||| البراحم
+",000,False,000,False,False,False,4,12
+"### |||| البربر 
+",000,False,000,False,False,False,4,303
+"### |||| البرجان
+",000,False,000,False,False,False,4,82
+"### |||| البركات
+",000,False,000,False,False,False,4,29
+"### |||| البشرة
+",000,False,000,False,False,False,4,50
+"### |||| البكريون
+",000,False,000,False,False,False,4,285
+"### |||| البكريون
+",000,False,000,False,False,False,4,36
+"### |||| البلابيش
+",000,False,000,False,False,False,4,21
+"### |||| البلارية
+",000,False,000,False,False,False,4,38
+"### ||| الألف واللام مع التاء المثناة فوق
+",000,False,000,False,False,False,3,37
+"### |||| التونيات
+",000,False,000,False,False,False,4,32
+"### ||| الألف واللام مع التاء المثلثة
+",000,False,000,False,False,False,3,121
+"### |||| الثعالب
+",000,False,000,False,False,False,4,23
+"### |||| الثعالب
+",000,False,000,False,False,False,4,33
+"### |||| الثعالبة
+",000,False,000,False,False,False,4,68
+"### ||| الألف واللام مع الجيم
+",000,False,000,False,False,False,3,658
+"### |||| الجعافرة
+",000,False,000,False,False,False,4,243
+"### |||| الجعافرة أيضا
+",000,False,000,False,False,False,4,160
+"### |||| الجعافرة
+",000,False,000,False,False,False,4,35
+"### |||| الجماعات
+",000,False,000,False,False,False,4,15
+"### |||| الجمار
+",000,False,000,False,False,False,4,142
+"### |||| الجواشنة
+",000,False,000,False,False,False,4,26
+"### |||| الجواشنة
+",000,False,000,False,False,False,4,22
+"### |||| الجواهرة
+",000,False,000,False,False,False,4,26
+"### |||| الجواري
+",000,False,000,False,False,False,4,38
+"### ||| الألف واللام مع الحاء المهملة
+",000,False,000,False,False,False,3,1059
+"### |||| الحبطات
+",000,False,000,False,False,False,4,54
+"### |||| الحبور
+",000,False,000,False,False,False,4,17
+"### |||| الحبور
+",000,False,000,False,False,False,4,45
+"### |||| الحدادرة
+",000,False,000,False,False,False,4,13
+"### |||| الحدارية
+",000,False,000,False,False,False,4,87
+"### |||| الحرقة
+",000,False,000,False,False,False,4,23
+"### |||| الحرمان
+",000,False,000,False,False,False,4,17
+"### |||| الحرافيص
+",000,False,000,False,False,False,4,37
+"### |||| الحراميز
+",000,False,000,False,False,False,4,52
+"### |||| الحريت
+",000,False,000,False,False,False,4,36
+"### |||| الحريت
+",000,False,000,False,False,False,4,22
+"### |||| الحسنيون
+",000,False,000,False,False,False,4,145
+"### |||| الحسنيون
+",000,False,000,False,False,False,4,31
+"### |||| الحسنيون
+",000,False,000,False,False,False,4,109
+"### |||| الحصينيون
+",000,False,000,False,False,False,4,142
+"### |||| الحمارنة
+",000,False,000,False,False,False,4,20
+"### |||| الحماديون
+",000,False,000,False,False,False,4,25
+"### |||| الحماسنة - بالسين المهملة
+",000,False,000,False,False,False,4,26
+"### |||| الحملات
+",000,False,000,False,False,False,4,26
+"### |||| الحميديون
+",000,False,000,False,False,False,4,29
+"### |||| الحنابلة
+",000,False,000,False,False,False,4,12
+"### |||| الحنفيون
+",000,False,000,False,False,False,4,46
+"### |||| الحنبلية
+",000,False,000,False,False,False,4,38
+"### |||| الحوتة
+",000,False,000,False,False,False,4,50
+"### |||| الحبانيون
+",000,False,000,False,False,False,4,50
+"### |||| الحبانيون
+",000,False,000,False,False,False,4,40
+"### ||| الالف واللام مع الخاء المعجمة
+",000,False,000,False,False,False,3,188
+"### |||| الخرسان
+",000,False,000,False,False,False,4,27
+"### |||| الخزاعلة
+",000,False,000,False,False,False,4,35
+"### |||| الخضر
+",000,False,000,False,False,False,4,31
+"### |||| الخلط
+",000,False,000,False,False,False,4,62
+"### |||| الخلعا
+",000,False,000,False,False,False,4,44
+"### |||| الخنافيس
+",000,False,000,False,False,False,4,26
+"### ||| الألف واللام مع الدال المهملة
+",000,False,000,False,False,False,3,120
+"### |||| الدرالات
+",000,False,000,False,False,False,4,21
+"### |||| الدروع
+",000,False,000,False,False,False,4,13
+"### |||| الدعجيون
+",000,False,000,False,False,False,4,26
+"### |||| الدعم
+",000,False,000,False,False,False,4,19
+"### |||| الدواسر
+",000,False,000,False,False,False,4,49
+"### ||| الألف واللام مع الراء المهملة
+",000,False,000,False,False,False,3,354
+"### |||| الرباب
+",000,False,000,False,False,False,4,146
+"### |||| الربائع 
+",000,False,000,False,False,False,4,53
+"### |||| الربيعيون
+",000,False,000,False,False,False,4,26
+"### |||| الرداليون
+",000,False,000,False,False,False,4,26
+"### |||| الرفثة
+",000,False,000,False,False,False,4,57
+"### |||| الرمالي
+",000,False,000,False,False,False,4,15
+"### |||| الرواشد
+",000,False,000,False,False,False,4,22
+"### |||| الرواشد
+",000,False,000,False,False,False,4,15
+"### |||| الرويم
+",000,False,000,False,False,False,4,25
+"### ||| الألف واللام مع الزاي
+",000,False,000,False,False,False,3,436
+"### |||| الزبيريون
+",000,False,000,False,False,False,4,322
+"### |||| الزرازير
+",000,False,000,False,False,False,4,19
+"### |||| الزراق
+",000,False,000,False,False,False,4,22
+"### |||| الزرقان
+",000,False,000,False,False,False,4,24
+"### |||| الزرموت
+",000,False,000,False,False,False,4,28
+"### |||| الزيانية
+",000,False,000,False,False,False,4,42
+"### ||| الألف واللام مع السين المهملة
+",000,False,000,False,False,False,3,454
+"### |||| السبوت
+",000,False,000,False,False,False,4,19
+"### |||| السراجين
+",000,False,000,False,False,False,4,13
+"### |||| السرو
+",000,False,000,False,False,False,4,52
+"### |||| السعالي
+",000,False,000,False,False,False,4,30
+"### |||| السلمان
+",000,False,000,False,False,False,4,35
+"### |||| السليمانيون
+",000,False,000,False,False,False,4,85
+"### |||| السليمانيون
+",000,False,000,False,False,False,4,64
+"### |||| السماعنة
+",000,False,000,False,False,False,4,35
+"### |||| السنديون
+",000,False,000,False,False,False,4,32
+"### |||| السوالم
+",000,False,000,False,False,False,4,17
+"### |||| السلاطنة
+",000,False,000,False,False,False,4,129
+"### ||| الألف واللام مع السين المعجمة
+",000,False,000,False,False,False,3,296
+"### |||| السبلة
+",000,False,000,False,False,False,4,37
+"### |||| الشراعية
+",000,False,000,False,False,False,4,17
+"### |||| الشعبيون
+",000,False,000,False,False,False,4,69
+"### |||| الشعوب
+",000,False,000,False,False,False,4,12
+"### |||| الشعيرا
+",000,False,000,False,False,False,4,53
+"### |||| الشكرة
+",000,False,000,False,False,False,4,54
+"### |||| الشنقة
+",000,False,000,False,False,False,4,13
+"### |||| الشواكر
+",000,False,000,False,False,False,4,83
+"### ||| الألف واللام مع لاصاد المهملة
+",000,False,000,False,False,False,3,137
+"### |||| الصبر
+",000,False,000,False,False,False,4,62
+"### |||| الصبيحيون
+",000,False,000,False,False,False,4,25
+"### |||| الصرابرات
+",000,False,000,False,False,False,4,19
+"### |||| الصمان
+",000,False,000,False,False,False,4,19
+"### |||| الصونيون
+",000,False,000,False,False,False,4,39
+"### ||| الألف واللام مع الضاد المعجمة
+",000,False,000,False,False,False,3,73
+"### |||| الضباعنة
+",000,False,000,False,False,False,4,26
+"### |||| الضبيبات
+",000,False,000,False,False,False,4,24
+"### |||| الضجاعمة
+",000,False,000,False,False,False,4,26
+"### ||| الألف واللام مع الطاء المهملة
+",000,False,000,False,False,False,3,117
+"### |||| بطن من بني عبد المطلب بن هاشم من قريش من العدنانية
+",000,False,000,False,False,False,4,91
+"### |||| الطليحيون
+",000,False,000,False,False,False,4,28
+"### ||| الألف واللام مع الظاء
+",000,False,000,False,False,False,3,2214
+"### |||| الظواهر 
+",000,False,000,False,False,False,4,45
+"### |||| العاجلة
+",000,False,000,False,False,False,4,24
+"### |||| العامريون
+",000,False,000,False,False,False,4,27
+"### |||| العائد 
+",000,False,000,False,False,False,4,47
+"### |||| العبادلة
+",000,False,000,False,False,False,4,31
+"### |||| العباسيون
+",000,False,000,False,False,False,4,345
+"### |||| العبلات
+",000,False,000,False,False,False,4,35
+"### |||| العبيديون
+",000,False,000,False,False,False,4,100
+"### |||| العتق 
+",000,False,000,False,False,False,4,84
+"### |||| العثمانيون
+",000,False,000,False,False,False,4,289
+"### |||| العطويون
+",000,False,000,False,False,False,4,18
+"### |||| العطويون
+",000,False,000,False,False,False,4,20
+"### |||| العفير
+",000,False,000,False,False,False,4,21
+"### |||| العفاة
+",000,False,000,False,False,False,4,66
+"### |||| العقد -
+",000,False,000,False,False,False,4,24
+"### |||| العقفان
+",000,False,000,False,False,False,4,17
+"### |||| العقيبات
+",000,False,000,False,False,False,4,12
+"### |||| العقيليون
+",000,False,000,False,False,False,4,42
+"### |||| العقيليون
+",000,False,000,False,False,False,4,22
+"### |||| العلجان
+",000,False,000,False,False,False,4,19
+"### |||| العلويون
+",000,False,000,False,False,False,4,246
+"### |||| العيميون
+",000,False,000,False,False,False,4,26
+"### |||| العمالقة 
+",000,False,000,False,False,False,4,53
+"### |||| العمريون
+",000,False,000,False,False,False,4,463
+"### |||| العمريون
+",000,False,000,False,False,False,4,66
+"### |||| العمريون
+",000,False,000,False,False,False,4,25
+"### |||| العنابس
+",000,False,000,False,False,False,4,51
+"### |||| العناترة
+",000,False,000,False,False,False,4,28
+"### |||| العناترة
+",000,False,000,False,False,False,4,29
+"### |||| العواسى
+",000,False,000,False,False,False,4,28
+"### |||| العواكلة
+",000,False,000,False,False,False,4,26
+"### |||| العلاونة
+",000,False,000,False,False,False,4,14
+"### |||| العلاوي
+",000,False,000,False,False,False,4,15
+"### ||| الألف واللام مع الغين المعجمة
+",000,False,000,False,False,False,3,92
+"### |||| الغتاورة
+",000,False,000,False,False,False,4,20
+"### |||| الغشاشمة
+",000,False,000,False,False,False,4,23
+"### |||| الغوارنة
+",000,False,000,False,False,False,4,50
+"### |||| الغيوث
+",000,False,000,False,False,False,4,27
+"### ||| الالف واللام مع الفاء
+",000,False,000,False,False,False,3,98
+"### |||| الفرع
+",000,False,000,False,False,False,4,26
+"### |||| الفضليون
+",000,False,000,False,False,False,4,26
+"### |||| الفوقة
+",000,False,000,False,False,False,4,21
+"### |||| الفواططة
+",000,False,000,False,False,False,4,39
+"### ||| الالف واللام مع القاف
+",000,False,000,False,False,False,3,354
+"### |||| القارة 
+",000,False,000,False,False,False,4,78
+"### |||| القدرة
+",000,False,000,False,False,False,4,16
+"### |||| القديمان
+",000,False,000,False,False,False,4,29
+"### |||| القرطا
+",000,False,000,False,False,False,4,33
+"### |||| القساملة
+",000,False,000,False,False,False,4,53
+"### |||| القطاربة
+",000,False,000,False,False,False,4,39
+"### |||| القمعة
+",000,False,000,False,False,False,4,30
+"### |||| القواقل
+",000,False,000,False,False,False,4,41
+"### |||| القوسة 
+",000,False,000,False,False,False,4,72
+"### |||| القيوس
+",000,False,000,False,False,False,4,12
+"### ||| الالف واللام مع الكاف
+",000,False,000,False,False,False,3,109
+"### |||| الكاهلية
+",000,False,000,False,False,False,4,30
+"### |||| الكعوب
+",000,False,000,False,False,False,4,50
+"### |||| الكعوك
+",000,False,000,False,False,False,4,46
+"### ||| الالف واللام مع اللام
+",000,False,000,False,False,False,3,103
+"### |||| اللبيديون
+",000,False,000,False,False,False,4,33
+"### |||| اللهازم
+",000,False,000,False,False,False,4,41
+"### |||| الهازم
+",000,False,000,False,False,False,4,11
+"### |||| اللواحق
+",000,False,000,False,False,False,4,39
+"### ||| الألف واللام مع الميم
+",000,False,000,False,False,False,3,568
+"### |||| المجابرة
+",000,False,000,False,False,False,4,33
+"### |||| المحارفة
+",000,False,000,False,False,False,4,35
+"### |||| المحاميد
+",000,False,000,False,False,False,4,47
+"### |||| المرابدة
+",000,False,000,False,False,False,4,24
+"### |||| المراشد
+",000,False,000,False,False,False,4,51
+"### |||| المراونة
+",000,False,000,False,False,False,4,101
+"### |||| المراونة
+",000,False,000,False,False,False,4,26
+"### |||| المزمم
+",000,False,000,False,False,False,4,49
+"### |||| المساورة
+",000,False,000,False,False,False,4,32
+"### |||| المساهرة
+",000,False,000,False,False,False,4,25
+"### |||| المساهرة
+",000,False,000,False,False,False,4,27
+"### |||| المشاطية
+",000,False,000,False,False,False,4,25
+"### |||| المصافحة
+",000,False,000,False,False,False,4,31
+"### |||| المطارنة
+",000,False,000,False,False,False,4,30
+"### |||| المطابير
+",000,False,000,False,False,False,4,21
+"### |||| المعديون
+",000,False,000,False,False,False,4,30
+"### |||| المقادمة
+",000,False,000,False,False,False,4,30
+"### |||| المواجد
+",000,False,000,False,False,False,4,28
+"### |||| المواسى
+",000,False,000,False,False,False,4,15
+"### |||| الموالك
+",000,False,000,False,False,False,4,36
+"### ||| الالف واللام مع النون
+",000,False,000,False,False,False,3,177
+"### |||| النبلة
+",000,False,000,False,False,False,4,47
+"### |||| النخاسة
+",000,False,000,False,False,False,4,30
+"### |||| الندوة
+",000,False,000,False,False,False,4,20
+"### |||| النعايم
+",000,False,000,False,False,False,4,28
+"### |||| النعيميون
+",000,False,000,False,False,False,4,25
+"### |||| النمول
+",000,False,000,False,False,False,4,26
+"### |||| النوافلة
+",000,False,000,False,False,False,4,21
+"### ||| الألف واللام مع الهاء
+",000,False,000,False,False,False,3,90
+"### |||| الهواشم
+",000,False,000,False,False,False,4,97
+"### ||| الألف واللام مع الياء
+",000,False,000,False,False,False,3,62
+"### |||| اليسوت
+",000,False,000,False,False,False,4,71
+"### ||| الألف واللام وألف مع الباء الموحدة
+",000,False,000,False,False,False,3,75
+"### |||| الأبناء
+",000,False,000,False,False,False,4,43
+"### |||| الأبناء
+",000,False,000,False,False,False,4,26
+"### |||| الأبناء
+",000,False,000,False,False,False,4,17
+"### ||| الألف واللام الف مع التاء المثناة
+",000,False,000,False,False,False,3,49
+"### |||| الأتباب
+",000,False,000,False,False,False,4,43
+"### ||| الألف واللام ألف مع الجيم
+",000,False,000,False,False,False,3,491
+"### |||| الأجارب
+",000,False,000,False,False,False,4,29
+"### |||| الأجذاع
+",000,False,000,False,False,False,4,31
+"### |||| الأجود
+",000,False,000,False,False,False,4,27
+"### |||| الأجيئيون
+",000,False,000,False,False,False,4,18
+"### |||| الأجعيون ms115
+",000,False,000,False,False,False,4,61
+"### |||| الأحابيش 
+",000,False,000,False,False,False,4,69
+"### |||| الأحامدة
+",000,False,000,False,False,False,4,38
+"### |||| الأحامدة
+",000,False,000,False,False,False,4,30
+"### |||| الأحطام
+",000,False,000,False,False,False,4,25
+"### |||| الأحمال
+",000,False,000,False,False,False,4,25
+"### |||| الأحلاف 
+",000,False,000,False,False,False,4,33
+"### |||| الأحلاف
+",000,False,000,False,False,False,4,40
+"### |||| الأحلاف
+",000,False,000,False,False,False,4,64
+"### |||| الأحلاف
+",000,False,000,False,False,False,4,58
+"### |||| الأحلاف
+",000,False,000,False,False,False,4,23
+"### ||| الألف واللام وألف مع الخاء المعجمة
+",000,False,000,False,False,False,3,60
+"### |||| الأخارشة
+",000,False,000,False,False,False,4,20
+"### |||| الأخيرتان
+",000,False,000,False,False,False,4,11
+"### |||| الأخيوة
+",000,False,000,False,False,False,4,28
+"### ||| الألف واللام وألف مع الدال المهملة
+",000,False,000,False,False,False,3,130
+"### |||| الأدارسة
+",000,False,000,False,False,False,4,99
+"### |||| الأدعياء
+",000,False,000,False,False,False,4,46
+"### ||| الألف واللام وألف مع الراء المهملة
+",000,False,000,False,False,False,3,50
+"### |||| الأراقم
+",000,False,000,False,False,False,4,46
+"### ||| الألف واللام مع السين المهملة
+",000,False,000,False,False,False,3,34
+"### |||| الأساورة
+",000,False,000,False,False,False,4,30
+"### ||| الألف واللام مع الشين المعجمة
+",000,False,000,False,False,False,3,116
+"### |||| الأشاقر
+",000,False,000,False,False,False,4,46
+"### |||| الشروع
+",000,False,000,False,False,False,4,25
+"### |||| الأشعريون
+",000,False,000,False,False,False,4,52
+"### ||| الألف واللام مع العين المهملة
+",000,False,000,False,False,False,3,36
+"### |||| الأعياص 
+",000,False,000,False,False,False,4,33
+"### ||| الألف واللام وألف مع الفاء
+",000,False,000,False,False,False,3,35
+"### |||| الأفروع
+",000,False,000,False,False,False,4,39
+"### ||| الألف واللام مع الواو
+",000,False,000,False,False,False,3,122
+"### |||| الأوزاع
+",000,False,000,False,False,False,4,34
+"### |||| الأوزاع
+",000,False,000,False,False,False,4,84
+"### |||| الأوزاع أيضا
+",000,False,000,False,False,False,4,14
+"### ||| حرف الباء الموحدة مع الألف 
+",000,False,000,False,False,False,3,269
+"### |||| بنو باهلة
+",000,False,000,False,False,False,4,149
+"### |||| بنو بارق
+",000,False,000,False,False,False,4,60
+"### |||| بنو باسل
+",000,False,000,False,False,False,4,69
+"### ||| الباء مع الجيم
+",000,False,000,False,False,False,3,382
+"### |||| بنو بجاد
+",000,False,000,False,False,False,4,44
+"### |||| بنو بجالة
+",000,False,000,False,False,False,4,38
+"### |||| بنو بجلة
+",000,False,000,False,False,False,4,67
+"### |||| بنو بجلة 
+",000,False,000,False,False,False,4,239
+"### ||| الباء| الباء مع الحاء
+",000,False,000,False,False,False,3,180
+"### |||| بنو بحتر
+",000,False,000,False,False,False,4,110
+"### |||| بنو بحر
+",000,False,000,False,False,False,4,38
+"### |||| بنو بحر
+",000,False,000,False,False,False,4,36
+"### ||| الباء مع الدال
+",000,False,000,False,False,False,3,263
+"### |||| بنو بدا
+",000,False,000,False,False,False,4,41
+"### |||| بنو بدا
+",000,False,000,False,False,False,4,29
+"### |||| بنو بدر
+",000,False,000,False,False,False,4,43
+"### |||| بنو بدر
+",000,False,000,False,False,False,4,137
+"### |||| بنو بديل
+",000,False,000,False,False,False,4,32
+"### ||| الباء مع الراء
+",000,False,000,False,False,False,3,140
+"### |||| بنو بردعة
+",000,False,000,False,False,False,4,28
+"### |||| بنو برسان
+",000,False,000,False,False,False,4,72
+"### |||| بنو بدلين
+",000,False,000,False,False,False,4,44
+"### |||| بنو بريد
+",000,False,000,False,False,False,4,18
+"### ||| الباء مع السين
+",000,False,000,False,False,False,3,85
+"### |||| بنو بسة
+",000,False,000,False,False,False,4,95
+"### ||| الباء مع العين
+",000,False,000,False,False,False,3,152
+"### |||| بنو بعجة
+",000,False,000,False,False,False,4,47
+"### |||| بنو بعجة
+",000,False,000,False,False,False,4,39
+"### |||| بنو بعجة
+",000,False,000,False,False,False,4,26
+"### |||| بنو بعدان
+",000,False,000,False,False,False,4,53
+"### ||| الباء مع الغين
+",000,False,000,False,False,False,3,44
+"### |||| بنو بغيض
+",000,False,000,False,False,False,4,42
+"### ||| الباء مع الكاف
+",000,False,000,False,False,False,3,434
+"### |||| بنو بكال
+",000,False,000,False,False,False,4,35
+"### |||| بنو بكر
+",000,False,000,False,False,False,4,40
+"### |||| بنو بكر
+",000,False,000,False,False,False,4,47
+"### |||| بنو بكر
+",000,False,000,False,False,False,4,79
+"### |||| بنو بكر
+",000,False,000,False,False,False,4,32
+"### |||| بنو بكر
+",000,False,000,False,False,False,4,31
+"### |||| بنو بكر
+",000,False,000,False,False,False,4,35
+"### |||| بنو بكر
+",000,False,000,False,False,False,4,40
+"### |||| بنو بكر
+",000,False,000,False,False,False,4,28
+"### |||| بنو بكر
+",000,False,000,False,False,False,4,58
+"### |||| بنو بكيل
+",000,False,000,False,False,False,4,61
+"### ||| الباء مع اللام
+",000,False,000,False,False,False,3,169
+"### |||| بنو بلى
+",000,False,000,False,False,False,4,139
+"### |||| بنو بلوس
+",000,False,000,False,False,False,4,36
+"### ||| الباء مع النون
+",000,False,000,False,False,False,3,78
+"### |||| بنو بنانة
+",000,False,000,False,False,False,4,50
+"### |||| بنو بندقة
+",000,False,000,False,False,False,4,41
+"### ||| الباء مع الهاء
+",000,False,000,False,False,False,3,320
+"### |||| بنو بهتة
+",000,False,000,False,False,False,4,35
+"### |||| بنو بهدلة
+",000,False,000,False,False,False,4,63
+"### |||| بنو بهرا
+",000,False,000,False,False,False,4,148
+"### |||| بنو بهر
+",000,False,000,False,False,False,4,53
+"### |||| بنو بهي
+",000,False,000,False,False,False,4,31
+"### |||| بنو بهيل
+",000,False,000,False,False,False,4,13
+"### ||| الباء ms127 مع الواو
+",000,False,000,False,False,False,3,105
+"### |||| بنو بولان
+",000,False,000,False,False,False,4,45
+"### |||| بنو بوى
+",000,False,000,False,False,False,4,61
+"### ||| الباء مع اللام ألف
+",000,False,000,False,False,False,3,71
+"### |||| بنو بلاد
+",000,False,000,False,False,False,4,73
+"### ||| الباء مع الياء
+",000,False,000,False,False,False,3,294
+"### |||| بنو بياضة
+",000,False,000,False,False,False,4,75
+"### |||| بنو بياضة
+",000,False,000,False,False,False,4,45
+"### |||| بنو بيان
+",000,False,000,False,False,False,4,201
+"### ||| التاء مع الزاي المعجمة
+",000,False,000,False,False,False,3,83
+"### |||| بنو تزيد
+",000,False,000,False,False,False,4,43
+"### |||| بنو تزيد
+",000,False,000,False,False,False,4,50
+"### ||| التاء مع الغين
+",000,False,000,False,False,False,3,202
+"### |||| بنو تغلب
+",000,False,000,False,False,False,4,177
+"### |||| بنو تغلب
+",000,False,000,False,False,False,4,49
+"### ||| التاء مع الكاف
+",000,False,000,False,False,False,3,48
+"### |||| بنو تكالم
+",000,False,000,False,False,False,4,54
+"### ||| التاء مع الميم
+",000,False,000,False,False,False,3,194
+"### |||| بنو تمام
+",000,False,000,False,False,False,4,45
+"### |||| بنو تملك
+",000,False,000,False,False,False,4,50
+"### |||| بنو تميم
+",000,False,000,False,False,False,4,93
+"### |||| بنو تميم
+",000,False,000,False,False,False,4,27
+"### ||| التاء مع النون
+",000,False,000,False,False,False,3,139
+"### ||| التاء مع الياء
+",000,False,000,False,False,False,3,447
+"### |||| بنو تيم
+",000,False,000,False,False,False,4,13
+"### |||| بنو تيم
+",000,False,000,False,False,False,4,37
+"### |||| بنو تيم
+",000,False,000,False,False,False,4,21
+"### |||| بنو تيم
+",000,False,000,False,False,False,4,105
+"### |||| بنو تيم الأدرم
+",000,False,000,False,False,False,4,33
+"### |||| بنو تيم الله
+",000,False,000,False,False,False,4,77
+"### |||| بنو تيم الله - ايضا
+",000,False,000,False,False,False,4,117
+"### |||| بنو تيم الله
+",000,False,000,False,False,False,4,13
+"### |||| بنو تيم اللات - ومعناع عبد اللات
+",000,False,000,False,False,False,4,42
+"### |||| بنو تيم اللات
+",000,False,000,False,False,False,4,34
+"### ||| الثاء مع الراء المهملة
+",000,False,000,False,False,False,3,24
+"### |||| بنو ثراد
+",000,False,000,False,False,False,4,24
+"### ||| الثاء مع العين
+",000,False,000,False,False,False,3,1191
+"### |||| بنو ثعل
+",000,False,000,False,False,False,4,92
+"### |||| بنو ثعلبة
+",000,False,000,False,False,False,4,102
+"### |||| بنو ثعلبة
+",000,False,000,False,False,False,4,39
+"### |||| بنوثعلبة
+",000,False,000,False,False,False,4,27
+"### |||| بنوثعلبة
+",000,False,000,False,False,False,4,97
+"### |||| بنو ثعلبة
+",000,False,000,False,False,False,4,57
+"### |||| بنو ثعلبة
+",000,False,000,False,False,False,4,49
+"### |||| بنو ثعلبة
+",000,False,000,False,False,False,4,50
+"### |||| بنو ثعلبة
+",000,False,000,False,False,False,4,119
+"### |||| بنو ثعلبة
+",000,False,000,False,False,False,4,54
+"### |||| بنو ثعلبة
+",000,False,000,False,False,False,4,33
+"### |||| بنو ثعلبة
+",000,False,000,False,False,False,4,45
+"### |||| بنو ثعلبة
+",000,False,000,False,False,False,4,34
+"### |||| بنو ثعلبة
+",000,False,000,False,False,False,4,33
+"### |||| بنو ثعلبة
+",000,False,000,False,False,False,4,26
+"### |||| بنو ثعلبة
+",000,False,000,False,False,False,4,129
+"### |||| بنو ثعلبة
+",000,False,000,False,False,False,4,96
+"### |||| بنو ثعلبة
+",000,False,000,False,False,False,4,28
+"### |||| بنو ثعلبة
+",000,False,000,False,False,False,4,37
+"### |||| بنو ثعلبة
+",000,False,000,False,False,False,4,56
+"### |||| بنو ثعلبة
+",000,False,000,False,False,False,4,36
+"### |||| بنو ثعلبة
+",000,False,000,False,False,False,4,35
+"### |||| بنو ثعلبة
+",000,False,000,False,False,False,4,22
+"### |||| بنو ثعلبة
+",000,False,000,False,False,False,4,53
+"### ||| الثاء مع القاف
+",000,False,000,False,False,False,3,185
+"### |||| بنو ثقيف
+",000,False,000,False,False,False,4,188
+"### ||| الثاء مع الميم
+",000,False,000,False,False,False,3,349
+"### |||| بنو ثمال
+",000,False,000,False,False,False,4,36
+"### |||| بنو ثمالة
+",000,False,000,False,False,False,4,71
+"### |||| بنو ثمامة
+",000,False,000,False,False,False,4,83
+"### |||| بنو ثمود 
+",000,False,000,False,False,False,4,178
+"### ||| الثاء مع الواو
+",000,False,000,False,False,False,3,166
+"### |||| بنو ثور
+",000,False,000,False,False,False,4,44
+"### |||| بنو ثور
+",000,False,000,False,False,False,4,31
+"### |||| بنو ثور
+",000,False,000,False,False,False,4,100
+"### ||| الجيم مع الألف
+",000,False,000,False,False,False,3,122
+"### |||| بنو جابر 
+",000,False,000,False,False,False,4,33
+"### |||| بنو جارم
+",000,False,000,False,False,False,4,20
+"### |||| بنو جاسم 
+",000,False,000,False,False,False,4,80
+"### ||| الجيم مع الحاء المهملة
+",000,False,000,False,False,False,3,234
+"### |||| بنو حجاش
+",000,False,000,False,False,False,4,76
+"### |||| بنو جحجبا
+",000,False,000,False,False,False,4,44
+"### |||| بنو جحدر
+",000,False,000,False,False,False,4,54
+"### |||| بنو حجوان
+",000,False,000,False,False,False,4,78
+"### ||| الجيم مع الدال المهملة
+",000,False,000,False,False,False,3,279
+"### |||| بنو جد وخاص
+",000,False,000,False,False,False,4,50
+"### |||| بنو جدان
+",000,False,000,False,False,False,4,32
+"### |||| بنو جريدي
+",000,False,000,False,False,False,4,29
+"### |||| بنو جديس 
+",000,False,000,False,False,False,4,92
+"### |||| بنو جديلة
+",000,False,000,False,False,False,4,59
+"### |||| بنو جديلة
+",000,False,000,False,False,False,4,40
+"### ||| الجيم مع الذال المعجمة
+",000,False,000,False,False,False,3,685
+"### |||| بنو جذام
+",000,False,000,False,False,False,4,355
+"### |||| بنو جذيمة
+",000,False,000,False,False,False,4,49
+"### |||| بنو جذيمة 
+",000,False,000,False,False,False,4,45
+"### |||| بنو جذيمة
+",000,False,000,False,False,False,4,82
+"### |||| بنو جذيمة
+",000,False,000,False,False,False,4,32
+"### |||| بنو جذيمة
+",000,False,000,False,False,False,4,115
+"### |||| بنو جذيمة
+",000,False,000,False,False,False,4,22
+"### |||| بنو جذيمة
+",000,False,000,False,False,False,4,21
+"### ||| الجيم مع الراء المهملة
+",000,False,000,False,False,False,3,557
+"### |||| بنو جرم
+",000,False,000,False,False,False,4,36
+"### |||| بنو جرم
+",000,False,000,False,False,False,4,139
+"### |||| بنو جرم
+",000,False,000,False,False,False,4,27
+"### |||| بنو جرم
+",000,False,000,False,False,False,4,104
+"### |||| بنو جرهم 
+",000,False,000,False,False,False,4,34
+"### |||| بنو جرهم
+",000,False,000,False,False,False,4,136
+"### |||| بنو جرول
+",000,False,000,False,False,False,4,26
+"### |||| بنو جرير
+",000,False,000,False,False,False,4,43
+"### |||| بنو جرير
+",000,False,000,False,False,False,4,34
+"### ||| الجيم مع الزاي
+",000,False,000,False,False,False,3,37
+"### |||| بنو جزيلة
+",000,False,000,False,False,False,4,35
+"### ||| الجيم مع السين
+",000,False,000,False,False,False,3,92
+"### |||| بنو جسر
+",000,False,000,False,False,False,4,65
+"### |||| بنو جسر
+",000,False,000,False,False,False,4,47
+"### ||| الجيم مع لاسين المعجمة
+",000,False,000,False,False,False,3,404
+"### |||| بنو جشم
+",000,False,000,False,False,False,4,55
+"### |||| بنو جشم
+",000,False,000,False,False,False,4,50
+"### |||| بنو جشم
+",000,False,000,False,False,False,4,106
+"### |||| بنو جشم
+",000,False,000,False,False,False,4,97
+"### |||| بنو جشم
+",000,False,000,False,False,False,4,17
+"### |||| بنو جشم
+",000,False,000,False,False,False,4,33
+"### |||| بنو جشم
+",000,False,000,False,False,False,4,39
+"### |||| بنو جشم
+",000,False,000,False,False,False,4,34
+"### |||| بنو جشم
+",000,False,000,False,False,False,4,36
+"### ||| الجيم مع العين المهملة
+",000,False,000,False,False,False,3,246
+"### |||| بنو جعدة
+",000,False,000,False,False,False,4,38
+"### |||| بنو جعدة
+",000,False,000,False,False,False,4,93
+"### |||| بنو جعفر
+",000,False,000,False,False,False,4,37
+"### |||| بنو جعفر
+",000,False,000,False,False,False,4,24
+"### |||| بنو جعفر
+",000,False,000,False,False,False,4,18
+"### |||| بنو جعفي
+",000,False,000,False,False,False,4,67
+"### ||| الجيم مع الفاء
+",000,False,000,False,False,False,3,146
+"### |||| بنو جفنة
+",000,False,000,False,False,False,4,118
+"### |||| بنو جفنة - ايضا
+",000,False,000,False,False,False,4,44
+"### ||| الجيم مع اللام
+",000,False,000,False,False,False,3,29
+"### |||| بنو جلد
+",000,False,000,False,False,False,4,27
+"### ||| الجيم مع الميم
+",000,False,000,False,False,False,3,324
+"### |||| بنو جمح
+",000,False,000,False,False,False,4,118
+"### |||| بنو جمل
+",000,False,000,False,False,False,4,54
+"### |||| بنو جميل
+",000,False,000,False,False,False,4,29
+"### |||| بنو جميلة
+",000,False,000,False,False,False,4,40
+"### |||| بنو جميلة
+",000,False,000,False,False,False,4,111
+"### |||| بنو جميم
+",000,False,000,False,False,False,4,25
+"### ||| الجيم مع النون
+",000,False,000,False,False,False,3,245
+"### |||| بنو جناب
+",000,False,000,False,False,False,4,46
+"### |||| بنو جنب
+",000,False,000,False,False,False,4,50
+"### |||| بنو جندب
+",000,False,000,False,False,False,4,45
+"### |||| بنو جندع
+",000,False,000,False,False,False,4,72
+"### |||| بنو جندل
+",000,False,000,False,False,False,4,61
+"### ||| الجيم مع الهاء
+",000,False,000,False,False,False,3,423
+"### |||| بنو جهضم
+",000,False,000,False,False,False,4,92
+"### |||| بنو ms151 جهينة
+",000,False,000,False,False,False,4,336
+"### ||| الجيم مع الواو
+",000,False,000,False,False,False,3,58
+"### |||| بنو جوشن
+",000,False,000,False,False,False,4,24
+"### |||| بنو جوشن
+",000,False,000,False,False,False,4,49
+"### ||| الجيم مع الياء
+",000,False,000,False,False,False,3,59
+"### |||| بنو جيان
+",000,False,000,False,False,False,4,59
+"### ||| الحاء المهملة مع الألف
+",000,False,000,False,False,False,3,363
+"### |||| بنو حارثة
+",000,False,000,False,False,False,4,49
+"### |||| بنو حارثة
+",000,False,000,False,False,False,4,53
+"### |||| بنو حارثة
+",000,False,000,False,False,False,4,91
+"### |||| بنو حارثة
+",000,False,000,False,False,False,4,38
+"### |||| بنو حارثة
+",000,False,000,False,False,False,4,32
+"### |||| بنو حارثة
+",000,False,000,False,False,False,4,46
+"### |||| بنو حارثة
+",000,False,000,False,False,False,4,33
+"### |||| بنو حارثة
+",000,False,000,False,False,False,4,22
+"### |||| بنو حاشد
+",000,False,000,False,False,False,4,40
+"### |||| بنو حام
+",000,False,000,False,False,False,4,14
+"### ||| الحاء المهملة مع الباء الموحدة
+",000,False,000,False,False,False,3,376
+"### |||| بنو حبان
+",000,False,000,False,False,False,4,28
+"### |||| بنو حبشة
+",000,False,000,False,False,False,4,48
+"### |||| بنو حبابة
+",000,False,000,False,False,False,4,54
+"### |||| بنو حبيب
+",000,False,000,False,False,False,4,34
+"### |||| بنو حبيب
+",000,False,000,False,False,False,4,86
+"### |||| بنو حبيب
+",000,False,000,False,False,False,4,43
+"### |||| بنو حبيب
+",000,False,000,False,False,False,4,58
+"### |||| بنو حبيب
+",000,False,000,False,False,False,4,71
+"### ||| الحاء المهملة مع الجيم
+",000,False,000,False,False,False,3,208
+"### |||| بنو حجر
+",000,False,000,False,False,False,4,52
+"### |||| بنو حجر القرد
+",000,False,000,False,False,False,4,55
+"### |||| بنو حجرة
+",000,False,000,False,False,False,4,48
+"### |||| بنو حجور
+",000,False,000,False,False,False,4,46
+"### |||| بنو حجير
+",000,False,000,False,False,False,4,40
+"### ||| الحاء المهملة مع الدال المهملة
+",000,False,000,False,False,False,3,275
+"### |||| بنو حدان
+",000,False,000,False,False,False,4,76
+"### |||| بنو حدان
+",000,False,000,False,False,False,4,14
+"### |||| بنو حدروج
+",000,False,000,False,False,False,4,60
+"### |||| بنو حدس 
+",000,False,000,False,False,False,4,48
+"### |||| بنو حدير
+",000,False,000,False,False,False,4,29
+"### |||| بنو حديلة
+",000,False,000,False,False,False,4,87
+"### ||| الحاء المهملة مع الذال المعجمة
+",000,False,000,False,False,False,3,638
+"### |||| بنو حذافة
+",000,False,000,False,False,False,4,53
+"### |||| بنو حذلم
+",000,False,000,False,False,False,4,114
+"### |||| بنو حراز
+",000,False,000,False,False,False,4,24
+"### |||| بنو حراز
+",000,False,000,False,False,False,4,33
+"### |||| بنو حرام
+",000,False,000,False,False,False,4,53
+"### |||| بنو حرام
+",000,False,000,False,False,False,4,77
+"### |||| بنو حرام
+",000,False,000,False,False,False,4,28
+"### |||| بنو حرام
+",000,False,000,False,False,False,4,28
+"### |||| بنو ms158 حرب
+",000,False,000,False,False,False,4,29
+"### |||| بنو حرب
+",000,False,000,False,False,False,4,37
+"### |||| بنو حرب
+",000,False,000,False,False,False,4,56
+"### |||| بنو حرب
+",000,False,000,False,False,False,4,75
+"### |||| بنو حرب
+",000,False,000,False,False,False,4,41
+"### |||| بنو حرش
+",000,False,000,False,False,False,4,29
+"### |||| بنو حريم
+",000,False,000,False,False,False,4,48
+"### ||| الحاء المهملة مع الزاي
+",000,False,000,False,False,False,3,145
+"### |||| بنو حزيك
+",000,False,000,False,False,False,4,62
+"### |||| بنو حزيمة
+",000,False,000,False,False,False,4,43
+"### |||| بنو حزيمة
+",000,False,000,False,False,False,4,55
+"### ||| الحاء المهملة مع السين
+",000,False,000,False,False,False,3,163
+"### |||| بنو حسان
+",000,False,000,False,False,False,4,38
+"### |||| بنو حسان
+",000,False,000,False,False,False,4,44
+"### |||| بنو حسل
+",000,False,000,False,False,False,4,64
+"### |||| بنو حسيلى
+",000,False,000,False,False,False,4,41
+"### ||| الحاء المهملة مع السين المعجمة
+",000,False,000,False,False,False,3,40
+"### |||| بنو حشم
+",000,False,000,False,False,False,4,46
+"### ||| الحاء المهملة مع الصاد المهملة
+",000,False,000,False,False,False,3,107
+"### |||| بنو حصن
+",000,False,000,False,False,False,4,39
+"### |||| بنو حصن
+",000,False,000,False,False,False,4,38
+"### |||| بنو حضين بالتصغير
+",000,False,000,False,False,False,4,39
+"### ||| الحاء مع الضاد المعجمة
+",000,False,000,False,False,False,3,289
+"### |||| بنو حضرموت
+",000,False,000,False,False,False,4,198
+"### |||| بنو حضروا
+",000,False,000,False,False,False,4,103
+"### ||| الحاء المهملة مع الطاء المهملة
+",000,False,000,False,False,False,3,80
+"### |||| بنو حطى - على وزن حبلى
+",000,False,000,False,False,False,4,90
+"### ||| الحاء المهملة مع القاف
+",000,False,000,False,False,False,3,60
+"### |||| بنو حقار
+",000,False,000,False,False,False,4,62
+"### ||| الحاء المهملة مع الكاف
+",000,False,000,False,False,False,3,55
+"### |||| بنو حكم
+",000,False,000,False,False,False,4,60
+"### ||| الحاء المهملة مع اللام
+",000,False,000,False,False,False,3,206
+"### |||| بنو حلف
+",000,False,000,False,False,False,4,37
+"### |||| بنو حلمة
+",000,False,000,False,False,False,4,43
+"### |||| بنو حلمة
+",000,False,000,False,False,False,4,45
+"### |||| بنو حلوان
+",000,False,000,False,False,False,4,48
+"### |||| بنو حليل
+",000,False,000,False,False,False,4,59
+"### |||| بنو حليجة
+",000,False,000,False,False,False,4,13
+"### ||| الحاء المهملة مع الميم
+",000,False,000,False,False,False,3,356
+"### |||| بنو حماد
+",000,False,000,False,False,False,4,27
+"### |||| بنو حماد
+",000,False,000,False,False,False,4,14
+"### |||| بنو حمدان
+",000,False,000,False,False,False,4,87
+"### |||| بنو حماس
+",000,False,000,False,False,False,4,30
+"### |||| بنو حمان
+",000,False,000,False,False,False,4,29
+"### |||| بنو حمود
+",000,False,000,False,False,False,4,111
+"### |||| بنو حمير
+",000,False,000,False,False,False,4,89
+"### ||| الحاء المهملة مع النون
+",000,False,000,False,False,False,3,382
+"### |||| بنو حنش
+",000,False,000,False,False,False,4,48
+"### |||| بنو حنش
+",000,False,000,False,False,False,4,38
+"### |||| بنو حنظلة
+",000,False,000,False,False,False,4,46
+"### |||| بنو حنظلة
+",000,False,000,False,False,False,4,45
+"### |||| بنو حنيفة
+",000,False,000,False,False,False,4,233
+"### ||| الحاء المهملة مع الواو
+",000,False,000,False,False,False,3,102
+"### |||| بنو حوالة
+",000,False,000,False,False,False,4,38
+"### |||| بنو حوت
+",000,False,000,False,False,False,4,41
+"### |||| بنو حور
+",000,False,000,False,False,False,4,42
+"### ||| الحاء المهملة مع اللام والألف
+",000,False,000,False,False,False,3,65
+"### |||| بنو حلان
+",000,False,000,False,False,False,4,70
+"### ||| الحاء المهملة مع الياء
+",000,False,000,False,False,False,3,464
+"### |||| بنو حيادة
+",000,False,000,False,False,False,4,32
+"### |||| بنو حيدان
+",000,False,000,False,False,False,4,31
+"### |||| بنو حي
+",000,False,000,False,False,False,4,19
+"### |||| بنو حيدر
+",000,False,000,False,False,False,4,38
+"### |||| بنو خارف
+",000,False,000,False,False,False,4,150
+"### |||| بنو خارجة
+",000,False,000,False,False,False,4,51
+"### |||| بنو خالد
+",000,False,000,False,False,False,4,25
+"### |||| بنو خالد
+",000,False,000,False,False,False,4,29
+"### |||| بنو خالد
+",000,False,000,False,False,False,4,40
+"### |||| بنو خالد
+",000,False,000,False,False,False,4,68
+"### |||| بنو خالد
+",000,False,000,False,False,False,4,27
+"### ||| الخاء المعجمة مع الثاء المثلثة
+",000,False,000,False,False,False,3,185
+"### |||| بنو خثعم
+",000,False,000,False,False,False,4,111
+"### |||| بنو خثعمة - بالتأنيث
+",000,False,000,False,False,False,4,89
+"### ||| الخاء المعجمة مع الدال المهملة
+",000,False,000,False,False,False,3,45
+"### |||| بنو خدرة
+",000,False,000,False,False,False,4,44
+"### ||| الخاء المعجمة مع الزاي
+",000,False,000,False,False,False,3,265
+"### |||| بنو خزاعة 
+",000,False,000,False,False,False,4,220
+"### |||| بنو خزيمة
+",000,False,000,False,False,False,4,52
+"### ||| الخاء المعجمة مع الشين المعجمة
+",000,False,000,False,False,False,3,50
+"### |||| بنو خشين
+",000,False,000,False,False,False,4,47
+"### ||| الخاء المعجمة مع الصاد المهملة
+",000,False,000,False,False,False,3,74
+"### |||| بنو خصفة
+",000,False,000,False,False,False,4,50
+"### |||| بنو خصيب
+",000,False,000,False,False,False,4,27
+"### ||| الخاء المعجمة مع الضاد
+",000,False,000,False,False,False,3,50
+"### |||| بنو خضم 
+",000,False,000,False,False,False,4,50
+"### ||| الخاء المعجمة مع الطاء المهملة
+",000,False,000,False,False,False,3,32
+"### |||| بنو خطمة
+",000,False,000,False,False,False,4,27
+"### ||| الخاء المعجمة مع الفاء المعجمة
+",000,False,000,False,False,False,3,167
+"### |||| بنو خفاجة
+",000,False,000,False,False,False,4,99
+"### |||| بنو خلف 
+",000,False,000,False,False,False,4,41
+"### |||| بنو خمر
+",000,False,000,False,False,False,4,45
+"### ||| الخاء المعجمة مع النون
+",000,False,000,False,False,False,3,93
+"### |||| بنو خناعة
+",000,False,000,False,False,False,4,29
+"### |||| بنو خندف
+",000,False,000,False,False,False,4,70
+"### ||| الخاء المعجمة مع الواو
+",000,False,000,False,False,False,3,116
+"### |||| بنو خولة
+",000,False,000,False,False,False,4,33
+"### |||| بنو خولان
+",000,False,000,False,False,False,4,97
+"### ||| الخاء المعجمة مع الياء المثناة
+",000,False,000,False,False,False,3,34
+"### |||| بنو خيبر
+",000,False,000,False,False,False,4,31
+"### ||| الدال مع الألف
+",000,False,000,False,False,False,3,214
+"### |||| بنو دارم
+",000,False,000,False,False,False,4,129
+"### |||| بنو داود
+",000,False,000,False,False,False,4,31
+"### |||| بنو دالان
+",000,False,000,False,False,False,4,71
+"### ||| الدال المهملة مع الباء الموحدة
+",000,False,000,False,False,False,3,90
+"### |||| بنو دباب
+",000,False,000,False,False,False,4,91
+"### ||| الدال المهملة مع الثاء المثلثة
+",000,False,000,False,False,False,3,103
+"### |||| بنو دثار
+",000,False,000,False,False,False,4,52
+"### |||| بنو درما
+",000,False,000,False,False,False,4,56
+"### ||| الدال المهملة مع العين المهملة
+",000,False,000,False,False,False,3,67
+"### |||| بنو دعمي 
+",000,False,000,False,False,False,4,35
+"### |||| بنو دعمي
+",000,False,000,False,False,False,4,50
+"### ||| الدال المهملة مع الغين المعجمة
+",000,False,000,False,False,False,3,119
+"### |||| بنو دغش
+",000,False,000,False,False,False,4,59
+"### |||| بنو دغنة
+",000,False,000,False,False,False,4,70
+"### ||| الدال المهملة مع اللام
+",000,False,000,False,False,False,3,53
+"### |||| بنو دلف
+",000,False,000,False,False,False,4,57
+"### ||| الدال المهملة مع الهاء
+",000,False,000,False,False,False,3,171
+"### |||| بنو دهمان
+",000,False,000,False,False,False,4,14
+"### |||| بنو دهمان
+",000,False,000,False,False,False,4,33
+"### |||| بنو دهن
+",000,False,000,False,False,False,4,48
+"### |||| بنو دهنة
+",000,False,000,False,False,False,4,36
+"### |||| بنو دهنة
+",000,False,000,False,False,False,4,61
+"### ||| الدال المهملة مع الواو
+",000,False,000,False,False,False,3,98
+"### |||| بنو دوس
+",000,False,000,False,False,False,4,67
+"### |||| بنو دوس
+",000,False,000,False,False,False,4,29
+"### ||| الدال المهملة مع الياء المثناة
+",000,False,000,False,False,False,3,68
+"### |||| بنو ديمان
+",000,False,000,False,False,False,4,27
+"### |||| بنو دينار
+",000,False,000,False,False,False,4,39
+"### ||| الذال مع الألف
+",000,False,000,False,False,False,3,159
+"### |||| بنو ذي أصبح
+",000,False,000,False,False,False,4,92
+"### |||| بنو ذي السهمين
+",000,False,000,False,False,False,4,42
+"### |||| بنو ذي المحجن
+",000,False,000,False,False,False,4,54
+"### ||| الذال المعجمة مع الباء الموحدة
+",000,False,000,False,False,False,3,89
+"### |||| بنو ذبيان
+",000,False,000,False,False,False,4,84
+"### ||| الذال المعجمة مع السين
+",000,False,000,False,False,False,3,47
+"### |||| بنو ذي السهمين
+",000,False,000,False,False,False,4,52
+"### ||| الذال المعجمة مع الكاف
+",000,False,000,False,False,False,3,70
+"### |||| بنو ذكوان
+",000,False,000,False,False,False,4,78
+"### ||| الذال المعجمة مع الميم
+",000,False,000,False,False,False,3,52
+"### |||| بنو ذي مباح
+",000,False,000,False,False,False,4,54
+"### ||| الذال المعجمة مع النون
+",000,False,000,False,False,False,3,24
+"### |||| بنو ذي نخلان
+",000,False,000,False,False,False,4,23
+"### ||| الذال المعجمة مع الهاء
+",000,False,000,False,False,False,3,157
+"### |||| بنو ذهل
+",000,False,000,False,False,False,4,33
+"### |||| بنو ذهل
+",000,False,000,False,False,False,4,18
+"### |||| بنو ذهل
+",000,False,000,False,False,False,4,39
+"### |||| بنو ذهل
+",000,False,000,False,False,False,4,38
+"### |||| بنو ذهل
+",000,False,000,False,False,False,4,53
+"### ||| الذال المعجمة مع الواو
+",000,False,000,False,False,False,3,34
+"### |||| بنو ذودان
+",000,False,000,False,False,False,4,33
+"### ||| الراء مع الألف
+",000,False,000,False,False,False,3,200
+"### |||| بنو راحل
+",000,False,000,False,False,False,4,29
+"### |||| بنو راسب
+",000,False,000,False,False,False,4,39
+"### |||| بنو راسب
+",000,False,000,False,False,False,4,28
+"### |||| بنو راشد
+",000,False,000,False,False,False,4,48
+"### |||| بنو راشد
+",000,False,000,False,False,False,4,71
+"### ||| الراء المهملة مع الباء الموحدة
+",000,False,000,False,False,False,3,601
+"### |||| بنو ربيعة
+",000,False,000,False,False,False,4,67
+"### |||| بنو ربيعة
+",000,False,000,False,False,False,4,55
+"### |||| بنو ربيعة أيضا
+",000,False,000,False,False,False,4,52
+"### |||| بنو ربيعة
+",000,False,000,False,False,False,4,31
+"### |||| بنو ربيعة
+",000,False,000,False,False,False,4,50
+"### |||| بنو ربيعة
+",000,False,000,False,False,False,4,31
+"### |||| بنو ربيعة
+",000,False,000,False,False,False,4,34
+"### |||| بنو ربيعة
+",000,False,000,False,False,False,4,36
+"### |||| بنو ربيعة
+",000,False,000,False,False,False,4,28
+"### |||| بنو ربيعة
+",000,False,000,False,False,False,4,27
+"### |||| بنو ربيعة
+",000,False,000,False,False,False,4,32
+"### |||| بنو ربيعة
+",000,False,000,False,False,False,4,68
+"### |||| بنو ربيعة
+",000,False,000,False,False,False,4,40
+"### |||| بنو ربيعة
+",000,False,000,False,False,False,4,39
+"### |||| بنو ربيعة 
+",000,False,000,False,False,False,4,25
+"### |||| بنو ربيعة
+",000,False,000,False,False,False,4,18
+"### |||| بنو ربيعة
+",000,False,000,False,False,False,4,66
+"### ||| الراء المهملة مع الحاء المهملة
+",000,False,000,False,False,False,3,29
+"### |||| بنو رحب
+",000,False,000,False,False,False,4,35
+"### ||| الراء المهملة مع الدال المهملة
+",000,False,000,False,False,False,3,83
+"### |||| بنو ردالة
+",000,False,000,False,False,False,4,33
+"### |||| بنو رديني
+",000,False,000,False,False,False,4,64
+"### ||| الراء المهملة مع الزاي المعجمة
+",000,False,000,False,False,False,3,124
+"### |||| بنو رزاح
+",000,False,000,False,False,False,4,35
+"### |||| بنو زراح
+",000,False,000,False,False,False,4,39
+"### |||| بنو رزام
+",000,False,000,False,False,False,4,71
+"### ||| الراء المهملة مع السين
+",000,False,000,False,False,False,3,61
+"### |||| بنو رس
+",000,False,000,False,False,False,4,60
+"### ||| الراء المهملة مع الضاد المعجمة
+",000,False,000,False,False,False,3,41
+"### |||| بنو رضيعة
+",000,False,000,False,False,False,4,47
+"### ||| الراء المهملة مع العين المهملة
+",000,False,000,False,False,False,3,97
+"### |||| بنو رعل
+",000,False,000,False,False,False,4,50
+"### |||| بنو رعيش
+",000,False,000,False,False,False,4,29
+"### |||| بنو رعين
+",000,False,000,False,False,False,4,29
+"### ||| الراء المهملة مع الغين المعجمة
+",000,False,000,False,False,False,3,55
+"### |||| بنو رغو
+",000,False,000,False,False,False,4,58
+"### ||| الراء المهملة مع الفاء
+",000,False,000,False,False,False,3,139
+"### |||| بنو رفاعة
+",000,False,000,False,False,False,4,20
+"### |||| بنو رفاعة
+",000,False,000,False,False,False,4,39
+"### |||| بنو رفاعة
+",000,False,000,False,False,False,4,36
+"### |||| بنو رفيدة
+",000,False,000,False,False,False,4,38
+"### |||| بنو رفيدة ms181
+",000,False,000,False,False,False,4,29
+"### ||| الراء المهملة مع القاف
+",000,False,000,False,False,False,3,86
+"### |||| بنو رقاش
+",000,False,000,False,False,False,4,92
+"### ||| الراء المهملة مع الميم
+",000,False,000,False,False,False,3,105
+"### |||| بنو رمضان
+",000,False,000,False,False,False,4,45
+"### |||| بنو رميح
+",000,False,000,False,False,False,4,18
+"### |||| بنو رميم
+",000,False,000,False,False,False,4,46
+"### ||| الراء المهملة مع الهاء
+",000,False,000,False,False,False,3,45
+"### |||| بنو رها
+",000,False,000,False,False,False,4,54
+"### ||| الراء المهملة مع الواو
+",000,False,000,False,False,False,3,74
+"### |||| بنو رواحة
+",000,False,000,False,False,False,4,23
+"### |||| بنو رواس
+",000,False,000,False,False,False,4,49
+"### |||| بنو روحين
+",000,False,000,False,False,False,4,14
+"### ||| الراء المهملة مع الياء المثناة تحت
+",000,False,000,False,False,False,3,229
+"### |||| بنو رياح
+",000,False,000,False,False,False,4,47
+"### |||| بنو رياح
+",000,False,000,False,False,False,4,108
+"### |||| بنو ريث
+",000,False,000,False,False,False,4,41
+"### |||| بنو ريدة
+",000,False,000,False,False,False,4,25
+"### |||| بنو ريان
+",000,False,000,False,False,False,4,33
+"### ||| الزاي مع الالف
+",000,False,000,False,False,False,3,38
+"### |||| بنو زاه ر
+",000,False,000,False,False,False,4,39
+"### ||| الزاي ms183 مع الباء الموحدة
+",000,False,000,False,False,False,3,328
+"### |||| بنو زبيد
+",000,False,000,False,False,False,4,37
+"### |||| بنو زبيد
+",000,False,000,False,False,False,4,75
+"### |||| بنو زبيد
+",000,False,000,False,False,False,4,54
+"### |||| بنو زبيد
+",000,False,000,False,False,False,4,46
+"### |||| بنو زبيد
+",000,False,000,False,False,False,4,62
+"### |||| بنو زبير
+",000,False,000,False,False,False,4,32
+"### |||| بنو زبين
+",000,False,000,False,False,False,4,59
+"### ||| الزاي مع الراء المهملة
+",000,False,000,False,False,False,3,276
+"### |||| بنو زرارة
+",000,False,000,False,False,False,4,176
+"### |||| بنو زرية
+",000,False,000,False,False,False,4,34
+"### |||| بنو زريق
+",000,False,000,False,False,False,4,44
+"### |||| بنو زريق
+",000,False,000,False,False,False,4,25
+"### ||| الزاي مع العين المهملة
+",000,False,000,False,False,False,3,60
+"### |||| بنو زعوا
+",000,False,000,False,False,False,4,57
+"### ||| الزاي مع الغين المعجمة
+",000,False,000,False,False,False,3,148
+"### |||| بنو زغب
+",000,False,000,False,False,False,4,56
+"### |||| بنو زغب
+",000,False,000,False,False,False,4,36
+"### |||| بنو زغبة
+",000,False,000,False,False,False,4,26
+"### |||| بنو زغبة
+",000,False,000,False,False,False,4,52
+"### ||| الزاي مع الميم
+",000,False,000,False,False,False,3,122
+"### |||| بنو زمان
+",000,False,000,False,False,False,4,53
+"### |||| بنو زمان
+",000,False,000,False,False,False,4,38
+"### |||| بنو زمور
+",000,False,000,False,False,False,4,53
+"### ||| الزاي مع النون
+",000,False,000,False,False,False,3,227
+"### |||| بنو زناتة
+",000,False,000,False,False,False,4,153
+"### |||| بنو زنارة
+",000,False,000,False,False,False,4,79
+"### ||| الزاي مع الهاء
+",000,False,000,False,False,False,3,298
+"### |||| بنو زهران
+",000,False,000,False,False,False,4,47
+"### |||| بنو زهران
+",000,False,000,False,False,False,4,42
+"### |||| بنو زهرة
+",000,False,000,False,False,False,4,42
+"### |||| بنو زهرة
+",000,False,000,False,False,False,4,80
+"### |||| بنو زهير
+",000,False,000,False,False,False,4,57
+"### |||| بنو زهير
+",000,False,000,False,False,False,4,55
+"### ||| الزاي مع ms188 الواو
+",000,False,000,False,False,False,3,199
+"### |||| بنو زوارة
+",000,False,000,False,False,False,4,37
+"### |||| بنو زوارة
+",000,False,000,False,False,False,4,33
+"### |||| بنو زواعة
+",000,False,000,False,False,False,4,142
+"### ||| الزاي مع الياء
+",000,False,000,False,False,False,3,720
+"### |||| بنو زياد
+",000,False,000,False,False,False,4,53
+"### |||| بنو زياد
+",000,False,000,False,False,False,4,117
+"### |||| بنو زيد - ايضا
+",000,False,000,False,False,False,4,20
+"### |||| بنو زيد
+",000,False,000,False,False,False,4,73
+"### |||| بنو زيد
+",000,False,000,False,False,False,4,67
+"### |||| بنو زيد
+",000,False,000,False,False,False,4,37
+"### |||| بنو زيد
+",000,False,000,False,False,False,4,66
+"### |||| بنو زيد
+",000,False,000,False,False,False,4,39
+"### |||| بنو زيد
+",000,False,000,False,False,False,4,49
+"### |||| بنو زيد أيضا
+",000,False,000,False,False,False,4,29
+"### |||| بنو زيد الجمهور
+",000,False,000,False,False,False,4,67
+"### |||| بنو زيد الله
+",000,False,000,False,False,False,4,40
+"### |||| بنو زيد اللات
+",000,False,000,False,False,False,4,37
+"### |||| بنو زيد مناة
+",000,False,000,False,False,False,4,30
+"### |||| بنو زيد مناة
+",000,False,000,False,False,False,4,36
+"### |||| بنو زيري
+",000,False,000,False,False,False,4,45
+"### ||| السين مع الألف
+",000,False,000,False,False,False,3,275
+"### |||| بنو ساعدة
+",000,False,000,False,False,False,4,128
+"### |||| بنو ساعدة
+",000,False,000,False,False,False,4,20
+"### |||| بنو سالم
+",000,False,000,False,False,False,4,47
+"### |||| بنو سالم
+",000,False,000,False,False,False,4,33
+"### |||| بنو سالم
+",000,False,000,False,False,False,4,14
+"### |||| بنو سامة
+",000,False,000,False,False,False,4,44
+"### ||| السين مع الحاء المهملة
+",000,False,000,False,False,False,3,181
+"### |||| بنو سحمة
+",000,False,000,False,False,False,4,71
+"### |||| بنو سحمة
+",000,False,000,False,False,False,4,73
+"### |||| بنو سحيم
+",000,False,000,False,False,False,4,42
+"### ||| السين مع الدال المهملة
+",000,False,000,False,False,False,3,141
+"### |||| بنو سدوس
+",000,False,000,False,False,False,4,30
+"### |||| بنو سدوس
+",000,False,000,False,False,False,4,46
+"### |||| بنو سدوس
+",000,False,000,False,False,False,4,59
+"### |||| بنو سدرانة 
+",000,False,000,False,False,False,4,27
+"### ||| السين مع العين المهملة
+",000,False,000,False,False,False,3,2405
+"### |||| بنو سعد
+",000,False,000,False,False,False,4,43
+"### |||| بنو سعد
+",000,False,000,False,False,False,4,37
+"### |||| بنو سعد
+",000,False,000,False,False,False,4,47
+"### |||| بنو سعد
+",000,False,000,False,False,False,4,45
+"### |||| بنو سعد
+",000,False,000,False,False,False,4,40
+"### |||| بنو سعد
+",000,False,000,False,False,False,4,49
+"### |||| بنو سعد
+",000,False,000,False,False,False,4,59
+"### |||| بنو سعد
+",000,False,000,False,False,False,4,62
+"### |||| بنو سعد
+",000,False,000,False,False,False,4,112
+"### |||| بنو سعد
+",000,False,000,False,False,False,4,122
+"### |||| بنوسعد - ايضا
+",000,False,000,False,False,False,4,41
+"### |||| بنو سعد - ايضا
+",000,False,000,False,False,False,4,126
+"### |||| بنو سعد
+",000,False,000,False,False,False,4,20
+"### |||| بنوسعد - ايضا
+",000,False,000,False,False,False,4,124
+"### |||| بنو سعد
+",000,False,000,False,False,False,4,99
+"### |||| بنو سعد
+",000,False,000,False,False,False,4,47
+"### |||| بنو سعد
+",000,False,000,False,False,False,4,31
+"### |||| بنو سعد
+",000,False,000,False,False,False,4,34
+"### |||| بنو سعد
+",000,False,000,False,False,False,4,62
+"### |||| بنو سعد
+",000,False,000,False,False,False,4,27
+"### |||| بنو سعد
+",000,False,000,False,False,False,4,42
+"### |||| بنو سعد
+",000,False,000,False,False,False,4,28
+"### |||| بنو سعد
+",000,False,000,False,False,False,4,40
+"### |||| بنو سعد
+",000,False,000,False,False,False,4,72
+"### |||| بنو سعد
+",000,False,000,False,False,False,4,115
+"### |||| بنو سعد العشيرة
+",000,False,000,False,False,False,4,105
+"### |||| بنو سعد الله
+",000,False,000,False,False,False,4,107
+"### |||| بنو سلمى
+",000,False,000,False,False,False,4,64
+"### |||| بنو سلمى
+",000,False,000,False,False,False,4,33
+"### |||| بنو سلمان
+",000,False,000,False,False,False,4,44
+"### |||| بنو سلمة
+",000,False,000,False,False,False,4,34
+"### |||| بنو سلمة
+",000,False,000,False,False,False,4,43
+"### |||| بنو سلمة
+",000,False,000,False,False,False,4,36
+"### |||| بنو سلمة
+",000,False,000,False,False,False,4,48
+"### |||| بنو سلمة
+",000,False,000,False,False,False,4,42
+"### |||| بنو سلمة 
+",000,False,000,False,False,False,4,91
+"### |||| بنو سلول
+",000,False,000,False,False,False,4,58
+"### |||| بنو سلول
+",000,False,000,False,False,False,4,67
+"### |||| بنو سليح
+",000,False,000,False,False,False,4,28
+"### |||| بنو سليم
+",000,False,000,False,False,False,4,153
+"### |||| بنو سليم
+",000,False,000,False,False,False,4,23
+"### |||| بنو سليم
+",000,False,000,False,False,False,4,61
+"### |||| بنو سلمان
+",000,False,000,False,False,False,4,24
+"### |||| بنو سليمة
+",000,False,000,False,False,False,4,70
+"### ||| السين مع الميم
+",000,False,000,False,False,False,3,100
+"### |||| بنو سماك
+",000,False,000,False,False,False,4,44
+"### |||| بنو سماك
+",000,False,000,False,False,False,4,27
+"### |||| بنو سماك
+",000,False,000,False,False,False,4,49
+"### ||| السين مع النون
+",000,False,000,False,False,False,3,111
+"### |||| بنو ms202 سنبس
+",000,False,000,False,False,False,4,87
+"### |||| بنو سنان
+",000,False,000,False,False,False,4,22
+"### ||| السين مع الهاء
+",000,False,000,False,False,False,3,230
+"### |||| بنو سهل
+",000,False,000,False,False,False,4,37
+"### |||| بنو سهم
+",000,False,000,False,False,False,4,55
+"### |||| بنو سهم
+",000,False,000,False,False,False,4,97
+"### |||| بنو سهيل
+",000,False,000,False,False,False,4,62
+"### ||| السين مع الواو
+",000,False,000,False,False,False,3,203
+"### |||| بنو سوادة
+",000,False,000,False,False,False,4,33
+"### |||| بنو سوادة
+",000,False,000,False,False,False,4,50
+"### |||| بنو سودة
+",000,False,000,False,False,False,4,51
+"### |||| بنو سومانة
+",000,False,000,False,False,False,4,12
+"### |||| بنو سويد
+",000,False,000,False,False,False,4,95
+"### ||| السين مع اللام والألف
+",000,False,000,False,False,False,3,148
+"### |||| بنو سلا
+",000,False,000,False,False,False,4,35
+"### |||| بنو سلامان
+",000,False,000,False,False,False,4,37
+"### |||| بنو سلامان
+",000,False,000,False,False,False,4,36
+"### |||| بنو سلامة
+",000,False,000,False,False,False,4,62
+"### ||| الشين مع الألف
+",000,False,000,False,False,False,3,192
+"### |||| بنو شاد
+",000,False,000,False,False,False,4,66
+"### |||| بنو شاس
+",000,False,000,False,False,False,4,36
+"### |||| بنو شاكر 
+",000,False,000,False,False,False,4,20
+"### |||| بنو شاكر
+",000,False,000,False,False,False,4,56
+"### |||| بنو شاكر 
+",000,False,000,False,False,False,4,41
+"### ||| الشين مع الباء
+",000,False,000,False,False,False,3,202
+"### |||| بنو شبابة
+",000,False,000,False,False,False,4,37
+"### |||| بنو شبام
+",000,False,000,False,False,False,4,51
+"### |||| بنو شبل
+",000,False,000,False,False,False,4,25
+"### |||| بنو شبل
+",000,False,000,False,False,False,4,27
+"### |||| بنو شبيب
+",000,False,000,False,False,False,4,32
+"### |||| بنو شبيب
+",000,False,000,False,False,False,4,31
+"### |||| بنو شبيب
+",000,False,000,False,False,False,4,56
+"### ||| الشين مع الجيم
+",000,False,000,False,False,False,3,88
+"### |||| بنو شجاع
+",000,False,000,False,False,False,4,27
+"### |||| بنو شجرة
+",000,False,000,False,False,False,4,37
+"### |||| بنو شجع
+",000,False,000,False,False,False,4,34
+"### ||| الشين مع الدال
+",000,False,000,False,False,False,3,37
+"### |||| بنو شداد
+",000,False,000,False,False,False,4,44
+"### ||| الشين مع الراء
+",000,False,000,False,False,False,3,314
+"### |||| بنو شرعب
+",000,False,000,False,False,False,4,39
+"### |||| بنو شريك
+",000,False,000,False,False,False,4,55
+"### |||| بنو شريك
+",000,False,000,False,False,False,4,77
+"### |||| بنو شعبة
+",000,False,000,False,False,False,4,50
+"### |||| بنو شعل
+",000,False,000,False,False,False,4,79
+"### |||| بنو شعيب
+",000,False,000,False,False,False,4,57
+"### ||| الشين مع القاف
+",000,False,000,False,False,False,3,116
+"### |||| بنو شقوان
+",000,False,000,False,False,False,4,47
+"### |||| بنو شقرة
+",000,False,000,False,False,False,4,75
+"### ||| الشين مع الكاف
+",000,False,000,False,False,False,3,97
+"### |||| بنو شكامة
+",000,False,000,False,False,False,4,91
+"### |||| بنو شكل
+",000,False,000,False,False,False,4,15
+"### ||| الشين مع الميم
+",000,False,000,False,False,False,3,196
+"### |||| بنو شما
+",000,False,000,False,False,False,4,18
+"### |||| بنو شما
+",000,False,000,False,False,False,4,28
+"### |||| بنو شماخ
+",000,False,000,False,False,False,4,38
+"### |||| بنو شمخ
+",000,False,000,False,False,False,4,14
+"### |||| بنو شمخ
+",000,False,000,False,False,False,4,56
+"### |||| بنو شمخان
+",000,False,000,False,False,False,4,27
+"### |||| بنو شمر
+",000,False,000,False,False,False,4,21
+"### |||| بنو شمس
+",000,False,000,False,False,False,4,25
+"### ||| الشين مع النون
+",000,False,000,False,False,False,3,73
+"### |||| بنو شنؤة
+",000,False,000,False,False,False,4,41
+"### |||| بنو شنؤة
+",000,False,000,False,False,False,4,37
+"### ||| الشين مع الهاء
+",000,False,000,False,False,False,3,90
+"### |||| بنو شهاب
+",000,False,000,False,False,False,4,24
+"### |||| بنو شهران
+",000,False,000,False,False,False,4,46
+"### |||| بنو شهلان
+",000,False,000,False,False,False,4,33
+"### ||| الشين مع الياء
+",000,False,000,False,False,False,3,401
+"### |||| بنو شيبان
+",000,False,000,False,False,False,4,52
+"### |||| بنو شيبان
+",000,False,000,False,False,False,4,102
+"### |||| بنو شيبان
+",000,False,000,False,False,False,4,70
+"### |||| بنو شيبة
+",000,False,000,False,False,False,4,152
+"### |||| بنو شيطان
+",000,False,000,False,False,False,4,51
+"### ||| الصاد المهملة مع الالف
+",000,False,000,False,False,False,3,214
+"### |||| بنو صابر
+",000,False,000,False,False,False,4,26
+"### |||| بنو صالح
+",000,False,000,False,False,False,4,96
+"### |||| بنو صالح
+",000,False,000,False,False,False,4,26
+"### |||| بنو صالح
+",000,False,000,False,False,False,4,25
+"### |||| بنو صاهلة
+",000,False,000,False,False,False,4,56
+"### ||| الصاد مع الباء
+",000,False,000,False,False,False,3,158
+"### |||| بنو صباح
+",000,False,000,False,False,False,4,59
+"### |||| بنو صباح
+",000,False,000,False,False,False,4,39
+"### |||| بنو صبح
+",000,False,000,False,False,False,4,23
+"### |||| بنو صبح
+",000,False,000,False,False,False,4,30
+"### |||| بنو صبيح
+",000,False,000,False,False,False,4,18
+"### ||| الصاد مع الحاء
+",000,False,000,False,False,False,3,30
+"### |||| بنو صحب
+",000,False,000,False,False,False,4,33
+"### ||| الصاد مع الخاء
+",000,False,000,False,False,False,3,115
+"### |||| بنو صخر
+",000,False,000,False,False,False,4,39
+"### |||| بنو صخر
+",000,False,000,False,False,False,4,13
+"### |||| بنو صخر
+",000,False,000,False,False,False,4,73
+"### ||| الصاد مع الدال
+",000,False,000,False,False,False,3,103
+"### |||| بنو صدر
+",000,False,000,False,False,False,4,29
+"### ||| الصاد مع الراء
+",000,False,000,False,False,False,3,138
+"### |||| بنو صرمة
+",000,False,000,False,False,False,4,37
+"### |||| بنو صرمة
+",000,False,000,False,False,False,4,36
+"### |||| بنو صريم
+",000,False,000,False,False,False,4,42
+"### |||| بنو صريم
+",000,False,000,False,False,False,4,44
+"### ||| الصاد مع العين المهملة
+",000,False,000,False,False,False,3,198
+"### |||| بنو صعب
+",000,False,000,False,False,False,4,36
+"### |||| بنو صعب
+",000,False,000,False,False,False,4,68
+"### |||| بنو صعب
+",000,False,000,False,False,False,4,30
+"### |||| بنو صعصعة
+",000,False,000,False,False,False,4,77
+"### ||| الاصد مع اللام
+",000,False,000,False,False,False,3,55
+"### ||| الاصد مع الميم
+",000,False,000,False,False,False,3,55
+"### |||| بنو صمادح
+",000,False,000,False,False,False,4,60
+"### ||| الاصد مع النون
+",000,False,000,False,False,False,3,97
+"### |||| بنو صنابح
+",000,False,000,False,False,False,4,28
+"### |||| بنو صنهاجة
+",000,False,000,False,False,False,4,80
+"### ||| الصاد مع الهاء
+",000,False,000,False,False,False,3,54
+"### |||| بنو صهبان
+",000,False,000,False,False,False,4,62
+"### ||| الصاد مع الواو
+",000,False,000,False,False,False,3,71
+"### |||| بنو صوفة
+",000,False,000,False,False,False,4,71
+"### ||| الضاد مع الألف
+",000,False,000,False,False,False,3,60
+"### |||| بنو ضاطر
+",000,False,000,False,False,False,4,65
+"### ||| الضاد مع الباء
+",000,False,000,False,False,False,3,456
+"### |||| بنو ضبع
+",000,False,000,False,False,False,4,65
+"### |||| بنو ضبة
+",000,False,000,False,False,False,4,67
+"### |||| بنو عائذ
+",000,False,000,False,False,False,4,50
+"### |||| بنو عائذة
+",000,False,000,False,False,False,4,31
+"### |||| بنو عبادة 
+",000,False,000,False,False,False,4,114
+"### |||| بنو ضبة
+",000,False,000,False,False,False,4,32
+"### |||| بنو ضبيعة
+",000,False,000,False,False,False,4,38
+"### |||| بنو ضبيعة
+",000,False,000,False,False,False,4,57
+"### |||| بنو ضبيعة
+",000,False,000,False,False,False,4,47
+"### ||| الضاد مع النون
+",000,False,000,False,False,False,3,76
+"### |||| بنو ضنة
+",000,False,000,False,False,False,4,57
+"### |||| بنو ضنة
+",000,False,000,False,False,False,4,26
+"### ||| الطاء مع الألف
+",000,False,000,False,False,False,3,83
+"### |||| بنو طابخة
+",000,False,000,False,False,False,4,89
+"### ||| الطاء مع الراء
+",000,False,000,False,False,False,3,241
+"### |||| بنو طرود
+",000,False,000,False,False,False,4,54
+"### |||| بنو طريف
+",000,False,000,False,False,False,4,63
+"### |||| بنو طريف
+",000,False,000,False,False,False,4,30
+"### |||| بنو طريف
+",000,False,000,False,False,False,4,69
+"### |||| بنو طريف
+",000,False,000,False,False,False,4,45
+"### ||| الطاء مع السين
+",000,False,000,False,False,False,3,67
+"### |||| بنو طسم 
+",000,False,000,False,False,False,4,65
+"### ||| الطاء مع اللام
+",000,False,000,False,False,False,3,194
+"### |||| بنو طلحة 
+",000,False,000,False,False,False,4,96
+"### |||| بنو طلحة
+",000,False,000,False,False,False,4,109
+"### ||| الطاء مع الهاء
+",000,False,000,False,False,False,3,82
+"### |||| بنو طهية
+",000,False,000,False,False,False,4,80
+"### ||| الطاء مع الياء
+",000,False,000,False,False,False,3,164
+"### |||| بنو طي
+",000,False,000,False,False,False,4,164
+"### ||| الظاء مع الألف
+",000,False,000,False,False,False,3,63
+"### |||| بنو ظابخة
+",000,False,000,False,False,False,4,31
+"### |||| بنو ظالم
+",000,False,000,False,False,False,4,49
+"### ||| الظاء المعجمة مع الفاء
+",000,False,000,False,False,False,3,152
+"### |||| بنو ظفر
+",000,False,000,False,False,False,4,81
+"### |||| بنو ظفر
+",000,False,000,False,False,False,4,49
+"### |||| بنو ظفير
+",000,False,000,False,False,False,4,39
+"### ||| العين المهملة مع الألف
+",000,False,000,False,False,False,3,1519
+"### |||| بنو عاتية
+",000,False,000,False,False,False,4,48
+"### |||| بنو عاد
+",000,False,000,False,False,False,4,161
+"### |||| بنو عاد
+",000,False,000,False,False,False,4,124
+"### |||| بنو عامر
+",000,False,000,False,False,False,4,35
+"### |||| بنو عامر
+",000,False,000,False,False,False,4,53
+"### |||| بنو عامر
+",000,False,000,False,False,False,4,53
+"### |||| بنو عامر
+",000,False,000,False,False,False,4,119
+"### |||| بنو عامر
+",000,False,000,False,False,False,4,76
+"### |||| بنو عامر
+",000,False,000,False,False,False,4,55
+"### |||| بنو عامر
+",000,False,000,False,False,False,4,44
+"### |||| بنو عامر
+",000,False,000,False,False,False,4,21
+"### |||| بنو عامر
+",000,False,000,False,False,False,4,30
+"### |||| بنو عامر
+",000,False,000,False,False,False,4,46
+"### |||| بنو عامر
+",000,False,000,False,False,False,4,51
+"### |||| بنو عامر
+",000,False,000,False,False,False,4,34
+"### |||| بنو عامر
+",000,False,000,False,False,False,4,72
+"### |||| بنو عامر
+",000,False,000,False,False,False,4,28
+"### |||| بنو عامر
+",000,False,000,False,False,False,4,38
+"### |||| بنو عاملة
+",000,False,000,False,False,False,4,67
+"### |||| بنو عاملة
+",000,False,000,False,False,False,4,97
+"### |||| بنو عائد
+",000,False,000,False,False,False,4,36
+"### |||| بنو عائد
+",000,False,000,False,False,False,4,50
+"### |||| بنو عائذ
+",000,False,000,False,False,False,4,25
+"### |||| بنو عائذ الله
+",000,False,000,False,False,False,4,26
+"### |||| بنو عائذ
+",000,False,000,False,False,False,4,95
+"### |||| بنو عائذ
+",000,False,000,False,False,False,4,55
+"### |||| بنو عائذ
+",000,False,000,False,False,False,4,33
+"### |||| بنو عائذ
+",000,False,000,False,False,False,4,50
+"### |||| بنو عائذة
+",000,False,000,False,False,False,4,47
+"### ||| العين مع لاباء
+",000,False,000,False,False,False,3,2593
+"### |||| بنو عبادة 
+",000,False,000,False,False,False,4,105
+"### |||| بنو عبد الحق
+",000,False,000,False,False,False,4,49
+"### |||| بنو عبد الدار
+",000,False,000,False,False,False,4,116
+"### |||| بنو عبد الرحمن
+",000,False,000,False,False,False,4,23
+"### |||| بنو عبد العزى
+",000,False,000,False,False,False,4,54
+"### |||| بنو عبد العزى - ايضا ""
+",000,False,000,False,False,False,4,44
+"### |||| بنو عبد القوي
+",000,False,000,False,False,False,4,15
+"### |||| بنو عبد القيس
+",000,False,000,False,False,False,4,142
+"### |||| بنو عبد الله
+",000,False,000,False,False,False,4,42
+"### |||| بنو عبد الله
+",000,False,000,False,False,False,4,34
+"### |||| بنو عبد الله
+",000,False,000,False,False,False,4,15
+"### |||| بنو عبد الله - ايضا ""
+",000,False,000,False,False,False,4,40
+"### |||| بنو عبد الله
+",000,False,000,False,False,False,4,84
+"### |||| بنو عبد الله
+",000,False,000,False,False,False,4,75
+"### |||| بنو عبد الله
+",000,False,000,False,False,False,4,35
+"### |||| بنو عند الله
+",000,False,000,False,False,False,4,75
+"### |||| بنو عبد الله
+",000,False,000,False,False,False,4,79
+"### |||| بنو عبد الله
+",000,False,000,False,False,False,4,45
+"### |||| بنو عبد المطلب
+",000,False,000,False,False,False,4,172
+"### |||| بنو عبد الواد
+",000,False,000,False,False,False,4,13
+"### |||| بنو عبد شمس
+",000,False,000,False,False,False,4,41
+"### |||| بنو عبد الأشهل
+",000,False,000,False,False,False,4,53
+"### |||| بنو عبد سعد
+",000,False,000,False,False,False,4,53
+"### |||| بنو عبد شمس
+",000,False,000,False,False,False,4,50
+"### |||| بنو عبد ضخم 
+",000,False,000,False,False,False,4,41
+"### |||| بنو عبد عمرو
+",000,False,000,False,False,False,4,38
+"### |||| بنو عبد مناف
+",000,False,000,False,False,False,4,164
+"### |||| بنوعبد مناف
+",000,False,000,False,False,False,4,69
+"### |||| بنوعبد مناف
+",000,False,000,False,False,False,4,41
+"### |||| بنوعبد مناة
+",000,False,000,False,False,False,4,37
+"### |||| بنو عبد مناة
+",000,False,000,False,False,False,4,43
+"### |||| بنو عبس
+",000,False,000,False,False,False,4,128
+"### |||| بنو عبس
+",000,False,000,False,False,False,4,119
+"### |||| بنو عبشمس
+",000,False,000,False,False,False,4,48
+"### |||| بنو عبقر
+",000,False,000,False,False,False,4,47
+"### |||| بنو عبيد
+",000,False,000,False,False,False,4,65
+"### |||| بنو عبيد
+",000,False,000,False,False,False,4,41
+"### |||| بنو عبيد
+",000,False,000,False,False,False,4,50
+"### |||| بنو عبيد
+",000,False,000,False,False,False,4,66
+"### |||| بنو عبيد
+",000,False,000,False,False,False,4,21
+"### |||| بنو عبيد أيضا
+",000,False,000,False,False,False,4,43
+"### |||| بنو عبيد
+",000,False,000,False,False,False,4,37
+"### |||| بنو عبيد
+",000,False,000,False,False,False,4,37
+"### |||| بنو عبيد
+",000,False,000,False,False,False,4,34
+"### |||| بنو عبيد
+",000,False,000,False,False,False,4,44
+"### |||| بنو عبيد
+",000,False,000,False,False,False,4,45
+"### |||| بنو عبيد
+",000,False,000,False,False,False,4,94
+"### |||| بنو عبيل
+",000,False,000,False,False,False,4,50
+"### ||| العين مع التاء
+",000,False,000,False,False,False,3,207
+"### |||| بنو عتبة
+",000,False,000,False,False,False,4,205
+"### ||| العين مع الثاء
+",000,False,000,False,False,False,3,109
+"### |||| بنو عثمان
+",000,False,000,False,False,False,4,40
+"### |||| بنو عثمان
+",000,False,000,False,False,False,4,77
+"### ||| العين مع الجيم
+",000,False,000,False,False,False,3,171
+"### |||| بنو عجرمة
+",000,False,000,False,False,False,4,26
+"### |||| بنو عجل
+",000,False,000,False,False,False,4,81
+"### |||| بنو عجل
+",000,False,000,False,False,False,4,32
+"### |||| بنو عجيبة
+",000,False,000,False,False,False,4,47
+"### ||| العين مع الدال
+",000,False,000,False,False,False,3,1424
+"### |||| بنو عدا
+",000,False,000,False,False,False,4,67
+"### |||| بنو عدثان
+",000,False,000,False,False,False,4,55
+"### |||| بنو عدس
+",000,False,000,False,False,False,4,46
+"### |||| بنو عدسة
+",000,False,000,False,False,False,4,45
+"### |||| بنو عدنان 
+",000,False,000,False,False,False,4,328
+"### |||| بنو عدنان
+",000,False,000,False,False,False,4,16
+"### |||| بنو عدنان
+",000,False,000,False,False,False,4,39
+"### |||| بنو عدوان
+",000,False,000,False,False,False,4,108
+"### |||| بنو عدي
+",000,False,000,False,False,False,4,46
+"### |||| بنو عدي
+",000,False,000,False,False,False,4,41
+"### |||| بنو عدي
+",000,False,000,False,False,False,4,51
+"### |||| بنو عدي
+",000,False,000,False,False,False,4,24
+"### |||| بنو عدي
+",000,False,000,False,False,False,4,28
+"### |||| بنو عدي
+",000,False,000,False,False,False,4,28
+"### |||| بنو عدي
+",000,False,000,False,False,False,4,22
+"### |||| بنو عدي
+",000,False,000,False,False,False,4,53
+"### |||| بنو عدي
+",000,False,000,False,False,False,4,42
+"### |||| بنو عدي
+",000,False,000,False,False,False,4,68
+"### |||| بنو عدي
+",000,False,000,False,False,False,4,35
+"### |||| بنو عدي
+",000,False,000,False,False,False,4,72
+"### |||| بنو عدي
+",000,False,000,False,False,False,4,24
+"### |||| بنو عدي
+",000,False,000,False,False,False,4,49
+"### |||| بنو عدي
+",000,False,000,False,False,False,4,29
+"### |||| بنو عدي
+",000,False,000,False,False,False,4,60
+"### |||| بنو عدي
+",000,False,000,False,False,False,4,28
+"### |||| بنو عدي
+",000,False,000,False,False,False,4,94
+"### |||| بنو عدي
+",000,False,000,False,False,False,4,43
+"### |||| بنو عدية
+",000,False,000,False,False,False,4,46
+"### ||| العين مع الذال
+",000,False,000,False,False,False,3,154
+"### |||| بنو عذرة
+",000,False,000,False,False,False,4,54
+"### |||| بنو عذرة
+",000,False,000,False,False,False,4,103
+"### ||| العين مع الراء
+",000,False,000,False,False,False,3,354
+"### |||| بنو عرهان
+",000,False,000,False,False,False,4,16
+"### |||| بنو عروة
+",000,False,000,False,False,False,4,61
+"### |||| بنو عريب
+",000,False,000,False,False,False,4,37
+"### |||| بنو عريب
+",000,False,000,False,False,False,4,38
+"### |||| بنو عريب
+",000,False,000,False,False,False,4,31
+"### |||| بنو عريج
+",000,False,000,False,False,False,4,43
+"### |||| بنو عريد
+",000,False,000,False,False,False,4,31
+"### |||| بنو عرين
+",000,False,000,False,False,False,4,38
+"### |||| بنو عرين
+",000,False,000,False,False,False,4,27
+"### |||| بنو عرينة
+",000,False,000,False,False,False,4,88
+"### ||| العين مع الزاي
+",000,False,000,False,False,False,3,32
+"### |||| بنو عزيز
+",000,False,000,False,False,False,4,37
+"### ||| العين مع الشين
+",000,False,000,False,False,False,3,26
+"### |||| بنو عشم
+",000,False,000,False,False,False,4,28
+"### ||| العين مع الصاد
+",000,False,000,False,False,False,3,177
+"### |||| بنو عصا
+",000,False,000,False,False,False,4,95
+"### |||| بنو عصمة
+",000,False,000,False,False,False,4,40
+"### |||| بنو عصية
+",000,False,000,False,False,False,4,60
+"### ||| العين مع الضاد
+",000,False,000,False,False,False,3,32
+"### |||| بنو عضل
+",000,False,000,False,False,False,4,29
+"### ||| العين مع الطاء
+",000,False,000,False,False,False,3,61
+"### |||| بنو ms244 عطاء
+",000,False,000,False,False,False,4,13
+"### |||| بنو عطارد
+",000,False,000,False,False,False,4,46
+"### ||| العين مع الفاء
+",000,False,000,False,False,False,3,50
+"### |||| بنو عفير
+",000,False,000,False,False,False,4,55
+"### ||| العين مع القاف
+",000,False,000,False,False,False,3,492
+"### |||| بنو عقبة
+",000,False,000,False,False,False,4,77
+"### |||| بنو عقبة
+",000,False,000,False,False,False,4,45
+"### |||| بنو عقبة
+",000,False,000,False,False,False,4,25
+"### |||| بنو عقدة
+",000,False,000,False,False,False,4,35
+"### |||| بنو عقيل
+",000,False,000,False,False,False,4,62
+"### |||| بنو عقيل 
+",000,False,000,False,False,False,4,29
+"### |||| بنو عقيل
+",000,False,000,False,False,False,4,54
+"### |||| بنو عقيل
+",000,False,000,False,False,False,4,206
+"### ||| العين مع الكاف
+",000,False,000,False,False,False,3,206
+"### |||| بنو عك
+",000,False,000,False,False,False,4,64
+"### |||| بنو عكابة
+",000,False,000,False,False,False,4,46
+"### |||| بنو عكرمة
+",000,False,000,False,False,False,4,35
+"### |||| بنو عكرمة
+",000,False,000,False,False,False,4,32
+"### |||| بنو عكل
+",000,False,000,False,False,False,4,56
+"### ||| العين مع اللام
+",000,False,000,False,False,False,3,226
+"### |||| بنو علقمة
+",000,False,000,False,False,False,4,47
+"### |||| بنو علة
+",000,False,000,False,False,False,4,45
+"### |||| بنو علي
+",000,False,000,False,False,False,4,42
+"### |||| بنو علي
+",000,False,000,False,False,False,4,26
+"### |||| بنو علي
+",000,False,000,False,False,False,4,32
+"### |||| بنو عليم
+",000,False,000,False,False,False,4,67
+"### ||| العين مع الميم
+",000,False,000,False,False,False,3,1508
+"### |||| بنو عمارة
+",000,False,000,False,False,False,4,39
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,59
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,68
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,46
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,24
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,52
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,62
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,72
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,23
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,43
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,21
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,41
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,39
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,14
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,26
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,47
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,23
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,46
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,40
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,17
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,44
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,37
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,46
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,22
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,47
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,42
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,49
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,41
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,75
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,40
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,61
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,23
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,49
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,37
+"### |||| بنو عمرو
+",000,False,000,False,False,False,4,38
+"### |||| بنو عمران
+",000,False,000,False,False,False,4,38
+"### |||| بنو عمران
+",000,False,000,False,False,False,4,35
+"### |||| بنو عمران
+",000,False,000,False,False,False,4,30
+"### |||| بنو عمليق
+",000,False,000,False,False,False,4,44
+"### |||| بنو عميت
+",000,False,000,False,False,False,4,33
+"### |||| بنو عمير
+",000,False,000,False,False,False,4,45
+"### |||| بنو عميرة
+",000,False,000,False,False,False,4,39
+"### ||| العين مع النون
+",000,False,000,False,False,False,3,222
+"### |||| بنو عناز
+",000,False,000,False,False,False,4,24
+"### |||| بنو عنز
+",000,False,000,False,False,False,4,27
+"### |||| بنو عنزة
+",000,False,000,False,False,False,4,83
+"### |||| بنو عنس - بسكون النون
+",000,False,000,False,False,False,4,80
+"### |||| بنو عنه
+",000,False,000,False,False,False,4,35
+"### ||| العين مع الواو
+",000,False,000,False,False,False,3,852
+"### |||| بنو عوالي
+",000,False,000,False,False,False,4,20
+"### |||| بنو عوينان
+",000,False,000,False,False,False,4,31
+"### |||| بنو عود
+",000,False,000,False,False,False,4,42
+"### |||| بنو عود
+",000,False,000,False,False,False,4,28
+"### |||| بنو عود
+",000,False,000,False,False,False,4,40
+"### |||| بنو عوص
+",000,False,000,False,False,False,4,65
+"### |||| بنوعوف
+",000,False,000,False,False,False,4,40
+"### |||| بنوعوف
+",000,False,000,False,False,False,4,16
+"### |||| بنوعوف
+",000,False,000,False,False,False,4,58
+"### |||| بنو عوف
+",000,False,000,False,False,False,4,30
+"### |||| بنو عوف
+",000,False,000,False,False,False,4,44
+"### |||| بنو عوف
+",000,False,000,False,False,False,4,50
+"### |||| بنو عوف
+",000,False,000,False,False,False,4,57
+"### |||| بنو عوف
+",000,False,000,False,False,False,4,64
+"### |||| بنو عوف
+",000,False,000,False,False,False,4,51
+"### |||| بنو عوف
+",000,False,000,False,False,False,4,33
+"### |||| بنو عوف
+",000,False,000,False,False,False,4,33
+"### |||| بنو عوف
+",000,False,000,False,False,False,4,38
+"### |||| بنو عوف
+",000,False,000,False,False,False,4,65
+"### |||| بنو عوف
+",000,False,000,False,False,False,4,26
+"### |||| بنو عوف
+",000,False,000,False,False,False,4,47
+"### |||| بنو عوف
+",000,False,000,False,False,False,4,30
+"### |||| بنو عوف
+",000,False,000,False,False,False,4,13
+"### |||| بنو عوف
+",000,False,000,False,False,False,4,64
+"### ||| العين مع اللام وألف
+",000,False,000,False,False,False,3,72
+"### |||| بنو علاف
+",000,False,000,False,False,False,4,70
+"### ||| العين مع الياء
+",000,False,000,False,False,False,3,128
+"### |||| بنو عياص
+",000,False,000,False,False,False,4,46
+"### |||| بنو عياص
+",000,False,000,False,False,False,4,33
+"### |||| بنو عيسى
+",000,False,000,False,False,False,4,20
+"### |||| بنو عيلان
+",000,False,000,False,False,False,4,51
+"### ||| الغين مع الالف
+",000,False,000,False,False,False,3,207
+"### |||| بنو غاضرة
+",000,False,000,False,False,False,4,47
+"### |||| بنو غافق
+",000,False,000,False,False,False,4,35
+"### |||| بنو غالب
+",000,False,000,False,False,False,4,57
+"### |||| بنو غالب
+",000,False,000,False,False,False,4,21
+"### |||| بنو غائد
+",000,False,000,False,False,False,4,78
+"### ||| الغين مع الراء
+",000,False,000,False,False,False,3,93
+"### |||| بنو غراب
+",000,False,000,False,False,False,4,61
+"### |||| بنو غرواسين
+",000,False,000,False,False,False,4,31
+"### ||| الغين مع الزاي
+",000,False,000,False,False,False,3,55
+"### |||| بنو غزية
+",000,False,000,False,False,False,4,64
+"### ||| الغين مع السين
+",000,False,000,False,False,False,3,52
+"### |||| بنو غسان
+",000,False,000,False,False,False,4,50
+"### ||| الغين مع الطاء
+",000,False,000,False,False,False,3,99
+"### |||| بنو غطفان
+",000,False,000,False,False,False,4,53
+"### |||| بنو غطيف
+",000,False,000,False,False,False,4,45
+"### ||| الغين مع الفاء
+",000,False,000,False,False,False,3,33
+"### |||| بنو غفار
+",000,False,000,False,False,False,4,31
+"### ||| الغين مع الميم
+",000,False,000,False,False,False,3,68
+"### |||| بنو غمارة
+",000,False,000,False,False,False,4,67
+"### ||| الغين مع النون
+",000,False,000,False,False,False,3,177
+"### |||| بنو غنم
+",000,False,000,False,False,False,4,58
+"### |||| بنو غنم
+",000,False,000,False,False,False,4,45
+"### |||| بنو غنم
+",000,False,000,False,False,False,4,60
+"### |||| بنو غني
+",000,False,000,False,False,False,4,43
+"### ||| الغين مع الواو
+",000,False,000,False,False,False,3,28
+"### |||| بنو غوث
+",000,False,000,False,False,False,4,30
+"### ||| الغين مع الياء
+",000,False,000,False,False,False,3,58
+"### |||| بنو غياث
+",000,False,000,False,False,False,4,23
+"### |||| بنو غيدان
+",000,False,000,False,False,False,4,38
+"### ||| الفاء مع الالف
+",000,False,000,False,False,False,3,172
+"### |||| بنو فادح
+",000,False,000,False,False,False,4,28
+"### |||| بنو فارج
+",000,False,000,False,False,False,4,61
+"### |||| بنو فارس الضحيا
+",000,False,000,False,False,False,4,47
+"### |||| بنو فتيان
+",000,False,000,False,False,False,4,53
+"### ||| الفاء مع الراء
+",000,False,000,False,False,False,3,102
+"### |||| بنو فراس
+",000,False,000,False,False,False,4,38
+"### |||| بنو فراس
+",000,False,000,False,False,False,4,29
+"### |||| بنو فراس
+",000,False,000,False,False,False,4,54
+"### ||| الفاء مع الزاي
+",000,False,000,False,False,False,3,89
+"### |||| بنو فزارة
+",000,False,000,False,False,False,4,92
+"### ||| الفاء مع الضاد
+",000,False,000,False,False,False,3,73
+"### |||| بنو فضالة
+",000,False,000,False,False,False,4,11
+"### |||| بنو فضالة طلحة
+",000,False,000,False,False,False,4,70
+"### ||| الفاء مع القاف
+",000,False,000,False,False,False,3,54
+"### |||| بنو فقعس
+",000,False,000,False,False,False,4,52
+"### ||| الفاء مع الهاء
+",000,False,000,False,False,False,3,298
+"### |||| بنو فهر
+",000,False,000,False,False,False,4,64
+"### |||| بنو فهم
+",000,False,000,False,False,False,4,31
+"### |||| بنو فهم
+",000,False,000,False,False,False,4,50
+"### |||| بنو فهم
+",000,False,000,False,False,False,4,183
+"### ||| الفاء مع الياء
+",000,False,000,False,False,False,3,22
+"### |||| بنو فيض
+",000,False,000,False,False,False,4,21
+"### ||| القاف مع الالف
+",000,False,000,False,False,False,3,44
+"### |||| بنو قاسط
+",000,False,000,False,False,False,4,54
+"### ||| القاف مع التاء
+",000,False,000,False,False,False,3,47
+"### |||| بنو قتيبة
+",000,False,000,False,False,False,4,45
+"### ||| القاف مع الحاء
+",000,False,000,False,False,False,3,137
+"### |||| بنو قحافة
+",000,False,000,False,False,False,4,61
+"### |||| بنو قحطان 
+",000,False,000,False,False,False,4,82
+"### ||| القاف مع الدال
+",000,False,000,False,False,False,3,41
+"### |||| بنو قدامة
+",000,False,000,False,False,False,4,43
+"### ||| القاف مع الراء
+",000,False,000,False,False,False,3,290
+"### |||| بنو قرن
+",000,False,000,False,False,False,4,21
+"### |||| بنو قرة
+",000,False,000,False,False,False,4,39
+"### |||| بنو قريش 
+",000,False,000,False,False,False,4,246
+"### ||| القاف مع السين
+",000,False,000,False,False,False,3,33
+"### |||| بنو قسميل
+",000,False,000,False,False,False,4,31
+"### ||| القاف مع الشين
+",000,False,000,False,False,False,3,40
+"### |||| بنو قشير
+",000,False,000,False,False,False,4,41
+"### ||| القاف مع الصاد
+",000,False,000,False,False,False,3,211
+"### |||| بنو قصي
+",000,False,000,False,False,False,4,213
+"### ||| القاف مع الضاد
+",000,False,000,False,False,False,3,127
+"### |||| بنو قضاعة 
+",000,False,000,False,False,False,4,130
+"### ||| القاف مع الطاء
+",000,False,000,False,False,False,3,162
+"### |||| بنو قطاب
+",000,False,000,False,False,False,4,22
+"### |||| بنو قطران
+",000,False,000,False,False,False,4,38
+"### |||| بنو قطورا
+",000,False,000,False,False,False,4,32
+"### |||| بنو قطوفة
+",000,False,000,False,False,False,4,34
+"### |||| بنو قطيعة
+",000,False,000,False,False,False,4,64
+"### ||| القاف مع العين
+",000,False,000,False,False,False,3,58
+"### |||| بنو قعين
+",000,False,000,False,False,False,4,64
+"### ||| القاف مع الفاء
+",000,False,000,False,False,False,3,33
+"### |||| بنو قفجر 
+",000,False,000,False,False,False,4,38
+"### ||| القاف مع الميم
+",000,False,000,False,False,False,3,83
+"### |||| بنو قمران
+",000,False,000,False,False,False,4,14
+"### |||| بنو قمعة
+",000,False,000,False,False,False,4,32
+"### |||| بنو قمير
+",000,False,000,False,False,False,4,43
+"### ||| القاف مع النون
+",000,False,000,False,False,False,3,64
+"### |||| بنو قنعة
+",000,False,000,False,False,False,4,67
+"### ||| القاف مع الواو
+",000,False,000,False,False,False,3,58
+"### |||| بنو قوقل
+",000,False,000,False,False,False,4,62
+"### ||| القاف مع الياء
+",000,False,000,False,False,False,3,163
+"### |||| بنو قيس
+",000,False,000,False,False,False,4,22
+"### |||| بنو قيس
+",000,False,000,False,False,False,4,50
+"### |||| بنو قيس
+",000,False,000,False,False,False,4,27
+"### |||| بنو قيس عيلان 
+",000,False,000,False,False,False,4,71
+"### |||| بنو قيلة
+",000,False,000,False,False,False,4,24
+"### ||| الكاف مع الالف
+",000,False,000,False,False,False,3,96
+"### |||| بنو كاهل
+",000,False,000,False,False,False,4,47
+"### |||| بنو كاهل
+",000,False,000,False,False,False,4,60
+"### ||| الكاف مع التاء
+",000,False,000,False,False,False,3,45
+"### |||| بنو كتامة
+",000,False,000,False,False,False,4,50
+"### ||| الكاف مع الراء
+",000,False,000,False,False,False,3,44
+"### |||| بنو كريب
+",000,False,000,False,False,False,4,22
+"### |||| بنو كريم
+",000,False,000,False,False,False,4,27
+"### ||| الكاف مع العين
+",000,False,000,False,False,False,3,216
+"### |||| بنو كعب
+",000,False,000,False,False,False,4,50
+"### |||| بنو كعب
+",000,False,000,False,False,False,4,17
+"### |||| بنو كعب
+",000,False,000,False,False,False,4,30
+"### |||| بنو كعب
+",000,False,000,False,False,False,4,16
+"### |||| بنو ms269 كعب
+",000,False,000,False,False,False,4,15
+"### |||| بنو كعب 
+",000,False,000,False,False,False,4,96
+"### ||| الكاف مع اللام
+",000,False,000,False,False,False,3,215
+"### |||| بنو كلاب
+",000,False,000,False,False,False,4,75
+"### |||| بنو كلب
+",000,False,000,False,False,False,4,45
+"### |||| بنو كلب
+",000,False,000,False,False,False,4,24
+"### |||| بنو كلب
+",000,False,000,False,False,False,4,20
+"### |||| بنو كلب
+",000,False,000,False,False,False,4,31
+"### |||| بنو كلدة
+",000,False,000,False,False,False,4,14
+"### |||| بنو كلفة
+",000,False,000,False,False,False,4,14
+"### |||| بنو كليب
+",000,False,000,False,False,False,4,40
+"### ||| الكاف مع النون
+",000,False,000,False,False,False,3,179
+"### |||| بنو كنانة
+",000,False,000,False,False,False,4,45
+"### |||| بنو كنانة
+",000,False,000,False,False,False,4,81
+"### |||| بنو كور
+",000,False,000,False,False,False,4,54
+"### |||| بنو كورة
+",000,False,000,False,False,False,4,17
+"### ||| حرف اللام
+",000,False,000,False,False,False,3,289
+"### |||| بنو لبيد
+",000,False,000,False,False,False,4,23
+"### |||| بنو لبيد
+",000,False,000,False,False,False,4,16
+"### |||| بنو الحيات
+",000,False,000,False,False,False,4,26
+"### |||| بنو لجيم
+",000,False,000,False,False,False,4,39
+"### |||| بنو لحي 
+",000,False,000,False,False,False,4,35
+"### |||| بنو لخم 
+",000,False,000,False,False,False,4,70
+"### |||| بنو ليث
+",000,False,000,False,False,False,4,14
+"### |||| بنو لف
+",000,False,000,False,False,False,4,19
+"### |||| بنو لواثة الله
+",000,False,000,False,False,False,4,78
+"### ||| الميم الف
+",000,False,000,False,False,False,3,314
+"### |||| بنو مازن
+",000,False,000,False,False,False,4,16
+"### |||| بنو مازن
+",000,False,000,False,False,False,4,24
+"### |||| بنو مازن
+",000,False,000,False,False,False,4,28
+"### |||| بنو مازن
+",000,False,000,False,False,False,4,18
+"### |||| بنو مالك
+",000,False,000,False,False,False,4,36
+"### |||| بنو مالك
+",000,False,000,False,False,False,4,29
+"### |||| بنو مالك
+",000,False,000,False,False,False,4,17
+"### |||| بنو مالك
+",000,False,000,False,False,False,4,18
+"### |||| بنو مالك
+",000,False,000,False,False,False,4,23
+"### |||| بنو مالك
+",000,False,000,False,False,False,4,20
+"### |||| بنو مالك
+",000,False,000,False,False,False,4,35
+"### |||| بنو مالك
+",000,False,000,False,False,False,4,36
+"### |||| بنو مالك 
+",000,False,000,False,False,False,4,29
+"### |||| بنو مالك
+",000,False,000,False,False,False,4,21
+"### |||| بنو مالك
+",000,False,000,False,False,False,4,23
+"### ||| الميم مع الجيم
+",000,False,000,False,False,False,3,25
+"### |||| بنو مجاشع
+",000,False,000,False,False,False,4,26
+"### ||| الميم مع الحاء
+",000,False,000,False,False,False,3,143
+"### |||| بنو محار
+",000,False,000,False,False,False,4,57
+"### |||| بنو محمد
+",000,False,000,False,False,False,4,54
+"### |||| بنو محرق 
+",000,False,000,False,False,False,4,44
+"### |||| بنو محرمة
+",000,False,000,False,False,False,4,20
+"### ||| الميم مع الخاء
+",000,False,000,False,False,False,3,55
+"### |||| بنو مخزوم
+",000,False,000,False,False,False,4,58
+"### ||| الميم مع الدال
+",000,False,000,False,False,False,3,127
+"### |||| بنو مدلج
+",000,False,000,False,False,False,4,39
+"### ||| الميم مع ms274 الذال
+",000,False,000,False,False,False,3,36
+"### ||| الميم مع الراء
+",000,False,000,False,False,False,3,463
+"### |||| بنو مرثد
+",000,False,000,False,False,False,4,54
+"### |||| بنو مران
+",000,False,000,False,False,False,4,29
+"### |||| بنو مر
+",000,False,000,False,False,False,4,33
+"### |||| بنو مرا
+",000,False,000,False,False,False,4,33
+"### |||| بنو مراد
+",000,False,000,False,False,False,4,58
+"### |||| بنو مرادس
+",000,False,000,False,False,False,4,28
+"### |||| بنو مراديس
+",000,False,000,False,False,False,4,54
+"### |||| بنو مراديس
+",000,False,000,False,False,False,4,50
+"### |||| بنو مرة
+",000,False,000,False,False,False,4,50
+"### |||| بنو مرة
+",000,False,000,False,False,False,4,62
+"### |||| بنو مرة
+",000,False,000,False,False,False,4,54
+"### |||| بنو مرين
+",000,False,000,False,False,False,4,35
+"### ||| الميم مع الزاي
+",000,False,000,False,False,False,3,175
+"### |||| بنو مزاتة
+",000,False,000,False,False,False,4,55
+"### |||| بنو مزيد
+",000,False,000,False,False,False,4,52
+"### |||| بنو مزينة
+",000,False,000,False,False,False,4,75
+"### ||| الميم مع السين
+",000,False,000,False,False,False,3,98
+"### |||| بنو مسعود
+",000,False,000,False,False,False,4,30
+"### |||| بنو مسلم
+",000,False,000,False,False,False,4,20
+"### |||| بنو مسلمة
+",000,False,000,False,False,False,4,33
+"### |||| بنو مسند
+",000,False,000,False,False,False,4,13
+"### |||| بنو مسهر
+",000,False,000,False,False,False,4,22
+"### ||| الميم مع الشين المعجمة
+",000,False,000,False,False,False,3,181
+"### |||| بنو مشجعة
+",000,False,000,False,False,False,4,34
+"### |||| بنو مصعب
+",000,False,000,False,False,False,4,48
+"### |||| بنو مصفوفة
+",000,False,000,False,False,False,4,35
+"### |||| بنو مصلح
+",000,False,000,False,False,False,4,13
+"### |||| بنو مصلة
+",000,False,000,False,False,False,4,28
+"### |||| بنو المصلى 
+",000,False,000,False,False,False,4,16
+"### |||| بنو مصمودة
+",000,False,000,False,False,False,4,39
+"### ||| الميم مع الضاد
+",000,False,000,False,False,False,3,91
+"### |||| بنو مضر 
+",000,False,000,False,False,False,4,89
+"### ||| الميم مع الطاء
+",000,False,000,False,False,False,3,60
+"### |||| بنو مطر
+",000,False,000,False,False,False,4,25
+"### |||| بنو مطرود
+",000,False,000,False,False,False,4,43
+"### ||| الميم مع العين
+",000,False,000,False,False,False,3,185
+"### |||| بنو معاد
+",000,False,000,False,False,False,4,20
+"### |||| بنو معافر
+",000,False,000,False,False,False,4,46
+"### |||| بنو معاوية
+",000,False,000,False,False,False,4,40
+"### |||| بنو معاوية الاكرمين
+",000,False,000,False,False,False,4,37
+"### |||| بنو معتب
+",000,False,000,False,False,False,4,24
+"### |||| بنو معد
+",000,False,000,False,False,False,4,38
+"### ||| الميم مع الغين
+",000,False,000,False,False,False,3,44
+"### |||| بنو مغيلة
+",000,False,000,False,False,False,4,49
+"### ||| الميم مع الفاء
+",000,False,000,False,False,False,3,53
+"### |||| بنو مفرج
+",000,False,000,False,False,False,4,56
+"### ||| الميم مع القاف
+",000,False,000,False,False,False,3,136
+"### |||| بنو مقدام
+",000,False,000,False,False,False,4,39
+"### |||| بنو مقري
+",000,False,000,False,False,False,4,54
+"### |||| بنو مقطع
+",000,False,000,False,False,False,4,60
+"### ||| الميم مع اللام
+",000,False,000,False,False,False,3,60
+"### |||| بنو ملكان
+",000,False,000,False,False,False,4,35
+"### |||| بنو مليح
+",000,False,000,False,False,False,4,38
+"### ||| الميم مع النون
+",000,False,000,False,False,False,3,140
+"### |||| بنو منبه
+",000,False,000,False,False,False,4,27
+"### |||| بنو منقذ
+",000,False,000,False,False,False,4,26
+"### |||| بنو منقر
+",000,False,000,False,False,False,4,51
+"### |||| بنو منهب
+",000,False,000,False,False,False,4,51
+"### ||| الميم مع الهاء
+",000,False,000,False,False,False,3,101
+"### |||| بنو مهدي
+",000,False,000,False,False,False,4,28
+"### |||| بنو مهدي
+",000,False,000,False,False,False,4,71
+"### ||| الميم مع الواو
+",000,False,000,False,False,False,3,27
+"### |||| بنو موسى
+",000,False,000,False,False,False,4,29
+"### ||| الميم مع الياء
+",000,False,000,False,False,False,3,81
+"### |||| بنو ميتم
+",000,False,000,False,False,False,4,80
+"### ||| النون مع الالف
+",000,False,000,False,False,False,3,140
+"### |||| بنو ناب
+",000,False,000,False,False,False,4,26
+"### |||| بنو ناثل 
+",000,False,000,False,False,False,4,54
+"### |||| بنو ناجية
+",000,False,000,False,False,False,4,42
+"### |||| بنو نبهان
+",000,False,000,False,False,False,4,39
+"### ||| النون مع الزاي
+",000,False,000,False,False,False,3,192
+"### |||| بنو نزار
+",000,False,000,False,False,False,4,127
+"### |||| بنو نزار
+",000,False,000,False,False,False,4,57
+"### |||| بنو نزار
+",000,False,000,False,False,False,4,35
+"### ||| النون مع الصاد
+",000,False,000,False,False,False,3,167
+"### |||| بنو نصر
+",000,False,000,False,False,False,4,57
+"### |||| بنو نصر
+",000,False,000,False,False,False,4,82
+"### |||| بنو نصر
+",000,False,000,False,False,False,4,50
+"### ||| النون مع الضاد
+",000,False,000,False,False,False,3,70
+"### |||| بنو نضارة
+",000,False,000,False,False,False,4,31
+"### |||| بنو نضيلة
+",000,False,000,False,False,False,4,49
+"### ||| النون مع الفاء
+",000,False,000,False,False,False,3,50
+"### |||| بنو نفر
+",000,False,000,False,False,False,4,22
+"### |||| بنو نفراوه 
+",000,False,000,False,False,False,4,38
+"### ||| النون مع القاف
+",000,False,000,False,False,False,3,57
+"### |||| بنو نقر
+",000,False,000,False,False,False,4,59
+"### ||| النون مع الميم
+",000,False,000,False,False,False,3,143
+"### |||| بنو نمر
+",000,False,000,False,False,False,4,57
+"### |||| بنو نميرة
+",000,False,000,False,False,False,4,49
+"### |||| بنو نمير
+",000,False,000,False,False,False,4,43
+"### ||| النون مع الهاء
+",000,False,000,False,False,False,3,89
+"### |||| بنو نهد
+",000,False,000,False,False,False,4,73
+"### |||| بنو نهشل
+",000,False,000,False,False,False,4,23
+"### ||| النون مع الواو
+",000,False,000,False,False,False,3,74
+"### |||| بنو نوفل
+",000,False,000,False,False,False,4,17
+"### |||| بنو نوفل
+",000,False,000,False,False,False,4,58
+"### ||| الهاء مع الالف
+",000,False,000,False,False,False,3,197
+"### |||| بنو هاشم
+",000,False,000,False,False,False,4,94
+"### |||| بنو هذيل
+",000,False,000,False,False,False,4,63
+"### |||| بنو هذيم
+",000,False,000,False,False,False,4,58
+"### ||| الهاء مع الراء
+",000,False,000,False,False,False,3,34
+"### |||| بنو هرم
+",000,False,000,False,False,False,4,15
+"### |||| بنو هرماس
+",000,False,000,False,False,False,4,19
+"### ||| الهاء مع الزاي
+",000,False,000,False,False,False,3,22
+"### |||| بنو هزان
+",000,False,000,False,False,False,4,22
+"### ||| الهاء مع السين
+",000,False,000,False,False,False,3,52
+"### |||| بنو هسلورة
+",000,False,000,False,False,False,4,20
+"### |||| بنو هصيص
+",000,False,000,False,False,False,4,33
+"### ||| الهاء مع الفاء
+",000,False,000,False,False,False,3,45
+"### |||| بنو هفان
+",000,False,000,False,False,False,4,43
+"### ||| الهاء مع اللام
+",000,False,000,False,False,False,3,181
+"### ||| الهاء مع الميم
+",000,False,000,False,False,False,3,148
+"### |||| بنو همام
+",000,False,000,False,False,False,4,33
+"### |||| بنو همدان 
+",000,False,000,False,False,False,4,120
+"### ||| الهاء مع النون
+",000,False,000,False,False,False,3,287
+"### |||| بنو هنات
+",000,False,000,False,False,False,4,71
+"### |||| بنو هنب
+",000,False,000,False,False,False,4,54
+"### |||| بنو هند
+",000,False,000,False,False,False,4,38
+"### |||| بنو هند
+",000,False,000,False,False,False,4,48
+"### |||| بنو هند
+",000,False,000,False,False,False,4,50
+"### |||| بنو هنيء
+",000,False,000,False,False,False,4,23
+"### |||| بنو هني
+",000,False,000,False,False,False,4,31
+"### ||| الهاء مع الواو
+",000,False,000,False,False,False,3,396
+"### |||| بنو هوارة
+",000,False,000,False,False,False,4,244
+"### |||| بنو هوزان
+",000,False,000,False,False,False,4,52
+"### |||| بنو هوزان
+",000,False,000,False,False,False,4,42
+"### |||| بنو هوبر
+",000,False,000,False,False,False,4,31
+"### |||| بنو هود
+",000,False,000,False,False,False,4,57
+"### ||| الهاء مع اللام
+",000,False,000,False,False,False,3,151
+"### |||| بنو هلال
+",000,False,000,False,False,False,4,44
+"### |||| بنو هلال
+",000,False,000,False,False,False,4,115
+"### ||| الهاء مع الياء
+",000,False,000,False,False,False,3,73
+"### |||| بنو هيب
+",000,False,000,False,False,False,4,59
+"### |||| بنو هيلان 
+",000,False,000,False,False,False,4,23
+"### ||| الواو مع الألف
+",000,False,000,False,False,False,3,371
+"### |||| بنو وايش
+",000,False,000,False,False,False,4,45
+"### |||| بنو واصل
+",000,False,000,False,False,False,4,24
+"### |||| بنو واقف
+",000,False,000,False,False,False,4,41
+"### |||| بنو والبة
+",000,False,000,False,False,False,4,42
+"### |||| بنو واهلة
+",000,False,000,False,False,False,4,26
+"### |||| بنو وائل
+",000,False,000,False,False,False,4,48
+"### |||| بنو وائل
+",000,False,000,False,False,False,4,26
+"### |||| بنو وائل
+",000,False,000,False,False,False,4,67
+"### |||| بنو وائل
+",000,False,000,False,False,False,4,57
+"### |||| بنو واهلة
+",000,False,000,False,False,False,4,55
+"### ||| الواو مع الباء
+",000,False,000,False,False,False,3,189
+"### |||| بنو وبارة
+",000,False,000,False,False,False,4,42
+"### |||| بنو وهليل
+",000,False,000,False,False,False,4,47
+"### |||| بنو وهران
+",000,False,000,False,False,False,4,14
+"### |||| بنو وهم
+",000,False,000,False,False,False,4,19
+"### |||| بنو وهم
+",000,False,000,False,False,False,4,92
+"### ||| الياء مع الالف
+",000,False,000,False,False,False,3,81
+"### |||| بنو يام
+",000,False,000,False,False,False,4,31
+"### |||| بنو يام
+",000,False,000,False,False,False,4,57
+"### ||| الياء مع الحاء
+",000,False,000,False,False,False,3,97
+"### |||| بنو يحصب
+",000,False,000,False,False,False,4,57
+"### |||| بنو يحمد
+",000,False,000,False,False,False,4,20
+"### |||| بنو يحيى
+",000,False,000,False,False,False,4,42
+"### ||| الياء مع الذال المعجمة
+",000,False,000,False,False,False,3,24
+"### |||| بنو يذكر
+",000,False,000,False,False,False,4,29
+"### ||| الياء مع الراء
+",000,False,000,False,False,False,3,82
+"### |||| بنو يربوع
+",000,False,000,False,False,False,4,47
+"### |||| بنو يربوع
+",000,False,000,False,False,False,4,49
+"### ||| الياء مع الزاي
+",000,False,000,False,False,False,3,56
+"### |||| بنو يزيد
+",000,False,000,False,False,False,4,54
+"### ||| الياء مع الشين
+",000,False,000,False,False,False,3,60
+"### |||| بنو يشكر
+",000,False,000,False,False,False,4,30
+"### |||| بنو يشكر
+",000,False,000,False,False,False,4,28
+"### ||| اليباء مع العين
+",000,False,000,False,False,False,3,68
+"### |||| بنو يعمر
+",000,False,000,False,False,False,4,69
+"### ||| الياء مع القاف
+",000,False,000,False,False,False,3,56
+"### |||| بنو يقطن 
+",000,False,000,False,False,False,4,23
+"### |||| بنو يقطفة
+",000,False,000,False,False,False,4,31
+"### | الباب الثالث
+",000,False,000,False,False,False,1,6307
+"### || خاتمة
+",000,False,000,False,False,False,2,6312
+"### ||| الفصل الأول في معرفة ديانات العرب
+",000,False,000,False,False,False,3,272
+"### ||| الفصل الثاني في ذكر أمور من المفاخر
+",000,False,000,False,False,False,3,554
+"### ||| الفصل الثالث في ذكر حروب وأيام العرب في الجاهلية ومبادء الاسلام
+",000,False,000,False,False,False,3,3704
+"### ||| الفصل الرابع في ذكر نيران العرب في الجاهلية وهي ثلاث عشرة نارا
+",000,False,000,False,False,False,3,1780

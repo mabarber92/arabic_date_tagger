@@ -1,0 +1,145 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | خطبة المؤلف
+",000,False,000,False,False,False,1,222
+"### | القسم الأول ذكر المحاسن
+",000,False,000,False,False,False,1,4100
+"### || تحسين المتعلم والتعليم
+",000,False,000,False,False,False,2,121
+"### || تحسين ما يتطير منه
+",000,False,000,False,False,False,2,262
+"### || تحسين المقابح بالكنايات
+",000,False,000,False,False,False,2,261
+"### || تحسين الكذب
+",000,False,000,False,False,False,2,132
+"### || تحسين الوقاحة
+",000,False,000,False,False,False,2,20
+"### || تحسين الإثم والترخيص في الذنوب
+",000,False,000,False,False,False,2,92
+"### || تحسين الفقر
+",000,False,000,False,False,False,2,91
+"### || تحسين الدين
+",000,False,000,False,False,False,2,171
+"### || تحسين الحبس
+",000,False,000,False,False,False,2,112
+"### || تحسين الأيمان الكاذبة
+",000,False,000,False,False,False,2,49
+"### || تحسين أمر الرقيب
+",000,False,000,False,False,False,2,48
+"### || تحسين أمر الثقيل
+",000,False,000,False,False,False,2,58
+"### || تحسين أمر الطفيلي
+",000,False,000,False,False,False,2,58
+"### || تحسين الحقد
+",000,False,000,False,False,False,2,122
+"### || تحسين العمى
+",000,False,000,False,False,False,2,152
+"### || تحسين الوحدة
+",000,False,000,False,False,False,2,78
+"### || تحسين البخل
+",000,False,000,False,False,False,2,226
+"### || تحسين قول لا
+",000,False,000,False,False,False,2,62
+"### || تحسين أمر الغوغاء والسفل
+",000,False,000,False,False,False,2,78
+"### || تحسين البله
+",000,False,000,False,False,False,2,32
+"### || تحسين الملال
+",000,False,000,False,False,False,2,105
+"### || تحسين الحجاب
+",000,False,000,False,False,False,2,58
+"### || تحسين العزل
+",000,False,000,False,False,False,2,94
+"### || تحسين الفراق
+",000,False,000,False,False,False,2,142
+"### || تحسين الجبن والفرار
+",000,False,000,False,False,False,2,163
+"### || تحسين أمر البنات
+",000,False,000,False,False,False,2,295
+"### || تحسين التحاء الغلام
+",000,False,000,False,False,False,2,79
+"### || تحسين سواد اللون 
+",000,False,000,False,False,False,2,365
+"### || تحسين الشيب
+",000,False,000,False,False,False,2,294
+"### || تحسين المرض
+",000,False,000,False,False,False,2,135
+"### || تحسين الموت
+",000,False,000,False,False,False,2,287
+"### | القسم الثاني ذكر المقابح
+",000,False,000,False,False,False,1,4486
+"### || تقبيح العقل
+",000,False,000,False,False,False,2,125
+"### || تقبيح العلم
+",000,False,000,False,False,False,2,203
+"### || تقبيح الأدب
+",000,False,000,False,False,False,2,194
+"### || تقبيح الكتب والدفاتر
+",000,False,000,False,False,False,2,256
+"### || تقبيح الخط والقلم
+",000,False,000,False,False,False,2,198
+"### || تقبيح الوزارة
+",000,False,000,False,False,False,2,267
+"### || تقبيح عمل السلطان وخدمته
+",000,False,000,False,False,False,2,271
+"### || تقبيح عمل البريد
+",000,False,000,False,False,False,2,70
+"### || تقبيح التجارب
+",000,False,000,False,False,False,2,36
+"### || تقبيح الذهب
+",000,False,000,False,False,False,2,54
+"### || تقبيح الغنى والمال
+",000,False,000,False,False,False,2,87
+"### || تقبيح المشورة
+",000,False,000,False,False,False,2,59
+"### || تقبيح التأني
+",000,False,000,False,False,False,2,133
+"### || تقبيح الصبر
+",000,False,000,False,False,False,2,74
+"### || تقبيح الحلم
+",000,False,000,False,False,False,2,86
+"### || تقبيح الشجاعة
+",000,False,000,False,False,False,2,55
+"### || تقبيح الحياء
+",000,False,000,False,False,False,2,77
+"### || تقبيح الزهد
+",000,False,000,False,False,False,2,30
+"### || تقبيح الجود
+",000,False,000,False,False,False,2,47
+"### || تقبيح القناعة
+",000,False,000,False,False,False,2,67
+"### || تقبيح الدور والأبنية
+",000,False,000,False,False,False,2,68
+"### || تقبيح الحمام
+",000,False,000,False,False,False,2,32
+"### || تقبيح الشباب
+",000,False,000,False,False,False,2,87
+"### || تقبيح الأصدقاء والأخوان
+",000,False,000,False,False,False,2,225
+"### || تقبيح ms25 الولد
+",000,False,000,False,False,False,2,250
+"### || تقبيح المماليك
+",000,False,000,False,False,False,2,107
+"### || تقبيح الخصيان
+",000,False,000,False,False,False,2,79
+"### || تقبيح الضياع
+",000,False,000,False,False,False,2,149
+"### || تقبيح المطر
+",000,False,000,False,False,False,2,94
+"### || تقبيح الورد
+",000,False,000,False,False,False,2,79
+"### || تقبيح النرجس
+",000,False,000,False,False,False,2,172
+"### || تقبيح البنفسج
+",000,False,000,False,False,False,2,98
+"### || تقبيح الكافور وماء الورد والبخور
+",000,False,000,False,False,False,2,141
+"### || تقبيح القمر
+",000,False,000,False,False,False,2,121
+"### || تقبيح الشراب
+",000,False,000,False,False,False,2,149
+"### || تقبيح الغناء والسماع
+",000,False,000,False,False,False,2,128
+"### || تقبيح الهدية
+",000,False,000,False,False,False,2,94
+"### || تقبيح الشكر إلا لله عز وجل
+",000,False,000,False,False,False,2,207

@@ -1,0 +1,27 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK [الغلاف]
+",000,False,000,False,False,False,1,80
+"### | AUTO (رواية الكتاب)
+",000,False,000,False,False,False,1,201
+"### | AUTO (المقدمة)
+",000,False,000,False,False,False,1,75
+"### | AUTO أما بعد:
+",000,False,000,False,False,False,1,135
+"### | AUTO [1] باب من فقهه الله في .. .. ..
+",000,False,000,False,False,False,1,1025
+"### | AUTO [2] باب فرض طلب العلم على المسلم
+",000,False,000,False,False,False,1,759
+"### | AUTO (الرحلة في طلب العلم)
+",000,False,000,False,False,False,1,94
+"### | AUTO (العلم الذي يعذر الإنسان بجهله)
+",000,False,000,False,False,False,1,334
+"### | AUTO [3] باب فضل طلب العلم لله عز وجل
+",000,False,000,False,False,False,1,1176
+"### | AUTO [4] باب فضل مجالسة العلماء
+",000,False,000,False,False,False,1,1081
+"### | AUTO [5] باب: ذكر تواضع العالم والمتعلم
+",000,False,000,False,False,False,1,601
+"### | AUTO [6] باب: .. .. ..
+",000,False,000,False,False,False,1,1224
+"### | AUTO [7] باب: أي العلم أولى لإنسان أن يتعلمه
+",000,False,000,False,False,False,1,869

@@ -1,0 +1,23 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO الحروف المقصورة
+",000,False,000,False,False,False,1,166
+"### || AUTO مما يكتب بالياء
+",000,False,000,False,False,False,2,123
+"### || AUTO ومما يكتب بالألف
+",000,False,000,False,False,False,2,40
+"### | AUTO أسماء ممدودة
+",000,False,000,False,False,False,1,440
+"### || AUTO فمن الممدود على ألفاظها
+",000,False,000,False,False,False,2,59
+"### || AUTO ومن المقصور على ألفاظها
+",000,False,000,False,False,False,2,72
+"### || AUTO حروف المد المستعمل المخفوض الأول
+",000,False,000,False,False,False,2,147
+"### || AUTO ومن الممدود المفتوح الأول
+",000,False,000,False,False,False,2,103
+"### || AUTO الممدود المضموم الأول
+",000,False,000,False,False,False,2,51
+"### | AUTO ما يمد ويقصر، فإذا قصر كتب بالياء
+",000,False,000,False,False,False,1,48
+"### | AUTO ما يقصر، فإذا غير بعض حركات بنائه مد
+",000,False,000,False,False,False,1,128

@@ -1,0 +1,157 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | مقدمة المؤلف
+",000,False,000,False,False,False,1,9252
+"### | باب الاستعاذة
+",000,False,000,False,False,False,1,571
+"### | باب البسملة
+",000,False,000,False,False,False,1,2072
+"### | باب الإدغام الكبير
+",000,False,000,False,False,False,1,2076
+"### | باب إدغام الحرفين المتقاربين في كلمة وفي كلمتين
+",000,False,000,False,False,False,1,3157
+"### | باب هاء الكناية
+",000,False,000,False,False,False,1,1538
+"### | باب المد ms066 والقصر
+",000,False,000,False,False,False,1,3036
+"### | باب الهمزتين من كلمة
+",000,False,000,False,False,False,1,2570
+"### | باب الهمزتين من كلمتين
+",000,False,000,False,False,False,1,1905
+"### | باب الهمز المفرد
+",000,False,000,False,False,False,1,1553
+"### | باب نقل حركة الهمزة إلى الساكن قبلها
+",000,False,000,False,False,False,1,1513
+"### | باب وقف حمزة وهشام على الهمز
+",000,False,000,False,False,False,1,3385
+"### | باب الإظهار والإدغام
+",000,False,000,False,False,False,1,516
+"### | ذكر ذال إذ
+",000,False,000,False,False,False,1,417
+"### | ذكر دال قد
+",000,False,000,False,False,False,1,616
+"### | ذكر تاء التأنيث
+",000,False,000,False,False,False,1,487
+"### | ذكر لام هل وبل
+",000,False,000,False,False,False,1,613
+"### | باب اتفاقهم في إدغام إذ وقد وتاء التأنيث وهل وبل
+",000,False,000,False,False,False,1,370
+"### | باب حروف قربت مخارجها
+",000,False,000,False,False,False,1,967
+"### | باب أحكام النون الساكنة والتنوين
+",000,False,000,False,False,False,1,679
+"### | باب الفتح والإمالة وبين اللفظين
+",000,False,000,False,False,False,1,4945
+"### | باب مذهب الكسائي في إمالة هاء التأنيث في الوقف
+",000,False,000,False,False,False,1,516
+"### | باب الراءات
+",000,False,000,False,False,False,1,1268
+"### | باب اللامات
+",000,False,000,False,False,False,1,580
+"### | باب الوقف على أواخر الكلم
+",000,False,000,False,False,False,1,1013
+"### | باب الوقف على مرسوم الخط
+",000,False,000,False,False,False,1,2265
+"### | باب مذاهبهم في ياءات الإضافة
+",000,False,000,False,False,False,1,3749
+"### | باب مذاهبهم في ياءات الزوائد
+",000,False,000,False,False,False,1,3096
+"### | باب فرش الحروف
+",000,False,000,False,False,False,1,6
+"### | سورة البقرة
+",000,False,000,False,False,False,1,9815
+"### | سورة آل عمران
+",000,False,000,False,False,False,1,3998
+"### | سورة النساء
+",000,False,000,False,False,False,1,2462
+"### | سورة المائدة
+",000,False,000,False,False,False,1,1672
+"### | سورة الأنعام
+",000,False,000,False,False,False,1,4509
+"### | سورة الأعراف
+",000,False,000,False,False,False,1,3083
+"### | سورة الأنفال
+",000,False,000,False,False,False,1,971
+"### | سورة التوبة
+",000,False,000,False,False,False,1,866
+"### | سورة يونس
+",000,False,000,False,False,False,1,1647
+"### | سورة هود ms292 عليه السلام
+",000,False,000,False,False,False,1,1590
+"### | سورة يوسف عليه السلام
+",000,False,000,False,False,False,1,1529
+"### | سورة الرعد
+",000,False,000,False,False,False,1,1016
+"### | سورة إبراهيم عليه السلام
+",000,False,000,False,False,False,1,605
+"### | سورة الحجر
+",000,False,000,False,False,False,1,466
+"### | سورة النحل
+",000,False,000,False,False,False,1,700
+"### | سورة الإسراء
+",000,False,000,False,False,False,1,1137
+"### | سورة الكهف
+",000,False,000,False,False,False,1,1918
+"### | سورة مريم عليها السلام
+",000,False,000,False,False,False,1,830
+"### | سورة طه عليه السلام
+",000,False,000,False,False,False,1,1164
+"### | سورة الأنبياء عليهم الصلاة والسلام
+",000,False,000,False,False,False,1,476
+"### | سورة الحج
+",000,False,000,False,False,False,1,759
+"### | سورة المؤمنون
+",000,False,000,False,False,False,1,685
+"### | سورة النور
+",000,False,000,False,False,False,1,697
+"### | سورة الفرقان
+",000,False,000,False,False,False,1,543
+"### | سورة الشعراء
+",000,False,000,False,False,False,1,374
+"### | سورة النمل
+",000,False,000,False,False,False,1,1041
+"### | سورة القصص
+",000,False,000,False,False,False,1,567
+"### | سورة العنكبوت
+",000,False,000,False,False,False,1,462
+"### | ومن سورة الروم إلى سورة سبأ
+",000,False,000,False,False,False,1,1532
+"### | سورة سبأ وفاطر
+",000,False,000,False,False,False,1,780
+"### | سورة يس عليه السلام
+",000,False,000,False,False,False,1,497
+"### | سورة الصافات
+",000,False,000,False,False,False,1,545
+"### | سورة ص
+",000,False,000,False,False,False,1,339
+"### | سورة الزمر
+",000,False,000,False,False,False,1,356
+"### | سورة المؤمن
+",000,False,000,False,False,False,1,386
+"### | سورة فصلت
+",000,False,000,False,False,False,1,220
+"### | سورة الشورى والزخرف والدخان
+",000,False,000,False,False,False,1,930
+"### | سورة الشريعة والأحقاف
+",000,False,000,False,False,False,1,531
+"### | ومن سورة محمد صلى الله عليه وسلم إلى 
+",000,False,000,False,False,False,1,16
+"### | سورة الرحمن عز وجل
+",000,False,000,False,False,False,1,1083
+"### | سورة الرحمن عز وجل
+",000,False,000,False,False,False,1,512
+"### | سورة الواقعة والحديد
+",000,False,000,False,False,False,1,458
+"### | ومن سورة المجادلة إلى سورة ن
+",000,False,000,False,False,False,1,1068
+"### | ومن سورة ن إلى سورة القيامة
+",000,False,000,False,False,False,1,1119
+"### | ومن سورة القيامة إلى سورة النبأ
+",000,False,000,False,False,False,1,690
+"### | ومن سورة النبأ إلى سورة العلق
+",000,False,000,False,False,False,1,1368
+"### | ومن سورة العلق إلى آخر القرآن
+",000,False,000,False,False,False,1,575
+"### | باب التكبير
+",000,False,000,False,False,False,1,1358
+"### | باب مخارج الحروف وصفاتها التي يحتاج القارئ إليها
+",000,False,000,False,False,False,1,2877

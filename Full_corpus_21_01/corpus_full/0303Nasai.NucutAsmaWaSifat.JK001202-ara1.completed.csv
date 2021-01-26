@@ -1,0 +1,321 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | 
+",000,False,000,False,False,False,1,22
+"### | 1- ذكر أسماء الله تبارك وتعالى
+",000,False,000,False,False,False,1,90
+"### || 1\1 -
+",000,False,000,False,False,False,2,85
+"### | 2- بسم الله وبالله
+",000,False,000,False,False,False,1,231
+"### || 2\1 -
+",000,False,000,False,False,False,2,49
+"### || 3\2 -
+",000,False,000,False,False,False,2,58
+"### || 4\3 -
+",000,False,000,False,False,False,2,49
+"### || 5\4 -
+",000,False,000,False,False,False,2,44
+"### || 6\5 -
+",000,False,000,False,False,False,2,32
+"### | 3- الله الواحد الأحد الصمد @QB@ لم يلد ولم يولد ولم يكن له كفوا أحد @QE@
+",000,False,000,False,False,False,1,233
+"### || 7\1 -
+",000,False,000,False,False,False,2,77
+"### || 8\2 -
+",000,False,000,False,False,False,2,57
+"### || 9\3 -
+",000,False,000,False,False,False,2,88
+"### | 4- قوله جل ثناؤه @QB@ الأول والآخر والظاهر والباطن @QE@
+",000,False,000,False,False,False,1,192
+"### || 10\1 -
+",000,False,000,False,False,False,2,82
+"### || 11\2 -
+",000,False,000,False,False,False,2,104
+"### | 5- الرحيم
+",000,False,000,False,False,False,1,75
+"### || 12\1 -
+",000,False,000,False,False,False,2,74
+"### | 6- الحميد المجيد
+",000,False,000,False,False,False,1,142
+"### || 13\1 -
+",000,False,000,False,False,False,2,62
+"### || 14\2 -
+",000,False,000,False,False,False,2,79
+"### | 7- الحليم الكريم
+",000,False,000,False,False,False,1,64
+"### || 15\1 -
+",000,False,000,False,False,False,2,62
+"### | 8- العظيم الحليم
+",000,False,000,False,False,False,1,125
+"### || 16\1 -
+",000,False,000,False,False,False,2,66
+"### || 17\2 -
+",000,False,000,False,False,False,2,58
+"### | 9- الأعلى
+",000,False,000,False,False,False,1,53
+"### || 18\1 -
+",000,False,000,False,False,False,2,52
+"### | 10- العلي العظيم
+",000,False,000,False,False,False,1,139
+"### || 19\2 -
+",000,False,000,False,False,False,2,63
+"### || 20\3 -
+",000,False,000,False,False,False,2,75
+"### | 11- السميع القريب
+",000,False,000,False,False,False,1,81
+"### || 21\1 -
+",000,False,000,False,False,False,2,79
+"### | 12- السميع العليم
+",000,False,000,False,False,False,1,179
+"### || 22\1 -
+",000,False,000,False,False,False,2,91
+"### || 23\2 -
+",000,False,000,False,False,False,2,87
+"### | 13- الحي القيوم
+",000,False,000,False,False,False,1,65
+"### || 24\1 -
+",000,False,000,False,False,False,2,63
+"### | 14- الحي
+",000,False,000,False,False,False,1,68
+"### | 15- اللطيف الخبير ms06
+",000,False,000,False,False,False,1,206
+"### || 27\1 -
+",000,False,000,False,False,False,2,79
+"### || 28\1 -
+",000,False,000,False,False,False,2,40
+"### || 29\1 -
+",000,False,000,False,False,False,2,88
+"### | 17- العزيز الغفار
+",000,False,000,False,False,False,1,49
+"### || 30\1 -
+",000,False,000,False,False,False,2,47
+"### | 18- الجبار
+",000,False,000,False,False,False,1,143
+"### || 31\1 -
+",000,False,000,False,False,False,2,85
+"### || 32\1 -
+",000,False,000,False,False,False,2,58
+"### | 19- الرب
+",000,False,000,False,False,False,1,66
+"### || 33\1 -
+",000,False,000,False,False,False,2,65
+"### | 20- الملك
+",000,False,000,False,False,False,1,70
+"### || 34\1 -
+",000,False,000,False,False,False,2,69
+"### | 21- المليك
+",000,False,000,False,False,False,1,99
+"### || 35\1 -
+",000,False,000,False,False,False,2,32
+"### || 36\2 -
+",000,False,000,False,False,False,2,67
+"### | 22- العزيز
+",000,False,000,False,False,False,1,91
+"### | 23- المتكبر
+",000,False,000,False,False,False,1,90
+"### || 38\1 -
+",000,False,000,False,False,False,2,89
+"### | 24- الخالق
+",000,False,000,False,False,False,1,141
+"### || 39\1 -
+",000,False,000,False,False,False,2,56
+"### || 40\2 -
+",000,False,000,False,False,False,2,85
+"### | 25- فاطر السماوات والأرض
+",000,False,000,False,False,False,1,69
+"### || 41\1 -
+",000,False,000,False,False,False,2,66
+"### | 26- السلام
+",000,False,000,False,False,False,1,68
+"### || 42\1 -
+",000,False,000,False,False,False,2,67
+"### | 27- المنان
+",000,False,000,False,False,False,1,86
+"### || 43\1 -
+",000,False,000,False,False,False,2,85
+"### | 28- الرفيق
+",000,False,000,False,False,False,1,42
+"### || 44\1 -
+",000,False,000,False,False,False,2,41
+"### | 29- الحق
+",000,False,000,False,False,False,1,108
+"### || 45\1 -
+",000,False,000,False,False,False,2,107
+"### | 30النور
+",000,False,000,False,False,False,1,190
+"### || 46\1 -
+",000,False,000,False,False,False,2,190
+"### | 31- السميع
+",000,False,000,False,False,False,1,268
+"### || 48\1 -
+",000,False,000,False,False,False,2,175
+"### || 49\1 -
+",000,False,000,False,False,False,2,49
+"### || 50\2 -
+",000,False,000,False,False,False,2,50
+"### | 33- الرحمن
+",000,False,000,False,False,False,1,192
+"### || 51\1 -
+",000,False,000,False,False,False,2,69
+"### || 52\1 -
+",000,False,000,False,False,False,2,62
+"### || 53\1 -
+",000,False,000,False,False,False,2,64
+"### | 36- العفو
+",000,False,000,False,False,False,1,41
+"### || 54\1 -
+",000,False,000,False,False,False,2,40
+"### | 37- قوله عز وجل @QB@ ونقلب أفئدتهم وأبصارهم @QE@ مقلب القلوب
+",000,False,000,False,False,False,1,42
+"### || 55\1 -
+",000,False,000,False,False,False,2,34
+"### | 38- فالق الحب والنوى
+",000,False,000,False,False,False,1,90
+"### || 56\1 -
+",000,False,000,False,False,False,2,87
+"### | 39- عالم الغيب والشهادة
+",000,False,000,False,False,False,1,78
+"### || 57\1 -
+",000,False,000,False,False,False,2,75
+"### | 40- ذو الجلال والإكرام
+",000,False,000,False,False,False,1,71
+"### || 58\1 -
+",000,False,000,False,False,False,2,29
+"### || 59\2 -
+",000,False,000,False,False,False,2,39
+"### | 41- ذو العزة
+",000,False,000,False,False,False,1,165
+"### || 60\1 -
+",000,False,000,False,False,False,2,114
+"### || 61\2 -
+",000,False,000,False,False,False,2,50
+"### | 42- السؤال باسماء الله عز وجل وصفاته والاستعاذة بها
+",000,False,000,False,False,False,1,111
+"### || 62\1 -
+",000,False,000,False,False,False,2,36
+"### || 63\2 -
+",000,False,000,False,False,False,2,28
+"### || 64\3 -
+",000,False,000,False,False,False,2,41
+"### | 43- سبوح قدوس
+",000,False,000,False,False,False,1,39
+"### || 65\1 -
+",000,False,000,False,False,False,2,37
+"### | 44- العزة والقدرة
+",000,False,000,False,False,False,1,79
+"### || 66\1 -
+",000,False,000,False,False,False,2,77
+"### | 45- العزيز الكريم
+",000,False,000,False,False,False,1,55
+"### || 67\1 -
+",000,False,000,False,False,False,2,53
+"### | 46- كلمات الله سبحانه وتعالى
+",000,False,000,False,False,False,1,106
+"### || 68\1 -
+",000,False,000,False,False,False,2,53
+"### || 69\2 -
+",000,False,000,False,False,False,2,50
+"### | 47- قوله جل جلاله @QB@ عالم الغيب فلا يظهر على غيبه أحدا @QE@
+",000,False,000,False,False,False,1,67
+"### || 70\1 -
+",000,False,000,False,False,False,2,57
+"### | 48- علام الغيوب
+",000,False,000,False,False,False,1,42
+"### || 71\1 -
+",000,False,000,False,False,False,2,40
+"### | 49- قوله تعالى @QB@ تعلم ما في نفسي ولا أعلم ما في نفسك @QE@
+",000,False,000,False,False,False,1,82
+"### || 72\1 -
+",000,False,000,False,False,False,2,71
+"### | 50- قوله سبحانه @QB@ كل شيء هالك إلا وجهه @QE@
+",000,False,000,False,False,False,1,136
+"### || 73\1 -
+",000,False,000,False,False,False,2,66
+"### || 74\2 -
+",000,False,000,False,False,False,2,64
+"### | 5- قوله @QB@ ولتصنع على عيني @QE@
+",000,False,000,False,False,False,1,468
+"### || 75\1 -
+",000,False,000,False,False,False,2,63
+"### || 76\2 -
+",000,False,000,False,False,False,2,58
+"### || 77\3 -
+",000,False,000,False,False,False,2,54
+"### || 78\4 -
+",000,False,000,False,False,False,2,74
+"### || 79\5 -
+",000,False,000,False,False,False,2,73
+"### || 80\6 -
+",000,False,000,False,False,False,2,79
+"### || 81\7 -
+",000,False,000,False,False,False,2,68
+"### | 52- رحمتي وعذابي
+",000,False,000,False,False,False,1,283
+"### || 82\1 -
+",000,False,000,False,False,False,2,110
+"### || 83\1 -
+",000,False,000,False,False,False,2,64
+"### || 84\2 -
+",000,False,000,False,False,False,2,74
+"### || 85\3 -
+",000,False,000,False,False,False,2,37
+"### | 53- الحب والكراهية
+",000,False,000,False,False,False,1,155
+"### || 86\1 -
+",000,False,000,False,False,False,2,52
+"### || 87\2 -
+",000,False,000,False,False,False,2,46
+"### || 88\3 -
+",000,False,000,False,False,False,2,57
+"### | 54- الحب والبغض
+",000,False,000,False,False,False,1,57
+"### || 89\1 -
+",000,False,000,False,False,False,2,55
+"### | 55- الرضا والسخط
+",000,False,000,False,False,False,1,149
+"### || 90\1 -
+",000,False,000,False,False,False,2,62
+"### || 91\2 -
+",000,False,000,False,False,False,2,86
+"### | 56- الرحمة والغضب
+",000,False,000,False,False,False,1,109
+"### || 92\1 -
+",000,False,000,False,False,False,2,58
+"### || 93\2 -
+",000,False,000,False,False,False,2,50
+"### | 57- المعافاة والعقوبة
+",000,False,000,False,False,False,1,1915
+"### || 94\1 -
+",000,False,000,False,False,False,2,74
+"### || 95\2 -
+",000,False,000,False,False,False,2,56
+"### || 96\3 -
+",000,False,000,False,False,False,2,40
+"### || 97\4 -
+",000,False,000,False,False,False,2,87
+"### || 98\5 -
+",000,False,000,False,False,False,2,44
+"### || 99\6 -
+",000,False,000,False,False,False,2,61
+"### || 100\7 -
+",000,False,000,False,False,False,2,60
+"### || 101\8 -
+",000,False,000,False,False,False,2,60
+"### || 102\1 -
+",000,False,000,False,False,False,2,45
+"### || 103\2 -
+",000,False,000,False,False,False,2,80
+"### || 104\3 -
+",000,False,000,False,False,False,2,57
+"### || 105\4 -
+",000,False,000,False,False,False,2,75
+"### || 106\5 -
+",000,False,000,False,False,False,2,59
+"### || 107\6 -
+",000,False,000,False,False,False,2,80
+"### || 108\1 -
+",000,False,000,False,False,False,2,52
+"### || 109\1 -
+",000,False,000,False,False,False,2,55
+"### || 110\1 -
+",000,False,000,False,False,False,2,942

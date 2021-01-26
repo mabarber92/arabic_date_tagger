@@ -1,0 +1,91 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [افتتاحية]
+",000,False,000,False,False,False,1,346
+"### | [مقدمة المؤلف]
+",000,False,000,False,False,False,1,5714
+"### || [سبب تأليف الكتاب]
+",000,False,000,False,False,False,2,106
+"### || [رواية الأكابر عن الأصاغر]
+",000,False,000,False,False,False,2,138
+"### || [شرط المصنف في كتابه]
+",000,False,000,False,False,False,2,338
+"### || [اشتراط الإسناد]
+",000,False,000,False,False,False,2,513
+"### || [سماع الحديث وروايته]
+",000,False,000,False,False,False,2,222
+"### || [التثبت في الرواية]
+",000,False,000,False,False,False,2,53
+"### || [حفظ ما جاء في الأصل وإن كان فيه خلل]
+",000,False,000,False,False,False,2,119
+"### || [ألفاظ الأداء]
+",000,False,000,False,False,False,2,311
+"### || [مراعاة الأمانة في الحكم على الحديث]
+",000,False,000,False,False,False,2,58
+"### || [أنواع علوم الحديث]
+",000,False,000,False,False,False,2,3482
+"### ||| [الحديث الصحيح]
+",000,False,000,False,False,False,3,512
+"### ||| [الحديث الحسن]
+",000,False,000,False,False,False,3,220
+"### ||| [الحديث الضعيف]
+",000,False,000,False,False,False,3,42
+"### ||| [الحديث المسند]
+",000,False,000,False,False,False,3,54
+"### ||| [الحديث المتصل]
+",000,False,000,False,False,False,3,75
+"### ||| [الحديث المرفوع]
+",000,False,000,False,False,False,3,33
+"### ||| [الحديث الموقوف]
+",000,False,000,False,False,False,3,75
+"### ||| [الحديث المقطوع]
+",000,False,000,False,False,False,3,23
+"### ||| [الحديث المرسل]
+",000,False,000,False,False,False,3,117
+"### ||| [الحديث المنقطع]
+",000,False,000,False,False,False,3,43
+"### ||| [الحديث المعضل]
+",000,False,000,False,False,False,3,94
+"### ||| [الحديث المعنعن]
+",000,False,000,False,False,False,3,71
+"### ||| [الحديث المدلس]
+",000,False,000,False,False,False,3,189
+"### ||| [الحديث المسلسل]
+",000,False,000,False,False,False,3,55
+"### ||| [الحديث المدبج]
+",000,False,000,False,False,False,3,58
+"### ||| [الحديث المنسوخ]
+",000,False,000,False,False,False,3,99
+"### ||| [الحديث الشاذ]
+",000,False,000,False,False,False,3,110
+"### ||| [الحديث الغريب]
+",000,False,000,False,False,False,3,57
+"### ||| [الحديث العزيز]
+",000,False,000,False,False,False,3,29
+"### ||| [الحديث المشهور]
+",000,False,000,False,False,False,3,198
+"### ||| [الحديث العالي والنازل]
+",000,False,000,False,False,False,3,107
+"### ||| [الحديث المصحف]
+",000,False,000,False,False,False,3,332
+"### ||| [الحديث المدرج]
+",000,False,000,False,False,False,3,163
+"### ||| [الحديث المقلوب]
+",000,False,000,False,False,False,3,79
+"### ||| [الحديث المعلل]
+",000,False,000,False,False,False,3,100
+"### ||| [الحديث المضطرب]
+",000,False,000,False,False,False,3,55
+"### ||| [الحديث المجهول]
+",000,False,000,False,False,False,3,49
+"### ||| [الحديث المنكر]
+",000,False,000,False,False,False,3,40
+"### ||| [الحديث الموضوع]
+",000,False,000,False,False,False,3,491
+"### | [من كتب القراءات]
+",000,False,000,False,False,False,1,5814
+"### | [الكتب المسموعة]
+",000,False,000,False,False,False,1,27506
+"### | [الكتب المستجازة]
+",000,False,000,False,False,False,1,17660
+"### | [طرق الأسانيد إلى الأئمة المصنفين]
+",000,False,000,False,False,False,1,8145

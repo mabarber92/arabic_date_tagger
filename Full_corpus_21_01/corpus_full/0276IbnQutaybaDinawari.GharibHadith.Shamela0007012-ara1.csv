@@ -1,0 +1,599 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | ذكر الألفاظ في الفقه والأحكام واشتقاقها
+",000,False,000,False,False,False,1,36
+"### | الوضوء
+",000,False,000,False,False,False,1,886
+"### | والاستنجاء
+",000,False,000,False,False,False,1,48
+"### | والاستجمار أيضا
+",000,False,000,False,False,False,1,835
+"### | في الصلاة وأوقاتها وما يعرض من الألفاظ في أبوابها وقال أبو محمد رحمه الله
+",000,False,000,False,False,False,1,475
+"### | والقنوت
+",000,False,000,False,False,False,1,140
+"### | والأذان
+",000,False,000,False,False,False,1,78
+"### | والتثويب في أذان الفجر أن تقول بعد حي على الفلاح
+",000,False,000,False,False,False,1,1235
+"### | والإقعاء
+",000,False,000,False,False,False,1,86
+"### | والسدل
+",000,False,000,False,False,False,1,36
+"### | والاضطباع
+",000,False,000,False,False,False,1,32
+"### | والتدبيح
+",000,False,000,False,False,False,1,36
+"### | وقال أبو محمد في الزكاة والصدقات وما يعرض من الألفاظ في أبوابها
+",000,False,000,False,False,False,1,95
+"### | والقطنية
+",000,False,000,False,False,False,1,502
+"### | والقتوبة
+",000,False,000,False,False,False,1,45
+"### | والركاز
+",000,False,000,False,False,False,1,215
+"### | وقال أبو محمد
+",000,False,000,False,False,False,1,19
+"### | بيع المزابنة المنهي عنه
+",000,False,000,False,False,False,1,161
+"### | والمحاقلة
+",000,False,000,False,False,False,1,106
+"### | والمخاضرة
+",000,False,000,False,False,False,1,33
+"### | والمعاومة
+",000,False,000,False,False,False,1,51
+"### | والمخابرة
+",000,False,000,False,False,False,1,90
+"### | والثنياء
+",000,False,000,False,False,False,1,77
+"### | وبيع العربان
+",000,False,000,False,False,False,1,45
+"### | وبيع المواصفة
+",000,False,000,False,False,False,1,52
+"### | ومن البيوع المنهي عنها
+",000,False,000,False,False,False,1,145
+"### | ومنه بيع الحاضر للبادي ms023
+",000,False,000,False,False,False,1,33
+"### | والنجش في المبايعة
+",000,False,000,False,False,False,1,36
+"### | والشرك ثلاث
+",000,False,000,False,False,False,1,70
+"### | وأما شركة العنان
+",000,False,000,False,False,False,1,41
+"### | وأما المفاوضة في الشركة
+",000,False,000,False,False,False,1,162
+"### | وأما بيع الخيار
+",000,False,000,False,False,False,1,127
+"### | الشفعة
+",000,False,000,False,False,False,1,47
+"### | النكاح والطلاق وما يعرض من الألفاظ في أبوابها
+",000,False,000,False,False,False,1,194
+"### | الشغار
+",000,False,000,False,False,False,1,111
+"### | العسيلة
+",000,False,000,False,False,False,1,278
+"### | الظهار
+",000,False,000,False,False,False,1,367
+"### | وكفارة الظهار
+",000,False,000,False,False,False,1,69
+"### | الطلاق
+",000,False,000,False,False,False,1,66
+"### | ومتعة المطلقة
+",000,False,000,False,False,False,1,172
+"### | والمحصنة
+",000,False,000,False,False,False,1,69
+"### | الفاظ تعرض في أبواب من الفقه مختلفة
+",000,False,000,False,False,False,1,30
+"### | الصيام
+",000,False,000,False,False,False,1,52
+"### | الاعتكاف
+",000,False,000,False,False,False,1,85
+"### | الإهلال
+",000,False,000,False,False,False,1,27
+"### | الإحرام
+",000,False,000,False,False,False,1,115
+"### | العمرة
+",000,False,000,False,False,False,1,23
+"### | البدنة
+",000,False,000,False,False,False,1,51
+"### | التلبية
+",000,False,000,False,False,False,1,83
+"### | إشعار الهدي
+",000,False,000,False,False,False,1,43
+"### | استلام الحجر
+",000,False,000,False,False,False,1,37
+"### | الملبد
+",000,False,000,False,False,False,1,22
+"### | الضامر والعاقص
+",000,False,000,False,False,False,1,27
+"### | الرمل
+",000,False,000,False,False,False,1,17
+"### | الحدود
+",000,False,000,False,False,False,1,45
+"### | الغرة
+",000,False,000,False,False,False,1,70
+"### | الدية
+",000,False,000,False,False,False,1,294
+"### | المدبر
+",000,False,000,False,False,False,1,67
+"### | المعتق
+",000,False,000,False,False,False,1,41
+"### | فكأن المعتق خلي فعتق أي فذهب وإنما قيل بمن أعتق نسمة أعتق رقبة وفك رقبة فخصت الرقبة دون جميع الأعضاء لأن ملك السيد لعبده كالحبل في الرقبة وكالغل هو به محتبس كما تحبس الدابة بحبل في عنقها فإذا أعتق فكأنه أطلق من ذلك.
+",000,False,000,False,False,False,1,127
+"### | الكلالة والكلالة هو أن يموت الرجل ولا يترك ولدا لا والدا قال أبو عبيدة هو مصدر تكلله النسب أي أحاط به فالأم [25 / ب] والابن طرفان للرجل فإذا مات ولم يخلفهما فقد مات عن ذهاب طرفيه فسمي ذهاب الطرفين كلالة وكأنها اسم للمصيبة من تكلل النسب مأخوذ منه.
+",000,False,000,False,False,False,1,160
+"### | السرية
+",000,False,000,False,False,False,1,118
+"### | الغنيمة
+",000,False,000,False,False,False,1,50
+"### | النفل
+",000,False,000,False,False,False,1,359
+"### | الثيب
+",000,False,000,False,False,False,1,1218
+"### | تفسير ما جاء في حديث رسول الله صلى الله عليه وسلم من ذكر القرآن
+",000,False,000,False,False,False,1,392
+"### | وأما التوراة
+",000,False,000,False,False,False,1,34
+"### | وأما الزبور
+",000,False,000,False,False,False,1,72
+"### | فأما الإنجيل
+",000,False,000,False,False,False,1,59
+"### | ذكر ألفاظ وردت في القرآن
+",000,False,000,False,False,False,1,40
+"### | أما الكافر
+",000,False,000,False,False,False,1,144
+"### | وأما الظالم
+",000,False,000,False,False,False,1,77
+"### | وأما الفاسق
+",000,False,000,False,False,False,1,65
+"### | أما المنافق
+",000,False,000,False,False,False,1,53
+"### | والداماء
+",000,False,000,False,False,False,1,35
+"### | والراهطاء
+",000,False,000,False,False,False,1,60
+"### | وأما الفاجر
+",000,False,000,False,False,False,1,77
+"### | وأما الملحد
+",000,False,000,False,False,False,1,49
+"### | ذكر أهل الأهواء و
+",000,False,000,False,False,False,1,8
+"### | الرافضة
+",000,False,000,False,False,False,1,66
+"### | وأما الخوارج
+",000,False,000,False,False,False,1,16
+"### | وأما الشراة
+",000,False,000,False,False,False,1,68
+"### | وأما المرجئة
+",000,False,000,False,False,False,1,54
+"### | وأما القدرية
+",000,False,000,False,False,False,1,163
+"### | حديث ms045 النبي صلى الله عليه وسلم وتفسير غريبه ومعانيه
+",000,False,000,False,False,False,1,18
+"### | 1 - 
+",000,False,000,False,False,False,1,325
+"### | 2 - 
+",000,False,000,False,False,False,1,174
+"### | 3 - 
+",000,False,000,False,False,False,1,215
+"### | 4 - 
+",000,False,000,False,False,False,1,526
+"### | 5 - 
+",000,False,000,False,False,False,1,126
+"### | 6 - 
+",000,False,000,False,False,False,1,305
+"### | 6 - 
+",000,False,000,False,False,False,1,269
+"### | 7 - 
+",000,False,000,False,False,False,1,170
+"### | 8 - 
+",000,False,000,False,False,False,1,178
+"### | 9 - 
+",000,False,000,False,False,False,1,180
+"### | 10 - 
+",000,False,000,False,False,False,1,412
+"### | 11 - 
+",000,False,000,False,False,False,1,245
+"### | 12 - 
+",000,False,000,False,False,False,1,288
+"### | 11 - 
+",000,False,000,False,False,False,1,202
+"### | 13 - 
+",000,False,000,False,False,False,1,197
+"### | 14 - 
+",000,False,000,False,False,False,1,283
+"### | 15 - 
+",000,False,000,False,False,False,1,269
+"### | 16 - 
+",000,False,000,False,False,False,1,251
+"### | 17 - 
+",000,False,000,False,False,False,1,188
+"### | 18 - 
+",000,False,000,False,False,False,1,346
+"### | 19 - 
+",000,False,000,False,False,False,1,328
+"### | 20 - 
+",000,False,000,False,False,False,1,222
+"### | 21 - 
+",000,False,000,False,False,False,1,220
+"### | 22 - 
+",000,False,000,False,False,False,1,151
+"### | 23 - 
+",000,False,000,False,False,False,1,219
+"### | 24 - 
+",000,False,000,False,False,False,1,243
+"### | 25 - 
+",000,False,000,False,False,False,1,210
+"### | 26 - 
+",000,False,000,False,False,False,1,164
+"### | 27 - 
+",000,False,000,False,False,False,1,385
+"### | 28 - 
+",000,False,000,False,False,False,1,146
+"### | 29 - 
+",000,False,000,False,False,False,1,110
+"### | 30 - 
+",000,False,000,False,False,False,1,98
+"### | 31 - 
+",000,False,000,False,False,False,1,368
+"### | 32 - 
+",000,False,000,False,False,False,1,158
+"### | 33 - 
+",000,False,000,False,False,False,1,183
+"### | 34 - 
+",000,False,000,False,False,False,1,369
+"### | 36 - 
+",000,False,000,False,False,False,1,163
+"### | 37 - 
+",000,False,000,False,False,False,1,148
+"### | 38 - 
+",000,False,000,False,False,False,1,224
+"### | 39 - 
+",000,False,000,False,False,False,1,254
+"### | 40 - 
+",000,False,000,False,False,False,1,231
+"### | 41 - 
+",000,False,000,False,False,False,1,125
+"### | 42 - 
+",000,False,000,False,False,False,1,205
+"### | 43 - 
+",000,False,000,False,False,False,1,163
+"### | 44 - 
+",000,False,000,False,False,False,1,239
+"### | 45 - 
+",000,False,000,False,False,False,1,182
+"### | 46 - 
+",000,False,000,False,False,False,1,396
+"### | 45 - 
+",000,False,000,False,False,False,1,124
+"### | 46 - 
+",000,False,000,False,False,False,1,174
+"### | 47 - 
+",000,False,000,False,False,False,1,276
+"### | 49 - 
+",000,False,000,False,False,False,1,185
+"### | 50 - 
+",000,False,000,False,False,False,1,167
+"### | 51 - 
+",000,False,000,False,False,False,1,232
+"### | 52 - 
+",000,False,000,False,False,False,1,93
+"### | 53 - 
+",000,False,000,False,False,False,1,185
+"### | 54 - 
+",000,False,000,False,False,False,1,415
+"### | 55 - 
+",000,False,000,False,False,False,1,168
+"### | 56 - 
+",000,False,000,False,False,False,1,175
+"### | 57 - 
+",000,False,000,False,False,False,1,203
+"### | 58 - 
+",000,False,000,False,False,False,1,165
+"### | 59 - 
+",000,False,000,False,False,False,1,289
+"### | 60 - 
+",000,False,000,False,False,False,1,99
+"### | 61 - 
+",000,False,000,False,False,False,1,277
+"### | 62 - 
+",000,False,000,False,False,False,1,298
+"### | 63 - 
+",000,False,000,False,False,False,1,122
+"### | 64 - 
+",000,False,000,False,False,False,1,204
+"### | 65 - 
+",000,False,000,False,False,False,1,213
+"### | 65 - 
+",000,False,000,False,False,False,1,44
+"### | 2 - 
+",000,False,000,False,False,False,1,21
+"### | 3 - 
+",000,False,000,False,False,False,1,19
+"### | 4 - 
+",000,False,000,False,False,False,1,21
+"### | 5 - 
+",000,False,000,False,False,False,1,19
+"### | 6 - 
+",000,False,000,False,False,False,1,17
+"### | 7 - 
+",000,False,000,False,False,False,1,722
+"### | 66 - 
+",000,False,000,False,False,False,1,126
+"### | 67 - 
+",000,False,000,False,False,False,1,279
+"### | 68 - 
+",000,False,000,False,False,False,1,273
+"### | 69 - 
+",000,False,000,False,False,False,1,129
+"### | 70 - 
+",000,False,000,False,False,False,1,140
+"### | 71 - 
+",000,False,000,False,False,False,1,245
+"### | ألفاظ من أحاديث الإسراء
+",000,False,000,False,False,False,1,425
+"### | ألفاظ من أحاديث المولد والمبعث
+",000,False,000,False,False,False,1,11408
+"### | تفسير أحاديث رسول الله صلى الله عليه وسلم الطوال والوفادات
+",000,False,000,False,False,False,1,1946
+"### | حديث ابن زمل الجهني
+",000,False,000,False,False,False,1,1050
+"### | حديث ابن أبي هالة التميمي
+",000,False,000,False,False,False,1,2584
+"### | حديث أبي عمرو النخعي
+",000,False,000,False,False,False,1,651
+"### | حديث لقمان بن عاد
+",000,False,000,False,False,False,1,2013
+"### | حديث لقيط بن عامر وافد بني المنتفق
+",000,False,000,False,False,False,1,1396
+"### | حديث جرير بن عبد الله البجلي
+",000,False,000,False,False,False,1,712
+"### | حديث ذي المشعار مالك بن نمط الهمداني
+",000,False,000,False,False,False,1,815
+"### | آخر الجزء الثاني
+",000,False,000,False,False,False,1,112
+"### | حديث أبي بكر الصديق عبد الله بن عثمان
+",000,False,000,False,False,False,1,3092
+"### | حديث عمر بن الخطاب
+",000,False,000,False,False,False,1,10944
+"### | 8 - 
+",000,False,000,False,False,False,1,2040
+"### | - حديث عثمان ابن عفان
+",000,False,000,False,False,False,1,3223
+"### | - حديث امير المؤمنين على بن ابى طالب
+",000,False,000,False,False,False,1,4820
+"### | 0 - 
+",000,False,000,False,False,False,1,107
+"### | 1 - 
+",000,False,000,False,False,False,1,2479
+"### | - حديث الزبير بن العوام
+",000,False,000,False,False,False,1,904
+"### | - حديث طلحة بن عبيد الله التيمي
+",000,False,000,False,False,False,1,1646
+"### | - حديث عبد الرحمن بن عوف الزمري
+",000,False,000,False,False,False,1,1168
+"### | - حديث أبي ذر جندب بن جنادة الغفاري
+",000,False,000,False,False,False,1,1670
+"### | - حديث اسامة بن زيد
+",000,False,000,False,False,False,1,204
+"### | - حديث حباب بن الأرث
+",000,False,000,False,False,False,1,125
+"### | - حديث عمار بن ياسر
+",000,False,000,False,False,False,1,344
+"### | - حديث زيد بن ثابت
+",000,False,000,False,False,False,1,305
+"### | - حديث خالد بن الوليد
+",000,False,000,False,False,False,1,403
+"### | - حديث عبد الله ابن انيس
+",000,False,000,False,False,False,1,467
+"### | - حديث أبي ايوب الأنصاري
+",000,False,000,False,False,False,1,139
+"### | - حديث ابي قتادة الحارث بن ربعي
+",000,False,000,False,False,False,1,96
+"### | - حديث عبد الله بن مسعود
+",000,False,000,False,False,False,1,1755
+"### | - حديث أبى بن كعب
+",000,False,000,False,False,False,1,526
+"### | - حديث معاذ بن جبل
+",000,False,000,False,False,False,1,415
+"### | - حديث عبادة بن الصامت
+",000,False,000,False,False,False,1,99
+"### | - حديث حذيفة بن اليمان
+",000,False,000,False,False,False,1,1084
+"### | 0 - 
+",000,False,000,False,False,False,1,144
+"### | - حديث سلمان الفارسي
+",000,False,000,False,False,False,1,898
+"### | - حديث ابي الدرداء عويمر بن مالك
+",000,False,000,False,False,False,1,869
+"### | 77 - 
+",000,False,000,False,False,False,1,351
+"### | - حديث ابى سعيد سعد بن مالك الخدري
+",000,False,000,False,False,False,1,259
+"### | - حديث جبير بن مظعم
+",000,False,000,False,False,False,1,116
+"### | - حديث أبي لبابة رفاعة بن عبد المنذر
+",000,False,000,False,False,False,1,69
+"### | - حديث بلال موالي ابى بكر
+",000,False,000,False,False,False,1,54
+"### | - حديث ابى هريرة عمرو بن عبد غنم
+",000,False,000,False,False,False,1,1526
+"### | - حديث عبد الله بن عمر بن الخطاب
+",000,False,000,False,False,False,1,1864
+"### | 318 - 
+",000,False,000,False,False,False,1,391
+"### | - حديث ابي موسى الأشعري
+",000,False,000,False,False,False,1,619
+"### | - حديث عمران بن حصين
+",000,False,000,False,False,False,1,74
+"### | - حديث سهل بن حنيف
+",000,False,000,False,False,False,1,74
+"### | - حديث عبد الله بن عباس
+",000,False,000,False,False,False,1,3955
+"### | 6 - 
+",000,False,000,False,False,False,1,367
+"### | - حديث عمرو بن العاص
+",000,False,000,False,False,False,1,905
+"### | 377 - 
+",000,False,000,False,False,False,1,137
+"### | - حديث عبد الله بن عمرو بن العاص.
+",000,False,000,False,False,False,1,953
+"### | - حديث عبد الله بن سلام أو عبد الله بن عمر
+",000,False,000,False,False,False,1,190
+"### | - حديث انس بن مالك
+",000,False,000,False,False,False,1,951
+"### | - حديث البراء بن مالك
+",000,False,000,False,False,False,1,101
+"### | - حديث البراء بن عازب
+",000,False,000,False,False,False,1,117
+"### | - حديث معاوية بن أبي سفيان
+",000,False,000,False,False,False,1,2622
+"### | - حديث المغيرة بن شعبة
+",000,False,000,False,False,False,1,291
+"### | - حديث النعمان بن مقرن
+",000,False,000,False,False,False,1,323
+"### | - حديث حسان بن ثابت
+",000,False,000,False,False,False,1,59
+"### | - حديث عبد الله بن الزبير
+",000,False,000,False,False,False,1,1308
+"### | حديث النساء
+",000,False,000,False,False,False,1,4
+"### | - حديث ام المؤمنين عائشة
+",000,False,000,False,False,False,1,4372
+"### | - حديث ام المؤمنين ام سلمة
+",000,False,000,False,False,False,1,1205
+"### | - حديث أم أيمن
+",000,False,000,False,False,False,1,82
+"### | - حديث زينب بنت ام سلمة
+",000,False,000,False,False,False,1,169
+"### | - أحاديث التابعين ومن بعدهم
+",000,False,000,False,False,False,1,6
+"### | - حديث كعب الأحبار
+",000,False,000,False,False,False,1,894
+"### | - حديث شريح بن الحارث القاضي
+",000,False,000,False,False,False,1,1579
+"### | - حديث محمد بن الحنفية
+",000,False,000,False,False,False,1,99
+"### | 521 - 
+",000,False,000,False,False,False,1,34
+"### | حديث مسروق الأجدع
+",000,False,000,False,False,False,1,341
+"### | - حديث عبيدة السلماني وهو عبيدة بن قيس
+",000,False,000,False,False,False,1,175
+"### | - حديث ابي مسلم الخولاني
+",000,False,000,False,False,False,1,218
+"### | - حديث عمرو بن ميمون
+",000,False,000,False,False,False,1,118
+"### | - حديث الأحنف بن قيس
+",000,False,000,False,False,False,1,996
+"### | - حديث علقمة بن قيس
+",000,False,000,False,False,False,1,94
+"### | - حديث الأسود بن يزيد
+",000,False,000,False,False,False,1,73
+"### | 543 - 
+",000,False,000,False,False,False,1,55
+"### | - حديث عروة بن الزبير
+",000,False,000,False,False,False,1,313
+"### | - حديث ابي وائل شقيق بن سلمة
+",000,False,000,False,False,False,1,99
+"### | - حديث صلة بن اشيم
+",000,False,000,False,False,False,1,124
+"### | - حديث صفوان بن محرز
+",000,False,000,False,False,False,1,89
+"### | - حديث ابي العالية الرياحي
+",000,False,000,False,False,False,1,154
+"### | - حديث عطاء بن يسار
+",000,False,000,False,False,False,1,106
+"### | - حديث سعيد بن المسيب
+",000,False,000,False,False,False,1,493
+"### | 559 - 
+",000,False,000,False,False,False,1,234
+"### | - حديث وهب بن منبه
+",000,False,000,False,False,False,1,295
+"### | - حديث أبي مجلز لاحق بن حميد
+",000,False,000,False,False,False,1,325
+"### | - حديث القاسم بن محمد بن ابي بكر
+",000,False,000,False,False,False,1,193
+"### | - حديث سالم بن عبد الله بن عمر
+",000,False,000,False,False,False,1,273
+"### | - حديث زياد بن أبي سفيان
+",000,False,000,False,False,False,1,271
+"### | - حديث أبي الأسود الدؤلي
+",000,False,000,False,False,False,1,593
+"### | - حديث يحيى بن يعمر العدواني
+",000,False,000,False,False,False,1,294
+"### | - حديث عمر بن عبد العزيز
+",000,False,000,False,False,False,1,1435
+"### | - حديث عكرمة مولي ابن عباس
+",000,False,000,False,False,False,1,208
+"### | - حديث قتادة بن دعامة السدوسي.
+",000,False,000,False,False,False,1,775
+"### | - حديث الحسن البصري
+",000,False,000,False,False,False,1,1129
+"### | - حديث محمد بن سيرين
+",000,False,000,False,False,False,1,1026
+"### | - حديث ابن ابراهيم النخعي
+",000,False,000,False,False,False,1,1080
+"### | - حديث سعيد بن جبير
+",000,False,000,False,False,False,1,344
+"### | - حديث الشعبي عامر بن شراحيل
+",000,False,000,False,False,False,1,1860
+"### | حديث عوذ بن ms463 عبد الله بن عتبة
+",000,False,000,False,False,False,1,269
+"### | حديث مطرف بن عبد الله بن الشخير
+",000,False,000,False,False,False,1,127
+"### | حديث عطاء بن أبى رباح
+",000,False,000,False,False,False,1,1178
+"### | حديث الضحاك بن مزاحم
+",000,False,000,False,False,False,1,100
+"### | حديث أبى قيس الأودي عبد الرحمن بن ثروان
+",000,False,000,False,False,False,1,119
+"### | حديث شميط ابن عجلان
+",000,False,000,False,False,False,1,55
+"### | حديث ثابت البناني
+",000,False,000,False,False,False,1,58
+"### | حديث مالك بن دينار
+",000,False,000,False,False,False,1,91
+"### | حديث نوف البكالي
+",000,False,000,False,False,False,1,45
+"### | 
+",000,False,000,False,False,False,1,0
+"### | حديث عبد الملك بن مروان
+",000,False,000,False,False,False,1,864
+"### | حديث عبد الملك بن مروان
+",000,False,000,False,False,False,1,177
+"### | حديث هشام بن عبد الملك
+",000,False,000,False,False,False,1,220
+"### | حديث الحجاج بن يوسف الثقفي
+",000,False,000,False,False,False,1,1288
+"### | ما تراءت له إلا وهي على ms479 ماء فأمر الحجاج رجلا يقال له: عضيدة ان يحفر بالشجى بئرا فحفرها فلما أنبط حمل معه قربتين من مائها إلى الحجاج بواسط فلما طلع قال له: يا عضيدة لقد تخطيت بها مياها عذابا أأخسفت أم أوشلت فقال: لا واحد منها. ولكن نيطا بين الماءين. 
+",000,False,000,False,False,False,1,1304
+"### | - حديث جبر بن حبيب
+",000,False,000,False,False,False,1,94
+"### | - حديث عبد الرحمن بن سابط
+",000,False,000,False,False,False,1,60
+"### | حديث يحيى بن أبى كثير
+",000,False,000,False,False,False,1,89
+"### | حديث العوام ابن حوشب
+",000,False,000,False,False,False,1,84
+"### | حديث سماك بن حرب
+",000,False,000,False,False,False,1,126
+"### | حديث هشام بن عروة
+",000,False,000,False,False,False,1,90
+"### | حديث ابن جريح عبد الملك بن عبد العزيز
+",000,False,000,False,False,False,1,96
+"### | حديث ابن ابى الزناد عبد الرحمن بن عبد الله بن ذكوان
+",000,False,000,False,False,False,1,149
+"### | حديث نافع بن أبى نعيم القارىء
+",000,False,000,False,False,False,1,66
+"### | حديث الأوزاعي عبد الرحمن بن عمرو
+",000,False,000,False,False,False,1,121
+"### | حديث وهيب بن الوزد
+",000,False,000,False,False,False,1,135
+"### | حديث مالك ابن انس
+",000,False,000,False,False,False,1,207
+"### | حديث معتمر بن سلميان
+",000,False,000,False,False,False,1,109
+"### | أحاديث سمعت أصحاب اللغة يذكرونها ولا أعرف أصحابها
+",000,False,000,False,False,False,1,1259
+"### | 8 - 
+",000,False,000,False,False,False,1,1763

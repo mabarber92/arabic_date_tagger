@@ -1,0 +1,2663 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [المقدمة] 
+",000,False,000,False,False,False,1,601
+"### | (الطبقة الأولى) tab01 
+",000,False,000,False,False,False,1,242012
+"### || (الحوادث) 
+",000,False,000,False,False,False,2,242013
+"### ||| -السنة الأولى من الهجرة 
+",001,year,000,False,001,747,3,2292
+"### ||| -سنة اثنتين 
+",000,False,000,False,False,False,3,15913
+"### |||| قصة النجاشي 
+",000,False,000,False,False,False,4,1951
+"### ||| -ثم دخلت سنة ثلاث 
+",003,year,000,False,003,745,3,14078
+"### ||| -السنة الرابعة 
+",004,year,000,False,004,744,3,4615
+"### ||| -السنة الخامسة 
+",005,year,000,False,005,743,3,13397
+"### ||| -سنة ست من الهجرة 
+",000,False,000,False,False,False,3,11486
+"### ||| -السنة السابعة 
+",007,year,000,False,007,741,3,10242
+"### ||| -ثم دخلت سنة ثمان من الهجرة 
+",008,year,000,False,008,740,3,24992
+"### ||| -السنة التاسعة 
+",009,year,000,False,009,739,3,8630
+"### ||| -السنة العاشرة 
+",010,year,000,False,010,738,3,6041
+"### ||| -سنة إحدى عشرة 
+",000,False,000,False,False,False,3,97189
+"### ||| -سنة اثنتي عشرة 
+",000,False,000,False,False,False,3,3014
+"### ||| -سنة ثلاث عشرة 
+",000,False,000,False,False,False,3,4605
+"### ||| -سنة أربع عشرة 
+",000,False,000,False,False,False,3,1893
+"### ||| -سنة خمس عشرة 
+",000,False,000,False,False,False,3,2065
+"### ||| -سنة ست عشرة 
+",000,False,000,False,False,False,3,916
+"### ||| -سنة سبع عشرة 
+",000,False,000,False,False,False,3,260
+"### ||| -سنة ثماني عشرة 
+",000,False,000,False,False,False,3,1367
+"### ||| -سنة تسع عشرة 
+",000,False,000,False,False,False,3,583
+"### ||| -سنة عشرين PageV02P110 
+",000,False,000,False,False,False,3,2567
+"### ||| -سنة إحدى وعشرين 
+",000,False,000,False,False,False,3,1806
+"### ||| -سنة اثنتين وعشرين 
+",000,False,000,False,False,False,3,1202
+"### ||| -سنة ثلاث وعشرين 
+",000,False,000,False,False,False,3,7158
+"### ||| -سنة أربع وعشرين PageV02P169 
+",000,False,000,False,False,False,3,967
+"### ||| -سنة خمس وعشرين 
+",000,False,000,False,False,False,3,176
+"### ||| -سنة ست وعشرين 
+",000,False,000,False,False,False,3,86
+"### ||| -سنة سبع وعشرين 
+",000,False,000,False,False,False,3,712
+"### ||| -سنة ثمان وعشرين 
+",000,False,000,False,False,False,3,158
+"### ||| -سنة تسع وعشرين 
+",000,False,000,False,False,False,3,472
+"### ||| -سنة ثلاثين 
+",000,False,000,False,False,False,3,3231
+"### | الطبقة الرابعة 31 - 40 ه PageV02P197 tab04 
+",000,False,000,False,False,False,1,39397
+"### || -ثم دخلت سنة إحدى وثلاثين 
+",031,year,000,False,031,717,2,39396
+"### ||| -سنة اثنتين وثلاثين 
+",000,False,000,False,False,False,3,4855
+"### ||| -سنة ثلاث وثلاثين 
+",000,False,000,False,False,False,3,445
+"### ||| -سنة أربع وثلاثين 
+",000,False,000,False,False,False,3,770
+"### ||| -سنة خمس وثلاثين 
+",000,False,000,False,False,False,3,8407
+"### ||| -سنة ست وثلاثين PageV02P270 
+",000,False,000,False,False,False,3,6473
+"### ||| -سنة سبع وثلاثين PageV02P301 
+",000,False,000,False,False,False,3,6933
+"### ||| -سنة ثمان وثلاثين. 
+",000,False,000,False,False,False,3,1973
+"### ||| -سنة تسع وثلاثين. 
+",000,False,000,False,False,False,3,242
+"### ||| -سنة أربعين. 
+",000,False,000,False,False,False,3,8501
+"### | الطبقة الخامسة 41 - 50 ه tab05 
+",000,False,000,False,False,False,1,14913
+"### || - (الحوادث) PageV02P385 
+",000,False,000,False,False,False,2,14908
+"### ||| -ثم دخلت سنة إحدى وأربعين 
+",041,year,000,False,041,707,3,437
+"### ||| -سنة اثنتين وأربعين 
+",000,False,000,False,False,False,3,89
+"### ||| -سنة ثلاث وأربعين 
+",000,False,000,False,False,False,3,52
+"### ||| -سنة أربع وأربعين 
+",000,False,000,False,False,False,3,84
+"### ||| -سنة خمس وأربعين 
+",000,False,000,False,False,False,3,86
+"### ||| -سنة ست وأربعين 
+",000,False,000,False,False,False,3,62
+"### ||| -سنة سبع وأربعين 
+",000,False,000,False,False,False,3,69
+"### ||| -سنة ثمان وأربعين 
+",000,False,000,False,False,False,3,68
+"### ||| -سنة تسع وأربعين 
+",000,False,000,False,False,False,3,75
+"### ||| -سنة خمسين 
+",000,False,000,False,False,False,3,13928
+"### | الطبقة السادسة 51 - 60 ه tab06 
+",000,False,000,False,False,False,1,23656
+"### || - (الحوادث) PageV02P457 
+",000,False,000,False,False,False,2,23649
+"### ||| -ثم دخلت سنة إحدى وخمسين 
+",051,year,000,False,051,697,3,1291
+"### ||| -سنة اثنتين وخمسين 
+",000,False,000,False,False,False,3,231
+"### ||| -سنة ثلاث وخمسين. 
+",000,False,000,False,False,False,3,156
+"### ||| -سنة أربع وخمسين. 
+",000,False,000,False,False,False,3,133
+"### ||| -سنة خمس وخمسين. 
+",000,False,000,False,False,False,3,65
+"### ||| -سنة ست وخمسين 
+",000,False,000,False,False,False,3,102
+"### ||| -سنة سبع وخمسين. 
+",000,False,000,False,False,False,3,113
+"### ||| -سنة ثمان وخمسين 
+",000,False,000,False,False,False,3,58
+"### ||| -سنة تسع وخمسين 
+",000,False,000,False,False,False,3,111
+"### ||| -سنة ستين 
+",000,False,000,False,False,False,3,21406
+"### | الطبقة السابعة 61 - 70 ه tab07 
+",000,False,000,False,False,False,1,42951
+"### || - (الحوادث). PageV02P571 
+",000,False,000,False,False,False,2,42941
+"### ||| -سنة إحدى وستين. 
+",000,False,000,False,False,False,3,3451
+"### ||| -سنة اثنتين وستين 
+",000,False,000,False,False,False,3,137
+"### ||| -سنة ثلاث وستين 
+",000,False,000,False,False,False,3,2005
+"### ||| -سنة أربع وستين 
+",000,False,000,False,False,False,3,1512
+"### ||| -سنة خمس وستين 
+",000,False,000,False,False,False,3,1804
+"### ||| -سنة ست وستين 
+",000,False,000,False,False,False,3,774
+"### ||| -سنة سبع وستين 
+",000,False,000,False,False,False,3,1731
+"### ||| -سنة ثمان وستين 
+",000,False,000,False,False,False,3,422
+"### ||| -سنة تسع وستين 
+",000,False,000,False,False,False,3,334
+"### ||| -سنة سبعين 
+",000,False,000,False,False,False,3,30811
+"### | الطبقة الثامنة 71 - 80 ه tab08 
+",000,False,000,False,False,False,1,33117
+"### || - (الحوادث) PageV02P753 
+",000,False,000,False,False,False,2,5976
+"### ||| -سنة إحدى وسبعين 
+",000,False,000,False,False,False,3,195
+"### ||| -سنة اثنتين وسبعين 
+",000,False,000,False,False,False,3,1224
+"### ||| -سنة ثلاث وسبعين 
+",000,False,000,False,False,False,3,1022
+"### ||| -سنة أربع وسبعين 
+",000,False,000,False,False,False,3,249
+"### ||| -سنة خمس وسبعين 
+",000,False,000,False,False,False,3,1073
+"### ||| -سنة ست وسبعين. 
+",000,False,000,False,False,False,3,395
+"### ||| -سنة سبع وسبعين 
+",000,False,000,False,False,False,3,991
+"### ||| -سنة ثمان وسبعين 
+",000,False,000,False,False,False,3,198
+"### ||| -سنة تسع وسبعين 
+",000,False,000,False,False,False,3,257
+"### ||| -سنة ثمانين 
+",000,False,000,False,False,False,3,390
+"### || -تراجم أهل هذه الطبقة PageV02P779 
+",000,False,000,False,False,False,2,27137
+"### | الطبقة التاسعة 81 - 90 ه tab09 
+",000,False,000,False,False,False,1,27327
+"### || - (الحوادث) PageV02P905 
+",000,False,000,False,False,False,2,3865
+"### ||| -سنة إحدى وثمانين 
+",000,False,000,False,False,False,3,217
+"### ||| -سنة اثنتين وثمانين 
+",000,False,000,False,False,False,3,1709
+"### ||| -سنة ثلاث وثمانين 
+",000,False,000,False,False,False,3,150
+"### ||| -سنة أربع وثمانين 
+",000,False,000,False,False,False,3,135
+"### ||| -سنة خمس وثمانين 
+",000,False,000,False,False,False,3,350
+"### ||| -سنة ست وثمانين 
+",000,False,000,False,False,False,3,179
+"### ||| -سنة سبع وثمانين 
+",000,False,000,False,False,False,3,240
+"### ||| -سنة ثمان وثمانين 
+",000,False,000,False,False,False,3,543
+"### ||| -سنة تسع وثمانين 
+",000,False,000,False,False,False,3,213
+"### ||| -سنة تسعين 
+",000,False,000,False,False,False,3,160
+"### || -تراجم رجال هذه الطبقة PageV02P923 
+",000,False,000,False,False,False,2,23461
+"### | الطبقة العاشرة 91 - 100 ه tab10 
+",000,False,000,False,False,False,1,37914
+"### || - (الحوادث) PageV02P1037 
+",000,False,000,False,False,False,2,2872
+"### ||| -سنة إحدى وتسعين 
+",000,False,000,False,False,False,3,319
+"### ||| -سنة اثنتين وتسعين 
+",000,False,000,False,False,False,3,373
+"### ||| -سنة ثلاث وتسعين 
+",000,False,000,False,False,False,3,430
+"### ||| -سنة أربع وتسعين 
+",000,False,000,False,False,False,3,196
+"### ||| -سنة خمس وتسعين 
+",000,False,000,False,False,False,3,172
+"### ||| -سنة ست وتسعين 
+",000,False,000,False,False,False,3,84
+"### ||| -سنة سبع وتسعين 
+",000,False,000,False,False,False,3,236
+"### ||| -سنة ثمان وتسعين 
+",000,False,000,False,False,False,3,709
+"### ||| -سنة تسع وتسعين 
+",000,False,000,False,False,False,3,301
+"### ||| -سنة مائة من الهجرة 
+",000,False,000,False,False,False,3,110
+"### || -تراجم رجال هذه الطبقة PageV02P1051 
+",000,False,000,False,False,False,2,35038
+"### | -الطبقة الحادية عشرة 101 - 111 ه tab11 
+",000,False,000,False,False,False,1,40024
+"### || - (الحوادث) PageV03P007 
+",000,False,000,False,False,False,2,1016
+"### ||| -سنة إحدى ومائة 
+",000,False,000,False,False,False,3,50
+"### ||| -سنة اثنتين ومائة 
+",000,False,000,False,False,False,3,241
+"### ||| -سنة ثلاث ومائة 
+",000,False,000,False,False,False,3,71
+"### ||| -سنة أربع ومائة 
+",000,False,000,False,False,False,3,109
+"### ||| -سنة خمس ومائة 
+",000,False,000,False,False,False,3,103
+"### ||| -سنة ست ومائة 
+",000,False,000,False,False,False,3,152
+"### ||| -سنة سبع ومائة 
+",000,False,000,False,False,False,3,74
+"### ||| -سنة ثمان ومائة 
+",000,False,000,False,False,False,3,85
+"### ||| -سنة تسع ومائة 
+",000,False,000,False,False,False,3,50
+"### ||| -سنة عشر ومائة 
+",000,False,000,False,False,False,3,110
+"### || -تراجم أعيان هذه الطبقة على حروف المعجم. 
+",000,False,000,False,False,False,2,38999
+"### | -الطبقة الثانية عشرة 111 - 120 ه tab12 
+",000,False,000,False,False,False,1,29291
+"### || - (الحوادث) PageV03P201 
+",000,False,000,False,False,False,2,1322
+"### ||| -ذكر سنة إحدى عشرة ومائة 
+",111,year,000,False,111,637,3,102
+"### ||| -سنة اثنتي عشرة ومائة 
+",000,False,000,False,False,False,3,239
+"### ||| -سنة ثلاث عشرة ومائة 
+",000,False,000,False,False,False,3,227
+"### ||| -سنة أربع عشرة ومائة 
+",000,False,000,False,False,False,3,153
+"### ||| -سنة خمس عشرة ومائة 
+",000,False,000,False,False,False,3,73
+"### ||| -سنة ست عشرة ومائة 
+",000,False,000,False,False,False,3,98
+"### ||| -سنة سبع عشرة ومائة 
+",000,False,000,False,False,False,3,138
+"### ||| -سنة ثمان عشرة ومائة 
+",000,False,000,False,False,False,3,93
+"### ||| -سنة تسع عشرة ومائة 
+",000,False,000,False,False,False,3,95
+"### ||| -سنة عشرين ومائة 
+",000,False,000,False,False,False,3,137
+"### || -ذكر رجال هذه الطبقة على الحروف PageV03P207 
+",000,False,000,False,False,False,2,27963
+"### | -الطبقة الثالثة عشرة 121 - 130 ه tab13 
+",000,False,000,False,False,False,1,45211
+"### || - (الحوادث) PageV03P353 
+",000,False,000,False,False,False,2,3317
+"### ||| -ذكر سنة إحدى وعشرين ومائة وحوادثها 
+",121,year,000,False,121,627,3,138
+"### ||| -سنة اثنتين وعشرين ومائة 
+",000,False,000,False,False,False,3,303
+"### ||| -ثم دخلت سنة ثلاث وعشرين ومائة 
+",123,year,000,False,123,625,3,174
+"### ||| -سنة أربع وعشرين ومائة 
+",000,False,000,False,False,False,3,87
+"### ||| -سنة خمس وعشرين ومائة 
+",000,False,000,False,False,False,3,321
+"### ||| -سنة ست وعشرين ومائة 
+",000,False,000,False,False,False,3,247
+"### ||| -سنة سبع وعشرين ومائة 
+",000,False,000,False,False,False,3,881
+"### ||| -سنة ثمان وعشرين ومائة 
+",000,False,000,False,False,False,3,144
+"### ||| -سنة تسع وعشرين ومائة 
+",000,False,000,False,False,False,3,261
+"### ||| -سنة ثلاثين ومائة 
+",000,False,000,False,False,False,3,816
+"### || -تراجم رجال هذه الطبقة PageV03P367 
+",000,False,000,False,False,False,2,41891
+"### | -الطبقة الرابعة عشرة 131 - 140 ه PageV03P581 
+",000,False,000,False,False,False,1,36869
+"### || - (الحوادث) PageV03P583 
+",000,False,000,False,False,False,2,6423
+"### ||| -حوادث سنة إحدى وثلاثين ومائة PageV03P583 
+",131,year,000,False,131,617,3,475
+"### ||| -سنة اثنتين وثلاثين ms02033 ومائة. 
+",000,False,000,False,False,False,3,2366
+"### ||| -سنة ثلاث وثلاثين ومائة 
+",000,False,000,False,False,False,3,290
+"### ||| -سنة أربع وثلاثين ومائة 
+",000,False,000,False,False,False,3,473
+"### ||| -سنة خمس وثلاثين ومائة 
+",000,False,000,False,False,False,3,189
+"### ||| -سنة ست وثلاثين ومائة 
+",000,False,000,False,False,False,3,274
+"### ||| -سنة سبع وثلاثين ومائة 
+",000,False,000,False,False,False,3,1754
+"### ||| -سنة ثمان وثلاثين ومائة 
+",000,False,000,False,False,False,3,213
+"### ||| -سنة تسع وثلاثين ومائة 
+",000,False,000,False,False,False,3,210
+"### ||| -سنة أربعين ومائة 
+",000,False,000,False,False,False,3,213
+"### || -ذكر طبقة العشر على المعجم PageV03P609 
+",000,False,000,False,False,False,2,30442
+"### | -الطبقة الخامسة عشرة 141 - 150 ه PageV03P769 
+",000,False,000,False,False,False,1,48630
+"### || - (الحوادث) PageV03P771 
+",000,False,000,False,False,False,2,8847
+"### ||| -سنة إحدى وأربعين ومائة. 
+",000,False,000,False,False,False,3,708
+"### ||| -سنة اثنتين وأربعين ومائة. 
+",000,False,000,False,False,False,3,333
+"### ||| -سنة ثلاث وأربعين ومائة 
+",000,False,000,False,False,False,3,262
+"### ||| -سنة أربع وأربعين ومائة. 
+",000,False,000,False,False,False,3,1389
+"### ||| -سنة خمس وأربعين ومائة. 
+",000,False,000,False,False,False,3,4771
+"### ||| -سنة ست وأربعين ومائة 
+",000,False,000,False,False,False,3,364
+"### ||| -سنة سبع وأربعين ومائة. 
+",000,False,000,False,False,False,3,611
+"### ||| -سنة ثمان وأربعين ومائة. 
+",000,False,000,False,False,False,3,118
+"### ||| -سنة تسع وأربعين ومائة. 
+",000,False,000,False,False,False,3,97
+"### ||| -سنة خمسين ومائة . 
+",000,False,000,False,False,False,3,235
+"### || -تراجم أهل هذه الطبقة على الحروف. PageV03P807 
+",000,False,000,False,False,False,2,39778
+"### | -الطبقة السادسة عشرة 151 - 160 ه PageV04P005 
+",000,False,000,False,False,False,1,51292
+"### || - (الحوادث) PageV04P007 
+",000,False,000,False,False,False,2,2537
+"### ||| -سنة إحدى وخمسين ومائة 
+",000,False,000,False,False,False,3,212
+"### ||| -سنة اثنين وخمسين ومائة. 
+",000,False,000,False,False,False,3,92
+"### ||| -سنة ثلاث وخمسين ومائة. 
+",000,False,000,False,False,False,3,199
+"### ||| -سنة أربع وخمسين ومائة. 
+",000,False,000,False,False,False,3,171
+"### ||| -سنة خمس وخمسين ومائة 
+",000,False,000,False,False,False,3,220
+"### ||| -سنة ms02325 ست وخمسين ومائة 
+",000,False,000,False,False,False,3,128
+"### ||| -سنة سبع وخمسين ومائة 
+",000,False,000,False,False,False,3,139
+"### ||| -سنة ثمان وخمسين ومائة 
+",000,False,000,False,False,False,3,486
+"### ||| -سنة تسع وخمسين ومائة 
+",000,False,000,False,False,False,3,300
+"### ||| -سنة ستين ومائة 
+",000,False,000,False,False,False,3,613
+"### || تراجم رجال هذه الطبقة على الحروف PageV04P019 
+",000,False,000,False,False,False,2,48753
+"### | -الطبقة السابعة عشرة 161 - 170 ه PageV04P269 
+",000,False,000,False,False,False,1,56584
+"### || - (الحوادث) PageV04P271 
+",000,False,000,False,False,False,2,4027
+"### ||| -سنة إحدى وستين ومائة 
+",000,False,000,False,False,False,3,521
+"### ||| -سنة اثنتين وستين ومائة 
+",000,False,000,False,False,False,3,198
+"### ||| -سنة ثلاث وستين ومائة 
+",000,False,000,False,False,False,3,196
+"### ||| -سنة أربع وستين ومائة 
+",000,False,000,False,False,False,3,181
+"### ||| -سنة خمس وستين ومائة 
+",000,False,000,False,False,False,3,129
+"### ||| -سنة ست وستين ومائة 
+",000,False,000,False,False,False,3,947
+"### ||| -سنة سبع وستين ومائة 
+",000,False,000,False,False,False,3,232
+"### ||| -سنة ثمان وستين ومائة 
+",000,False,000,False,False,False,3,162
+"### ||| -سنة تسع وستين ومائة 
+",000,False,000,False,False,False,3,1258
+"### ||| -سنة سبعين ومائة 
+",000,False,000,False,False,False,3,245
+"### || رجال هذه الطبقة مرتبون على الحروف PageV04P287 
+",000,False,000,False,False,False,2,52553
+"### | -الطبقة الثامنة ms02689 عشرة 171 - 180 ه PageV04P567 
+",000,False,000,False,False,False,1,41178
+"### || - (الحوادث) PageV04P569 
+",000,False,000,False,False,False,2,1424
+"### ||| -سنة إحدى وسبعين ومائة 
+",000,False,000,False,False,False,3,152
+"### ||| -ثم دخلت سنة اثنتين وسبعين ومائة 
+",172,year,000,False,172,576,3,82
+"### ||| -سنة ثلاث وسبعين ومائة 
+",000,False,000,False,False,False,3,77
+"### ||| -ثم دخلت سنة أربع وسبعين ومائة 
+",174,year,000,False,174,574,3,39
+"### ||| -ودخلت سنة خمس وسبعين ومائة 
+",175,year,000,False,175,573,3,311
+"### ||| -سنة ست وسبعين ومائة 
+",000,False,000,False,False,False,3,94
+"### ||| -سنة سبع وسبعين ومائة 
+",000,False,000,False,False,False,3,76
+"### ||| -سنة ثمان وسبعين ومائة 
+",000,False,000,False,False,False,3,268
+"### ||| -سنة تسع وسبعين ومائة 
+",000,False,000,False,False,False,3,229
+"### ||| -سنة ثمانين ومائة 
+",000,False,000,False,False,False,3,137
+"### || تراجم الطبقة على المعجم PageV04P575 
+",000,False,000,False,False,False,2,39747
+"### | -الطبقة التاسعة عشر 181 - 190 ه PageV04P777 
+",000,False,000,False,False,False,1,52362
+"### || - (الحوادث) PageV04P779 
+",000,False,000,False,False,False,2,3738
+"### ||| -استهلت سنة إحدى وثمانين ومائة. 
+",181,year,000,False,181,567,3,201
+"### ||| -سنة اثنتين وثمانين 
+",000,False,000,False,False,False,3,134
+"### ||| -سنة ثلاث وثمانين 
+",000,False,000,False,False,False,3,317
+"### ||| -سنة أربع وثمانين 
+",000,False,000,False,False,False,3,155
+"### ||| -سنة خمس وثمانين ومائة 
+",000,False,000,False,False,False,3,189
+"### ||| -سنة ست وثمانين ومائة 
+",000,False,000,False,False,False,3,189
+"### ||| -سنة سبع وثمانين ومائة 
+",000,False,000,False,False,False,3,1935
+"### ||| -سنة ثمان وثمانين ومائة 
+",000,False,000,False,False,False,3,115
+"### ||| -سنة تسع وثمانين ومائة 
+",000,False,000,False,False,False,3,127
+"### ||| -سنة تسعين ومائة 
+",000,False,000,False,False,False,3,404
+"### || - تراجم أهل هذه الطبقة PageV04P795 
+",000,False,000,False,False,False,2,48621
+"### | -الطبقة العشرون 191 - 200 ه PageV04P1025 tab20 
+",000,False,000,False,False,False,1,51889
+"### || - (الحوادث) PageV04P1027 
+",000,False,000,False,False,False,2,9119
+"### ||| -سنة إحدى وتسعين ومائة 
+",000,False,000,False,False,False,3,307
+"### ||| -سنة اثنتين وتسعين 
+",000,False,000,False,False,False,3,476
+"### ||| -سنة ثلاث وتسعين 
+",000,False,000,False,False,False,3,522
+"### ||| -سنة أربع وتسعين 
+",000,False,000,False,False,False,3,418
+"### ||| -سنة خمس وتسعين 
+",000,False,000,False,False,False,3,1090
+"### ||| -سنة ست وتسعين 
+",000,False,000,False,False,False,3,1963
+"### ||| -سنة سبع وتسعين 
+",000,False,000,False,False,False,3,659
+"### ||| -سنة ثمان وتسعين 
+",000,False,000,False,False,False,3,2074
+"### ||| -سنة تسع وتسعين 
+",000,False,000,False,False,False,3,749
+"### ||| -سنة مائتين 
+",000,False,000,False,False,False,3,898
+"### || - (الوفيات) PageV04P1063 
+",000,False,000,False,False,False,2,42765
+"### | الطبقة الحادية والعشرون 201 - 210 ه PageV05P005 
+",000,False,000,False,False,False,1,48926
+"### || - (الحوادث) 
+",000,False,000,False,False,False,2,3445
+"### ||| -تاريخ سنة إحدى ومائتين 
+",201,year,000,False,201,547,3,171
+"### ||| -[حوادث سنة اثنتين ومائتين]- 
+",002,year,000,False,202,546,3,1088
+"### ||| -وفي سنة ثلاث ومائتين 
+",203,year,000,False,203,545,3,632
+"### ||| -وفي سنة أربع ومائتين 
+",204,year,000,False,204,544,3,160
+"### ||| -ومن سنة خمس ومائتين 
+",205,year,000,False,205,543,3,95
+"### ||| -ومن سنة ست ومائتين 
+",206,year,000,False,206,542,3,129
+"### ||| -ومن سنة سبع ومائتين 
+",207,year,000,False,207,541,3,303
+"### ||| -ومن سنة ثمان ومائتين 
+",208,year,000,False,208,540,3,121
+"### ||| -ومن سنة تسع ومائتين 
+",209,year,000,False,209,539,3,314
+"### ||| -ومن سنة عشر ومائتين 
+",210,year,000,False,210,538,3,455
+"### || -مختصر رجال هذه الطبقة على الحروف 32 
+",000,False,000,False,False,False,2,45449
+"### | الطبقة الثانية والعشرون 211 - 220 ه PageV05P241 
+",000,False,000,False,False,False,1,49393
+"### || - (الحوادث) PageV05P243 
+",000,False,000,False,False,False,2,3198
+"### ||| -دخلت سنة إحدى عشرة ومائتين 
+",211,year,000,False,211,537,3,122
+"### ||| -سنة اثنتي عشرة ومائتين 
+",000,False,000,False,False,False,3,111
+"### ||| -سنة ثلاث عشرة ومائتين 
+",000,False,000,False,False,False,3,113
+"### ||| -سنة أربع عشرة ومائتين 
+",000,False,000,False,False,False,3,98
+"### ||| -سنة خمس عشرة ومائتين 
+",000,False,000,False,False,False,3,146
+"### ||| -سنة ست عشرة ومائتين 
+",000,False,000,False,False,False,3,116
+"### ||| -سنة سبع عشرة ومائتين 
+",000,False,000,False,False,False,3,147
+"### ||| -سنة ثمان عشرة ومائتين 
+",000,False,000,False,False,False,3,1799
+"### ||| -سنة تسع عشرة ومائتين 
+",000,False,000,False,False,False,3,188
+"### ||| -ثم دخلت سنة عشرين ومائتين 
+",220,year,000,False,220,528,3,398
+"### || -ذكر أهل هذه الطبقة على الحروف PageV05P257 
+",000,False,000,False,False,False,2,46188
+"### | الطبقة الثالثة والعشرون 221 - 230 ه PageV05P491 
+",000,False,000,False,False,False,1,51749
+"### || - (الحوادث) PageV05P493 
+",000,False,000,False,False,False,2,3137
+"### ||| -دخلت سنة إحدى وعشرين ومائتين 
+",221,year,000,False,221,527,3,167
+"### ||| -ثم دخلت سنة اثنتين وعشرين ومائتين 
+",222,year,000,False,222,526,3,376
+"### ||| -ودخلت سنة ثلاث وعشرين ومائتين 
+",223,year,000,False,223,525,3,584
+"### ||| -سنة أربع وعشرين ومائتين 
+",000,False,000,False,False,False,3,204
+"### ||| -ومن سنة خمس وعشرين ومائتين 
+",225,year,000,False,225,523,3,740
+"### ||| -ومن سنة ست وعشرين ومائتين 
+",226,year,000,False,226,522,3,290
+"### ||| -سنة سبع وعشرين ومائتين 
+",000,False,000,False,False,False,3,361
+"### ||| -سنة ثمان وعشرين ومائتين 
+",000,False,000,False,False,False,3,145
+"### ||| -سنة تسع وعشرين ومائتين 
+",000,False,000,False,False,False,3,122
+"### ||| -سنة ثلاثين ومائتين 
+",000,False,000,False,False,False,3,195
+"### || -رجال هذه الطبقة على المعجم PageV05P505 
+",000,False,000,False,False,False,2,48614
+"### | الطبقة الرابعة والعشرون 231 - 240 ه PageV05P741 
+",000,False,000,False,False,False,1,53682
+"### || - (الحوادث) PageV05P743 
+",000,False,000,False,False,False,2,1975
+"### ||| -سنة إحدى وثلاثين ومائتين 
+",000,False,000,False,False,False,3,237
+"### ||| -سنة اثنتين وثلاثين ومائتين 
+",000,False,000,False,False,False,3,146
+"### ||| -سنة ثلاث وثلاثين ومائتين 
+",000,False,000,False,False,False,3,172
+"### ||| -سنة أربع وثلاثين ومائتين 
+",000,False,000,False,False,False,3,267
+"### ||| -سنة خمس وثلاثين ومائتين 
+",000,False,000,False,False,False,3,74
+"### ||| -سنة ست وثلاثين ومائتين 
+",000,False,000,False,False,False,3,349
+"### ||| -سنة سبع وثلاثين ومائتين 
+",000,False,000,False,False,False,3,348
+"### ||| -سنة ثمان وثلاثين ومائتين 
+",000,False,000,False,False,False,3,141
+"### ||| -سنة تسع وثلاثين ومائتين 
+",000,False,000,False,False,False,3,109
+"### ||| -سنة أربعين ومائتين 
+",000,False,000,False,False,False,3,160
+"### || -رجال هذه الطبقة على المعجم PageV05P753 
+",000,False,000,False,False,False,2,51705
+"### | الطبقة الخامسة والعشرون 241 - 250 ه PageV05P983 
+",000,False,000,False,False,False,1,71788
+"### || - (الحوادث) PageV05P985 
+",000,False,000,False,False,False,2,1777
+"### ||| -سنة إحدى وأربعين 
+",000,False,000,False,False,False,3,206
+"### ||| -سنة اثنتين وأربعين 
+",000,False,000,False,False,False,3,174
+"### ||| -سنة ثلاث وأربعين 
+",000,False,000,False,False,False,3,87
+"### ||| -سنة أربع وأربعين 
+",000,False,000,False,False,False,3,86
+"### ||| -سنة خمس وأربعين 
+",000,False,000,False,False,False,3,189
+"### ||| -سنة ست وأربعين 
+",000,False,000,False,False,False,3,84
+"### ||| -سنة سبع وأربعين 
+",000,False,000,False,False,False,3,47
+"### ||| -سنة ثمان وأربعين 
+",000,False,000,False,False,False,3,661
+"### ||| -سنة تسع وأربعين 
+",000,False,000,False,False,False,3,112
+"### ||| -سنة خمسين ومائتين 
+",000,False,000,False,False,False,3,163
+"### || -رجال هذه الطبقة PageV05P993 
+",000,False,000,False,False,False,2,70004
+"### | الطبقة السادسة والعشرون 251 - 260 ه PageV06P005 
+",000,False,000,False,False,False,1,51333
+"### || - (الحوادث) PageV06P007 
+",000,False,000,False,False,False,2,2952
+"### ||| -دخلت سنة إحدى وخمسين ومائتين 
+",251,year,000,False,251,497,3,147
+"### ||| -ثم دخلت سنة اثنتين وخمسين ومائتين 
+",252,year,000,False,252,496,3,195
+"### ||| -سنة ثلاث وخمسين ومائتين 
+",000,False,000,False,False,False,3,171
+"### ||| -سنة أربع وخمسين ومائتين 
+",000,False,000,False,False,False,3,65
+"### ||| -سنة خمس وخمسين ومائتين 
+",000,False,000,False,False,False,3,502
+"### ||| -سنة ست وخمسين ومائتين 
+",000,False,000,False,False,False,3,1020
+"### ||| -سنة سبع وخمسين ومائتين 
+",000,False,000,False,False,False,3,133
+"### ||| -سنة ثمان وخمسين ومائتين 
+",000,False,000,False,False,False,3,350
+"### ||| -سنة تسع وخمسين ومائتين 
+",000,False,000,False,False,False,3,228
+"### ||| -سنة ستين ومائتين 
+",000,False,000,False,False,False,3,181
+"### || -رجال هذه الطبقة على الترتيب PageV06P019 
+",000,False,000,False,False,False,2,48383
+"### | الطبقة السابعة والعشرون 261 - 270 ه PageV06P239 
+",000,False,000,False,False,False,1,46636
+"### || -الحوادث PageV06P241 
+",000,False,000,False,False,False,2,3791
+"### ||| -دخلت سنة إحدى وستين ومائتين 
+",261,year,000,False,261,487,3,277
+"### ||| -سنة اثنتين وستين ومائتين. 
+",000,False,000,False,False,False,3,288
+"### ||| -سنة ثلاث وستين ومائتين. 
+",000,False,000,False,False,False,3,93
+"### ||| -سنة أربع وستين ومائتين. 
+",000,False,000,False,False,False,3,201
+"### ||| -سنة خمس وستين ومائتين 
+",000,False,000,False,False,False,3,285
+"### ||| -سنة ست وستين ومائتين 
+",000,False,000,False,False,False,3,181
+"### ||| -سنة سبع وستين ومائتين. 
+",000,False,000,False,False,False,3,769
+"### ||| -سنة ثمان وستين ومائتين 
+",000,False,000,False,False,False,3,241
+"### ||| -سنة تسع وستين ومائتين 
+",000,False,000,False,False,False,3,918
+"### ||| -سنة سبعين ومائتين 
+",000,False,000,False,False,False,3,565
+"### || -تراجم أهل هذه الطبقة PageV06P257 
+",000,False,000,False,False,False,2,42843
+"### | الطبقة الثامنة والعشرون 271 - 280 ه PageV06P465 
+",000,False,000,False,False,False,1,35730
+"### || - (الحوادث) PageV06P467 
+",000,False,000,False,False,False,2,1930
+"### ||| -سنة إحدى وسبعين ومائتين 
+",000,False,000,False,False,False,3,254
+"### ||| -سنة اثنتين وسبعين ومائتين 
+",000,False,000,False,False,False,3,137
+"### ||| -سنة ثلاث وسبعين ومائتين 
+",000,False,000,False,False,False,3,92
+"### ||| -سنة أربع وسبعين ومائتين 
+",000,False,000,False,False,False,3,44
+"### ||| -سنة خمس وسبعين ومائتين 
+",000,False,000,False,False,False,3,74
+"### ||| -سنة ست وسبعين ومائتين 
+",000,False,000,False,False,False,3,100
+"### ||| -سنة سبع وسبعين ومائتين 
+",000,False,000,False,False,False,3,57
+"### ||| -سنة ثمان وسبعين ومائتين 
+",000,False,000,False,False,False,3,641
+"### ||| -سنة تسع وسبعين ومائتين 
+",000,False,000,False,False,False,3,184
+"### ||| -سنة ثمانين ومائتين 
+",000,False,000,False,False,False,3,375
+"### || -المتوفون في هذه العشر على المعجم PageV06P477 
+",000,False,000,False,False,False,2,33798
+"### | الطبقة التاسعة والعشرون ms04580 281 - 290 ه PageV06P647 
+",000,False,000,False,False,False,1,44953
+"### || - (الحوادث) PageV06P649 
+",000,False,000,False,False,False,2,4494
+"### ||| -فمن سنة إحدى وثمانين ومائتين 
+",281,year,000,False,281,467,3,248
+"### ||| -سنة اثنتين وثمانين ومائتين 
+",000,False,000,False,False,False,3,312
+"### ||| -سنة ثلاث وثمانين ومائتين 
+",000,False,000,False,False,False,3,692
+"### ||| -سنة أربع وثمانين ومائتين 
+",000,False,000,False,False,False,3,542
+"### ||| -سنة خمس وثمانين ومائتين 
+",000,False,000,False,False,False,3,180
+"### ||| -سنة ست وثمانين ومائتين 
+",000,False,000,False,False,False,3,575
+"### ||| -سنة سبع وثمانين ومائتين 
+",000,False,000,False,False,False,3,253
+"### ||| -سنة ثمان وثمانين ومائتين 
+",000,False,000,False,False,False,3,154
+"### ||| -سنة تسع وثمانين ومائتين 
+",000,False,000,False,False,False,3,1222
+"### ||| -سنة تسعين ومائتين 
+",000,False,000,False,False,False,3,361
+"### || -تراجم رجال هذه الطبقة على حروف المعجم 
+",000,False,000,False,False,False,2,40454
+"### | الطبقة الثلاثون 291 - 300 ه PageV06P861 tab30 
+",000,False,000,False,False,False,1,42036
+"### || - (الحوادث) PageV06P863 
+",000,False,000,False,False,False,2,2920
+"### ||| -سنة إحدى وتسعين ومائتين 
+",000,False,000,False,False,False,3,323
+"### ||| -سنة اثنتين وتسعين ومائتين. 
+",000,False,000,False,False,False,3,305
+"### ||| -سنة ثلاث وتسعين ومائتين 
+",000,False,000,False,False,False,3,390
+"### ||| -سنة أربع وتسعين ومائتين 
+",000,False,000,False,False,False,3,265
+"### ||| -سنة خمس وتسعين ومائتين 
+",000,False,000,False,False,False,3,197
+"### ||| -سنة ست وتسعين ومائتين 
+",000,False,000,False,False,False,3,851
+"### ||| -سنة سبع وتسعين ومائتين 
+",000,False,000,False,False,False,3,114
+"### ||| -سنة ثمان وتسعين ومائتين 
+",000,False,000,False,False,False,3,203
+"### ||| -سنة تسع وتسعين ومائتين 
+",000,False,000,False,False,False,3,155
+"### ||| -سنة ms04741 ثلاثمائة 
+",000,False,000,False,False,False,3,148
+"### || -تراجم رجال أهل هذه الطبقة على المعجم 
+",000,False,000,False,False,False,2,39112
+"### | - الطبقة الحادية والثلاثون 301 - 310 ه 
+",000,False,000,False,False,False,1,39739
+"### || - (الحوادث) PageV07P007 
+",000,False,000,False,False,False,2,5056
+"### ||| -سنة إحدى وثلاث مائة 
+",000,False,000,False,False,False,3,805
+"### ||| -سنة اثنتين وثلاث مائة 
+",000,False,000,False,False,False,3,386
+"### ||| -سنة ثلاث وثلاث مائة 
+",000,False,000,False,False,False,3,96
+"### ||| -سنة أربع وثلاث مائة 
+",000,False,000,False,False,False,3,246
+"### ||| -سنة خمس وثلاث مائة 
+",000,False,000,False,False,False,3,188
+"### ||| -سنة ست وثلاث مائة 
+",000,False,000,False,False,False,3,225
+"### ||| -سنة سبع وثلاث مائة 
+",000,False,000,False,False,False,3,104
+"### ||| -سنة ثمان وثلاث مائة 
+",000,False,000,False,False,False,3,163
+"### ||| -سنة تسع وثلاث مائة 
+",000,False,000,False,False,False,3,2728
+"### ||| -سنة عشر وثلاث مائة 
+",000,False,000,False,False,False,3,141
+"### || - (الوفيات) PageV07P027 
+",000,False,000,False,False,False,2,34679
+"### ||| -سنة اثنتين وثلاث مائة PageV07P046 
+",000,False,000,False,False,False,3,2575
+"### ||| -سنة ثلاث وثلاث مائة PageV07P059 
+",000,False,000,False,False,False,3,3086
+"### ||| -سنة أربع وثلاثمائة PageV07P074 
+",000,False,000,False,False,False,3,2244
+"### ||| -سنة خمس وثلاثمائة PageV07P086 
+",000,False,000,False,False,False,3,2422
+"### ||| -سنة ست وثلاثمائة PageV07P098 
+",000,False,000,False,False,False,3,2886
+"### ||| -سنة سبع وثلاثمائة PageV07P112 
+",000,False,000,False,False,False,3,3372
+"### ||| -سنة ثمان وثلاث مائة PageV07P129 
+",000,False,000,False,False,False,3,2142
+"### ||| -سنة تسع وثلاث مائة PageV07P141 
+",000,False,000,False,False,False,3,1800
+"### ||| -سنة عشر وثلاث مائة PageV07P151 
+",000,False,000,False,False,False,3,10485
+"### | -الطبقة الثانية والثلاثون 311 - 320 ه 
+",000,False,000,False,False,False,1,40308
+"### || - (الحوادث) PageV07P205 
+",000,False,000,False,False,False,2,5928
+"### ||| -سنة إحدى عشرة وثلاثمائة 
+",000,False,000,False,False,False,3,626
+"### ||| -سنة اثنتي عشرة وثلاثمائة 
+",000,False,000,False,False,False,3,445
+"### ||| -سنة ثلاث عشرة وثلاثمائة 
+",000,False,000,False,False,False,3,164
+"### ||| -سنة أربع عشرة وثلاثمائة 
+",000,False,000,False,False,False,3,147
+"### ||| -سنة خمس عشرة وثلاثمائة 
+",000,False,000,False,False,False,3,1388
+"### ||| -سنة ست عشرة وثلاثمائة 
+",000,False,000,False,False,False,3,243
+"### ||| -سنة سبع عشرة وثلاثمائة 
+",000,False,000,False,False,False,3,1601
+"### ||| -سنة ثمان عشرة وثلاثمائة 
+",000,False,000,False,False,False,3,103
+"### ||| -سنة تسع عشرة وثلاثمائة 
+",000,False,000,False,False,False,3,430
+"### ||| -سنة عشرين وثلاثمائة 
+",000,False,000,False,False,False,3,830
+"### || - (الوفيات) PageV07P229 
+",000,False,000,False,False,False,2,34377
+"### ||| -المتوفون سنة إحدى عشرة وثلاثمائة PageV07P229 
+",311,year,000,False,311,437,3,4321
+"### ||| -سنة اثنتي عشرة وثلاثمائة PageV07P249 
+",000,False,000,False,False,False,3,2387
+"### ||| -سنة ثلاث عشرة وثلاث مائة PageV07P261 
+",000,False,000,False,False,False,3,3353
+"### ||| -سنة أربع عشرة وثلاث مائة PageV07P278 
+",000,False,000,False,False,False,3,1958
+"### ||| -سنة خمس عشرة وثلاث مائة PageV07P288 
+",000,False,000,False,False,False,3,2353
+"### ||| -سنة ست عشرة وثلاث مائة PageV07P302 
+",000,False,000,False,False,False,3,2986
+"### ||| -سنة سبع عشرة وثلاث مائة PageV07P316 
+",000,False,000,False,False,False,3,3851
+"### ||| -سنة ثمان عشرة وثلاث مائة PageV07P335 
+",000,False,000,False,False,False,3,3214
+"### ||| -سنة تسع عشرة وثلاث مائة PageV07P351 
+",000,False,000,False,False,False,3,2288
+"### ||| -سنة عشرين وثلاث مائة PageV07P363 
+",000,False,000,False,False,False,3,7718
+"### | -الطبقة الثالثة والثلاثون 321 - 330 ه 
+",000,False,000,False,False,False,1,43738
+"### || - (الحوادث) PageV07P403 
+",000,False,000,False,False,False,2,7965
+"### ||| -سنة إحدى وعشرين وثلاثمائة 
+",000,False,000,False,False,False,3,651
+"### ||| -سنة اثنتين وعشرين وثلاثمائة 
+",000,False,000,False,False,False,3,2224
+"### ||| -سنة ثلاث وعشرين وثلاثمائة 
+",000,False,000,False,False,False,3,713
+"### ||| -سنة أربع وعشرين وثلاثمائة 
+",000,False,000,False,False,False,3,954
+"### ||| -سنة خمس وعشرين وثلاثمائة 
+",000,False,000,False,False,False,3,763
+"### ||| -سنة ست وعشرين وثلاثمائة 
+",000,False,000,False,False,False,3,603
+"### ||| -سنة سبع وعشرين وثلاثمائة 
+",000,False,000,False,False,False,3,290
+"### ||| -سنة ثمان وعشرين وثلاثمائة 
+",000,False,000,False,False,False,3,227
+"### ||| -سنة تسع وعشرين وثلاثمائة 
+",000,False,000,False,False,False,3,813
+"### ||| -سنة ثلاثين وثلاثمائة 
+",000,False,000,False,False,False,3,768
+"### || - (الوفيات) PageV07P437 
+",000,False,000,False,False,False,2,35771
+"### ||| -سنة إحدى وعشرين وثلاثمائة ومن توفي فيها 
+",000,False,000,False,False,False,3,3263
+"### ||| -سنة اثنتين وعشرين وثلاثمائة PageV07P453 
+",000,False,000,False,False,False,3,3653
+"### ||| -سنة ثلاث وعشرين وثلاثمائة PageV07P471 
+",000,False,000,False,False,False,3,2547
+"### ||| -سنة أربع وعشرين وثلاثمائة PageV07P485 
+",000,False,000,False,False,False,3,3760
+"### ||| -سنة خمس وعشرين وثلاثمائة PageV07P504 
+",000,False,000,False,False,False,3,2579
+"### ||| -سنة ست وعشرين وثلاثمائة PageV07P518 
+",000,False,000,False,False,False,3,1920
+"### ||| -سنة سبع وعشرين وثلاثمائة PageV07P528 
+",000,False,000,False,False,False,3,2892
+"### ||| -سنة ثمان وعشرين وثلاثمائة PageV07P543 
+",000,False,000,False,False,False,3,5384
+"### ||| -سنة تسع وعشرين وثلاثمائة PageV07P569 
+",000,False,000,False,False,False,3,3163
+"### ||| -سنة ثلاثين وثلاثمائة PageV07P586 
+",000,False,000,False,False,False,3,2577
+"### ||| -من كان حيا في هذا الوقت ولم أعرف تاريخ وفاته 
+",000,False,000,False,False,False,3,4080
+"### | -الطبقة الرابعة والثلاثون 331 - 340 ه 
+",000,False,000,False,False,False,1,27495
+"### || - (الحوادث) PageV07P623 
+",000,False,000,False,False,False,2,5139
+"### ||| -سنة إحدى وثلاثين وثلاثمائة. 
+",000,False,000,False,False,False,3,326
+"### ||| -سنة اثنتين وثلاثين وثلاثمائة 
+",000,False,000,False,False,False,3,1548
+"### ||| -سنة ثلاث وثلاثين وثلاثمائة 
+",000,False,000,False,False,False,3,572
+"### ||| -سنة أربع وثلاثين وثلاثمائة 
+",000,False,000,False,False,False,3,1200
+"### ||| -سنة خمس وثلاثين وثلاثمائة 
+",000,False,000,False,False,False,3,439
+"### ||| -سنة ست وثلاثين وثلاثمائة 
+",000,False,000,False,False,False,3,151
+"### ||| -سنة سبع وثلاثين وثلاثمائة 
+",000,False,000,False,False,False,3,86
+"### ||| -سنة ثمان وثلاثين وثلاثمائة 
+",000,False,000,False,False,False,3,145
+"### ||| -سنة تسع وثلاثين وثلاثمائة 
+",000,False,000,False,False,False,3,527
+"### ||| -سنة أربعين وثلاثمائة 
+",000,False,000,False,False,False,3,181
+"### || - (الوفيات) PageV07P643 
+",000,False,000,False,False,False,2,22353
+"### ||| -سنة إحدى وثلاثين وثلاثمائة PageV07P643 
+",000,False,000,False,False,False,3,2394
+"### ||| -سنة اثنتين وثلاثين وثلاثمائة PageV07P654 
+",000,False,000,False,False,False,3,2571
+"### ||| -سنة ثلاث وثلاثين وثلاثمائة PageV07P667 
+",000,False,000,False,False,False,3,1484
+"### ||| -سنة أربع وثلاثين وثلاثمائة PageV07P675 
+",000,False,000,False,False,False,3,3214
+"### ||| -سنة خمس وثلاثين وثلاثمائة PageV07P690 
+",000,False,000,False,False,False,3,1620
+"### ||| -سنة ست وثلاثين وثلاثمائة PageV07P698 
+",000,False,000,False,False,False,3,1402
+"### ||| -سنة سبع وثلاثين وثلاثمائة PageV07P705 
+",000,False,000,False,False,False,3,1257
+"### ||| -سنة ثمان وثلاثين وثلاثمائة PageV07P712 
+",000,False,000,False,False,False,3,2210
+"### ||| -سنة تسع وثلاثين وثلاثمائة PageV07P723 
+",000,False,000,False,False,False,3,2154
+"### ||| -سنة أربعين وثلاثمائة PageV07P733 
+",000,False,000,False,False,False,3,2350
+"### ||| -ومن المتوفين تقريبا PageV07P744 
+",000,False,000,False,False,False,3,1749
+"### | -الطبقة الخامسة والثلاثون 341 - 350 ه 
+",000,False,000,False,False,False,1,33873
+"### || - (الحوادث) PageV07P755 
+",000,False,000,False,False,False,2,2015
+"### ||| -سنة إحدى وأربعين وثلاثمائة 
+",000,False,000,False,False,False,3,173
+"### ||| -سنة اثنتين وأربعين وثلاثمائة 
+",000,False,000,False,False,False,3,233
+"### ||| -سنة ثلاث وأربعين وثلاثمائة 
+",000,False,000,False,False,False,3,176
+"### ||| -سنة أربع وأربعين وثلاثمائة 
+",000,False,000,False,False,False,3,139
+"### ||| -سنة خمس وأربعين وثلاثمائة 
+",000,False,000,False,False,False,3,98
+"### ||| -سنة ست وأربعين وثلاثمائة 
+",000,False,000,False,False,False,3,102
+"### ||| -سنة سبع وأربعين وثلاثمائة 
+",000,False,000,False,False,False,3,208
+"### ||| -سنة ثمان وأربعين وثلاثمائة 
+",000,False,000,False,False,False,3,171
+"### ||| -سنة تسع وأربعين وثلاثمائة 
+",000,False,000,False,False,False,3,241
+"### ||| -سنة خمسين وثلاثمائة 
+",000,False,000,False,False,False,3,491
+"### || - (الوفيات) PageV07P765 
+",000,False,000,False,False,False,2,31853
+"### ||| -سنة إحدى وأربعين وثلاثمائة PageV07P765 
+",000,False,000,False,False,False,3,2147
+"### ||| -سنة اثنتين وأربعين وثلاث مائة PageV07P776 
+",000,False,000,False,False,False,3,2327
+"### ||| -سنة ثلاث وأربعين وثلاث مائة PageV07P787 
+",000,False,000,False,False,False,3,1636
+"### ||| -سنة أربع وأربعين وثلاث مائة PageV07P795 
+",000,False,000,False,False,False,3,4103
+"### ||| -سنة خمس وأربعين وثلاث مائة PageV07P815 
+",000,False,000,False,False,False,3,3035
+"### ||| -سنة ست وأربعين وثلاث مائة PageV07P830 
+",000,False,000,False,False,False,3,3812
+"### ||| -سنة سبع وأربعين وثلاث مائة PageV07P848 
+",000,False,000,False,False,False,3,2445
+"### ||| -سنة ثمان وأربعين وثلاث مائة PageV07P860 
+",000,False,000,False,False,False,3,2164
+"### ||| -سنة ms05466 تسع وأربعين وثلاثمائة PageV07P871 
+",000,False,000,False,False,False,3,2415
+"### ||| -سنة خمسين وثلاث مائة PageV07P883 
+",000,False,000,False,False,False,3,3419
+"### ||| -المتوفون في هذه الحدود تقريبا PageV07P900 
+",000,False,000,False,False,False,3,4388
+"### | -الطبقة السادسة والثلاثون 351 - 360 ه 
+",000,False,000,False,False,False,1,37295
+"### || - (الحوادث) PageV08P007 
+",000,False,000,False,False,False,2,5242
+"### ||| -سنة إحدى وخمسين وثلاثمائة 
+",000,False,000,False,False,False,3,1044
+"### ||| -سنة اثنتين وخمسين وثلاثمائة 
+",000,False,000,False,False,False,3,449
+"### ||| -سنة ثلاث وخمسين وثلاثمائة 
+",000,False,000,False,False,False,3,381
+"### ||| -سنة أربع وخمسين وثلاثمائة 
+",000,False,000,False,False,False,3,713
+"### ||| -سنة خمس وخمسين وثلاثمائة 
+",000,False,000,False,False,False,3,997
+"### ||| -سنة ست وخمسين وثلاثمائة 
+",000,False,000,False,False,False,3,606
+"### ||| -سنة سبع وخمسين وثلاثمائة 
+",000,False,000,False,False,False,3,691
+"### ||| -سنة ثمان وخمسين وثلاثمائة 
+",000,False,000,False,False,False,3,152
+"### ||| -سنة تسع وخمسين وثلاثمائة 
+",000,False,000,False,False,False,3,126
+"### ||| -سنة ستين وثلاثمائة 
+",000,False,000,False,False,False,3,114
+"### || - (الوفيات) PageV08P027 
+",000,False,000,False,False,False,2,32051
+"### ||| -سنة إحدى وخمسين وثلاثمائة PageV08P027 
+",000,False,000,False,False,False,3,2729
+"### ||| -سنة اثنتين وخمسين وثلاثمائة PageV08P040 
+",000,False,000,False,False,False,3,2431
+"### ||| -سنة ثلاث وخمسين وثلاثمائة PageV08P052 
+",000,False,000,False,False,False,3,2729
+"### ||| -سنة أربع وخمسين وثلاث مائة PageV08P065 
+",000,False,000,False,False,False,3,2939
+"### ||| -سنة خمس وخمسين وثلاث مائة PageV08P079 
+",000,False,000,False,False,False,3,2861
+"### ||| -سنة ست وخمسين وثلاثمائة PageV08P092 
+",000,False,000,False,False,False,3,4144
+"### ||| -سنة سبع وخمسين وثلاث مائة PageV08P110 
+",000,False,000,False,False,False,3,2570
+"### ||| -سنة ثمان وخمسين وثلاث مائة PageV08P122 
+",000,False,000,False,False,False,3,1999
+"### ||| -سنة تسع وخمسين وثلاثمائة PageV08P132 
+",000,False,000,False,False,False,3,1848
+"### ||| -سنة ستين وثلاثمائة PageV08P141 
+",000,False,000,False,False,False,3,3980
+"### ||| -من لم نحفظ وفاته وله شهرة كتبناه تقريبا 
+",000,False,000,False,False,False,3,3866
+"### | -الطبقة السابعة والثلاثون 361 - 370 ه 
+",000,False,000,False,False,False,1,33321
+"### || - (الحوادث) PageV08P179 
+",000,False,000,False,False,False,2,3341
+"### ||| -سنة إحدى ستين وثلاثمائة 
+",000,False,000,False,False,False,3,108
+"### ||| -سنة اثنتين وستين وثلاثمائة 
+",000,False,000,False,False,False,3,459
+"### ||| -سنة ثلاث وستين وثلاثمائة 
+",000,False,000,False,False,False,3,671
+"### ||| -سنة أربع وستين وثلاثمائة 
+",000,False,000,False,False,False,3,619
+"### ||| -سنة خمس وستين وثلاثمائة 
+",000,False,000,False,False,False,3,110
+"### ||| -سنة ست وستين وثلاثمائة 
+",000,False,000,False,False,False,3,296
+"### ||| -سنة سبع وستين وثلاثمائة 
+",000,False,000,False,False,False,3,466
+"### ||| -سنة ثمان وستين وثلاثمائة 
+",000,False,000,False,False,False,3,80
+"### ||| -سنة تسع ms05639 وستين وثلاثمائة 
+",000,False,000,False,False,False,3,491
+"### ||| -سنة سبعين وثلاثمائة 
+",000,False,000,False,False,False,3,92
+"### || - (الوفيات) PageV08P193 
+",000,False,000,False,False,False,2,29977
+"### ||| -سنة إحدى وستين وثلاثمائة ومن توفي فيها 
+",000,False,000,False,False,False,3,1027
+"### ||| -سنة ثنتين وستين وثلاثمائة PageV08P199 
+",000,False,000,False,False,False,3,2207
+"### ||| -سنة ثلاث وستين وثلاثمائة PageV08P211 
+",000,False,000,False,False,False,3,2359
+"### ||| -سنة أربع وستين وثلاثمائة PageV08P223 
+",000,False,000,False,False,False,3,2367
+"### ||| -سنة خمس وستين وثلاثمائة PageV08P236 
+",000,False,000,False,False,False,3,3015
+"### ||| -سنة ست وستين وثلاثمائة PageV08P251 
+",000,False,000,False,False,False,3,2367
+"### ||| -سنة سبع وستين وثلاثمائة PageV08P263 
+",000,False,000,False,False,False,3,3929
+"### ||| -سنة ثمان وستين وثلاثمائة PageV08P282 
+",000,False,000,False,False,False,3,3253
+"### ||| -سنة تسع وستين وثلاث مائة ms05711. PageV08P298 
+",000,False,000,False,False,False,3,3591
+"### ||| -سنة سبعين وثلاثمائة PageV08P315 
+",000,False,000,False,False,False,3,2943
+"### ||| -المتوفون في عشر السبعين وثلاثمائة تقريبا لا 
+",000,False,000,False,False,False,3,2949
+"### | -الطبقة الثامنة والثلاثون 371 - 380 ه 
+",000,False,000,False,False,False,1,32212
+"### || - (الحوادث) PageV08P347 
+",000,False,000,False,False,False,2,1472
+"### ||| -سنة إحدى وسبعين وثلاثمائة 
+",000,False,000,False,False,False,3,156
+"### ||| -سنة اثنتين وسبعين وثلاثمائة 
+",000,False,000,False,False,False,3,260
+"### ||| -سنة ثلاث وسبعين وثلاثمائة 
+",000,False,000,False,False,False,3,111
+"### ||| -سنة أربع وسبعين وثلاثمائة 
+",000,False,000,False,False,False,3,37
+"### ||| -سنة خمس وسبعين وثلاثمائة 
+",000,False,000,False,False,False,3,44
+"### ||| -سنة ست وسبعين وثلاثمائة 
+",000,False,000,False,False,False,3,184
+"### ||| -سنة سبع ms05746 وسبعين وثلاثمائة 
+",000,False,000,False,False,False,3,258
+"### ||| -سنة ثمان وسبعين وثلاثمائة 
+",000,False,000,False,False,False,3,83
+"### ||| -سنة تسع وسبعين وثلاثمائة 
+",000,False,000,False,False,False,3,311
+"### ||| -سنة ثمانين وثلاثمائة 
+",000,False,000,False,False,False,3,52
+"### || - (الوفيات) PageV08P353 
+",000,False,000,False,False,False,2,30737
+"### ||| -سنة إحدى وسبعين وثلاثمائة PageV08P353 
+",000,False,000,False,False,False,3,3998
+"### ||| -سنة اثنتين وسبعين وثلاثمائة PageV08P371 
+",000,False,000,False,False,False,3,2640
+"### ||| -سنة ثلاث وسبعين وثلاثمائة PageV08P384 
+",000,False,000,False,False,False,3,2861
+"### ||| -سنة أربع وسبعين وثلاثمائة PageV08P397 
+",000,False,000,False,False,False,3,2340
+"### ||| -سنة خمس وسبعين وثلاثمائة PageV08P409 
+",000,False,000,False,False,False,3,2853
+"### ||| -سنة ست وسبعين وثلاثمائة PageV08P423 
+",000,False,000,False,False,False,3,2727
+"### ||| -سنة سبع وسبعين وثلاثمائة PageV08P436 
+",000,False,000,False,False,False,3,2241
+"### ||| -سنة ثمان وسبعين وثلاثمائة PageV08P447 
+",000,False,000,False,False,False,3,3355
+"### ||| -سنة تسع وسبعين وثلاث مائة PageV08P463 
+",000,False,000,False,False,False,3,2231
+"### ||| -سنة ثمانين وثلاث مائة PageV08P475 
+",000,False,000,False,False,False,3,2615
+"### ||| -المتوفون تقريبا من أهل هذه الطبقة رحمهم الله 
+",000,False,000,False,False,False,3,2933
+"### | -الطبقة التاسعة والثلاثون ms05853 381 - 390 ه 
+",000,False,000,False,False,False,1,35609
+"### || - (الحوادث) PageV08P505 
+",000,False,000,False,False,False,2,2331
+"### ||| -سنة إحدى وثمانين وثلاث مائة. 
+",000,False,000,False,False,False,3,954
+"### ||| -سنة اثنتين وثمانين وثلاث مائة. 
+",000,False,000,False,False,False,3,306
+"### ||| -سنة ثلاث وثمانين وثلاث مائة. 
+",000,False,000,False,False,False,3,141
+"### ||| -سنة أربع وثمانين وثلاث مائة. 
+",000,False,000,False,False,False,3,177
+"### ||| -سنة خمس وثمانين وثلاث مائة. 
+",000,False,000,False,False,False,3,22
+"### ||| -سنة ست وثمانين وثلاث مائة. 
+",000,False,000,False,False,False,3,53
+"### ||| -سنة سبع وثمانين وثلاث مائة. 
+",000,False,000,False,False,False,3,194
+"### ||| -سنة ثمان وثمانين وثلاث مائة. 
+",000,False,000,False,False,False,3,308
+"### ||| -سنة تسع وثمانين وثلاثمائة. 
+",000,False,000,False,False,False,3,136
+"### ||| -سنة تسعين وثلاثمائة. 
+",000,False,000,False,False,False,3,71
+"### || - (الوفيات) PageV08P515 
+",000,False,000,False,False,False,2,33275
+"### ||| -سنة إحدى وثمانين وثلاثمائة. PageV08P515 
+",000,False,000,False,False,False,3,3286
+"### ||| -سنة اثنتين وثمانين وثلاثمائة. PageV08P531 
+",000,False,000,False,False,False,3,1585
+"### ||| -سنة ثلاث وثمانين وثلاثمائة. PageV08P539 
+",000,False,000,False,False,False,3,2503
+"### ||| -سنة أربع وثمانين وثلاثمائة. PageV08P553 
+",000,False,000,False,False,False,3,2988
+"### ||| -سنة خمس وثمانين وثلاثمائة. PageV08P568 
+",000,False,000,False,False,False,3,4293
+"### ||| -سنة ست وثمانين وثلاثمائة PageV08P589 
+",000,False,000,False,False,False,3,3109
+"### ||| -سنة سبع وثمانين وثلاثمائة PageV08P604 
+",000,False,000,False,False,False,3,5018
+"### ||| -سنة ثمان وثمانين وثلاثمائة. PageV08P629 
+",000,False,000,False,False,False,3,2996
+"### ||| -سنة تسع وثمانين وثلاثمائة. PageV08P644 
+",000,False,000,False,False,False,3,2445
+"### ||| -سنة تسعين وثلاثمائة PageV08P656 
+",000,False,000,False,False,False,3,3188
+"### ||| -وممن كان في هذا الوقت. PageV08P673 
+",000,False,000,False,False,False,3,1910
+"### | -الطبقة الأربعون 391 - 400 ه PageV08P683 tab40 
+",000,False,000,False,False,False,1,30922
+"### || - (الحوادث) PageV08P685 
+",000,False,000,False,False,False,2,2753
+"### ||| -سنة إحدى وتسعين وثلاثمائة 
+",000,False,000,False,False,False,3,88
+"### ||| -سنة اثنتين وتسعين وثلاثمائة 
+",000,False,000,False,False,False,3,197
+"### ||| -سنة ثلاث وتسعين وثلاثمائة 
+",000,False,000,False,False,False,3,139
+"### ||| -سنة أربع وتسعين وثلاثمائة. 
+",000,False,000,False,False,False,3,154
+"### ||| -سنة خمس وتسعين وثلاثمائة. 
+",000,False,000,False,False,False,3,473
+"### ||| -سنة ست وتسعين وثلاثمائة. 
+",000,False,000,False,False,False,3,73
+"### ||| -سنة سبع وتسعين وثلاثمائة. 
+",000,False,000,False,False,False,3,290
+"### ||| -سنة ثمان وتسعين وثلاثمائة. 
+",000,False,000,False,False,False,3,498
+"### ||| -سنة تسع وتسعين وثلاثمائة. 
+",000,False,000,False,False,False,3,150
+"### ||| -سنة أربعمائة. 
+",000,False,000,False,False,False,3,736
+"### || - (الوفيات) PageV08P697 
+",000,False,000,False,False,False,2,28168
+"### ||| -سنة إحدى وتسعين وثلاثمائة. PageV08P697 
+",000,False,000,False,False,False,3,2647
+"### ||| -سنة اثنتين وتسعين وثلاثمائة PageV08P710 
+",000,False,000,False,False,False,3,2302
+"### ||| -سنة ثلاث وتسعين وثلاثمائة PageV08P722 
+",000,False,000,False,False,False,3,2924
+"### ||| -سنة أربع وتسعين وثلاثمائة PageV08P737 
+",000,False,000,False,False,False,3,1634
+"### ||| -سنة خمس وتسعين وثلاثمائة PageV08P746 
+",000,False,000,False,False,False,3,2825
+"### ||| -سنة ست وتسعين وثلاثمائة PageV08P760 
+",000,False,000,False,False,False,3,2365
+"### ||| -سنة سبع وتسعين وثلاثمائة PageV08P772 
+",000,False,000,False,False,False,3,1371
+"### ||| -سنة ثمان وتسعين وثلاثمائة PageV08P780 
+",000,False,000,False,False,False,3,2341
+"### ||| -سنة تسع وتسعين وثلاثمائة PageV08P792 
+",000,False,000,False,False,False,3,3582
+"### ||| -سنة أربعمائة PageV08P810 
+",000,False,000,False,False,False,3,3153
+"### ||| -المتوفون قبل الأربعمائة PageV08P825 
+",000,False,000,False,False,False,3,3083
+"### | - الطبقة الحادية والأربعون 401 - 410 ه 
+",000,False,000,False,False,False,1,33890
+"### || - (الحوادث) PageV09P007 
+",000,False,000,False,False,False,2,3951
+"### ||| -سنة إحدى وأربعمائة 
+",000,False,000,False,False,False,3,799
+"### ||| -سنة اثنتين وأربعمائة 
+",000,False,000,False,False,False,3,674
+"### ||| -سنة ثلاث وأربعمائة. 
+",000,False,000,False,False,False,3,550
+"### ||| -سنة أربع وأربعمائة 
+",000,False,000,False,False,False,3,186
+"### ||| -سنة خمس وأربعمائة 
+",000,False,000,False,False,False,3,284
+"### ||| -سنة ست وأربعمائة 
+",000,False,000,False,False,False,3,149
+"### ||| -سنة سبع وأربعمائة 
+",000,False,000,False,False,False,3,108
+"### ||| -سنة ثمان وأربعمائة 
+",000,False,000,False,False,False,3,190
+"### ||| -سنة تسع وأربعمائة 
+",000,False,000,False,False,False,3,737
+"### ||| -سنة عشر وأربعمائة 
+",000,False,000,False,False,False,3,309
+"### || - (الوفيات) PageV09P025 
+",000,False,000,False,False,False,2,29930
+"### ||| -سنة اثنتين وأربعمائة. PageV09P039 
+",000,False,000,False,False,False,3,2980
+"### ||| -سنة ثلاث وأربعمائة PageV09P054 
+",000,False,000,False,False,False,3,3675
+"### ||| -سنة أربع وأربعمائة PageV09P071 
+",000,False,000,False,False,False,3,1705
+"### ||| -سنة خمس وأربعمائة. PageV09P080 
+",000,False,000,False,False,False,3,4562
+"### ||| -سنة ست وأربعمائة. PageV09P101 
+",000,False,000,False,False,False,3,2797
+"### ||| -سنة سبع وأربعمائة. PageV09P115 
+",000,False,000,False,False,False,3,2502
+"### ||| -سنة ثمان وأربعمائة PageV09P127 
+",000,False,000,False,False,False,3,1987
+"### ||| -سنة تسع وأربعمائة PageV09P137 
+",000,False,000,False,False,False,3,1901
+"### ||| -سنة عشر ms06182 وأربعمائة PageV09P147 
+",000,False,000,False,False,False,3,2612
+"### ||| -المتوفون بعد الأربعمائة ظنا PageV09P161 
+",000,False,000,False,False,False,3,2553
+"### | -الطبقة الثانية والأربعون 411 - 420 ه 
+",000,False,000,False,False,False,1,33557
+"### || - (الحوادث) PageV09P175 
+",000,False,000,False,False,False,2,3583
+"### ||| -سنة إحدى عشرة وأربعمائة 
+",000,False,000,False,False,False,3,974
+"### ||| -سنة اثنتي عشرة وأربعمائة 
+",000,False,000,False,False,False,3,174
+"### ||| -سنة ثلاث عشرة وأربعمائة 
+",000,False,000,False,False,False,3,270
+"### ||| -سنة أربع عشرة وأربعمائة 
+",000,False,000,False,False,False,3,313
+"### ||| -سنة خمس عشرة وأربعمائة 
+",000,False,000,False,False,False,3,116
+"### ||| -سنة ست عشرة وأربعمائة 
+",000,False,000,False,False,False,3,226
+"### ||| -سنة سبع عشرة وأربعمائة 
+",000,False,000,False,False,False,3,143
+"### ||| -سنة ثمان عشرة وأربعمائة 
+",000,False,000,False,False,False,3,356
+"### ||| -سنة تسع عشرة وأربعمائة 
+",000,False,000,False,False,False,3,253
+"### ||| -سنة عشرين وأربعمائة 
+",000,False,000,False,False,False,3,786
+"### || - (الوفيات) PageV09P191 
+",000,False,000,False,False,False,2,29973
+"### ||| -سنة إحدى عشرة وأربعمائة PageV09P191 
+",000,False,000,False,False,False,3,1860
+"### ||| -سنة اثنتي عشرة وأربعمائة PageV09P200 
+",000,False,000,False,False,False,3,2895
+"### ||| -سنة ثلاث عشرة وأربعمائة PageV09P214 
+",000,False,000,False,False,False,3,3336
+"### ||| -سنة أربع عشرة وأربعمائة PageV09P230 
+",000,False,000,False,False,False,3,3684
+"### ||| -سنة خمس عشرة وأربعمائة PageV09P247 
+",000,False,000,False,False,False,3,3537
+"### ||| -سنة ست عشرة وأربعمائة PageV09P266 
+",000,False,000,False,False,False,3,2457
+"### ||| -سنة سبع عشرة وأربعمائة PageV09P278 
+",000,False,000,False,False,False,3,2385
+"### ||| -سنة ثمان عشرة وأربعمائة. PageV09P290 
+",000,False,000,False,False,False,3,2989
+"### ||| -سنة تسع عشرة وأربعمائة PageV09P305 
+",000,False,000,False,False,False,3,2022
+"### ||| -سنة عشرين وأربعمائة. PageV09P316 
+",000,False,000,False,False,False,3,1983
+"### ||| -ذكر المتوفين تقريبا من رجال هذه الطبقة. 
+",000,False,000,False,False,False,3,2855
+"### | -الطبقة الثالثة والأربعون 421 - 430 ه 
+",000,False,000,False,False,False,1,31676
+"### || - (الحوادث) PageV09P341 
+",000,False,000,False,False,False,2,3535
+"### ||| -سنة إحدى وعشرين وأربعمائة 
+",000,False,000,False,False,False,3,299
+"### ||| -سنة اثنتين وعشرين وأربعمائة 
+",000,False,000,False,False,False,3,566
+"### ||| -سنة ثلاث وعشرين وأربعمائة 
+",000,False,000,False,False,False,3,974
+"### ||| -سنة أربع ms06321 وعشرين وأربعمائة 
+",000,False,000,False,False,False,3,493
+"### ||| -سنة خمس وعشرين وأربعمائة 
+",000,False,000,False,False,False,3,307
+"### ||| -سنة ست وعشرين وأربعمائة 
+",000,False,000,False,False,False,3,230
+"### ||| -سنة سبع وعشرين وأربعمائة 
+",000,False,000,False,False,False,3,234
+"### ||| -سنة ثمان وعشرين وأربعمائة 
+",000,False,000,False,False,False,3,101
+"### ||| -سنة تسع وعشرين وأربعمائة 
+",000,False,000,False,False,False,3,271
+"### ||| -سنة ثلاثين وأربعمائة 
+",000,False,000,False,False,False,3,114
+"### || - (الوفيات) PageV09P357 
+",000,False,000,False,False,False,2,28143
+"### ||| -سنة إحدى وعشرين وأربعمائة، ومن توفي فيها 
+",000,False,000,False,False,False,3,3647
+"### ||| -سنة اثنتين وعشرين وأربعمائة PageV09P374 
+",000,False,000,False,False,False,3,2567
+"### ||| -سنة ثلاث وعشرين وأربعمائة PageV09P386 
+",000,False,000,False,False,False,3,1856
+"### ||| -سنة أربع وعشرين وأربعمائة PageV09P396 
+",000,False,000,False,False,False,3,1363
+"### ||| -سنة خمس وعشرين وأربعمائة PageV09P403 
+",000,False,000,False,False,False,3,2523
+"### ||| -سنة ست وعشرين وأربعمائة PageV09P415 
+",000,False,000,False,False,False,3,1358
+"### ||| -سنة سبع وعشرين وأربعمائة PageV09P422 
+",000,False,000,False,False,False,3,2069
+"### ||| -سنة ثمان وعشرين وأربعمائة PageV09P432 
+",000,False,000,False,False,False,3,5292
+"### ||| -سنة تسع وعشرين وأربعمائة PageV09P455 
+",000,False,000,False,False,False,3,2689
+"### ||| -سنة ثلاثين وأربعمائة PageV09P468 
+",000,False,000,False,False,False,3,3351
+"### ||| -وممن كان في هذا الوقت PageV09P484 
+",000,False,000,False,False,False,3,1464
+"### | -الطبقة الرابعة والأربعون 431 - 440 ه 
+",000,False,000,False,False,False,1,22720
+"### || - (الحوادث) PageV09P493 
+",000,False,000,False,False,False,2,1657
+"### ||| -سنة إحدى وثلاثين وأربعمائة 
+",000,False,000,False,False,False,3,101
+"### ||| -سنة اثنتين وثلاثين وأربعمائة 
+",000,False,000,False,False,False,3,56
+"### ||| -سنة ثلاث وثلاثين وأربعمائة 
+",000,False,000,False,False,False,3,469
+"### ||| -سنة أربع وثلاثين وأربعمائة 
+",000,False,000,False,False,False,3,161
+"### ||| -سنة خمس وثلاثين وأربعمائة 
+",000,False,000,False,False,False,3,223
+"### ||| -سنة ست وثلاثين وأربعمائة 
+",000,False,000,False,False,False,3,126
+"### ||| -سنة سبع وثلاثين وأربعمائة 
+",000,False,000,False,False,False,3,79
+"### ||| -سنة ثمان وثلاثين وأربعمائة 
+",000,False,000,False,False,False,3,122
+"### ||| -سنة تسع وثلاثين وأربعمائة 
+",000,False,000,False,False,False,3,79
+"### ||| -سنة أربعين وأربعمائة 
+",000,False,000,False,False,False,3,280
+"### || - (الوفيات) PageV09P501 
+",000,False,000,False,False,False,2,21058
+"### ||| -المتوفون سنة إحدى وثلاثين وأربعمائة 
+",431,year,000,False,431,317,3,2959
+"### ||| -سنة اثنتين وثلاثين وأربع مائة PageV09P515 
+",000,False,000,False,False,False,3,1520
+"### ||| -سنة ثلاث وثلاثين وأربعمائة PageV09P523 
+",000,False,000,False,False,False,3,3146
+"### ||| -سنة أربع وثلاثين وأربع مائة PageV09P537 
+",000,False,000,False,False,False,3,1865
+"### ||| -سنة خمس وثلاثين وأربعمائة PageV09P546 
+",000,False,000,False,False,False,3,1176
+"### ||| -سنة ست وثلاثين وأربع مائة PageV09P552 
+",000,False,000,False,False,False,3,2541
+"### ||| -سنة سبع وثلاثين وأربعمائة PageV09P564 
+",000,False,000,False,False,False,3,1390
+"### ||| -سنة ثمان وثلاثين وأربع مائة PageV09P572 
+",000,False,000,False,False,False,3,1545
+"### ||| -سنة تسع وثلاثين وأربعمائة PageV09P580 
+",000,False,000,False,False,False,3,1303
+"### ||| -سنة أربعين وأربعمائة PageV09P587 
+",000,False,000,False,False,False,3,2134
+"### ||| -وممن كان في هذا القرب من هذه الطبقة 
+",000,False,000,False,False,False,3,1532
+"### | -الطبقة الخامسة والأربعون 441 - 450 ه 
+",000,False,000,False,False,False,1,32057
+"### || - (الحوادث) PageV09P607 
+",000,False,000,False,False,False,2,3102
+"### ||| -سنة إحدى وأربعين وأربعمائة 
+",000,False,000,False,False,False,3,170
+"### ||| -سنة اثنتين وأربعين وأربعمائة 
+",000,False,000,False,False,False,3,178
+"### ||| -سنة ثلاث وأربعين وأربعمائة 
+",000,False,000,False,False,False,3,250
+"### ||| -سنة أربع وأربعين وأربعمائة 
+",000,False,000,False,False,False,3,197
+"### ||| -سنة خمس وأربعين وأربعمائة 
+",000,False,000,False,False,False,3,146
+"### ||| -سنة ست وأربعين وأربعمائة 
+",000,False,000,False,False,False,3,435
+"### ||| -سنة سبع وأربعين وأربعمائة 
+",000,False,000,False,False,False,3,411
+"### ||| -سنة ثمان وأربعين وأربعمائة 
+",000,False,000,False,False,False,3,159
+"### ||| -سنة تسع وأربعين وأربعمائة 
+",000,False,000,False,False,False,3,149
+"### ||| -سنة خمسين وأربعمائة 
+",000,False,000,False,False,False,3,1046
+"### || - (الوفيات) PageV09P621 
+",000,False,000,False,False,False,2,28952
+"### ||| -الموتى في عام أحد وأربعين وأربعمائة 
+",000,False,000,False,False,False,3,2597
+"### ||| -سنة اثنتين وأربعين وأربعمائة PageV09P633 
+",000,False,000,False,False,False,3,2386
+"### ||| -سنة ثلاث وأربعين وأربعمائة PageV09P644 
+",000,False,000,False,False,False,3,1508
+"### ||| -سنة أربع وأربعين وأربعمائة PageV09P652 
+",000,False,000,False,False,False,3,2963
+"### ||| -سنة خمس وأربعين وأربعمائة PageV09P666 
+",000,False,000,False,False,False,3,1759
+"### ||| -سنة ست وأربعين وأربعمائة PageV09P675 
+",000,False,000,False,False,False,3,2774
+"### ||| -سنة سبع وأربعين وأربعمائة PageV09P688 
+",000,False,000,False,False,False,3,3023
+"### ||| -سنة ثمان وأربعين وأربعمائة 
+",000,False,000,False,False,False,3,3542
+"### ||| -سنة تسع وأربعين وأربعمائة PageV09P721 
+",000,False,000,False,False,False,3,4954
+"### ||| -سنة خمسين وأربعمائة PageV09P744 
+",000,False,000,False,False,False,3,2696
+"### ||| -المتوفون تقريبا PageV09P757 
+",000,False,000,False,False,False,3,807
+"### | -الطبقة السادسة والأربعون 451 - 460 ه 
+",000,False,000,False,False,False,1,26985
+"### || - (الحوادث) PageV10P007 
+",000,False,000,False,False,False,2,1877
+"### ||| -حوادث سنة إحدى وخمسين وأربعمائة. 
+",451,year,000,False,451,297,3,378
+"### ||| -سنة اثنتين وخمسين وأربعمائة. 
+",000,False,000,False,False,False,3,131
+"### ||| -سنة ثلاث وخمسين وأربعمائة. 
+",000,False,000,False,False,False,3,63
+"### ||| -سنة أربع وخمسين وأربعمائة. 
+",000,False,000,False,False,False,3,150
+"### ||| -سنة خمس وخمسين وأربعمائة. 
+",000,False,000,False,False,False,3,236
+"### ||| -سنة ست وخمسين وأربعمائة. 
+",000,False,000,False,False,False,3,381
+"### ||| -سنة سبع وخمسين وأربعمائة. 
+",000,False,000,False,False,False,3,98
+"### ||| -سنة ثمان وخمسين وأربعمائة. 
+",000,False,000,False,False,False,3,202
+"### ||| -سنة تسع وخمسين وأربعمائة. 
+",000,False,000,False,False,False,3,120
+"### ||| -سنة ستين وأربعمائة. 
+",000,False,000,False,False,False,3,166
+"### || - (الوفيات) PageV10P015 
+",000,False,000,False,False,False,2,25100
+"### ||| -المتوفون في سنة إحدى وخمسين وأربعمائة 
+",451,year,000,False,451,297,3,2095
+"### ||| -سنة اثنتين وخمسين وأربعمائة. PageV10P026 
+",000,False,000,False,False,False,3,1608
+"### ||| -سنة ثلاث وخمسين وأربعمائة. PageV10P035 
+",000,False,000,False,False,False,3,1740
+"### ||| -سنة أربع وخمسين وأربعمائة PageV10P044 
+",000,False,000,False,False,False,3,2497
+"### ||| -سنة خمس وخمسين وأربعمائة PageV10P056 
+",000,False,000,False,False,False,3,2780
+"### ||| -سنة ست وخمسين وأربعمائة PageV10P069 
+",000,False,000,False,False,False,3,4782
+"### ||| -سنة سبع وخمسين وأربعمائة PageV10P090 
+",000,False,000,False,False,False,3,887
+"### ||| -سنة ثمان وخمسين وأربعمائة. PageV10P095 
+",000,False,000,False,False,False,3,3137
+"### ||| -سنة تسع وخمسين وأربعمائة. PageV10P109 
+",000,False,000,False,False,False,3,1343
+"### ||| -سنة ستين وأربعمائة. PageV10P116 
+",000,False,000,False,False,False,3,1958
+"### ||| -ذكر المتوفين تقريبا ms06698 في هذا الوقت PageV10P126 
+",000,False,000,False,False,False,3,2330
+"### | -الطبقة السابعة والأربعون 461 - 470 ه 
+",000,False,000,False,False,False,1,37463
+"### || - (الحوادث) PageV10P139 
+",000,False,000,False,False,False,2,3254
+"### ||| -سنة إحدى وستين وأربعمائة 
+",000,False,000,False,False,False,3,169
+"### ||| -سنة اثنتين وستين وأربعمائة. 
+",000,False,000,False,False,False,3,267
+"### ||| -سنة ثلاث وستين وأربعمائة. 
+",000,False,000,False,False,False,3,667
+"### ||| -سنة أربع وستين وأربعمائة 
+",000,False,000,False,False,False,3,76
+"### ||| -سنة خمس وستين وأربعمائة. 
+",000,False,000,False,False,False,3,811
+"### ||| -سنة ست وستين وأربعمائة 
+",000,False,000,False,False,False,3,250
+"### ||| -سنة سبع وستين وأربعمائة. 
+",000,False,000,False,False,False,3,619
+"### ||| -سنة ثمان وستين وأربعمائة. 
+",000,False,000,False,False,False,3,145
+"### ||| -سنة تسع وستين وأربعمائة. 
+",000,False,000,False,False,False,3,167
+"### ||| -سنة سبعين وأربعمائة. 
+",000,False,000,False,False,False,3,101
+"### || - (الوفيات) PageV10P153 
+",000,False,000,False,False,False,2,34210
+"### ||| -المتوفون في سنة إحدى وستين وأربعمائة من 
+",461,year,000,False,461,287,3,1628
+"### ||| -سنة اثنتين وستين وأربعمائة. PageV10P161 
+",000,False,000,False,False,False,3,3074
+"### ||| -سنة ثلاث وستين وأربعمائة PageV10P175 
+",000,False,000,False,False,False,3,6641
+"### ||| -سنة أربع وستين وأربعمائة. PageV10P203 
+",000,False,000,False,False,False,3,1929
+"### ||| -سنة خمس وستين وأربعمائة. PageV10P212 
+",000,False,000,False,False,False,3,3909
+"### ||| -سنة ست وستين وأربعمائة. PageV10P230 
+",000,False,000,False,False,False,3,2354
+"### ||| -سنة سبع وستين وأربعمائة. PageV10P242 
+",000,False,000,False,False,False,3,3188
+"### ||| -سنة ثمان وستين وأربعمائة PageV10P257 
+",000,False,000,False,False,False,3,3707
+"### ||| -سنة تسع وستين وأربعمائة PageV10P274 
+",000,False,000,False,False,False,3,2568
+"### ||| -سنة سبعين وأربعمائة PageV10P286 
+",000,False,000,False,False,False,3,3709
+"### ||| -المتوفون تقريبا PageV10P302 
+",000,False,000,False,False,False,3,1558
+"### | -الطبقة الثامنة والأربعون 471 - 480 ه 
+",000,False,000,False,False,False,1,33952
+"### || - (الحوادث) PageV10P311 
+",000,False,000,False,False,False,2,2898
+"### ||| -سنة إحدى وسبعين وأربعمائة 
+",000,False,000,False,False,False,3,249
+"### ||| -سنة اثنتين وسبعين وأربعمائة 
+",000,False,000,False,False,False,3,113
+"### ||| -سنة ثلاث وسبعين وأربعمائة 
+",000,False,000,False,False,False,3,40
+"### ||| -سنة أربع وسبعين وأربعمائة 
+",000,False,000,False,False,False,3,189
+"### ||| -سنة خمس وسبعين وأربعمائة 
+",000,False,000,False,False,False,3,120
+"### ||| -سنة ست وسبعين وأربعمائة 
+",000,False,000,False,False,False,3,298
+"### ||| -سنة سبع وسبعين وأربعمائة 
+",000,False,000,False,False,False,3,478
+"### ||| -سنة ثمان وسبعين وأربعمائة 
+",000,False,000,False,False,False,3,571
+"### ||| -سنة تسع وسبعين وأربعمائة 
+",000,False,000,False,False,False,3,665
+"### ||| -سنة ثمانين وأربعمائة. 
+",000,False,000,False,False,False,3,209
+"### || - (الوفيات) PageV10P323 
+",000,False,000,False,False,False,2,31055
+"### ||| -سنة إحدى وسبعين وأربعمائة. PageV10P323 
+",000,False,000,False,False,False,3,3597
+"### ||| -سنة اثنتين وسبعين وأربعمائة. PageV10P340 
+",000,False,000,False,False,False,3,1890
+"### ||| -سنة ثلاث وسبعين وأربعمائة PageV10P349 
+",000,False,000,False,False,False,3,2623
+"### ||| -سنة أربع وسبعين وأربعمائة PageV10P362 
+",000,False,000,False,False,False,3,3096
+"### ||| -سنة خمس وسبعين وأربعمائة PageV10P376 
+",000,False,000,False,False,False,3,1308
+"### ||| -سنة ست وسبعين وأربعمائة PageV10P383 
+",000,False,000,False,False,False,3,4430
+"### ||| -سنة سبع وسبعين وأربعمائة PageV10P402 
+",000,False,000,False,False,False,3,3399
+"### ||| -سنة ثمان وسبعين وأربعمائة PageV10P417 
+",000,False,000,False,False,False,3,4328
+"### ||| -سنة تسع وسبعين وأربعمائة PageV10P437 
+",000,False,000,False,False,False,3,3120
+"### ||| -سنة ثمانين وأربعمائة PageV10P452 
+",000,False,000,False,False,False,3,1433
+"### ||| -ومن المتوفين تقريبا PageV10P459 
+",000,False,000,False,False,False,3,1887
+"### | -الطبقة التاسعة والأربعون 481 - 490 ه 
+",000,False,000,False,False,False,1,43266
+"### || - (الحوادث) PageV10P469 
+",000,False,000,False,False,False,2,4269
+"### ||| -سنة إحدى وثمانين وأربعمائة 
+",000,False,000,False,False,False,3,272
+"### ||| -سنة اثنتين وثمانين وأربعمائة 
+",000,False,000,False,False,False,3,294
+"### ||| -سنة ثلاث وثمانين وأربعمائة 
+",000,False,000,False,False,False,3,302
+"### ||| -سنة أربع وثمانين وأربعمائة 
+",000,False,000,False,False,False,3,805
+"### ||| -سنة خمس وثمانين وأربعمائة 
+",000,False,000,False,False,False,3,806
+"### ||| -سنة ست وثمانين وأربعمائة 
+",000,False,000,False,False,False,3,358
+"### ||| -سنة سبع وثمانين وأربعمائة 
+",000,False,000,False,False,False,3,379
+"### ||| -سنة ثمان وثمانين وأربعمائة 
+",000,False,000,False,False,False,3,509
+"### ||| -سنة تسع وثمانين وأربعمائة 
+",000,False,000,False,False,False,3,150
+"### ||| -سنة تسعين وأربعمائة 
+",000,False,000,False,False,False,3,435
+"### || - (الوفيات) PageV10P487 
+",000,False,000,False,False,False,2,38990
+"### ||| -ذكر من توفي في سنة إحدى وثمانين وأربعمائة من 
+",481,year,000,False,481,267,3,3120
+"### ||| -سنة اثنتين وثمانين وأربعمائة PageV10P501 
+",000,False,000,False,False,False,3,4021
+"### ||| -سنة ثلاث وثمانين وأربعمائة. PageV10P520 
+",000,False,000,False,False,False,3,2142
+"### ||| -سنة أربع وثمانين وأربعمائة PageV10P530 
+",000,False,000,False,False,False,3,1990
+"### ||| -سنة خمس وثمانين وأربعمائة PageV10P540 
+",000,False,000,False,False,False,3,3768
+"### ||| -سنة ست وثمانين وأربعمائة PageV10P557 
+",000,False,000,False,False,False,3,3448
+"### ||| -سنة سبع وثمانين وأربعمائة PageV10P573 
+",000,False,000,False,False,False,3,3842
+"### ||| -سنة ثمان وثمانين وأربع مائة PageV10P590 
+",000,False,000,False,False,False,3,7610
+"### ||| -سنة تسع وثمانين وأربع مائة PageV10P623 
+",000,False,000,False,False,False,3,5249
+"### ||| -سنة تسعين وأربعمائة PageV10P646 
+",000,False,000,False,False,False,3,2554
+"### ||| -المتوفون تقريبا من أهل هذه الطبقة 
+",000,False,000,False,False,False,3,1290
+"### | -الطبقة الخمسون 491 - 500 ه PageV10P663 tab50 
+",000,False,000,False,False,False,1,40748
+"### || - (الحوادث) PageV10P665 
+",000,False,000,False,False,False,2,8162
+"### ||| -سنة إحدى وتسعين وأربعمائة 
+",000,False,000,False,False,False,3,776
+"### ||| -سنة اثنتين وتسعين وأربعمائة 
+",000,False,000,False,False,False,3,801
+"### ||| -سنة ثلاث وتسعين وأربعمائة 
+",000,False,000,False,False,False,3,401
+"### ||| -سنة أربع وتسعين وأربعمائة 
+",000,False,000,False,False,False,3,1841
+"### ||| -سنة خمس وتسعين وأربعمائة 
+",000,False,000,False,False,False,3,1278
+"### ||| -سنة ست وتسعين وأربعمائة 
+",000,False,000,False,False,False,3,312
+"### ||| -سنة سبع وتسعين وأربعمائة 
+",000,False,000,False,False,False,3,506
+"### ||| -سنة ثمان وتسعين وأربعمائة 
+",000,False,000,False,False,False,3,784
+"### ||| -سنة تسع وتسعين وأربعمائة 
+",000,False,000,False,False,False,3,575
+"### ||| -سنة خمسمائة 
+",000,False,000,False,False,False,3,919
+"### || - (الوفيات) PageV10P699 
+",000,False,000,False,False,False,2,32582
+"### ||| -سنة إحدى وتسعين وأربعمائة PageV10P699 
+",000,False,000,False,False,False,3,3592
+"### ||| -سنة اثنتين وتسعين وأربعمائة PageV10P716 
+",000,False,000,False,False,False,3,3714
+"### ||| -سنة ثلاث وتسعين وأربعمائة PageV10P733 
+",000,False,000,False,False,False,3,3870
+"### ||| -سنة أربع وتسعين وأربعمائة PageV10P750 
+",000,False,000,False,False,False,3,3207
+"### ||| -سنة خمس وتسعين وأربعمائة PageV10P765 
+",000,False,000,False,False,False,3,1981
+"### ||| -سنة ست وتسعين وأربعمائة PageV10P775 
+",000,False,000,False,False,False,3,1950
+"### ||| -سنة سبع وتسعين وأربعمائة PageV10P784 
+",000,False,000,False,False,False,3,3394
+"### ||| -سنة ثمان وتسعين وأربعمائة PageV10P799 
+",000,False,000,False,False,False,3,2769
+"### ||| -سنة تسع وتسعين وأربعمائة PageV10P812 
+",000,False,000,False,False,False,3,2059
+"### ||| -سنة خمسمائة PageV10P822 
+",000,False,000,False,False,False,3,4266
+"### ||| -وممن توفي تقريبا PageV10P840 
+",000,False,000,False,False,False,3,1828
+"### | - الطبقة الحادية والخمسون 501 - 510 ه 
+",000,False,000,False,False,False,1,29988
+"### || -الحوادث PageV11P007 
+",000,False,000,False,False,False,2,3512
+"### ||| -حوادث سنة إحدى وخمسمائة 
+",501,year,000,False,501,247,3,677
+"### ||| -سنة اثنتين وخمسمائة 
+",000,False,000,False,False,False,3,696
+"### ||| -سنة ثلاث وخمسمائة 
+",000,False,000,False,False,False,3,270
+"### ||| -سنة أربع وخمسمائة 
+",000,False,000,False,False,False,3,303
+"### ||| -سنة خمس وخمسمائة 
+",000,False,000,False,False,False,3,266
+"### ||| -سنة ست وخمسمائة 
+",000,False,000,False,False,False,3,98
+"### ||| -سنة سبع وخمس ومائة 
+",000,False,000,False,False,False,3,419
+"### ||| -سنة ثمان وخمسمائة 
+",000,False,000,False,False,False,3,252
+"### ||| -سنة تسع وخمسمائة 
+",000,False,000,False,False,False,3,255
+"### ||| -سنة عشر وخمسمائة 
+",000,False,000,False,False,False,3,313
+"### || -الوفيات PageV11P023 
+",000,False,000,False,False,False,2,26474
+"### ||| -سنة إحدى وخمسمائة PageV11P023 
+",000,False,000,False,False,False,3,1514
+"### ||| -سنة اثنتين وخمسمائة PageV11P031 
+",000,False,000,False,False,False,3,2482
+"### ||| -سنة ثلاث وخمسمائة PageV11P043 
+",000,False,000,False,False,False,3,1206
+"### ||| -سنة أربع وخمسمائة PageV11P049 
+",000,False,000,False,False,False,3,1238
+"### ||| -سنة خمس وخمسمائة PageV11P056 
+",000,False,000,False,False,False,3,3918
+"### ||| -سنة ست وخمسمائة PageV11P073 
+",000,False,000,False,False,False,3,2345
+"### ||| -سنة سبع وخمسمائة PageV11P085 
+",000,False,000,False,False,False,3,5716
+"### ||| -سنة ثمان وخمسمائة PageV11P109 
+",000,False,000,False,False,False,3,2365
+"### ||| -سنة تسع وخمسمائة PageV11P120 
+",000,False,000,False,False,False,3,2766
+"### ||| -سنة عشر وخمسمائة. PageV11P134 
+",000,False,000,False,False,False,3,2963
+"### | -الطبقة الثانية والخمسون 511 - 520 ه 
+",000,False,000,False,False,False,1,40432
+"### || - (الحوادث) PageV11P149 
+",000,False,000,False,False,False,2,5276
+"### ||| -سنة إحدى عشرة وخمسمائة 
+",000,False,000,False,False,False,3,134
+"### ||| -سنة اثنتي عشرة وخمسمائة 
+",000,False,000,False,False,False,3,170
+"### ||| -سنة ثلاث عشرة وخمسمائة 
+",000,False,000,False,False,False,3,707
+"### ||| -سنة أربع عشرة وخمسمائة 
+",000,False,000,False,False,False,3,628
+"### ||| -سنة خمس عشرة وخمسمائة 
+",000,False,000,False,False,False,3,886
+"### ||| -سنة ست عشرة وخمسمائة 
+",000,False,000,False,False,False,3,688
+"### ||| -سنة سبع عشرة وخمسمائة 
+",000,False,000,False,False,False,3,427
+"### ||| -سنة ثمان عشرة وخمسمائة 
+",000,False,000,False,False,False,3,445
+"### ||| -سنة تسع عشرة وخمسمائة 
+",000,False,000,False,False,False,3,365
+"### ||| -سنة عشرين وخمسمائة 
+",000,False,000,False,False,False,3,861
+"### || -الوفيات PageV11P171 
+",000,False,000,False,False,False,2,35154
+"### ||| -سنة إحدى عشرة وخمسمائة PageV11P171 
+",000,False,000,False,False,False,3,3063
+"### ||| -سنة اثنتي عشرة وخمسمائة PageV11P185 
+",000,False,000,False,False,False,3,3547
+"### ||| -سنة ثلاث عشرة وخمس مائة PageV11P201 
+",000,False,000,False,False,False,3,2793
+"### ||| -سنة أربع عشرة وخمس مائة PageV11P214 
+",000,False,000,False,False,False,3,3533
+"### ||| -سنة خمس عشرة وخمسمائة PageV11P231 
+",000,False,000,False,False,False,3,3601
+"### ||| -سنة ست عشرة وخمس مائة PageV11P248 
+",000,False,000,False,False,False,3,4488
+"### ||| -سنة سبع عشرة وخمسمائة PageV11P268 
+",000,False,000,False,False,False,3,3519
+"### ||| -سنة ثمان عشرة وخمسمائة PageV11P285 
+",000,False,000,False,False,False,3,3117
+"### ||| -سنة تسع عشرة وخمسمائة PageV11P300 
+",000,False,000,False,False,False,3,1531
+"### ||| -سنة عشرين وخمسمائة PageV11P308 
+",000,False,000,False,False,False,3,4686
+"### ||| -ومن هذه الطبقة ممن لا أعرف وفاته PageV11P330 
+",000,False,000,False,False,False,3,1348
+"### | -الطبقة الثالثة والخمسون 521 - 530 ه 
+",000,False,000,False,False,False,1,40946
+"### || - (الحوادث ms07493) PageV11P339 
+",000,False,000,False,False,False,2,6339
+"### ||| -سنة إحدى وعشرين وخمسمائة 
+",000,False,000,False,False,False,3,742
+"### ||| -سنة اثنتين وعشرين وخمسمائة 
+",000,False,000,False,False,False,3,111
+"### ||| -سنة ثلاث وعشرين وخمسمائة 
+",000,False,000,False,False,False,3,1022
+"### ||| -سنة أربع وعشرين وخمسمائة 
+",000,False,000,False,False,False,3,355
+"### ||| -سنة خمس وعشرين وخمسمائة 
+",000,False,000,False,False,False,3,271
+"### ||| -سنة ست وعشرين وخمسمائة 
+",000,False,000,False,False,False,3,382
+"### ||| -سنة سبع وعشرين وخمسمائة 
+",000,False,000,False,False,False,3,387
+"### ||| -سنة ثمان وعشرين وخمسمائة 
+",000,False,000,False,False,False,3,597
+"### ||| -سنة تسع وعشرين وخمسمائة 
+",000,False,000,False,False,False,3,1219
+"### ||| -سنة ثلاثين وخمسمائة 
+",000,False,000,False,False,False,3,1287
+"### || - (الوفيات) PageV11P365 
+",000,False,000,False,False,False,2,34605
+"### ||| -سنة إحدى وعشرين وخمسمائة PageV11P365 
+",000,False,000,False,False,False,3,2463
+"### ||| -سنة اثنتين وعشرين وخمسمائة PageV11P377 
+",000,False,000,False,False,False,3,1376
+"### ||| -سنة ثلاث وعشرين وخمسمائة PageV11P384 
+",000,False,000,False,False,False,3,1825
+"### ||| -سنة أربع وعشرين وخمسمائة PageV11P393 
+",000,False,000,False,False,False,3,7854
+"### ||| -سنة خمس وعشرين وخمسمائة PageV11P426 
+",000,False,000,False,False,False,3,3651
+"### ||| -سنة ست وعشرين وخمسمائة PageV11P443 
+",000,False,000,False,False,False,3,2808
+"### ||| -سنة سبع وعشرين وخمسمائة PageV11P456 
+",000,False,000,False,False,False,3,2510
+"### ||| -سنة ثمان وعشرين وخمسمائة PageV11P468 
+",000,False,000,False,False,False,3,2883
+"### ||| -سنة تسع وعشرين وخمسمائة PageV11P482 
+",000,False,000,False,False,False,3,3235
+"### ||| -سنة ثلاثين وخمسمائة PageV11P497 
+",000,False,000,False,False,False,3,4431
+"### ||| -المتوفون ما بين العشرين إلى الثلاثين 
+",000,False,000,False,False,False,3,1608
+"### | -الطبقة الرابعة والخمسون 531 - 540 ه 
+",000,False,000,False,False,False,1,47975
+"### || - (الحوادث) PageV11P527 
+",000,False,000,False,False,False,2,3106
+"### ||| -سنة إحدى ms07636 وثلاثين وخمسمائة 
+",000,False,000,False,False,False,3,615
+"### ||| -سنة اثنتين وثلاثين وخمسمائة 
+",000,False,000,False,False,False,3,327
+"### ||| -سنة ثلاث وثلاثين وخمسمائة 
+",000,False,000,False,False,False,3,350
+"### ||| -سنة أربع وثلاثين وخمسمائة 
+",000,False,000,False,False,False,3,306
+"### ||| -سنة خمس وثلاثين وخمسمائة 
+",000,False,000,False,False,False,3,471
+"### ||| -سنة ست وثلاثيين وخمسمائة 
+",000,False,000,False,False,False,3,257
+"### ||| -سنة سبع وثلاثين وخمسمائة 
+",000,False,000,False,False,False,3,120
+"### ||| -سنة ثمان وثلاثين وخمسمائة 
+",000,False,000,False,False,False,3,449
+"### ||| -سنة تسع وثلاثين وخمسمائة 
+",000,False,000,False,False,False,3,150
+"### ||| -سنة أربعين وخمسمائة 
+",000,False,000,False,False,False,3,93
+"### || - (الوفيات) PageV11P541 
+",000,False,000,False,False,False,2,44861
+"### ||| -سنة إحدى وثلاثين وخمسمائة وتسمية من توفي 
+",000,False,000,False,False,False,3,3936
+"### ||| -سنة اثنتين وثلاثين وخمسمائة PageV11P560 
+",000,False,000,False,False,False,3,5689
+"### ||| -سنة ثلاث وثلاثين وخمسمائة PageV11P586 
+",000,False,000,False,False,False,3,4562
+"### ||| -سنة أربع وثلاثين وخمسمائة PageV11P607 
+",000,False,000,False,False,False,3,3161
+"### ||| -سنة خمس وثلاثين وخمسمائة. PageV11P622 
+",000,False,000,False,False,False,3,5801
+"### ||| -سنة ست وثلاثين وخمسمائة PageV11P647 
+",000,False,000,False,False,False,3,4530
+"### ||| -سنة سبع وثلاثين وخمسمائة PageV11P668 
+",000,False,000,False,False,False,3,2883
+"### ||| -سنة ثمان وثلاثين وخمسمائة PageV11P681 
+",000,False,000,False,False,False,3,4198
+"### ||| -سنة تسع وثلاثين وخمسمائة PageV11P701 
+",000,False,000,False,False,False,3,4545
+"### ||| -سنة أربعين وخمسمائة PageV11P722 
+",000,False,000,False,False,False,3,3481
+"### ||| -المتوفون في عشر الأربعين وخمسمائة ظنا ويقينا 
+",000,False,000,False,False,False,3,2120
+"### | -الطبقة الخامسة والخمسون 541 - 550 ه 
+",000,False,000,False,False,False,1,58040
+"### || - (الحوادث) PageV11P751 
+",000,False,000,False,False,False,2,6080
+"### ||| -سنة إحدى وأربعين وخمسمائة 
+",000,False,000,False,False,False,3,415
+"### ||| -سنة اثنتين وأربعين وخمسمائة 
+",000,False,000,False,False,False,3,268
+"### ||| -سنة ثلاث وأربعين وخمسمائة 
+",000,False,000,False,False,False,3,1991
+"### ||| -سنة خمس وأربعين وخمسمائة 
+",000,False,000,False,False,False,3,200
+"### ||| -سنة ست وأربعين وخمسمائة 
+",000,False,000,False,False,False,3,484
+"### ||| -سنة سبع وأربعين وخمسمائة. 
+",000,False,000,False,False,False,3,476
+"### ||| -سنة ثمان وأربعين وخمسمائة 
+",000,False,000,False,False,False,3,1157
+"### ||| -سنة تسع وأربعين وخمسمائة 
+",000,False,000,False,False,False,3,852
+"### ||| -سنة خمسين وخمسمائة 
+",000,False,000,False,False,False,3,274
+"### || -الوفيات PageV11P775 
+",000,False,000,False,False,False,2,51956
+"### ||| -سنة إحدى وأربعين وخمسمائة PageV11P775 
+",000,False,000,False,False,False,3,5131
+"### ||| -سنة اثنتين وأربعين وخمسمائة PageV11P799 
+",000,False,000,False,False,False,3,4696
+"### ||| -سنة ثلاث وأربعين وخمسمائة PageV11P821 
+",000,False,000,False,False,False,3,4906
+"### ||| -سنة أربع وأربعين وخمسمائة PageV11P844 
+",000,False,000,False,False,False,3,5617
+"### ||| -سنة خمس وأربعين وخمسمائة PageV11P871 
+",000,False,000,False,False,False,3,2875
+"### ||| -سنة ست وأربعين وخمسمائة PageV11P885 
+",000,False,000,False,False,False,3,3718
+"### ||| -سنة سبع وأربعين وخمسمائة PageV11P902 
+",000,False,000,False,False,False,3,4121
+"### ||| -سنة ثمان وأربعين وخمسمائة PageV11P921 
+",000,False,000,False,False,False,3,8387
+"### ||| -سنة تسع وأربعين وخمسمائة PageV11P957 
+",000,False,000,False,False,False,3,4965
+"### ||| -سنة خمسين وخمسمائة PageV11P981 
+",000,False,000,False,False,False,3,4435
+"### ||| -ذكر المتوفين تقريبا في عشر الخمسين وخمسمائة 
+",000,False,000,False,False,False,3,3168
+"### | -الطبقة السادسة والخمسون 551 - 560 ه 
+",000,False,000,False,False,False,1,44796
+"### || - (الحوادث) PageV12P007 
+",000,False,000,False,False,False,2,4037
+"### ||| -حوادث سنة إحدى وخمسين وخمسمائة 
+",551,year,000,False,551,197,3,389
+"### ||| -سنة اثنتين وخمسين وخمسمائة 
+",000,False,000,False,False,False,3,1347
+"### ||| -سنة ثلاث وخمسين وخمسمائة 
+",000,False,000,False,False,False,3,425
+"### ||| -سنة أربع وخمسين وخمسمائة 
+",000,False,000,False,False,False,3,690
+"### ||| -سنة خمس وخمسين وخمسمائة 
+",000,False,000,False,False,False,3,165
+"### ||| -سنة ست وخمسين وخمسمائة 
+",000,False,000,False,False,False,3,228
+"### ||| -سنة سبع وخمسين وخمسمائة 
+",000,False,000,False,False,False,3,67
+"### ||| -سنة ثمان وخمسين وخمسمائة 
+",000,False,000,False,False,False,3,294
+"### ||| -سنة تسع وخمسين وخمسمائة 
+",000,False,000,False,False,False,3,370
+"### ||| -سنة ستين وخمسمائة 
+",000,False,000,False,False,False,3,104
+"### || - (الوفيات) PageV12P025 
+",000,False,000,False,False,False,2,40760
+"### ||| -المتوفون في سنة إحدى وخمسين وخمسمائة 
+",551,year,000,False,551,197,3,3344
+"### ||| -سنة اثنتين وخمسين وخمسمائة PageV12P041 
+",000,False,000,False,False,False,3,4423
+"### ||| -سنة ثلاث وخمسين وخمسمائة PageV12P061 
+",000,False,000,False,False,False,3,3950
+"### ||| -سنة أربع وخمسين وخمس مائة PageV12P080 
+",000,False,000,False,False,False,3,2063
+"### ||| -سنة خمس وخمسين وخمس مائة PageV12P090 
+",000,False,000,False,False,False,3,4000
+"### ||| -سنة ست وخمسين وخمس مائة PageV12P108 
+",000,False,000,False,False,False,3,2983
+"### ||| -سنة سبع وخمسين وخمسمائة PageV12P122 
+",000,False,000,False,False,False,3,2940
+"### ||| -سنة ثمان وخمسين وخمس مائة PageV12P136 
+",000,False,000,False,False,False,3,5003
+"### ||| -سنة تسع وخمسين وخمس ms08118 مائة PageV12P157 
+",000,False,000,False,False,False,3,1790
+"### ||| -سنة ستين وخمسمائة PageV12P166 
+",000,False,000,False,False,False,3,4942
+"### ||| -ومن الذين كانوا في هذه الطبقة ولم أعرف 
+",000,False,000,False,False,False,3,5380
+"### | -الطبقة السابعة والخمسون 561 - 570 ه 
+",000,False,000,False,False,False,1,54470
+"### || - (الحوادث) PageV12P213 
+",000,False,000,False,False,False,2,7135
+"### ||| -سنة إحدى وستين وخمسمائة 
+",000,False,000,False,False,False,3,56
+"### ||| -سنة اثنتين وستين وخمسمائة 
+",000,False,000,False,False,False,3,421
+"### ||| -سنة ثلاث وستين وخمسمائة 
+",000,False,000,False,False,False,3,97
+"### ||| -سنة أربع وستين وخمسمائة 
+",000,False,000,False,False,False,3,1458
+"### ||| -سنة خمس وستين وخمسمائة 
+",000,False,000,False,False,False,3,272
+"### ||| -سنة ست وستين وخمسمائة 
+",000,False,000,False,False,False,3,478
+"### ||| -سنة سبع وستين وخمسمائة 
+",000,False,000,False,False,False,3,1205
+"### ||| -سنة ثمان وستين وخمسمائة 
+",000,False,000,False,False,False,3,515
+"### ||| -سنة تسع وستين وخمسمائة 
+",000,False,000,False,False,False,3,1481
+"### ||| -سنة سبعين وخمسمائة 
+",000,False,000,False,False,False,3,1183
+"### || - (الوفيات) PageV12P243 
+",000,False,000,False,False,False,2,47333
+"### ||| -سنة إحدى وستين وخمسمائة PageV12P243 
+",000,False,000,False,False,False,3,6607
+"### ||| -سنة اثنتين وستين وخمسمائة PageV12P271 
+",000,False,000,False,False,False,3,4076
+"### ||| -سنة ثلاث وستين وخمسمائة PageV12P290 
+",000,False,000,False,False,False,3,5042
+"### ||| -سنة أربع وستين وخمسمائة PageV12P314 
+",000,False,000,False,False,False,3,4462
+"### ||| -سنة خمس وستين وخمسمائة PageV12P334 
+",000,False,000,False,False,False,3,2762
+"### ||| -سنة ست وستين وخمسمائة PageV12P348 
+",000,False,000,False,False,False,3,2754
+"### ||| -سنة سبع وستين وخمسمائة PageV12P361 
+",000,False,000,False,False,False,3,5933
+"### ||| -سنة ثمان وستين وخمسمائة PageV12P387 
+",000,False,000,False,False,False,3,2994
+"### ||| -سنة تسع وستين وخمسمائة PageV12P401 
+",000,False,000,False,False,False,3,9171
+"### ||| -سنة سبعين وخمسمائة PageV12P438 
+",000,False,000,False,False,False,3,1736
+"### ||| -المتوفون في هذه الحدود ما بين الستين إلى 
+",000,False,000,False,False,False,3,1860
+"### | -الطبقة الثامنة والخمسون 571 - 580 ه 
+",000,False,000,False,False,False,1,44026
+"### || - (الحوادث) PageV12P459 
+",000,False,000,False,False,False,2,7165
+"### ||| -سنة إحدى وسبعون وخمسمائة 
+",000,False,000,False,False,False,3,797
+"### ||| -سنة اثنتين وسبعين وخمسمائة 
+",000,False,000,False,False,False,3,423
+"### ||| -سنة ثلاث وسبعين وخمسمائة 
+",000,False,000,False,False,False,3,888
+"### ||| -سنة أربع وسبعين وخمسمائة 
+",000,False,000,False,False,False,3,694
+"### ||| -سنة خمس وسبعين ms08361 وخمسمائة 
+",000,False,000,False,False,False,3,1065
+"### ||| -سنة ست وسبعين وخمسمائة 
+",000,False,000,False,False,False,3,597
+"### ||| -سنة سبع وسبعين وخمسمائة 
+",000,False,000,False,False,False,3,116
+"### ||| -سنة ثمان وسبعين وخمسمائة 
+",000,False,000,False,False,False,3,273
+"### ||| -سنة تسع وسبعين وخمسمائة 
+",000,False,000,False,False,False,3,1206
+"### ||| -سنة ثمانين وخمسمائة 
+",000,False,000,False,False,False,3,1135
+"### || - (الوفيات) PageV12P491 
+",000,False,000,False,False,False,2,36856
+"### ||| -سنة إحدى وسبعين وخمسمائة PageV12P491 
+",000,False,000,False,False,False,3,3667
+"### ||| -سنة اثنتين وسبعين وخمسمائة PageV12P508 
+",000,False,000,False,False,False,3,2560
+"### ||| -سنة ثلاث وسبعين وخمسمائة PageV12P521 
+",000,False,000,False,False,False,3,2709
+"### ||| -سنة أربع وسبعين وخمسمائة PageV12P534 
+",000,False,000,False,False,False,3,2618
+"### ||| -سنة خمس وسبعين وخمسمائة PageV12P547 
+",000,False,000,False,False,False,3,4885
+"### ||| -سنة ست وسبعين وخمسمائة PageV12P570 
+",000,False,000,False,False,False,3,5302
+"### ||| -سنة سبع وسبعين وخمس مائة PageV12P594 
+",000,False,000,False,False,False,3,2279
+"### ||| -سنة ثمان وسبعين وخمس مائة PageV12P605 
+",000,False,000,False,False,False,3,4236
+"### ||| -سنة تسع وسبعين وخمس مائة PageV12P624 
+",000,False,000,False,False,False,3,2659
+"### ||| -سنة ثمانين وخمس مائة PageV12P637 
+",000,False,000,False,False,False,3,3221
+"### ||| -المتوفون على التخمين PageV12P652 
+",000,False,000,False,False,False,3,2779
+"### | -الطبقة التاسعة والخمسون 581 - 590 ه 
+",000,False,000,False,False,False,1,56963
+"### || - (الحوادث) PageV12P667 
+",000,False,000,False,False,False,2,14000
+"### ||| -سنة إحدى وثمانين وخمس مائة 
+",000,False,000,False,False,False,3,523
+"### ||| -سنة اثنتين وثمانين وخمس مائة 
+",000,False,000,False,False,False,3,642
+"### ||| -سنة ثلاث وثمانين وخمس مائة 
+",000,False,000,False,False,False,3,399
+"### ||| -سنة الفتوحات 
+",000,False,000,False,False,False,3,2140
+"### ||| -سنة أربع وثمانين وخمس مائة 
+",000,False,000,False,False,False,3,1166
+"### ||| -سنة خمس وثمانين وخمس مائة 
+",000,False,000,False,False,False,3,2341
+"### ||| -سنة ست وثمانين وخمس مائة 
+",000,False,000,False,False,False,3,3020
+"### ||| -سنة سبع وثمانين وخمسمائة 
+",000,False,000,False,False,False,3,859
+"### ||| -سنة ثمان وثمانين وخمسمائة 
+",000,False,000,False,False,False,3,1722
+"### ||| -سنة تسع وثمانين وخمسمائة 
+",000,False,000,False,False,False,3,181
+"### ||| -سنة تسعين وخمسمائة 
+",000,False,000,False,False,False,3,1041
+"### || - (الوفيات) PageV12P723 
+",000,False,000,False,False,False,2,42959
+"### ||| -الموتى سنة إحدى وثمانين وخمسمائة PageV12P723 
+",581,year,000,False,581,167,3,4693
+"### ||| -سنة اثنتين وثمانين وخمسمائة PageV12P745 
+",000,False,000,False,False,False,3,2379
+"### ||| -سنة ثلاث وثمانين وخمسمائة PageV12P758 
+",000,False,000,False,False,False,3,2389
+"### ||| -سنة أربع وثمانين وخمسمائة PageV12P770 
+",000,False,000,False,False,False,3,5193
+"### ||| -سنة خمس وثمانين وخمسمائة PageV12P795 
+",000,False,000,False,False,False,3,3681
+"### ||| -سنة ست وثمانين وخمسمائة PageV12P813 
+",000,False,000,False,False,False,3,3545
+"### ||| -سنة سبع وثمانين وخمسمائة PageV12P829 
+",000,False,000,False,False,False,3,4450
+"### ||| -سنة ثمان وثمانين وخمسمائة PageV12P850 
+",000,False,000,False,False,False,3,3506
+"### ||| -سنة تسع وثمانين وخمسمائة PageV12P867 
+",000,False,000,False,False,False,3,8434
+"### ||| -سنة تسعين وخمسمائة PageV12P903 
+",000,False,000,False,False,False,3,3895
+"### ||| -وممن كان في هذا الوقت ولم تتصل بي وفاته 
+",000,False,000,False,False,False,3,833
+"### | -الطبقة الستون 591 - 600 ه PageV12P927 tab60 
+",000,False,000,False,False,False,1,66410
+"### || - (الحوادث) PageV12P929 
+",000,False,000,False,False,False,2,6403
+"### ||| -سنة إحدى وتسعين وخمسمائة 
+",000,False,000,False,False,False,3,669
+"### ||| -سنة اثنتين وتسعين وخمسمائة 
+",000,False,000,False,False,False,3,533
+"### ||| -سنة ثلاث وتسعين وخمسمائة 
+",000,False,000,False,False,False,3,503
+"### ||| -سنة أربع وتسعين وخمسمائة 
+",000,False,000,False,False,False,3,190
+"### ||| -سنة خمس وتسعين وخمسمائة 
+",000,False,000,False,False,False,3,567
+"### ||| -سنة ست وتسعين وخمسمائة 
+",000,False,000,False,False,False,3,564
+"### ||| -سنة سبع وتسعين وخمسمائة 
+",000,False,000,False,False,False,3,2408
+"### ||| -سنة ثمان وتسعين وخمسمائة 
+",000,False,000,False,False,False,3,372
+"### ||| -سنة تسع وتسعين وخمسمائة 
+",000,False,000,False,False,False,3,328
+"### ||| -سنة ستمائة 
+",000,False,000,False,False,False,3,310
+"### || - (الوفيات) PageV12P955 
+",000,False,000,False,False,False,2,60003
+"### ||| -سنة إحدى وتسعين وخمسمائة PageV12P955 
+",000,False,000,False,False,False,3,3041
+"### ||| -سنة اثنتين وتسعين وخمسمائة PageV12P970 
+",000,False,000,False,False,False,3,4899
+"### ||| -وفيات سنة ثلاث وتسعين وخمسمائة PageV12P994 
+",593,year,000,False,593,155,3,3946
+"### ||| -سنة أربع وتسعين وخمسمائة PageV12P1014 
+",000,False,000,False,False,False,3,2344
+"### ||| -سنة خمس وتسعين وخمسمائة. PageV12P1027 
+",000,False,000,False,False,False,3,8657
+"### ||| -سنة ست وتسعين وخمسمائة PageV12P1065 
+",000,False,000,False,False,False,3,5915
+"### ||| -سنة سبع وتسعين وخمس مائة PageV12P1093 
+",000,False,000,False,False,False,3,8115
+"### ||| -سنة ثمان وتسعين وخمس مائة PageV12P1131 
+",000,False,000,False,False,False,3,6587
+"### ||| -سنة تسع وتسعين وخمس مائة PageV12P1163 
+",000,False,000,False,False,False,3,5803
+"### ||| -سنة ستمائة PageV12P1191 
+",000,False,000,False,False,False,3,9858
+"### ||| -ومن المتوفين تقريبا وتخمينا PageV12P1235 
+",000,False,000,False,False,False,3,886
+"### | -الطبقة الحادية والستون 601 - 610 ه PageV13P005 
+",000,False,000,False,False,False,1,52080
+"### || - (الحوادث) PageV13P007 
+",000,False,000,False,False,False,2,5072
+"### ||| -سنة إحدى وستمائة 
+",000,False,000,False,False,False,3,394
+"### ||| -سنة اثنتين وستمائة 
+",000,False,000,False,False,False,3,395
+"### ||| -سنة ثلاث وستمائة 
+",000,False,000,False,False,False,3,209
+"### ||| -سنة أربع وستمائة 
+",000,False,000,False,False,False,3,1015
+"### ||| -سنة خمس وستمائة 
+",000,False,000,False,False,False,3,119
+"### ||| -سنة ست وستمائة 
+",000,False,000,False,False,False,3,1227
+"### ||| -سنة سبع وستمائة 
+",000,False,000,False,False,False,3,659
+"### ||| -سنة ثمان وستمائة 
+",000,False,000,False,False,False,3,354
+"### ||| -سنة تسع وستمائة 
+",000,False,000,False,False,False,3,345
+"### ||| -سنة عشر وستمائة 
+",000,False,000,False,False,False,3,386
+"### || - (الوفيات) PageV13P029 
+",000,False,000,False,False,False,2,47005
+"### ||| -سنة إحدى وستمائة PageV13P029 
+",000,False,000,False,False,False,3,4874
+"### ||| -سنة اثنتين وستمائة PageV13P054 
+",000,False,000,False,False,False,3,3243
+"### ||| -سنة ثلاث وستمائة PageV13P071 
+",000,False,000,False,False,False,3,3454
+"### ||| -سنة أربع وستمائة PageV13P090 
+",000,False,000,False,False,False,3,3635
+"### ||| -سنة خمس وستمائة PageV13P109 
+",000,False,000,False,False,False,3,3370
+"### ||| -سنة ست وستمائة PageV13P127 
+",000,False,000,False,False,False,3,5666
+"### ||| -سنة سبع وستمائة PageV13P156 
+",000,False,000,False,False,False,3,7113
+"### ||| -سنة ثمان وستمائة PageV13P187 
+",000,False,000,False,False,False,3,4188
+"### ||| -سنة تسع وستمائة PageV13P208 
+",000,False,000,False,False,False,3,4166
+"### ||| -سنة عشر وستمائة PageV13P230 
+",000,False,000,False,False,False,3,5625
+"### ||| -ذكر من توفي بعد الستمائة تقريبا وإلى سنة عشر 
+",010,year,000,False,510,238,3,1711
+"### | -الطبقة الثانية والستون 611 - 620 ه PageV13P265 
+",000,False,000,False,False,False,1,75493
+"### || - (الحوادث) PageV13P267 
+",000,False,000,False,False,False,2,10221
+"### ||| -سنة إحدى عشرة وستمائة 
+",000,False,000,False,False,False,3,309
+"### ||| -سنة اثنتي عشرة وستمائة 
+",000,False,000,False,False,False,3,411
+"### ||| -سنة ثلاث عشرة وستمائة. 
+",000,False,000,False,False,False,3,261
+"### ||| -سنة أربع عشرة وستمائة. 
+",000,False,000,False,False,False,3,835
+"### ||| -سنة خمس عشرة وستمائة. 
+",000,False,000,False,False,False,3,972
+"### ||| -سنة ست عشرة وستمائة. 
+",000,False,000,False,False,False,3,1698
+"### ||| -سنة سبع عشرة وستمائة 
+",000,False,000,False,False,False,3,4094
+"### ||| -سنة ثمان عشرة وستمائة 
+",000,False,000,False,False,False,3,874
+"### ||| -سنة تسع عشرة وستمائة. 
+",000,False,000,False,False,False,3,666
+"### ||| -سنة عشرين وستمائة 
+",000,False,000,False,False,False,3,130
+"### || - (الوفيات) PageV13P309 
+",000,False,000,False,False,False,2,65264
+"### ||| -سنة إحدى عشرة وستمائة PageV13P309 
+",000,False,000,False,False,False,3,3882
+"### ||| -سنة اثنتي عشرة وستمائة PageV13P331 
+",000,False,000,False,False,False,3,5264
+"### ||| -سنة ثلاث عشرة وستمائة PageV13P359 
+",000,False,000,False,False,False,3,7155
+"### ||| -سنة أربع عشرة وستمائة PageV13P393 
+",000,False,000,False,False,False,3,7404
+"### ||| -سنة خمس عشرة وستمائة PageV13P429 
+",000,False,000,False,False,False,3,7067
+"### ||| -سنة ست عشرة وستمائة PageV13P463 
+",000,False,000,False,False,False,3,5696
+"### ||| -سنة سبع عشرة وستمائة PageV13P492 
+",000,False,000,False,False,False,3,9547
+"### ||| -سنة ثمان عشرة وستمائة PageV13P535 
+",000,False,000,False,False,False,3,6897
+"### ||| -سنة تسع عشرة وستمائة PageV13P570 
+",000,False,000,False,False,False,3,4899
+"### ||| -سنة عشرين وستمائة PageV13P595 
+",000,False,000,False,False,False,3,7208
+"### ||| -المتوفون على التقريب PageV13P627 
+",000,False,000,False,False,False,3,281
+"### | -الطبقة الثالثة والستون 621 - 630 ه PageV13P629 
+",000,False,000,False,False,False,1,64659
+"### || -ومن الحوادث PageV13P631 
+",000,False,000,False,False,False,2,6740
+"### ||| -سنة إحدى وعشرين وستمائة 
+",000,False,000,False,False,False,3,374
+"### ||| -سنة اثنتين وعشرين وستمائة 
+",000,False,000,False,False,False,3,817
+"### ||| -سنة ثلاث وعشرين وستمائة 
+",000,False,000,False,False,False,3,917
+"### ||| -سنة أربع وعشرين وستمائة 
+",000,False,000,False,False,False,3,792
+"### ||| -سنة خمس وعشرين وستمائة 
+",000,False,000,False,False,False,3,1095
+"### ||| -سنة ست وعشرين وستمائة 
+",000,False,000,False,False,False,3,450
+"### ||| -سنة سبع وعشرين وستمائة 
+",000,False,000,False,False,False,3,1019
+"### ||| -سنة ثمان وعشرين وستمائة 
+",000,False,000,False,False,False,3,522
+"### ||| -سنة تسع وعشرين وستمائة 
+",000,False,000,False,False,False,3,174
+"### ||| -سنة ثلاثين وستمائة 
+",000,False,000,False,False,False,3,605
+"### || - (الوفيات) PageV13P661 
+",000,False,000,False,False,False,2,57915
+"### ||| -سنة إحدى وعشرين وستمائة 
+",000,False,000,False,False,False,3,4957
+"### ||| -سنة اثنتين وعشرين وستمائة PageV13P686 
+",000,False,000,False,False,False,3,9126
+"### ||| -سنة ثلاث وعشرين وستمائة PageV13P731 
+",000,False,000,False,False,False,3,5349
+"### ||| -سنة أربع وعشرين وستمائة PageV13P759 
+",000,False,000,False,False,False,3,6078
+"### ||| -سنة خمس وعشرين وستمائة PageV13P788 
+",000,False,000,False,False,False,3,4130
+"### ||| -سنة ست وعشرين وستمائة PageV13P808 
+",000,False,000,False,False,False,3,4441
+"### ||| -سنة سبع وعشرين وستمائة PageV13P831 
+",000,False,000,False,False,False,3,3675
+"### ||| -سنة ثمان وعشرين [وستمائة] PageV13P851 
+",000,False,000,False,False,False,3,4786
+"### ||| -سنة تسع وعشرين وستمائة PageV13P875 
+",000,False,000,False,False,False,3,7952
+"### ||| -سنة ثلاثين وستمائة PageV13P914 
+",000,False,000,False,False,False,3,6842
+"### ||| -ذكر من توفي بعد العشرين وستمائة. PageV13P947 
+",000,False,000,False,False,False,3,626
+"### | -الطبقة الرابعة والستون 631 - 640 ه PageV14P005 
+",000,False,000,False,False,False,1,69603
+"### || - (الحوادث) PageV14P007 
+",000,False,000,False,False,False,2,5481
+"### ||| -سنة إحدى وثلاثين وستمائة 
+",000,False,000,False,False,False,3,688
+"### ||| -سنة اثنتين وثلاثين وستمائة 
+",000,False,000,False,False,False,3,397
+"### ||| -سنة ثلاث وثلاثين وستمائة 
+",000,False,000,False,False,False,3,419
+"### ||| -سنة أربع وثلاثين وستمائة 
+",000,False,000,False,False,False,3,277
+"### ||| -سنة خمس وثلاثين وستمائة 
+",000,False,000,False,False,False,3,774
+"### ||| -سنة ست وثلاثين وستمائة 
+",000,False,000,False,False,False,3,665
+"### ||| -سنة سبع وثلاثين وستمائة 
+",000,False,000,False,False,False,3,1230
+"### ||| -سنة ثمان وثلاثين وستمائة 
+",000,False,000,False,False,False,3,405
+"### ||| -سنة تسع وثلاثين وستمائة 
+",000,False,000,False,False,False,3,410
+"### ||| -سنة أربعين وستمائة 
+",000,False,000,False,False,False,3,251
+"### || - (الوفيات) PageV14P033 
+",000,False,000,False,False,False,2,64114
+"### ||| -سنة إحدى وثلاثين وستمائة PageV14P033 
+",000,False,000,False,False,False,3,6570
+"### ||| -سنة اثنتين وثلاثين وستمائة PageV14P065 
+",000,False,000,False,False,False,3,7516
+"### ||| -سنة ثلاث وثلاثين وستمائة PageV14P099 
+",000,False,000,False,False,False,3,6308
+"### ||| -سنة أربع وثلاثين وستمائة PageV14P129 
+",000,False,000,False,False,False,3,7684
+"### ||| -سنة خمس وثلاثين وستمائة PageV14P167 
+",000,False,000,False,False,False,3,7900
+"### ||| -سنة ست وثلاثين وستمائة PageV14P204 
+",000,False,000,False,False,False,3,5443
+"### ||| -سنة سبع وثلاثين [وستمائة] PageV14P231 
+",000,False,000,False,False,False,3,6248
+"### ||| -سنة ثمان وثلاثين وستمائة ms09790 PageV14P261 
+",000,False,000,False,False,False,3,5083
+"### ||| -سنة تسع وثلاثين وستمائة. PageV14P285 
+",000,False,000,False,False,False,3,5239
+"### ||| -سنة أربعين وستمائة PageV14P311 
+",000,False,000,False,False,False,3,5431
+"### ||| -المتوفون بعد الثلاثين PageV14P338 
+",000,False,000,False,False,False,3,719
+"### | -الطبقة الخامسة والستون 641 - 650 ه tab65 
+",000,False,000,False,False,False,1,64737
+"### || - (الحوادث) PageV14P345 
+",000,False,000,False,False,False,2,6659
+"### ||| -سنة إحدى وأربعين وستمائة 
+",000,False,000,False,False,False,3,352
+"### ||| -سنة اثنتين وأربعين وستمائة 
+",000,False,000,False,False,False,3,634
+"### ||| -سنة ثلاث وأربعين وستمائة 
+",000,False,000,False,False,False,3,960
+"### ||| -سنة أربع وأربعين وستمائة 
+",000,False,000,False,False,False,3,736
+"### ||| -سنة خمس وأربعين وستمائة 
+",000,False,000,False,False,False,3,743
+"### ||| -سنة ست وأربعين وستمائة 
+",000,False,000,False,False,False,3,196
+"### ||| -سنة سبع وأربعين وستمائة 
+",000,False,000,False,False,False,3,942
+"### ||| -سنة ثمان وأربعين وستمائة 
+",000,False,000,False,False,False,3,1860
+"### ||| -سنة تسع وأربعين [وستمائة] 
+",000,False,000,False,False,False,3,148
+"### ||| -سنة خمسين وستمائة 
+",000,False,000,False,False,False,3,103
+"### || - (الوفيات) PageV14P375 
+",000,False,000,False,False,False,2,58070
+"### ||| -سنة إحدى وأربعين وستمائة ذكر من توفي فيها 
+",000,False,000,False,False,False,3,5724
+"### ||| -سنة اثنتين وأربعين وستمائة PageV14P403 
+",000,False,000,False,False,False,3,5989
+"### ||| -سنة ثلاث وأربعين وستمائة 
+",000,False,000,False,False,False,3,12876
+"### ||| -سنة أربع وأربعين وستمائة PageV14P494 
+",000,False,000,False,False,False,3,3122
+"### ||| -سنة خمس وأربعين وستمائة PageV14P511 
+",000,False,000,False,False,False,3,6514
+"### ||| -سنة ست وأربعين وستمائة PageV14P541 
+",000,False,000,False,False,False,3,4011
+"### ||| -سنة سبع وأربعين وستمائة PageV14P561 
+",000,False,000,False,False,False,3,6913
+"### ||| -سنة ثمان وأربعين وستمائة. PageV14P591 
+",000,False,000,False,False,False,3,5024
+"### ||| -سنة تسع وأربعين وستمائة PageV14P614 
+",000,False,000,False,False,False,3,3913
+"### ||| -خمسين وستمائة. PageV14P633 
+",000,False,000,False,False,False,3,3167
+"### ||| -ذكر شيوخ كانوا في حدود الأربعين وبعدها 
+",000,False,000,False,False,False,3,868
+"### | -الطبقة السادسة والستون 651 - 660 ه PageV14P653 
+",000,False,000,False,False,False,1,64075
+"### || - (الحوادث) PageV14P655 
+",000,False,000,False,False,False,2,11496
+"### ||| -سنة إحدى وخمسين وستمائة 
+",000,False,000,False,False,False,3,320
+"### ||| -سنة اثنتين وخمسين وستمائة 
+",000,False,000,False,False,False,3,639
+"### ||| -سنة ثلاث وخمسين وستمائة 
+",000,False,000,False,False,False,3,172
+"### ||| -سنة أربع وخمسين وستمائة 
+",000,False,000,False,False,False,3,1798
+"### ||| -سنة خمس وخمسين وستمائة 
+",000,False,000,False,False,False,3,712
+"### ||| -سنة ست وخمسين وستمائة 
+",000,False,000,False,False,False,3,1697
+"### ||| -سنة سبع وخمسين وستمائة 
+",000,False,000,False,False,False,3,684
+"### ||| -سنة ثمان وخمسين وستمائة 
+",000,False,000,False,False,False,3,3044
+"### ||| -سنة تسع وخمسين وستمائة 
+",000,False,000,False,False,False,3,1274
+"### ||| -سنة ستين وستمائة 
+",000,False,000,False,False,False,3,1112
+"### || - (الوفيات) PageV14P703 
+",000,False,000,False,False,False,2,52575
+"### ||| -سنة إحدى وخمسين وستمائة PageV14P703 
+",000,False,000,False,False,False,3,3652
+"### ||| -سنة اثنتين وخمسين وستمائة PageV14P720 
+",000,False,000,False,False,False,3,3997
+"### ||| -سنة ثلاث وخمسين وستمائة PageV14P739 
+",000,False,000,False,False,False,3,2805
+"### ||| -سنة أربع وخمسين وستمائة PageV14P753 
+",000,False,000,False,False,False,3,3655
+"### ||| -سنة خمس وخمسين وستمائة. PageV14P770 
+",000,False,000,False,False,False,3,5173
+"### ||| -سنة ست وخمسين وستمائة PageV14P795 
+",000,False,000,False,False,False,3,13941
+"### ||| -سنة سبع وخمسين وستمائة PageV14P858 
+",000,False,000,False,False,False,3,3049
+"### ||| -سنة ثمان وخمسين وستمائة. PageV14P873 
+",000,False,000,False,False,False,3,8485
+"### ||| -سنة تسع وخمسين وستمائة PageV14P910 
+",000,False,000,False,False,False,3,3123
+"### ||| -سنة ستين وستمائة PageV14P925 
+",000,False,000,False,False,False,3,4712
+"### | -الطبقة السابعة والستون 661 - 670 ه PageV15P005 
+",000,False,000,False,False,False,1,41088
+"### || -ذكر الحوادث الكائنة في هذه السنين العشر 
+",000,False,000,False,False,False,2,6539
+"### ||| -سنة إحدى وستين وستمائة 
+",000,False,000,False,False,False,3,458
+"### ||| -سنة اثنين وستين وستمائة 
+",000,False,000,False,False,False,3,514
+"### ||| -سنة ثلاث وستين وستمائة 
+",000,False,000,False,False,False,3,920
+"### ||| -سنة أربع وستين وستمائة 
+",000,False,000,False,False,False,3,489
+"### ||| -سنة خمس وستين وستمائة 
+",000,False,000,False,False,False,3,621
+"### ||| -سنة ست وستين وستمائة 
+",000,False,000,False,False,False,3,999
+"### ||| -سنة سبع وستين وستمائة 
+",000,False,000,False,False,False,3,528
+"### ||| -سنة ثمان وستين وستمائة 
+",000,False,000,False,False,False,3,401
+"### ||| -سنة تسع وستين وستمائة 
+",000,False,000,False,False,False,3,926
+"### ||| -سنة سبعين وستمائة 
+",000,False,000,False,False,False,3,721
+"### || - (الوفيات) PageV15P035 
+",000,False,000,False,False,False,2,34547
+"### ||| -سنة إحدى وستين وستمائة ومن توفي فيها: 
+",000,False,000,False,False,False,3,3131
+"### ||| -سنة اثنتين وستين وستمائة PageV15P050 
+",000,False,000,False,False,False,3,7731
+"### ||| -سنة ثلاث وستين وستمائة PageV15P082 
+",000,False,000,False,False,False,3,3121
+"### ||| -سنة أربع وستين وستمائة PageV15P097 
+",000,False,000,False,False,False,3,2529
+"### ||| -سنة خمس وستين وستمائة PageV15P109 
+",000,False,000,False,False,False,3,3604
+"### ||| -سنة ست وستين وستمائة PageV15P126 
+",000,False,000,False,False,False,3,2897
+"### ||| -سنة سبع وستين وستمائة PageV15P139 
+",000,False,000,False,False,False,3,2403
+"### ||| -سنة ثمان وستين وستمائة PageV15P151 
+",000,False,000,False,False,False,3,2828
+"### ||| -سنة تسع وستين وستمائة PageV15P164 
+",000,False,000,False,False,False,3,3183
+"### ||| -سنة سبعين وستمائة PageV15P179 
+",000,False,000,False,False,False,3,3172
+"### | -الطبقة الثامنة والستون 671 - 680 ه tab68 
+",000,False,000,False,False,False,1,47645
+"### || -ومن الحوادث في هذه العشر سنين على الترتيب 
+",000,False,000,False,False,False,2,6589
+"### ||| -سنة إحدى وسبعين وستمائة 
+",000,False,000,False,False,False,3,292
+"### ||| -سنة اثنتين وسبعين وستمائة 
+",000,False,000,False,False,False,3,428
+"### ||| -سنة ثلاث وسبعين وستمائة 
+",000,False,000,False,False,False,3,383
+"### ||| -سنة أربع وسبعين وستمائة 
+",000,False,000,False,False,False,3,545
+"### ||| -سنة خمس وسبعين وستمائة 
+",000,False,000,False,False,False,3,1285
+"### ||| -سنة ست وسبعين وستمائة ms10451 
+",000,False,000,False,False,False,3,317
+"### ||| -سنة سبع وسبعين وستمائة 
+",000,False,000,False,False,False,3,299
+"### ||| -سنة ثمان وسبعين وستمائة 
+",000,False,000,False,False,False,3,879
+"### ||| -سنة تسع وسبعين وستمائة 
+",000,False,000,False,False,False,3,1052
+"### ||| -سنة ثمانين وستمائة 
+",000,False,000,False,False,False,3,1148
+"### || -الوفيات PageV15P223 
+",000,False,000,False,False,False,2,41057
+"### ||| -المتوفون سنة إحدى وسبعين وستمائة PageV15P223 
+",671,year,000,False,671,077,3,2258
+"### ||| -سنة اثنتين وسبعين وستمائة PageV15P235 
+",000,False,000,False,False,False,3,4872
+"### ||| -سنة ثلاث وسبعين وستمائة PageV15P258 
+",000,False,000,False,False,False,3,2823
+"### ||| -سنة أربع وسبعين وستمائة PageV15P272 
+",000,False,000,False,False,False,3,2944
+"### ||| -سنة خمس وسبعين وستمائة PageV15P286 
+",000,False,000,False,False,False,3,3824
+"### ||| -سنة ست وسبعين وستمائة PageV15P304 
+",000,False,000,False,False,False,3,6783
+"### ||| -سنة سبع وسبعين وستمائة PageV15P334 
+",000,False,000,False,False,False,3,5043
+"### ||| -سنة ثمان وسبعين وستمائة PageV15P357 
+",000,False,000,False,False,False,3,3067
+"### ||| -سنة تسع وسبعين وستمائة PageV15P371 
+",000,False,000,False,False,False,3,2430
+"### ||| -سنة ثمانين وستمائة ومن مات فيها PageV15P383 
+",000,False,000,False,False,False,3,5784
+"### ||| - (المتوفون على التقريب) PageV15P410 
+",000,False,000,False,False,False,3,1277
+"### | -الطبقة التاسعة والستون 681 - 690 ه tab69 
+",000,False,000,False,False,False,1,57140
+"### || -ذكر الحوادث الكائنة في هذه السنين العشر على 
+",000,False,000,False,False,False,2,6252
+"### ||| -سنة إحدى وثمانين وستمائة 
+",000,False,000,False,False,False,3,338
+"### ||| -سنة اثنتين وثمانين وستمائة 
+",000,False,000,False,False,False,3,100
+"### ||| -سنة ثلاث وثمانين وستمائة 
+",000,False,000,False,False,False,3,231
+"### ||| -سنة أربع وثمانين وستمائة 
+",000,False,000,False,False,False,3,309
+"### ||| -سنة خمس وثمانين وستمائة 
+",000,False,000,False,False,False,3,211
+"### ||| -سنة ست ms10609 وثمانين وستمائة 
+",000,False,000,False,False,False,3,276
+"### ||| -سنة سبع وثمانين ms10610 وستمائة 
+",000,False,000,False,False,False,3,340
+"### ||| -سنة ثمان وثمانين وستمائة 
+",000,False,000,False,False,False,3,1480
+"### ||| -سنة تسع وثمانين وستمائة 
+",000,False,000,False,False,False,3,531
+"### ||| -سنة تسعين وستمائة 
+",000,False,000,False,False,False,3,2468
+"### || - (الوفيات) PageV15P443 
+",000,False,000,False,False,False,2,50880
+"### ||| -سنة إحدى وثمانين وستمائة PageV15P443 
+",000,False,000,False,False,False,3,4033
+"### ||| -سنة اثنتين وثمانين وستمائة PageV15P462 
+",000,False,000,False,False,False,3,6178
+"### ||| -سنة ثلاث وثمانين وستمائة PageV15P490 
+",000,False,000,False,False,False,3,5946
+"### ||| -سنة أربع وثمانين PageV15P516 
+",000,False,000,False,False,False,3,4101
+"### ||| -سنة خمس وثمانين وستمائة PageV15P536 
+",000,False,000,False,False,False,3,6637
+"### ||| -سنة ست وثمانين وستمائة PageV15P566 
+",000,False,000,False,False,False,3,3952
+"### ||| -سنة سبع وثمانين وستمائة PageV15P585 
+",000,False,000,False,False,False,3,3821
+"### ||| -سنة ثمان وثمانين وستمائة PageV15P603 
+",000,False,000,False,False,False,3,4681
+"### ||| -سنة تسع وثمانين وستمائة PageV15P625 
+",000,False,000,False,False,False,3,5369
+"### ||| -سنة تسعين وستمائة PageV15P649 
+",000,False,000,False,False,False,3,6192
+"### | -الطبقة السبعون 691 - 700 ه tab70 
+",000,False,000,False,False,False,1,63009
+"### || -ومن الحوادث الكائنة في هذه الطبقة PageV15P679 
+",000,False,000,False,False,False,2,9893
+"### ||| -سنة إحدى وتسعين وستمائة 
+",000,False,000,False,False,False,3,1414
+"### ||| -سنة اثنتين وتسعين وستمائة 
+",000,False,000,False,False,False,3,444
+"### ||| -سنة ثلاث وتسعين وستمائة 
+",000,False,000,False,False,False,3,545
+"### ||| -سنة أربع وتسعين وستمائة 
+",000,False,000,False,False,False,3,400
+"### ||| -سنة خمس وتسعين وستمائة 
+",000,False,000,False,False,False,3,715
+"### ||| -سنة ست وتسعين وستمائة 
+",000,False,000,False,False,False,3,799
+"### ||| -سنة سبع وتسعين وستمائة 
+",000,False,000,False,False,False,3,265
+"### ||| -سنة ثمان وتسعين وستمائة 
+",000,False,000,False,False,False,3,838
+"### ||| -سنة تسع وتسعين وستمائة 
+",000,False,000,False,False,False,3,3574
+"### ||| -سنة سبعمائة 
+",000,False,000,False,False,False,3,928
+"### || - (الوفيات) PageV15P721 
+",000,False,000,False,False,False,2,53110
+"### ||| -المتوفون سنة إحدى وتسعين وستمائة PageV15P721 
+",691,year,000,False,691,057,3,4551
+"### ||| -سنة اثنتين وتسعين وستمائة PageV15P742 
+",000,False,000,False,False,False,3,3619
+"### ||| -سنة ثلاث وتسعين وستمائة PageV15P759 
+",000,False,000,False,False,False,3,5000
+"### ||| -سنة أربع وتسعين وستمائة. PageV15P781 
+",000,False,000,False,False,False,3,4750
+"### ||| -سنة خمس وتسعين وستمائة. PageV15P803 
+",000,False,000,False,False,False,3,6448
+"### ||| -سنة ست وتسعين وستمائة PageV15P833 
+",000,False,000,False,False,False,3,3548
+"### ||| -سنة سبع وتسعين وستمائة PageV15P850 
+",000,False,000,False,False,False,3,3938
+"### ||| -سنة ثمان وتسعين وستمائة PageV15P869 
+",000,False,000,False,False,False,3,5111
+"### ||| -سنة تسع وتسعين وستمائة PageV15P892 
+",000,False,000,False,False,False,3,12222
+"### ||| -سنة سبعمائة PageV15P946 
+",000,False,000,False,False,False,3,3957

@@ -1,0 +1,355 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | مقدمات
+",000,False,000,False,False,False,1,2
+"### | بين يدي الكتاب
+",000,False,000,False,False,False,1,199
+"### | نبذة يسيرة عن حياة المؤلف 1 رحمه الله تعالى:
+",000,False,000,False,False,False,1,101
+"### | مقدمة
+",000,False,000,False,False,False,1,434
+"### | ..... 
+",000,False,000,False,False,False,1,984
+"### | باب أسماء الأئمة القراء الأربعة عشر ورواتهم وطرقهم
+",000,False,000,False,False,False,1,2212
+"### | .... 
+",000,False,000,False,False,False,1,2846
+"### | باب الاستعاذة
+",000,False,000,False,False,False,1,327
+"### | باب الإدغام
+",000,False,000,False,False,False,1,2278
+"### | فصل يلتحق بهذا الباب خمسة أحرف
+",000,False,000,False,False,False,1,12
+"### | مدخل
+",000,False,000,False,False,False,1,869
+"### | الفصل الأول في حكم ذال إذ 
+",000,False,000,False,False,False,1,114
+"### | الفصل الثاني في حكم دال قد:
+",000,False,000,False,False,False,1,126
+"### | الفصل الثالث في حكم تاء التأنيث:
+",000,False,000,False,False,False,1,141
+"### | الفصل الرابع في حكم لام هل وبل:
+",000,False,000,False,False,False,1,197
+"### | الفصل الخامس: في حكم حروف قربت مخارجها وهي سبعة عشر حرفا
+",000,False,000,False,False,False,1,1074
+"### | الفصل السادس: في أحكام النون الساكنة والتنوين
+",000,False,000,False,False,False,1,715
+"### | باب هاء الكناية
+",000,False,000,False,False,False,1,1077
+"### | باب المد والقصر
+",000,False,000,False,False,False,1,3148
+"### | باب الهمزتين المجتمعتين في كلمة
+",000,False,000,False,False,False,1,2804
+"### | باب الهمزتين المتلاصقتين في كلمتين
+",000,False,000,False,False,False,1,878
+"### | باب الهمز المفرد
+",000,False,000,False,False,False,1,2416
+"### | باب نقل حركة الهمزة إلى الساكن قبلها
+",000,False,000,False,False,False,1,838
+"### | باب السكت على الساكن قبل الهمز وغيره
+",000,False,000,False,False,False,1,1084
+"### | باب وقف حمزة وهشام على الهمز, وموافقة الأعمش لهما:
+",000,False,000,False,False,False,1,1868
+"### | ...... 
+",000,False,000,False,False,False,1,2111
+"### | باب الفتح والإمالة
+",000,False,000,False,False,False,1,6
+"### | مدخل
+",000,False,000,False,False,False,1,4557
+"### | فصل: في إمالة الألف التي هي فعل ماض ثلاثي
+",000,False,000,False,False,False,1,206
+"### | فصل: في إمالة حروف مخصصة غير ما ذكر
+",000,False,000,False,False,False,1,1580
+"### | باب إمالة هاء التأنيث وما قبلها في الوقف:
+",000,False,000,False,False,False,1,558
+"### | باب مذاهبهم في ترقيق الراآت وتفخيمها
+",000,False,000,False,False,False,1,1060
+"### | .... 
+",000,False,000,False,False,False,1,969
+"### | باب حكم اللامالت تغليظا وترقيقا
+",000,False,000,False,False,False,1,768
+"### | باب الوقف على أواخر الكلم
+",000,False,000,False,False,False,1,801
+"### | باب الوقف على مرسوم الخط
+",000,False,000,False,False,False,1,2286
+"### | باب مذاهبهم في ياآت الإضافة
+",000,False,000,False,False,False,1,1977
+"### | باب مذاهبهم في ياآت الزوائد
+",000,False,000,False,False,False,1,10
+"### | مدخل
+",000,False,000,False,False,False,1,2107
+"### | سورة الفاتحة مكية
+",000,False,000,False,False,False,1,1844
+"### | سورة البقرة
+",000,False,000,False,False,False,1,14792
+"### | سورة آل عمران
+",000,False,000,False,False,False,1,5345
+"### | سورة النساء
+",000,False,000,False,False,False,1,4093
+"### | سورة المائدة
+",000,False,000,False,False,False,1,2800
+"### | سورة الأنعام
+",000,False,000,False,False,False,1,5852
+"### | سورة الأعراف
+",000,False,000,False,False,False,1,4913
+"### | سورة الأنفال
+",000,False,000,False,False,False,1,1345
+"### | سورة التوبة
+",000,False,000,False,False,False,1,2392
+"### | سورة يونس عليه السلام
+",000,False,000,False,False,False,1,3287
+"### | سورة هود مكية
+",000,False,000,False,False,False,1,2649
+"### | سورة يوسف عليه السلام
+",000,False,000,False,False,False,1,2934
+"### | سورة الرعد
+",000,False,000,False,False,False,1,735
+"### | سورة إبراهيم عليه الصلاة والسلام
+",000,False,000,False,False,False,1,1102
+"### | سورة الحجر
+",000,False,000,False,False,False,1,1002
+"### | سورة النحل
+",000,False,000,False,False,False,1,1603
+"### | سورة الإسراء
+",000,False,000,False,False,False,1,2309
+"### | سورة الكهف
+",000,False,000,False,False,False,1,3580
+"### | سورة مريم عليها الصلاة والسلام
+",000,False,000,False,False,False,1,1779
+"### | سورة طه
+",000,False,000,False,False,False,1,3223
+"### | سورة الأنبياء عليهم الصلاة والسلام
+",000,False,000,False,False,False,1,1362
+"### | سورة الحج
+",000,False,000,False,False,False,1,1612
+"### | سورة المؤمنون
+",000,False,000,False,False,False,1,1615
+"### | سورة النور
+",000,False,000,False,False,False,1,1912
+"### | سورة الفرقان
+",000,False,000,False,False,False,1,1377
+"### | سورة الشعراء
+",000,False,000,False,False,False,1,1581
+"### | سورة النمل
+",000,False,000,False,False,False,1,2348
+"### | سور القصص
+",000,False,000,False,False,False,1,1231
+"### | سورة العنكبوت
+",000,False,000,False,False,False,1,883
+"### | سورة الروم
+",000,False,000,False,False,False,1,1012
+"### | سورة لقمان
+",000,False,000,False,False,False,1,517
+"### | سور السجدة
+",000,False,000,False,False,False,1,540
+"### | سورة الأحزاب
+",000,False,000,False,False,False,1,1624
+"### | سورة سبأ
+",000,False,000,False,False,False,1,1479
+"### | سورة فاطر
+",000,False,000,False,False,False,1,779
+"### | سورة يس
+",000,False,000,False,False,False,1,1673
+"### | سورة الصافات
+",000,False,000,False,False,False,1,1556
+"### | سورة ص
+",000,False,000,False,False,False,1,1258
+"### | سورة الزمر
+",000,False,000,False,False,False,1,1094
+"### | سورة المؤمن
+",000,False,000,False,False,False,1,1069
+"### | سورة فصلت
+",000,False,000,False,False,False,1,759
+"### | سورة الشورى
+",000,False,000,False,False,False,1,848
+"### | سور الزخرف
+",000,False,000,False,False,False,1,1395
+"### | سورة الدخان
+",000,False,000,False,False,False,1,389
+"### | سورة الجاثية
+",000,False,000,False,False,False,1,522
+"### | سورة الأحقاف
+",000,False,000,False,False,False,1,801
+"### | سورة محمد ""صلى الله عليه وسلم""
+",000,False,000,False,False,False,1,880
+"### | سورة الفتح
+",000,False,000,False,False,False,1,578
+"### | سورة الحجرات
+",000,False,000,False,False,False,1,347
+"### | سورة ق
+",000,False,000,False,False,False,1,300
+"### | سورة الذاريات
+",000,False,000,False,False,False,1,498
+"### | سورة الطور
+",000,False,000,False,False,False,1,591
+"### | سورة النجم
+",000,False,000,False,False,False,1,881
+"### | سورة القمر
+",000,False,000,False,False,False,1,423
+"### | سورة الرحمن عز وجل
+",000,False,000,False,False,False,1,808
+"### | سورة الواقعة
+",000,False,000,False,False,False,1,702
+"### | سورة الحديد
+",000,False,000,False,False,False,1,801
+"### | سورة المجادلة
+",000,False,000,False,False,False,1,432
+"### | سورة الحشر
+",000,False,000,False,False,False,1,491
+"### | سورة الممتحنة
+",000,False,000,False,False,False,1,369
+"### | سورة الصف
+",000,False,000,False,False,False,1,241
+"### | سورة الجمعة
+",000,False,000,False,False,False,1,71
+"### | سورة المنافقين
+",000,False,000,False,False,False,1,367
+"### | سورة التغابن
+",000,False,000,False,False,False,1,119
+"### | سورة الطلاق
+",000,False,000,False,False,False,1,320
+"### | سورة التحريم
+",000,False,000,False,False,False,1,264
+"### | سورة الملك
+",000,False,000,False,False,False,1,411
+"### | سورة ن
+",000,False,000,False,False,False,1,335
+"### | .... 
+",000,False,000,False,False,False,1,21
+"### | سورة الحاقة
+",000,False,000,False,False,False,1,538
+"### | سورة سأل
+",000,False,000,False,False,False,1,357
+"### | سورة نوح عليه الصلاة والسلام
+",000,False,000,False,False,False,1,208
+"### | سورة الجن
+",000,False,000,False,False,False,1,439
+"### | سورة المزمل
+",000,False,000,False,False,False,1,265
+"### | سورة المدثر
+",000,False,000,False,False,False,1,210
+"### | سورة القيامة
+",000,False,000,False,False,False,1,349
+"### | سورة الإنسان
+",000,False,000,False,False,False,1,628
+"### | سورة المراسلات
+",000,False,000,False,False,False,1,369
+"### | سورة ms599 النبأ
+",000,False,000,False,False,False,1,224
+"### | سورة النازعات
+",000,False,000,False,False,False,1,393
+"### | سورة عبس
+",000,False,000,False,False,False,1,260
+"### | سورة التكوير
+",000,False,000,False,False,False,1,309
+"### | سورة الانفطار
+",000,False,000,False,False,False,1,171
+"### | سورة المطففين
+",000,False,000,False,False,False,1,276
+"### | سورة الانشقاق
+",000,False,000,False,False,False,1,182
+"### | سورة البروج
+",000,False,000,False,False,False,1,75
+"### | سورة الطارق
+",000,False,000,False,False,False,1,81
+"### | سورة الأعلى ms606
+",000,False,000,False,False,False,1,135
+"### | سورة الغاشية
+",000,False,000,False,False,False,1,231
+"### | سورة الفجر
+",000,False,000,False,False,False,1,428
+"### | سورة البلد
+",000,False,000,False,False,False,1,244
+"### | سورة الشمس
+",000,False,000,False,False,False,1,127
+"### | سورة الليل
+",000,False,000,False,False,False,1,133
+"### | سورة الضحى
+",000,False,000,False,False,False,1,95
+"### | سورة الانشراح
+",000,False,000,False,False,False,1,97
+"### | سورة التين
+",000,False,000,False,False,False,1,45
+"### | سورة العلق
+",000,False,000,False,False,False,1,289
+"### | سورة القدر
+",000,False,000,False,False,False,1,85
+"### | سورة لم يكن
+",000,False,000,False,False,False,1,61
+"### | سورة الزلزلة
+",000,False,000,False,False,False,1,73
+"### | سورة العاديات
+",000,False,000,False,False,False,1,50
+"### | سورة القارعة
+",000,False,000,False,False,False,1,38
+"### | سورة التكاثر
+",000,False,000,False,False,False,1,113
+"### | سورة العصر
+",000,False,000,False,False,False,1,35
+"### | سورة الهمزة
+",000,False,000,False,False,False,1,119
+"### | سورة الفيل
+",000,False,000,False,False,False,1,25
+"### | سورة قريش
+",000,False,000,False,False,False,1,116
+"### | سورة أرأيت
+",000,False,000,False,False,False,1,60
+"### | سورة الكوثر
+",000,False,000,False,False,False,1,23
+"### | سورة الكافرون
+",000,False,000,False,False,False,1,68
+"### | سورة النصر
+",000,False,000,False,False,False,1,37
+"### | سورة تبت
+",000,False,000,False,False,False,1,110
+"### | سورة الإخلاص
+",000,False,000,False,False,False,1,81
+"### | سورة الفلق
+",000,False,000,False,False,False,1,115
+"### | سورة الناس
+",000,False,000,False,False,False,1,58
+"### | باب التكبير
+",000,False,000,False,False,False,1,3736
+"### | المراجع المعتمدة
+",000,False,000,False,False,False,1,4
+"### | 1- 
+",000,False,000,False,False,False,1,7
+"### | 2- 
+",000,False,000,False,False,False,1,11
+"### | 3- 
+",000,False,000,False,False,False,1,11
+"### | 4- 
+",000,False,000,False,False,False,1,5
+"### | 5- 
+",000,False,000,False,False,False,1,11
+"### | 6- 
+",000,False,000,False,False,False,1,11
+"### | 7- 
+",000,False,000,False,False,False,1,9
+"### | 8- 
+",000,False,000,False,False,False,1,7
+"### | 9- 
+",000,False,000,False,False,False,1,5
+"### | 10- 
+",000,False,000,False,False,False,1,15
+"### | 11- 
+",000,False,000,False,False,False,1,13
+"### | 12- 
+",000,False,000,False,False,False,1,11
+"### | 13- 
+",000,False,000,False,False,False,1,13
+"### | 14- 
+",000,False,000,False,False,False,1,3
+"### | 15- 
+",000,False,000,False,False,False,1,7
+"### | 16- 
+",000,False,000,False,False,False,1,9
+"### | 17- 
+",000,False,000,False,False,False,1,5
+"### | 18- 
+",000,False,000,False,False,False,1,7
+"### | 19- 
+",000,False,000,False,False,False,1,9
+"### | 20- 
+",000,False,000,False,False,False,1,7
+"### | فهرس المحتويات
+",000,False,000,False,False,False,1,595

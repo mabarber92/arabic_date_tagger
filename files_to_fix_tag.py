@@ -14,11 +14,22 @@ import copy
 
 def md_seg (text, md_level):
     md_str = "###\s"
+    end_md_str = "###\s"
+    
     for x in range(0, md_level):
         md_str = md_str + "\|"
-    regex = "(" + md_str + "\s(.*\n)+?)" + "(?="+md_str + "\s)"
+        
+    if md_level > 1:
+        for x in range(0, md_level):
+            end_md_str = end_md_str + "\|?"
+    else:
+        end_md_str = md_str
+    
+    regex = "(" + md_str + "\s(.*\n)+?)" + "(?="+end_md_str + "\s)"
     split_text = ["".join(x) for x in re.findall(regex, text)]
     return split_text
+
+
 
 def count (string):
     normal = re.sub(r"\[|\]|\n|ms\d+|[.#|,)():?؟،-]", " ", string)
@@ -568,7 +579,7 @@ pri_list = metadata[metadata.Status == 'pri'].values.tolist()
 
 csv = pd.read_csv("C:/Users/mathe/Documents/Kitab project/Big corpus datasets/Github/arabic_date_tagger/Full_corpus_25_10/dates df.csv", dtype=str)
 
-directory = "C:/Users/mathe/Documents/Kitab project/Big corpus datasets/Github/arabic_date_tagger/Test"
+directory = "C:/Users/mathe/Documents/Kitab project/Big corpus datasets/Github/arabic_date_tagger/Files to fix"
 
 os.chdir(directory)
 d_date = "000"
@@ -679,7 +690,7 @@ for root, dirs, files in os.walk(".", topdown=False):
     
                 # Check level 2
                 if max_l >= 2:
-                    
+                    sect = sect + "### || "
                     l2 = md_seg(sect, 2)
                     for sect_2 in l2:
                         print('.', end = '')
@@ -757,6 +768,7 @@ for root, dirs, files in os.walk(".", topdown=False):
                         
                         # Check level 3
                         if max_l >=3:
+                            sect_2 = sect_2 + "### ||| "
                             l3 = md_seg(sect_2, 3)
                             for sect_3 in l3:                                
                                 md_header = re.findall(r"(###.+\n)", sect_3)
@@ -827,6 +839,7 @@ for root, dirs, files in os.walk(".", topdown=False):
                                 out.append(out_line)
                                 # Check level 4
                                 if max_l >=4:
+                                    sect_3 = sect_3 + "### |||| "
                                     l4 = md_seg(sect_3, 4)
                                     for sect_4 in l4:
                                         md_header = re.findall(r"(###.+\n)", sect_4)
@@ -897,6 +910,7 @@ for root, dirs, files in os.walk(".", topdown=False):
                             
                                         # Checking and writing level 5
                                         if max_l >= 5:
+                                            sect_4 = sect_4 + "### ||||| "
                                             l5 = md_seg(sect_4, 5)
                                             for sect_5 in l5:
                                                 md_header = re.findall(r"(###.+\n)", sect_5)
@@ -967,6 +981,7 @@ for root, dirs, files in os.walk(".", topdown=False):
                                     
                                                 # Checking and writing level 6
                                                 if max_l >= 6:
+                                                    sect_5 = sect_5 = "### |||||| "
                                                     l6 = md_seg(sect_5, 6)
                                                     for sect_6 in l6:
                                                         md_header = re.findall(r"(###.+\n)", sect_6)

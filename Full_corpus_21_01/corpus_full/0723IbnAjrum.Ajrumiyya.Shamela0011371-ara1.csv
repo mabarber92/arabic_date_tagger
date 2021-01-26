@@ -1,0 +1,51 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | مدخل
+",000,False,000,False,False,False,1,62
+"### | باب الإعراب
+",000,False,000,False,False,False,1,37
+"### | باب معرفة علامات الإعراب
+",000,False,000,False,False,False,1,344
+"### | باب الأفعال
+",000,False,000,False,False,False,1,81
+"### | باب مرفوعات الأسماء
+",000,False,000,False,False,False,1,29
+"### | باب الفاعل
+",000,False,000,False,False,False,1,72
+"### | باب المفعول الذي لم يسم فاعله
+",000,False,000,False,False,False,1,55
+"### | باب المبتدأ والخبر
+",000,False,000,False,False,False,1,79
+"### | باب العوامل الداخلة على المبتدأ والخبر
+",000,False,000,False,False,False,1,125
+"### | باب النعت
+",000,False,000,False,False,False,1,76
+"### | باب العطف
+",000,False,000,False,False,False,1,53
+"### | باب التوكيد
+",000,False,000,False,False,False,1,32
+"### | [باب البدل]
+",000,False,000,False,False,False,1,60
+"### | باب منصوبات الأسماء
+",000,False,000,False,False,False,1,40
+"### | باب المفعول به
+",000,False,000,False,False,False,1,59
+"### | باب المصدر
+",000,False,000,False,False,False,1,45
+"### | باب ظرف الزمان وظرف المكان
+",000,False,000,False,False,False,1,50
+"### | باب الحال
+",000,False,000,False,False,False,1,36
+"### | باب التمييز
+",000,False,000,False,False,False,1,32
+"### | باب الاستثناء
+",000,False,000,False,False,False,1,76
+"### | باب لا
+",000,False,000,False,False,False,1,48
+"### | باب المنادى
+",000,False,000,False,False,False,1,33
+"### | باب المفعول من أجله
+",000,False,000,False,False,False,1,19
+"### | باب المفعول معه
+",000,False,000,False,False,False,1,32
+"### | باب المخفوضات من الأسماء
+",000,False,000,False,False,False,1,69

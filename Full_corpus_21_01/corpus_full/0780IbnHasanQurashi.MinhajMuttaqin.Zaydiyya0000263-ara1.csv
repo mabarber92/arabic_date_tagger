@@ -1,0 +1,317 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO كتاب
+",000,False,000,False,False,False,1,171733
+"### || AUTO مقدمة:
+",000,False,000,False,False,False,2,279
+"### || AUTO الكلام في معرفة الصانع جل وعز
+",000,False,000,False,False,False,2,15006
+"### ||| AUTO القول في ماهية العلم وقسمته وما يتصل بذلك
+",000,False,000,False,False,False,3,14940
+"### |||| AUTO فصل والعلم ضربان: تصور وتصديق.
+",000,False,000,False,False,False,4,673
+"### ||||| CHECK [أقسام علم التصديق]
+",000,False,000,False,False,False,5,241
+"### ||||| AUTO وعلم التصور مقدم على علم التصديق؛ لأن من لا يعلم ماهية
+",000,False,000,False,False,False,5,71
+"### |||| AUTO فصل وينقسم علم التصور إلى جملي وتفصيلي.
+",000,False,000,False,False,False,4,236
+"### |||| CHECK [فصل في أن العلم من قبيل الاعتقاد.]
+",000,False,000,False,False,False,4,275
+"### |||| CHECK [فصل فيما يعرف به أن كون العلم اعتقاد]
+",000,False,000,False,False,False,4,504
+"### |||| AUTO فصل كل ما لا يعلم استدلالا يجوز أن يعلم ضرورة مطلقا، وكل
+",000,False,000,False,False,False,4,1492
+"### |||| CHECK [فصل في كون العقل هو مجموع علوم ضرورية]
+",000,False,000,False,False,False,4,598
+"### |||| CHECK [فصل في مزاعم أهل السفسطة عن ماهية العلم]
+",000,False,000,False,False,False,4,2705
+"### |||| CHECK [فصل في أن من شروط وجوب النظر أن القادر عليه شاكا]
+",000,False,000,False,False,False,4,8088
+"### || AUTO الكلام في التوحيد
+",000,False,000,False,False,False,2,6745
+"### ||| AUTO القول في أن للعالم صانعا، اتفق الناس على أنه لا بد من مؤثر
+",000,False,000,False,False,False,3,6595
+"### || AUTO الكلام في الصفات والأحكام
+",000,False,000,False,False,False,2,36885
+"### ||| AUTO فصل في إبطال قولهم بأنها قائمة بذات الله تعالى
+",000,False,000,False,False,False,3,8287
+"### |||| AUTO فصل في شبههم في إثبات المعاني
+",000,False,000,False,False,False,4,3328
+"### |||| AUTO فصل في أنه تعالى يستحق هذه الصفات الأربع ما لم يزل، وفي ما
+",000,False,000,False,False,False,4,68
+"### |||| AUTO فصل في أنه تعالى عالم بجميع أعيان المعلومات
+",000,False,000,False,False,False,4,3661
+"### |||| AUTO فصل في ما ms163 يصح أن يراد ويستحيل ويجب ويحسن ويقبح.
+",000,False,000,False,False,False,4,125
+"### |||| AUTO فصل في ما يريده الله تعالى وما لا يريده
+",000,False,000,False,False,False,4,380
+"### |||| AUTO فصل وفيه ذكر طرف من أحكام الإرادة.
+",000,False,000,False,False,False,4,598
+"### ||| AUTO القول في أن الله تعالى غني
+",000,False,000,False,False,False,3,449
+"### ||| AUTO القول في أن الله تعالى ليس بجسم ولا عرض ولا يجوز عليه ما
+",000,False,000,False,False,False,3,2408
+"### ||| AUTO القول في استحالة الرؤية على الله تعالى
+",000,False,000,False,False,False,3,7090
+"### |||| AUTO فصل في شبههم في إثبات الرؤية
+",000,False,000,False,False,False,4,3428
+"### ||| AUTO القول في أن الله واحد لا ثاني له
+",000,False,000,False,False,False,3,2825
+"### |||| AUTO فصل في الكلام على الثنوية في النور والظلمة
+",000,False,000,False,False,False,4,278
+"### |||| AUTO فصل في شبهة الثنوية
+",000,False,000,False,False,False,4,184
+"### |||| AUTO فصل في الكلام على الصابئين
+",000,False,000,False,False,False,4,64
+"### |||| AUTO فصل في الكلام على النصارى
+",000,False,000,False,False,False,4,535
+"### |||| AUTO فصل في شبهة النصارى
+",000,False,000,False,False,False,4,310
+"### || AUTO الكلام في العدل
+",000,False,000,False,False,False,2,33678
+"### ||| AUTO فصل في الوجه الذي لأجله وجب الواجب وقبح القبيح وحسن الحسن
+",000,False,000,False,False,False,3,2961
+"### ||| AUTO فصل في بيان ما يجري عليه تعالى من الأسماء بمعنى أنه لا يفعل
+",000,False,000,False,False,False,3,160
+"### ||| AUTO القول في أن الله تعالى عدل حكيم
+",000,False,000,False,False,False,3,1413
+"### |||| AUTO فصل فيما يلزم المجبرة في هذه المسألة
+",000,False,000,False,False,False,4,605
+"### ||| AUTO القول في خلق الأفعال
+",000,False,000,False,False,False,3,9030
+"### |||| AUTO فصل في ذكر بعض ما ألزمهم أصحابنا على القول بأن أفعال
+",000,False,000,False,False,False,4,1349
+"### |||| AUTO فصل في ذكر بعض ما جرى من المناظرات
+",000,False,000,False,False,False,4,482
+"### |||| AUTO فصل في إبطال قولهم بالكسب
+",000,False,000,False,False,False,4,1001
+"### |||| AUTO فصل في شبههم في أن الله خالق لأفعال العباد
+",000,False,000,False,False,False,4,1729
+"### |||| AUTO فصل في شبههم السمعية
+",000,False,000,False,False,False,4,2720
+"### ||| AUTO القول في المتولدات
+",000,False,000,False,False,False,3,1575
+"### |||| AUTO فصل في ما يجري عليه تعالى من الأسماء بمعنى كونه فاعلا
+",000,False,000,False,False,False,4,578
+"### ||| AUTO القول في أن الله تعالى لا يعذب أحدا إلا بذنبه ولا يثيبه إلا بعلمه
+",000,False,000,False,False,False,3,1719
+"### |||| CHECK [فصل في شبه أهل الجبر]
+",000,False,000,False,False,False,4,1209
+"### |||| AUTO فصل [في ذكر بعض ما يلزمهم]
+",000,False,000,False,False,False,4,154
+"### ||| AUTO القول في القضاء والقدر
+",000,False,000,False,False,False,3,2800
+"### |||| AUTO فصل [في بيان من القدرية]
+",000,False,000,False,False,False,4,1253
+"### |||| AUTO فصل [في بعض ما جرى من المناظرات]
+",000,False,000,False,False,False,4,537
+"### |||| AUTO فصل في شبههم
+",000,False,000,False,False,False,4,697
+"### |||| AUTO تنبيه
+",000,False,000,False,False,False,4,78
+"### ||| AUTO القول في الهدى والضلال
+",000,False,000,False,False,False,3,2925
+"### |||| CHECK [فصل في شبه أهل الجبر]
+",000,False,000,False,False,False,4,2206
+"### ||| AUTO القول في أن الله تعالى يريد الطاعات ولا يريد القبائح
+",000,False,000,False,False,False,3,4353
+"### |||| AUTO فصل [في بعض ما جرى من المناظرات]
+",000,False,000,False,False,False,4,146
+"### |||| AUTO فصل [في شبههم]
+",000,False,000,False,False,False,4,3135
+"### ||| AUTO القول في الاستطاعة
+",000,False,000,False,False,False,3,4865
+"### |||| AUTO فصل [في مناظرات جرت في هذا الباب]
+",000,False,000,False,False,False,4,418
+"### |||| AUTO فصل [في شبههم في هذا الباب]
+",000,False,000,False,False,False,4,1701
+"### ||| AUTO القول في استحالة البدل
+",000,False,000,False,False,False,3,981
+"### || AUTO الكلام في التكليف
+",000,False,000,False,False,False,2,6302
+"### ||| AUTO فصل في معنى أن الله حكيم.
+",000,False,000,False,False,False,3,4358
+"### |||| AUTO فصل في بيان وجه الحكمة في ابتداء الخلق.
+",000,False,000,False,False,False,4,1211
+"### |||| AUTO فصل [في حسن التكليف وبيان وجه الحكمة فيه]
+",000,False,000,False,False,False,4,375
+"### |||| AUTO فصل [في التكليف يحسن سواء قبل المكلف أو رده]
+",000,False,000,False,False,False,4,1273
+"### |||| AUTO فصل [في ما يتناوله التكليف من الأفعال والتروك]
+",000,False,000,False,False,False,4,53
+"### |||| AUTO فصل [في شرائط حسن التكليف]
+",000,False,000,False,False,False,4,1314
+"### ||| AUTO القول في قبح تكليف مالا يطاق
+",000,False,000,False,False,False,3,1745
+"### |||| AUTO فصل [في شببهم]
+",000,False,000,False,False,False,4,606
+"### |||| AUTO شبهة
+",000,False,000,False,False,False,4,294
+"### |||| AUTO شبهة
+",000,False,000,False,False,False,4,156
+"### |||| AUTO شبهة
+",000,False,000,False,False,False,4,160
+"### || AUTO الكلام في الألطاف
+",000,False,000,False,False,False,2,9973
+"### ||| AUTO فصل [في ما يصح أن يكون لطفا من أفعال المكلفين وما لا يصح]
+",000,False,000,False,False,False,3,1416
+"### |||| AUTO فصل [في الكلام على أهل الأصلح]
+",000,False,000,False,False,False,4,659
+"### |||| AUTO فصل [في شبههم]
+",000,False,000,False,False,False,4,243
+"### ||||| AUTO شبهة
+",000,False,000,False,False,False,5,213
+"### ||| AUTO القول في الآجال
+",000,False,000,False,False,False,3,487
+"### ||| AUTO القول في الأرزاق
+",000,False,000,False,False,False,3,748
+"### |||| AUTO فصل [في طريق الوصول إلى الرزق]
+",000,False,000,False,False,False,4,454
+"### ||| AUTO القول في الأسعار
+",000,False,000,False,False,False,3,225
+"### ||| AUTO القول في الآلام والغموم
+",000,False,000,False,False,False,3,1261
+"### |||| AUTO فصل [في الوجه الذي يقبح عليه الألم]
+",000,False,000,False,False,False,4,308
+"### ||| AUTO القول في الأعواض
+",000,False,000,False,False,False,3,3202
+"### |||| AUTO فصل [في المضار التي يشتبه الحال في هل أعواضها على الله أو
+",000,False,000,False,False,False,4,915
+"### |||| AUTO فصل [في دوام العوض]
+",000,False,000,False,False,False,4,621
+"### || AUTO الكلام في القرآن الكريم
+",000,False,000,False,False,False,2,6024
+"### ||| AUTO فصل [في حقيقة الكلام والمتكلم]
+",000,False,000,False,False,False,3,819
+"### ||| AUTO القول ms396 في إبطال الكلام النفسي شاهدا أو غائبا
+",000,False,000,False,False,False,3,2838
+"### ||| AUTO القول في أن القرآن الكريم هو هذا الذين نتلوه في المحاريب
+",000,False,000,False,False,False,3,254
+"### ||| AUTO القول في أن القرآن محدث
+",000,False,000,False,False,False,3,1192
+"### |||| AUTO فصل [في شببهم]
+",000,False,000,False,False,False,4,188
+"### |||| AUTO شبهة
+",000,False,000,False,False,False,4,290
+"### |||| AUTO فصل [في كيفية حدوث القرآن وكيفية إنزاله]
+",000,False,000,False,False,False,4,272
+"### ||| AUTO القول في صحة وصف القرآن بأنه مخلوق
+",000,False,000,False,False,False,3,886
+"### |||| AUTO فصل [في شبههم]
+",000,False,000,False,False,False,4,383
+"### || AUTO الكلام في النبوءات
+",000,False,000,False,False,False,2,8887
+"### ||| AUTO فصل [في الصفة التي يجب أن يكون النبي عليها وما يجب أن ينزه عنه]
+",000,False,000,False,False,False,3,773
+"### ||| AUTO القول في صحة نسخ الشرائع
+",000,False,000,False,False,False,3,1130
+"### ||| AUTO القول في نبوة محمد صلى الله عليه وعلى آله وصحبه المحقين وسلم
+",000,False,000,False,False,False,3,1752
+"### |||| AUTO فصل [في وجه إعجاز القرآن]
+",000,False,000,False,False,False,4,815
+"### ||| AUTO القول في أن القرآن الكريم محروس عن المطاعن
+",000,False,000,False,False,False,3,2235
+"### ||| AUTO القول في سائر معجزاته عليه السلام
+",000,False,000,False,False,False,3,461
+"### ||| AUTO القول في أنه صلى الله عليه وآله وسلم مرسل إلى الكل وأن
+",000,False,000,False,False,False,3,193
+"### || AUTO الكلام في الوعد والوعيد
+",000,False,000,False,False,False,2,14715
+"### ||| AUTO القول في الجنبة العقلية
+",000,False,000,False,False,False,3,5834
+"### |||| AUTO فصول في الإحباط والتكفير
+",000,False,000,False,False,False,4,696
+"### |||| AUTO فصل [في كيفية الإحباط والتكفير]
+",000,False,000,False,False,False,4,169
+"### |||| AUTO شبهة أبي علي
+",000,False,000,False,False,False,4,198
+"### |||| AUTO فصول في التوبة التي تسقط بها العقاب
+",000,False,000,False,False,False,4,1304
+"### |||| AUTO فصل [في كيفية التوبة]
+",000,False,000,False,False,False,4,1126
+"### ||| AUTO القول في الوعيد السمعي
+",000,False,000,False,False,False,3,5015
+"### |||| AUTO فصل [في انقطاع التلكيف]
+",000,False,000,False,False,False,4,770
+"### |||| AUTO فصل [في عذاب القبر وسؤال الملكين]
+",000,False,000,False,False,False,4,1917
+"### |||| AUTO فصل [في أن وعيد الكفار مقطوع به]
+",000,False,000,False,False,False,4,51
+"### |||| AUTO فصل [في أن وعيد الفساق مقطوع به]
+",000,False,000,False,False,False,4,2261
+"### ||| AUTO القول في خلود الفساق
+",000,False,000,False,False,False,3,745
+"### ||| AUTO القول في الشفاعة
+",000,False,000,False,False,False,3,713
+"### ||| AUTO القول في المنزلة بين المنزلتين
+",000,False,000,False,False,False,3,2272
+"### || AUTO الكلام في ما تعبد بآية من الأحكام في أهل الوعد والوعيد
+",000,False,000,False,False,False,2,8992
+"### ||| AUTO القول في الإكفار
+",000,False,000,False,False,False,3,6529
+"### |||| AUTO فصل [في بيان أنواع الكفر]
+",000,False,000,False,False,False,4,1069
+"### |||| AUTO فصول في ذكر ما كفر به أصحابنا أهل البدع
+",000,False,000,False,False,False,4,10
+"### |||| AUTO فصل [في المشبهة الذين اعتقدوا أن الله جسم طويل عريض عميق
+",000,False,000,False,False,False,4,459
+"### |||| AUTO تنبيه
+",000,False,000,False,False,False,4,240
+"### |||| AUTO فصل [في ما يكفر له أصحابنا المجبرة في مسائل الخلاف]
+",000,False,000,False,False,False,4,2193
+"### |||| AUTO فصل [في ذكر خيالات]
+",000,False,000,False,False,False,4,858
+"### |||| AUTO فصل [في المرجئة]
+",000,False,000,False,False,False,4,138
+"### |||| AUTO فصل [في الخوارج]
+",000,False,000,False,False,False,4,193
+"### |||| AUTO فصل [في الرافضية]
+",000,False,000,False,False,False,4,98
+"### |||| AUTO فصل [في المقلدين والعوام]
+",000,False,000,False,False,False,4,696
+"### ||| AUTO القول في التفسيق
+",000,False,000,False,False,False,3,211
+"### ||| AUTO القول في الأمر بالمعروف والنهي عن المنكر
+",000,False,000,False,False,False,3,1938
+"### || AUTO الكلام في أحوال الأئمة في حق الصحابة رضي الله عنهم أجمعين
+",000,False,000,False,False,False,2,8318
+"### ||| AUTO أما الباب الأول وهو في الجواب عما ذكروه في فسق الصحابة رضي
+",000,False,000,False,False,False,3,914
+"### ||| AUTO الباب الثاني في الجواب عما طعنوا على كل واحد من الصحابة رضي
+",000,False,000,False,False,False,3,4074
+"### |||| AUTO فصل [فيما يطعن به أهل الزيغ على أمير المؤمنين رضي الله عنه]
+",000,False,000,False,False,False,4,571
+"### ||| AUTO وأما الباب الثالث وهو في الآثار الواردة في النبي عن سب
+",000,False,000,False,False,False,3,307
+"### ||| AUTO وأما الباب الرابع وهو في إقامة الدلالة على تزكيتهم والترضية عليهم
+",000,False,000,False,False,False,3,2088
+"### ||| AUTO القول في التفضيل
+",000,False,000,False,False,False,3,816
+"### || AUTO الكلام في الإمامة
+",000,False,000,False,False,False,2,15278
+"### ||| AUTO فصل [فيما يحتاج له الإمام]
+",000,False,000,False,False,False,3,68
+"### ||| AUTO فصل [في شروط الإمامة]
+",000,False,000,False,False,False,3,1601
+"### |||| AUTO فصل [في ما يخرج به الإمام عن كونه إماما]
+",000,False,000,False,False,False,4,546
+"### ||| AUTO القول في الطريق إلى ثبوت الإمامة
+",000,False,000,False,False,False,3,868
+"### ||| AUTO القول في تعيين الإمام ms574 بعد رسول الله صلى الله عليه وآله وسلم
+",000,False,000,False,False,False,3,7505
+"### |||| AUTO فصل [في الاستدلال على إمامته عليه السلام بالوصاية]
+",000,False,000,False,False,False,4,367
+"### |||| AUTO فصل [في الاستدلال على إمامته رضي الله عنه بكونه أفضل الأمة
+",000,False,000,False,False,False,4,465
+"### |||| AUTO فصل [في الاستدلال على إمامته عليه السلام بكونه معصوما]
+",000,False,000,False,False,False,4,142
+"### |||| AUTO فصل [في الاستدلال على إمامته عليه السلام بإجماع العترة
+",000,False,000,False,False,False,4,1694
+"### ||| AUTO القول في ذكر ما احتجت به المعتزلة وغيرهم
+",000,False,000,False,False,False,3,456
+"### ||| AUTO القول في إمامة الحسن والحسين عليهما السلام
+",000,False,000,False,False,False,3,1239
+"### ||| AUTO ### ||| AUTO القول في الطريق إلى ثبوت الإمامة بعد الحسن
+",000,False,000,False,False,False,3,367
+"### ||| AUTO ### ||| AUTO القول في أن الإمام بعد الحسن والحسين مقصورة
+",000,False,000,False,False,False,3,2084

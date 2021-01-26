@@ -1,0 +1,121 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | حرف الألف
+",000,False,000,False,False,False,1,2359
+"### | حرف الباء
+",000,False,000,False,False,False,1,589
+"### | حرف التاء
+",000,False,000,False,False,False,1,224
+"### | حرف الثاء
+",000,False,000,False,False,False,1,218
+"### | حرف الجيم
+",000,False,000,False,False,False,1,616
+"### | حرف الحاء
+",000,False,000,False,False,False,1,2906
+"### | حرف الخاء
+",000,False,000,False,False,False,1,650
+"### | حرف الدال
+",000,False,000,False,False,False,1,269
+"### | حرف الذال
+",000,False,000,False,False,False,1,144
+"### | 
+",000,False,000,False,False,False,1,855
+"### | حرف الزاي
+",000,False,000,False,False,False,1,616
+"### | حرف السين
+",000,False,000,False,False,False,1,2353
+"### | حرف الشين
+",000,False,000,False,False,False,1,315
+"### | حرف الصاد
+",000,False,000,False,False,False,1,589
+"### | حرف الضاد
+",000,False,000,False,False,False,1,317
+"### | حرف الطاء
+",000,False,000,False,False,False,1,271
+"### | حرف الظاء
+",000,False,000,False,False,False,1,4
+"### | حرف العين
+",000,False,000,False,False,False,1,8565
+"### | حرف الغين
+",000,False,000,False,False,False,1,169
+"### | حرف الفاء
+",000,False,000,False,False,False,1,474
+"### | حرف القاف
+",000,False,000,False,False,False,1,781
+"### | حرف الكاف
+",000,False,000,False,False,False,1,647
+"### | حرف اللام
+",000,False,000,False,False,False,1,120
+"### | حرف الميم
+",000,False,000,False,False,False,1,4666
+"### | حرف النون
+",000,False,000,False,False,False,1,867
+"### | حرف الهاء
+",000,False,000,False,False,False,1,732
+"### | حرف الواو
+",000,False,000,False,False,False,1,348
+"### | حرف الياء
+",000,False,000,False,False,False,1,1458
+"### | باب الكنى
+",000,False,000,False,False,False,1,4415
+"### || حرف الألف
+",000,False,000,False,False,False,2,447
+"### || حرف الباء
+",000,False,000,False,False,False,2,218
+"### || حرف التاء
+",000,False,000,False,False,False,2,16
+"### || حرف الثاء
+",000,False,000,False,False,False,2,121
+"### || حرف الجيم
+",000,False,000,False,False,False,2,24
+"### || حرف الحار
+",000,False,000,False,False,False,2,277
+"### || حرف الخاء
+",000,False,000,False,False,False,2,93
+"### || حرف الدال
+",000,False,000,False,False,False,2,114
+"### || حرف الراء
+",000,False,000,False,False,False,2,155
+"### || حرف الزاي
+",000,False,000,False,False,False,2,26
+"### || حرف السين
+",000,False,000,False,False,False,2,364
+"### || حرف الشين
+",000,False,000,False,False,False,2,196
+"### || حرف الصاد
+",000,False,000,False,False,False,2,127
+"### || حرف الطاء
+",000,False,000,False,False,False,2,21
+"### || حرف العين
+",000,False,000,False,False,False,2,914
+"### || حرف الغين
+",000,False,000,False,False,False,2,140
+"### || حرف الفاء
+",000,False,000,False,False,False,2,188
+"### || حرف القاف
+",000,False,000,False,False,False,2,77
+"### || حرف الكاف
+",000,False,000,False,False,False,2,92
+"### || حرف الميم
+",000,False,000,False,False,False,2,415
+"### || حرف النون
+",000,False,000,False,False,False,2,35
+"### || حرف الهاء
+",000,False,000,False,False,False,2,196
+"### || حرف الواو
+",000,False,000,False,False,False,2,30
+"### || حرف الياء
+",000,False,000,False,False,False,2,158
+"### | فصل وممن اشتهر بالنسبة إلى أبيه أو جده ونحو ذلك
+",000,False,000,False,False,False,1,1039
+"### | فصل وممن اشتهر بالنسبة إلى بلد أو حرفة ونحو ذلك
+",000,False,000,False,False,False,1,75
+"### | فصل في المبهمات
+",000,False,000,False,False,False,1,3907
+"### | معجم النساء
+",000,False,000,False,False,False,1,1911
+"### || الكنى
+",000,False,000,False,False,False,2,700
+"### || فصل
+",000,False,000,False,False,False,2,144
+"### | استدراكات الحافظ بن حجر
+",000,False,000,False,False,False,1,3489

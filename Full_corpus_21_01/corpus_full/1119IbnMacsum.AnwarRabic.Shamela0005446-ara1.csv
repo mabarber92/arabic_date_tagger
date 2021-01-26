@@ -1,0 +1,427 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | مقدمة المؤلف
+",000,False,000,False,False,False,1,4
+"### | بسم الله الرحمن الرحيم
+",000,False,000,False,False,False,1,409
+"### | أنوار الربيع في أنواع البديع
+",000,False,000,False,False,False,1,1025
+"### | حسن الابتداء وبراعة الاستهلال
+",000,False,000,False,False,False,1,6936
+"### | الجناس المركب والمطلق
+",000,False,000,False,False,False,1,2711
+"### | الجناس الملفق
+",000,False,000,False,False,False,1,880
+"### | الجناس المذيل واللاحق
+",000,False,000,False,False,False,1,1247
+"### | الجناس التام والمطرف
+",000,False,000,False,False,False,1,3153
+"### | الجناس المصحف والمحرف
+",000,False,000,False,False,False,1,1527
+"### | الجناس اللفظي والمقلوب
+",000,False,000,False,False,False,1,1795
+"### | الجناس المعنوي
+",000,False,000,False,False,False,1,2571
+"### | الاستطراد
+",000,False,000,False,False,False,1,2235
+"### | الاستعارة
+",000,False,000,False,False,False,1,6921
+"### | المقابلة
+",000,False,000,False,False,False,1,1188
+"### | وإن هم استخدموا عيني لرعيهم=أو حاولوا بذلها فالسعد من خدمي
+",000,False,000,False,False,False,1,1760
+"### | الافتنان
+",000,False,000,False,False,False,1,2898
+"### | اللف والنشر
+",000,False,000,False,False,False,1,2571
+"### | الالتفاف
+",000,False,000,False,False,False,1,3238
+"### | الاستدراك
+",000,False,000,False,False,False,1,780
+"### | تأليف السيد علي صدر الدين معصوم المدني.
+",000,False,000,False,False,False,1,14
+"### | حققه وترجم لشعرائه شاكر هادي شاكر.
+",000,False,000,False,False,False,1,12
+"### | الجزء الثاني
+",000,False,000,False,False,False,1,4
+"### | الإبهام.
+",000,False,000,False,False,False,1,4626
+"### | الطباق.
+",000,False,000,False,False,False,1,1604
+"### | ...... 
+",000,False,000,False,False,False,1,1873
+"### | إرسال المثل.
+",000,False,000,False,False,False,1,4189
+"### | الأمثال السائرة.
+",000,False,000,False,False,False,1,4946
+"### | التخيير.
+",000,False,000,False,False,False,1,1170
+"### | النزاهة.
+",000,False,000,False,False,False,1,876
+"### | الهزل المراد به الجد.
+",000,False,000,False,False,False,1,2195
+"### | التهكم.
+",000,False,000,False,False,False,1,1021
+"### | تنبيهان
+",000,False,000,False,False,False,1,652
+"### | القول بالموجب.
+",000,False,000,False,False,False,1,2259
+"### | التسليم.
+",000,False,000,False,False,False,1,390
+"### | الاقتباس.
+",000,False,000,False,False,False,1,9729
+"### | المواربة
+",000,False,000,False,False,False,1,1526
+"### | التفويف
+",000,False,000,False,False,False,1,1310
+"### | الكلام الجامع
+",000,False,000,False,False,False,1,67
+"### | ........ 
+",000,False,000,False,False,False,1,3303
+"### | المراجعة
+",000,False,000,False,False,False,1,2196
+"### | المناقصة
+",000,False,000,False,False,False,1,502
+"### | المغايرة
+",000,False,000,False,False,False,1,3163
+"### | الجزء الثالث
+",000,False,000,False,False,False,1,4
+"### | تتمة باب المغايرة
+",000,False,000,False,False,False,1,3382
+"### | التوشيح
+",000,False,000,False,False,False,1,899
+"### | التذييل
+",000,False,000,False,False,False,1,846
+"### | تشابه الأطراف
+",000,False,000,False,False,False,1,826
+"### | التتميم
+",000,False,000,False,False,False,1,1157
+"### | الهجو في معرض المدح
+",000,False,000,False,False,False,1,1224
+"### | الاكتفاء
+",000,False,000,False,False,False,1,2730
+"### | رد العجز على الصدر
+",000,False,000,False,False,False,1,1977
+"### | الاستثناء
+",000,False,000,False,False,False,1,1493
+"### | مراعاة النظير
+",000,False,000,False,False,False,1,3443
+"### | التوجيه
+",000,False,000,False,False,False,1,5202
+"### | التمثيل
+",000,False,000,False,False,False,1,4764
+"### | عتاب المرء نفسه
+",000,False,000,False,False,False,1,851
+"### | القسم
+",000,False,000,False,False,False,1,4391
+"### | حسن التخلص
+",000,False,000,False,False,False,1,11657
+"### | الإطراد
+",000,False,000,False,False,False,1,1615
+"### | العكس
+",000,False,000,False,False,False,1,2483
+"### | الترديد
+",000,False,000,False,False,False,1,683
+"### | المناسبة
+",000,False,000,False,False,False,1,1034
+"### | الجمع
+",000,False,000,False,False,False,1,331
+"### | الانسجام
+",000,False,000,False,False,False,1,24742
+"### | تناسب الأطراف
+",000,False,000,False,False,False,1,437
+"### | ائتلاف المعنى مع المعنى
+",000,False,000,False,False,False,1,1603
+"### | المبالغة
+",000,False,000,False,False,False,1,2162
+"### | الإغراق
+",000,False,000,False,False,False,1,5
+"### | الغلو
+",000,False,000,False,False,False,1,1159
+"### | الغلو
+",000,False,000,False,False,False,1,4072
+"### | التفريق
+",000,False,000,False,False,False,1,760
+"### | التلميح
+",000,False,000,False,False,False,1,7888
+"### | العنوان
+",000,False,000,False,False,False,1,4623
+"### | التسهيم
+",000,False,000,False,False,False,1,1069
+"### | التشريع
+",000,False,000,False,False,False,1,1965
+"### | المذهب الكلامي
+",000,False,000,False,False,False,1,1366
+"### | نفي الشيء بإيجابه
+",000,False,000,False,False,False,1,741
+"### | الرجوع
+",000,False,000,False,False,False,1,2460
+"### | تنبيهات
+",000,False,000,False,False,False,1,11217
+"### | تجاهل العارف
+",000,False,000,False,False,False,1,2008
+"### | الاعتراض
+",000,False,000,False,False,False,1,983
+"### | حصر الجزئي وإلحاقه بالكلي
+",000,False,000,False,False,False,1,733
+"### | التهذيب والتأديب
+",000,False,000,False,False,False,1,1934
+"### | الاتفاق
+",000,False,000,False,False,False,1,460
+"### | الجمع مع التفريق
+",000,False,000,False,False,False,1,588
+"### | الجمع مع التقسيم
+",000,False,000,False,False,False,1,362
+"### | الجمع مع التفريق والتقسيم
+",000,False,000,False,False,False,1,335
+"### | المماثلة
+",000,False,000,False,False,False,1,322
+"### | التوشيع
+",000,False,000,False,False,False,1,513
+"### | التكميل
+",000,False,000,False,False,False,1,937
+"### | شجاعة الفصاحة
+",000,False,000,False,False,False,1,286
+"### | التشبيه
+",000,False,000,False,False,False,1,461
+"### | الفصل الأول في الطرفين
+",000,False,000,False,False,False,1,399
+"### | الفصل الثاني في الوجه
+",000,False,000,False,False,False,1,1665
+"### | تنبيهات
+",000,False,000,False,False,False,1,445
+"### | الفصل الثالث في الغرض
+",000,False,000,False,False,False,1,1014
+"### | ............................. 
+",000,False,000,False,False,False,1,484
+"### | الفصل الرابع في الأحوال
+",000,False,000,False,False,False,1,2478
+"### | الفصل الخامس في الأداة.
+",000,False,000,False,False,False,1,2989
+"### | الفرائد
+",000,False,000,False,False,False,1,446
+"### | التصريع
+",000,False,000,False,False,False,1,500
+"### | الاشتقاق
+",000,False,000,False,False,False,1,459
+"### | السلب والإيجاب
+",000,False,000,False,False,False,1,402
+"### | المشاكلة
+",000,False,000,False,False,False,1,545
+"### | ما لا يستحيل بالانعكاس
+",000,False,000,False,False,False,1,663
+"### | التقسيم
+",000,False,000,False,False,False,1,1012
+"### | الإشارة
+",000,False,000,False,False,False,1,475
+"### | تشبيه شيئين بشيئين
+",000,False,000,False,False,False,1,542
+"### | الكناية
+",000,False,000,False,False,False,1,1113
+"### | الترتيب
+",000,False,000,False,False,False,1,267
+"### | المشاركة
+",000,False,000,False,False,False,1,388
+"### | التوليد
+",000,False,000,False,False,False,1,718
+"### | الإبداع
+",000,False,000,False,False,False,1,82
+"### | 2- 
+",000,False,000,False,False,False,1,5
+"### | 3- 
+",000,False,000,False,False,False,1,11
+"### | 4- 
+",000,False,000,False,False,False,1,21
+"### | 5- 
+",000,False,000,False,False,False,1,37
+"### | 6- 
+",000,False,000,False,False,False,1,21
+"### | 7- 
+",000,False,000,False,False,False,1,21
+"### | 8- 
+",000,False,000,False,False,False,1,13
+"### | 9- 
+",000,False,000,False,False,False,1,32
+"### | 10- 
+",000,False,000,False,False,False,1,23
+"### | 11- 
+",000,False,000,False,False,False,1,17
+"### | 12- 
+",000,False,000,False,False,False,1,25
+"### | 13- 
+",000,False,000,False,False,False,1,23
+"### | 14- 
+",000,False,000,False,False,False,1,32
+"### | 15- 
+",000,False,000,False,False,False,1,15
+"### | 16- 
+",000,False,000,False,False,False,1,29
+"### | 17- 
+",000,False,000,False,False,False,1,15
+"### | 18- 
+",000,False,000,False,False,False,1,17
+"### | 19- 
+",000,False,000,False,False,False,1,82
+"### | 20- 
+",000,False,000,False,False,False,1,25
+"### | 21- 
+",000,False,000,False,False,False,1,19
+"### | 22- 
+",000,False,000,False,False,False,1,19
+"### | 23- 
+",000,False,000,False,False,False,1,239
+"### | 2- 
+",000,False,000,False,False,False,1,11
+"### | 3- 
+",000,False,000,False,False,False,1,11
+"### | 4- 
+",000,False,000,False,False,False,1,21
+"### | 5- 
+",000,False,000,False,False,False,1,9
+"### | 6- 
+",000,False,000,False,False,False,1,15
+"### | 7- 
+",000,False,000,False,False,False,1,9
+"### | 8- 
+",000,False,000,False,False,False,1,3
+"### | الإيغال
+",000,False,000,False,False,False,1,25
+"### | 9- 
+",000,False,000,False,False,False,1,11
+"### | 10- 
+",000,False,000,False,False,False,1,23
+"### | 11- 
+",000,False,000,False,False,False,1,7
+"### | 12- 
+",000,False,000,False,False,False,1,16
+"### | 13- 
+",000,False,000,False,False,False,1,7
+"### | 14- 
+",000,False,000,False,False,False,1,23
+"### | 15- 
+",000,False,000,False,False,False,1,673
+"### | النوادر
+",000,False,000,False,False,False,1,411
+"### | التطريز
+",000,False,000,False,False,False,1,335
+"### | التكرار
+",000,False,000,False,False,False,1,855
+"### | .... 
+",000,False,000,False,False,False,1,260
+"### | التنكيت
+",000,False,000,False,False,False,1,732
+"### | حسن الإتباع
+",000,False,000,False,False,False,1,347
+"### | .... 
+",000,False,000,False,False,False,1,1172
+"### | الطاعة والعصيان
+",000,False,000,False,False,False,1,822
+"### | البسط.
+",000,False,000,False,False,False,1,760
+"### | المدح في معرض الذم.
+",000,False,000,False,False,False,1,562
+"### | الإيضاح
+",000,False,000,False,False,False,1,553
+"### | التوهيم.
+",000,False,000,False,False,False,1,634
+"### | الألغاز.
+",000,False,000,False,False,False,1,1123
+"### | الإرداف.
+",000,False,000,False,False,False,1,362
+"### | الاتساع.
+",000,False,000,False,False,False,1,954
+"### | التعريض.
+",000,False,000,False,False,False,1,1280
+"### | جمع المؤتلف والمختلف.
+",000,False,000,False,False,False,1,413
+"### | الإيداع.
+",000,False,000,False,False,False,1,264
+"### | تنبيهات.
+",000,False,000,False,False,False,1,1460
+"### | المواردة.
+",000,False,000,False,False,False,1,831
+"### | الالتزام.
+",000,False,000,False,False,False,1,756
+"### | المزاوجة.
+",000,False,000,False,False,False,1,344
+"### | المجاز.
+",000,False,000,False,False,False,1,1150
+"### | التفريع.
+",000,False,000,False,False,False,1,778
+"### | التدبيج.
+",000,False,000,False,False,False,1,573
+"### | التفسير.
+",000,False,000,False,False,False,1,557
+"### | التعديد.
+",000,False,000,False,False,False,1,362
+"### | حسن النسق.
+",000,False,000,False,False,False,1,477
+"### | حسن التعليل.
+",000,False,000,False,False,False,1,996
+"### | التعطف.
+",000,False,000,False,False,False,1,429
+"### | الاستتباع.
+",000,False,000,False,False,False,1,401
+"### | التمكين.
+",000,False,000,False,False,False,1,246
+"### | التجريد.
+",000,False,000,False,False,False,1,701
+"### | إيهام التوكيد.
+",000,False,000,False,False,False,1,402
+"### | الترصيع.
+",000,False,000,False,False,False,1,533
+"### | التفصيل.
+",000,False,000,False,False,False,1,919
+"### | الترشيح.
+",000,False,000,False,False,False,1,453
+"### | الحذف.
+",000,False,000,False,False,False,1,1765
+"### | التوزيع.
+",000,False,000,False,False,False,1,215
+"### | التسميط.
+",000,False,000,False,False,False,1,1224
+"### | التجزئة.
+",000,False,000,False,False,False,1,252
+"### | سلامة الاختراع.
+",000,False,000,False,False,False,1,1255
+"### | تضمين المزدوج.
+",000,False,000,False,False,False,1,160
+"### | ائتلاف اللفظ مع المعنى
+",000,False,000,False,False,False,1,581
+"### | الموازنة
+",000,False,000,False,False,False,1,220
+"### | ائتلاف اللفظ مع الوزن.
+",000,False,000,False,False,False,1,415
+"### | ائتلاف الوزن مع المعنى.
+",000,False,000,False,False,False,1,708
+"### | ائتلاف اللفظ مع اللفظ.
+",000,False,000,False,False,False,1,601
+"### | الإيجاز.
+",000,False,000,False,False,False,1,1468
+"### | التسجيع.
+",000,False,000,False,False,False,1,642
+"### | تنبيهات.
+",000,False,000,False,False,False,1,3128
+"### | التسهيل
+",000,False,000,False,False,False,1,1083
+"### | الإدماج
+",000,False,000,False,False,False,1,805
+"### | الاحتراس
+",000,False,000,False,False,False,1,647
+"### | حسن البيان
+",000,False,000,False,False,False,1,753
+"### | العقد
+",000,False,000,False,False,False,1,804
+"### | تنبيهات
+",000,False,000,False,False,False,1,751
+"### | .... 
+",000,False,000,False,False,False,1,181
+"### | التشطير
+",000,False,000,False,False,False,1,556
+"### | المساواة
+",000,False,000,False,False,False,1,614
+"### | براعة الطلب
+",000,False,000,False,False,False,1,584
+"### | حسن الختام.
+",000,False,000,False,False,False,1,928
+"### | كلمة الختام للمؤلف.
+",000,False,000,False,False,False,1,421

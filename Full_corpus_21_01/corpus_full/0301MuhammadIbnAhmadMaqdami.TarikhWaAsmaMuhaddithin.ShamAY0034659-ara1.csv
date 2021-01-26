@@ -1,0 +1,123 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO المقدمة
+",000,False,000,False,False,False,1,858
+"### | AUTO [الباب الأول دراسة المؤلف وكتابه (11 - 120)]
+",000,False,000,False,False,False,1,11295
+"### || AUTO الفصل الأول: عصر المؤلف
+",000,False,000,False,False,False,2,6182
+"### ||| AUTO الحياة السياسية والاجتماعية
+",000,False,000,False,False,False,3,6177
+"### |||| AUTO 1 - الحياة السياسية
+",000,False,000,False,False,False,4,2368
+"### ||||| AUTO تسمية البصرة:
+",000,False,000,False,False,False,5,2365
+"### |||| AUTO 2 - الحياة الاجتماعية والاقتصادية
+",000,False,000,False,False,False,4,1563
+"### |||| AUTO 3 - الحياة الثقافية
+",000,False,000,False,False,False,4,1014
+"### |||| AUTO المراكز الفكرية
+",000,False,000,False,False,False,4,6
+"### |||| AUTO 1 - المسجد الجامع:
+",000,False,000,False,False,False,4,333
+"### |||| AUTO 2 - المربد:
+",000,False,000,False,False,False,4,393
+"### |||| AUTO 3 - المجالس الأدبية والشعرية:
+",000,False,000,False,False,False,4,503
+"### || AUTO الفصل الثاني: حياة الشيخ المقدمي
+",000,False,000,False,False,False,2,8
+"### || AUTO اسمه وولادته
+",000,False,000,False,False,False,2,335
+"### || AUTO شيوخه
+",000,False,000,False,False,False,2,750
+"### || AUTO تلاميذه
+",000,False,000,False,False,False,2,351
+"### || AUTO أقوال العلماء فيه
+",000,False,000,False,False,False,2,209
+"### || AUTO الفصل الثالث: كتاب التاريخ وأسماء المحدثين وكناهم
+",000,False,000,False,False,False,2,10
+"### || AUTO كتاب التاريخ وأسماء المحدثين وكناهم
+",000,False,000,False,False,False,2,255
+"### || AUTO وصف عام للكتاب
+",000,False,000,False,False,False,2,129
+"### || AUTO منهج الكتاب
+",000,False,000,False,False,False,2,1431
+"### || AUTO المؤخذات على المؤلف
+",000,False,000,False,False,False,2,140
+"### || AUTO موارد كتاب التاريخ وأسماء المحدثين وكناهم
+",000,False,000,False,False,False,2,285
+"### || AUTO السماعات والقراءات
+",000,False,000,False,False,False,2,562
+"### || AUTO وصف النسخ الخطية
+",000,False,000,False,False,False,2,283
+"### || AUTO منهجي في التحقيق
+",000,False,000,False,False,False,2,364
+"### || AUTO نماذج مصورة للأحوال الخطية
+",000,False,000,False,False,False,2,13
+"### | AUTO [الباب الثاني النص المحقق (121 - 592)] PageV01P121
+",000,False,000,False,False,False,1,14567
+"### || AUTO الخاتمة
+",000,False,000,False,False,False,2,411
+"### | AUTO [الفهارس]
+",000,False,000,False,False,False,1,101987
+"### || AUTO فهارس الأعلام
+",000,False,000,False,False,False,2,6997
+"### ||| AUTO باب الهمزة والألف
+",000,False,000,False,False,False,3,365
+"### ||| AUTO باب الباء
+",000,False,000,False,False,False,3,253
+"### ||| AUTO باب التاء
+",000,False,000,False,False,False,3,42
+"### ||| AUTO باب الثاء
+",000,False,000,False,False,False,3,80
+"### ||| AUTO باب الجيم
+",000,False,000,False,False,False,3,186
+"### ||| AUTO باب الحاء
+",000,False,000,False,False,False,3,475
+"### ||| AUTO باب الخاء
+",000,False,000,False,False,False,3,130
+"### ||| AUTO باب الدال
+",000,False,000,False,False,False,3,49
+"### ||| AUTO باب الذال
+",000,False,000,False,False,False,3,12
+"### ||| AUTO باب الراء
+",000,False,000,False,False,False,3,99
+"### ||| AUTO باب الزاي
+",000,False,000,False,False,False,3,303
+"### ||| AUTO باب السين
+",000,False,000,False,False,False,3,542
+"### ||| AUTO باب الشين
+",000,False,000,False,False,False,3,94
+"### ||| AUTO باب الصاد
+",000,False,000,False,False,False,3,104
+"### ||| AUTO باب الضاد
+",000,False,000,False,False,False,3,41
+"### ||| AUTO باب الظاء
+",000,False,000,False,False,False,3,32
+"### ||| AUTO باب الطاء
+",000,False,000,False,False,False,3,70
+"### ||| AUTO باب العين
+",000,False,000,False,False,False,3,2024
+"### ||| AUTO باب الغين
+",000,False,000,False,False,False,3,54
+"### ||| AUTO باب الفاء
+",000,False,000,False,False,False,3,96
+"### ||| AUTO باب القاف
+",000,False,000,False,False,False,3,124
+"### ||| AUTO باب الكاف
+",000,False,000,False,False,False,3,124
+"### ||| AUTO باب اللام
+",000,False,000,False,False,False,3,45
+"### ||| AUTO باب الميم
+",000,False,000,False,False,False,3,980
+"### ||| AUTO باب النون
+",000,False,000,False,False,False,3,154
+"### ||| AUTO باب الواو
+",000,False,000,False,False,False,3,127
+"### ||| AUTO باب الهاء PageV01P649
+",000,False,000,False,False,False,3,98
+"### ||| AUTO باب الياء
+",000,False,000,False,False,False,3,410
+"### || AUTO المصادر والمراجع
+",000,False,000,False,False,False,2,4973
+"### || AUTO المحتويات
+",000,False,000,False,False,False,2,90018

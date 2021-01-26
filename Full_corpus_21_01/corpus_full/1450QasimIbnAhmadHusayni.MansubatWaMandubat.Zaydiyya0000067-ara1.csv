@@ -1,0 +1,291 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO المسنونات والمندوبات
+",000,False,000,False,False,False,1,1448
+"### || AUTO تقديم
+",000,False,000,False,False,False,2,190
+"### || AUTO الإنسان والعبادة
+",000,False,000,False,False,False,2,288
+"### || AUTO مفهوم العبادة في الإسلام
+",000,False,000,False,False,False,2,374
+"### || AUTO هذا الكتاب
+",000,False,000,False,False,False,2,566
+"### | AUTO ترجمة المؤلف
+",000,False,000,False,False,False,1,1430
+"### || AUTO نسبه
+",000,False,000,False,False,False,2,108
+"### || AUTO مولده ومشائخه
+",000,False,000,False,False,False,2,185
+"### || AUTO مؤلفاته
+",000,False,000,False,False,False,2,163
+"### || AUTO ثناء العلماء عليه
+",000,False,000,False,False,False,2,393
+"### || AUTO تقريض السيد العلامة محمد بن محمد المنصور حفظه الله
+",000,False,000,False,False,False,2,95
+"### || AUTO تقريض السيد العلامة علي بن عبد الكريم الفضيل حفظه الله
+",000,False,000,False,False,False,2,119
+"### || AUTO تقريض القاضي العلامة صلاح بن أحمد فليتة حفظه الله
+",000,False,000,False,False,False,2,67
+"### || AUTO تقريض الدكتور المرتضى بن زيد المحطوري
+",000,False,000,False,False,False,2,118
+"### || AUTO رموز الكتاب
+",000,False,000,False,False,False,2,179
+"### | AUTO نص الكتاب
+",000,False,000,False,False,False,1,4268
+"### | AUTO الصلوات
+",000,False,000,False,False,False,1,40539
+"### || AUTO صلاة الاستخارة
+",000,False,000,False,False,False,2,660
+"### || AUTO صلاة الاستسقاء
+",000,False,000,False,False,False,2,1714
+"### || AUTO صلاة الاستغاثة
+",000,False,000,False,False,False,2,365
+"### || AUTO صلاة الأبرار
+",000,False,000,False,False,False,2,197
+"### || AUTO صلاة اثنتي عشرة ركعة في اليوم
+",000,False,000,False,False,False,2,138
+"### || AUTO صلاة الأعمى
+",000,False,000,False,False,False,2,256
+"### || AUTO حكاية عجيبة
+",000,False,000,False,False,False,2,161
+"### || AUTO أفضل الصلاة بعد المكتوبة
+",000,False,000,False,False,False,2,37
+"### || AUTO صلاة أم داود ودعاء الاستفتاح
+",000,False,000,False,False,False,2,1594
+"### || AUTO صلاة الأوابين
+",000,False,000,False,False,False,2,505
+"### || AUTO صلاة الآيات والزلازل
+",000,False,000,False,False,False,2,472
+"### || AUTO صلاة بعد السواك
+",000,False,000,False,False,False,2,53
+"### || AUTO صلاة في البرية
+",000,False,000,False,False,False,2,67
+"### || AUTO صلاة بعد صلاة الجمعة
+",000,False,000,False,False,False,2,198
+"### || AUTO صلاة بعد العصر
+",000,False,000,False,False,False,2,328
+"### || AUTO صلاة بعد صلاة العيد
+",000,False,000,False,False,False,2,48
+"### || AUTO صلاة بعد العشاء الآخرة
+",000,False,000,False,False,False,2,188
+"### || AUTO صلاة بعد صلاة المغرب
+",000,False,000,False,False,False,2,741
+"### || AUTO صلاة بين المغرب والعشاء
+",000,False,000,False,False,False,2,638
+"### || AUTO صلاة بين كل أذانين
+",000,False,000,False,False,False,2,69
+"### || AUTO صلاة في البيت
+",000,False,000,False,False,False,2,85
+"### || AUTO تحية المسجد
+",000,False,000,False,False,False,2,885
+"### || AUTO صلاة التراويح
+",000,False,000,False,False,False,2,485
+"### || AUTO صلاة التسبيح
+",000,False,000,False,False,False,2,836
+"### || AUTO صلاة التوبة
+",000,False,000,False,False,False,2,863
+"### || AUTO صلاة التهجد
+",000,False,000,False,False,False,2,771
+"### || AUTO صلاة الثوب الجديد
+",000,False,000,False,False,False,2,29
+"### || AUTO صلاة الجنازة
+",000,False,000,False,False,False,2,860
+"### || AUTO الصلاة على القبر وعلى الغائب
+",000,False,000,False,False,False,2,369
+"### || AUTO صلاة الحاجة
+",000,False,000,False,False,False,2,700
+"### || AUTO صلاة الحاجة لألف حاجة
+",000,False,000,False,False,False,2,107
+"### || AUTO صلاة حفظ القرآن الكريم
+",000,False,000,False,False,False,2,539
+"### || AUTO الصلاة على ظهر الدابة
+",000,False,000,False,False,False,2,295
+"### || AUTO صلاة دواء الشدة إذا وقعت للإنسان
+",000,False,000,False,False,False,2,133
+"### || AUTO صلاة رجب
+",000,False,000,False,False,False,2,129
+"### || AUTO ركعتا الفجر
+",000,False,000,False,False,False,2,680
+"### || AUTO ركعتا الطواف
+",000,False,000,False,False,False,2,535
+"### || AUTO صلاة ركعتين قبل القتل
+",000,False,000,False,False,False,2,118
+"### || AUTO صلاة الرغبة والرهبة
+",000,False,000,False,False,False,2,303
+"### || AUTO صلاة الرغائب
+",000,False,000,False,False,False,2,294
+"### || AUTO صلاة الزواج
+",000,False,000,False,False,False,2,96
+"### || AUTO صلاة الزوجين
+",000,False,000,False,False,False,2,893
+"### || AUTO صلاة ساعة الجمعة
+",000,False,000,False,False,False,2,228
+"### || AUTO صلاة سنة الظهر
+",000,year,000,False,False,False,2,169
+"### || AUTO صلاة الشفاء
+",000,False,000,False,False,False,2,127
+"### || AUTO صلاة الشكوى إلى الله تعالى
+",000,False,000,False,False,False,2,303
+"### || AUTO صلاة الشعبانية
+",000,False,000,False,False,False,2,891
+"### || AUTO صلاة الضحى
+",000,False,000,False,False,False,2,2068
+"### || AUTO صلاة الضياع والآبق
+",000,False,000,False,False,False,2,91
+"### || AUTO صلاة الضر والحاجة
+",000,False,000,False,False,False,2,459
+"### || AUTO صلاة طليق الرحمن
+",000,False,000,False,False,False,2,183
+"### || AUTO صلاة العزم على السفر
+",000,False,000,False,False,False,2,856
+"### || AUTO صلاة عند دخول الكعبة المشرفة وبعد الخروج منها
+",000,False,000,False,False,False,2,501
+"### || AUTO صلاة العيدين
+",000,False,000,False,False,False,2,739
+"### || AUTO صلاة بعد صلاة الغداة
+",000,False,000,False,False,False,2,51
+"### || AUTO صلاة الغفلة
+",000,False,000,False,False,False,2,210
+"### || AUTO صلاة الفتح
+",000,False,000,False,False,False,2,138
+"### || AUTO صلاة الفرقان
+",000,False,000,False,False,False,2,362
+"### || AUTO صلاة الفزع
+",000,False,000,False,False,False,2,450
+"### || AUTO صلاة فيء الزوال وصلاة قبل الظهر وبعدها
+",000,False,000,False,False,False,2,978
+"### || AUTO صلاة في بيت مال المسلمين بعد إنفاق مافيه
+",000,False,000,False,False,False,2,166
+"### || AUTO صلاة قبل صلاة العصر
+",000,False,000,False,False,False,2,280
+"### || AUTO صلاة قبل صلاة المغرب
+",000,False,000,False,False,False,2,180
+"### || AUTO صلاة القدوم من السفر
+",000,False,000,False,False,False,2,303
+"### || AUTO صلاة قبل صلاة الجمعة
+",000,False,000,False,False,False,2,147
+"### || AUTO صلاة القيام
+",000,False,000,False,False,False,2,368
+"### || AUTO قيام ليلتي العيد
+",000,False,000,False,False,False,2,148
+"### || AUTO قيام ليالي عشر ذي الحجة
+",000,False,000,False,False,False,2,440
+"### || AUTO صلاة الكسوف والخسوف
+",000,False,000,False,False,False,2,984
+"### || AUTO صلاة الكفاية
+",000,False,000,False,False,False,2,359
+"### || AUTO صلاة كفارة كل لحاء
+",000,False,000,False,False,False,2,17
+"### || AUTO صلاة الليل
+",000,False,000,False,False,False,2,2711
+"### || AUTO صلاة ليلة القدر أعاد الله من ms143 بركاتها
+",000,False,000,False,False,False,2,497
+"### || AUTO صلاة اللجوء إلى الله تعالى
+",000,False,000,False,False,False,2,40
+"### || AUTO صلاة ليلة الجمعة
+",000,False,000,False,False,False,2,40
+"### || AUTO صلاة لرؤيا رسول الله صلى الله عليه وآله وسلم
+",000,False,000,False,False,False,2,324
+"### || AUTO صلاة مكملات الخمسين
+",000,False,000,False,False,False,2,275
+"### || AUTO صلاة من تعار من الليل
+",000,False,000,False,False,False,2,329
+"### || AUTO صلاة المؤذى
+",000,False,000,False,False,False,2,245
+"### || AUTO صلاة وداع المنزل
+",000,False,000,False,False,False,2,221
+"### || AUTO صلاة الوتر
+",000,False,000,False,False,False,2,1007
+"### || AUTO صلاة بعد الوضوء
+",000,False,000,False,False,False,2,725
+"### || AUTO صلاة النهار
+",000,False,000,False,False,False,2,346
+"### || AUTO صلاة في المسجد الحرام
+",000,False,000,False,False,False,2,428
+"### || AUTO صلاة في مسجد رسول الله صلى الله عليه وآله وسلم
+",000,False,000,False,False,False,2,429
+"### || AUTO صلاة في المسجد الأقصى
+",000,False,000,False,False,False,2,429
+"### || AUTO صلاة في مسجد قباء
+",000,False,000,False,False,False,2,595
+"### || AUTO صلاة في مسجد الخيف بمنى
+",000,False,000,False,False,False,2,95
+"### || AUTO صلاة النذر
+",000,False,000,False,False,False,2,206
+"### || AUTO صلاة البر
+",000,False,000,False,False,False,2,187
+"### || AUTO صلاة في فخ
+",000,False,000,False,False,False,2,352
+"### || AUTO صلاة في مسجد الكوفة
+",000,False,000,False,False,False,2,92
+"### || AUTO صلاة قبل الإحرام بالحج أو العمرة
+",000,False,000,False,False,False,2,78
+"### || AUTO صلاة بوادي العقيق
+",000,False,000,False,False,False,2,38
+"### || AUTO صلاة في مسجد ذي الحليفة
+",000,False,000,False,False,False,2,57
+"### || AUTO صلاة عند غدير خم
+",000,False,000,False,False,False,2,161
+"### | AUTO ذكر بعض ما ورد من الآثار في السجود
+",000,False,000,False,False,False,1,17664
+"### || AUTO سجود السهو
+",000,False,000,False,False,False,2,330
+"### || AUTO السجود في القرآن الكريم
+",000,False,000,False,False,False,2,832
+"### || AUTO سجود الشكر
+",000,False,000,False,False,False,2,1324
+"### || AUTO سجود طلب المغفرة
+",000,False,000,False,False,False,2,123
+"### || AUTO سجود اللجوء إلى الله تعالى
+",000,False,000,False,False,False,2,1148
+"### || AUTO سجود التضرع
+",000,False,000,False,False,False,2,978
+"### || AUTO من صفة سجود الملائكة عليهم السلام
+",000,False,000,False,False,False,2,628
+"### || AUTO سجود بعد الوتر
+",000,False,000,False,False,False,2,184
+"### || AUTO السجود على الحجر الأسود بعد تقبيله
+",000,False,000,False,False,False,2,149
+"### || AUTO سجود مرافقة رسول الله صلى الله عليه وآله وسلم في الجنة
+",000,False,000,False,False,False,2,253
+"### || AUTO سجود النذر
+",000,False,000,False,False,False,2,107
+"### || AUTO من الكنوز العظيمة من القرآن الكريم
+",000,False,000,False,False,False,2,24
+"### || AUTO فصل
+",000,False,000,False,False,False,2,1533
+"### || AUTO ومن الكنوزالعظيمة
+",000,False,000,False,False,False,2,3
+"### || AUTO سورة الإخلاص
+",000,False,000,False,False,False,2,143
+"### || AUTO سورة الأنعام
+",000,False,000,False,False,False,2,92
+"### || AUTO سورة الكهف
+",000,False,000,False,False,False,2,68
+"### || AUTO سورة يس
+",000,False,000,False,False,False,2,224
+"### || AUTO سورة الفتح
+",000,False,000,False,False,False,2,39
+"### || AUTO سورة الواقعة
+",000,False,000,False,False,False,2,38
+"### || AUTO سورة الملك
+",000,False,000,False,False,False,2,52
+"### || AUTO سورة القدر
+",000,False,000,False,False,False,2,108
+"### || AUTO سورة إذا زلزلت
+",000,False,000,False,False,False,2,44
+"### || AUTO سورة ألهاكم التكاثر
+",000,False,000,False,False,False,2,48
+"### || AUTO سورة الكافرون
+",000,False,000,False,False,False,2,24
+"### || AUTO سورة النصر
+",000,False,000,False,False,False,2,16
+"### || AUTO المعوذات
+",000,False,000,False,False,False,2,4058
+"### || AUTO ومن كنوز الأدعية المباركة هذه الجمل النفيسة
+",000,False,000,False,False,False,2,1600
+"### || AUTO وهذا دعاء الصباح المشهور عن أمير المؤمنين علي بن أبي طالب
+",000,False,000,False,False,False,2,507
+"### || AUTO من الكنوز العظيمة والذخائر الفخيمة
+",000,False,000,False,False,False,2,1241
+"### || AUTO تنبيهان
+",000,False,000,False,False,False,2,912

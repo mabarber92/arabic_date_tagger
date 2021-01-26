@@ -1,0 +1,87 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK المقدمة
+",000,False,000,False,False,False,1,1003
+"### | CHECK المسموع
+",000,False,000,False,False,False,1,17733
+"### || AUTO باب الألف
+",000,False,000,False,False,False,2,1057
+"### || AUTO باب الباء
+",000,False,000,False,False,False,2,907
+"### || AUTO باب التاء
+",000,False,000,False,False,False,2,155
+"### || AUTO باب الثاء
+",000,False,000,False,False,False,2,298
+"### || AUTO باب الجيم
+",000,False,000,False,False,False,2,745
+"### || AUTO باب الحاء
+",000,False,000,False,False,False,2,1123
+"### || AUTO باب الخاء
+",000,False,000,False,False,False,2,839
+"### || AUTO باب الدال
+",000,False,000,False,False,False,2,573
+"### || AUTO باب الذال
+",000,False,000,False,False,False,2,278
+"### || AUTO باب الراء
+",000,False,000,False,False,False,2,884
+"### || AUTO باب الزاء
+",000,False,000,False,False,False,2,330
+"### || AUTO باب السين
+",000,False,000,False,False,False,2,783
+"### || AUTO باب الشين
+",000,False,000,False,False,False,2,754
+"### || AUTO باب الصاد
+",000,False,000,False,False,False,2,566
+"### || AUTO باب الضاد
+",000,False,000,False,False,False,2,311
+"### || AUTO باب الطاء
+",000,False,000,False,False,False,2,258
+"### || AUTO باب الظاء
+",000,False,000,False,False,False,2,78
+"### || AUTO باب العين
+",000,False,000,False,False,False,2,1388
+"### || AUTO باب الغين
+",000,False,000,False,False,False,2,503
+"### || AUTO باب الفاء
+",000,False,000,False,False,False,2,537
+"### || AUTO باب القاف
+",000,False,000,False,False,False,2,928
+"### || AUTO باب الكاف
+",000,False,000,False,False,False,2,418
+"### || AUTO باب اللام
+",000,False,000,False,False,False,2,728
+"### || AUTO باب الميم
+",000,False,000,False,False,False,2,1388
+"### || AUTO باب النون
+",000,False,000,False,False,False,2,677
+"### || AUTO باب الواو
+",000,False,000,False,False,False,2,599
+"### || AUTO باب الهاء
+",000,False,000,False,False,False,2,447
+"### || AUTO باب الياء
+",000,False,000,False,False,False,2,151
+"### | CHECK المقيس
+",000,False,000,False,False,False,1,5967
+"### || AUTO باب المقصور
+",000,False,000,False,False,False,2,646
+"### || AUTO باب التحديد والعلامات فيما يعلم أنه منقوص
+",000,False,000,False,False,False,2,1192
+"### || AUTO باب الممدود المعروف بالعلامات والنظائر
+",000,False,000,False,False,False,2,1018
+"### || AUTO باب تثنية المقصور
+",000,False,000,False,False,False,2,354
+"### || AUTO باب جمع المقصور
+",000,False,000,False,False,False,2,181
+"### || AUTO باب جمع المقصور مكسرا
+",000,False,000,False,False,False,2,357
+"### || AUTO باب ما كان من الأسماء على أربعة أحرف أو خمسة ولم يكن في آخره ألف التأنيث
+",000,False,000,False,False,False,2,201
+"### || AUTO باب ما كان على أربعة أحرف من المقصور فصاعدا وآخره ألف التأنيث
+",000,False,000,False,False,False,2,471
+"### || AUTO باب تثنية الممدود
+",000,False,000,False,False,False,2,126
+"### || AUTO باب جمع الممدود
+",000,False,000,False,False,False,2,416
+"### || AUTO باب المقصور في الخط
+",000,False,000,False,False,False,2,489
+"### || AUTO باب الخط في الممدود
+",000,False,000,False,False,False,2,432

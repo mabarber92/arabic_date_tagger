@@ -1,0 +1,621 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | المقدمة
+",000,False,000,False,False,False,1,662
+"### | اسم الكتاب ونسبته إلى ابن مالك
+",000,False,000,False,False,False,1,187
+"### | دوافع تأليف الكتاب
+",000,False,000,False,False,False,1,234
+"### | زمن تاليف الكتاب
+",000,False,000,False,False,False,1,180
+"### | مادة الكتاب
+",000,False,000,False,False,False,1,123
+"### | منهج الكتاب وأسلوبه
+",000,False,000,False,False,False,1,1743
+"### | الشواهد والاستشهاد في الكتاب
+",000,False,000,False,False,False,1,172
+"### | الحديث الشريف
+",000,False,000,False,False,False,1,49
+"### | القرآن الكريم وقراءاته
+",000,False,000,False,False,False,1,235
+"### | الشعر
+",000,False,000,False,False,False,1,135
+"### | الحديث الشريف
+",000,False,000,False,False,False,1,651
+"### | الشعر
+",000,False,000,False,False,False,1,354
+"### | أقوال العرب ولغاتها
+",000,False,000,False,False,False,1,173
+"### | المنهج العام للاستشهاد في الكتاب
+",000,False,000,False,False,False,1,375
+"### | 1 - 
+",000,False,000,False,False,False,1,13
+"### | 2 - 
+",000,False,000,False,False,False,1,18
+"### | 3 - 
+",000,False,000,False,False,False,1,21
+"### | 4 - 
+",000,False,000,False,False,False,1,504
+"### | قيمة الكتاب
+",000,False,000,False,False,False,1,358
+"### | مآخذ على الكتاب
+",000,False,000,False,False,False,1,32
+"### | 1 - 
+",000,False,000,False,False,False,1,74
+"### | 2 - 
+",000,False,000,False,False,False,1,79
+"### | 3 - 
+",000,False,000,False,False,False,1,58
+"### | 4 - 
+",000,False,000,False,False,False,1,178
+"### | مخطوطات الكتاب المعتمدة
+",000,False,000,False,False,False,1,25
+"### | المخطوطة (أ)
+",000,False,000,False,False,False,1,74
+"### | المخطوطة ب
+",000,False,000,False,False,False,1,217
+"### | المخطوطة ""ب"":
+",000,False,000,False,False,False,1,193
+"### | 1 - 
+",000,False,000,False,False,False,1,40
+"### | 2 - 
+",000,False,000,False,False,False,1,150
+"### | المخطوطة ""ج""
+",000,False,000,False,False,False,1,141
+"### | المخطوطة ""د""
+",000,False,000,False,False,False,1,253
+"### | 2 - 
+",000,False,000,False,False,False,1,9
+"### | 3 - 
+",000,False,000,False,False,False,1,9
+"### | 4 - 
+",000,False,000,False,False,False,1,17
+"### | 5 - 
+",000,False,000,False,False,False,1,9
+"### | 6 - 
+",000,False,000,False,False,False,1,11
+"### | 7 - 
+",000,False,000,False,False,False,1,11
+"### | 8 - 
+",000,False,000,False,False,False,1,9
+"### | 9 - 
+",000,False,000,False,False,False,1,13
+"### | 10 - 
+",000,False,000,False,False,False,1,13
+"### | 11 - 
+",000,False,000,False,False,False,1,9
+"### | 12 - 
+",000,False,000,False,False,False,1,9
+"### | 13 - 
+",000,False,000,False,False,False,1,15
+"### | 14 - 
+",000,False,000,False,False,False,1,9
+"### | 15 - 
+",000,False,000,False,False,False,1,19
+"### | 16 - 
+",000,False,000,False,False,False,1,15
+"### | عملي في التحقيق
+",000,False,000,False,False,False,1,353
+"### | 1 - 
+",000,False,000,False,False,False,1,25
+"### | 2 - 
+",000,False,000,False,False,False,1,21
+"### | 3 - 
+",000,False,000,False,False,False,1,45
+"### | 4 - 
+",000,False,000,False,False,False,1,24
+"### | 5 - 
+",000,False,000,False,False,False,1,20
+"### | 6 - 
+",000,False,000,False,False,False,1,70
+"### | 7 - 
+",000,False,000,False,False,False,1,403
+"### | 1 - 
+",000,False,000,False,False,False,1,42
+"### | 2 - 
+",000,False,000,False,False,False,1,55
+"### | 3 - 
+",000,False,000,False,False,False,1,54
+"### | 4 - 
+",000,False,000,False,False,False,1,73
+"### | 5 - 
+",000,False,000,False,False,False,1,25
+"### | 6 - 
+",000,False,000,False,False,False,1,22
+"### | 7 - 
+",000,False,000,False,False,False,1,395
+"### | 8 - 
+",000,False,000,False,False,False,1,99
+"### | 9 - 
+",000,False,000,False,False,False,1,43
+"### | 10 - 
+",000,False,000,False,False,False,1,55
+"### | وقوع الشرط مضارعا والجواب ماضيا 
+",000,False,000,False,False,False,1,38
+"### | 11 - 
+",000,False,000,False,False,False,1,34
+"### | 12 - 
+",000,False,000,False,False,False,1,20
+"### | 13 - 
+",000,False,000,False,False,False,1,41
+"### | 14 - 
+",000,False,000,False,False,False,1,15
+"### | 15 - 
+",000,False,000,False,False,False,1,18
+"### | 16 - 
+",000,False,000,False,False,False,1,15
+"### | 17 - 
+",000,False,000,False,False,False,1,15
+"### | 18 - 
+",000,False,000,False,False,False,1,324
+"### | 19 - 
+",000,False,000,False,False,False,1,92
+"### | 20 - 
+",000,False,000,False,False,False,1,93
+"### | 21 - 
+",000,False,000,False,False,False,1,16
+"### | 22 - 
+",000,False,000,False,False,False,1,21
+"### | 23 - 
+",000,False,000,False,False,False,1,37
+"### | 24 - 
+",000,False,000,False,False,False,1,19
+"### | 25 - 
+",000,False,000,False,False,False,1,59
+"### | 26 - 
+",000,False,000,False,False,False,1,52
+"### | 27 - 
+",000,False,000,False,False,False,1,128
+"### | 28 - 
+",000,False,000,False,False,False,1,14
+"### | 29 - 
+",000,False,000,False,False,False,1,23
+"### | 30 - 
+",000,False,000,False,False,False,1,28
+"### | 31 - 
+",000,False,000,False,False,False,1,43
+"### | 32 - 
+",000,False,000,False,False,False,1,24
+"### | 33 - 
+",000,False,000,False,False,False,1,121
+"### | 34 - 
+",000,False,000,False,False,False,1,115
+"### | 35 - 
+",000,False,000,False,False,False,1,19
+"### | 36 - 
+",000,False,000,False,False,False,1,62
+"### | 37 - 
+",000,False,000,False,False,False,1,127
+"### | 38 - 
+",000,False,000,False,False,False,1,17
+"### | 39 - 
+",000,False,000,False,False,False,1,14
+"### | 40 - 
+",000,False,000,False,False,False,1,24
+"### | 41 - 
+",000,False,000,False,False,False,1,126
+"### | 42 - 
+",000,False,000,False,False,False,1,685
+"### | 44 - 
+",000,False,000,False,False,False,1,28
+"### | 45 - 
+",000,False,000,False,False,False,1,51
+"### | 46 - 
+",000,False,000,False,False,False,1,39
+"### | 47 - 
+",000,False,000,False,False,False,1,106
+"### | 48 - 
+",000,False,000,False,False,False,1,46
+"### | 49 - 
+",000,False,000,False,False,False,1,419
+"### | 50 - 
+",000,False,000,False,False,False,1,28
+"### | 51 - 
+",000,False,000,False,False,False,1,32
+"### | 52 - 
+",000,False,000,False,False,False,1,31
+"### | 53 - 
+",000,False,000,False,False,False,1,66
+"### | المستثنى ب ""إلا"" من كلام تام موجب 
+",000,False,000,False,False,False,1,321
+"### | 54 - 
+",000,False,000,False,False,False,1,31
+"### | 55 - 
+",000,False,000,False,False,False,1,93
+"### | الابتداء بالنكرة 
+",000,False,000,False,False,False,1,96
+"### | 56 - 
+",000,False,000,False,False,False,1,70
+"### | 58 - 
+",000,False,000,False,False,False,1,24
+"### | 59 - 
+",000,False,000,False,False,False,1,196
+"### | 60 - 
+",000,False,000,False,False,False,1,89
+"### | 61 - 
+",000,False,000,False,False,False,1,9
+"### | ...... 
+",000,False,000,False,False,False,1,361
+"### | 62 - 
+",000,False,000,False,False,False,1,21
+"### | 63 - 
+",000,False,000,False,False,False,1,20
+"### | 64 - 
+",000,False,000,False,False,False,1,16
+"### | 65 - 
+",000,False,000,False,False,False,1,77
+"### | 66 - 
+",000,False,000,False,False,False,1,18
+"### | 67 - 
+",000,False,000,False,False,False,1,37
+"### | العطف على ضمير الجر بغير إعادة الجار. 
+",000,False,000,False,False,False,1,174
+"### | 68 - 
+",000,False,000,False,False,False,1,176
+"### | 69 - 
+",000,False,000,False,False,False,1,17
+"### | 70 - 
+",000,False,000,False,False,False,1,19
+"### | 72 - 
+",000,False,000,False,False,False,1,17
+"### | 72 - 
+",000,False,000,False,False,False,1,15
+"### | 73 - 
+",000,False,000,False,False,False,1,16
+"### | 74 - 
+",000,False,000,False,False,False,1,316
+"### | 75 - 
+",000,False,000,False,False,False,1,27
+"### | 76 - 
+",000,False,000,False,False,False,1,126
+"### | 77 - 
+",000,False,000,False,False,False,1,119
+"### | 78 - 
+",000,False,000,False,False,False,1,24
+"### | 79 - 
+",000,False,000,False,False,False,1,54
+"### | 80 - 
+",000,False,000,False,False,False,1,59
+"### | 81 - 
+",000,False,000,False,False,False,1,40
+"### | - ورود الفعل (449) الماضى بمعنى الأمر
+",000,False,000,False,False,False,1,82
+"### | حذف حرف العطف 
+",000,False,000,False,False,False,1,210
+"### | ثبوت خبر المبتدأ بعد ""لولا"" 
+",000,False,000,False,False,False,1,211
+"### | 82 - 
+",000,False,000,False,False,False,1,16
+"### | 83 - 
+",000,False,000,False,False,False,1,89
+"### | 84 - 
+",000,False,000,False,False,False,1,38
+"### | استعمال ""في"" دالة على التعليل، 
+",000,False,000,False,False,False,1,76
+"### | 85 - 
+",000,False,000,False,False,False,1,18
+"### | 86 - 
+",000,False,000,False,False,False,1,19
+"### | 87 - 
+",000,False,000,False,False,False,1,35
+"### | استعمال (حول) بمعنى ""صير""، 
+",000,False,000,False,False,False,1,165
+"### | 88 - 
+",000,False,000,False,False,False,1,52
+"### | 1 - 
+",000,False,000,False,False,False,1,9
+"### | ، وقوع التمييز بعد ""مثل"" 
+",000,False,000,False,False,False,1,24
+"### | 89 - 
+",000,False,000,False,False,False,1,23
+"### | 2 - 
+",000,False,000,False,False,False,1,3
+"### | : وقوع جواب ""لو"" مضارعا منفيا ب ""ما"" 
+",000,False,000,False,False,False,1,150
+"### | 90 - 
+",000,False,000,False,False,False,1,77
+"### | 3 - 
+",000,False,000,False,False,False,1,593
+"### | 91 - 
+",000,False,000,False,False,False,1,32
+"### | 92 - 
+",000,False,000,False,False,False,1,200
+"### | 93 - 
+",000,False,000,False,False,False,1,77
+"### | 94 - 
+",000,False,000,False,False,False,1,7
+"### | 95 - 
+",000,False,000,False,False,False,1,18
+"### | 96 - 
+",000,False,000,False,False,False,1,62
+"### | دخول"" ما"" على ""جعل"".
+",000,False,000,False,False,False,1,31
+"### | 97 - 
+",000,False,000,False,False,False,1,39
+"### | موافقة ""علق"" ل ""طفق"" 
+",000,False,000,False,False,False,1,12
+"### | 98 - 
+",000,False,000,False,False,False,1,112
+"### | 99 - 
+",000,False,000,False,False,False,1,28
+"### | 100 - 
+",000,False,000,False,False,False,1,120
+"### | 151 - 
+",000,False,000,False,False,False,1,63
+"### | 102 - 
+",000,False,000,False,False,False,1,231
+"### | 103 - 
+",000,False,000,False,False,False,1,398
+"### | 104 - 
+",000,False,000,False,False,False,1,31
+"### | 105 - 
+",000,False,000,False,False,False,1,39
+"### | 106 - 
+",000,False,000,False,False,False,1,393
+"### | إجراء فعل القول مجرى فعل الظن 
+",000,False,000,False,False,False,1,22
+"### | 107 - 
+",000,False,000,False,False,False,1,401
+"### | وقوع ظرف الزمان خبر مبتدأ هو (686) من أسماء الجثث.
+",000,False,000,False,False,False,1,91
+"### | 108 - 
+",000,False,000,False,False,False,1,38
+"### | 109 - 
+",000,False,000,False,False,False,1,28
+"### | 110 - 
+",000,False,000,False,False,False,1,204
+"### | 111 - 
+",000,False,000,False,False,False,1,64
+"### | وقوع خبر ""كاد"" مقرونا ب ""أن"" 
+",000,False,000,False,False,False,1,184
+"### | 112 - 
+",000,False,000,False,False,False,1,43
+"### | 113 - 
+",000,False,000,False,False,False,1,115
+"### | 114 - 
+",000,False,000,False,False,False,1,36
+"### | 115 - 
+",000,False,000,False,False,False,1,269
+"### | 116 - 
+",000,False,000,False,False,False,1,16
+"### | 117 - 
+",000,False,000,False,False,False,1,20
+"### | 118 - 
+",000,False,000,False,False,False,1,26
+"### | 119 - 
+",000,False,000,False,False,False,1,88
+"### | 120 - 
+",000,False,000,False,False,False,1,17
+"### | 121 - 
+",000,False,000,False,False,False,1,18
+"### | 122 - 
+",000,False,000,False,False,False,1,27
+"### | 123 - 
+",000,False,000,False,False,False,1,88
+"### | 124 - 
+",000,False,000,False,False,False,1,125
+"### | 125 - 
+",000,False,000,False,False,False,1,53
+"### | 126 - 
+",000,False,000,False,False,False,1,41
+"### | 127 - 
+",000,False,000,False,False,False,1,23
+"### | 128 - 
+",000,False,000,False,False,False,1,163
+"### | سد (788) الحال مسد الخبر، 
+",000,False,000,False,False,False,1,20
+"### | 129 - 
+",000,False,000,False,False,False,1,93
+"### | حذف المضاف وأقامة المضاف إليه مقامه: 
+",000,False,000,False,False,False,1,214
+"### | 130 - 
+",000,False,000,False,False,False,1,142
+"### | 131 - 
+",000,False,000,False,False,False,1,20
+"### | 132 - 
+",000,False,000,False,False,False,1,17
+"### | 133 - 
+",000,False,000,False,False,False,1,314
+"### | 134 - 
+",000,False,000,False,False,False,1,17
+"### | 135 - 
+",000,False,000,False,False,False,1,296
+"### | 136 - 
+",000,False,000,False,False,False,1,174
+"### | 137 - 
+",000,False,000,False,False,False,1,16
+"### | 138 - 
+",000,False,000,False,False,False,1,17
+"### | 139 - 
+",000,False,000,False,False,False,1,95
+"### | حذف العائد على الموصول، 
+",000,False,000,False,False,False,1,37
+"### | 140 - 
+",000,False,000,False,False,False,1,32
+"### | 141 - 
+",000,False,000,False,False,False,1,77
+"### | 141 - 
+",000,False,000,False,False,False,1,150
+"### | 143 - 
+",000,False,000,False,False,False,1,17
+"### | 144 - 
+",000,False,000,False,False,False,1,16
+"### | 145 - 
+",000,False,000,False,False,False,1,16
+"### | 146 - 
+",000,False,000,False,False,False,1,326
+"### | استعمال""من"" فى ابتداء غاية الزمان 
+",000,False,000,False,False,False,1,102
+"### | 147 - 
+",000,False,000,False,False,False,1,137
+"### | 148 - 
+",000,False,000,False,False,False,1,19
+"### | 149 - 
+",000,False,000,False,False,False,1,14
+"### | 150 - 
+",000,False,000,False,False,False,1,17
+"### | 151 - 
+",000,False,000,False,False,False,1,16
+"### | 152 - 
+",000,False,000,False,False,False,1,175
+"### | 153 - 
+",000,False,000,False,False,False,1,15
+"### | 154 - 
+",000,False,000,False,False,False,1,17
+"### | 155 - 
+",000,False,000,False,False,False,1,62
+"### | 156 - 
+",000,False,000,False,False,False,1,171
+"### | 157 - 
+",000,False,000,False,False,False,1,146
+"### | 158 - 
+",000,False,000,False,False,False,1,162
+"### | 159 - 
+",000,False,000,False,False,False,1,52
+"### | 160 - 
+",000,False,000,False,False,False,1,16
+"### | 161 - 
+",000,False,000,False,False,False,1,95
+"### | 162 - 
+",000,False,000,False,False,False,1,34
+"### | 163 - 
+",000,False,000,False,False,False,1,285
+"### | 164 - 
+",000,False,000,False,False,False,1,111
+"### | 166 - 
+",000,False,000,False,False,False,1,137
+"### | 167 - 
+",000,False,000,False,False,False,1,68
+"### | إجراء ""رأى"" البصرية مجرى ""رأى"" القلبية 
+",000,False,000,False,False,False,1,52
+"### | 168 - 
+",000,False,000,False,False,False,1,18
+"### | 169 - 
+",000,False,000,False,False,False,1,222
+"### | 170 - 
+",000,False,000,False,False,False,1,25
+"### | 171 - 
+",000,False,000,False,False,False,1,290
+"### | 172 - 
+",000,False,000,False,False,False,1,23
+"### | "" دخول لام الابتداء على خبر ""كان"" 
+",000,False,000,False,False,False,1,58
+"### | 174 - 
+",000,False,000,False,False,False,1,154
+"### | 175 - 
+",000,False,000,False,False,False,1,109
+"### | 176 - 
+",000,False,000,False,False,False,1,18
+"### | 177 - 
+",000,False,000,False,False,False,1,60
+"### | 178 - 
+",000,False,000,False,False,False,1,621
+"### | 179 - 
+",000,False,000,False,False,False,1,98
+"### | 180 - 
+",000,False,000,False,False,False,1,20
+"### | 181 - 
+",000,False,000,False,False,False,1,291
+"### | وقوع الجملة القسمية خبرا. 
+",000,False,000,False,False,False,1,68
+"### | وقوع المضارع المثبت المستقبل جواب قسم غير مؤكد بالنون.
+",000,False,000,False,False,False,1,56
+"### | 183 - 
+",000,False,000,False,False,False,1,13
+"### | 184 - 
+",000,False,000,False,False,False,1,52
+"### | 185 - 
+",000,False,000,False,False,False,1,44
+"### | تلقي القسم بمبتدأ غير مقرون باللام 
+",000,False,000,False,False,False,1,31
+"### | 186 - 
+",000,False,000,False,False,False,1,42
+"### | 187 - 
+",000,False,000,False,False,False,1,21
+"### | الاستغناء عن واو القسم بحرف التنبيه. 
+",000,False,000,False,False,False,1,219
+"### | توسط القسم بين جزءي الجواب. 
+",000,False,000,False,False,False,1,434
+"### | 189 - 
+",000,False,000,False,False,False,1,20
+"### | 190 - 
+",000,False,000,False,False,False,1,209
+"### | 191 - 
+",000,False,000,False,False,False,1,63
+"### | 192 - 
+",000,False,000,False,False,False,1,76
+"### | 193 - 
+",000,False,000,False,False,False,1,204
+"### | 194 - 
+",000,False,000,False,False,False,1,53
+"### | 195 - 
+",000,False,000,False,False,False,1,362
+"### | 993 - 
+",000,False,000,False,False,False,1,106
+"### | 198 - 
+",000,False,000,False,False,False,1,402
+"### | 199 - 
+",000,False,000,False,False,False,1,360
+"### | 200 - 
+",000,False,000,False,False,False,1,14
+"### | 201 - 
+",000,False,000,False,False,False,1,17
+"### | 202 - 
+",000,False,000,False,False,False,1,21
+"### | إضافه الموصوف إلى الصفة 
+",000,False,000,False,False,False,1,40
+"### | "" استعمال ""قط"" غير مسبوقة بنفي، 
+",000,False,000,False,False,False,1,34
+"### | جمع ""ضيف"" على ""ضعفة"" 
+",000,False,000,False,False,False,1,52
+"### | 203 - 
+",000,False,000,False,False,False,1,119
+"### | 204 - 
+",000,False,000,False,False,False,1,40
+"### | إجراء ""ما"" الموصولة مجرى ""ما"" الاستفهامية في حذف ألفها 
+",000,False,000,False,False,False,1,110
+"### | 205 - 
+",000,False,000,False,False,False,1,37
+"### | 206 - 
+",000,False,000,False,False,False,1,41
+"### | 207 - 
+",000,False,000,False,False,False,1,51
+"### | حذف المجزوم ب ""لا"" التي للنهى. 
+",000,False,000,False,False,False,1,337
+"### | 208 - 
+",000,False,000,False,False,False,1,323
+"### | 209 - 
+",000,False,000,False,False,False,1,245
+"### | 210 - 
+",000,False,000,False,False,False,1,12
+"### | 211 - 
+",000,False,000,False,False,False,1,43
+"### | 212 - 
+",000,False,000,False,False,False,1,13
+"### | 213 - 
+",000,False,000,False,False,False,1,21
+"### | 214 - 
+",000,False,000,False,False,False,1,69
+"### | كسر حرف المضارعة 
+",000,False,000,False,False,False,1,238
+"### | استعمال ""على"" اسما، 
+",000,False,000,False,False,False,1,101
+"### | 215 - 
+",000,False,000,False,False,False,1,19
+"### | 216 - 
+",000,False,000,False,False,False,1,23
+"### | 217 - 
+",000,False,000,False,False,False,1,22
+"### | 218 - 
+",000,False,000,False,False,False,1,135
+"### | وقوع الجواب موافقا للشرط لفظا ومعنى 
+",000,False,000,False,False,False,1,50
+"### | إخلاء جواب ""لو"" المثبت من اللام. 
+",000,False,000,False,False,False,1,349
+"### | ""مهيم"" اسم فعل بمعنى: أخبر.
+",000,False,000,False,False,False,1,22
+"### | "" استعمال ""أحد"" في الإيجاب؛ 
+",000,False,000,False,False,False,1,75
+"### | 219 - 
+",000,False,000,False,False,False,1,519
+"### | المصادر
+",000,False,000,False,False,False,1,1390

@@ -1,0 +1,727 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | المقدمات
+",000,False,000,False,False,False,1,2
+"### | مقدمة التحقيق
+",000,False,000,False,False,False,1,93
+"### | 1- 
+",000,False,000,False,False,False,1,353
+"### | 2- 
+",000,False,000,False,False,False,1,32
+"### | .... 
+",000,False,000,False,False,False,1,119
+"### | ال
+",000,False,000,False,False,False,1,2
+"### | تعريف
+",000,False,000,False,False,False,1,398
+"### | 1- 
+",000,False,000,False,False,False,1,41
+"### | 2- 
+",000,False,000,False,False,False,1,13
+"### | 3- 
+",000,False,000,False,False,False,1,33
+"### | 4- 
+",000,False,000,False,False,False,1,65
+"### | 5- 
+",000,False,000,False,False,False,1,17
+"### | 6- 
+",000,False,000,False,False,False,1,41
+"### | 7- 
+",000,False,000,False,False,False,1,36
+"### | 8- 
+",000,False,000,False,False,False,1,23
+"### | 9- 
+",000,False,000,False,False,False,1,25
+"### | 10- 
+",000,False,000,False,False,False,1,31
+"### | 11- 
+",000,False,000,False,False,False,1,47
+"### | 12- 
+",000,False,000,False,False,False,1,405
+"### | 1- 
+",000,False,000,False,False,False,1,7
+"### | 2- 
+",000,False,000,False,False,False,1,69
+"### | 3- 
+",000,False,000,False,False,False,1,13
+"### | 4- 
+",000,False,000,False,False,False,1,3
+"### | 5- 
+",000,False,000,False,False,False,1,23
+"### | 6- 
+",000,False,000,False,False,False,1,24
+"### | 7- 
+",000,False,000,False,False,False,1,3
+"### | 8- 
+",000,False,000,False,False,False,1,11
+"### | 8- 
+",000,False,000,False,False,False,1,5
+"### | 9- 
+",000,False,000,False,False,False,1,18
+"### | 10- 
+",000,False,000,False,False,False,1,17
+"### | 11- 
+",000,False,000,False,False,False,1,35
+"### | 12- 
+",000,False,000,False,False,False,1,15
+"### | 13- 
+",000,False,000,False,False,False,1,15
+"### | 14- 
+",000,False,000,False,False,False,1,27
+"### | 15- 
+",000,False,000,False,False,False,1,1
+"### | 16- 
+",000,False,000,False,False,False,1,3
+"### | 17- 
+",000,False,000,False,False,False,1,119
+"### | تعريف
+",000,False,000,False,False,False,1,9
+"### | 1- 
+",000,False,000,False,False,False,1,165
+"### | 2- 
+",000,False,000,False,False,False,1,68
+"### | 3- 
+",000,False,000,False,False,False,1,74
+"### | 4- 
+",000,False,000,False,False,False,1,250
+"### | دراسة الكتاب
+",000,False,000,False,False,False,1,1112
+"### | 1- 
+",000,False,000,False,False,False,1,28
+"### | 2- 
+",000,False,000,False,False,False,1,19
+"### | 3- 
+",000,False,000,False,False,False,1,50
+"### | 4- 
+",000,False,000,False,False,False,1,20
+"### | 5- 
+",000,False,000,False,False,False,1,15
+"### | 6- 
+",000,False,000,False,False,False,1,31
+"### | 7- 
+",000,False,000,False,False,False,1,16
+"### | 8- 
+",000,False,000,False,False,False,1,12
+"### | 9- 
+",000,False,000,False,False,False,1,19
+"### | 10- 
+",000,False,000,False,False,False,1,18
+"### | 11- 
+",000,False,000,False,False,False,1,17
+"### | 12- 
+",000,False,000,False,False,False,1,17
+"### | 13- 
+",000,False,000,False,False,False,1,17
+"### | 14- 
+",000,False,000,False,False,False,1,29
+"### | 15- 
+",000,False,000,False,False,False,1,15
+"### | 16- 
+",000,False,000,False,False,False,1,13
+"### | 17- 
+",000,False,000,False,False,False,1,21
+"### | 18- 
+",000,False,000,False,False,False,1,23
+"### | 19- 
+",000,False,000,False,False,False,1,23
+"### | 20- 
+",000,False,000,False,False,False,1,17
+"### | 21- 
+",000,False,000,False,False,False,1,19
+"### | 22- 
+",000,False,000,False,False,False,1,14
+"### | 23- 
+",000,False,000,False,False,False,1,23
+"### | 24- 
+",000,False,000,False,False,False,1,14
+"### | 25- 
+",000,False,000,False,False,False,1,27
+"### | 26- 
+",000,False,000,False,False,False,1,21
+"### | 27- 
+",000,False,000,False,False,False,1,14
+"### | 28- 
+",000,False,000,False,False,False,1,20
+"### | 29- 
+",000,False,000,False,False,False,1,82
+"### | نقده للآراء التي يذكرها
+",000,False,000,False,False,False,1,300
+"### | أثر الكتاب فيما بعده واقتباسات الأئمة منه
+",000,False,000,False,False,False,1,255
+"### | وصف الكتاب وصحة نسبته إلى المصنف
+",000,False,000,False,False,False,1,61
+"### | 1- 
+",000,False,000,False,False,False,1,139
+"### | 2- 
+",000,False,000,False,False,False,1,129
+"### | 3- 
+",000,False,000,False,False,False,1,170
+"### | 4- 
+",000,False,000,False,False,False,1,125
+"### | المنهج الذي التزمته في التحقيق والدراسة
+",000,False,000,False,False,False,1,50
+"### | 1- 
+",000,False,000,False,False,False,1,11
+"### | 2- 
+",000,False,000,False,False,False,1,21
+"### | 3- 
+",000,False,000,False,False,False,1,21
+"### | 4- 
+",000,False,000,False,False,False,1,11
+"### | 5- 
+",000,False,000,False,False,False,1,19
+"### | 6- 
+",000,False,000,False,False,False,1,17
+"### | 7- 
+",000,False,000,False,False,False,1,15
+"### | 8- 
+",000,False,000,False,False,False,1,37
+"### | 9- 
+",000,False,000,False,False,False,1,26
+"### | 10- 
+",000,False,000,False,False,False,1,55
+"### | 1- 
+",000,False,000,False,False,False,1,21
+"### | 2- 
+",000,False,000,False,False,False,1,11
+"### | 3- 
+",000,False,000,False,False,False,1,11
+"### | 4- 
+",000,False,000,False,False,False,1,9
+"### | 5- 
+",000,False,000,False,False,False,1,10
+"### | صور المخطوطات المعتمدة في التحقيق تحقيق النص
+",000,False,000,False,False,False,1,12
+"### | بيان شرف الفتوى وخطرها وغررها
+",000,False,000,False,False,False,1,1657
+"### | القول في شروط المفتي وصفاته وأحكامه وآدابه
+",000,False,000,False,False,False,1,14
+"### | شروطه وصفاته
+",000,False,000,False,False,False,1,2563
+"### | القول في أحكام المفتين
+",000,False,000,False,False,False,1,3429
+"### | القول: في كيفية الفتوى وآدابها
+",000,False,000,False,False,False,1,3109
+"### | القول في صفة المستفتي وأحكامه وآدابه
+",000,False,000,False,False,False,1,12
+"### | صفته
+",000,False,000,False,False,False,1,61
+"### | وفي أحكامه وآدابه مسائل
+",000,False,000,False,False,False,1,1622
+"### | الفهارس
+",000,False,000,False,False,False,1,2
+"### | فهرست الآيات القرآنية
+",000,False,000,False,False,False,1,59
+"### | فهرست الأحاديث النبوية والآثار
+",000,False,000,False,False,False,1,373
+"### | فهرس الأعلام
+",000,False,000,False,False,False,1,1476
+"### | فهرست الكتب الواردة في النص
+",000,False,000,False,False,False,1,18
+"### | 118 2- 
+",000,False,000,False,False,False,1,8
+"### | 81 3- 
+",000,False,000,False,False,False,1,10
+"### | 102 4- 
+",000,False,000,False,False,False,1,14
+"### | 83 5- 
+",000,False,000,False,False,False,1,10
+"### | 108 6- 
+",000,False,000,False,False,False,1,8
+"### | 127 7- 
+",000,False,000,False,False,False,1,14
+"### | 114 9- 
+",000,False,000,False,False,False,1,8
+"### | 156 10- 
+",000,False,000,False,False,False,1,21
+"### | 103 12- 
+",000,False,000,False,False,False,1,12
+"### | 92 14- 
+",000,False,000,False,False,False,1,4
+"### | 81 15- 
+",000,False,000,False,False,False,1,8
+"### | 84 17- 
+",000,False,000,False,False,False,1,19
+"### | ثبت المصادر والمراجع المخطوطة والمطبوعة
+",000,False,000,False,False,False,1,10
+"### | 1- 
+",000,False,000,False,False,False,1,5
+"### | 2- 
+",000,False,000,False,False,False,1,15
+"### | 3- 
+",000,False,000,False,False,False,1,23
+"### | 4- 
+",000,False,000,False,False,False,1,29
+"### | 5- 
+",000,False,000,False,False,False,1,13
+"### | 6- 
+",000,False,000,False,False,False,1,19
+"### | 7- 
+",000,False,000,False,False,False,1,29
+"### | 8- 
+",000,False,000,False,False,False,1,19
+"### | 9- 
+",000,False,000,False,False,False,1,13
+"### | 10- 
+",000,False,000,False,False,False,1,13
+"### | 11- 
+",000,False,000,False,False,False,1,27
+"### | 12- 
+",000,False,000,False,False,False,1,20
+"### | 13- 
+",000,False,000,False,False,False,1,11
+"### | 14- 
+",000,False,000,False,False,False,1,12
+"### | 15- 
+",000,False,000,False,False,False,1,17
+"### | 16- 
+",000,False,000,False,False,False,1,19
+"### | 17- 
+",000,False,000,False,False,False,1,9
+"### | 18- 
+",000,False,000,False,False,False,1,23
+"### | 19- 
+",000,False,000,False,False,False,1,18
+"### | 20- 
+",000,False,000,False,False,False,1,30
+"### | 21- 
+",000,False,000,False,False,False,1,33
+"### | 22- 
+",000,False,000,False,False,False,1,9
+"### | 23- 
+",000,False,000,False,False,False,1,19
+"### | 24- 
+",000,False,000,False,False,False,1,20
+"### | 25- 
+",000,False,000,False,False,False,1,18
+"### | 26- 
+",000,False,000,False,False,False,1,19
+"### | 27- 
+",000,False,000,False,False,False,1,21
+"### | 28- 
+",000,False,000,False,False,False,1,22
+"### | 29- 
+",000,False,000,False,False,False,1,19
+"### | 30- 
+",000,False,000,False,False,False,1,27
+"### | 31- 
+",000,False,000,False,False,False,1,18
+"### | 32- 
+",000,False,000,False,False,False,1,32
+"### | 33- 
+",000,False,000,False,False,False,1,17
+"### | 34- 
+",000,False,000,False,False,False,1,15
+"### | 35- 
+",000,False,000,False,False,False,1,22
+"### | 36- 
+",000,False,000,False,False,False,1,16
+"### | 37- 
+",000,False,000,False,False,False,1,22
+"### | 38- 
+",000,False,000,False,False,False,1,21
+"### | 39- 
+",000,False,000,False,False,False,1,31
+"### | 40- 
+",000,False,000,False,False,False,1,26
+"### | 41- 
+",000,False,000,False,False,False,1,16
+"### | 42- 
+",000,False,000,False,False,False,1,16
+"### | 43- 
+",000,False,000,False,False,False,1,26
+"### | 44- 
+",000,False,000,False,False,False,1,26
+"### | 45- 
+",000,False,000,False,False,False,1,21
+"### | 46- 
+",000,False,000,False,False,False,1,15
+"### | 47- 
+",000,False,000,False,False,False,1,12
+"### | 48- 
+",000,False,000,False,False,False,1,22
+"### | 49- 
+",000,False,000,False,False,False,1,25
+"### | 50- 
+",000,False,000,False,False,False,1,29
+"### | 51- 
+",000,False,000,False,False,False,1,22
+"### | 52- 
+",000,False,000,False,False,False,1,23
+"### | 53- 
+",000,False,000,False,False,False,1,18
+"### | 54- 
+",000,False,000,False,False,False,1,13
+"### | 55- 
+",000,False,000,False,False,False,1,12
+"### | 56- 
+",000,False,000,False,False,False,1,23
+"### | 57- 
+",000,False,000,False,False,False,1,20
+"### | 58- 
+",000,False,000,False,False,False,1,17
+"### | 59- 
+",000,False,000,False,False,False,1,23
+"### | 60- 
+",000,False,000,False,False,False,1,15
+"### | 61- 
+",000,False,000,False,False,False,1,15
+"### | 62- 
+",000,False,000,False,False,False,1,18
+"### | 63- 
+",000,False,000,False,False,False,1,12
+"### | 64- 
+",000,False,000,False,False,False,1,30
+"### | 65- 
+",000,False,000,False,False,False,1,19
+"### | 66- 
+",000,False,000,False,False,False,1,21
+"### | 67- 
+",000,False,000,False,False,False,1,16
+"### | 68- 
+",000,False,000,False,False,False,1,27
+"### | 69- 
+",000,False,000,False,False,False,1,32
+"### | 70- 
+",000,False,000,False,False,False,1,23
+"### | 71- 
+",000,False,000,False,False,False,1,11
+"### | 72- 
+",000,False,000,False,False,False,1,22
+"### | 73- 
+",000,False,000,False,False,False,1,25
+"### | 74- 
+",000,False,000,False,False,False,1,15
+"### | 75- 
+",000,False,000,False,False,False,1,26
+"### | 76- 
+",000,False,000,False,False,False,1,21
+"### | 77- 
+",000,False,000,False,False,False,1,13
+"### | 78- 
+",000,False,000,False,False,False,1,12
+"### | 79- 
+",000,False,000,False,False,False,1,29
+"### | 80- 
+",000,False,000,False,False,False,1,29
+"### | 81- 
+",000,False,000,False,False,False,1,27
+"### | 82- 
+",000,False,000,False,False,False,1,20
+"### | 83- 
+",000,False,000,False,False,False,1,15
+"### | 84- 
+",000,False,000,False,False,False,1,15
+"### | 85- 
+",000,False,000,False,False,False,1,44
+"### | 86- 
+",000,False,000,False,False,False,1,23
+"### | 87- 
+",000,False,000,False,False,False,1,13
+"### | 88- 
+",000,False,000,False,False,False,1,25
+"### | 89- 
+",000,False,000,False,False,False,1,33
+"### | 90- 
+",000,False,000,False,False,False,1,26
+"### | 91- 
+",000,False,000,False,False,False,1,16
+"### | 92- 
+",000,False,000,False,False,False,1,17
+"### | 93- 
+",000,False,000,False,False,False,1,17
+"### | 94- 
+",000,False,000,False,False,False,1,21
+"### | 95- 
+",000,False,000,False,False,False,1,23
+"### | 96- 
+",000,False,000,False,False,False,1,16
+"### | 97- 
+",000,False,000,False,False,False,1,20
+"### | 98- 
+",000,False,000,False,False,False,1,15
+"### | 99- 
+",000,False,000,False,False,False,1,18
+"### | 100- 
+",000,False,000,False,False,False,1,13
+"### | 101- 
+",000,False,000,False,False,False,1,25
+"### | 102- 
+",000,False,000,False,False,False,1,26
+"### | 103- 
+",000,False,000,False,False,False,1,18
+"### | 104- 
+",000,False,000,False,False,False,1,26
+"### | 105- 
+",000,False,000,False,False,False,1,9
+"### | 106- 
+",000,False,000,False,False,False,1,19
+"### | 107- 
+",000,False,000,False,False,False,1,13
+"### | 108- 
+",000,False,000,False,False,False,1,27
+"### | 109- 
+",000,False,000,False,False,False,1,20
+"### | 110- 
+",000,False,000,False,False,False,1,25
+"### | 111- 
+",000,False,000,False,False,False,1,21
+"### | 112- 
+",000,False,000,False,False,False,1,12
+"### | 113- 
+",000,False,000,False,False,False,1,39
+"### | 114- 
+",000,False,000,False,False,False,1,22
+"### | 115- 
+",000,False,000,False,False,False,1,25
+"### | 116- 
+",000,False,000,False,False,False,1,22
+"### | 117- 
+",000,False,000,False,False,False,1,11
+"### | 118- 
+",000,False,000,False,False,False,1,26
+"### | 119- 
+",000,False,000,False,False,False,1,13
+"### | 120- 
+",000,False,000,False,False,False,1,22
+"### | 121- 
+",000,False,000,False,False,False,1,19
+"### | 122- 
+",000,False,000,False,False,False,1,21
+"### | 123- 
+",000,False,000,False,False,False,1,27
+"### | 124- 
+",000,False,000,False,False,False,1,11
+"### | 125- 
+",000,False,000,False,False,False,1,24
+"### | 126- 
+",000,False,000,False,False,False,1,15
+"### | 127- 
+",000,False,000,False,False,False,1,16
+"### | 129- 
+",000,False,000,False,False,False,1,16
+"### | 129- 
+",000,False,000,False,False,False,1,24
+"### | 130- 
+",000,False,000,False,False,False,1,21
+"### | 131- 
+",000,False,000,False,False,False,1,5
+"### | 132- 
+",000,False,000,False,False,False,1,23
+"### | 133- 
+",000,False,000,False,False,False,1,26
+"### | 134- 
+",000,False,000,False,False,False,1,31
+"### | 135- 
+",000,False,000,False,False,False,1,25
+"### | 136- 
+",000,False,000,False,False,False,1,25
+"### | 137- 
+",000,False,000,False,False,False,1,14
+"### | 138- 
+",000,False,000,False,False,False,1,11
+"### | 139- 
+",000,False,000,False,False,False,1,13
+"### | 140- 
+",000,False,000,False,False,False,1,21
+"### | 141- 
+",000,False,000,False,False,False,1,14
+"### | 142- 
+",000,False,000,False,False,False,1,24
+"### | 143- 
+",000,False,000,False,False,False,1,25
+"### | 144- 
+",000,False,000,False,False,False,1,21
+"### | 145- 
+",000,False,000,False,False,False,1,17
+"### | 146- 
+",000,False,000,False,False,False,1,21
+"### | 147- 
+",000,False,000,False,False,False,1,24
+"### | 148- 
+",000,False,000,False,False,False,1,19
+"### | 149- 
+",000,False,000,False,False,False,1,15
+"### | 150- 
+",000,False,000,False,False,False,1,22
+"### | 151- 
+",000,False,000,False,False,False,1,11
+"### | 152- 
+",000,False,000,False,False,False,1,16
+"### | 153- 
+",000,False,000,False,False,False,1,22
+"### | 154- 
+",000,False,000,False,False,False,1,38
+"### | 155- 
+",000,False,000,False,False,False,1,26
+"### | 156- 
+",000,False,000,False,False,False,1,36
+"### | 157- 
+",000,False,000,False,False,False,1,25
+"### | 158- 
+",000,False,000,False,False,False,1,11
+"### | 159- 
+",000,False,000,False,False,False,1,32
+"### | 160- 
+",000,False,000,False,False,False,1,14
+"### | 161- 
+",000,False,000,False,False,False,1,12
+"### | 162- 
+",000,False,000,False,False,False,1,35
+"### | 163- 
+",000,False,000,False,False,False,1,24
+"### | 164- 
+",000,False,000,False,False,False,1,13
+"### | 165- 
+",000,False,000,False,False,False,1,18
+"### | 166- 
+",000,False,000,False,False,False,1,19
+"### | 167- 
+",000,False,000,False,False,False,1,23
+"### | 168- 
+",000,False,000,False,False,False,1,21
+"### | 169- 
+",000,False,000,False,False,False,1,29
+"### | 170- 
+",000,False,000,False,False,False,1,18
+"### | 171- 
+",000,False,000,False,False,False,1,28
+"### | 172- 
+",000,False,000,False,False,False,1,13
+"### | 173- 
+",000,False,000,False,False,False,1,21
+"### | 174- 
+",000,False,000,False,False,False,1,21
+"### | 175- 
+",000,False,000,False,False,False,1,26
+"### | 176- 
+",000,False,000,False,False,False,1,14
+"### | 177- 
+",000,False,000,False,False,False,1,14
+"### | 178- 
+",000,False,000,False,False,False,1,25
+"### | 179- 
+",000,False,000,False,False,False,1,27
+"### | 180- 
+",000,False,000,False,False,False,1,17
+"### | 181- 
+",000,False,000,False,False,False,1,10
+"### | 182- 
+",000,False,000,False,False,False,1,22
+"### | 183- 
+",000,False,000,False,False,False,1,24
+"### | 184- 
+",000,False,000,False,False,False,1,22
+"### | 185- 
+",000,False,000,False,False,False,1,17
+"### | 186- 
+",000,False,000,False,False,False,1,16
+"### | 187- 
+",000,False,000,False,False,False,1,18
+"### | 188- 
+",000,False,000,False,False,False,1,20
+"### | 189- 
+",000,False,000,False,False,False,1,17
+"### | 190- 
+",000,False,000,False,False,False,1,15
+"### | 191- 
+",000,False,000,False,False,False,1,23
+"### | 192- 
+",000,False,000,False,False,False,1,16
+"### | 193- 
+",000,False,000,False,False,False,1,18
+"### | 194- 
+",000,False,000,False,False,False,1,34
+"### | 195- 
+",000,False,000,False,False,False,1,10
+"### | 196- 
+",000,False,000,False,False,False,1,21
+"### | 197- 
+",000,False,000,False,False,False,1,25
+"### | 198- 
+",000,False,000,False,False,False,1,27
+"### | 199- 
+",000,False,000,False,False,False,1,23
+"### | 200- 
+",000,False,000,False,False,False,1,26
+"### | 201- 
+",000,False,000,False,False,False,1,20
+"### | 202- 
+",000,False,000,False,False,False,1,14
+"### | 203- 
+",000,False,000,False,False,False,1,20
+"### | 204- 
+",000,False,000,False,False,False,1,32
+"### | 205- 
+",000,False,000,False,False,False,1,25
+"### | فهرس الموضوعات
+",000,False,000,False,False,False,1,43
+"### | 23 1- 
+",000,False,000,False,False,False,1,8
+"### | 24 2- 
+",000,False,000,False,False,False,1,4
+"### | 25 3- 
+",000,False,000,False,False,False,1,10
+"### | 25 4- 
+",000,False,000,False,False,False,1,11
+"### | 31 1- 
+",000,False,000,False,False,False,1,22
+"### | 33 2- 
+",000,False,000,False,False,False,1,12
+"### | 36 3- 
+",000,False,000,False,False,False,1,12
+"### | 39 4- 
+",000,False,000,False,False,False,1,10
+"### | 41 5- 
+",000,False,000,False,False,False,1,32
+"### | فهرس موضوعات كتاب أدب المفتي والمستفي لابن الصلاح الشهرزوري
+",000,False,000,False,False,False,1,141
+"### | 94 - 
+",000,False,000,False,False,False,1,134
+"### | 101 - 
+",000,False,000,False,False,False,1,5
+"### | 101 - 
+",000,False,000,False,False,False,1,29
+"### | 103 - 
+",000,False,000,False,False,False,1,62
+"### | 104 - 
+",000,False,000,False,False,False,1,21
+"### | 104 - 
+",000,False,000,False,False,False,1,50
+"### | 106 - 
+",000,False,000,False,False,False,1,15
+"### | 107 - 
+",000,False,000,False,False,False,1,43
+"### | 108 - 
+",000,False,000,False,False,False,1,19
+"### | 109 - 
+",000,False,000,False,False,False,1,153
+"### | 126 - 
+",000,False,000,False,False,False,1,27
+"### | 128 - 
+",000,False,000,False,False,False,1,90
+"### | 138 - 
+",000,False,000,False,False,False,1,173
+"### | 146 - 
+",000,False,000,False,False,False,1,56
+"### | 148 - 
+",000,False,000,False,False,False,1,84
+"### | 158 - 
+",000,False,000,False,False,False,1,3
+"### | 158 - 
+",000,False,000,False,False,False,1,161
+"### | صدر للمحقق
+",000,False,000,False,False,False,1,4
+"### | 1- 
+",000,False,000,False,False,False,1,14
+"### | 2- 
+",000,False,000,False,False,False,1,22
+"### | 3- 
+",000,False,000,False,False,False,1,21
+"### | 4- 
+",000,False,000,False,False,False,1,21
+"### | 5- 
+",000,False,000,False,False,False,1,23
+"### | 6- 
+",000,False,000,False,False,False,1,15
+"### | 7- 
+",000,False,000,False,False,False,1,33

@@ -1,0 +1,437 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | فمن حرف الألف
+",000,False,000,False,False,False,1,5
+"### | من اسمه إبراهيم.
+",000,False,000,False,False,False,1,6
+"### | إبراهيم بن أبي عبلة
+",000,False,000,False,False,False,1,54
+"### | 1 - 
+",000,False,000,False,False,False,1,694
+"### | أبو هدبة إبراهيم بن هدبة الفارسي
+",000,False,000,False,False,False,1,15
+"### | حجاج بن يوسف بن يوسف بن قتيبة الأصبهاني
+",000,False,000,False,False,False,1,10
+"### | 2 - 
+",000,False,000,False,False,False,1,85
+"### | عبد الرحمن بن عمر بن يزيد الملقب برستة الأصبهاني
+",000,False,000,False,False,False,1,11
+"### | 3 - 
+",000,False,000,False,False,False,1,68
+"### | حميد بن الربيع الخزاز
+",000,False,000,False,False,False,1,6
+"### | 4 - 
+",000,False,000,False,False,False,1,145
+"### | عيسى بن سالم الشاشي المعروف بعويس
+",000,False,000,False,False,False,1,8
+"### | 5 - 
+",000,False,000,False,False,False,1,69
+"### | سليمان بن بلال
+",000,False,000,False,False,False,1,5
+"### | 6 - 
+",000,False,000,False,False,False,1,52
+"### | سعدان بن نصر
+",000,False,000,False,False,False,1,5
+"### | 7 - 
+",000,False,000,False,False,False,1,68
+"### | محمد بن عبيد الله بن المنادي
+",000,False,000,False,False,False,1,8
+"### | 8 - 
+",000,False,000,False,False,False,1,102
+"### | محمد بن الصباح السفيني
+",000,False,000,False,False,False,1,6
+"### | 9 - 
+",000,False,000,False,False,False,1,87
+"### | الخضر بن أبان الهاشمي
+",000,False,000,False,False,False,1,6
+"### | 10 - 
+",000,False,000,False,False,False,1,121
+"### | إبراهيم بن طهمان أبو سعيد الهروي النيسابوري
+",000,False,000,False,False,False,1,30
+"### | محمد بن سابق عنه
+",000,False,000,False,False,False,1,6
+"### | 11 - 
+",000,False,000,False,False,False,1,107
+"### | 12 - 
+",000,False,000,False,False,False,1,117
+"### | محمد بن سنان العوفي , عنه
+",000,False,000,False,False,False,1,7
+"### | 13 - 
+",000,False,000,False,False,False,1,142
+"### | عبد الرحمن بن سالم , عن إبراهيم
+",000,False,000,False,False,False,1,8
+"### | 14 - 
+",000,False,000,False,False,False,1,101
+"### | يزيد بن صالح اليشكري , عن إبراهيم
+",000,False,000,False,False,False,1,8
+"### | 15 - 
+",000,False,000,False,False,False,1,105
+"### | .... 
+",000,False,000,False,False,False,1,27
+"### | سعد بن يزيد الفراء , عن إبراهيم
+",000,False,000,False,False,False,1,8
+"### | 16 - 
+",000,False,000,False,False,False,1,15
+"### | .... 
+",000,False,000,False,False,False,1,65
+"### | 17 - 
+",000,False,000,False,False,False,1,202
+"### | شهاب الدين محمد بن عبد الله بن محمد بن عبد الله المهدي
+",000,False,000,False,False,False,1,15
+"### | إبراهيم بن عبد الواحد المقرئ
+",000,False,000,False,False,False,1,7
+"### | وابن محمد
+",000,False,000,False,False,False,1,4
+"### | وسعدون بن محمد بن أحمد المقرئ.
+",000,False,000,False,False,False,1,19
+"### | 18 - 
+",000,False,000,False,False,False,1,146
+"### | .... 
+",000,False,000,False,False,False,1,196
+"### | إسماعيل بن أبي خالد أبو عبد الله البجلي
+",000,False,000,False,False,False,1,183
+"### | طريق الوليد بن القاسم, عنه
+",000,False,000,False,False,False,1,7
+"### | 19 - 
+",000,False,000,False,False,False,1,127
+"### | طريق سهل بن عيينة , عنه
+",000,False,000,False,False,False,1,7
+"### | 20 - 
+",000,False,000,False,False,False,1,72
+"### | طريق يحيى بن سعيد القطان , عنه
+",000,False,000,False,False,False,1,8
+"### | 21 - 
+",000,False,000,False,False,False,1,88
+"### | طريق جعفر بن عون العمري , عنه
+",000,False,000,False,False,False,1,8
+"### | 22 - 
+",000,False,000,False,False,False,1,109
+"### | طريق يعلى بن عبيد , عنه
+",000,False,000,False,False,False,1,7
+"### | 23 - 
+",000,False,000,False,False,False,1,102
+"### | طريق يزيد بن هارون , عنه
+",000,False,000,False,False,False,1,7
+"### | 24 - 
+",000,False,000,False,False,False,1,91
+"### | طريق عبد الله بن داود الخريبي , عنه.
+",000,False,000,False,False,False,1,75
+"### | طريق يحيى بن هاشم السمسار , عنه
+",000,False,000,False,False,False,1,8
+"### | 25 - 
+",000,False,000,False,False,False,1,93
+"### | طريق محمد بن بشر العبدي
+",000,False,000,False,False,False,1,7
+"### | 26 - 
+",000,False,000,False,False,False,1,123
+"### | ........ 
+",000,False,000,False,False,False,1,20
+"### | ....... 
+",000,False,000,False,False,False,1,14
+"### | ...... 
+",000,False,000,False,False,False,1,53
+"### | ......... 
+",000,False,000,False,False,False,1,20
+"### | .................. 
+",000,False,000,False,False,False,1,151
+"### | .... 
+",000,False,000,False,False,False,1,53
+"### | ..... 
+",000,False,000,False,False,False,1,25
+"### | أبو عبد الله الجمال
+",000,False,000,False,False,False,1,8
+"### | ..... 
+",000,False,000,False,False,False,1,42
+"### | 
+",000,False,000,False,False,False,1,0
+"### | طريق 
+",000,False,000,False,False,False,1,6
+"### | 27 - 
+",000,False,000,False,False,False,1,134
+"### | 28 - 
+",000,False,000,False,False,False,1,79
+"### | طريق أبي داود الطيالسي , وأبي عاصم الضحاك بن مخلد , وبكر بن بكار , وأبي حذيفة موسى بن مسعود , عن أيمن.
+",000,False,000,False,False,False,1,21
+"### | 29 - 
+",000,False,000,False,False,False,1,193
+"### | طريق عبد الرزاق بن همام , وعبيد الله بن موسى , وأبي نعيم الفضل بن دكين , وأبي الوليد خالد بن يزيد العمري , عن أيمن
+",000,False,000,False,False,False,1,24
+"### | 30 - 
+",000,False,000,False,False,False,1,18
+"### | .... 
+",000,False,000,False,False,False,1,199
+"### | جرير بن حازم بن زيد أبو النضر الأزدي , ثم العتكي
+",000,False,000,False,False,False,1,353
+"### | طريق ابنه وهب بن جرير , عنه
+",000,False,000,False,False,False,1,8
+"### | 31 - 
+",000,False,000,False,False,False,1,90
+"### | طريق أبي خالد القرشي , عنه.
+",000,False,000,False,False,False,1,64
+"### | طريق أبي داود الطيالسي , عنه
+",000,False,000,False,False,False,1,7
+"### | 32 - 
+",000,False,000,False,False,False,1,164
+"### | طريق شيبان بن فروخ , عن جرير
+",000,False,000,False,False,False,1,8
+"### | 33 - 
+",000,False,000,False,False,False,1,89
+"### | طريق حسين المروزي , عنه
+",000,False,000,False,False,False,1,6
+"### | 34 - 
+",000,False,000,False,False,False,1,82
+"### | طريق أبي نعيم الفضل بن دكين , عنه
+",000,False,000,False,False,False,1,9
+"### | 35 - 
+",000,False,000,False,False,False,1,78
+"### | طريق طالوت بن عباد , عنه
+",000,False,000,False,False,False,1,7
+"### | 36 - 
+",000,False,000,False,False,False,1,83
+"### | طريق داود بن منصور , عنه ms22
+",000,False,000,False,False,False,1,7
+"### | 37 - 
+",000,False,000,False,False,False,1,318
+"### | طريق هدبة بن خالد , عن جرير
+",000,False,000,False,False,False,1,8
+"### | 38 - 
+",000,False,000,False,False,False,1,60
+"### | طريق العباس بن الفضل الأزدي العبدي , عنه
+",000,False,000,False,False,False,1,9
+"### | 39 - 
+",000,False,000,False,False,False,1,41
+"### | طريق أبي سلمة موسى بن إسماعيل , عنه
+",000,False,000,False,False,False,1,9
+"### | 40 - 
+",000,False,000,False,False,False,1,110
+"### | طريق أبي النعمان محمد بن الفضل السدوسي , عن جرير
+",000,False,000,False,False,False,1,11
+"### | 41 - 
+",000,False,000,False,False,False,1,65
+"### | طريق أبي غسان , عنه
+",000,False,000,False,False,False,1,6
+"### | 42 - 
+",000,False,000,False,False,False,1,67
+"### | طريق سليمان بن حرب , عنه
+",000,False,000,False,False,False,1,7
+"### | 43 - 
+",000,False,000,False,False,False,1,238
+"### | طريق عبد الله بن عمرو بن أبي أمية , عنه
+",000,False,000,False,False,False,1,11
+"### | 44 - 
+",000,False,000,False,False,False,1,65
+"### | طريق عاصم بن علي , عنه
+",000,False,000,False,False,False,1,7
+"### | 45 - 
+",000,False,000,False,False,False,1,56
+"### | طريق حجاج بن منهال , عنه
+",000,False,000,False,False,False,1,7
+"### | 46 - 
+",000,False,000,False,False,False,1,96
+"### | ..... 
+",000,False,000,False,False,False,1,19
+"### | طريق أبي عمر حفص بن عمر الضرير , عنه
+",000,False,000,False,False,False,1,10
+"### | 47 - 
+",000,False,000,False,False,False,1,39
+"### | طريق محمد بن أبان الواسطي , عنه
+",000,False,000,False,False,False,1,8
+"### | 48 - 
+",000,False,000,False,False,False,1,78
+"### | طريق أبي قتيبة سلم بن قتيبة , عنه
+",000,False,000,False,False,False,1,9
+"### | 49 - 
+",000,False,000,False,False,False,1,67
+"### | طريق أبي الوليد الطيالسي , وعبد الله بن يزيد المقرئ , ومسلم بن إبراهيم , وغيرهم , عن جرير
+",000,False,000,False,False,False,1,35
+"### | طريق يونس بن محمد المؤدب ms27 , عن جرير
+",000,False,000,False,False,False,1,9
+"### | 50 - 
+",000,False,000,False,False,False,1,68
+"### | جعفر بن محمد الصادق
+",000,False,000,False,False,False,1,55
+"### | طريق أبي عاصم النبيل , عنه
+",000,False,000,False,False,False,1,7
+"### | 51 - 
+",000,False,000,False,False,False,1,139
+"### | 52 - 
+",000,False,000,False,False,False,1,98
+"### | طريق حماد بن عيسى الجهني , عنه
+",000,False,000,False,False,False,1,8
+"### | 53 - 
+",000,False,000,False,False,False,1,398
+"### | حميد الطويل
+",000,False,000,False,False,False,1,38
+"### | طريق يزيد بن هارون , عنه
+",000,False,000,False,False,False,1,7
+"### | 54 - 
+",000,False,000,False,False,False,1,122
+"### | طريق سفيان بن عيينة , عنه
+",000,False,000,False,False,False,1,7
+"### | 55 - 
+",000,False,000,False,False,False,1,53
+"### | طريق قريش بن أنس , عنه
+",000,False,000,False,False,False,1,7
+"### | 56 - 
+",000,False,000,False,False,False,1,70
+"### | طريق عبد الله بن بكر السهمي , عنه
+",000,False,000,False,False,False,1,9
+"### | 57 - 
+",000,False,000,False,False,False,1,136
+"### | طريق محمد بن عبد الله الأنصاري , عن حميد
+",000,False,000,False,False,False,1,10
+"### | 58 - 
+",000,False,000,False,False,False,1,38
+"### | .... 
+",000,False,000,False,False,False,1,84
+"### | طريق عون بن عمار , عن حميد
+",000,False,000,False,False,False,1,8
+"### | 59 - 
+",000,False,000,False,False,False,1,64
+"### | طريق مروان بن معاوية الفزاري , عنه
+",000,False,000,False,False,False,1,8
+"### | 60 - 
+",000,False,000,False,False,False,1,72
+"### | طريق إسماعيل ابن علية , عنه
+",000,False,000,False,False,False,1,7
+"### | 61 - 
+",000,False,000,False,False,False,1,129
+"### | طريق حماد بن مسعدة , عنه
+",000,False,000,False,False,False,1,7
+"### | 62 - 
+",000,False,000,False,False,False,1,82
+"### | طريق محمد بن زكريا بن رويد , عنه
+",000,False,000,False,False,False,1,9
+"### | 63 - 
+",000,False,000,False,False,False,1,91
+"### | طريق المظفر بن عاصم العجلي , عنه
+",000,False,000,False,False,False,1,8
+"### | 64 - 
+",000,False,000,False,False,False,1,67
+"### | 65 - 
+",000,False,000,False,False,False,1,109
+"### | طريق يحيى بن شبيب اليماني , عنه
+",000,False,000,False,False,False,1,8
+"### | 66 - 
+",000,False,000,False,False,False,1,258
+"### | ........ 
+",000,False,000,False,False,False,1,14
+"### | ........ 
+",000,False,000,False,False,False,1,23
+"### | ....... 
+",000,False,000,False,False,False,1,12
+"### | حريز بن عثمان الرحبي
+",000,False,000,False,False,False,1,120
+"### | طريق أبي اليمان الحكم بن نافع , عنه
+",000,False,000,False,False,False,1,9
+"### | 67 - 
+",000,False,000,False,False,False,1,84
+"### | طريق آدم بن أبي إياس , وعلي بن عياش , كلاهما عنه
+",000,False,000,False,False,False,1,12
+"### | 68 - 
+",000,False,000,False,False,False,1,216
+"### | طريق الحسن بن موسى الأشيب , عن حريز
+",000,False,000,False,False,False,1,9
+"### | 69 - 
+",000,False,000,False,False,False,1,84
+"### | طريق يزيد بن هارون , عنه
+",000,False,000,False,False,False,1,7
+"### | 70 - 
+",000,False,000,False,False,False,1,59
+"### | طريق الوليد بن هشام , عنه
+",000,False,000,False,False,False,1,7
+"### | 71 - 
+",000,False,000,False,False,False,1,66
+"### | طريق أبي المغيرة عبد القدوس بن حجاج , عنه
+",000,False,000,False,False,False,1,10
+"### | 72 - 
+",000,False,000,False,False,False,1,136
+"### | طريق جنادة بن مروان , عنه
+",000,False,000,False,False,False,1,7
+"### | 73 - 
+",000,False,000,False,False,False,1,43
+"### | طريق معاوية بن ms38 عمرو , عنه
+",000,False,000,False,False,False,1,7
+"### | 74 - 
+",000,False,000,False,False,False,1,83
+"### | طريق علي بن الجعد , وشبابة بن سوار
+",000,False,000,False,False,False,1,66
+"### | .... 
+",000,False,000,False,False,False,1,14
+"### | خلف بن خليفة بن صاعد بن برام أبو أحمد
+",000,False,000,False,False,False,1,47
+"### | طريق الحسن بن شبيب المعمري , عنه
+",000,False,000,False,False,False,1,8
+"### | 75 - 
+",000,False,000,False,False,False,1,89
+"### | طريق سعيد بن سليمان , عنه
+",000,False,000,False,False,False,1,7
+"### | 76 - 
+",000,False,000,False,False,False,1,81
+"### | طريق سعيد بن منصور , عنه
+",000,False,000,False,False,False,1,7
+"### | 77 - 
+",000,False,000,False,False,False,1,85
+"### | 78 - 
+",000,False,000,False,False,False,1,62
+"### | طريق داود بن رشيد , وعدي بن سليمان المصيصي , عنه
+",000,False,000,False,False,False,1,11
+"### | 79 - 
+",000,False,000,False,False,False,1,64
+"### | طريق إسماعيل بن عيسى , عنه
+",000,False,000,False,False,False,1,7
+"### | 80 - 
+",000,False,000,False,False,False,1,54
+"### | طريق قتيبة بن سعيد البغلاني , عنه
+",000,False,000,False,False,False,1,8
+"### | 81 - 
+",000,False,000,False,False,False,1,111
+"### | طريق عبد الملك بن عبد ربه , عنه
+",000,False,000,False,False,False,1,9
+"### | 82 - 
+",000,False,000,False,False,False,1,87
+"### | طريق أبي معمر إسماعيل بن إبراهيم القطيعي , عنه
+",000,False,000,False,False,False,1,10
+"### | 83 - 
+",000,False,000,False,False,False,1,130
+"### | طريق محمد بن حسان السهمي , عنه
+",000,False,000,False,False,False,1,8
+"### | 84 - 
+",000,False,000,False,False,False,1,125
+"### | طريق محرز بن عون , عن خلف
+",000,False,000,False,False,False,1,8
+"### | 85 - 
+",000,False,000,False,False,False,1,106
+"### | طريق عفان بن مسلم , عنه
+",000,False,000,False,False,False,1,7
+"### | 86 - 
+",000,False,000,False,False,False,1,52
+"### | طريق أحمد بن حاتم الطويل , عنه
+",000,False,000,False,False,False,1,8
+"### | 87 - 
+",000,False,000,False,False,False,1,81
+"### | طريق زكريا بن يحيى الواسطي , عنه
+",000,False,000,False,False,False,1,8
+"### | 88 - 
+",000,False,000,False,False,False,1,131
+"### | طريق محمد بن بكار , عنه.
+",000,False,000,False,False,False,1,135
+"### | 89 - 
+",000,False,000,False,False,False,1,109
+"### | 90 - 
+",000,False,000,False,False,False,1,53
+"### | 91 - 91 - 
+",000,False,000,False,False,False,1,42
+"### | داود بن أبي هند البصري أبو بكر
+",000,False,000,False,False,False,1,113
+"### | طريق عبد الوهاب بن عطاء الخفاف , عنه
+",000,False,000,False,False,False,1,9
+"### | 92 - 
+",000,False,000,False,False,False,1,149
+"### | طريق محمد بن فضيل بن عزوان , عن داود
+",000,False,000,False,False,False,1,10
+"### | 93 - 
+",000,False,000,False,False,False,1,95
+"### | طريق علي بن عاصم , عنه
+",000,False,000,False,False,False,1,7
+"### | 94 - 
+",000,False,000,False,False,False,1,84

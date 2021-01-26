@@ -1,0 +1,49 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK المجلد الأول
+",000,False,000,False,False,False,1,39075
+"### || AUTO مقدمة
+",000,False,000,False,False,False,2,12
+"### || AUTO مقدمة
+",000,False,000,False,False,False,2,2018
+"### || AUTO الباب الأول
+",000,False,000,False,False,False,2,37042
+"### ||| AUTO الفصل الأول: أهم المراكز العلمية في بلاد خراسان وما جاورها
+",000,False,000,False,False,False,3,4415
+"### ||| AUTO الفصل الثاني: اسمه ونسبه، وكنيته، ومولده، وعائلته.
+",000,False,000,False,False,False,3,2059
+"### ||| AUTO الفصل الثالث: نشأته ورحلاته في طلب العلم
+",000,False,000,False,False,False,3,4602
+"### ||| AUTO الفصل الرابع: شيوخه
+",000,False,000,False,False,False,3,10044
+"### ||| AUTO الفصل الخامس: تلاميذه والرواة عنه
+",000,False,000,False,False,False,3,1363
+"### ||| AUTO الفصل السادس: علومه ومؤلفاته
+",000,False,000,False,False,False,3,5468
+"### ||| AUTO الفصل السابع: حفظه، ومكانته بين العلماء
+",000,False,000,False,False,False,3,1947
+"### ||| AUTO الفصل الثامن: مذهبه، وعقيدته، وزهده، ووفاته.
+",000,False,000,False,False,False,3,4415
+"### ||| AUTO الفصل التاسع: منهجه في بيان علل الحديث
+",000,False,000,False,False,False,3,2726
+"### | CHECK المجلد الثاني
+",000,False,000,False,False,False,1,32885
+"### || AUTO التمهيد
+",000,False,000,False,False,False,2,6273
+"### || AUTO كتاب الضعفاء لأبي زرعة الرازي في أجوبته على أسئلة البرذعي
+",000,False,000,False,False,False,2,26609
+"### ||| AUTO النص المحقق
+",000,False,000,False,False,False,3,26598
+"### | CHECK المجلد الثالث
+",000,False,000,False,False,False,1,196406
+"### || AUTO الباب الثالث
+",000,False,000,False,False,False,2,34990
+"### ||| AUTO الفصل الأول: الرواة الذين جرحهم أبو زرعة
+",000,False,000,False,False,False,3,5416
+"### ||| AUTO الفصل الثاني: الرواة الذين عدلهم أبو زرعة
+",000,False,000,False,False,False,3,16757
+"### ||| AUTO الفصل الثالث: الرواة الذين روي عنه، تعديلهم وتجريحهم
+",000,False,000,False,False,False,3,1100
+"### ||| AUTO الفصل الرابع: انتقاد أبي زرعة وتجريحه لبعض الأئمة والدفاع عنهم
+",000,False,000,False,False,False,3,11714
+"### || AUTO قائمة المراجع
+",000,False,000,False,False,False,2,161414

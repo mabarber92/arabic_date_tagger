@@ -1,0 +1,37 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK مقدمة المصنف
+",000,False,000,False,False,False,1,335
+"### || AUTO فصل
+",000,False,000,False,False,False,2,26
+"### | AUTO الفصل الأول
+",000,False,000,False,False,False,1,285
+"### | AUTO الفصل الثاني في سنة رسول الله - صلى الله عليه وسلم -
+",000,year,000,False,False,False,1,192
+"### | AUTO الفصل الثالث
+",000,False,000,False,False,False,1,68
+"### | AUTO الفصل الرابع
+",000,False,000,False,False,False,1,2297
+"### || AUTO [أقسام القياس]
+",000,False,000,False,False,False,2,135
+"### || AUTO [تعريف الفقه وأصول الفقه]
+",000,False,000,False,False,False,2,473
+"### || AUTO [دليل الخطاب]
+",000,False,000,False,False,False,2,48
+"### || AUTO [مفهوم العدد]
+",000,False,000,False,False,False,2,18
+"### || AUTO [مفهوم الغاية]
+",000,False,000,False,False,False,2,20
+"### || AUTO [مفهوم الشرط]
+",000,False,000,False,False,False,2,237
+"### || AUTO [مفهوم الخطاب]
+",000,False,000,False,False,False,2,146
+"### || AUTO [هل يسمى مفهوم الخطاب قياسا]
+",000,False,000,False,False,False,2,1001
+"### || AUTO [هل يجتهد السائل في عين المفتي أو يأخذ قول أي مفتي]
+",000,False,000,False,False,False,2,129
+"### | AUTO الفصل الخامس
+",000,False,000,False,False,False,1,199
+"### | AUTO الفصل السادس
+",000,False,000,False,False,False,1,9237
+"### || AUTO فصل
+",000,False,000,False,False,False,2,9118

@@ -10,7 +10,7 @@ from bokeh.models import ColumnDataSource
 import pandas as pd
 import numpy as np
 
-dates_df = pd.read_csv("C:/Users/mathe/Documents/Kitab project/Big corpus datasets/Github/arabic_date_tagger/bokeh trial/full_dates.csv")[["predicted_year", "section word count", "Author", "Book", "Death_date"]]
+dates_df = pd.read_csv("C:/Users/mathe/Documents/Kitab project/Big corpus datasets/Github/arabic_date_tagger/bokeh trial/full_dates2")[["predicted_year", "section word count", "Author", "Book", "Death_date"]]
 dates_df["section word count"].astype(int)
 dates_df_scaled = dates_df
 dates_df_scaled["sizes"] = np.log2(dates_df_scaled["section word count"])

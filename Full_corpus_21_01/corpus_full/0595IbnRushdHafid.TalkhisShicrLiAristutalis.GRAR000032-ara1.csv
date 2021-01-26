@@ -1,0 +1,15 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [chapter 1]
+",000,False,000,False,False,False,1,586
+"### | [chapter 2] فصل
+",000,False,000,False,False,False,1,410
+"### | [chapter 3] فصل
+",000,False,000,False,False,False,1,599
+"### | [chapter 4] فصل
+",000,False,000,False,False,False,1,826
+"### | [chapter 5] فصل
+",000,False,000,False,False,False,1,1444
+"### | [chapter 6] فصل
+",000,False,000,False,False,False,1,3275
+"### | [chapter 7] فصل
+",000,False,000,False,False,False,1,3127

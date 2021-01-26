@@ -1,0 +1,221 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO باب الندبة
+",000,False,000,False,False,False,1,845
+"### | AUTO باب ألف الندبة التي تتبع ما قبلها
+",000,False,000,False,False,False,1,210
+"### | AUTO باب ما يمتنع فيه ألف الندبة
+",000,False,000,False,False,False,1,389
+"### | AUTO الجواب عن باب ألف الندبة التي تتبع ما قبلها
+",000,False,000,False,False,False,1,196
+"### | AUTO الجواب عن باب ما يمتنع فيه ألف الندبة؟
+",000,False,000,False,False,False,1,314
+"### | AUTO باب ما تمتنع فيه الندبة
+",000,False,000,False,False,False,1,319
+"### | AUTO باب الاسم المعطوف الذي بمنزلة الموصول في الندبة والنداء
+",000,False,000,False,False,False,1,689
+"### | AUTO الجواب عن الباب الذي يليه
+",000,False,000,False,False,False,1,364
+"### | AUTO باب حروف النداء
+",000,False,000,False,False,False,1,398
+"### | AUTO باب الجاري على طريقة النداء من غير أن يكون منادي
+",000,False,000,False,False,False,1,215
+"### | AUTO الجواب عن باب حروف النداء؟
+",000,False,000,False,False,False,1,451
+"### | AUTO الجواب عن باب الجاري على طريق النداء من غير أن يكون منادي
+",000,False,000,False,False,False,1,296
+"### | AUTO باب الاختصاص الذي يجري على طريقة النداء في النصب
+",000,False,000,False,False,False,1,2002
+"### | AUTO باب الترخيم
+",000,False,000,False,False,False,1,618
+"### | AUTO باب ترخيم ما آخره هاء التأنيث
+",000,False,000,False,False,False,1,1118
+"### | AUTO باب ترخيم ما فيه الهاء على: يا حار
+",000,False,000,False,False,False,1,1038
+"### | AUTO باب الترخيم على: يا حار
+",000,False,000,False,False,False,1,1380
+"### | AUTO باب ترخيم ما آخره زائدان زيدا معا
+",000,False,000,False,False,False,1,294
+"### | AUTO باب ترخيم الاسم الذي قبل آخره [زائد يكون معه بمنزلة حرف واحد]
+",000,False,000,False,False,False,1,373
+"### | AUTO الجواب عن الباب في ترخيم الاسم الذي قبل آخره زائد
+",000,False,000,False,False,False,1,144
+"### | AUTO باب ترخيم ما قبل آخره زائد بمنزلة الأصلي
+",000,False,000,False,False,False,1,171
+"### | AUTO باب ترخيم ما قبل آخره زائد متحرك ليس بملحق
+",000,False,000,False,False,False,1,373
+"### | AUTO الجواب عن ترخيم ما قبل آخره زائد متحرك
+",000,False,000,False,False,False,1,239
+"### | AUTO باب ترخيم ما يرد إليه بعد الحذف حرف
+",000,False,000,False,False,False,1,349
+"### | AUTO باب ترخيم ما يحرك فيه الحرف لالتقاء الساكنين
+",000,False,000,False,False,False,1,634
+"### | AUTO باب ترخيم الاسم المركب من أسمين
+",000,False,000,False,False,False,1,744
+"### | AUTO باب الترخيم في ضرورة الشعر
+",000,False,000,False,False,False,1,950
+"### | AUTO باب النفي بلا
+",000,False,000,False,False,False,1,822
+"### | AUTO باب النفي بلام الإضافة
+",000,False,000,False,False,False,1,1873
+"### | AUTO باب النفي الذي يثبت فيه التنوين في الاسم
+",000,False,000,False,False,False,1,327
+"### | AUTO باب النفي الذي يوصف فيه المنفي
+",000,False,000,False,False,False,1,835
+"### | AUTO باب النفي الذي لا تكون الصفة فيه إلا منونة
+",000,False,000,False,False,False,1,132
+"### | AUTO باب النفي الذي لا تسقط فيه النون لإقحام اللام
+",000,False,000,False,False,False,1,260
+"### | AUTO الجواب عن الباب الذي يليه
+",000,False,000,False,False,False,1,147
+"### | AUTO باب النفي الذي يجري الاسم فيه على الموضع
+",000,False,000,False,False,False,1,1243
+"### | AUTO باب النفي الذي تلغى فيه (لا) عن العمل
+",000,False,000,False,False,False,1,1532
+"### | AUTO باب النفي الذي لا يصلح أن يعطف فيه إلا على الموضع
+",000,False,000,False,False,False,1,248
+"### | AUTO باب النفي الذي لا تغير فيه (لا) الاسم عن حاله الذي كان عليها
+",000,False,000,False,False,False,1,2360
+"### | AUTO باب الاستثناء
+",000,False,000,False,False,False,1,209
+"### | AUTO باب الاستثناء بإلا
+",000,False,000,False,False,False,1,656
+"### | AUTO باب الاستثناء الذي يكون المستثنى فيه بدلا من الأول
+",000,False,000,False,False,False,1,1345
+"### | AUTO باب الاستثناء الذي يحمل المستثنى فيه على الموضع
+",000,False,000,False,False,False,1,931
+"### | AUTO باب الاستثناء الذي يكون المستثنى فيه نصبا في النفي
+",000,False,000,False,False,False,1,374
+"### | AUTO باب الاستثناء المنقطع الذي يحتمل المتصل
+",000,False,000,False,False,False,1,1339
+"### | AUTO باب الاستثناء المنقطع الذي لا يحتمل المتصل
+",000,False,000,False,False,False,1,1350
+"### | AUTO باب الاستثناء الذي تقع فيه أن بعد إلا
+",000,False,000,False,False,False,1,189
+"### | AUTO باب الاستثناء من موجب
+",000,False,000,False,False,False,1,625
+"### | AUTO باب الاستثناء الذي تكون إلا فيه بمنزلة غير في الصفة
+",000,False,000,False,False,False,1,1299
+"### | AUTO باب الاستثناء الذي يقدم فيه المستثنى
+",000,False,000,False,False,False,1,946
+"### | AUTO باب الاستثناء المقدم الذي يعطف عليه
+",000,False,000,False,False,False,1,156
+"### | AUTO باب الاستثناء الذي يكرر فيه المستثنى
+",000,False,000,False,False,False,1,1167
+"### | AUTO باب الاستثناء الذي يبتدأ فيه ما بعد إلا
+",000,False,000,False,False,False,1,261
+"### | AUTO باب الاستثناء بغير
+",000,False,000,False,False,False,1,749
+"### | AUTO باب الاستثناء الذي يحمل المعطوف فيه على التأويل
+",000,False,000,False,False,False,1,188
+"### | AUTO باب الاستثناء الذي يحذف فيه المستثنى
+",000,False,000,False,False,False,1,1049
+"### | AUTO باب الاستثناء بليس ولا يكون
+",000,False,000,False,False,False,1,1347
+"### | AUTO أبواب علامة المضمر
+",000,False,000,False,False,False,1,4
+"### | AUTO باب علامة المضمر المرفوع المنفصل
+",000,False,000,False,False,False,1,1518
+"### | AUTO باب /51 أمواقع علامة الإضمار المنفصل المرفوع
+",000,False,000,False,False,False,1,685
+"### | AUTO باب علامة المضمر المنصوب
+",000,False,000,False,False,False,1,986
+"### | AUTO باب مواقع إيا في الإضمار
+",000,False,000,False,False,False,1,1225
+"### | AUTO باب الإضمار فيما جرى مجرى الفعل
+",000,False,000,False,False,False,1,201
+"### | AUTO باب الإضمار الذي يجوز في الشعر
+",000,False,000,False,False,False,1,73
+"### | AUTO باب إضمار المجرور
+",000,False,000,False,False,False,1,528
+"### | AUTO باب إضمار المفعولين في الفعل الذي يتعدى إلى اثنين
+",000,False,000,False,False,False,1,927
+"### | AUTO باب ما يمتنع من الضمير المتصل
+",000,False,000,False,False,False,1,543
+"### | AUTO باب إضمار المتكلم
+",000,False,000,False,False,False,1,663
+"### | AUTO باب ضمير المجرور الذي يقع موقع ضمير المرفوع
+",000,False,000,False,False,False,1,1137
+"### | AUTO باب إشراك المظهر للمضمر
+",000,False,000,False,False,False,1,595
+"### | AUTO باب ما ترده علامة الإضمار إلى أصله
+",000,False,000,False,False,False,1,1438
+"### | AUTO باب حروف الجر التي لا يجوز فيها الإضمار
+",000,False,000,False,False,False,1,161
+"### | AUTO باب التوكيد بالمضمر
+",000,False,000,False,False,False,1,847
+"### | AUTO باب البدل بالضمير
+",000,False,000,False,False,False,1,772
+"### | AUTO باب علامة الإضمار التي تكون فصلا
+",000,False,000,False,False,False,1,1219
+"### | AUTO باب ما يمتنع فيه الفصل
+",000,False,000,False,False,False,1,487
+"### | AUTO باب أي
+",000,False,000,False,False,False,1,1886
+"### | AUTO باب أي الذي لا يصلح فيه البناء
+",000,False,000,False,False,False,1,174
+"### | AUTO باب أي المضاف إلى الموصول
+",000,False,000,False,False,False,1,980
+"### | AUTO باب أي [في] الاستفهام عن نكرة مذكورة
+",000,False,000,False,False,False,1,244
+"### | AUTO باب من في الاستفهام عن نكرة مذكورة
+",000,False,000,False,False,False,1,1211
+"### | AUTO باب من في لحاق الزيادة إذا استفهم بها عن معرفة
+",000,False,000,False,False,False,1,153
+"### | AUTO باب من التي يستفهم بها عن الاسم /84 ب العلم المذكور
+",000,False,000,False,False,False,1,534
+"### | AUTO باب من التي يستفهم بها عن صفة المذكور /85 ب على طريق النسبة
+",000,False,000,False,False,False,1,719
+"### | AUTO باب من التي يصلح أن يعود إليها ضمير الاثنين والجميع
+",000,False,000,False,False,False,1,364
+"### | AUTO باب (ذا) الجاري بمنزلة (الذي) مع (ما)
+",000,False,000,False,False,False,1,1060
+"### | AUTO باب الاستفهام الذي تلحقه الزيادة للإنكار
+",000,False,000,False,False,False,1,1049
+"### | AUTO باب إعراب الأفعال المضارعة
+",000,False,000,False,False,False,1,756
+"### | AUTO باب الحروف التي تضمر فيها أن
+",000,False,000,False,False,False,1,411
+"### | AUTO باب حروف الجزم
+",000,False,000,False,False,False,1,1303
+"### | AUTO باب عامل الرفع في الفعل المضارع
+",000,False,000,False,False,False,1,1265
+"### | AUTO [باب] إذن
+",000,False,000,False,False,False,1,1116
+"### | AUTO باب: [حتى]
+",000,False,000,False,False,False,1,1314
+"### | AUTO باب حتى التي يرتفع الفعل بعدها
+",000,False,000,False,False,False,1,1639
+"### | AUTO باب حتى التي يكون العمل فيها من اثنين
+",000,False,000,False,False,False,1,1240
+"### | AUTO باب الفاء
+",000,False,000,False,False,False,1,1438
+"### | AUTO [تمام] باب الفاء
+",000,False,000,False,False,False,1,1550
+"### | AUTO باب الواو
+",000,False,000,False,False,False,1,1286
+"### | AUTO باب أو
+",000,False,000,False,False,False,1,1367
+"### | AUTO باب الفعل الذي يحتمل الإشراك في أن والانقطاع
+",000,False,000,False,False,False,1,1510
+"### | AUTO باب الجزاء
+",000,False,000,False,False,False,1,3061
+"### | AUTO باب الأسماء التي تصلح فيها الصلة والجزاء
+",000,False,000,False,False,False,1,861
+"### | AUTO باب الأسماء التي يجازى بها الكائنة بمنزلة: الذي
+",000,False,000,False,False,False,1,1238
+"### | AUTO باب الحروف التي يمتنع بعدها الجزاء
+",000,False,000,False,False,False,1,1336
+"### | AUTO باب الجزاء الذي يدخل عليه حرف الجر
+",000,False,000,False,False,False,1,1272
+"### | AUTO باب الجزاء الذي يدخل عليه حرف الاستفهام
+",000,False,000,False,False,False,1,259
+"### | AUTO [باب] الجزاء الذي يدخل عليه القسم
+",000,False,000,False,False,False,1,1052
+"### | AUTO باب إعراب الفعل بين الجزمين
+",000,False,000,False,False,False,1,1519
+"### | AUTO باب الجواب بالجزم [لما] لم يذكر فيه حرف الجزاء
+",000,False,000,False,False,False,1,1834
+"### | AUTO باب الحروف التي لها جواب كجواب الأمر
+",000,False,000,False,False,False,1,1461
+"### | AUTO باب الأفعال في القسم
+",000,False,000,False,False,False,1,1692

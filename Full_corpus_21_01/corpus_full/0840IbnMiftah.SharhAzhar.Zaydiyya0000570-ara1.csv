@@ -1,0 +1,221 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO الجزء الأول
+",000,False,000,False,False,False,1,28879
+"### || CHECK [2-كتاب الطهارة]
+",000,False,000,False,False,False,2,24183
+"### ||| AUTO ومن السنة: ما روي أنه صلى الله عليه وآله مر بعمار بن ياسر
+",000,year,000,False,False,False,3,3061
+"### |||| AUTO (وما كره أكله كره بوله كالأرنب))(1)( ومثلها الضب(2)،
+",000,False,000,False,False,False,4,1057
+"### |||| AUTO وقال بعضهم:(1) لا بد من الدلك(2).
+",000,False,000,False,False,False,4,687
+"### ||| AUTO (باب المياه)(1) PageV01P128 الدليل عليه قوله تعالى: {وينزل عليكم من السماء ماء ليطهركم به} وقوله صلى
+",000,False,000,False,False,False,3,3019
+"### |||| AUTO [شروط الماء الرافع للحدث ms0027]
+",000,False,000,False,False,False,4,1136
+"### |||| AUTO (.
+",000,False,000,False,False,False,4,1305
+"### ||| CHECK [(باب قضاء الحاجة)]
+",000,False,000,False,False,False,3,1435
+"### ||| AUTO (باب الوضوء))(1)( PageV01P197 قال عليه السلام: اعلم أنه يعلم ضرورة من دين الرسول صلى الله عليه وآله
+",000,False,000,False,False,False,3,4732
+"### |||| AUTO وقال الشافعي: يصح الوضوء قبل غسل نجاسة توجبه. وهو قول
+",000,False,000,False,False,False,4,1901
+"### |||| CHECK [[سنن الوضوء]]
+",000,False,000,False,False,False,4,300
+"### |||| CHECK [[مندوبات الوضوء]]
+",000,False,000,False,False,False,4,407
+"### |||| CHECK [[نواقض الوضوء]]
+",000,False,000,False,False,False,4,1917
+"### ||| AUTO باب الغسل(5)
+",000,False,000,False,False,False,3,2838
+"### |||| AUTO تنبيه
+",000,False,000,False,False,False,4,1747
+"### ||| AUTO (و) الثالث عشر بعد (الإسلام)(2) يعني: لمن كان كافرا ثم ms0064
+",000,False,000,False,False,False,3,5683
+"### |||| AUTO تنبيه
+",000,False,000,False,False,False,4,5112
+"### ||| AUTO (باب الحيض)(1)
+",000,False,000,False,False,False,3,3341
+"### | CHECK [3-كتاب الصلاة]
+",000,False,000,False,False,False,1,39940
+"### || AUTO هو أن يريد الثناء في فعل الطاعة، أو ترك معصية أو مكروه.
+",000,False,000,False,False,False,2,2181
+"### || AUTO قال في اللمع: وعنده إذا فصل بينهما أعاد الأذان
+",000,False,000,False,False,False,2,1911
+"### || AUTO قال في الانتصار: وأن يتحول للإقامة من موضع الأذان،، وأن يكون
+",000,False,000,False,False,False,2,16366
+"### || AUTO (باب )وسجود السهو)(1)( مشروع إجماعا.
+",000,False,000,False,False,False,2,2999
+"### || AUTO قال عليه السلام: والأقرب أن العبرة بمجلس من أراد السجود، من
+",000,False,000,False,False,False,2,1361
+"### || AUTO (باب) (وصلاة الجمعة)(1) PageV04P010 واجبة متى تكاملت شروطها(1) اتفاقا، والمذهب أنها من فروض الأعيان.
+",000,False,000,False,False,False,2,2575
+"### ||| AUTO قوله: (غالبا) احتراز من الصبيان ونحوهم)(1)( ومن النساء إذا
+",000,False,000,False,False,False,3,2288
+"### || AUTO وقال الفقيه يحي البحيبح: بل يقدم ما لا بدل له، فيقدم الجنازة
+",000,False,000,False,False,False,2,1906
+"### ||| AUTO [الوطن]
+",000,False,000,False,False,False,3,563
+"### || AUTO ومن قال: إنه لا يقصر ولو خرج من ميلها إلا أن يريد مسافة
+",000,False,000,False,False,False,2,1032
+"### || AUTO (و) يصح أن تصلى هذه الصلاة جماعة، كما تصح فرادى، وسواء كانوا
+",000,False,000,False,False,False,2,1325
+"### ||| AUTO [صفة صلاة العيد]
+",000,False,000,False,False,False,3,877
+"### ||| AUTO [تكبير أيام التشريق]
+",000,False,000,False,False,False,3,180
+"### || AUTO وقال زيد، والناصر: لا يكبر عقيب النوافل(1) وأما صفته فهو أن
+",000,False,000,False,False,False,2,1023
+"### || AUTO [النوافل]
+",000,False,000,False,False,False,2,729
+"### | CHECK [4-كتاب الجنائز]
+",000,False,000,False,False,False,1,7919
+"### || AUTO وعن ms0226 أبي الفضل الناصر: أنما يشق له إذا بلغ ستة أشهر، لا دونها
+",000,False,000,False,False,False,2,284
+"### || AUTO [علامات الموت]
+",000,False,000,False,False,False,2,106
+"### || AUTO ، والصراخ، واللطم، وشق الجيب، وحلق الشعر لذلك(1).
+",000,False,000,False,False,False,2,537
+"### || AUTO (أو) رجل (غرق(1) لهرب) من جيش الكفار، أو من رميهم بالنفط(2)
+",000,False,000,False,False,False,2,232
+"### || AUTO [صفة الغاسل ]
+",000,False,000,False,False,False,2,712
+"### || AUTO (فصل ms0232) في صفة غسل الميت
+",000,False,000,False,False,False,2,798
+"### || AUTO (ويترك) الميت لا يغسل، ولا ييمم (إن) كان إذا غسل أو يمم
+",000,False,000,False,False,False,2,1362
+"### || AUTO عن الخروج مع الجنازة للتشييع إذا استغني عنهن، وكذا يمنعن من
+",000,False,000,False,False,False,2,1758
+"### || AUTO يقال: على مذهبنا إذا كثرت الجنائز، وجعلت صفوفا هل يكون كل صف
+",000,False,000,False,False,False,2,1332
+"### || AUTO ولقبورهم حرمة؛ لاعتياد المسلمين احترامها.
+",000,False,000,False,False,False,2,210
+"### | CHECK [5-كتاب الزكاة]
+",000,False,000,False,False,False,1,20551
+"### || AUTO [الذهب والفضة]
+",000,False,000,False,False,False,2,2293
+"### || AUTO [سقوط الزكاة]
+",000,False,000,False,False,False,2,326
+"### || AUTO [وجوب زكاتين في مال واحد]
+",000,False,000,False,False,False,2,94
+"### || AUTO وهكذا لو اشترى غنما للتجارة فأسامها فاختلف حول التجارة (1)
+",000,False,000,False,False,False,2,2298
+"### ||| AUTO [الذهب والفضة يكملان بعضهما البعض]
+",000,False,000,False,False,False,3,906
+"### ||| AUTO تنبيه
+",000,False,000,False,False,False,3,372
+"### ||| AUTO [متى يصير المال للتجارة]
+",000,False,000,False,False,False,3,115
+"### ||| AUTO [متى يصير المستغل مستغلا]
+",000,False,000,False,False,False,3,454
+"### || AUTO (باب زكاة الإبل) (1) PageV06P084 (ولا) يجب (شيء) من الزكاة (فيما دون) النصاب منها، والنصاب منها هو (خمس
+",000,False,000,False,False,False,2,370
+"### || AUTO وقد غلط أبو طالب (2) صاحب الوافي لما اشترط ذلك.
+",000,False,000,False,False,False,2,225
+"### || AUTO وصورة المسألة: أن تبلغ البقر مائة وعشرين، فإن الواجب ms0268 فيها
+",000,False,000,False,False,False,2,1062
+"### ||| AUTO [شروط زكاة الأنعام]
+",000,False,000,False,False,False,3,788
+"### || AUTO وقال السيد يحي بن الحسين: إن لم يوجد وسط، بل أعلى وأدنى أخذ
+",000,False,000,False,False,False,2,1966
+"### ||| AUTO [نصاب غير المكيل]
+",000,False,000,False,False,False,3,622
+"### ||| AUTO (والعبرة بالانكشاف)(1) فإن انكشف أن الحاصل فوق ما خرصه
+",000,False,000,False,False,False,3,584
+"### ||| AUTO [شروط زكاة ما أنبتت الأرض]
+",000,False,000,False,False,False,3,492
+"### || AUTO (باب من تصرف فيه الزكاة)
+",000,False,000,False,False,False,2,6248
+"### ||| AUTO قال السيد يحي بن الحسين:(7) والأقرب أنها تحل له(8)، ولا
+",000,False,000,False,False,False,3,3132
+"### ||| AUTO [ولاية صرف الزكاة]
+",000,False,000,False,False,False,3,970
+"### ||| AUTO [ولاية الزكاة مع عدم وجود إمام]
+",000,False,000,False,False,False,3,1288
+"### ||| AUTO [التعجيل]
+",000,False,000,False,False,False,3,619
+"### || AUTO ذلك (البلد(1)) مع وجود الفقراء فيها، بل الأولى فقراء البلد
+",000,False,000,False,False,False,2,2299
+"### || AUTO الإفطار، ثم إخراج الفطرة(1) ثم الصلاة.
+",000,False,000,False,False,False,2,3232
+"### ||| AUTO (الصنف الثالث) من الأموال التي تجب فيها الخمس هو ثلاثة
+",000,False,000,False,False,False,3,684
+"### ||| AUTO (و) يجب صرف الخمس (في غير المنفق)(3) أي: من وجب عليه الخمس
+",000,False,000,False,False,False,3,84
+"### ||| AUTO [المعاملة]
+",000,False,000,False,False,False,3,668
+"### ||| AUTO وعن ابن أصفهان:(4) لا تؤجر، ولا يؤخذ منه شيء(5).
+",000,False,000,False,False,False,3,670
+"### ||| AUTO (ويسقط) النوع الأول من هذه الأربعة وهو الجزية (بالموت،
+",000,False,000,False,False,False,3,452
+"### | CHECK [6-كتاب الصيام]
+",000,False,000,False,False,False,1,8317
+"### || AUTO [الآيس من زوال العلة]
+",000,False,000,False,False,False,2,87
+"### || AUTO (باب)(وشروط النذر بالصوم) نوعان
+",000,False,000,False,False,False,2,1355
+"### || AUTO قال المنصور بالله: من أوجب على نفسه صوم الدهر ، ونوى مدة
+",000,False,000,False,False,False,2,2118
+"### | CHECK [7-كتاب الحج]
+",000,False,000,False,False,False,1,21561
+"### || AUTO (باب)ومناسك(1) (العمرة) أربعة (إحرام ، وطواف ، (2) وسعي(3)
+",000,False,000,False,False,False,2,300
+"### || AUTO فأما لو وطئ بعد الطواف(4) والسعي وقبل الحلق(5)، فقال الهادي
+",000,False,000,False,False,False,2,1944
+"### || AUTO ) فإنه يجب عليه أن يهدى ولو قد فرغ من صيام الثلاث.
+",000,False,000,False,False,False,2,6975
+"### | CHECK [8-كتاب {النكاح 1]
+",000,False,000,False,False,False,1,32246
+"### | CHECK [9-كتاب الطلاق]
+",000,False,000,False,False,False,1,26130
+"### || AUTO ولا خلاف(3) أنها لا تكرر إذا كان المجلس واحدا.
+",000,False,000,False,False,False,2,7605
+"### | CHECK [11-كتاب الطلاق2]
+",000,False,000,False,False,False,1,3742
+"### | CHECK [12-كتاب البيع1]
+",000,False,000,False,False,False,1,22052
+"### | CHECK [13-كتاب البيع2]
+",000,False,000,False,False,False,1,11502
+"### | CHECK [14-كتاب البيع3]
+",000,False,000,False,False,False,1,3825
+"### | CHECK [15-كتاب الشفعة]
+",000,False,000,False,False,False,1,7743
+"### | CHECK [16-كتاب الاجارة]
+",000,False,000,False,False,False,1,17349
+"### | CHECK [17-كتاب الشركة]
+",000,False,000,False,False,False,1,6400
+"### | CHECK [18-كتاب الرهن]
+",000,False,000,False,False,False,1,5026
+"### | CHECK [19-كتاب العارية]
+",000,False,000,False,False,False,1,1336
+"### | CHECK [20-كتاب الهبة]
+",000,False,000,False,False,False,1,4039
+"### | CHECK [21-كتاب الوقف]
+",000,False,000,False,False,False,1,8780
+"### | CHECK [22-كتاب الوديعة]
+",000,False,000,False,False,False,1,1795
+"### | CHECK [23-كتاب الغصب]
+",000,False,000,False,False,False,1,7103
+"### | CHECK [24-كتاب العتق]
+",000,False,000,False,False,False,1,8178
+"### | CHECK [25-كتاب الأيمان]
+",000,False,000,False,False,False,1,20579
+"### | CHECK [26-كتاب الدعاوى]
+",000,False,000,False,False,False,1,7160
+"### | CHECK [27-كتاب الإقرار]
+",000,False,000,False,False,False,1,5363
+"### | CHECK [28-كتاب الشهادات]
+",000,False,000,False,False,False,1,9594
+"### | CHECK [29-كتاب الوكالة]
+",000,False,000,False,False,False,1,18195
+"### | CHECK [30-كتاب الحدود]
+",000,False,000,False,False,False,1,9164
+"### | CHECK [31-كتاب الجنايات]
+",000,False,000,False,False,False,1,14070
+"### | CHECK [32- كتاب الوصايا]
+",000,False,000,False,False,False,1,8690
+"### | CHECK [33-كتاب السير]
+",000,False,000,False,False,False,1,13701
+"### | AUTO تبصرة ذوي الالباب في معرفة تحقيق النصاب
+",000,False,000,False,False,False,1,1136794

@@ -1,0 +1,249 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO كتاب الحج والعمرة
+",000,False,000,False,False,False,1,1748
+"### || AUTO ملحق من المؤلف لكتاب الحج والعمرة للطبعة الأولى والثانية
+",000,False,000,False,False,False,2,506
+"### || AUTO مقدمة
+",000,False,000,False,False,False,2,331
+"### || AUTO حقيقة الحج لغة وشرعا
+",000,False,000,False,False,False,2,49
+"### || AUTO فصل في التخلص من الحقوق
+",000,False,000,False,False,False,2,60
+"### || AUTO العمل عند الخروج
+",000,False,000,False,False,False,2,552
+"### || AUTO كتاب الحج
+",000,False,000,False,False,False,2,217
+"### | AUTO باب في أركان الحج ومناسكه
+",000,False,000,False,False,False,1,2163
+"### || AUTO فصل في مناسك الحج
+",000,False,000,False,False,False,2,34
+"### || AUTO فصل في النسك الأول: الإحرام
+",000,False,000,False,False,False,2,83
+"### || AUTO فصل في زمان ومكان الإحرام
+",000,False,000,False,False,False,2,257
+"### || AUTO المواقيت
+",000,False,000,False,False,False,2,587
+"### || AUTO فصل في حكم مجاوزة الميقات إلى الحرم المحرم
+",000,False,000,False,False,False,2,1006
+"### || AUTO فصل في ما يحسن قبل الإحرام
+",000,False,000,False,False,False,2,173
+"### | AUTO باب كيفية الإحرام وما ينعقد به
+",000,False,000,False,False,False,1,29409
+"### || AUTO فصل في آداب التلبية وغيرها
+",000,False,000,False,False,False,2,926
+"### || AUTO فصل في محظورات الإحرام
+",000,False,000,False,False,False,2,4082
+"### || AUTO فصل في الجزاء
+",000,False,000,False,False,False,2,1124
+"### || AUTO فصل في ما لزم العبد
+",000,False,000,False,False,False,2,133
+"### || AUTO فصل في تحريم صيد الحرم
+",000,False,000,False,False,False,2,696
+"### || AUTO فصل في النسك الثاني: طواف القدوم
+",000,False,000,False,False,False,2,133
+"### || AUTO فصل في فروض الطواف
+",000,False,000,False,False,False,2,1450
+"### || AUTO فصل فيما يستحب من الأعمال والأذكار
+",000,False,000,False,False,False,2,323
+"### || AUTO فصل في مسنونات الطواف
+",000,False,000,False,False,False,2,24
+"### || AUTO الأول: استلام الأركان
+",000,False,000,False,False,False,2,1222
+"### || AUTO الرمل في الثلاثة الأشواط الأول
+",000,False,000,False,False,False,2,82
+"### || AUTO الاضطباع
+",000,False,000,False,False,False,2,40
+"### || AUTO الرابع: الدعاء.
+",000,False,000,False,False,False,2,1773
+"### || AUTO فصل في آداب الطواف
+",000,False,000,False,False,False,2,127
+"### || AUTO حكم الشك في الطواف:
+",000,False,000,False,False,False,2,577
+"### || AUTO فصل في الصلاة في مقام إبراهيم عليه السلام
+",000,False,000,False,False,False,2,334
+"### || AUTO فصل في ماء زمزم
+",000,False,000,False,False,False,2,575
+"### || AUTO فصل في النسك الثالث: السعي بين الصفا والمروة
+",000,False,000,False,False,False,2,1998
+"### || AUTO فصل في دخول الكعبة المشرفة
+",000,False,000,False,False,False,2,483
+"### || AUTO فصل
+",000,False,000,False,False,False,2,68
+"### || AUTO فصل في النسك الرابع: الوقوف بعرفة
+",000,False,000,False,False,False,2,43
+"### || AUTO حدود عرفة:
+",000,False,000,False,False,False,2,953
+"### || AUTO فصل: في التباس يوم عرفة
+",000,False,000,False,False,False,2,361
+"### || AUTO فصل في المسنون والمستحب قبل الوقوف وحاله
+",000,False,000,False,False,False,2,800
+"### || AUTO فصل في دعاء عرفة
+",000,False,000,False,False,False,2,1651
+"### || AUTO فصل في الإفاضة
+",000,False,000,False,False,False,2,293
+"### || AUTO فصل في النسك الخامس: المبيت بمزدلفة
+",000,False,000,False,False,False,2,52
+"### || AUTO فصل في النسك السادس: الجمع بين العشائين في مزدلفة
+",000,False,000,False,False,False,2,189
+"### || AUTO فصل في النسك السابع: الدفع من مزدلفة
+",000,False,000,False,False,False,2,127
+"### || AUTO فصل في النسك الثامن: المرور بالمشعر الحرام
+",000,False,000,False,False,False,2,1222
+"### || AUTO فصل في النسك التاسع: الرمي
+",000,False,000,False,False,False,2,510
+"### || AUTO فصل في عدد حصيات الرمي
+",000,False,000,False,False,False,2,497
+"### || AUTO فصل في مندوبات الرمي
+",000,False,000,False,False,False,2,361
+"### || AUTO فصل في الاحلال بعد الرمي
+",000,False,000,False,False,False,2,663
+"### || AUTO فصل في ترتيب أعمال يوم النحر
+",000,False,000,False,False,False,2,371
+"### || AUTO فصل في رمي الجمار الثلاث
+",000,False,000,False,False,False,2,404
+"### || AUTO فصل في الدعاء حال الرمي
+",000,False,000,False,False,False,2,512
+"### || AUTO فصل في الاستنابة
+",000,False,000,False,False,False,2,133
+"### || AUTO فصل في النقص في الرمي
+",000,False,000,False,False,False,2,330
+"### || AUTO فصل في النسك العاشر: المبيت بمنى
+",000,False,000,False,False,False,2,544
+"### || AUTO فصل في ذكر الله في منى
+",000,False,000,False,False,False,2,88
+"### || AUTO فصل في النسك الحادي عشر: طواف الزيارة
+",000,False,000,False,False,False,2,224
+"### || AUTO فصل في وقت طواف الزيارة
+",000,False,000,False,False,False,2,473
+"### || AUTO فصل في من أخر طواف القدوم
+",000,False,000,False,False,False,2,77
+"### || AUTO فصل في وجوب الطهارة لكل طواف
+",000,False,000,False,False,False,2,108
+"### || AUTO فصل في ما يفوت به الحج
+",000,False,000,False,False,False,2,426
+"### || AUTO فصل في النسك الثاني عشر: طواف الوداع
+",000,False,000,False,False,False,2,572
+"### || AUTO فصل في دعاء طواف الوداع:
+",000,False,000,False,False,False,2,466
+"### | AUTO باب العمرة
+",000,False,000,False,False,False,1,1453
+"### || AUTO فصل في أفضل أوقات العمرة
+",000,False,000,False,False,False,2,78
+"### || AUTO فصل في ميقات العمرة
+",000,False,000,False,False,False,2,108
+"### || AUTO فصل في مناسك العمرة
+",000,False,000,False,False,False,2,232
+"### || AUTO فصل في الحل
+",000,False,000,False,False,False,2,345
+"### || AUTO فصل في فساد العمرة
+",000,False,000,False,False,False,2,36
+"### | AUTO باب في أنواع الحج
+",000,False,000,False,False,False,1,15570
+"### || AUTO فصل
+",000,False,000,False,False,False,2,7
+"### || AUTO فصل في التمتع
+",000,False,000,False,False,False,2,778
+"### || AUTO فصل في صفة التمتع
+",000,False,000,False,False,False,2,547
+"### || AUTO فصل في الهدي
+",000,False,000,False,False,False,2,411
+"### || AUTO فصل في ضمان الهدي
+",000,False,000,False,False,False,2,82
+"### || AUTO فصل في الانتفاع بالهدي
+",000,False,000,False,False,False,2,149
+"### || AUTO فصل في ما خشي فساده من الهدي
+",000,False,000,False,False,False,2,148
+"### || AUTO فصل في حكم ما فات من الهدي ms131
+",000,False,000,False,False,False,2,332
+"### || AUTO فصل في حكم من لم يجد الهدي
+",000,False,000,False,False,False,2,279
+"### || AUTO فصل
+",000,False,000,False,False,False,2,196
+"### || AUTO فصل في تعين الهدي
+",000,False,000,False,False,False,2,90
+"### || AUTO فصل في القران
+",000,False,000,False,False,False,2,90
+"### || AUTO فصل في شروط القران
+",000,False,000,False,False,False,2,364
+"### || AUTO فصل في مندوبات الهدي
+",000,False,000,False,False,False,2,174
+"### || AUTO فصل في أعمال القارن
+",000,False,000,False,False,False,2,63
+"### || AUTO فصل في طواف وسعي القارن
+",000,False,000,False,False,False,2,89
+"### || AUTO فصل
+",000,False,000,False,False,False,2,398
+"### || AUTO فصل في حكم من حاضت أو نفست
+",000,False,000,False,False,False,2,141
+"### || AUTO فصل في حكم المتمتعة إن ضاق عليها الوقت
+",000,False,000,False,False,False,2,389
+"### || AUTO فصل في هدي المتمعة التي رفضت العمرة
+",000,False,000,False,False,False,2,33
+"### || AUTO فصل في حكم القارنة التي تضيق عليها الوقت
+",000,False,000,False,False,False,2,88
+"### || AUTO فصل في ما يفسد الإحرام
+",000,False,000,False,False,False,2,396
+"### || AUTO فصل في حكم من فسد إحرامه بالوطء
+",000,False,000,False,False,False,2,1043
+"### || AUTO فصل في تعريف الإحصار
+",000,False,000,False,False,False,2,954
+"### || AUTO فصل في انكشاف الحل قبل الوقت أو الذبح
+",000,False,000,False,False,False,2,512
+"### || AUTO فصل فيمن لم يجد الهدي أو ثمنه أو من ms151 يوصله
+",000,False,000,False,False,False,2,79
+"### || AUTO فصل في زوال الحصر
+",000,False,000,False,False,False,2,62
+"### || AUTO فصل في العدول إلى الصوم عند عدم الهدي
+",000,False,000,False,False,False,2,100
+"### || AUTO فصل في تعذر الهدي والصوم
+",000,False,000,False,False,False,2,36
+"### || AUTO فصل في قضاء المحصر
+",000,False,000,False,False,False,2,190
+"### || AUTO فصل في من ورد الميقات لا يعقل
+",000,False,000,False,False,False,2,475
+"### || AUTO فصل في أوقات الدماء وأماكنها
+",000,False,000,False,False,False,2,467
+"### || AUTO فصل
+",000,False,000,False,False,False,2,978
+"### || AUTO فصل
+",000,False,000,False,False,False,2,58
+"### || AUTO فصل في المصارف
+",000,False,000,False,False,False,2,89
+"### || AUTO فصل
+",000,False,000,False,False,False,2,189
+"### || AUTO فصل في الدماء التي لا بدل لها
+",000,False,000,False,False,False,2,33
+"### || AUTO فصل في أفضل أنواع الحج
+",000,False,000,False,False,False,2,628
+"### || AUTO فصل فيمن نذر بالمشي إلى بيت الله الحرام
+",000,False,000,False,False,False,2,300
+"### || AUTO فصل فيمن نذر بأن يهدي شخصا
+",000,False,000,False,False,False,2,130
+"### || AUTO فصل فيمن ومن نذر بإهداء عبده أو فرسه
+",000,False,000,False,False,False,2,120
+"### || AUTO فصل فيمن نذر بذبح نفسه
+",000,False,000,False,False,False,2,384
+"### || AUTO فصل فيمن جعل ماله في سبيل الله
+",000,False,000,False,False,False,2,295
+"### || AUTO فصل في في الحج عن الميت
+",000,False,000,False,False,False,2,447
+"### || AUTO فصل في امتثال ما عينه الموصي
+",000,False,000,False,False,False,2,495
+"### || AUTO فصل
+",000,False,000,False,False,False,2,241
+"### || AUTO فصل
+",000,False,000,False,False,False,2,67
+"### || AUTO فصل في شروط الأجير
+",000,False,000,False,False,False,2,677
+"### || AUTO فصل في شروط عقد الإجارة
+",000,False,000,False,False,False,2,112
+"### || AUTO فصل في استحقاق الأجرة
+",000,False,000,False,False,False,2,60
+"### || AUTO فصل في سقوط الأجرة
+",000,False,000,False,False,False,2,206
+"### || AUTO فصل في الاستنابة
+",000,False,000,False,False,False,2,254
+"### || AUTO فصل في ما لزم الأجير من الدماء والصدقات
+",000,False,000,False,False,False,2,43
+"### || AUTO فصل في الرد على منكر صحة الإيصاء
+",000,False,000,False,False,False,2,589

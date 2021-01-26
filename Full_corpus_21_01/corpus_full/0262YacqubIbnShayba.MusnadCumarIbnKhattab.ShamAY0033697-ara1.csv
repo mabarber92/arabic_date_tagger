@@ -1,0 +1,69 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO * وأما حديث أهل مكة حديث عمرو بن دينار الذي رواه سفيان بن
+",000,False,000,False,False,False,1,27
+"### | CHECK [وأما حديث حماد بن زيد عن عمرو الذي نقص من إسناده ابن عباس]
+",000,False,000,False,False,False,1,92
+"### | CHECK [وأما حديث أهل الكوفة الذي تفرد به شيبان عن الأعمش ووافق أهل
+",000,False,000,False,False,False,1,230
+"### | CHECK [وأما الحديث الآخر الذي رواه شيبان عن الأعمش عن جامغع بن
+",000,False,000,False,False,False,1,75
+"### | CHECK [وأما حديث عمار بن زريق بمتابعته ما روى شيبان بن عبد الرحمن
+",000,False,000,False,False,False,1,98
+"### | CHECK [وحديثه في يوم حنين أن فلانا قتل شهيدا وقد ذكر الغلول]
+",000,False,000,False,False,False,1,346
+"### | CHECK [وحديثه في حاطب بن أبي بلتعه حين كتب إلى أهل مكة]
+",000,False,000,False,False,False,1,152
+"### | CHECK [وحديثه أن النبي صلى الله عليه وسلم صالح أهل مكة يوم
+",000,False,000,False,False,False,1,239
+"### | AUTO 5 - وحديثه في قصة الأسرى يوم بدر ومشاورة النبي صلى الله عليه
+",000,False,000,False,False,False,1,67
+"### | CHECK [وأما حديث أبي حذيفة عن عكرمة بن عمار الذي اختصره وجعله عن
+",000,False,000,False,False,False,1,264
+"### | CHECK [وأما حديث عبد الله بن المبارك الذي وافق فيه أبي حذيفة وجاء
+",000,False,000,False,False,False,1,887
+"### | AUTO * وأما حديث قراد بموافقته أبا حذيفة، وابن المبارك في الإسناد
+",000,False,000,False,False,False,1,445
+"### | AUTO 6 - وحديثه في اعتزال النبي صلى الله عليه وسلم نساءه
+",000,False,000,False,False,False,1,121
+"### | AUTO 7 - وحديثه عن النبي صلى الله عليه وسلم، أتاني آت من ربي عز
+",000,False,000,False,False,False,1,1170
+"### | AUTO * فأما ما رواه يحيى بن أبي كثير، عن الأوزاعي
+",000,False,000,False,False,False,1,97
+"### | AUTO * وأما ما رواه مالك بن أنس، عنه
+",000,False,000,False,False,False,1,56
+"### | AUTO * وأما ما رواه عنه الثوري
+",000,False,000,False,False,False,1,55
+"### | AUTO * فأما حديث علي بن المبارك
+",000,False,000,False,False,False,1,108
+"### | AUTO * وأما حديث عبد الرحمن الأوزاعي
+",000,False,000,False,False,False,1,75
+"### | CHECK [حديثه أن النبي صلى الله عليه وسلم قال إني ممسك بحجزكم عن النار]
+",000,False,000,False,False,False,1,241
+"### | AUTO * فأما حديث يعقوب القمي
+",000,False,000,False,False,False,1,92
+"### | CHECK [وأما ما رواه أهل المدينة فيه]
+",000,False,000,False,False,False,1,573
+"### | CHECK [وأما حديث أم سلمة]
+",000,False,000,False,False,False,1,237
+"### | AUTO * وأما حديث أسماء ابنة أبي بكر
+",000,False,000,False,False,False,1,87
+"### | CHECK [وحديثه في ليلة القدر]
+",000,False,000,False,False,False,1,236
+"### | CHECK [وأما حديث عبد الله بن ادريس]
+",000,False,000,False,False,False,1,14
+"### | AUTO * فأما حديث زائدة بن قدامة
+",000,False,000,False,False,False,1,101
+"### | CHECK [وأما حديث عبد الواحد بن زياد]
+",000,False,000,False,False,False,1,14
+"### | AUTO * فأما حديث صالح بن عمر
+",000,False,000,False,False,False,1,323
+"### | AUTO 10 - وحديثه في المال الذي كان بين يديه فقال: أما كان هذا عند
+",000,False,000,False,False,False,1,472
+"### | AUTO 11 - وحديثه في العاني
+",000,False,000,False,False,False,1,171
+"### | CHECK [وأما حديث حسين بن عبد الأول الذي زاد في إسناده رجلا]
+",000,False,000,False,False,False,1,24
+"### | CHECK [فأما من رواه عن ابن ادريس عن عاصم عن أبيه عن عمر رضي الله عنه]
+",000,False,000,False,False,False,1,246
+"### | AUTO 12 - وحديثه عن النبي صلى الله عليه وسلم في الصلوات بعد العصر
+",000,False,000,False,False,False,1,127

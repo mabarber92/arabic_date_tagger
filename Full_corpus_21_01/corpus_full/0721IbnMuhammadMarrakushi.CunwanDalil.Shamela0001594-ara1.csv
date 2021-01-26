@@ -1,0 +1,35 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | مقدمة
+",000,False,000,False,False,False,1,834
+"### | باب الهمزة
+",000,False,000,False,False,False,1,73
+"### | فصل إذا كانت الهمزة أول الكلمة
+",000,False,000,False,False,False,1,41
+"### | فصل إذا وقعت الهمزة آخر الكلمة
+",000,False,000,False,False,False,1,1106
+"### | فصل إذا وقعت الهمزة وسطا في الكلمة المفردة أو المركبة
+",000,False,000,False,False,False,1,863
+"### | باب الألف
+",000,False,000,False,False,False,1,41
+"### | فصل في الألف الزائدة
+",000,False,000,False,False,False,1,1139
+"### | فصل في الألف الناقص من الخط
+",000,False,000,False,False,False,1,1378
+"### | فصل في الألف المنقلبة عن الياء أو الواو
+",000,False,000,False,False,False,1,1534
+"### | باب الواو
+",000,False,000,False,False,False,1,24
+"### | فصل في الواو الزائد في الخط
+",000,False,000,False,False,False,1,118
+"### | فصل في الواو الناقصة من الخط
+",000,False,000,False,False,False,1,216
+"### | باب الياء
+",000,False,000,False,False,False,1,28
+"### | فصل في الياء الزائدة
+",000,False,000,False,False,False,1,196
+"### | فصل في الياء الناقصة في الخط
+",000,False,000,False,False,False,1,2145
+"### | باب مد التاءات وقبضها
+",000,False,000,False,False,False,1,1073
+"### | باب الوصل والحجز
+",000,False,000,False,False,False,1,2611

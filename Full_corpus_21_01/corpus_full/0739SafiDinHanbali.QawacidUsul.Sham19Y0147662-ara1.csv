@@ -1,0 +1,77 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK مقدمة المصنف
+",000,False,000,False,False,False,1,105
+"### | CHECK الباب الأول في الحكم ولوازمه
+",000,False,000,False,False,False,1,809
+"### || AUTO الحكم
+",000,False,000,False,False,False,2,3
+"### || AUTO الحكم
+",000,False,000,False,False,False,2,18
+"### || AUTO والحاكم
+",000,False,000,False,False,False,2,18
+"### || AUTO والمحكوم عليه
+",000,False,000,False,False,False,2,6
+"### || AUTO والأحكام قسمان
+",000,False,000,False,False,False,2,755
+"### ||| AUTO [أ] تكليفية، وهي خمسة
+",000,False,000,False,False,False,3,396
+"### |||| AUTO (1) واجب
+",000,False,000,False,False,False,4,182
+"### |||| AUTO (2) ومندوب
+",000,False,000,False,False,False,4,55
+"### |||| AUTO (3) ومحظور
+",000,False,000,False,False,False,4,90
+"### |||| AUTO (4) ومكروه
+",000,False,000,False,False,False,4,16
+"### |||| AUTO (5) ومباح
+",000,False,000,False,False,False,4,48
+"### ||| CHECK [ب] ووضعية، وهي أربعة
+",000,False,000,False,False,False,3,356
+"### |||| AUTO أحدها: ما يظهر به الحكم، وهو نوعان
+",000,False,000,False,False,False,4,161
+"### ||||| AUTO (1) علة
+",000,False,000,False,False,False,5,26
+"### ||||| AUTO (2) وسبب،
+",000,False,000,False,False,False,5,127
+"### |||| AUTO الثاني: الصحيح
+",000,False,000,False,False,False,4,87
+"### |||| AUTO الثالث: المنعقد
+",000,False,000,False,False,False,4,44
+"### |||| AUTO الرابع: العزيمة
+",000,False,000,False,False,False,4,54
+"### | AUTO الباب الثاني
+",000,False,000,False,False,False,1,5433
+"### || AUTO أصل الدلالة
+",000,False,000,False,False,False,2,20
+"### || AUTO والدليل يراد به
+",000,False,000,False,False,False,2,36
+"### || AUTO وأصول الأدلة أربعة
+",000,False,000,False,False,False,2,5372
+"### ||| AUTO الكتاب
+",000,False,000,False,False,False,3,109
+"### ||| AUTO السنة
+",000,year,000,False,False,False,3,2796
+"### ||| AUTO والإجماع
+",000,False,000,False,False,False,3,202
+"### ||| AUTO العقل
+",000,False,000,False,False,False,3,2235
+"### | CHECK الباب الثالث في الاجتهاد والتقليد
+",000,False,000,False,False,False,1,13805
+"### || AUTO الاجتهاد
+",000,False,000,False,False,False,2,3
+"### || AUTO الاجتهاد
+",000,False,000,False,False,False,2,400
+"### ||| AUTO لغة
+",000,False,000,False,False,False,3,7
+"### ||| AUTO وعرفا
+",000,False,000,False,False,False,3,14
+"### ||| AUTO وشرط المجتهد
+",000,False,000,False,False,False,3,377
+"### || AUTO التقليد
+",000,False,000,False,False,False,2,53
+"### ||| AUTO لغة
+",000,False,000,False,False,False,3,20
+"### ||| AUTO اصطلاحا
+",000,False,000,False,False,False,3,31
+"### || AUTO التقليد
+",000,False,000,False,False,False,2,13341

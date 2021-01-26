@@ -1,0 +1,31 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK سورة يوسف عليه السلام
+",000,False,000,False,False,False,1,26944
+"### | AUTO الخاتمة
+",000,False,000,False,False,False,1,931
+"### || AUTO أولا: النتائج التي توصلت إليها عن عصر المؤلف وحياته
+",000,False,000,False,False,False,2,156
+"### || AUTO ثانيا: النتائج التي توصلت إليها عن الكتاب
+",000,False,000,False,False,False,2,565
+"### || AUTO المقترحات
+",000,False,000,False,False,False,2,182
+"### | CHECK الفهارس
+",000,False,000,False,False,False,1,8462
+"### || AUTO فهرس الغريب
+",000,False,000,False,False,False,2,810
+"### || AUTO فهرس الأشعار
+",000,False,000,False,False,False,2,409
+"### || AUTO فهرس الأعلام
+",000,False,000,False,False,False,2,1119
+"### || AUTO فهرس المراجع والمصادر
+",000,False,000,False,False,False,2,6121
+"### | AUTO إقرار
+",000,False,000,False,False,False,1,167
+"### | AUTO ملخص
+",000,False,000,False,False,False,1,44
+"### | AUTO ملخص
+",000,False,000,False,False,False,1,113
+"### | AUTO Abstract
+",000,False,000,False,False,False,1,243
+"### | AUTO شكر وتقدير
+",000,False,000,False,False,False,1,42244

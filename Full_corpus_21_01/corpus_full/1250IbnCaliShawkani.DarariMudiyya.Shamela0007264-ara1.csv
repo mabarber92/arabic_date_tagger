@@ -1,0 +1,303 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | المجلد الأول
+",000,False,000,False,False,False,1,4
+"### | كتاب الطهارة
+",000,False,000,False,False,False,1,4
+"### | باب في أحكام المياه
+",000,False,000,False,False,False,1,8
+"### | اقسام المياه
+",000,False,000,False,False,False,1,2037
+"### | فصل في أحكام النجاسات
+",000,False,000,False,False,False,1,1573
+"### | فصل تطهير النجاسات
+",000,False,000,False,False,False,1,407
+"### | باب قضاء الحاجة
+",000,False,000,False,False,False,1,1066
+"### | باب 
+",000,False,000,False,False,False,1,2
+"### | أحكام الوضوء
+",000,False,000,False,False,False,1,1732
+"### | فصل
+",000,False,000,False,False,False,1,142
+"### | فصل في انتقاض الوضوء
+",000,False,000,False,False,False,1,762
+"### | باب أحكام الغسل ms028
+",000,False,000,False,False,False,1,502
+"### | فصل في كيفية الغسل
+",000,False,000,False,False,False,1,402
+"### | فصل في غسل الجمعة
+",000,False,000,False,False,False,1,618
+"### | باب أحكام التيمم
+",000,False,000,False,False,False,1,886
+"### | باب أحكام الحيض
+",000,False,000,False,False,False,1,684
+"### | فصل في أحكام النفاس
+",000,False,000,False,False,False,1,168
+"### | كتاب الصلاة
+",000,False,000,False,False,False,1,4
+"### | أوقات الصلاة
+",000,False,000,False,False,False,1,789
+"### | باب الأذان
+",000,False,000,False,False,False,1,352
+"### | باب شروط الصلاة
+",000,False,000,False,False,False,1,946
+"### | باب كفيية الصلاة
+",000,False,000,False,False,False,1,6
+"### | كيفية الصلاة
+",000,False,000,False,False,False,1,1778
+"### | فصل في مبطلات الصلاة
+",000,False,000,False,False,False,1,385
+"### | فصل ""من تجب عليهم الصلاة""
+",000,False,000,False,False,False,1,152
+"### | باب صلاة التطوع
+",000,False,000,False,False,False,1,499
+"### | باب صلاة الجماعة
+",000,False,000,False,False,False,1,1439
+"### | باب سجود السهو
+",000,False,000,False,False,False,1,518
+"### | باب القضاء للفوائت
+",000,False,000,False,False,False,1,393
+"### | باب صلاة الجمعة
+",000,False,000,False,False,False,1,1122
+"### | باب صلاة العيدين
+",000,False,000,False,False,False,1,943
+"### | باب صلاة الخوف
+",000,False,000,False,False,False,1,624
+"### | باب صلاة السفر
+",000,False,000,False,False,False,1,942
+"### | باب صلاة الكسوفين
+",000,False,000,False,False,False,1,210
+"### | باب صلاة الاستسقاء
+",000,False,000,False,False,False,1,306
+"### | كتاب الجنائز
+",000,False,000,False,False,False,1,4
+"### | مدخل
+",000,False,000,False,False,False,1,718
+"### | فصل غسل الميت
+",000,False,000,False,False,False,1,352
+"### | فصل تكفين الميت
+",000,False,000,False,False,False,1,332
+"### | فصل في صلاة الجنازة
+",000,False,000,False,False,False,1,1020
+"### | فصل في المشي بالجنازة
+",000,False,000,False,False,False,1,990
+"### | فصل ""دفن الميت""
+",000,False,000,False,False,False,1,1203
+"### | المجلد الثاني
+",000,False,000,False,False,False,1,4
+"### | كتاب الزكاة
+",000,False,000,False,False,False,1,4
+"### | باب زكاة الحيوان
+",000,False,000,False,False,False,1,6
+"### | مدخل
+",000,False,000,False,False,False,1,508
+"### | فصل في زكاة الإبل
+",000,False,000,False,False,False,1,334
+"### | فصل في زكاة البقر
+",000,False,000,False,False,False,1,102
+"### | فصل في زكاة الغنم
+",000,False,000,False,False,False,1,54
+"### | فصل ولا يجمع بين متفرق من الأنعام
+",000,False,000,False,False,False,1,507
+"### | باب زكاة الذهب والفضة
+",000,False,000,False,False,False,1,578
+"### | باب زكاة النبات
+",000,False,000,False,False,False,1,1144
+"### | باب مصارف الزكاة
+",000,False,000,False,False,False,1,337
+"### | باب صدقة الفطر
+",000,False,000,False,False,False,1,483
+"### | كتاب الخمس
+",000,False,000,False,False,False,1,234
+"### | كتاب الصيام
+",000,False,000,False,False,False,1,4
+"### | صيام رمضان
+",000,False,000,False,False,False,1,4
+"### | مدخل
+",000,False,000,False,False,False,1,673
+"### | فصل في ذكر مبطلات الصوم
+",000,False,000,False,False,False,1,471
+"### | فصل في وجوب القضاء ورخصة الفطر للمسافر
+",000,False,000,False,False,False,1,572
+"### | باب صوم التطوع
+",000,False,000,False,False,False,1,794
+"### | باب الاعتكاف
+",000,False,000,False,False,False,1,460
+"### | كتاب 
+",000,False,000,False,False,False,1,2
+"### | الحج
+",000,False,000,False,False,False,1,3
+"### | مدخل
+",000,False,000,False,False,False,1,270
+"### | فصل في وجوب تعيين الحج بالنية
+",000,False,000,False,False,False,1,498
+"### | فصل في محظورات الإحرام
+",000,False,000,False,False,False,1,974
+"### | فصل في ما يجب عمله أثناء الطواف
+",000,False,000,False,False,False,1,775
+"### | فصل في وجوب السعي بين الصفا والمروة
+",000,False,000,False,False,False,1,309
+"### | فصل في بيان مناسك الحج
+",000,False,000,False,False,False,1,1340
+"### | فصل في بيان أفضل أنواع الهدي
+",000,False,000,False,False,False,1,463
+"### | باب العمرة المفردة
+",000,False,000,False,False,False,1,223
+"### | كتاب النكاح
+",000,False,000,False,False,False,1,4
+"### | مشروعيته
+",000,False,000,False,False,False,1,1419
+"### | فصل في بيان أن نكاح المتعة منسوخ والتحليل حرام
+",000,False,000,False,False,False,1,1893
+"### | فصل في بيان وجوب المهر وكراهة المغالاة فيه
+",000,False,000,False,False,False,1,1514
+"### | فصل: والولد للفراش ولا عبرة بشبهه بغير صاحبه
+",000,False,000,False,False,False,1,259
+"### | كتاب 
+",000,False,000,False,False,False,1,2
+"### | الطلاق
+",000,False,000,False,False,False,1,3
+"### | *
+",000,False,000,False,False,False,1,720
+"### | فصل في بيان أنه إذا طلق الرجل امرأته فهو أحق برجعتها
+",000,False,000,False,False,False,1,603
+"### | باب الخلع
+",000,False,000,False,False,False,1,558
+"### | باب الايلاء
+",000,False,000,False,False,False,1,253
+"### | باب 
+",000,False,000,False,False,False,1,2
+"### | الظهار
+",000,False,000,False,False,False,1,499
+"### | فصل في اللعان
+",000,False,000,False,False,False,1,354
+"### | باب 
+",000,False,000,False,False,False,1,2
+"### | العدة والإحداد
+",000,False,000,False,False,False,1,1037
+"### | فصل في الترهيب في وطء السبايا
+",000,False,000,False,False,False,1,418
+"### | باب ما جاء في النفقة
+",000,False,000,False,False,False,1,823
+"### | باب ما جاء في الرضاع
+",000,False,000,False,False,False,1,615
+"### | باب الحضانة
+",000,False,000,False,False,False,1,624
+"### | كتاب 
+",000,False,000,False,False,False,1,2
+"### | البيع
+",000,False,000,False,False,False,1,2258
+"### | باب ما جاء في الربا
+",000,False,000,False,False,False,1,1223
+"### | باب الخيارات
+",000,False,000,False,False,False,1,918
+"### | باب السلم
+",000,False,000,False,False,False,1,281
+"### | باب القرض
+",000,False,000,False,False,False,1,357
+"### | كتاب الشفعة
+",000,False,000,False,False,False,1,499
+"### | كتاب 
+",000,False,000,False,False,False,1,2
+"### | الإجارة
+",000,False,000,False,False,False,1,1416
+"### | باب ما جاء في الإحياء والأقطاع
+",000,False,000,False,False,False,1,398
+"### | كتاب الشركة
+",000,False,000,False,False,False,1,1125
+"### | كتاب الرهن
+",000,False,000,False,False,False,1,354
+"### | كتاب الوديعة والعارية
+",000,False,000,False,False,False,1,461
+"### | كتاب الغصب
+",000,False,000,False,False,False,1,569
+"### | كتاب العتق
+",000,False,000,False,False,False,1,1691
+"### | كتاب الوقف
+",000,False,000,False,False,False,1,852
+"### | كتاب الهدايا
+",000,False,000,False,False,False,1,962
+"### | كتاب الهبات
+",000,False,000,False,False,False,1,490
+"### | كتاب الأيمان
+",000,False,000,False,False,False,1,854
+"### | كتاب النذر
+",000,False,000,False,False,False,1,1124
+"### | كتاب الأطعمة
+",000,False,000,False,False,False,1,4
+"### | مدخل
+",000,False,000,False,False,False,1,965
+"### | باب ما جاء في الصيد
+",000,False,000,False,False,False,1,841
+"### | باب الذبح
+",000,False,000,False,False,False,1,892
+"### | باب ما جاء في الضيافة
+",000,False,000,False,False,False,1,710
+"### | باب آداب الأكل
+",000,False,000,False,False,False,1,556
+"### | كتاب الأشربة
+",000,False,000,False,False,False,1,1647
+"### | كتاب اللباس
+",000,False,000,False,False,False,1,937
+"### | كتاب الأضحية
+",000,False,000,False,False,False,1,4
+"### | الاضحية
+",000,False,000,False,False,False,1,1017
+"### | باب الوليمة
+",000,False,000,False,False,False,1,4
+"### | فصل ماجاء في العقيقة
+",000,False,000,False,False,False,1,1034
+"### | كتاب الطب
+",000,False,000,False,False,False,1,924
+"### | كتاب الوكالة
+",000,False,000,False,False,False,1,507
+"### | كتاب الضمانة
+",000,False,000,False,False,False,1,318
+"### | كتاب الصلح
+",000,False,000,False,False,False,1,504
+"### | كتاب الحوالة
+",000,False,000,False,False,False,1,154
+"### | كتاب المفلس
+",000,False,000,False,False,False,1,1176
+"### | كتاب اللقطة
+",000,False,000,False,False,False,1,698
+"### | كتاب القضاء
+",000,False,000,False,False,False,1,1841
+"### | كتاب الخصومة
+",000,False,000,False,False,False,1,1816
+"### | كتاب الحدود
+",000,False,000,False,False,False,1,4
+"### | باب حد الزنى
+",000,False,000,False,False,False,1,2562
+"### | باب ما جاء حد السرقة
+",000,False,000,False,False,False,1,1196
+"### | باب حد القذف
+",000,False,000,False,False,False,1,773
+"### | باب ما جاء في حد المحارب
+",000,False,000,False,False,False,1,460
+"### | باب من يستحق القتل حدا
+",000,False,000,False,False,False,1,925
+"### | كتاب القصاص
+",000,False,000,False,False,False,1,1811
+"### | كتاب الديات
+",000,False,000,False,False,False,1,4
+"### | مقدار الدية
+",000,False,000,False,False,False,1,1815
+"### | باب القسامة
+",000,False,000,False,False,False,1,678
+"### | كتاب الوصية
+",000,False,000,False,False,False,1,902
+"### | كتاب المواريث
+",000,False,000,False,False,False,1,2660
+"### | كتاب الجهاد والسير
+",000,False,000,False,False,False,1,6
+"### | مدخل
+",000,False,000,False,False,False,1,2588
+"### | فصل في تقسيم الغنائم
+",000,False,000,False,False,False,1,2075
+"### | فصل في استرقاق العرب وعدمه
+",000,False,000,False,False,False,1,1912
+"### | فصل في قتال البغاة حتى يعودوا إلى الحق
+",000,False,000,False,False,False,1,485
+"### | فصل في وجوب طاعة الإمام
+",000,False,000,False,False,False,1,840

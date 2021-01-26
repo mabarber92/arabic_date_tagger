@@ -1,0 +1,13 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | 
+",000,False,000,False,False,False,1,28
+"### | [المقدمة العامة]
+",000,False,000,False,False,False,1,750
+"### | [المقدمة الخاصة]
+",000,False,000,False,False,False,1,206
+"### | | [الوجة الاول]
+",000,False,000,False,False,False,1,1070
+"### | [الوجة الثاني]
+",000,False,000,False,False,False,1,1794
+"### | [الوجة الرابع] 
+",000,False,000,False,False,False,1,2668

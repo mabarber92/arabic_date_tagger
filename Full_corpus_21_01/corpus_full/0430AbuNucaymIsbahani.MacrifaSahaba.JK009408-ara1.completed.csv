@@ -1,0 +1,743 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | ( معرفة فرق ما بين المهاجرين والأنصار )
+",000,False,000,False,False,False,1,107
+"### | ( معرفة المهاجرين الأولين وفرق ما بين غيرهم من المهاجرين )
+",000,False,000,False,False,False,1,257
+"### | ( معرفة السبب الذي انقطعت به الهجرة )
+",000,False,000,False,False,False,1,115
+"### | ( ذكر معرفة هجرة الحبشة وفضل أهلها )
+",000,False,000,False,False,False,1,154
+"### | ( معرفة فضيلة أهل بدر وما خصوا به )
+",000,False,000,False,False,False,1,252
+"### | ( معرفة عدد من شهد بدرا من الصحابة )
+",000,False,000,False,False,False,1,100
+"### | ( معرفة عدد من شهد الحديبية واختلاف الروايات في الأعداد )
+",000,False,000,False,False,False,1,288
+"### | ( معرفة فضيلة أهل الحديبية )
+",000,False,000,False,False,False,1,168
+"### | ( معرفة أن قريشا صفوة الله من العرب وما خصوا به من المنقبة )
+",000,False,000,False,False,False,1,250
+"### | ( معرفة فضيلة القرن الذي بعث فيهم رسول الله صلى الله عليه وسلم )
+",000,False,000,False,False,False,1,387
+"### | ( معرفة فضيلة من صاحب النبي صلى الله عليه وسلم وشاهده والاستنصار بهم وبمن رآهم واستنقاذ من تابعهم من النار )
+",000,False,000,False,False,False,1,346
+"### | ( معرفة أن الصحابة هم أمان الأمة من نزول العذاب بهم )
+",000,False,000,False,False,False,1,211
+"### | ( معرفة أن من مات من الصحابة بأرض يكون قائدهم وشفيعهم في القيامة )
+",000,False,000,False,False,False,1,132
+"### | ( معرفة أمر النبي صلى الله عليه وسلم أمته بإكرام أصحابه وحرمة من تبعهم واقتدى بهم )
+",000,False,000,False,False,False,1,324
+"### | ( معرفة اطلاع الله - عز وجل - قلوب الصحابة فاستخلصهم لوزارة نبيه ونصرة دينه )
+",000,False,000,False,False,False,1,103
+"### | ( معرفة كثرة الصحابة ووفور عددهم )
+",000,False,000,False,False,False,1,277
+"### | ( معرفة العشرة المشهود لهم بالجنة )
+",000,False,000,False,False,False,1,36315
+"### || ( [ 1 ] معرفة نسبة الصديق العتيق أبي بكر ومولده ووفاته )
+",000,False,000,False,False,False,2,4376
+"### ||| ( وسماه الرسول صلى الله عليه وسلم صديقا كما سماه عتيقا )
+",000,False,000,False,False,False,3,430
+"### ||| ( معرفة أن الصديق كان أول الناس إسلاما وأفضلهم إيمانا )
+",000,False,000,False,False,False,3,391
+"### ||| ( معرفة صفته وصورته )
+",000,False,000,False,False,False,3,317
+"### ||| ( معرفة سنه ومولده وعلته ووفاته وغسله ودفنه وكفنه )
+",000,year,000,False,False,False,3,2323
+"### |||| واختلف في وقت موته :
+",000,False,000,False,False,False,4,22
+"### |||| واختلف في مدة ولايته :
+",000,False,000,False,False,False,4,117
+"### |||| واختلف في ms0022 كفنه : 
+",000,False,000,False,False,False,4,22
+"### |||| وخلف من أولاده أربعة :
+",000,False,000,False,False,False,4,1851
+"### ||| ( معرفة ما أسند الصديق رضي الله عنه عن رسول الله صلى الله عليه وسلم )
+",000,False,000,False,False,False,3,426
+"### || ( [ 2 ] معرفة نسبة الفاروق رضي الله عنه ومعرفة مدة ولايته ووفاته وسنه
+",000,False,000,False,False,False,2,5172
+"### ||| واختلف في مدة ولايته : 
+",000,False,000,False,False,False,3,318
+"### ||| واختلف في سنه :
+",000,year,000,False,False,False,3,757
+"### ||| ( معرفة الشهر واليوم الذي قتل فيه ومن غسله وكفنه وصلى عليه )
+",000,False,000,False,False,False,3,378
+"### ||| ( معرفة صفة عمر - رضي الله عنه - وخلقه )
+",000,False,000,False,False,False,3,858
+"### |||| واختلف في خضابه فقيل : خضب وقيل : لم يخضب : 
+",000,False,000,False,False,False,4,427
+"### ||||| ذكر من قال : لم يخضب : 
+",000,False,000,False,False,False,5,204
+"### ||| ( معرفة صفات الفاروق وأسمائه المشتقة من أحواله )
+",000,False,000,False,False,False,3,1776
+"### ||| ( معرفة أنه أول من سمي أمير المؤمنين ومعرفة من خلف من أولاده )
+",000,False,000,False,False,False,3,315
+"### ||| ( معرفة ما أسند عن النبي صلى الله عليه وسلم )
+",000,False,000,False,False,False,3,527
+"### || ( [ 3 ] معرفة نسبة عثمان بن عفان - رضي الله عنه -
+",000,False,000,False,False,False,2,4812
+"### ||| ( معرفة خلقه وخلقه رضي الله عنه )
+",000,False,000,False,False,False,3,614
+"### |||| واختلف في خضابه وشيبه : 
+",000,False,000,False,False,False,4,137
+"### ||| ( معرفة أنه كان ممن صلى القبلتين وهاجر الهجرتين وكان اسمه : ذا النورين وقتل مظلوما فأوتي من الأجر كفلين رضي الله عنه )
+",000,False,000,False,False,False,3,458
+"### ||| ( معرفة سنه وولايته وقتله والصلاة عليه ودفنه )
+",000,year,000,False,False,False,3,2635
+"### |||| اختلف في سنه : 
+",000,year,000,False,False,False,4,49
+"### |||| واختلف في اسم قاتله :
+",000,False,000,False,False,False,4,175
+"### |||| واختلف في نقش خاتمه فقيل :
+",000,False,000,False,False,False,4,27
+"### |||| * خلف من الأولاد
+",000,False,000,False,False,False,4,2403
+"### ||| ( معرفة ما أسند عثمان بن عفان رضي الله عنه عن النبي صلى الله عليه وسلم )
+",000,False,000,False,False,False,3,878
+"### || ( [ 4 ] معرفة نسبة علي بن أبي طالب رضي الله عنه ( 2 )
+",000,False,000,False,False,False,2,4906
+"### ||| ( معرفة صفته رضي الله عنه )
+",000,False,000,False,False,False,3,671
+"### ||| ( معرفة سنه حين أسلم وحين قتل ومدة ولايته وغسله وكفنه ودفنه )
+",000,year,000,False,False,False,3,963
+"### ||| ( معرفة إعلام النبي صلى الله عليه وسلم إياه أنه مقتول ) 
+",000,False,000,False,False,False,3,1640
+"### ||| ( معرفة ما أسند أمير المؤمنين عن النبي صلى الله عليه وسلم )
+",000,False,000,False,False,False,3,954
+"### || ( [ 5 ] معرفة طلحة بن عبيد الله أبو محمد التيمي وكنيته ونسبته وصفته وسنه ووفاته رضي الله عنه
+",000,False,000,False,False,False,2,2804
+"### |||  ذكر صفاته :
+",000,False,000,False,False,False,3,458
+"### ||| ومن أساميه المشتقة من أحواله وأفعاله : الخير والفياض والجود والصبيح والمليح والفصيح : 
+",000,False,000,False,False,False,3,381
+"### ||| ( معرفة سنه ووفاته رضي الله عنه )
+",000,year,000,False,False,False,3,544
+"### ||| ( معرفة ما أسند طلحة بن عبيد الله رضي الله عنه عن النبي صلى الله عليه وسلم )
+",000,False,000,False,False,False,3,1066
+"### || ( [ 6 ] معرفة الزبير بن العوام وكنيته ونسبه وصفته وسنه ووفاته رضي اله عنه)
+",000,False,000,False,False,False,2,3156
+"### ||| ( ومن أسمائه المشتقة من أحواله الحواري والجاد والمفدى بالأبوين وركن الدين وعمود الإسلام )
+",000,False,000,False,False,False,3,877
+"### ||| ( معرفة ما أسند الزبير بن العوام عن النبي صلى الله عليه وسلم )
+",000,False,000,False,False,False,3,1000
+"### || ( [ 7 ] معرفة عبد الرحمن بن عوف الزهري ونسبته وكنيته وصفته وسنه ووفاته )
+",000,False,000,False,False,False,2,3568
+"### ||| معرفة سنة وفاته : 
+",000,year,000,False,False,False,3,358
+"### ||| ومن أساميه المشتقة من أحواله :
+",000,False,000,False,False,False,3,942
+"### ||| خلف من الولد ثمانية عشر ذكرا ومن الإناث واحدة .
+",000,False,000,False,False,False,3,271
+"### ||| ( معرفة ما أسند عبد الرحمن بن عوف عن النبي صلى الله عليه وسلم )
+",000,False,000,False,False,False,3,1326
+"### || ( [ 8 ] معرفة سعد بن أبي وقاص وكنيته ونسبته وصفته وسنه ووفاته )
+",000,False,000,False,False,False,2,3016
+"### ||| ( ومن أساميه : سابع السبعة وثلث الإسلام والمفدى بالأبوين والمجاب الدعوة والحارث والخال )
+",000,False,000,False,False,False,3,789
+"### ||| ( معرفة ما أسند سعد بن أبي وقاص عن النبي صلى الله عليه وسلم )
+",000,False,000,False,False,False,3,1088
+"### || ( [ 9 ] معرفة سعيد بن زيد بن عمرو بن نفيل وكنيته ونسبته وصفته وسنة وفاته )
+",000,False,000,False,False,False,2,2091
+"### ||| ( معرفة ما أسند سعيد بن زيد عن رسول الله صلى الله عليه وسلم )
+",000,False,000,False,False,False,3,1003
+"### || ( [ 10 ] معرفة أبي عبيدة بن الجراح واسمه ونسبته وصفته وسنة وفاته )
+",000,False,000,False,False,False,2,2021
+"### ||| ( معرفة ما أسند أبو عبيدة بن الجراح عن النبي صلى الله عليه وسلم )
+",000,False,000,False,False,False,3,1006
+"### | ( معرفة من اسمه محمد ممن صحب الرسول صلى الله عليه وسلم وله عنه رواية أو رؤية أو أدرك أيامه )
+",000,False,000,False,False,False,1,8526
+"### | ( ذكر من اسمه محمد وذكرهم بعض الرواة في جملة الصحابة واهما فيهم فمنهم : )
+",000,False,000,False,False,False,1,3440
+"### | ( حرف الألف )
+",000,False,000,False,False,False,1,39695
+"### || 
+",000,False,000,False,False,False,2,1866
+"### || ( ذكر من اسمه أحمد من الصحابة رضي الله عنهم )
+",000,False,000,False,False,False,2,294
+"### || ( ذكر من اسمه أبي فمنهم : )
+",000,False,000,False,False,False,2,2218
+"### || ( من اسمه أسامة فمنهم : )
+",000,False,000,False,False,False,2,1535
+"### || ( من اسمه أنس )
+",000,False,000,False,False,False,2,4106
+"### || ( من اسمه أنيس )
+",000,False,000,False,False,False,2,1198
+"### || ( وممن اسمه أسلم )
+",000,False,000,False,False,False,2,1574
+"### || ( من اسمه أسيد )
+",000,False,000,False,False,False,2,2634
+"### || 
+",000,False,000,False,False,False,2,306
+"### || 
+",000,False,000,False,False,False,2,2159
+"### || ( من اسمه أسعد )
+",000,False,000,False,False,False,2,1229
+"### || ( باب من اسمه أشعث )
+",000,False,000,False,False,False,2,584
+"### || ( باب من اسمه أهبان )
+",000,False,000,False,False,False,2,576
+"### || ( باب من اسمه إياس )
+",000,False,000,False,False,False,2,2136
+"### || ( باب من اسمه أمية )
+",000,False,000,False,False,False,2,751
+"### || ( باب من اسمه أوس )
+",000,False,000,False,False,False,2,3823
+"### || ( باب أيمن )
+",000,False,000,False,False,False,2,752
+"### || ( باب الأرقم )
+",000,False,000,False,False,False,2,788
+"### || 
+",000,False,000,False,False,False,2,11254
+"### | ( باب الباء )
+",000,False,000,False,False,False,1,15777
+"### || ( من اسمه بلال )
+",000,False,000,False,False,False,2,1604
+"### || ( من اسمه البراء )
+",000,False,000,False,False,False,2,1939
+"### || ( باب بشر )
+",000,False,000,False,False,False,2,2201
+"### || ( من اسمه بشير )
+",000,False,000,False,False,False,2,3131
+"### || ( من اسمه بسر )
+",000,False,000,False,False,False,2,1147
+"### || 
+",000,False,000,False,False,False,2,214
+"### || 
+",000,False,000,False,False,False,2,634
+"### || 
+",000,False,000,False,False,False,2,804
+"### || 
+",000,False,000,False,False,False,2,4150
+"### | ( باب التاء )
+",000,False,000,False,False,False,1,2935
+"### | ( باب الثاء )
+",000,False,000,False,False,False,1,9854
+"### | باب الجيم
+",000,False,000,False,False,False,1,28388
+"### || باب من اسمه جابر
+",000,False,000,False,False,False,2,5677
+"### || [ من اسمه جندب ] ( * ) . |
+",000,False,000,False,False,False,2,6638
+"### || 
+",000,False,000,False,False,False,2,12412
+"### | باب الحاء
+",000,False,000,False,False,False,1,50970
+"### || من اسمه الحسن
+",000,False,000,False,False,False,2,1769
+"### || 
+",000,False,000,False,False,False,2,7376
+"### || من اسمه حاطب ( ) ) .
+",000,False,000,False,False,False,2,467
+"### || من اسمه حويطب. 
+",000,False,000,False,False,False,2,435
+"### || [ من اسمه حكيم ]
+",000,False,000,False,False,False,2,1453
+"### || من اسمه الحكم
+",000,False,000,False,False,False,2,3672
+"### || 
+",000,False,000,False,False,False,2,1799
+"### || 
+",000,False,000,False,False,False,2,2415
+"### || من اسمه الحارث
+",000,False,000,False,False,False,2,14000
+"### || من اسمه حريث
+",000,False,000,False,False,False,2,840
+"### || 
+",000,False,000,False,False,False,2,2575
+"### || [ باب ] من اسمه حصين
+",000,False,000,False,False,False,2,2192
+"### || 
+",000,False,000,False,False,False,2,1738
+"### || 
+",000,False,000,False,False,False,2,10305
+"### | باب الخاء
+",000,False,000,False,False,False,1,20613
+"### || من اسمه خالد :
+",000,False,000,False,False,False,2,8492
+"### || [ باب من اسمه خارجة ]
+",000,False,000,False,False,False,2,1429
+"### || 
+",000,False,000,False,False,False,2,6614
+"### | باب الدال
+",000,False,000,False,False,False,1,2751
+"### | باب : الذال
+",000,False,000,False,False,False,1,3850
+"### || من اسمه ذؤيب
+",000,False,000,False,False,False,2,743
+"### || 
+",000,False,000,False,False,False,2,3115
+"### | باب الراء
+",000,False,000,False,False,False,1,18820
+"### || [ باب ] من اسمه رفاعة
+",000,False,000,False,False,False,2,3079
+"### || [ باب من اسمه ربيعة ]
+",000,False,000,False,False,False,2,3782
+"### || 
+",000,False,000,False,False,False,2,5887
+"### | باب الزاي
+",000,False,000,False,False,False,1,23083
+"### || من اسمه : الزبير
+",000,False,000,False,False,False,2,321
+"### || [ من اسمه زيد ] 
+",000,False,000,False,False,False,2,15279
+"### || [ باب ] من اسمه زياد ) .
+",000,False,000,False,False,False,2,3509
+"### || من اسمه زهير
+",000,False,000,False,False,False,2,1475
+"### || 
+",000,False,000,False,False,False,2,2499
+"### | باب السين
+",000,False,000,False,False,False,1,48659
+"### || من اسمه سعد
+",000,False,000,False,False,False,2,12225
+"### || من اسمه سعيد
+",000,False,000,False,False,False,2,3048
+"### || 
+",000,False,000,False,False,False,2,3606
+"### || 
+",000,False,000,False,False,False,2,1294
+"### || 
+",000,False,000,False,False,False,2,2191
+"### || من اسمه : [ سلمة ]
+",000,False,000,False,False,False,2,4801
+"### || 
+",000,False,000,False,False,False,2,598
+"### || 
+",000,False,000,False,False,False,2,1512
+"### || من اسمه : سليم
+",000,False,000,False,False,False,2,565
+"### || 
+",000,False,000,False,False,False,2,3185
+"### || من اسمه سفيان
+",000,False,000,False,False,False,2,1590
+"### || 
+",000,False,000,False,False,False,2,14055
+"### | باب الشين
+",000,False,000,False,False,False,1,8440
+"### || من اسمه شداد
+",000,False,000,False,False,False,2,965
+"### || 
+",000,False,000,False,False,False,2,7484
+"### | باب الصاد
+",000,False,000,False,False,False,1,8985
+"### | باب الضاد
+",000,False,000,False,False,False,1,3437
+"### | باب الطاء
+",000,False,000,False,False,False,1,6490
+"### || من اسمه طلحة
+",000,False,000,False,False,False,2,1224
+"### || 
+",000,False,000,False,False,False,2,5268
+"### | باب الظاء
+",000,False,000,False,False,False,1,710
+"### | باب العين
+",000,False,000,False,False,False,1,148866
+"### || 
+",000,False,000,False,False,False,2,50715
+"### ||| باب الألف من باب العين
+",000,False,000,False,False,False,3,2803
+"### ||| باب الباء من باب العين
+",000,False,000,False,False,False,3,1084
+"### ||| باب التاء
+",000,False,000,False,False,False,3,10
+"### ||| باب الثاء من باب العين
+",000,False,000,False,False,False,3,954
+"### ||| باب الجيم من باب العين
+",000,False,000,False,False,False,3,2328
+"### ||| باب الحاء من باب العين
+",000,False,000,False,False,False,3,3267
+"### ||| باب الخاء من باب العين
+",000,False,000,False,False,False,3,1043
+"### ||| باب الدال من باب العين
+",000,False,000,False,False,False,3,296
+"### ||| باب الذال من باب العين
+",000,False,000,False,False,False,3,326
+"### ||| باب الراء من باب العين
+",000,False,000,False,False,False,3,2062
+"### ||| باب الزاي من باب العين
+",000,False,000,False,False,False,3,4426
+"### ||| باب السين من باب العين
+",000,False,000,False,False,False,3,4132
+"### ||| باب الشين من باب العين
+",000,False,000,False,False,False,3,706
+"### ||| باب الصاد من باب العين
+",000,False,000,False,False,False,3,322
+"### ||| باب الضاد من باب العين
+",000,False,000,False,False,False,3,194
+"### ||| باب الطاء من باب العين
+",000,False,000,False,False,False,3,276
+"### ||| باب العين من باب العين
+",000,False,000,False,False,False,3,13099
+"### ||| باب الغين من باب العين
+",000,False,000,False,False,False,3,282
+"### ||| باب الفاء من باب العين
+",000,False,000,False,False,False,3,38
+"### ||| باب القاف من باب العين
+",000,False,000,False,False,False,3,2750
+"### ||| باب الكاف من باب العين
+",000,False,000,False,False,False,3,938
+"### ||| باب الميم من باب العين
+",000,False,000,False,False,False,3,6426
+"### ||| باب النون من باب العين
+",000,False,000,False,False,False,3,495
+"### ||| باب الواو من باب العين
+",000,False,000,False,False,False,3,397
+"### ||| باب الهاء من باب العين
+",000,False,000,False,False,False,3,702
+"### ||| باب الياء من باب العين
+",000,False,000,False,False,False,3,513
+"### ||| 
+",000,False,000,False,False,False,3,800
+"### || من اسمه عبد الرحمن
+",000,False,000,False,False,False,2,13292
+"### || من اسمه عبيد الله
+",000,False,000,False,False,False,2,6167
+"### || من اسمه عبيد
+",000,False,000,False,False,False,2,2945
+"### || ومن اسمه عبيدة
+",000,False,000,False,False,False,2,879
+"### || من اسمه عبادة
+",000,False,000,False,False,False,2,1810
+"### || من اسمه عباد
+",000,False,000,False,False,False,2,2325
+"### || من اسمه عمر
+",000,False,000,False,False,False,2,3153
+"### || من اسمه عثمان
+",000,False,000,False,False,False,2,4174
+"### || من اسمه علي
+",000,False,000,False,False,False,2,2068
+"### || من اسمه عمرو
+",000,False,000,False,False,False,2,16804
+"### || من اسمه عامر
+",000,False,000,False,False,False,2,4924
+"### || 
+",000,False,000,False,False,False,2,1303
+"### || 
+",000,False,000,False,False,False,2,1806
+"### || من اسمه عمير
+",000,False,000,False,False,False,2,4532
+"### || من اسمه عويمر
+",000,False,000,False,False,False,2,1184
+"### || [ من اسمه عمران ]
+",000,False,000,False,False,False,2,2286
+"### || [ من اسمه العباس ]
+",000,False,000,False,False,False,2,1268
+"### || [ من اسمه عتبة ]
+",000,False,000,False,False,False,2,2878
+"### || [ من اسمه عاصم ]
+",000,False,000,False,False,False,2,1146
+"### || 
+",000,False,000,False,False,False,2,5819
+"### || [ من اسمه علقمة ]
+",000,False,000,False,False,False,2,1894
+"### || من اسمه عروة
+",000,False,000,False,False,False,2,1498
+"### || [ من اسمه عدي ]
+",000,False,000,False,False,False,2,1679
+"### || من اسمه العلاء
+",000,False,000,False,False,False,2,916
+"### || [ من اسمه عوف ]
+",000,False,000,False,False,False,2,1379
+"### || من اسمه عطاء
+",000,False,000,False,False,False,2,279
+"### || [ من اسمه عطية ]
+",000,False,000,False,False,False,2,1243
+"### || 
+",000,False,000,False,False,False,2,8632
+"### | باب الغين
+",000,False,000,False,False,False,1,2275
+"### | باب الفاء
+",000,False,000,False,False,False,1,4452
+"### | باب القاف
+",000,False,000,False,False,False,1,12180
+"### || [ من اسمه قتادة ]
+",000,False,000,False,False,False,2,979
+"### || 
+",000,False,000,False,False,False,2,4687
+"### | باب الكاف
+",000,False,000,False,False,False,1,10100
+"### | باب اللام
+",000,False,000,False,False,False,1,2564
+"### | باب الميم
+",000,False,000,False,False,False,1,57270
+"### || [ من اسمه معاذ ]
+",000,False,000,False,False,False,2,3311
+"### || [ من اسمه مالك ]
+",000,False,000,False,False,False,2,6388
+"### || ( [ من اسمه مسلم ] )
+",000,False,000,False,False,False,2,1463
+"### || ( [ من اسمه : مسلمة ] )
+",000,False,000,False,False,False,2,335
+"### || ( [ من اسمه : معاوية ] )
+",000,False,000,False,False,False,2,2366
+"### || ( [ من اسمه معقل ] )
+",000,False,000,False,False,False,2,888
+"### || 
+",000,False,000,False,False,False,2,4792
+"### || ( [ من اسمه : مجمع ] )
+",000,False,000,False,False,False,2,397
+"### || 
+",000,False,000,False,False,False,2,19729
+"### || ( باب النون )
+",000,False,000,False,False,False,2,11794
+"### || ( باب الواو )
+",000,False,000,False,False,False,2,5833
+"### ||| ( وذكر بعض المتأخرين : )
+",000,False,000,False,False,False,3,1616
+"### | ( باب الهاء )
+",000,False,000,False,False,False,1,6934
+"### || ( من اسمه : هشام )
+",000,False,000,False,False,False,2,1258
+"### || 
+",000,False,000,False,False,False,2,5686
+"### | ( [ حرف ] لام ألف )
+",000,False,000,False,False,False,1,208
+"### | ( باب الياء )
+",000,False,000,False,False,False,1,9069
+"### || ( [ من اسمه يزيد ] )
+",000,False,000,False,False,False,2,4817
+"### || ( من اسمه يعلى )
+",000,False,000,False,False,False,2,806
+"### || ( [ باب ] من اسمه يسار )
+",000,False,000,False,False,False,2,1179
+"### || 
+",000,False,000,False,False,False,2,2286
+"### | ( [ باب الكنى ] ) ( ذكر من عرف بالكنية من الصحابة واشتهر بها )
+",000,False,000,False,False,False,1,36781
+"### || ( [ باب الألف ] )
+",000,False,000,False,False,False,2,1783
+"### || ( [ باب الباء ] )
+",000,False,000,False,False,False,2,861
+"### || ( [ باب التاء ] )
+",000,False,000,False,False,False,2,270
+"### || ( [ باب الثاء ] )
+",000,False,000,False,False,False,2,794
+"### || ( [ باب الجيم ] )
+",000,False,000,False,False,False,2,2214
+"### || ( باب الحاء )
+",000,False,000,False,False,False,2,2033
+"### || ( [ باب الخاء ] )
+",000,False,000,False,False,False,2,1326
+"### || ( باب الدال )
+",000,False,000,False,False,False,2,461
+"### || ( باب الذال )
+",000,False,000,False,False,False,2,155
+"### || ( باب الراء )
+",000,False,000,False,False,False,2,1851
+"### || ( باب الزاي )
+",000,False,000,False,False,False,2,1444
+"### || ( باب السين [ 2 / 262 ق / أ ] )
+",000,False,000,False,False,False,2,3542
+"### || ( [ باب الشين ] )
+",000,False,000,False,False,False,2,1169
+"### || ( باب الصاد )
+",000,False,000,False,False,False,2,828
+"### || ( باب الضاد )
+",000,False,000,False,False,False,2,613
+"### || ( باب الطاء )
+",000,False,000,False,False,False,2,617
+"### || ( باب الظاء )
+",000,False,000,False,False,False,2,59
+"### || ( باب العين )
+",000,False,000,False,False,False,2,5467
+"### || باب الغين
+",000,False,000,False,False,False,2,483
+"### || باب الفاء
+",000,False,000,False,False,False,2,898
+"### || باب القاف
+",000,False,000,False,False,False,2,1268
+"### || باب الكاف
+",000,False,000,False,False,False,2,383
+"### || باب اللام
+",000,False,000,False,False,False,2,555
+"### || [ باب الميم ]
+",000,False,000,False,False,False,2,4996
+"### || باب النون
+",000,False,000,False,False,False,2,700
+"### || باب الواو
+",000,False,000,False,False,False,2,788
+"### || [ باب الهاء ]
+",000,False,000,False,False,False,2,771
+"### || [ باب لام الألف ]
+",000,False,000,False,False,False,2,132
+"### || [ باب الياء ]
+",000,False,000,False,False,False,2,416
+"### | ذكر من [ عرف ] بالآباء دون أسمائهم وذكر لهم صحبة
+",000,False,000,False,False,False,1,2528
+"### | ذكر المعروفين بالأبناء ولم يذكر آباؤهم
+",000,False,000,False,False,False,1,1629
+"### | ذكر من روى عن عمه ولم يسمه ولم ينسبه
+",000,False,000,False,False,False,1,1451
+"### | ( ذكر من روي عنه من الأنصار ولم يسموا ) |
+",000,False,000,False,False,False,1,2631
+"### | ( ذكر المنسوبين إلى القبائل من دون الأسامي والأنساب 
+",000,False,000,False,False,False,1,14602
+"### || ذكر الجهينيين )
+",000,False,000,False,False,False,2,742
+"### || ( ومن بني سليم )
+",000,False,000,False,False,False,2,560
+"### || ( ذكر [ من ] ( ( 1 ) ) روى عن النبي صلى الله عليه وسلم من بني غفار
+",000,False,000,False,False,False,2,797
+"### || ( [ باب الألف ]
+",000,False,000,False,False,False,2,946
+"### || 
+",000,False,000,False,False,False,2,221
+"### || 
+",000,False,000,False,False,False,2,254
+"### || 
+",000,False,000,False,False,False,2,404
+"### || 
+",000,False,000,False,False,False,2,668
+"### || ( [ حرف الخاء ] )
+",000,False,000,False,False,False,2,145
+"### || ( [ حرف الدال ] )
+",000,False,000,False,False,False,2,62
+"### || 
+",000,False,000,False,False,False,2,60
+"### || 
+",000,False,000,False,False,False,2,366
+"### || ( [ حرف الزاي ] )
+",000,False,000,False,False,False,2,438
+"### || ( [ حرف السين ] )
+",000,False,000,False,False,False,2,609
+"### || ( [ حرف الشين ] )
+",000,False,000,False,False,False,2,536
+"### || ( [ حرف الطاء ] )
+",000,False,000,False,False,False,2,193
+"### || ( [ باب العين ] )
+",000,False,000,False,False,False,2,3817
+"### || ( [ باب القاف ] )
+",000,False,000,False,False,False,2,279
+"### || ( [ حرف الكاف ] )
+",000,False,000,False,False,False,2,133
+"### || ( [ حرف الميم ] )
+",000,False,000,False,False,False,2,1601
+"### || ( [ حرف النون ] )
+",000,False,000,False,False,False,2,281
+"### || ( [ حرف الواو ] )
+",000,False,000,False,False,False,2,166
+"### || ( [ حرف الياء ] )
+",000,False,000,False,False,False,2,580
+"### || ( [ الكنى ] )
+",000,False,000,False,False,False,2,808
+"### | ذكر الصحابيات من البنات والزوجات وغيرهن ، ما انتهى إلينا من مسند النساء اللاتي روين عن رسول الله صلى الله عليه وسلم وصحبنه أو رأينه
+",000,False,000,False,False,False,1,78100
+"### || ( ذكر أزواجه اللاتي عقد عليهن وفارقهن بطلاق أو سراح فمنهن : 
+",000,False,000,False,False,False,2,1388
+"### || ( ذكر من خطبهن ولم يعقد عليهن )
+",000,False,000,False,False,False,2,252
+"### || ( ذكر المخيرات من أزواجه )
+",000,False,000,False,False,False,2,262
+"### || ( [ 3763 ] ذكر المرجئات من أزواجه )
+",000,False,000,False,False,False,2,64
+"### || ( [ 3763 ] ذكر اللاتي توفي النبي صلى الله عليه وسلم عنهن من أزواجه )
+",000,False,000,False,False,False,2,1020
+"### || ( ذكر عماته صلى الله عليه وسلم منهن :
+",000,False,000,False,False,False,2,742
+"### || ( باب الألف )
+",000,False,000,False,False,False,2,3865
+"### || ( باب الباء )
+",000,False,000,False,False,False,2,1821
+"### || ( باب التاء )
+",000,False,000,False,False,False,2,358
+"### || ( باب الثاء )
+",000,False,000,False,False,False,2,86
+"### || ( باب الجيم )
+",000,False,000,False,False,False,2,1330
+"### || ( باب الحاء )
+",000,False,000,False,False,False,2,2350
+"### || ( باب الخاء ) |
+",000,False,000,False,False,False,2,4021
+"### || ( باب الدال )
+",000,False,000,False,False,False,2,564
+"### || ( باب الذال )
+",000,False,000,False,False,False,2,78
+"### || ( باب الراء )
+",000,False,000,False,False,False,2,1837
+"### || ( باب الزاي )
+",000,False,000,False,False,False,2,1700
+"### || ( باب السين )
+",000,False,000,False,False,False,2,4913
+"### || ( باب الشين )
+",000,False,000,False,False,False,2,1116
+"### || ( باب الصاد )
+",000,False,000,False,False,False,2,1191
+"### || ( باب الضاد )
+",000,False,000,False,False,False,2,1328
+"### || ( باب الطاء )
+",000,False,000,False,False,False,2,135
+"### || باب الظاء
+",000,False,000,False,False,False,2,96
+"### || ( باب العين )
+",000,False,000,False,False,False,2,2597
+"### || ( باب الغين )
+",000,False,000,False,False,False,2,211
+"### || ( باب الفاء ) |
+",000,False,000,False,False,False,2,3789
+"### || ( باب القاف )
+",000,False,000,False,False,False,2,854
+"### || ( باب الكاف )
+",000,False,000,False,False,False,2,485
+"### || ( باب اللام )
+",000,False,000,False,False,False,2,1176
+"### || ( باب الميم )
+",000,False,000,False,False,False,2,2472
+"### || ( باب النون )
+",000,False,000,False,False,False,2,786
+"### || ( [ باب الهاء ] )
+",000,False,000,False,False,False,2,716
+"### || ( [ باب الياء ] )
+",000,False,000,False,False,False,2,72
+"### || ( باب ذكر المكنيات من النساء والمختلف في اساميهن [ 2 372 ق أ ] )
+",000,False,000,False,False,False,2,18982
+"### ||| ( باب الألف )
+",000,False,000,False,False,False,3,951
+"### ||| ( [ باب الباء ] )
+",000,False,000,False,False,False,3,406
+"### ||| ( باب الجيم )
+",000,False,000,False,False,False,3,527
+"### ||| [ باب الحاء ] )
+",000,False,000,False,False,False,3,2122
+"### ||| ( [ باب الخاء ] )
+",000,False,000,False,False,False,3,1077
+"### ||| ( باب الدال )
+",000,False,000,False,False,False,3,271
+"### ||| ( باب الذال )
+",000,False,000,False,False,False,3,63
+"### ||| ( باب الراء )
+",000,False,000,False,False,False,3,500
+"### ||| ( باب الزاي )
+",000,False,000,False,False,False,3,373
+"### ||| ( باب السين )
+",000,False,000,False,False,False,3,2572
+"### ||| ( [ باب الشين ] )
+",000,False,000,False,False,False,3,666
+"### ||| ( [ باب الصاد ] )
+",000,False,000,False,False,False,3,198
+"### ||| ( [ باب الضاد ] )
+",000,False,000,False,False,False,3,163
+"### ||| ( [ باب الطاء ] )
+",000,False,000,False,False,False,3,313
+"### ||| ( باب العين )
+",000,False,000,False,False,False,3,3119
+"### ||| ( [ باب الغين ] )
+",000,False,000,False,False,False,3,149
+"### ||| ( [ باب الفاء ] )
+",000,False,000,False,False,False,3,295
+"### ||| ( [ باب القاف ] )
+",000,False,000,False,False,False,3,293
+"### ||| ( باب الكاف )
+",000,False,000,False,False,False,3,1363
+"### ||| ( [ باب اللام ] )
+",000,False,000,False,False,False,3,162
+"### ||| ( [ باب الميم ] )
+",000,False,000,False,False,False,3,2417
+"### ||| ( [ باب النون ] )
+",000,False,000,False,False,False,3,180
+"### ||| ( [ باب الواو ] )
+",000,False,000,False,False,False,3,211
+"### ||| ( [ باب الهاء ] )
+",000,False,000,False,False,False,3,511
+"### ||| ( [ باب الياء ] )
+",000,False,000,False,False,False,3,148
+"### || ( ذكر جماعة من النساء غير مسميات لهن صحبة من النبي صلى الله عليه وسلم ورؤية وروين عنه عليه الصلاة السلام منهن )
+",000,False,000,False,False,False,2,2899

@@ -1,0 +1,11 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | 
+",000,False,000,False,False,False,1,3074
+"### || ذكر خلافة القادر بالله بن إسحاق بن المقتدر وما لخص من سيرته
+",000,False,000,False,False,False,2,3076
+"### ||| ذكر سنة اثنين وثمانين وثلاث مئة
+",382,year,000,False,382,-382,3,305
+"### ||| ذكر سنة أربع وثمانين وثلاث مئة
+",384,year,000,False,384,-384,3,206
+"### ||| ذكر سنة خمس وثمانين وثلاث مئة
+",385,year,000,False,385,-385,3,170

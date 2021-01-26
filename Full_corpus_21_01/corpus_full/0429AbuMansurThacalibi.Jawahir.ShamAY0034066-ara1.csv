@@ -1,0 +1,1883 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK [سورة الفاتحة]
+",000,False,000,False,False,False,1,2518
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,480
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,274
+"### || CHECK [آية 4]
+",000,False,000,False,False,False,2,1002
+"### || CHECK [آية 5]
+",000,False,000,False,False,False,2,763
+"### | CHECK [سورة البقرة]
+",000,False,000,False,False,False,1,54637
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,265
+"### || CHECK [آية 4]
+",000,False,000,False,False,False,2,251
+"### || CHECK [آية 7]
+",000,False,000,False,False,False,2,251
+"### || CHECK [آية 11]
+",000,False,000,False,False,False,2,261
+"### || CHECK [آية 14]
+",000,False,000,False,False,False,2,252
+"### || CHECK [آية 18]
+",000,False,000,False,False,False,2,267
+"### || CHECK [آية 19]
+",000,False,000,False,False,False,2,255
+"### || CHECK [آية 20]
+",000,False,000,False,False,False,2,262
+"### || CHECK [آية 22]
+",000,False,000,False,False,False,2,6507
+"### || CHECK [آية 24]
+",000,False,000,False,False,False,2,8771
+"### || CHECK [آية 26]
+",000,False,000,False,False,False,2,555
+"### || CHECK [آية 27]
+",000,False,000,False,False,False,2,2363
+"### || CHECK [آية 29]
+",000,False,000,False,False,False,2,244
+"### || CHECK [آية 32]
+",000,False,000,False,False,False,2,511
+"### || CHECK [آية 33]
+",000,False,000,False,False,False,2,517
+"### || CHECK [آية 60]
+",000,False,000,False,False,False,2,504
+"### || CHECK [آية 61]
+",000,False,000,False,False,False,2,5150
+"### || CHECK [آية 70]
+",000,False,000,False,False,False,2,6428
+"### || CHECK [آية 74]
+",000,False,000,False,False,False,2,8219
+"### || CHECK [آية 75]
+",000,False,000,False,False,False,2,2652
+"### || CHECK [آية 76]
+",000,False,000,False,False,False,2,2121
+"### || CHECK [آية 78]
+",000,False,000,False,False,False,2,1065
+"### || CHECK [آية 79]
+",000,False,000,False,False,False,2,6287
+"### || CHECK [آية 81]
+",000,False,000,False,False,False,2,270
+"### || CHECK [آية 109]
+",000,False,000,False,False,False,2,280
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,152
+"### | AUTO سورة آل عمران بسم الله الرحمن الرحيم
+",000,False,000,False,False,False,1,27789
+"### || CHECK [آية 3]
+",000,False,000,False,False,False,2,2065
+"### || CHECK [آية 4]
+",000,False,000,False,False,False,2,5814
+"### || CHECK [آية 5]
+",000,False,000,False,False,False,2,9797
+"### || CHECK [آية 6]
+",000,False,000,False,False,False,2,7644
+"### || CHECK [آية 7]
+",000,False,000,False,False,False,2,1026
+"### || CHECK [آية 16]
+",000,False,000,False,False,False,2,264
+"### || CHECK [آية 18]
+",000,False,000,False,False,False,2,281
+"### || CHECK [آية 99]
+",000,False,000,False,False,False,2,499
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### | AUTO أهلها الآية وفي البخاري عن عائشة رضي الله عنها أنها قالت ما
+",000,False,000,False,False,False,1,23599
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,255
+"### || CHECK [آية 3]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 4]
+",000,False,000,False,False,False,2,257
+"### || CHECK [آية 6]
+",000,False,000,False,False,False,2,258
+"### || CHECK [آية 8]
+",000,False,000,False,False,False,2,258
+"### || CHECK [آية 10]
+",000,False,000,False,False,False,2,525
+"### || CHECK [آية 12]
+",000,False,000,False,False,False,2,283
+"### || CHECK [آية 13]
+",000,False,000,False,False,False,2,262
+"### || CHECK [آية 17]
+",000,False,000,False,False,False,2,526
+"### || CHECK [آية 18]
+",000,False,000,False,False,False,2,274
+"### || CHECK [آية 20]
+",000,False,000,False,False,False,2,265
+"### || CHECK [آية 22]
+",000,False,000,False,False,False,2,267
+"### || CHECK [آية 23]
+",000,False,000,False,False,False,2,264
+"### || CHECK [آية 24]
+",000,False,000,False,False,False,2,264
+"### || CHECK [آية 25]
+",000,False,000,False,False,False,2,521
+"### || CHECK [آية 26]
+",000,False,000,False,False,False,2,264
+"### || CHECK [آية 30]
+",000,False,000,False,False,False,2,273
+"### || CHECK [آية 31]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 33]
+",000,False,000,False,False,False,2,495
+"### || CHECK [آية 35]
+",000,False,000,False,False,False,2,265
+"### || CHECK [آية 36]
+",000,False,000,False,False,False,2,254
+"### || CHECK [آية 37]
+",000,False,000,False,False,False,2,259
+"### || CHECK [آية 39]
+",000,False,000,False,False,False,2,541
+"### || CHECK [آية 41]
+",000,False,000,False,False,False,2,267
+"### || CHECK [آية 43]
+",000,False,000,False,False,False,2,266
+"### || CHECK [آية 44]
+",000,False,000,False,False,False,2,252
+"### || CHECK [آية 46]
+",000,False,000,False,False,False,2,536
+"### || CHECK [آية 49]
+",000,False,000,False,False,False,2,264
+"### || CHECK [آية 53]
+",000,False,000,False,False,False,2,258
+"### || CHECK [آية 55]
+",000,False,000,False,False,False,2,287
+"### || CHECK [آية 58]
+",000,False,000,False,False,False,2,281
+"### || CHECK [آية 59]
+",000,False,000,False,False,False,2,272
+"### || CHECK [آية 60]
+",000,False,000,False,False,False,2,268
+"### || CHECK [آية 61]
+",000,False,000,False,False,False,2,261
+"### || CHECK [آية 65]
+",000,False,000,False,False,False,2,266
+"### || CHECK [آية 69]
+",000,False,000,False,False,False,2,277
+"### || CHECK [آية 70]
+",000,False,000,False,False,False,2,250
+"### || CHECK [آية 75]
+",000,False,000,False,False,False,2,247
+"### || CHECK [آية 77]
+",000,False,000,False,False,False,2,530
+"### || CHECK [آية 78]
+",000,False,000,False,False,False,2,266
+"### || CHECK [آية 81]
+",000,False,000,False,False,False,2,526
+"### || CHECK [آية 84]
+",000,False,000,False,False,False,2,263
+"### || CHECK [آية 86]
+",000,False,000,False,False,False,2,264
+"### || CHECK [آية 89]
+",000,False,000,False,False,False,2,256
+"### || CHECK [آية 91]
+",000,False,000,False,False,False,2,259
+"### || CHECK [آية 92]
+",000,False,000,False,False,False,2,272
+"### || CHECK [آية 93]
+",000,False,000,False,False,False,2,268
+"### || CHECK [آية 94]
+",000,False,000,False,False,False,2,261
+"### || CHECK [آية 95]
+",000,False,000,False,False,False,2,523
+"### || CHECK [آية 97]
+",000,False,000,False,False,False,2,255
+"### || CHECK [آية 98]
+",000,False,000,False,False,False,2,256
+"### || CHECK [آية 101]
+",000,False,000,False,False,False,2,257
+"### || CHECK [آية 102]
+",000,False,000,False,False,False,2,253
+"### || CHECK [آية 103]
+",000,False,000,False,False,False,2,255
+"### || CHECK [آية 104]
+",000,False,000,False,False,False,2,530
+"### || CHECK [آية 106]
+",000,False,000,False,False,False,2,247
+"### || CHECK [آية 108]
+",000,False,000,False,False,False,2,2315
+"### || CHECK [آية 111]
+",000,False,000,False,False,False,2,996
+"### || CHECK [آية 113]
+",000,False,000,False,False,False,2,2086
+"### || CHECK [آية 123]
+",000,False,000,False,False,False,2,278
+"### || CHECK [آية 153]
+",000,False,000,False,False,False,2,261
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,114
+"### | AUTO سورة المائدة
+",000,False,000,False,False,False,1,17535
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,520
+"### || CHECK [آية 3]
+",000,False,000,False,False,False,2,1080
+"### || CHECK [آية 4]
+",000,False,000,False,False,False,2,497
+"### || CHECK [آية 5]
+",000,False,000,False,False,False,2,1035
+"### || CHECK [آية 7]
+",000,False,000,False,False,False,2,270
+"### || CHECK [آية 13]
+",000,False,000,False,False,False,2,249
+"### || CHECK [آية 15]
+",000,False,000,False,False,False,2,541
+"### || CHECK [آية 17]
+",000,False,000,False,False,False,2,1571
+"### || CHECK [آية 21]
+",000,False,000,False,False,False,2,9308
+"### || CHECK [آية 23]
+",000,False,000,False,False,False,2,767
+"### || CHECK [آية 32]
+",000,False,000,False,False,False,2,803
+"### || CHECK [آية 40]
+",000,False,000,False,False,False,2,507
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### | AUTO بالتسبيح قلت وعن جابر بن عبد الله قال لما نزلت سورة الأنعام
+",000,False,000,False,False,False,1,18230
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,265
+"### || CHECK [آية 4]
+",000,False,000,False,False,False,2,261
+"### || CHECK [آية 7]
+",000,False,000,False,False,False,2,263
+"### || CHECK [آية 11]
+",000,False,000,False,False,False,2,265
+"### || CHECK [آية 13]
+",000,False,000,False,False,False,2,272
+"### || CHECK [آية 19]
+",000,False,000,False,False,False,2,274
+"### || CHECK [آية 20]
+",000,False,000,False,False,False,2,259
+"### || CHECK [آية 25]
+",000,False,000,False,False,False,2,251
+"### || CHECK [آية 28]
+",000,False,000,False,False,False,2,532
+"### || CHECK [آية 32]
+",000,False,000,False,False,False,2,273
+"### || CHECK [آية 34]
+",000,False,000,False,False,False,2,260
+"### || CHECK [آية 36]
+",000,False,000,False,False,False,2,263
+"### || CHECK [آية 38]
+",000,False,000,False,False,False,2,266
+"### || CHECK [آية 39]
+",000,False,000,False,False,False,2,258
+"### || CHECK [آية 44]
+",000,False,000,False,False,False,2,270
+"### || CHECK [آية 48]
+",000,False,000,False,False,False,2,498
+"### || CHECK [آية 54]
+",000,False,000,False,False,False,2,263
+"### || CHECK [آية 55]
+",000,False,000,False,False,False,2,259
+"### || CHECK [آية 56]
+",000,False,000,False,False,False,2,258
+"### || CHECK [آية 59]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 60]
+",000,False,000,False,False,False,2,261
+"### || CHECK [آية 62]
+",000,False,000,False,False,False,2,266
+"### || CHECK [آية 66]
+",000,False,000,False,False,False,2,259
+"### || CHECK [آية 69]
+",000,False,000,False,False,False,2,258
+"### || CHECK [آية 70]
+",000,False,000,False,False,False,2,261
+"### || CHECK [آية 71]
+",000,False,000,False,False,False,2,270
+"### || CHECK [آية 73]
+",000,False,000,False,False,False,2,254
+"### || CHECK [آية 76]
+",000,False,000,False,False,False,2,525
+"### || CHECK [آية 78]
+",000,False,000,False,False,False,2,262
+"### || CHECK [آية 80]
+",000,False,000,False,False,False,2,253
+"### || CHECK [آية 84]
+",000,False,000,False,False,False,2,3608
+"### || CHECK [آية 88]
+",000,False,000,False,False,False,2,1555
+"### || CHECK [آية 91]
+",000,False,000,False,False,False,2,3086
+"### || CHECK [آية 102]
+",000,False,000,False,False,False,2,262
+"### || CHECK [آية 159]
+",000,False,000,False,False,False,2,267
+"### || CHECK [آية 163]
+",000,False,000,False,False,False,2,263
+"### || CHECK [آية 165]
+",000,False,000,False,False,False,2,309
+"### | CHECK [سورة الأعراف]
+",000,False,000,False,False,False,1,20638
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,183
+"### || CHECK [آية 5]
+",000,False,000,False,False,False,2,276
+"### || CHECK [آية 7]
+",000,False,000,False,False,False,2,289
+"### || CHECK [آية 10]
+",000,False,000,False,False,False,2,242
+"### || CHECK [آية 16]
+",000,False,000,False,False,False,2,278
+"### || CHECK [آية 17]
+",000,False,000,False,False,False,2,264
+"### || CHECK [آية 19]
+",000,False,000,False,False,False,2,522
+"### || CHECK [آية 22]
+",000,False,000,False,False,False,2,805
+"### || CHECK [آية 28]
+",000,False,000,False,False,False,2,280
+"### || CHECK [آية 32]
+",000,False,000,False,False,False,2,558
+"### || CHECK [آية 34]
+",000,False,000,False,False,False,2,276
+"### || CHECK [آية 38]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 39]
+",000,False,000,False,False,False,2,267
+"### || CHECK [آية 41]
+",000,False,000,False,False,False,2,275
+"### || CHECK [آية 46]
+",000,False,000,False,False,False,2,267
+"### || CHECK [آية 47]
+",000,False,000,False,False,False,2,264
+"### || CHECK [آية 50]
+",000,False,000,False,False,False,2,273
+"### || CHECK [آية 54]
+",000,False,000,False,False,False,2,535
+"### || CHECK [آية 56]
+",000,False,000,False,False,False,2,253
+"### || CHECK [آية 58]
+",000,False,000,False,False,False,2,1830
+"### || CHECK [آية 59]
+",000,False,000,False,False,False,2,1289
+"### || CHECK [آية 62]
+",000,False,000,False,False,False,2,1861
+"### || CHECK [آية 70]
+",000,False,000,False,False,False,2,6246
+"### || CHECK [آية 71]
+",000,False,000,False,False,False,2,1053
+"### || CHECK [آية 73]
+",000,False,000,False,False,False,2,1036
+"### || CHECK [آية 105]
+",000,False,000,False,False,False,2,258
+"### || CHECK [آية 158]
+",000,False,000,False,False,False,2,711
+"### | CHECK [سورة الأنفال]
+",000,False,000,False,False,False,1,9061
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,515
+"### || CHECK [آية 5]
+",000,False,000,False,False,False,2,256
+"### || CHECK [آية 7]
+",000,False,000,False,False,False,2,282
+"### || CHECK [آية 8]
+",000,False,000,False,False,False,2,274
+"### || CHECK [آية 10]
+",000,False,000,False,False,False,2,521
+"### || CHECK [آية 12]
+",000,False,000,False,False,False,2,247
+"### || CHECK [آية 16]
+",000,False,000,False,False,False,2,264
+"### || CHECK [آية 19]
+",000,False,000,False,False,False,2,533
+"### || CHECK [آية 25]
+",000,False,000,False,False,False,2,256
+"### || CHECK [آية 28]
+",000,False,000,False,False,False,2,262
+"### || CHECK [آية 31]
+",000,False,000,False,False,False,2,272
+"### || CHECK [آية 32]
+",000,False,000,False,False,False,2,285
+"### || CHECK [آية 33]
+",000,False,000,False,False,False,2,275
+"### || CHECK [آية 36]
+",000,False,000,False,False,False,2,274
+"### || CHECK [آية 38]
+",000,False,000,False,False,False,2,275
+"### || CHECK [آية 42]
+",000,False,000,False,False,False,2,268
+"### || CHECK [آية 43]
+",000,False,000,False,False,False,2,275
+"### || CHECK [آية 44]
+",000,False,000,False,False,False,2,263
+"### || CHECK [آية 45]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 48]
+",000,False,000,False,False,False,2,278
+"### || CHECK [آية 49]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 56]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 58]
+",000,False,000,False,False,False,2,552
+"### || CHECK [آية 61]
+",000,False,000,False,False,False,2,274
+"### || CHECK [آية 64]
+",000,False,000,False,False,False,2,282
+"### || CHECK [آية 66]
+",000,False,000,False,False,False,2,278
+"### || CHECK [آية 68]
+",000,False,000,False,False,False,2,277
+"### || CHECK [آية 71]
+",000,False,000,False,False,False,2,272
+"### || CHECK [آية 73]
+",000,False,000,False,False,False,2,470
+"### | CHECK [سورة التوبة]
+",000,False,000,False,False,False,1,14110
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,545
+"### || CHECK [آية 4]
+",000,False,000,False,False,False,2,258
+"### || CHECK [آية 12]
+",000,False,000,False,False,False,2,266
+"### || CHECK [آية 14]
+",000,False,000,False,False,False,2,260
+"### || CHECK [آية 16]
+",000,False,000,False,False,False,2,277
+"### || CHECK [آية 19]
+",000,False,000,False,False,False,2,267
+"### || CHECK [آية 23]
+",000,False,000,False,False,False,2,520
+"### || CHECK [آية 26]
+",000,False,000,False,False,False,2,788
+"### || CHECK [آية 27]
+",000,False,000,False,False,False,2,6863
+"### || CHECK [آية 28]
+",000,False,000,False,False,False,2,3235
+"### || CHECK [آية 33]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 108]
+",000,False,000,False,False,False,2,254
+"### || CHECK [آية 126]
+",000,False,000,False,False,False,2,272
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,48
+"### | AUTO تفسير سورة يونس عليه السلام
+",000,False,000,False,False,False,1,7367
+"### || CHECK [آية 3]
+",000,False,000,False,False,False,2,264
+"### || CHECK [آية 6]
+",000,False,000,False,False,False,2,250
+"### || CHECK [آية 9]
+",000,False,000,False,False,False,2,266
+"### || CHECK [آية 11]
+",000,False,000,False,False,False,2,251
+"### || CHECK [آية 12]
+",000,False,000,False,False,False,2,279
+"### || CHECK [آية 17]
+",000,False,000,False,False,False,2,265
+"### || CHECK [آية 22]
+",000,False,000,False,False,False,2,267
+"### || CHECK [آية 25]
+",000,False,000,False,False,False,2,263
+"### || CHECK [آية 28]
+",000,False,000,False,False,False,2,781
+"### || CHECK [آية 30]
+",000,False,000,False,False,False,2,3186
+"### || CHECK [آية 37]
+",000,False,000,False,False,False,2,279
+"### || CHECK [آية 57]
+",000,False,000,False,False,False,2,537
+"### || CHECK [آية 67]
+",000,False,000,False,False,False,2,274
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,64
+"### | AUTO تفسير سورة هود عليه السلام مكية إلا نحو ثلاث آيات
+",000,False,000,False,False,False,1,7395
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,1072
+"### || CHECK [آية 6]
+",000,False,000,False,False,False,2,3160
+"### || CHECK [آية 7]
+",000,False,000,False,False,False,2,1073
+"### || CHECK [آية 17]
+",000,False,000,False,False,False,2,282
+"### || CHECK [آية 111]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,59
+"### | AUTO تفسير سورة يوسف عليه السلام
+",000,False,000,False,False,False,1,10108
+"### || CHECK [آية 4]
+",000,False,000,False,False,False,2,264
+"### || CHECK [آية 8]
+",000,False,000,False,False,False,2,8366
+"### || CHECK [آية 15]
+",000,False,000,False,False,False,2,284
+"### || CHECK [آية 58]
+",000,False,000,False,False,False,2,802
+"### || CHECK [آية 79]
+",000,False,000,False,False,False,2,240
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,15
+"### | AUTO تفسير سورة الرعد
+",000,False,000,False,False,False,1,3091
+"### || CHECK [آية 3]
+",000,False,000,False,False,False,2,257
+"### || CHECK [آية 5]
+",000,False,000,False,False,False,2,263
+"### || CHECK [آية 7]
+",000,False,000,False,False,False,2,274
+"### || CHECK [آية 12]
+",000,False,000,False,False,False,2,279
+"### || CHECK [آية 14]
+",000,False,000,False,False,False,2,261
+"### || CHECK [آية 16]
+",000,False,000,False,False,False,2,263
+"### || CHECK [آية 18]
+",000,False,000,False,False,False,2,266
+"### || CHECK [آية 24]
+",000,False,000,False,False,False,2,264
+"### || CHECK [آية 30]
+",000,False,000,False,False,False,2,280
+"### || CHECK [آية 33]
+",000,False,000,False,False,False,2,490
+"### | CHECK [سورة إبراهيم]
+",000,False,000,False,False,False,1,3834
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,2330
+"### || CHECK [آية 8]
+",000,False,000,False,False,False,2,784
+"### || CHECK [آية 11]
+",000,False,000,False,False,False,2,266
+"### || CHECK [آية 44]
+",000,False,000,False,False,False,2,455
+"### | CHECK [سورة الحجر]
+",000,False,000,False,False,False,1,3263
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,277
+"### || CHECK [آية 12]
+",000,False,000,False,False,False,2,256
+"### || CHECK [آية 18]
+",000,False,000,False,False,False,2,270
+"### || CHECK [آية 23]
+",000,False,000,False,False,False,2,263
+"### || CHECK [آية 27]
+",000,False,000,False,False,False,2,262
+"### || CHECK [آية 39]
+",000,False,000,False,False,False,2,263
+"### || CHECK [آية 49]
+",000,False,000,False,False,False,2,258
+"### || CHECK [آية 63]
+",000,False,000,False,False,False,2,274
+"### || CHECK [آية 68]
+",000,False,000,False,False,False,2,240
+"### || CHECK [آية 82]
+",000,False,000,False,False,False,2,252
+"### || CHECK [آية 88]
+",000,False,000,False,False,False,2,282
+"### || CHECK [آية 90]
+",000,False,000,False,False,False,2,265
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,114
+"### | AUTO تفسير سورة النحل وهي مكية غير آيات يسيرة يأتي بيانها إن شاء الله
+",000,False,000,False,False,False,1,6780
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,270
+"### || CHECK [آية 7]
+",000,False,000,False,False,False,2,807
+"### || CHECK [آية 10]
+",000,False,000,False,False,False,2,2130
+"### || CHECK [آية 14]
+",000,False,000,False,False,False,2,1857
+"### || CHECK [آية 27]
+",000,False,000,False,False,False,2,266
+"### || CHECK [آية 41]
+",000,False,000,False,False,False,2,1071
+"### || CHECK [آية 45]
+",000,False,000,False,False,False,2,273
+"### | CHECK [سورة الإسراء]
+",000,False,000,False,False,False,1,10173
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,219
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 4]
+",000,False,000,False,False,False,2,274
+"### || CHECK [آية 6]
+",000,False,000,False,False,False,2,274
+"### || CHECK [آية 7]
+",000,False,000,False,False,False,2,268
+"### || CHECK [آية 11]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 13]
+",000,False,000,False,False,False,2,278
+"### || CHECK [آية 16]
+",000,False,000,False,False,False,2,270
+"### || CHECK [آية 18]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 23]
+",000,False,000,False,False,False,2,557
+"### || CHECK [آية 26]
+",000,False,000,False,False,False,2,281
+"### || CHECK [آية 30]
+",000,False,000,False,False,False,2,282
+"### || CHECK [آية 36]
+",000,False,000,False,False,False,2,268
+"### || CHECK [آية 37]
+",000,False,000,False,False,False,2,242
+"### || CHECK [آية 39]
+",000,False,000,False,False,False,2,3081
+"### || CHECK [آية 40]
+",000,False,000,False,False,False,2,1875
+"### || CHECK [آية 45]
+",000,False,000,False,False,False,2,791
+"### || CHECK [آية 58]
+",000,False,000,False,False,False,2,411
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### | AUTO الخدري أن النبي صلى الله عليه وسلم قال من قرأ سورة الكهف كما
+",000,False,000,False,False,False,1,9047
+"### || CHECK [آية 5]
+",000,False,000,False,False,False,2,1044
+"### || CHECK [آية 6]
+",000,False,000,False,False,False,2,4247
+"### || CHECK [آية 7]
+",000,False,000,False,False,False,2,861
+"### || CHECK [آية 15]
+",000,False,000,False,False,False,2,2145
+"### || CHECK [آية 21]
+",000,False,000,False,False,False,2,291
+"### || CHECK [آية 45]
+",000,False,000,False,False,False,2,184
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,15
+"### | AUTO تفسير سورة مريم عليها السلام
+",000,False,000,False,False,False,1,5677
+"### || CHECK [آية 4]
+",000,False,000,False,False,False,2,274
+"### || CHECK [آية 7]
+",000,False,000,False,False,False,2,284
+"### || CHECK [آية 13]
+",000,False,000,False,False,False,2,272
+"### || CHECK [آية 23]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 25]
+",000,False,000,False,False,False,2,3235
+"### || CHECK [آية 27]
+",000,False,000,False,False,False,2,563
+"### || CHECK [آية 30]
+",000,False,000,False,False,False,2,307
+"### || CHECK [آية 97]
+",000,False,000,False,False,False,2,312
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,32
+"### | AUTO تفسير سورة طه وهي مكية بسم الله الرحمن الرحيم
+",000,False,000,False,False,False,1,6388
+"### || CHECK [آية 3]
+",000,False,000,False,False,False,2,1643
+"### || CHECK [آية 6]
+",000,False,000,False,False,False,2,4278
+"### || CHECK [آية 22]
+",000,False,000,False,False,False,2,280
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,47
+"### | AUTO سورة الأنبياء عيهم الصلاة والسلام مكية بإجماع
+",000,False,000,False,False,False,1,5792
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,239
+"### || CHECK [آية 4]
+",000,False,000,False,False,False,2,492
+"### || CHECK [آية 9]
+",000,False,000,False,False,False,2,249
+"### || CHECK [آية 19]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 26]
+",000,False,000,False,False,False,2,1821
+"### || CHECK [آية 31]
+",000,False,000,False,False,False,2,255
+"### || CHECK [آية 42]
+",000,False,000,False,False,False,2,244
+"### || CHECK [آية 75]
+",000,False,000,False,False,False,2,279
+"### || CHECK [آية 87]
+",000,False,000,False,False,False,2,544
+"### || CHECK [آية 88]
+",000,False,000,False,False,False,2,265
+"### || CHECK [آية 92]
+",000,False,000,False,False,False,2,259
+"### || CHECK [آية 98]
+",000,False,000,False,False,False,2,262
+"### || CHECK [آية 101]
+",000,False,000,False,False,False,2,267
+"### || CHECK [آية 107]
+",000,False,000,False,False,False,2,209
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### | AUTO تفسير سورة الحج وهى مكية
+",000,False,000,False,False,False,1,5712
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,276
+"### || CHECK [آية 5]
+",000,False,000,False,False,False,2,283
+"### || CHECK [آية 9]
+",000,False,000,False,False,False,2,263
+"### || CHECK [آية 12]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 18]
+",000,False,000,False,False,False,2,267
+"### || CHECK [آية 22]
+",000,False,000,False,False,False,2,274
+"### || CHECK [آية 25]
+",000,False,000,False,False,False,2,276
+"### || CHECK [آية 28]
+",000,False,000,False,False,False,2,257
+"### || CHECK [آية 30]
+",000,False,000,False,False,False,2,259
+"### || CHECK [آية 32]
+",000,False,000,False,False,False,2,268
+"### || CHECK [آية 34]
+",000,False,000,False,False,False,2,261
+"### || CHECK [آية 37]
+",000,False,000,False,False,False,2,263
+"### || CHECK [آية 39]
+",000,False,000,False,False,False,2,262
+"### || CHECK [آية 41]
+",000,False,000,False,False,False,2,257
+"### || CHECK [آية 47]
+",000,False,000,False,False,False,2,529
+"### || CHECK [آية 53]
+",000,False,000,False,False,False,2,272
+"### || CHECK [آية 64]
+",000,False,000,False,False,False,2,522
+"### || CHECK [آية 70]
+",000,False,000,False,False,False,2,479
+"### | CHECK [سورة المؤمنون]
+",000,False,000,False,False,False,1,4645
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,206
+"### || CHECK [آية 3]
+",000,False,000,False,False,False,2,272
+"### || CHECK [آية 14]
+",000,False,000,False,False,False,2,3530
+"### || CHECK [آية 16]
+",000,False,000,False,False,False,2,268
+"### || CHECK [آية 27]
+",000,False,000,False,False,False,2,279
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,93
+"### | AUTO تفسير سورة النور وهى مدنية
+",000,False,000,False,False,False,1,6108
+"### || CHECK [آية 3]
+",000,False,000,False,False,False,2,264
+"### || CHECK [آية 6]
+",000,False,000,False,False,False,2,268
+"### || CHECK [آية 8]
+",000,False,000,False,False,False,2,265
+"### || CHECK [آية 14]
+",000,False,000,False,False,False,2,284
+"### || CHECK [آية 22]
+",000,False,000,False,False,False,2,309
+"### || CHECK [آية 23]
+",000,False,000,False,False,False,2,282
+"### || CHECK [آية 27]
+",000,False,000,False,False,False,2,279
+"### || CHECK [آية 29]
+",000,False,000,False,False,False,2,567
+"### || CHECK [آية 32]
+",000,False,000,False,False,False,2,547
+"### || CHECK [آية 34]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 36]
+",000,False,000,False,False,False,2,277
+"### || CHECK [آية 37]
+",000,False,000,False,False,False,2,260
+"### || CHECK [آية 38]
+",000,False,000,False,False,False,2,273
+"### || CHECK [آية 41]
+",000,False,000,False,False,False,2,1346
+"### || CHECK [آية 44]
+",000,False,000,False,False,False,2,293
+"### || CHECK [آية 63]
+",000,False,000,False,False,False,2,237
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### | AUTO تفسير سورة الفرقان وهى مكية فى قول الجمهور بسم الله الرحمن
+",000,False,000,False,False,False,1,3917
+"### || CHECK [آية 7]
+",000,False,000,False,False,False,2,2790
+"### || CHECK [آية 10]
+",000,False,000,False,False,False,2,293
+"### || CHECK [آية 73]
+",000,False,000,False,False,False,2,279
+"### || CHECK [آية 77]
+",000,False,000,False,False,False,2,281
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,83
+"### | AUTO تفسير سورة الشعراء وهى مكية كلها فى قول الجمهور بسم الله
+",000,False,000,False,False,False,1,2942
+"### || CHECK [آية 10]
+",000,False,000,False,False,False,2,284
+"### || CHECK [آية 25]
+",000,False,000,False,False,False,2,273
+"### || CHECK [آية 46]
+",000,False,000,False,False,False,2,1864
+"### || CHECK [آية 54]
+",000,False,000,False,False,False,2,279
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,113
+"### | AUTO تفسير سورة النمل وهى مكية بسم الله الرحمن الرحيم قوله تعالى
+",000,False,000,False,False,False,1,3906
+"### || CHECK [آية 6]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 11]
+",000,False,000,False,False,False,2,275
+"### || CHECK [آية 18]
+",000,False,000,False,False,False,2,253
+"### || CHECK [آية 22]
+",000,False,000,False,False,False,2,1599
+"### || CHECK [آية 26]
+",000,False,000,False,False,False,2,535
+"### || CHECK [آية 47]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 60]
+",000,False,000,False,False,False,2,260
+"### || CHECK [آية 65]
+",000,False,000,False,False,False,2,274
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,84
+"### | AUTO تفسير سورة القصص وهى مكية الا قوله تعالى ان الذى فرض عليك
+",000,False,000,False,False,False,1,4364
+"### || CHECK [آية 6]
+",000,False,000,False,False,False,2,280
+"### || CHECK [آية 13]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 20]
+",000,False,000,False,False,False,2,788
+"### || CHECK [آية 23]
+",000,False,000,False,False,False,2,281
+"### || CHECK [آية 83]
+",000,False,000,False,False,False,2,502
+"### | CHECK [سورة العنكبوت]
+",000,False,000,False,False,False,1,2889
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,245
+"### || CHECK [آية 9]
+",000,False,000,False,False,False,2,285
+"### || CHECK [آية 22]
+",000,False,000,False,False,False,2,279
+"### || CHECK [آية 25]
+",000,False,000,False,False,False,2,817
+"### || CHECK [آية 32]
+",000,False,000,False,False,False,2,276
+"### || CHECK [آية 47]
+",000,False,000,False,False,False,2,268
+"### || CHECK [آية 57]
+",000,False,000,False,False,False,2,222
+"### || CHECK [آية 60]
+",000,False,000,False,False,False,2,502
+"### | CHECK [سورة الروم]
+",000,False,000,False,False,False,1,2297
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,1326
+"### || CHECK [آية 8]
+",000,False,000,False,False,False,2,285
+"### || CHECK [آية 38]
+",000,False,000,False,False,False,2,287
+"### || CHECK [آية 43]
+",000,False,000,False,False,False,2,282
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,121
+"### | AUTO تفسير سورة لقمان وهى مكية غير ءايتين قال قتادة اولهما ولو ان
+",000,False,000,False,False,False,1,1517
+"### || CHECK [آية 7]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 13]
+",000,False,000,False,False,False,2,272
+"### || CHECK [آية 18]
+",000,False,000,False,False,False,2,256
+"### || CHECK [آية 20]
+",000,False,000,False,False,False,2,262
+"### || CHECK [آية 32]
+",000,False,000,False,False,False,2,287
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,88
+"### | AUTO تفسير سورة السجدة وهى مكية - غير ثلاث ءايات نزلت بالمدينة
+",000,False,000,False,False,False,1,4453
+"### || CHECK [آية 5]
+",000,False,000,False,False,False,2,285
+"### || CHECK [آية 14]
+",000,False,000,False,False,False,2,249
+"### || CHECK [آية 17]
+",000,False,000,False,False,False,2,286
+"### || CHECK [آية 20]
+",000,False,000,False,False,False,2,3515
+"### | CHECK [سورة الأحزاب]
+",000,False,000,False,False,False,1,2535
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,1133
+"### || CHECK [آية 4]
+",000,False,000,False,False,False,2,284
+"### || CHECK [آية 6]
+",000,False,000,False,False,False,2,844
+"### || CHECK [آية 19]
+",000,False,000,False,False,False,2,275
+"### | CHECK [سورة سبأ]
+",000,False,000,False,False,False,1,3457
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,193
+"### || CHECK [آية 8]
+",000,False,000,False,False,False,2,266
+"### || CHECK [آية 13]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 14]
+",000,False,000,False,False,False,2,265
+"### || CHECK [آية 15]
+",000,False,000,False,False,False,2,265
+"### || CHECK [آية 16]
+",000,False,000,False,False,False,2,283
+"### || CHECK [آية 17]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 20]
+",000,False,000,False,False,False,2,284
+"### || CHECK [آية 24]
+",000,False,000,False,False,False,2,278
+"### || CHECK [آية 31]
+",000,False,000,False,False,False,2,287
+"### || CHECK [آية 38]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 45]
+",000,False,000,False,False,False,2,263
+"### || CHECK [آية 51]
+",000,False,000,False,False,False,2,264
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### | AUTO تفسير سورة فاطر وهى مكية
+",000,False,000,False,False,False,1,2703
+"### || CHECK [آية 3]
+",000,False,000,False,False,False,2,819
+"### || CHECK [آية 11]
+",000,False,000,False,False,False,2,307
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### | AUTO تفسير سورة يس
+",000,False,000,False,False,False,1,2746
+"### || CHECK [آية 6]
+",000,False,000,False,False,False,2,1311
+"### || CHECK [آية 9]
+",000,False,000,False,False,False,2,268
+"### || CHECK [آية 48]
+",000,False,000,False,False,False,2,273
+"### || CHECK [آية 55]
+",000,False,000,False,False,False,2,282
+"### || CHECK [آية 59]
+",000,False,000,False,False,False,2,254
+"### || CHECK [آية 70]
+",000,False,000,False,False,False,2,247
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### | AUTO تفسير سورة الصافات وهي مكية بسم الله الرحمن الرحيم
+",000,False,000,False,False,False,1,4309
+"### || CHECK [آية 10]
+",000,False,000,False,False,False,2,272
+"### || CHECK [آية 23]
+",000,False,000,False,False,False,2,272
+"### || CHECK [آية 27]
+",000,False,000,False,False,False,2,265
+"### || CHECK [آية 36]
+",000,False,000,False,False,False,2,280
+"### || CHECK [آية 51]
+",000,False,000,False,False,False,2,265
+"### || CHECK [آية 55]
+",000,False,000,False,False,False,2,265
+"### || CHECK [آية 73]
+",000,False,000,False,False,False,2,245
+"### || CHECK [آية 79]
+",000,False,000,False,False,False,2,275
+"### || CHECK [آية 96]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 103]
+",000,False,000,False,False,False,2,291
+"### || CHECK [آية 125]
+",000,False,000,False,False,False,2,265
+"### || CHECK [آية 137]
+",000,False,000,False,False,False,2,265
+"### || CHECK [آية 144]
+",000,False,000,False,False,False,2,276
+"### || CHECK [آية 148]
+",000,False,000,False,False,False,2,266
+"### || CHECK [آية 159]
+",000,False,000,False,False,False,2,267
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,87
+"### | AUTO تفسير سورة ص وهي مكية بإجماع
+",000,False,000,False,False,False,1,4498
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,275
+"### || CHECK [آية 5]
+",000,False,000,False,False,False,2,280
+"### || CHECK [آية 15]
+",000,False,000,False,False,False,2,543
+"### || CHECK [آية 20]
+",000,False,000,False,False,False,2,283
+"### || CHECK [آية 22]
+",000,False,000,False,False,False,2,277
+"### || CHECK [آية 26]
+",000,False,000,False,False,False,2,283
+"### || CHECK [آية 29]
+",000,False,000,False,False,False,2,509
+"### || CHECK [آية 31]
+",000,False,000,False,False,False,2,290
+"### || CHECK [آية 35]
+",000,False,000,False,False,False,2,275
+"### || CHECK [آية 41]
+",000,False,000,False,False,False,2,287
+"### || CHECK [آية 46]
+",000,False,000,False,False,False,2,273
+"### || CHECK [آية 49]
+",000,False,000,False,False,False,2,270
+"### || CHECK [آية 61]
+",000,False,000,False,False,False,2,261
+"### || CHECK [آية 65]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### | AUTO فيحتمل أن ينتصب على الاغراء ويحتمل ان ينتصب على القسم على
+",000,False,000,False,False,False,1,5297
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,268
+"### || CHECK [آية 5]
+",000,False,000,False,False,False,2,279
+"### || CHECK [آية 8]
+",000,False,000,False,False,False,2,525
+"### || CHECK [آية 10]
+",000,False,000,False,False,False,2,247
+"### || CHECK [آية 13]
+",000,False,000,False,False,False,2,276
+"### || CHECK [آية 20]
+",000,False,000,False,False,False,2,270
+"### || CHECK [آية 23]
+",000,False,000,False,False,False,2,544
+"### || CHECK [آية 24]
+",000,False,000,False,False,False,2,1377
+"### || CHECK [آية 25]
+",000,False,000,False,False,False,2,282
+"### || CHECK [آية 60]
+",000,False,000,False,False,False,2,282
+"### || CHECK [آية 68]
+",000,False,000,False,False,False,2,278
+"### || CHECK [آية 71]
+",000,False,000,False,False,False,2,468
+"### | CHECK [سورة غافر]
+",000,False,000,False,False,False,1,4001
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,237
+"### || CHECK [آية 7]
+",000,False,000,False,False,False,2,268
+"### || CHECK [آية 9]
+",000,False,000,False,False,False,2,1856
+"### || CHECK [آية 13]
+",000,False,000,False,False,False,2,558
+"### || CHECK [آية 16]
+",000,False,000,False,False,False,2,263
+"### || CHECK [آية 28]
+",000,False,000,False,False,False,2,277
+"### || CHECK [آية 34]
+",000,False,000,False,False,False,2,275
+"### || CHECK [آية 79]
+",000,False,000,False,False,False,2,272
+"### | CHECK [سورة فصلت]
+",000,False,000,False,False,False,1,5060
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,200
+"### || CHECK [آية 4]
+",000,False,000,False,False,False,2,274
+"### || CHECK [آية 11]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 12]
+",000,False,000,False,False,False,2,264
+"### || CHECK [آية 16]
+",000,False,000,False,False,False,2,1091
+"### || CHECK [آية 19]
+",000,False,000,False,False,False,2,285
+"### || CHECK [آية 31]
+",000,False,000,False,False,False,2,534
+"### || CHECK [آية 33]
+",000,False,000,False,False,False,2,552
+"### || CHECK [آية 37]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 39]
+",000,False,000,False,False,False,2,282
+"### || CHECK [آية 43]
+",000,False,000,False,False,False,2,280
+"### || CHECK [آية 45]
+",000,False,000,False,False,False,2,272
+"### || CHECK [آية 49]
+",000,False,000,False,False,False,2,496
+"### | CHECK [سورة الشورى]
+",000,False,000,False,False,False,1,5479
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,235
+"### || CHECK [آية 7]
+",000,False,000,False,False,False,2,251
+"### || CHECK [آية 9]
+",000,False,000,False,False,False,2,276
+"### || CHECK [آية 13]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 14]
+",000,False,000,False,False,False,2,277
+"### || CHECK [آية 16]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 19]
+",000,False,000,False,False,False,2,270
+"### || CHECK [آية 22]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 24]
+",000,False,000,False,False,False,2,278
+"### || CHECK [آية 25]
+",000,False,000,False,False,False,2,259
+"### || CHECK [آية 28]
+",000,False,000,False,False,False,2,277
+"### || CHECK [آية 29]
+",000,False,000,False,False,False,2,856
+"### || CHECK [آية 33]
+",000,False,000,False,False,False,2,1385
+"### || CHECK [آية 36]
+",000,False,000,False,False,False,2,230
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,98
+"### | AUTO تفسير سورة الزخرف وهي مكية
+",000,False,000,False,False,False,1,4032
+"### || CHECK [آية 5]
+",000,False,000,False,False,False,2,250
+"### || CHECK [آية 10]
+",000,False,000,False,False,False,2,289
+"### || CHECK [آية 15]
+",000,False,000,False,False,False,2,290
+"### || CHECK [آية 18]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 25]
+",000,False,000,False,False,False,2,276
+"### || CHECK [آية 33]
+",000,False,000,False,False,False,2,279
+"### || CHECK [آية 35]
+",000,False,000,False,False,False,2,284
+"### || CHECK [آية 39]
+",000,False,000,False,False,False,2,272
+"### || CHECK [آية 46]
+",000,False,000,False,False,False,2,274
+"### || CHECK [آية 53]
+",000,False,000,False,False,False,2,282
+"### || CHECK [آية 59]
+",000,False,000,False,False,False,2,285
+"### || CHECK [آية 67]
+",000,False,000,False,False,False,2,259
+"### || CHECK [آية 68]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 79]
+",000,False,000,False,False,False,2,275
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,85
+"### | AUTO تفسير سورة الدخان وهي مكية
+",000,False,000,False,False,False,1,1775
+"### || CHECK [آية 5]
+",000,False,000,False,False,False,2,1282
+"### || CHECK [آية 8]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,106
+"### | AUTO تفسير سورة الجاثية وهي مكية
+",000,False,000,False,False,False,1,1496
+"### || CHECK [آية 6]
+",000,False,000,False,False,False,2,283
+"### || CHECK [آية 14]
+",000,False,000,False,False,False,2,274
+"### || CHECK [آية 23]
+",000,False,000,False,False,False,2,250
+"### || CHECK [آية 24]
+",000,False,000,False,False,False,2,281
+"### || CHECK [آية 29]
+",000,False,000,False,False,False,2,281
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,31
+"### | AUTO تفسير سورة الأحقاف وهي مكية
+",000,False,000,False,False,False,1,3186
+"### || CHECK [آية 6]
+",000,False,000,False,False,False,2,279
+"### || CHECK [آية 10]
+",000,False,000,False,False,False,2,272
+"### || CHECK [آية 15]
+",000,False,000,False,False,False,2,277
+"### || CHECK [آية 16]
+",000,False,000,False,False,False,2,285
+"### || CHECK [آية 19]
+",000,False,000,False,False,False,2,562
+"### || CHECK [آية 21]
+",000,False,000,False,False,False,2,274
+"### || CHECK [آية 24]
+",000,False,000,False,False,False,2,286
+"### || CHECK [آية 28]
+",000,False,000,False,False,False,2,272
+"### || CHECK [آية 32]
+",000,False,000,False,False,False,2,512
+"### | CHECK [سورة محمد]
+",000,False,000,False,False,False,1,2986
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,229
+"### || CHECK [آية 3]
+",000,False,000,False,False,False,2,491
+"### || CHECK [آية 6]
+",000,False,000,False,False,False,2,270
+"### || CHECK [آية 11]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 16]
+",000,False,000,False,False,False,2,264
+"### || CHECK [آية 20]
+",000,False,000,False,False,False,2,263
+"### || CHECK [آية 21]
+",000,False,000,False,False,False,2,280
+"### || CHECK [آية 24]
+",000,False,000,False,False,False,2,256
+"### || CHECK [آية 29]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 35]
+",000,False,000,False,False,False,2,270
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,136
+"### | AUTO تفسير سورة الفتح وهي مدنية
+",000,False,000,False,False,False,1,3706
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,277
+"### || CHECK [آية 6]
+",000,False,000,False,False,False,2,270
+"### || CHECK [آية 11]
+",000,False,000,False,False,False,2,272
+"### || CHECK [آية 12]
+",000,False,000,False,False,False,2,280
+"### || CHECK [آية 18]
+",000,False,000,False,False,False,2,281
+"### || CHECK [آية 20]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 22]
+",000,False,000,False,False,False,2,524
+"### || CHECK [آية 26]
+",000,False,000,False,False,False,2,276
+"### || CHECK [آية 27]
+",000,False,000,False,False,False,2,282
+"### || CHECK [آية 29]
+",000,False,000,False,False,False,2,817
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,117
+"### | AUTO تفسير سورة الحجرات وهي مدنية بإجماع
+",000,False,000,False,False,False,1,2210
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,273
+"### || CHECK [آية 3]
+",000,False,000,False,False,False,2,252
+"### || CHECK [آية 9]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 12]
+",000,False,000,False,False,False,2,796
+"### || CHECK [آية 13]
+",000,False,000,False,False,False,2,274
+"### || CHECK [آية 14]
+",000,False,000,False,False,False,2,226
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### | AUTO تفسير سورة ق وهي مكية باجماع
+",000,False,000,False,False,False,1,2634
+"### || CHECK [آية 3]
+",000,False,000,False,False,False,2,266
+"### | CHECK [سورة الذاريات]
+",000,False,000,False,False,False,1,2320
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,190
+"### || CHECK [آية 7]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 15]
+",000,False,000,False,False,False,2,273
+"### || CHECK [آية 19]
+",000,False,000,False,False,False,2,258
+"### || CHECK [آية 22]
+",000,False,000,False,False,False,2,540
+"### || CHECK [آية 23]
+",000,False,000,False,False,False,2,280
+"### || CHECK [آية 30]
+",000,False,000,False,False,False,2,258
+"### || CHECK [آية 35]
+",000,False,000,False,False,False,2,255
+"### | CHECK [سورة الطور]
+",000,False,000,False,False,False,1,2580
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,215
+"### || CHECK [آية 3]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 7]
+",000,False,000,False,False,False,2,276
+"### || CHECK [آية 19]
+",000,False,000,False,False,False,2,258
+"### || CHECK [آية 22]
+",000,False,000,False,False,False,2,262
+"### || CHECK [آية 23]
+",000,False,000,False,False,False,2,828
+"### || CHECK [آية 25]
+",000,False,000,False,False,False,2,474
+"### | CHECK [سورة النجم]
+",000,False,000,False,False,False,1,2706
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,279
+"### || CHECK [آية 10]
+",000,False,000,False,False,False,2,276
+"### || CHECK [آية 13]
+",000,False,000,False,False,False,2,280
+"### || CHECK [آية 19]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 24]
+",000,False,000,False,False,False,2,543
+"### || CHECK [آية 31]
+",000,False,000,False,False,False,2,801
+"### || CHECK [آية 36]
+",000,False,000,False,False,False,2,260
+"### | CHECK [سورة القمر]
+",000,False,000,False,False,False,1,1760
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,178
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,268
+"### || CHECK [آية 11]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 20]
+",000,False,000,False,False,False,2,266
+"### || CHECK [آية 33]
+",000,False,000,False,False,False,2,266
+"### || CHECK [آية 45]
+",000,False,000,False,False,False,2,284
+"### || CHECK [آية 52]
+",000,False,000,False,False,False,2,225
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### | AUTO تفسير سورة الرحمن عز وجل وهي مكية في قول الجمهور
+",000,False,000,False,False,False,1,2297
+"### || CHECK [آية 7]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 14]
+",000,False,000,False,False,False,2,279
+"### || CHECK [آية 19]
+",000,False,000,False,False,False,2,268
+"### || CHECK [آية 27]
+",000,False,000,False,False,False,2,280
+"### || CHECK [آية 37]
+",000,False,000,False,False,False,2,270
+"### || CHECK [آية 54]
+",000,False,000,False,False,False,2,210
+"### || CHECK [آية 60]
+",000,False,000,False,False,False,2,266
+"### || CHECK [آية 70]
+",000,False,000,False,False,False,2,253
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### | AUTO تفسير سورة الواقعة وهي مكية بإجماع ممن يعتد بقوله
+",000,False,000,False,False,False,1,3041
+"### || CHECK [آية 8]
+",000,False,000,False,False,False,2,268
+"### || CHECK [آية 15]
+",000,False,000,False,False,False,2,273
+"### || CHECK [آية 24]
+",000,False,000,False,False,False,2,1793
+"### || CHECK [آية 28]
+",000,False,000,False,False,False,2,513
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### | AUTO تفسير سورة الحديد وهي مدنية ويشبه صدرها أن يكون مكيا
+",000,False,000,False,False,False,1,3635
+"### || CHECK [آية 8]
+",000,False,000,False,False,False,2,275
+"### || CHECK [آية 9]
+",000,False,000,False,False,False,2,1343
+"### || CHECK [آية 10]
+",000,False,000,False,False,False,2,260
+"### || CHECK [آية 16]
+",000,False,000,False,False,False,2,272
+"### || CHECK [آية 21]
+",000,False,000,False,False,False,2,542
+"### || CHECK [آية 24]
+",000,False,000,False,False,False,2,274
+"### || CHECK [آية 27]
+",000,False,000,False,False,False,2,287
+"### || CHECK [آية 28]
+",000,False,000,False,False,False,2,196
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### | AUTO تفسير سورة المجادلة وهي مدنية
+",000,False,000,False,False,False,1,1659
+"### || CHECK [آية 3]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 7]
+",000,False,000,False,False,False,2,546
+"### || CHECK [آية 12]
+",000,False,000,False,False,False,2,264
+"### || CHECK [آية 13]
+",000,False,000,False,False,False,2,289
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,86
+"### | AUTO تفسير سورة الحشر وهي مدنية
+",000,False,000,False,False,False,1,1984
+"### || CHECK [آية 3]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 8]
+",000,False,000,False,False,False,2,523
+"### || CHECK [آية 10]
+",000,False,000,False,False,False,2,279
+"### || CHECK [آية 11]
+",000,False,000,False,False,False,2,255
+"### || CHECK [آية 17]
+",000,False,000,False,False,False,2,276
+"### || CHECK [آية 21]
+",000,False,000,False,False,False,2,267
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### | AUTO تفسير سورة الممتحنة وهي مدنية بإجماع
+",000,False,000,False,False,False,1,1600
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,537
+"### || CHECK [آية 5]
+",000,False,000,False,False,False,2,276
+"### || CHECK [آية 11]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 13]
+",000,False,000,False,False,False,2,277
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,45
+"### | AUTO تفسير سورة الصف وهي مدنية في قول الجمهور وقيل مكية
+",000,False,000,False,False,False,1,798
+"### || CHECK [آية 5]
+",000,False,000,False,False,False,2,284
+"### || CHECK [آية 10]
+",000,False,000,False,False,False,2,272
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,65
+"### | AUTO تفسير سورة الجمعة وهي مدنية
+",000,False,000,False,False,False,1,1144
+"### || CHECK [آية 6]
+",000,False,000,False,False,False,2,529
+"### || CHECK [آية 10]
+",000,False,000,False,False,False,2,468
+"### | CHECK [سورة المنافقون]
+",000,False,000,False,False,False,1,948
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,194
+"### || CHECK [آية 5]
+",000,False,000,False,False,False,2,274
+"### || CHECK [آية 6]
+",000,False,000,False,False,False,2,480
+"### | CHECK [سورة التغابن]
+",000,False,000,False,False,False,1,674
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,277
+"### || CHECK [آية 15]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,137
+"### | AUTO تفسير سورة الطلاق وهي مدنية
+",000,False,000,False,False,False,1,1147
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,277
+"### || CHECK [آية 3]
+",000,False,000,False,False,False,2,268
+"### || CHECK [آية 6]
+",000,False,000,False,False,False,2,277
+"### || CHECK [آية 8]
+",000,False,000,False,False,False,2,239
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### | AUTO تفسير سورة التحريم وهي مدنية بإجماع
+",000,False,000,False,False,False,1,1105
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,278
+"### || CHECK [آية 5]
+",000,False,000,False,False,False,2,281
+"### || CHECK [آية 10]
+",000,False,000,False,False,False,2,277
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,62
+"### | AUTO تفسير سورة الملك وهي مكية بإجماع
+",000,False,000,False,False,False,1,1420
+"### || CHECK [آية 3]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 6]
+",000,False,000,False,False,False,2,273
+"### || CHECK [آية 20]
+",000,False,000,False,False,False,2,254
+"### || CHECK [آية 24]
+",000,False,000,False,False,False,2,227
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### | AUTO تفسير سورة القلم وهي مكية بلا خلاف
+",000,False,000,False,False,False,1,1958
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 4]
+",000,False,000,False,False,False,2,262
+"### || CHECK [آية 12]
+",000,False,000,False,False,False,2,536
+"### || CHECK [آية 14]
+",000,False,000,False,False,False,2,280
+"### || CHECK [آية 43]
+",000,False,000,False,False,False,2,272
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,127
+"### | AUTO تفسير سورة الحاقة وهي مكية بإجماع
+",000,False,000,False,False,False,1,1476
+"### || CHECK [آية 5]
+",000,False,000,False,False,False,2,279
+"### || CHECK [آية 16]
+",000,False,000,False,False,False,2,539
+"### || CHECK [آية 18]
+",000,False,000,False,False,False,2,278
+"### || CHECK [آية 33]
+",000,False,000,False,False,False,2,279
+"### | CHECK [سورة المعارج]
+",000,False,000,False,False,False,1,1557
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,197
+"### || CHECK [آية 3]
+",000,False,000,False,False,False,2,272
+"### || CHECK [آية 5]
+",000,False,000,False,False,False,2,288
+"### || CHECK [آية 10]
+",000,False,000,False,False,False,2,270
+"### || CHECK [آية 24]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 38]
+",000,False,000,False,False,False,2,258
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### | AUTO تفسير سورة نوح عليه السلام وهي مكية بإجماع
+",000,False,000,False,False,False,1,717
+"### || CHECK [آية 13]
+",000,False,000,False,False,False,2,274
+"### || CHECK [آية 24]
+",000,False,000,False,False,False,2,219
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### | AUTO تفسير سورة الجن وهي مكية باجماع
+",000,False,000,False,False,False,1,1206
+"### || CHECK [آية 5]
+",000,False,000,False,False,False,2,283
+"### || CHECK [آية 10]
+",000,False,000,False,False,False,2,268
+"### || CHECK [آية 18]
+",000,False,000,False,False,False,2,275
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,157
+"### | AUTO تفسير سورة المزمل وهي مكية في قول الجمهور
+",000,False,000,False,False,False,1,1914
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,285
+"### || CHECK [آية 5]
+",000,False,000,False,False,False,2,263
+"### || CHECK [آية 6]
+",000,False,000,False,False,False,2,806
+"### || CHECK [آية 9]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 20]
+",000,False,000,False,False,False,2,226
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### | AUTO تفسير سورة المدثر وهي مكية باجماع
+",000,False,000,False,False,False,1,1820
+"### || CHECK [آية 6]
+",000,False,000,False,False,False,2,289
+"### || CHECK [آية 11]
+",000,False,000,False,False,False,2,282
+"### || CHECK [آية 23]
+",000,False,000,False,False,False,2,550
+"### || CHECK [آية 37]
+",000,False,000,False,False,False,2,491
+"### | CHECK [سورة القيامة]
+",000,False,000,False,False,False,1,1293
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,270
+"### || CHECK [آية 6]
+",000,False,000,False,False,False,2,270
+"### || CHECK [آية 16]
+",000,False,000,False,False,False,2,283
+"### || CHECK [آية 26]
+",000,False,000,False,False,False,2,281
+"### || CHECK [آية 38]
+",000,False,000,False,False,False,2,191
+"### | CHECK [سورة الإنسان]
+",000,False,000,False,False,False,1,1577
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,213
+"### || CHECK [آية 3]
+",000,False,000,False,False,False,2,281
+"### || CHECK [آية 9]
+",000,False,000,False,False,False,2,267
+"### || CHECK [آية 16]
+",000,False,000,False,False,False,2,274
+"### || CHECK [آية 21]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 28]
+",000,False,000,False,False,False,2,276
+"### | CHECK [سورة المرسلات]
+",000,False,000,False,False,False,1,704
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,174
+"### || CHECK [آية 11]
+",000,False,000,False,False,False,2,267
+"### || CHECK [آية 30]
+",000,False,000,False,False,False,2,263
+"### | CHECK [سورة النبأ]
+",000,False,000,False,False,False,1,1001
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,208
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,254
+"### || CHECK [آية 19]
+",000,False,000,False,False,False,2,264
+"### || CHECK [آية 30]
+",000,False,000,False,False,False,2,276
+"### | CHECK [سورة النازعات]
+",000,False,000,False,False,False,1,980
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,224
+"### || CHECK [آية 7]
+",000,False,000,False,False,False,2,270
+"### || CHECK [آية 19]
+",000,False,000,False,False,False,2,486
+"### | CHECK [سورة عبس]
+",000,False,000,False,False,False,1,691
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,265
+"### || CHECK [آية 18]
+",000,False,000,False,False,False,2,285
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,141
+"### | AUTO تفسير سورة التكوير وهي مكية بإجماع
+",000,False,000,False,False,False,1,593
+"### || CHECK [آية 6]
+",000,False,000,False,False,False,2,258
+"### || CHECK [آية 14]
+",000,False,000,False,False,False,2,273
+"### | CHECK [سورة الإنفطار]
+",000,False,000,False,False,False,1,360
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,199
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,172
+"### | AUTO تفسير سورة المطففين وهي مكية في قول جماعة
+",000,False,000,False,False,False,1,863
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,270
+"### || CHECK [آية 8]
+",000,False,000,False,False,False,2,286
+"### || CHECK [آية 21]
+",000,False,000,False,False,False,2,261
+"### | CHECK [سورة الإنشقاق]
+",000,False,000,False,False,False,1,772
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,206
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,281
+"### || CHECK [آية 9]
+",000,False,000,False,False,False,2,285
+"### | CHECK [سورة البروج]
+",000,False,000,False,False,False,1,457
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,186
+"### || CHECK [آية 10]
+",000,False,000,False,False,False,2,270
+"### | CHECK [سورة الطارق]
+",000,False,000,False,False,False,1,495
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,218
+"### || CHECK [آية 8]
+",000,False,000,False,False,False,2,276
+"### | CHECK [سورة الأعلى]
+",000,False,000,False,False,False,1,1027
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,178
+"### || CHECK [آية 6]
+",000,False,000,False,False,False,2,282
+"### || CHECK [آية 13]
+",000,False,000,False,False,False,2,290
+"### || CHECK [آية 14]
+",000,False,000,False,False,False,2,278
+"### | CHECK [سورة الغاشية]
+",000,False,000,False,False,False,1,587
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,201
+"### || CHECK [آية 11]
+",000,False,000,False,False,False,2,385
+"### | CHECK [سورة الفجر]
+",000,False,000,False,False,False,1,1004
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,281
+"### || CHECK [آية 15]
+",000,False,000,False,False,False,2,271
+"### || CHECK [آية 22]
+",000,False,000,False,False,False,2,260
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,195
+"### | AUTO تفسير سورة البلد وهي مكية في قول الجمهور وقيل مدنية
+",000,False,000,False,False,False,1,592
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,285
+"### || CHECK [آية 11]
+",000,False,000,False,False,False,2,278
+"### | CHECK [سورة الشمس]
+",000,False,000,False,False,False,1,670
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,209
+"### || CHECK [آية 5]
+",000,False,000,False,False,False,2,245
+"### || CHECK [آية 11]
+",000,False,000,False,False,False,2,216
+"### | CHECK [سورة الليل]
+",000,False,000,False,False,False,1,481
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,236
+"### || CHECK [آية 15]
+",000,False,000,False,False,False,2,244
+"### | CHECK [سورة الضحى]
+",000,False,000,False,False,False,1,488
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,234
+"### || CHECK [آية 11]
+",000,False,000,False,False,False,2,253
+"### | CHECK [سورة الشرح]
+",000,False,000,False,False,False,1,244
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,242
+"### | CHECK [سورة التين]
+",000,False,000,False,False,False,1,493
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,210
+"### || CHECK [آية 5]
+",000,False,000,False,False,False,2,282
+"### | CHECK [سورة العلق]
+",000,False,000,False,False,False,1,759
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,224
+"### || CHECK [آية 8]
+",000,False,000,False,False,False,2,264
+"### || CHECK [آية 18]
+",000,False,000,False,False,False,2,271
+"### | CHECK [سورة القدر]
+",000,False,000,False,False,False,1,489
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,204
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,284
+"### | CHECK [سورة البينة]
+",000,False,000,False,False,False,1,214
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,212
+"### | CHECK [سورة الزلزلة]
+",000,False,000,False,False,False,1,657
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,195
+"### || CHECK [آية 4]
+",000,False,000,False,False,False,2,461
+"### | CHECK [سورة العاديات]
+",000,False,000,False,False,False,1,385
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,269
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,126
+"### | AUTO تفسير سورة القارعة وهي مكية بلا خلاف
+",000,False,000,False,False,False,1,144
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,64
+"### | AUTO تفسير سورة التكاثر وهي مكية
+",000,False,000,False,False,False,1,562
+"### || CHECK [آية 4]
+",000,False,000,False,False,False,2,402
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,6
+"### | AUTO تفسير سورة الهمزة وهي مكية
+",000,False,000,False,False,False,1,128
+"### | CHECK [سورة الفيل]
+",000,False,000,False,False,False,1,206
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,204
+"### | CHECK [سورة قريش]
+",000,False,000,False,False,False,1,172
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,170
+"### | CHECK [سورة الماعون]
+",000,False,000,False,False,False,1,202
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,200
+"### | CHECK [سورة الكوثر]
+",000,False,000,False,False,False,1,209
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,207
+"### | CHECK [سورة الكافرون]
+",000,False,000,False,False,False,1,333
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,193
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,139
+"### | CHECK [سورة المسد]
+",000,False,000,False,False,False,1,420
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,144
+"### || CHECK [آية 2]
+",000,False,000,False,False,False,2,275
+"### | CHECK [سورة الإخلاص]
+",000,False,000,False,False,False,1,407
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,173
+"### || CHECK [آية 3]
+",000,False,000,False,False,False,2,233
+"### | CHECK [سورة الفلق]
+",000,False,000,False,False,False,1,413
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,411
+"### | CHECK [سورة الناس]
+",000,False,000,False,False,False,1,1998
+"### || CHECK [آية 1]
+",000,False,000,False,False,False,2,496
+"### || CHECK [آية 4]
+",000,False,000,False,False,False,2,1500

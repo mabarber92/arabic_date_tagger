@@ -1,0 +1,43 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO مقدمة المؤلف
+",000,False,000,False,False,False,1,856
+"### | AUTO حديث النبي صلى الله عليه وسلم تسليما
+",000,False,000,False,False,False,1,5925
+"### | AUTO وفي حديث عمر بن الخطاب
+",000,False,000,False,False,False,1,669
+"### | CHECK وفي حديث عثمان -رضي الله عنه-
+",000,False,000,False,False,False,1,306
+"### | CHECK وفي حديث علي -رضي الله عنه-
+",000,False,000,False,False,False,1,1091
+"### | CHECK وفي حديث الزبير -رحمه الله-
+",000,False,000,False,False,False,1,148
+"### | CHECK وفي حديث طلحة -رحمه الله-
+",000,False,000,False,False,False,1,168
+"### | CHECK وفي حديث عبد الله بن مسعود -رحمه الله-
+",000,False,000,False,False,False,1,236
+"### | CHECK وفي حديث حذيفة -رحمه الله-
+",000,False,000,False,False,False,1,209
+"### | CHECK وفي حديث عمرو بن العاص -رحمه الله-
+",000,False,000,False,False,False,1,185
+"### | CHECK وفي حديث أبي هريرة -رحمه الله-
+",000,False,000,False,False,False,1,390
+"### | CHECK وفي حديث عبد الله بن عمر -رحمه الله-
+",000,False,000,False,False,False,1,186
+"### | AUTO وفي حديث عبيد بن عمير
+",000,False,000,False,False,False,1,119
+"### | AUTO وفي حديث شريح
+",000,False,000,False,False,False,1,194
+"### | AUTO في حديث الحسن البصري
+",000,False,000,False,False,False,1,189
+"### | AUTO في حديث الحجاج
+",000,False,000,False,False,False,1,114
+"### | AUTO حرف في حديث
+",000,False,000,False,False,False,1,61
+"### | AUTO حرف في حديث
+",000,False,000,False,False,False,1,303
+"### | AUTO جريدة المظان والأصول
+",000,False,000,False,False,False,1,8121
+"### || AUTO 1 - المخطوطات
+",000,False,000,False,False,False,2,92
+"### || AUTO 2 - المطبوعات
+",000,False,000,False,False,False,2,8024

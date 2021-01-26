@@ -1,0 +1,239 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO القسم الثاني
+",000,False,000,False,False,False,1,31336
+"### || AUTO مقدمة
+",000,False,000,False,False,False,2,115
+"### || AUTO مقدمة
+",000,False,000,False,False,False,2,244
+"### || AUTO وقال المتنخل
+",000,False,000,False,False,False,2,4790
+"### || AUTO شعر عبد مناف بن ربع
+",000,False,000,False,False,False,2,1697
+"### || AUTO شعر صخر الغي
+",000,False,000,False,False,False,2,2977
+"### ||| AUTO وقال صخر
+",000,False,000,False,False,False,3,591
+"### ||| AUTO وقال يرثى ابنه تليدا
+",000,False,000,False,False,False,3,496
+"### ||| AUTO وقال يرثيه أيضا
+",000,False,000,False,False,False,3,161
+"### ||| AUTO وقال صخر أيضا
+",000,False,000,False,False,False,3,928
+"### || AUTO وقال ابن عبد الله أخو صخر الغي
+",000,False,000,False,False,False,2,968
+"### ||| AUTO (وقال يذكر فرته التى كان فرها)
+",000,False,000,False,False,False,3,278
+"### ||| AUTO (وقال أيضا)
+",000,False,000,False,False,False,3,179
+"### || CHECK وقال أبو كبير -واسمه عامر بن الحليس- أحد بني سعد بن هذيل ثم أحد بنى جريب
+",000,False,000,False,False,False,2,3351
+"### ||| AUTO (وقال أبو كبير أيضا)
+",000,False,000,False,False,False,3,467
+"### ||| AUTO وقال أيضا
+",000,False,000,False,False,False,3,1319
+"### || AUTO وقال أبو خراش
+",000,False,000,False,False,False,2,6314
+"### ||| CHECK وقال فى صديق له من آل صوفة خدام الكعبة فى الجاهلية ""كان حذاه نعلين""
+",000,False,000,False,False,False,3,178
+"### ||| AUTO وقال أبو خراش أيضا
+",000,False,000,False,False,False,3,1134
+"### ||| AUTO وقال أبو خراش يرثى خالد بن زهير
+",000,False,000,False,False,False,3,314
+"### ||| CHECK وقال أبو خراش أيضا
+",000,False,000,False,False,False,3,131
+"### ||| AUTO وقال أبو خراش أيضا
+",000,False,000,False,False,False,3,109
+"### ||| AUTO وقال أيضا
+",000,False,000,False,False,False,3,59
+"### ||| AUTO وقال أبو خراش أيضا
+",000,False,000,False,False,False,3,240
+"### ||| AUTO وقال أيضا
+",000,False,000,False,False,False,3,257
+"### ||| AUTO وقال أبو خراش أيضا
+",000,False,000,False,False,False,3,463
+"### ||| AUTO وقال في ذلك معقل بن خويلد
+",000,False,000,False,False,False,3,77
+"### ||| AUTO وقال أبو خراش يحرض على بنى بكر
+",000,False,000,False,False,False,3,72
+"### ||| AUTO وقال أبو خراش أيضا ويروى لتأبط شرا
+",000,False,000,False,False,False,3,104
+"### ||| AUTO وقال أبو خراش أيضا
+",000,False,000,False,False,False,3,60
+"### ||| CHECK وقال أبو خراش أيضا حين هاجر ابنه في خلافة عمر رضي الله عنه
+",000,False,000,False,False,False,3,165
+"### ||| AUTO وقال أبو خراش حين نهشته الأفعى
+",000,False,000,False,False,False,3,46
+"### || AUTO وقال أمية بن أبى عائذ
+",000,False,000,False,False,False,2,2235
+"### ||| CHECK وقال أمية بن أبي عائذ أيضا
+",000,False,000,False,False,False,3,138
+"### ||| AUTO وقال أمية بن أبي عائذ أيضا
+",000,False,000,False,False,False,3,220
+"### || AUTO وقال أسامة بن الحارث
+",000,False,000,False,False,False,2,1664
+"### ||| AUTO وقال أسامة بن الحارث أيضا
+",000,False,000,False,False,False,3,293
+"### ||| AUTO وقال أسامة بن الحارث لرجل من قيس هاجر في خلافة عمر ابن الخطاب -رضي الله عنه-
+",000,False,000,False,False,False,3,233
+"### ||| AUTO وقال أسامة بن الحارث
+",000,False,000,False,False,False,3,928
+"### || AUTO وقال ساعدة بين جؤية
+",000,False,000,False,False,False,2,1666
+"### ||| AUTO وقال أيضا
+",000,False,000,False,False,False,3,834
+"### ||| AUTO وقال ساعدة أيضا
+",000,False,000,False,False,False,3,305
+"### ||| AUTO 
+",000,False,000,False,False,False,3,1
+"### ||| AUTO وقال ساعدة أيضا
+",000,False,000,False,False,False,3,85
+"### ||| AUTO 
+",000,False,000,False,False,False,3,1
+"### ||| AUTO وقال ساعدة أيضا
+",000,False,000,False,False,False,3,76
+"### ||| CHECK وبلغ صخرا أن أبا المثلم يحرض عليه، فقال صخر
+",000,False,000,False,False,False,3,10
+"### || AUTO شعر صخر الغي وأبى المثلم
+",000,False,000,False,False,False,2,2112
+"### ||| AUTO فأجابه أبو المثلم
+",000,False,000,False,False,False,3,149
+"### ||| AUTO فأجابه صخر
+",000,False,000,False,False,False,3,85
+"### ||| AUTO فأجابه أبو المثلم
+",000,False,000,False,False,False,3,283
+"### ||| AUTO فأجابه صخر
+",000,False,000,False,False,False,3,165
+"### ||| AUTO فأجابه أبو المثلم أيضا
+",000,False,000,False,False,False,3,821
+"### ||| AUTO وقال أيضا
+",000,False,000,False,False,False,3,90
+"### ||| AUTO وقال أيضا
+",000,False,000,False,False,False,3,25
+"### ||| AUTO وقال أيضا
+",000,False,000,False,False,False,3,27
+"### ||| AUTO فقال أبو المثلم يرثيه
+",000,False,000,False,False,False,3,323
+"### || AUTO وقال أبو العيال
+",000,False,000,False,False,False,2,1580
+"### ||| AUTO وقال
+",000,False,000,False,False,False,3,341
+"### || CHECK ""شعر بدر بن عامر وأبى العيال""
+",000,False,000,False,False,False,2,1568
+"### ||| AUTO فأجابه أبو العيال
+",000,False,000,False,False,False,3,252
+"### ||| AUTO فأجابه بدر بن عامر
+",000,False,000,False,False,False,3,192
+"### ||| AUTO فأجابه أبو العيال
+",000,False,000,False,False,False,3,248
+"### ||| AUTO فأجابه بدر بن عامر
+",000,False,000,False,False,False,3,113
+"### ||| AUTO فأجابه أبو العيال
+",000,False,000,False,False,False,3,133
+"### ||| AUTO فأجابه بدر بن عامر
+",000,False,000,False,False,False,3,179
+"### ||| AUTO فأجابه أبو العيال
+",000,False,000,False,False,False,3,130
+"### | AUTO القسم الثالث
+",000,False,000,False,False,False,1,11558
+"### || AUTO مقدمة
+",000,False,000,False,False,False,2,535
+"### || AUTO وقال مالك بن خالد الخناعى
+",000,False,000,False,False,False,2,1669
+"### ||| AUTO وقال يرد على مالك بن عوف النصرى
+",000,False,000,False,False,False,3,142
+"### ||| AUTO وقال أيضا
+",000,False,000,False,False,False,3,89
+"### ||| AUTO وقال أيضا
+",000,False,000,False,False,False,3,411
+"### ||| AUTO وقال يذكر الوقعة
+",000,False,000,False,False,False,3,218
+"### ||| CHECK فقال فى ذلك اليوم (مالك) ولم يشهده
+",000,False,000,False,False,False,3,74
+"### ||| AUTO غزت بنو كعب بن عمرو من خزاعة بنى لحيان
+",000,False,000,False,False,False,3,192
+"### || AUTO وقال حذيفة بن أنس أحد بنى عامر بن عمرو بن الحارث بن تميم بن سعد بن هذيل
+",000,False,000,False,False,False,2,1309
+"### ||| AUTO وقال أيضا
+",000,False,000,False,False,False,3,348
+"### ||| AUTO وقال أيضا
+",000,False,000,False,False,False,3,494
+"### || AUTO وقال أبو قلابة
+",000,False,000,False,False,False,2,699
+"### ||| AUTO وقال أيضا
+",000,False,000,False,False,False,3,136
+"### ||| AUTO وقال أيضا
+",000,False,000,False,False,False,3,264
+"### || AUTO وقال المعطل
+",000,False,000,False,False,False,2,1150
+"### ||| AUTO وقال أيضا
+",000,False,000,False,False,False,3,569
+"### ||| AUTO وقال أيضا
+",000,False,000,False,False,False,3,283
+"### || AUTO وقال البريق
+",000,False,000,False,False,False,2,1077
+"### ||| AUTO وقال أيضا
+",000,False,000,False,False,False,3,246
+"### ||| AUTO وقال أيضا
+",000,False,000,False,False,False,3,201
+"### ||| AUTO وقال أيضا يرثي أخاه
+",000,False,000,False,False,False,3,43
+"### ||| CHECK وقال يرثي أخاه وقومه
+",000,False,000,False,False,False,3,447
+"### || AUTO وقال معقل بن خويلد
+",000,False,000,False,False,False,2,454
+"### ||| AUTO قال الأصمعى
+",000,False,000,False,False,False,3,194
+"### || AUTO وقال قيس بن عيزارة أخو بني صاهلة يرثى أخاه الحارث بن خويلد
+",000,False,000,False,False,False,2,824
+"### ||| AUTO وقال قيس بن عيزارة حين أسرته فهم وأخذ سلاحه تأبط شرا واسمه ثابت
+",000,False,000,False,False,False,3,478
+"### || AUTO وقال مالك بن الحارث أخو بنى كاهل بن الحارث ابن تميم بن سعد بن هذيل
+",000,False,000,False,False,False,2,435
+"### || AUTO أبو جندب
+",000,False,000,False,False,False,2,22
+"### || AUTO أبو جندب
+",000,False,000,False,False,False,2,11
+"### || AUTO أبو جندب PageV03P085
+",000,False,000,False,False,False,2,728
+"### ||| AUTO وقال أبو جندب أيضا
+",000,False,000,False,False,False,3,144
+"### ||| AUTO وقال أبو جندب أيضا
+",000,False,000,False,False,False,3,148
+"### ||| AUTO وقال أبو جندب أيضا
+",000,False,000,False,False,False,3,65
+"### ||| AUTO 
+",000,False,000,False,False,False,3,1
+"### ||| AUTO وقال أبو جندب أيضا
+",000,False,000,False,False,False,3,32
+"### ||| AUTO 
+",000,False,000,False,False,False,3,1
+"### ||| AUTO وقال أبو جندب أيضا
+",000,False,000,False,False,False,3,294
+"### || AUTO وقال أبو بثينة
+",000,False,000,False,False,False,2,83
+"### || AUTO وقال رجل من هذيل
+",000,False,000,False,False,False,2,222
+"### || AUTO وقال عمرو بن الداخل
+",000,False,000,False,False,False,2,556
+"### || AUTO وقال ساعدة بن العجلان يذكر أخاه مسعودا حين قتله ضمرة بن بكر
+",000,False,000,False,False,False,2,554
+"### ||| CHECK وقال ساعدة بن العجلان أيضا
+",000,False,000,False,False,False,3,393
+"### || AUTO وقال رجل من بن ظفر
+",000,False,000,False,False,False,2,52
+"### || AUTO قال كليب
+",000,False,000,False,False,False,2,33
+"### || AUTO العجلان
+",000,False,000,False,False,False,2,10
+"### || AUTO العجلان
+",000,False,000,False,False,False,2,48
+"### || AUTO عمرو ذو الكلب
+",000,False,000,False,False,False,2,478
+"### || CHECK جنوب أخته
+",000,False,000,False,False,False,2,559
+"### ||| AUTO وقالت جنوب أيضا ترثيه
+",000,False,000,False,False,False,3,167
+"### ||| AUTO وقالت ترثيه أيضا
+",000,False,000,False,False,False,3,65
+"### | AUTO (ما جاء في آخر ورقة من ديوان الهذليين)
+",000,False,000,False,False,False,1,55255

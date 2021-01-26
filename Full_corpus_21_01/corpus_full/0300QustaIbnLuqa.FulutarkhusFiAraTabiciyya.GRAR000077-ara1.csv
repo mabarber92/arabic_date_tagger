@@ -1,0 +1,301 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [book 0]
+",000,False,000,False,False,False,1,662
+"### || [chapter 0: Introduction]
+",000,False,000,False,False,False,2,660
+"### ||| هذا كتاب فلوطرخس فى الآراء الطبيعية التى ترضى بها الفلاسفة وهى خمس مقالات:
+",000,False,000,False,False,False,3,651
+"### | [book 1]
+",000,False,000,False,False,False,1,5095
+"### || [chapter 1: I Preface] بسم الله الرحمن الرحيم
+",000,False,000,False,False,False,2,183
+"### || [chapter 2: I 1]
+",000,False,000,False,False,False,2,147
+"### || [chapter 3: I 2]
+",000,False,000,False,False,False,2,110
+"### || [chapter 4: I 3]
+",000,False,000,False,False,False,2,1276
+"### || [chapter 5: I 4]
+",000,False,000,False,False,False,2,231
+"### || [chapter 6: I 5]
+",000,False,000,False,False,False,2,223
+"### || [chapter 7: I 6]
+",000,False,000,False,False,False,2,509
+"### || [chapter 8: I 7]
+",000,False,000,False,False,False,2,762
+"### || [chapter 9: I 8]
+",000,False,000,False,False,False,2,58
+"### || [chapter 10: I 9]
+",000,False,000,False,False,False,2,112
+"### || [chapter 11: I 10]
+",000,False,000,False,False,False,2,87
+"### || [chapter 12: I 11]
+",000,False,000,False,False,False,2,66
+"### || [chapter 13: I 12]
+",000,False,000,False,False,False,2,151
+"### || [chapter 14: I 13]
+",000,False,000,False,False,False,2,29
+"### || [chapter 15: I 14]
+",000,False,000,False,False,False,2,27
+"### || [chapter 16: I 15]
+",000,False,000,False,False,False,2,83
+"### || [chapter 17: I 16]
+",000,False,000,False,False,False,2,51
+"### || [chapter 18: I 17]
+",000,False,000,False,False,False,2,72
+"### || [chapter 19: I 18]
+",000,False,000,False,False,False,2,85
+"### || [chapter 20: I 19]
+",000,False,000,False,False,False,2,38
+"### || [chapter 21: I 20]
+",000,False,000,False,False,False,2,37
+"### || [chapter 22: I 21]
+",000,False,000,False,False,False,2,44
+"### || [chapter 23: I 22]
+",000,False,000,False,False,False,2,41
+"### || [chapter 24: I 23]
+",000,False,000,False,False,False,2,98
+"### || [chapter 25: I 24]
+",000,False,000,False,False,False,2,79
+"### || [chapter 26: I 25]
+",000,False,000,False,False,False,2,53
+"### || [chapter 27: I 26]
+",000,False,000,False,False,False,2,54
+"### || [chapter 28: I 27]
+",000,False,000,False,False,False,2,66
+"### || [chapter 29: I 28]
+",000,False,000,False,False,False,2,106
+"### || [chapter 30: I 29]
+",000,False,000,False,False,False,2,144
+"### || [chapter 31: I 30]
+",000,False,000,False,False,False,2,71
+"### | [book 2]
+",000,False,000,False,False,False,1,2929
+"### || [chapter 32: II Preface]
+",000,False,000,False,False,False,2,39
+"### ||| المقالة الثانية من كتاب فولوطرخس فيما برضاه الفلاسفة من 〈الآراء الطبيعية〉
+",000,False,000,False,False,False,3,31
+"### || [chapter 33: II 1]
+",000,False,000,False,False,False,2,110
+"### || [chapter 34: II 2]
+",000,False,000,False,False,False,2,41
+"### || [chapter 35: II 3]
+",000,False,000,False,False,False,2,87
+"### || [chapter 36: II 4]
+",000,False,000,False,False,False,2,80
+"### || [chapter 37: II 5]
+",000,False,000,False,False,False,2,65
+"### || [chapter 38: II 6]
+",000,False,000,False,False,False,2,160
+"### || [chapter 39: II 7]
+",000,False,000,False,False,False,2,161
+"### || [chapter 40: II 8]
+",000,False,000,False,False,False,2,53
+"### || [chapter 41: II 9]
+",000,False,000,False,False,False,2,61
+"### || [chapter 42: II 10]
+",000,False,000,False,False,False,2,43
+"### || [chapter 43: II 11]
+",000,False,000,False,False,False,2,57
+"### || [chapter 44: II 12]
+",000,False,000,False,False,False,2,88
+"### || [chapter 45: II 13]
+",000,False,000,False,False,False,2,208
+"### || [chapter 46: II 14]
+",000,False,000,False,False,False,2,45
+"### || [chapter 47: II 15]
+",000,False,000,False,False,False,2,115
+"### || [chapter 48: II 16]
+",000,False,000,False,False,False,2,79
+"### || [chapter 49: II 17]
+",000,False,000,False,False,False,2,52
+"### || [chapter 50: II 18]
+",000,False,000,False,False,False,2,34
+"### || [chapter 51: II 19]
+",000,False,000,False,False,False,2,67
+"### || [chapter 52: II 20]
+",000,False,000,False,False,False,2,207
+"### || [chapter 53: II 21]
+",000,False,000,False,False,False,2,62
+"### || [chapter 54: II 22]
+",000,False,000,False,False,False,2,58
+"### || [chapter 55: II 23]
+",000,False,000,False,False,False,2,102
+"### || [chapter 56: II 24]
+",000,False,000,False,False,False,2,171
+"### || [chapter 57: II 25]
+",000,False,000,False,False,False,2,106
+"### || [chapter 58: II 26]
+",000,False,000,False,False,False,2,34
+"### || [chapter 59: II 27]
+",000,False,000,False,False,False,2,29
+"### || [chapter 60: II 28]
+",000,False,000,False,False,False,2,107
+"### || [chapter 61: II 29]
+",000,False,000,False,False,False,2,139
+"### || [chapter 62: II 30]
+",000,False,000,False,False,False,2,93
+"### || [chapter 63: II 31]
+",000,False,000,False,False,False,2,53
+"### || [chapter 64: II 32]
+",000,False,000,False,False,False,2,121
+"### | [book 3]
+",000,False,000,False,False,False,1,2383
+"### || [chapter 65: III Preface]
+",000,False,000,False,False,False,2,71
+"### ||| المقالة الثالثة من كتاب فلوطرخس فيما يرضاه الفلاسفة من الآراء الطبيعية
+",000,False,000,False,False,False,3,63
+"### || [chapter 66: III 1]
+",000,False,000,False,False,False,2,162
+"### || [chapter 67: III 2]
+",000,False,000,False,False,False,2,211
+"### || [chapter 68: III 3]
+",000,False,000,False,False,False,2,217
+"### || [chapter 69: III 4]
+",000,False,000,False,False,False,2,76
+"### || [chapter 70: III 5]
+",000,False,000,False,False,False,2,407
+"### || [chapter 71: III 6]
+",000,False,000,False,False,False,2,65
+"### || [chapter 72: III 7]
+",000,False,000,False,False,False,2,122
+"### || [chapter 73: III 8]
+",000,False,000,False,False,False,2,48
+"### || [chapter 74: III 9]
+",000,False,000,False,False,False,2,73
+"### || [chapter 75: III 10]
+",000,False,000,False,False,False,2,56
+"### || [chapter 76: III 11]
+",000,False,000,False,False,False,2,78
+"### || [chapter 77: III 12]
+",000,False,000,False,False,False,2,65
+"### || [chapter 78: III 13]
+",000,False,000,False,False,False,2,74
+"### || [chapter 79: III 14]
+",000,False,000,False,False,False,2,42
+"### || [chapter 80: III 15]
+",000,False,000,False,False,False,2,299
+"### || [chapter 81: III 16]
+",000,False,000,False,False,False,2,133
+"### || [chapter 82: III 17]
+",000,False,000,False,False,False,2,115
+"### || [chapter 83: III 18]
+",000,False,000,False,False,False,2,67
+"### | [book 4]
+",000,False,000,False,False,False,1,2892
+"### || [chapter 84: IV Preface]
+",000,False,000,False,False,False,2,28
+"### ||| أبواب المقالة الرابعة من كتاب فلوطرخس فى الآراء الطبيعية
+",000,False,000,False,False,False,3,20
+"### || [chapter 85: IV 1]
+",000,False,000,False,False,False,2,203
+"### || [chapter 86: IV 2]
+",000,False,000,False,False,False,2,87
+"### || [chapter 87: IV 3]
+",000,False,000,False,False,False,2,118
+"### || [chapter 88: IV 4]
+",000,False,000,False,False,False,2,132
+"### || [chapter 89: IV 5]
+",000,False,000,False,False,False,2,141
+"### || [chapter 90: IV 6]
+",000,False,000,False,False,False,2,41
+"### || [chapter 91: IV 7]
+",000,False,000,False,False,False,2,90
+"### || [chapter 92: IV 8]
+",000,False,000,False,False,False,2,115
+"### || [chapter 93: IV 9]
+",000,False,000,False,False,False,2,73
+"### || [chapter 94: IV 10]
+",000,False,000,False,False,False,2,61
+"### || [chapter 95: IV 11]
+",000,False,000,False,False,False,2,184
+"### || [chapter 96: IV 12]
+",000,False,000,False,False,False,2,215
+"### || [chapter 97: IV 13]
+",000,False,000,False,False,False,2,110
+"### || [chapter 98: IV 14]
+",000,False,000,False,False,False,2,112
+"### || [chapter 99: IV 15]
+",000,False,000,False,False,False,2,63
+"### || [chapter 100: IV 16]
+",000,False,000,False,False,False,2,93
+"### || [chapter 101: IV 17]
+",000,False,000,False,False,False,2,50
+"### || [chapter 102: IV 18]
+",000,False,000,False,False,False,2,55
+"### || [chapter 103: IV 19]
+",000,False,000,False,False,False,2,240
+"### || [chapter 104: IV 20]
+",000,False,000,False,False,False,2,123
+"### || [chapter 105: IV 21]
+",000,False,000,False,False,False,2,151
+"### || [chapter 106: IV 22]
+",000,False,000,False,False,False,2,309
+"### || [chapter 107: IV 23]
+",000,False,000,False,False,False,2,96
+"### | [book 5]
+",000,False,000,False,False,False,1,3482
+"### || [chapter 108: V Preface]
+",000,False,000,False,False,False,2,17
+"### ||| أبواب المقالة الخامسة من كتاب فلوطرخس فى الآراء الطبيعية
+",000,False,000,False,False,False,3,9
+"### || [chapter 109: V 1]
+",000,False,000,False,False,False,2,91
+"### || [chapter 110: V 2]
+",000,False,000,False,False,False,2,80
+"### || [chapter 111: V 3]
+",000,False,000,False,False,False,2,83
+"### || [chapter 112: V 4]
+",000,False,000,False,False,False,2,46
+"### || [chapter 113: V 5]
+",000,False,000,False,False,False,2,91
+"### || [chapter 114: V 6]
+",000,False,000,False,False,False,2,59
+"### || [chapter 115: V 7]
+",000,False,000,False,False,False,2,170
+"### || [chapter 116: V 8]
+",000,False,000,False,False,False,2,69
+"### || [chapter 117: V 9]
+",000,False,000,False,False,False,2,108
+"### || [chapter 118: V 10]
+",000,False,000,False,False,False,2,94
+"### || [chapter 119: V 11]
+",000,False,000,False,False,False,2,91
+"### || [chapter 120: V 12]
+",000,False,000,False,False,False,2,88
+"### || [chapter 121: V 13]
+",000,False,000,False,False,False,2,144
+"### || [chapter 122: V 14]
+",000,False,000,False,False,False,2,82
+"### || [chapter 123: V 15]
+",000,False,000,False,False,False,2,113
+"### || [chapter 124: V 16]
+",000,False,000,False,False,False,2,70
+"### || [chapter 125: V 17]
+",000,False,000,False,False,False,2,74
+"### || [chapter 126: V 18]
+",000,False,000,False,False,False,2,337
+"### || [chapter 127: V 19]
+",000,False,000,False,False,False,2,209
+"### || [chapter 128: V 20]
+",000,False,000,False,False,False,2,130
+"### || [chapter 129: V 21]
+",000,False,000,False,False,False,2,94
+"### || [chapter 130: V 22]
+",000,False,000,False,False,False,2,87
+"### || [chapter 131: V 23]
+",000,False,000,False,False,False,2,56
+"### || [chapter 132: V 24]
+",000,False,000,False,False,False,2,120
+"### || [chapter 133: V 25]
+",000,False,000,False,False,False,2,146
+"### || [chapter 134: V 26]
+",000,False,000,False,False,False,2,218
+"### || [chapter 135: V 27]
+",000,False,000,False,False,False,2,68
+"### || [chapter 136: V 28]
+",000,False,000,False,False,False,2,42
+"### || [chapter 137: V 29]
+",000,False,000,False,False,False,2,157
+"### || [chapter 138: V 30]
+",000,False,000,False,False,False,2,246

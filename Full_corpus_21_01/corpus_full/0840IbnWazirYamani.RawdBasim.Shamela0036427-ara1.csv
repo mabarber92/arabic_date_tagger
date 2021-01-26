@@ -1,0 +1,545 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | تقديم
+",000,False,000,False,False,False,1,777
+"### | مقدمة التحقيق
+",000,False,000,False,False,False,1,596
+"### | 1 - 
+",000,False,000,False,False,False,1,52
+"### | 2 - 
+",000,False,000,False,False,False,1,59
+"### | 1 - 
+",000,False,000,False,False,False,1,7
+"### | 2 - 
+",000,False,000,False,False,False,1,7
+"### | 3 - 
+",000,False,000,False,False,False,1,5
+"### | 4 - 
+",000,False,000,False,False,False,1,11
+"### | 5 - 
+",000,False,000,False,False,False,1,5
+"### | 6 - 
+",000,False,000,False,False,False,1,11
+"### | 7 - 
+",000,False,000,False,False,False,1,7
+"### | 8 - 
+",000,False,000,False,False,False,1,7
+"### | 9 - 
+",000,False,000,False,False,False,1,14
+"### | أولا: ترجمة المؤلف
+",000,False,000,False,False,False,1,61
+"### | الثروة العلمية التي خلفها
+",000,False,000,False,False,False,1,456
+"### | المدرسة الممتدة للفكر الإصلاحي 
+",000,False,000,False,False,False,1,561
+"### | .... 
+",000,False,000,False,False,False,1,18
+"### | 1 - 
+",000,False,000,False,False,False,1,31
+"### | 2 - 
+",000,False,000,False,False,False,1,16
+"### | 3 - 
+",000,False,000,False,False,False,1,19
+"### | 4 - 
+",000,False,000,False,False,False,1,23
+"### | 5 - 
+",000,False,000,False,False,False,1,15
+"### | 6 - 
+",000,False,000,False,False,False,1,11
+"### | 7 - 
+",000,False,000,False,False,False,1,35
+"### | ...... 
+",000,False,000,False,False,False,1,331
+"### | النسخة الخطية
+",000,False,000,False,False,False,1,381
+"### | مولده
+",000,False,000,False,False,False,1,40
+"### | [مؤلفاته, وبعض شعره]
+",000,False,000,False,False,False,1,1300
+"### | ذكر شيوخه ورحلته في طلب العلم ورسوخه
+",000,False,000,False,False,False,1,2009
+"### | ثانيا: التعريف بالكتاب
+",000,False,000,False,False,False,1,5
+"### | اسم الكتاب
+",000,False,000,False,False,False,1,41
+"### | اسم الكتاب
+",000,False,000,False,False,False,1,142
+"### | إثبات نسبة الكتاب إلى مؤلفه
+",000,False,000,False,False,False,1,21
+"### | 1 - 
+",000,False,000,False,False,False,1,22
+"### | .... 
+",000,False,000,False,False,False,1,2
+"### | 2 - 
+",000,False,000,False,False,False,1,38
+"### | 3 - 
+",000,False,000,False,False,False,1,27
+"### | 4 - 
+",000,False,000,False,False,False,1,37
+"### | 5 - 
+",000,False,000,False,False,False,1,82
+"### | 6 - 
+",000,False,000,False,False,False,1,25
+"### | 7 - 
+",000,False,000,False,False,False,1,22
+"### | تاريخ تأليفه
+",000,False,000,False,False,False,1,86
+"### | .... 
+",000,False,000,False,False,False,1,218
+"### | سبب تأليفه
+",000,False,000,False,False,False,1,195
+"### | ..... 
+",000,False,000,False,False,False,1,38
+"### | .... 
+",000,False,000,False,False,False,1,131
+"### | موارده
+",000,False,000,False,False,False,1,191
+"### | 1 - 
+",000,False,000,False,False,False,1,29
+"### | 2 - 
+",000,False,000,False,False,False,1,21
+"### | 3 - 
+",000,False,000,False,False,False,1,9
+"### | 4 - 
+",000,False,000,False,False,False,1,9
+"### | 5 - 
+",000,False,000,False,False,False,1,15
+"### | 6 - 
+",000,False,000,False,False,False,1,15
+"### | 7 - 
+",000,False,000,False,False,False,1,11
+"### | 8 - 
+",000,False,000,False,False,False,1,16
+"### | 9 - 
+",000,False,000,False,False,False,1,15
+"### | 10 - 
+",000,False,000,False,False,False,1,9
+"### | 11 - 
+",000,False,000,False,False,False,1,13
+"### | 12 - 
+",000,False,000,False,False,False,1,21
+"### | 13 - 
+",000,False,000,False,False,False,1,18
+"### | 14 - 
+",000,False,000,False,False,False,1,18
+"### | 15 - 
+",000,False,000,False,False,False,1,13
+"### | 16 - 
+",000,False,000,False,False,False,1,17
+"### | 17 - 
+",000,False,000,False,False,False,1,17
+"### | 18 - 
+",000,False,000,False,False,False,1,8
+"### | 19 - 
+",000,False,000,False,False,False,1,13
+"### | 20 - 
+",000,False,000,False,False,False,1,7
+"### | 21 - 
+",000,False,000,False,False,False,1,26
+"### | 22 - 
+",000,False,000,False,False,False,1,28
+"### | 23 - 
+",000,False,000,False,False,False,1,10
+"### | 1 - 
+",000,False,000,False,False,False,1,12
+"### | 2 - 
+",000,False,000,False,False,False,1,11
+"### | 3 - 
+",000,False,000,False,False,False,1,12
+"### | 4 - 
+",000,False,000,False,False,False,1,7
+"### | 5 - 
+",000,False,000,False,False,False,1,7
+"### | 6 - 
+",000,False,000,False,False,False,1,18
+"### | 7 - 
+",000,False,000,False,False,False,1,22
+"### | 8 - 
+",000,False,000,False,False,False,1,8
+"### | 9 - 
+",000,False,000,False,False,False,1,21
+"### | 10 - 
+",000,False,000,False,False,False,1,13
+"### | 11 - 
+",000,False,000,False,False,False,1,8
+"### | 12 - 
+",000,False,000,False,False,False,1,29
+"### | 13 - 
+",000,False,000,False,False,False,1,11
+"### | 14 - 
+",000,False,000,False,False,False,1,16
+"### | 15 - 
+",000,False,000,False,False,False,1,8
+"### | 16 - 
+",000,False,000,False,False,False,1,14
+"### | 17 - 
+",000,False,000,False,False,False,1,23
+"### | 18 - 
+",000,False,000,False,False,False,1,19
+"### | 19 - 
+",000,False,000,False,False,False,1,17
+"### | 20 - 
+",000,False,000,False,False,False,1,9
+"### | 1 - 
+",000,False,000,False,False,False,1,6
+"### | 2 - 
+",000,False,000,False,False,False,1,8
+"### | 3 - 
+",000,False,000,False,False,False,1,5
+"### | 4 - 
+",000,False,000,False,False,False,1,7
+"### | 5 - 
+",000,False,000,False,False,False,1,7
+"### | 6 - 
+",000,False,000,False,False,False,1,6
+"### | 7 - 
+",000,False,000,False,False,False,1,10
+"### | 8 - 
+",000,False,000,False,False,False,1,4
+"### | 9 - 
+",000,False,000,False,False,False,1,11
+"### | 10 - 
+",000,False,000,False,False,False,1,12
+"### | 11 - 
+",000,False,000,False,False,False,1,14
+"### | 12 - 
+",000,False,000,False,False,False,1,17
+"### | 13 - 
+",000,False,000,False,False,False,1,7
+"### | 14 - 
+",000,False,000,False,False,False,1,16
+"### | 15 - 
+",000,False,000,False,False,False,1,8
+"### | 16 - 
+",000,False,000,False,False,False,1,31
+"### | الثناء على الكتاب وعكسه
+",000,False,000,False,False,False,1,682
+"### | 1 - 
+",000,False,000,False,False,False,1,27
+"### | 2 - 
+",000,False,000,False,False,False,1,20
+"### | علاقة المختصر بالأصل, وأوجه المغايرة وامتيازات المختصر
+",000,False,000,False,False,False,1,167
+"### | 1 - 
+",000,False,000,False,False,False,1,119
+"### | 2 - 
+",000,False,000,False,False,False,1,96
+"### | 3 - 
+",000,False,000,False,False,False,1,76
+"### | 4 - 
+",000,False,000,False,False,False,1,112
+"### | غرضه منه, ومنهجه فيه
+",000,False,000,False,False,False,1,204
+"### | 1 - 
+",000,False,000,False,False,False,1,110
+"### | 2 - 
+",000,False,000,False,False,False,1,43
+"### | 3 - 
+",000,False,000,False,False,False,1,402
+"### | 4 - 
+",000,False,000,False,False,False,1,57
+"### | أمور لها علاقة بالمنهج
+",000,False,000,False,False,False,1,22
+"### | 1 - 
+",000,False,000,False,False,False,1,115
+"### | 2 - 
+",000,False,000,False,False,False,1,157
+"### | 3 - 
+",000,False,000,False,False,False,1,503
+"### | طبعات الكتاب
+",000,False,000,False,False,False,1,10
+"### | 1 - 
+",000,False,000,False,False,False,1,149
+"### | 2 - 
+",000,False,000,False,False,False,1,178
+"### | 3 - 
+",000,False,000,False,False,False,1,23
+"### | 4 - 
+",000,False,000,False,False,False,1,48
+"### | مخطوطات الكتاب
+",000,False,000,False,False,False,1,118
+"### | 1 - 
+",000,False,000,False,False,False,1,132
+"### | العلماء أصحاب التعليقات
+",000,False,000,False,False,False,1,5
+"### | 1 - 
+",000,False,000,False,False,False,1,25
+"### | 2 - 
+",000,False,000,False,False,False,1,42
+"### | 3 - 
+",000,False,000,False,False,False,1,96
+"### | 4 - 
+",000,False,000,False,False,False,1,19
+"### | 5 - 
+",000,False,000,False,False,False,1,15
+"### | 6 - 
+",000,False,000,False,False,False,1,39
+"### | 2 - 
+",000,False,000,False,False,False,1,270
+"### | 3 - 
+",000,False,000,False,False,False,1,210
+"### | خطة العمل في الكتاب
+",000,False,000,False,False,False,1,8
+"### | 1 - 
+",000,False,000,False,False,False,1,25
+"### | 2 - 
+",000,False,000,False,False,False,1,17
+"### | 3 - 
+",000,False,000,False,False,False,1,13
+"### | 4 - 
+",000,False,000,False,False,False,1,91
+"### | 5 - 
+",000,False,000,False,False,False,1,24
+"### | 6 - 
+",000,False,000,False,False,False,1,39
+"### | 7 - 
+",000,False,000,False,False,False,1,43
+"### | النص المحقق
+",000,False,000,False,False,False,1,2571
+"### | الوجه الأول
+",000,False,000,False,False,False,1,692
+"### | الوجه الثاني
+",000,False,000,False,False,False,1,132
+"### | الوجه الثالث
+",000,False,000,False,False,False,1,138
+"### | الوجه الرابع
+",000,False,000,False,False,False,1,203
+"### | الوجه الخامس
+",000,False,000,False,False,False,1,201
+"### | الوجه السادس
+",000,False,000,False,False,False,1,755
+"### | الوجه السابع: 
+",000,False,000,False,False,False,1,3167
+"### | الوجه الثامن
+",000,False,000,False,False,False,1,571
+"### | الوجه التاسع
+",000,False,000,False,False,False,1,276
+"### | الوجه العاشر
+",000,False,000,False,False,False,1,863
+"### | الوجه الحادي عشر
+",000,False,000,False,False,False,1,574
+"### | الوجه الثاني عشر: 
+",000,False,000,False,False,False,1,196
+"### | تنبيهات
+",000,False,000,False,False,False,1,604
+"### | التنبيه الثاني: 
+",000,False,000,False,False,False,1,142
+"### | التنبيه الثالث
+",000,False,000,False,False,False,1,128
+"### | المبحث الأول
+",000,False,000,False,False,False,1,136
+"### | المبحث الثاني
+",000,False,000,False,False,False,1,778
+"### | الوجه الأول
+",000,False,000,False,False,False,1,168
+"### | الوجه الثاني
+",000,False,000,False,False,False,1,791
+"### | المسألة الأولى
+",000,False,000,False,False,False,1,2731
+"### | الفصل الأول: 
+",000,False,000,False,False,False,1,684
+"### | الفصل الثاني: 
+",000,False,000,False,False,False,1,35
+"### | الحجة الأولى: 
+",000,False,000,False,False,False,1,648
+"### | الحجة الثانية
+",000,False,000,False,False,False,1,590
+"### | الحجة الثالثة: 
+",000,False,000,False,False,False,1,2269
+"### | البحث الثاني
+",000,False,000,False,False,False,1,63
+"### | البحث الثالث
+",000,False,000,False,False,False,1,66
+"### | البحث الرابع: 
+",000,False,000,False,False,False,1,77
+"### | البحث الخامس
+",000,False,000,False,False,False,1,37
+"### | البحث السادس: 
+",000,False,000,False,False,False,1,57
+"### | البحث السابع: 
+",000,False,000,False,False,False,1,68
+"### | البحث الثامن: 
+",000,False,000,False,False,False,1,21
+"### | البحث التاسع: 
+",000,False,000,False,False,False,1,157
+"### | البحث العاشر
+",000,False,000,False,False,False,1,394
+"### | البحث الحادي عشر
+",000,False,000,False,False,False,1,1051
+"### | النوع الأول: 
+",000,False,000,False,False,False,1,650
+"### | النوع الثاني: 
+",000,False,000,False,False,False,1,1865
+"### | الوجه الثاني: 
+",000,False,000,False,False,False,1,950
+"### | المسألة الأولى
+",000,False,000,False,False,False,1,431
+"### | المسألة الثانية: 
+",000,False,000,False,False,False,1,927
+"### | المسألة [الثالثة] 
+",000,False,000,False,False,False,1,2449
+"### | الأولى: في وجوب الترجيح أو جوازه في حق المميز من طلبة العلم 
+",000,False,000,False,False,False,1,2212
+"### | النظر الأول: 
+",000,False,000,False,False,False,1,573
+"### | النظر الثاني: 
+",000,False,000,False,False,False,1,90
+"### | النظر الثالث
+",000,False,000,False,False,False,1,130
+"### | النظر الرابع: 
+",000,False,000,False,False,False,1,270
+"### | النظر الخامس: 
+",000,False,000,False,False,False,1,1043
+"### | الأول: 
+",000,False,000,False,False,False,1,1154
+"### | الثاني: 
+",000,False,000,False,False,False,1,445
+"### | الوهم الثاني: 
+",000,False,000,False,False,False,1,3514
+"### | الموضع الأول: 
+",000,False,000,False,False,False,1,294
+"### | الموضع الثاني
+",000,False,000,False,False,False,1,25
+"### | الموضع الثالث
+",000,False,000,False,False,False,1,43
+"### | الموضع الرابع: 
+",000,False,000,False,False,False,1,4052
+"### | الثالث
+",000,False,000,False,False,False,1,3056
+"### | المحمل الأول
+",000,False,000,False,False,False,1,340
+"### | المحمل الثاني: 
+",000,False,000,False,False,False,1,210
+"### | المحمل الثالث: 
+",000,False,000,False,False,False,1,341
+"### | المحمل الرابع: 
+",000,False,000,False,False,False,1,115
+"### | المحمل الخامس
+",000,False,000,False,False,False,1,479
+"### | الثاني
+",000,False,000,False,False,False,1,76
+"### | الأول: 
+",000,False,000,False,False,False,1,116
+"### | الثاني
+",000,False,000,False,False,False,1,324
+"### | الثالث: 
+",000,False,000,False,False,False,1,88
+"### | الرابع: 
+",000,False,000,False,False,False,1,66
+"### | الخامس
+",000,False,000,False,False,False,1,246
+"### | السادس: 
+",000,False,000,False,False,False,1,259
+"### | السابع: 
+",000,False,000,False,False,False,1,944
+"### | الثامن: 
+",000,False,000,False,False,False,1,72
+"### | التاسع: 
+",000,False,000,False,False,False,1,86
+"### | العاشر
+",000,False,000,False,False,False,1,76
+"### | الحادي عشر
+",000,False,000,False,False,False,1,136
+"### | الثاني عشر: 
+",000,False,000,False,False,False,1,185
+"### | الثالث عشر
+",000,False,000,False,False,False,1,949
+"### | الرابع عشر: 
+",000,False,000,False,False,False,1,837
+"### | الطريق الأولى: 
+",000,False,000,False,False,False,1,294
+"### | الطريق الثانية: 
+",000,False,000,False,False,False,1,72
+"### | الفرقة الأولى
+",000,False,000,False,False,False,1,529
+"### | الفرقة الثانية
+",000,False,000,False,False,False,1,550
+"### | الفرقة الثالثة: 
+",000,False,000,False,False,False,1,85
+"### | الفرقة الرابعة: 
+",000,False,000,False,False,False,1,596
+"### | الوهم الرابع عشر: 
+",000,False,000,False,False,False,1,226
+"### | الوهم الخامس عشر
+",000,False,000,False,False,False,1,93
+"### | الوهم السادس عشر: 
+",000,False,000,False,False,False,1,1835
+"### | الفصل الأول
+",000,False,000,False,False,False,1,259
+"### | الفصل الثاني
+",000,False,000,False,False,False,1,2639
+"### | الفصل الثالث: 
+",000,False,000,False,False,False,1,634
+"### | الفصل الخامس
+",000,False,000,False,False,False,1,10
+"### | الفصل الرابع: 
+",000,False,000,False,False,False,1,270
+"### | الفصل الخامس
+",000,False,000,False,False,False,1,619
+"### | الوهم الثامن عشر: 
+",000,False,000,False,False,False,1,1234
+"### | المقدمة الثالثة: 
+",000,False,000,False,False,False,1,141
+"### | المقدمة الرابعة: 
+",000,False,000,False,False,False,1,907
+"### | المرجح الأول: 
+",000,False,000,False,False,False,1,51
+"### | المرجح الثاني: 
+",000,False,000,False,False,False,1,76
+"### | المرجح الثالث: 
+",000,False,000,False,False,False,1,74
+"### | المرجح الرابع: 
+",000,False,000,False,False,False,1,56
+"### | المرجح الخامس: 
+",000,False,000,False,False,False,1,65
+"### | المرتبة الأولى: حمل الكلام على التخيل 
+",000,False,000,False,False,False,1,691
+"### | المرتبة الثانية: حمل الكلام على المجاز اللغوي
+",000,False,000,False,False,False,1,4851
+"### | الأولى
+",000,False,000,False,False,False,1,402
+"### | الثانية
+",000,False,000,False,False,False,1,235
+"### | محاجة آدم وموسى 
+",000,False,000,False,False,False,1,229
+"### | الفصل الأول
+",000,False,000,False,False,False,1,585
+"### | الفصل الثاني: 
+",000,False,000,False,False,False,1,491
+"### | الفصل الثالث: 
+",000,False,000,False,False,False,1,845
+"### | أما المعارضة: 
+",000,False,000,False,False,False,1,205
+"### | الوجه الأول 
+",000,False,000,False,False,False,1,327
+"### | الوجه الثاني: 
+",000,False,000,False,False,False,1,851
+"### | الحجة الأولى: 
+",000,False,000,False,False,False,1,627
+"### | الحجة الثانية: 
+",000,False,000,False,False,False,1,51
+"### | الحجة الثالثة: 
+",000,False,000,False,False,False,1,62
+"### | الحجة الرابعة: 
+",000,False,000,False,False,False,1,203
+"### | الحجة الخامسة: 
+",000,False,000,False,False,False,1,95
+"### | الحجة السادسة: 
+",000,False,000,False,False,False,1,81
+"### | الحجة السابعة: 
+",000,False,000,False,False,False,1,99
+"### | الحجة الثامنة: 
+",000,False,000,False,False,False,1,31
+"### | الحجة التاسعة: 
+",000,False,000,False,False,False,1,252
+"### | الحجة العاشرة: 
+",000,False,000,False,False,False,1,2094
+"### | الفائدة الرابعة: في ذكر ثلاث طوائف 
+",000,False,000,False,False,False,1,19
+"### | الطائفة الأولى المجبرة: 
+",000,False,000,False,False,False,1,966
+"### | الطائفة الثانية: المرجئة
+",000,False,000,False,False,False,1,6744
+"### | المسألة الأولى ms335
+",000,False,000,False,False,False,1,1591
+"### | المسألة الثانية: 
+",000,False,000,False,False,False,1,3356

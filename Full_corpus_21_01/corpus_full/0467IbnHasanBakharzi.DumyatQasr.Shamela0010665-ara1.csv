@@ -1,0 +1,635 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | الجزء الأول
+",000,False,000,False,False,False,1,4
+"### | مقدمة التحقيق
+",000,False,000,False,False,False,1,4
+"### | مقدمة الدمية
+",000,False,000,False,False,False,1,2005
+"### | فصل
+",000,False,000,False,False,False,1,478
+"### | التراجم
+",000,False,000,False,False,False,1,2
+"### | القسم الأول في طبقات شعراء البدو والحجاز
+",000,False,000,False,False,False,1,1498
+"### | [2] فقل للعود [3] أعلن
+",000,False,000,False,False,False,1,434
+"### | 9- 
+",000,False,000,False,False,False,1,25
+"### | أبو جوثة 
+",000,False,000,False,False,False,1,1510
+"### | 20- 
+",000,False,000,False,False,False,1,15
+"### | الواثلي 
+",000,False,000,False,False,False,1,386
+"### | 21- 
+",000,False,000,False,False,False,1,19
+"### | اللباني 
+",000,False,000,False,False,False,1,111
+"### | 23- 
+",000,False,000,False,False,False,1,16
+"### | سليمان بن [خضر الطائفي 
+",000,False,000,False,False,False,1,1146
+"### | 
+",000,False,000,False,False,False,1,0
+"### | -[الريباس] [1] أم كلثوم المغنية 
+",000,False,000,False,False,False,1,114
+"### | القسم الثاني في طبقات شعراء الشام وديار بكر وآذربايجان والجزيرة وسائر بلاد المغرب
+",000,False,000,False,False,False,1,5243
+"### | 15- 
+",000,False,000,False,False,False,1,26
+"### | الفطيري 
+",000,False,000,False,False,False,1,216
+"### | 17- 
+",000,False,000,False,False,False,1,20
+"### | تميم بن المعز 
+",000,False,000,False,False,False,1,63
+"### | 19- 
+",000,False,000,False,False,False,1,49
+"### | عمران الطولقي 
+",000,False,000,False,False,False,1,702
+"### | 26- 
+",000,False,000,False,False,False,1,26
+"### | ابن ماني 
+",000,False,000,False,False,False,1,71
+"### | 27- 
+",000,False,000,False,False,False,1,16
+"### | الماهر الدمشقي 
+",000,False,000,False,False,False,1,7719
+"### | القسم الثالث في فضلاء العراق
+",000,False,000,False,False,False,1,3833
+"### | 26- 
+",000,False,000,False,False,False,1,37
+"### | الشعباني
+",000,False,000,False,False,False,1,3415
+"### | 47- 
+",000,False,000,False,False,False,1,78
+"### | أبو القاسم) [3] الصروي 
+",000,False,000,False,False,False,1,4091
+"### | القسم الرابع في شعراء الري والجبال واصفهان وفارس وكرمان
+",000,False,000,False,False,False,1,1397
+"### | 8- 
+",000,False,000,False,False,False,1,18
+"### | ابن البديع الاصفهاني 
+",000,False,000,False,False,False,1,358
+"### | 
+",000,False,000,False,False,False,1,0
+"### | -[الأستاذ الرئيس] [2] أبو نصر 
+",000,False,000,False,False,False,1,10657
+"### | القسم الخامس في فضلاء جرجان واسترآباد وقومس ودهستان وخوارزم وماوراء النهر
+",000,False,000,False,False,False,1,10520
+"### | الفهارس
+",000,False,000,False,False,False,1,13
+"### | مقدمة التحقيق
+",000,False,000,False,False,False,1,7
+"### | القسم الاول في طبقات شعراء البدو والحجاز
+",000,False,000,False,False,False,1,95
+"### | القسم الثاني في طبقات شعراء الشام وديار بكر وآذربايجان والجزيرة وسائر بلاد المغرب
+",000,False,000,False,False,False,1,257
+"### | القسم الثالث في فضلاء العراق
+",000,False,000,False,False,False,1,258
+"### | القسم الرابع في شعراء الري والجبال واصفهان وفارس وكرمان
+",000,False,000,False,False,False,1,315
+"### | القسم الخامس من فضلاء جرجان واستراباد ms179 وقومس ودهستان وخوارزم وماوراء النهر
+",000,False,000,False,False,False,1,243
+"### | خاتمة الكتاب
+",000,False,000,False,False,False,1,4
+"### | 2- 
+",000,False,000,False,False,False,1,2
+"### | فهرست 
+",000,False,000,False,False,False,1,2
+"### | أ
+",000,False,000,False,False,False,1,7
+"### | ب
+",000,False,000,False,False,False,1,226
+"### | ب
+",000,False,000,False,False,False,1,5
+"### | ت
+",000,False,000,False,False,False,1,2
+"### | ح
+",000,False,000,False,False,False,1,10
+"### | ج
+",000,False,000,False,False,False,1,290
+"### | ع
+",000,False,000,False,False,False,1,3
+"### | ر
+",000,False,000,False,False,False,1,5
+"### | ح
+",000,False,000,False,False,False,1,11
+"### | د
+",000,False,000,False,False,False,1,3
+"### | س
+",000,False,000,False,False,False,1,17
+"### | ص
+",000,False,000,False,False,False,1,17
+"### | غ
+",000,False,000,False,False,False,1,12
+"### | ط
+",000,False,000,False,False,False,1,34
+"### | ز
+",000,False,000,False,False,False,1,79
+"### | ش
+",000,False,000,False,False,False,1,153
+"### | ل
+",000,False,000,False,False,False,1,5
+"### | ن
+",000,False,000,False,False,False,1,7
+"### | ف
+",000,False,000,False,False,False,1,19
+"### | م
+",000,False,000,False,False,False,1,20
+"### | ق
+",000,False,000,False,False,False,1,45
+"### | ك
+",000,False,000,False,False,False,1,27
+"### | غ
+",000,False,000,False,False,False,1,219
+"### | و
+",000,False,000,False,False,False,1,10
+"### | ن
+",000,False,000,False,False,False,1,129
+"### | ى
+",000,False,000,False,False,False,1,110
+"### | ه
+",000,False,000,False,False,False,1,42
+"### | الجزء الثاني
+",000,False,000,False,False,False,1,4
+"### | مقدمة التحقيق
+",000,False,000,False,False,False,1,21
+"### | رب يسر
+",000,False,000,False,False,False,1,148
+"### | تتمة التراجم
+",000,False,000,False,False,False,1,4
+"### | فصل في شعراء خراسان وقهستان وبست وسجستان وغزنة، وما يضاف إليها
+",000,False,000,False,False,False,1,417
+"### | .... 
+",000,False,000,False,False,False,1,1414
+"### | .... 
+",000,False,000,False,False,False,1,845
+"### | .... 
+",000,False,000,False,False,False,1,1306
+"### | .... 
+",000,False,000,False,False,False,1,5564
+"### | فصل في شعراء بلخ
+",000,False,000,False,False,False,1,51
+"### | -[من هاهنا] [5]-
+",000,False,000,False,False,False,1,4608
+"### | 25- 
+",000,False,000,False,False,False,1,67
+"### | المصباح 
+",000,False,000,False,False,False,1,407
+"### | 27- 
+",000,False,000,False,False,False,1,107
+"### | [الأديب الأزدي] 
+",000,False,000,False,False,False,1,874
+"### | الإمام أبو اسماعيل عبد الله بن محمد الأنصاري
+",000,False,000,False,False,False,1,66
+"### | [33- الإمام أبو اسماعيل عبد الله بن محمد الأنصاري] «2» 
+",000,False,000,False,False,False,1,1241
+"### | .... 
+",000,False,000,False,False,False,1,201
+"### | .... 
+",000,False,000,False,False,False,1,1222
+"### | 
+",000,False,000,False,False,False,1,0
+"### | -[الشيخ] [1] أبو عبد [2] الله ناصر ابن جعفر البوشنجي 
+",000,False,000,False,False,False,1,2345
+"### | ذكر القاضي اليعقوبي [2] وابنه أبي سعد [3]
+",000,False,000,False,False,False,1,136
+"### | فصل في طبقات نيسابور
+",000,False,000,False,False,False,1,12968
+"### | .... 
+",000,False,000,False,False,False,1,673
+"### | فصل في طبقة بيهق
+",000,False,000,False,False,False,1,2199
+"### | فصل في طبقة أسفراين
+",000,False,000,False,False,False,1,5849
+"### | 146- أبو خداش محمد بن سعيد [2] بن خداش ابن ابراهيم بن ميسرة 
+",000,False,000,False,False,False,1,5777
+"### | - أخوه أبو سعد [محمد بن تمام 
+",000,False,000,False,False,False,1,2998
+"### | فصل في شعراء جام
+",000,False,000,False,False,False,1,578
+"### | فصل في شعراء زوزن
+",000,False,000,False,False,False,1,4391
+"### | ابنه الشيخ أبو الأزهر 
+",000,False,000,False,False,False,1,339
+"### | الرئيس أبو القاسم عبد الحميد بن يحيى 
+",000,False,000,False,False,False,1,5598
+"### | .... 
+",000,False,000,False,False,False,1,1083
+"### | الفهرس
+",000,False,000,False,False,False,1,26
+"### | فصل في شعراء بلخ
+",000,False,000,False,False,False,1,77
+"### | 41/-/ 
+",000,False,000,False,False,False,1,5
+"### | 43/-/ 
+",000,False,000,False,False,False,1,12
+"### | 47/-/ 
+",000,False,000,False,False,False,1,22
+"### | 55/-/ 
+",000,False,000,False,False,False,1,20
+"### | فصل في طبقات نيسابور
+",000,False,000,False,False,False,1,113
+"### | فصل في طبقة بيهق
+",000,False,000,False,False,False,1,31
+"### | فصل في طبقة أسفراين
+",000,False,000,False,False,False,1,33
+"### | 142/-/ 
+",000,False,000,False,False,False,1,72
+"### | فصل في شعراء جام
+",000,False,000,False,False,False,1,16
+"### | فصل في شعراء زوزن
+",000,False,000,False,False,False,1,27
+"### | 187/-/ 
+",000,False,000,False,False,False,1,44
+"### | 205/-/ 
+",000,False,000,False,False,False,1,54
+"### | الجزء الثالث
+",000,False,000,False,False,False,1,4
+"### | القسم السابع في أئمة الأدب الذين لم يجر لهم في الشعر رسم
+",000,False,000,False,False,False,1,1403
+"### | الأديب أبو القاسم مهدي بن أحمد الخوافي، 
+",000,False,000,False,False,False,1,63
+"### | 12- 
+",000,False,000,False,False,False,1,1580
+"### | 
+",000,False,000,False,False,False,1,0
+"### | فصل 
+",000,False,000,False,False,False,1,339
+"### | فصل [1]
+",000,False,000,False,False,False,1,879
+"### | تصويب واستدراك
+",000,False,000,False,False,False,1,29
+"### | - الجزء الاول-
+",000,False,000,False,False,False,1,58
+"### | - الجزء الثاني-
+",000,False,000,False,False,False,1,28
+"### | دراسة أدبية ونقدية لدمية القصر
+",000,False,000,False,False,False,1,7
+"### | بين يدي الدراسة
+",000,False,000,False,False,False,1,1193
+"### | الفصل الأول
+",000,False,000,False,False,False,1,4
+"### | ترجمة المؤلف
+",000,False,000,False,False,False,1,12
+"### | اسمه وكنيته ولقبه:
+",000,False,000,False,False,False,1,255
+"### | أبوه ومقامه:
+",000,False,000,False,False,False,1,192
+"### | علمه وأخباره
+",000,False,000,False,False,False,1,419
+"### | مقامه وأدبه:
+",000,False,000,False,False,False,1,129
+"### | مقتله:
+",000,False,000,False,False,False,1,163
+"### | مؤلفاته:
+",000,False,000,False,False,False,1,13
+"### | 1- 
+",000,False,000,False,False,False,1,13
+"### | 2- 
+",000,False,000,False,False,False,1,24
+"### | 3- 
+",000,False,000,False,False,False,1,8
+"### | 4- 
+",000,False,000,False,False,False,1,35
+"### | 5- 
+",000,False,000,False,False,False,1,2128
+"### | الفصل الثاني النسخ
+",000,False,000,False,False,False,1,114
+"### | النسخة السليمانية 
+",000,False,000,False,False,False,1,18
+"### | 1- 
+",000,False,000,False,False,False,1,964
+"### | النسخ البريطانية:
+",000,False,000,False,False,False,1,24
+"### | 5- 
+",000,False,000,False,False,False,1,79
+"### | 1- 
+",000,False,000,False,False,False,1,9
+"### | 2- 
+",000,False,000,False,False,False,1,19
+"### | 3- 
+",000,False,000,False,False,False,1,19
+"### | 4- 
+",000,False,000,False,False,False,1,16
+"### | 5- 
+",000,False,000,False,False,False,1,66
+"### | 6- 
+",000,False,000,False,False,False,1,123
+"### | 1- 
+",000,False,000,False,False,False,1,19
+"### | 2- 
+",000,False,000,False,False,False,1,15
+"### | 3- 
+",000,False,000,False,False,False,1,17
+"### | 4- 
+",000,False,000,False,False,False,1,42
+"### | 7- 
+",000,False,000,False,False,False,1,105
+"### | 8- 
+",000,False,000,False,False,False,1,108
+"### | 9- 
+",000,False,000,False,False,False,1,155
+"### | 10- 
+",000,False,000,False,False,False,1,94
+"### | 1- 
+",000,False,000,False,False,False,1,17
+"### | 2- 
+",000,False,000,False,False,False,1,13
+"### | 3- 
+",000,False,000,False,False,False,1,204
+"### | 12- 
+",000,False,000,False,False,False,1,204
+"### | والخلاصة
+",000,False,000,False,False,False,1,18
+"### | 1- 
+",000,False,000,False,False,False,1,13
+"### | 2- 
+",000,False,000,False,False,False,1,17
+"### | 3- 
+",000,False,000,False,False,False,1,30
+"### | 4- 
+",000,False,000,False,False,False,1,19
+"### | 5- 
+",000,False,000,False,False,False,1,35
+"### | 6- 
+",000,False,000,False,False,False,1,200
+"### | 1- 
+",000,False,000,False,False,False,1,13
+"### | 2- 
+",000,False,000,False,False,False,1,12
+"### | 3- 
+",000,False,000,False,False,False,1,11
+"### | 4- 
+",000,False,000,False,False,False,1,19
+"### | 5- 
+",000,False,000,False,False,False,1,19
+"### | 1- 
+",000,False,000,False,False,False,1,12
+"### | 2- 
+",000,False,000,False,False,False,1,948
+"### | 4- 
+",000,False,000,False,False,False,1,99
+"### | الأعلام 
+",000,False,000,False,False,False,1,1588
+"### | الفصل الثالث الدمية حلقة وصل
+",000,False,000,False,False,False,1,169
+"### | 2- 
+",000,False,000,False,False,False,1,150
+"### | السلسلة الأدبية 
+",000,False,000,False,False,False,1,24
+"### | أسماء السلسلة الأدبية
+",000,False,000,False,False,False,1,53
+"### | 2- 
+",000,False,000,False,False,False,1,60
+"### | 3- 
+",000,False,000,False,False,False,1,29
+"### | 4- 
+",000,False,000,False,False,False,1,57
+"### | 5- 
+",000,False,000,False,False,False,1,51
+"### | 6- 
+",000,False,000,False,False,False,1,14
+"### | 7- 
+",000,False,000,False,False,False,1,41
+"### | 8- 
+",000,False,000,False,False,False,1,49
+"### | 9- 
+",000,False,000,False,False,False,1,12
+"### | 10- 
+",000,False,000,False,False,False,1,20
+"### | 11- 
+",000,False,000,False,False,False,1,37
+"### | 12- 
+",000,False,000,False,False,False,1,30
+"### | 13- 
+",000,False,000,False,False,False,1,422
+"### | 1- 
+",000,False,000,False,False,False,1,15
+"### | 2- 
+",000,False,000,False,False,False,1,17
+"### | 3- 
+",000,False,000,False,False,False,1,14
+"### | 4- 
+",000,False,000,False,False,False,1,278
+"### | الفصل الرابع الرواية والرواة
+",000,False,000,False,False,False,1,1811
+"### | الفصل الخامس منهج النقد
+",000,False,000,False,False,False,1,93
+"### | آ- النقد الأدبي:
+",000,False,000,False,False,False,1,1060
+"### | ب- النقد البلاغي:
+",000,False,000,False,False,False,1,499
+"### | الموازنة بين الشعراء:
+",000,False,000,False,False,False,1,958
+"### | ج- النقد اللغوي:
+",000,False,000,False,False,False,1,417
+"### | د- النحو والعروض:
+",000,False,000,False,False,False,1,378
+"### | الفصل السادس اسلوب الباخرزي من دميته
+",000,False,000,False,False,False,1,112
+"### | أ- الصنعة اللفظية:
+",000,False,000,False,False,False,1,527
+"### | ب- التلاءب بالأسماء:
+",000,False,000,False,False,False,1,128
+"### | ج- الصنعة الأسلوبية:
+",000,False,000,False,False,False,1,167
+"### | د- الصور الفنية:
+",000,False,000,False,False,False,1,207
+"### | ه- أثر الاقتباس والتضمين:
+",000,False,000,False,False,False,1,236
+"### | و اللغة الفارسية في الدمية:
+",000,False,000,False,False,False,1,341
+"### | الفهارس
+",000,False,000,False,False,False,1,2
+"### | فهرسة الأعلام
+",000,False,000,False,False,False,1,17
+"### | فهرسة الأعلام
+",000,False,000,False,False,False,1,2
+"### | الهمزة
+",000,False,000,False,False,False,1,1907
+"### | الباء
+",000,False,000,False,False,False,1,134
+"### | التاء
+",000,False,000,False,False,False,1,41
+"### | الثاء
+",000,False,000,False,False,False,1,29
+"### | الجيم
+",000,False,000,False,False,False,1,61
+"### | الحاء
+",000,False,000,False,False,False,1,465
+"### | الخاء
+",000,False,000,False,False,False,1,31
+"### | الدال والذال
+",000,False,000,False,False,False,1,52
+"### | الراء
+",000,False,000,False,False,False,1,57
+"### | الزاي
+",000,False,000,False,False,False,1,30
+"### | السين
+",000,False,000,False,False,False,1,129
+"### | الشين
+",000,False,000,False,False,False,1,42
+"### | الصاد والضاد
+",000,False,000,False,False,False,1,55
+"### | الطاء والظاء
+",000,False,000,False,False,False,1,42
+"### | العين
+",000,False,000,False,False,False,1,1151
+"### | الغين
+",000,False,000,False,False,False,1,20
+"### | الفاء
+",000,False,000,False,False,False,1,137
+"### | القاف
+",000,False,000,False,False,False,1,87
+"### | الكاف
+",000,False,000,False,False,False,1,54
+"### | اللام
+",000,False,000,False,False,False,1,19
+"### | الميم
+",000,False,000,False,False,False,1,1153
+"### | النون
+",000,False,000,False,False,False,1,185
+"### | الهاء
+",000,False,000,False,False,False,1,67
+"### | الواو
+",000,False,000,False,False,False,1,20
+"### | الياء
+",000,False,000,False,False,False,1,148
+"### | فهرسة الاماكن والقرى
+",000,False,000,False,False,False,1,6
+"### | المد
+",000,False,000,False,False,False,1,12
+"### | الهمزة
+",000,False,000,False,False,False,1,73
+"### | الباء
+",000,False,000,False,False,False,1,105
+"### | 510- 642- 651- 2/741- 742- 764- 817- 871- 904- 1059- 1096- 1145- 1147- 1196- 1170- 1180- 1190- 1192- 3/1481- 1504- 1512- 1528
+",000,False,000,False,False,False,1,90
+"### | التاء
+",000,False,000,False,False,False,1,24
+"### | الثاء
+",000,False,000,False,False,False,1,4
+"### | الجيم
+",000,False,000,False,False,False,1,69
+"### | الحاء
+",000,False,000,False,False,False,1,44
+"### | الخاء
+",000,False,000,False,False,False,1,85
+"### | الدال
+",000,False,000,False,False,False,1,58
+"### | الذال
+",000,False,000,False,False,False,1,5
+"### | الراء
+",000,False,000,False,False,False,1,40
+"### | الزاي
+",000,False,000,False,False,False,1,19
+"### | السين
+",000,False,000,False,False,False,1,37
+"### | الشين
+",000,False,000,False,False,False,1,53
+"### | الصاد
+",000,False,000,False,False,False,1,16
+"### | الطاء- الظاء
+",000,False,000,False,False,False,1,24
+"### | العين
+",000,False,000,False,False,False,1,53
+"### | الغين
+",000,False,000,False,False,False,1,21
+"### | الفاء
+",000,False,000,False,False,False,1,44
+"### | القاف
+",000,False,000,False,False,False,1,38
+"### | الكاف
+",000,False,000,False,False,False,1,35
+"### | اللام
+",000,False,000,False,False,False,1,7
+"### | الميم
+",000,False,000,False,False,False,1,18
+"### | فهرسة الالفاظ الفارسية المشروحة كما هي في النص
+",000,False,000,False,False,False,1,117
+"### | فهرست الابيات والقوافي
+",000,False,000,False,False,False,1,17
+"### | الهمزة
+",000,False,000,False,False,False,1,877
+"### | التاء
+",000,False,000,False,False,False,1,232
+"### | الثاء
+",000,False,000,False,False,False,1,37
+"### | الجيم
+",000,False,000,False,False,False,1,101
+"### | الحاء
+",000,False,000,False,False,False,1,166
+"### | الخاء
+",000,False,000,False,False,False,1,17
+"### | الدال
+",000,False,000,False,False,False,1,734
+"### | الذال
+",000,False,000,False,False,False,1,39
+"### | الراء
+",000,False,000,False,False,False,1,936
+"### | الزاي
+",000,False,000,False,False,False,1,41
+"### | السين
+",000,False,000,False,False,False,1,139
+"### | الشين
+",000,False,000,False,False,False,1,43
+"### | الصاد
+",000,False,000,False,False,False,1,72
+"### | الضاد
+",000,False,000,False,False,False,1,112
+"### | الطاء والظاء
+",000,False,000,False,False,False,1,60
+"### | العين
+",000,False,000,False,False,False,1,209
+"### | الغين
+",000,False,000,False,False,False,1,18
+"### | الفاء
+",000,False,000,False,False,False,1,179
+"### | القاف
+",000,False,000,False,False,False,1,334
+"### | الكاف
+",000,False,000,False,False,False,1,172
+"### | اللام
+",000,False,000,False,False,False,1,719
+"### | الميم
+",000,False,000,False,False,False,1,628
+"### | النون
+",000,False,000,False,False,False,1,656
+"### | الهاء
+",000,False,000,False,False,False,1,131
+"### | الواو
+",000,False,000,False,False,False,1,23
+"### | الياء
+",000,False,000,False,False,False,1,296
+"### | النون
+",000,False,000,False,False,False,1,118
+"### | الهاء
+",000,False,000,False,False,False,1,61
+"### | الواو
+",000,False,000,False,False,False,1,13
+"### | الياء
+",000,False,000,False,False,False,1,14
+"### | فهرسة باهم المراجع والمصادر العربية والفارسية
+",000,False,000,False,False,False,1,897
+"### | 1376- 1957
+",000,False,000,False,False,False,1,50
+"### | فهرسة الجزء الثالث
+",000,False,000,False,False,False,1,7
+"### | القسم السابع 1479
+",000,False,000,False,False,False,1,20
+"### | الفصل الاول- ترجمة المؤلف 1541- 1559
+",000,False,000,False,False,False,1,49
+"### | الفصل الثاني- النسخ 1560- 1587
+",000,False,000,False,False,False,1,53
+"### | الفصل الثالث- الدمية حلقة وصل 1588- 1594
+",000,False,000,False,False,False,1,28
+"### | الفصل الرابع- الرواية والرواة 1595- 1602
+",000,False,000,False,False,False,1,12
+"### | الفصل الخامس- منهج النقد 1603- 1618
+",000,False,000,False,False,False,1,27
+"### | الفصل السادس- أسلوب الباخرزي من دميته 1619- 1627
+",000,False,000,False,False,False,1,35
+"### | الفهارس
+",000,False,000,False,False,False,1,18

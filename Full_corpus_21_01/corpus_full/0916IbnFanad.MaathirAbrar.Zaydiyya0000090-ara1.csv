@@ -1,0 +1,447 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO تصدير
+",000,False,000,False,False,False,1,1890
+"### | AUTO مقدمة التحقيق
+",000,False,000,False,False,False,1,11419
+"### || AUTO أهمية الكتاب
+",000,False,000,False,False,False,2,1525
+"### || AUTO ترجمة المؤلف
+",000,False,000,False,False,False,2,2150
+"### ||| AUTO أسرة المؤلف
+",000,False,000,False,False,False,3,648
+"### ||| AUTO علم المؤلف وأدبه وشعره
+",000,False,000,False,False,False,3,1028
+"### ||| AUTO وفاة المؤلف
+",000,False,000,False,False,False,3,75
+"### ||| AUTO مصادر ترجمة المؤلف
+",000,False,000,False,False,False,3,62
+"### || AUTO ترجمة العلامة داود بن الهادي (مؤلف ملحق البسامة المطبوع آخر
+",000,False,000,False,False,False,2,502
+"### ||| AUTO مصادر ترجمته
+",000,False,000,False,False,False,3,74
+"### || AUTO خطوات التحقيق
+",000,False,000,False,False,False,2,6758
+"### ||| AUTO وصف النسخ التي اعتمدنا عليها
+",000,False,000,False,False,False,3,562
+"### ||| AUTO كلمة شكر
+",000,False,000,False,False,False,3,92
+"### ||| AUTO المؤرخون الزيديون ومصادر التأريخ الزيدي
+",000,False,000,False,False,False,3,30
+"### ||| AUTO حرف الألف
+",000,False,000,False,False,False,3,1464
+"### ||| AUTO حرف الجيم
+",000,False,000,False,False,False,3,43
+"### ||| AUTO حرف الحاء
+",000,False,000,False,False,False,3,570
+"### ||| AUTO حرف الدال
+",000,False,000,False,False,False,3,31
+"### ||| AUTO حرف الزاي
+",000,False,000,False,False,False,3,36
+"### ||| AUTO حرف السين
+",000,False,000,False,False,False,3,66
+"### ||| AUTO حرف الشين
+",000,False,000,False,False,False,3,14
+"### ||| AUTO حرف الصاد
+",000,False,000,False,False,False,3,60
+"### ||| AUTO حرف الطاء
+",000,False,000,False,False,False,3,23
+"### ||| AUTO حرف العين
+",000,False,000,False,False,False,3,1468
+"### ||| AUTO حرف الفاء
+",000,False,000,False,False,False,3,35
+"### ||| AUTO حرف القاف
+",000,False,000,False,False,False,3,92
+"### ||| AUTO حرف اللام
+",000,False,000,False,False,False,3,221
+"### ||| AUTO حرف الميم
+",000,False,000,False,False,False,3,1338
+"### ||| AUTO حرف النون
+",000,False,000,False,False,False,3,77
+"### ||| AUTO حرف الهاء
+",000,False,000,False,False,False,3,43
+"### ||| AUTO حرف الياء
+",000,False,000,False,False,False,3,320
+"### | AUTO [مقدمة المؤلف]
+",000,False,000,False,False,False,1,156061
+"### || AUTO [الفصل الأول]
+",000,False,000,False,False,False,2,2905
+"### || AUTO الفصل الثاني
+",000,False,000,False,False,False,2,3067
+"### || AUTO [ذكر نسب الفرس ودولهم وبعض ملوكهم وسبب تسميتهم بالفرس]
+",000,False,000,False,False,False,2,1515
+"### || AUTO [ذكر اليونان وإلى من ينتمون]
+",000,False,000,False,False,False,2,812
+"### || AUTO [ ذكر الإسكندر ذي القرنين]
+",000,False,000,False,False,False,2,211
+"### || AUTO [ذكر طرف من أخبار الروم]
+",000,False,000,False,False,False,2,400
+"### || AUTO [ذكر أمة الترك]
+",000,False,000,False,False,False,2,47
+"### || AUTO [ذكر أمة السودان]
+",000,False,000,False,False,False,2,87
+"### || AUTO ذكر أمة الخزر
+",000,False,000,False,False,False,2,501
+"### || AUTO [ذكر طرف من أخبار التبابعة]
+",000,False,000,False,False,False,2,2799
+"### ||| AUTO فصل: في ذكر سيف بن ذي يزن
+",000,False,000,False,False,False,3,631
+"### ||| AUTO فصل: في ذكر ذي رعين
+",000,False,000,False,False,False,3,482
+"### ||| AUTO فصل نذكر فيه بعض مصانع حمير
+",000,False,000,False,False,False,3,932
+"### || AUTO [ذكر موت النبي - صلى الله عليه وآله وسلم -]
+",000,False,000,False,False,False,2,12478
+"### ||| AUTO [ذكر طرف من أخبار السقيفة]
+",000,False,000,False,False,False,3,774
+"### ||| AUTO [ذكر فدك وخيبر]
+",000,False,000,False,False,False,3,1160
+"### ||| AUTO [ذكر آية وحديث المباهلة]
+",000,False,000,False,False,False,3,137
+"### ||| AUTO [المراد من لفظ الوصي إذا أطلق]
+",000,False,000,False,False,False,3,197
+"### ||| AUTO [المغيرة بن شعبة]
+",000,False,000,False,False,False,3,854
+"### ||| AUTO [ذكر الخطبة الشقشقية]
+",000,False,000,False,False,False,3,435
+"### ||| AUTO [تجرم أمير المؤمنين(ع) على من تقدمه]
+",000,False,000,False,False,False,3,458
+"### ||| AUTO [الرأي في المشائخ الذين تقدموا عليا( ع)]
+",000,False,000,False,False,False,3,205
+"### ||| AUTO [ذكر غزاة مؤتة]
+",000,False,000,False,False,False,3,676
+"### ||| AUTO [ذكر غزوة تبوك]
+",000,False,000,False,False,False,3,619
+"### ||| AUTO [ذكر غزاة غطفان]
+",000,False,000,False,False,False,3,43
+"### ||| AUTO [الرأي في معاوية وشيعته]
+",000,False,000,False,False,False,3,462
+"### ||| AUTO [ذكر أويس القرني]
+",000,False,000,False,False,False,3,819
+"### ||| AUTO [ذكر طرف من أخبار عمار بن ياسر-رضي الله عنه-]
+",000,False,000,False,False,False,3,909
+"### ||| AUTO [ذكر خبر قثم وعبدالله ابني عبيد الله بن العباس]
+",000,False,000,False,False,False,3,413
+"### ||| AUTO [ذكر طرف من أخبار حجر بن عدي - رضي الله عنه -]
+",000,False,000,False,False,False,3,376
+"### ||| AUTO [أمر عمرو بن العاص وحاله مع أهل البيت - عليهم ms131 السلام -]
+",000,False,000,False,False,False,3,206
+"### ||| AUTO [طرف من أخبار أبي موسى الأشعري]
+",000,False,000,False,False,False,3,588
+"### ||| AUTO [طرف من أخبار مروان بن الحكم]
+",000,False,000,False,False,False,3,191
+"### ||| AUTO [طرف من أخبار الوليد بن عقبة]
+",000,False,000,False,False,False,3,210
+"### ||| AUTO [ذكر موضع قبر أمير المؤمنين علي - عليه السلام-]
+",000,False,000,False,False,False,3,214
+"### ||| AUTO [طرف من أخبار الخوارج]
+",000,False,000,False,False,False,3,518
+"### ||| AUTO [طرف من أخبار النواصب وذكر بعض رجالهم]
+",000,False,000,False,False,False,3,569
+"### ||| AUTO [ذكر انزواء الدنيا عن الإمام علي، وخبر استشهاده-عليه
+",000,False,000,False,False,False,3,762
+"### || AUTO [ذكر استشهاد أمير المؤمنين علي - عليه السلام -]
+",000,False,000,False,False,False,2,1093
+"### || AUTO [ذكرطرف من أخبار أبي محمد الحسن بن علي، وأخيه أبي عبدالله
+",000,False,000,False,False,False,2,4001
+"### ||| AUTO فصل في ذكر الحسين [بن علي] - عليه السلام-.
+",000,False,000,False,False,False,3,2793
+"### ||| AUTO [قصيدة للشريف الرضي في رثاء الحسين بن علي -عليه السلام-]
+",000,False,000,False,False,False,3,243
+"### || AUTO [أخبار الإمام الحسن بن الحسن المثنى بن علي - عليهم السلام-]
+",000,False,000,False,False,False,2,411
+"### || AUTO [أخبار الإمام الأعظم زيد بن علي(ع) ]
+",000,False,000,False,False,False,2,3011
+"### ||| AUTO [ذكر الحول وماهيته وما يشبهه من عاهات الملوك]
+",000,False,000,False,False,False,3,218
+"### ||| AUTO [رجع الكلام إلى ذكر الإمام زيد(ع)]
+",000,False,000,False,False,False,3,1395
+"### ||| AUTO فصل نذكر فيه طرفا من كرامات زيد[بن علي] -عليه السلام-
+",000,False,000,False,False,False,3,123
+"### ||| AUTO [ذكر جماعة ممن صلب في الإسلام]
+",000,False,000,False,False,False,3,896
+"### || AUTO [الإمام يحيى بن زيد - عليهما السلام -].
+",000,False,000,False,False,False,2,477
+"### || AUTO [الإمام محمد بن عبد الله (النفس الزكية) (ع) ].
+",000,False,000,False,False,False,2,1079
+"### || AUTO [عبد الله بن الحسن بن الحسن - عليهم السلام - ].
+",000,False,000,False,False,False,2,1704
+"### || AUTO [الإمام إبراهيم بن عبد الله بن ms184 الحسن عليهم السلام ]
+",000,False,000,False,False,False,2,745
+"### || AUTO [الإمام علي بن العباس بن الحسن بن الحسن والإمام الحسين بن
+",000,False,000,False,False,False,2,904
+"### || AUTO [أخبار الإمام يحيى بن عبد الله بن الحسن بن الحسن عليهم
+",000,False,000,False,False,False,2,1528
+"### || AUTO [الإمام إدريس بن عبد الله - عليه السلام -].
+",000,False,000,False,False,False,2,410
+"### || AUTO [ذكر إدريس الثاني وإدريس المثلث]
+",000,False,000,False,False,False,2,200
+"### || AUTO [الإمام عبد الله بن محمد بن عبد الله - عليه السلام -]
+",000,False,000,False,False,False,2,197
+"### || AUTO [الحسن بن إبراهيم بن عبد الله - عليه السلام -]
+",000,False,000,False,False,False,2,488
+"### || AUTO [الإمام محمد بن إبراهيم بن إسماعيل(ع)].
+",000,False,000,False,False,False,2,619
+"### || AUTO [استطراد في ذكر الإمام محمد بن محمد بن زيد]
+",000,False,000,False,False,False,2,566
+"### || AUTO [الإمام محمد بن سليمان بن داود بن الحسن - عليه السلام -]
+",000,False,000,False,False,False,2,184
+"### || AUTO [الإمام محمد بن جعفر بن محمد - عليه السلام -]
+",000,False,000,False,False,False,2,432
+"### || AUTO [الإمام القاسم بن إبراهيم الرسي - عليه السلام -].
+",000,False,000,False,False,False,2,1082
+"### || AUTO [الإمام محمد بن القاسم بن علي بن عمر الأشرف(ع)].
+",000,False,000,False,False,False,2,1710
+"### || AUTO [الإمام يحيى بن عمر بن علي (ع)]
+",000,False,000,False,False,False,2,1968
+"### || AUTO [ذكر إسماعيل بن يوسف]
+",000,False,000,False,False,False,2,58
+"### || AUTO [الإمام علي بن زيد]
+",000,False,000,False,False,False,2,187
+"### || AUTO [أخبار الحسن بن زيد(ع)]
+",000,False,000,False,False,False,2,290
+"### || AUTO [ذكر دعوة الإمام محمد بن زيد]
+",000,False,000,False,False,False,2,838
+"### || AUTO [الإمام الهادي إلى الحق يحيى بن الحسين - عليه السلام -]. ...
+",000,False,000,False,False,False,2,8485
+"### ||| AUTO الأول منها في ذكر نسبه
+",000,False,000,False,False,False,3,210
+"### ||| AUTO فصل: فيما ورد فيه من الآثار
+",000,False,000,False,False,False,3,211
+"### ||| AUTO فصل: في ذكر الجفر وذي الفقار
+",000,False,000,False,False,False,3,873
+"### ||| AUTO فصل: في ذكر علمه ومذهبه -عليه لسلام-
+",000,False,000,False,False,False,3,400
+"### ||| AUTO فصل: في ذكر زهده وورعه
+",000,False,000,False,False,False,3,441
+"### ||| AUTO فصل: في ذكر بعض خصائصه -عليه السلام-
+",000,False,000,False,False,False,3,235
+"### ||| AUTO فصل في حسن أخلاقه وطيب نفسه
+",000,False,000,False,False,False,3,166
+"### ||| AUTO فصل: في شجاعته -عليه السلام-
+",000,False,000,False,False,False,3,1053
+"### ||| AUTO [ذكر العلامة أحمد بن موسى الطبري]
+",000,False,000,False,False,False,3,294
+"### ||| AUTO فصل: في ذكر طرف من سيرته -عليه السلام -
+",000,False,000,False,False,False,3,693
+"### ||| AUTO فصل: في ذكر طرف من حكمته[-عليه السلام-]
+",000,False,000,False,False,False,3,297
+"### ||| AUTO فصل ms245: في نبذة من أشعاره
+",000,False,000,False,False,False,3,1135
+"### ||| AUTO فصل: نذكر فيه علي بن الفضل القرمطي
+",000,False,000,False,False,False,3,887
+"### ||| AUTO فصل: في وفاة الهادي -عليه السلام-
+",000,False,000,False,False,False,3,244
+"### ||| AUTO فصل:وهذه خاتمة مناسبة لما تقدم
+",000,False,000,False,False,False,3,1216
+"### || AUTO [أخبار الإمام الناصر الأطروش -عليه السلام]
+",000,False,000,False,False,False,2,1536
+"### || AUTO [من أخبار الإمام الداعي الحسن بن القاسم]
+",000,False,000,False,False,False,2,109
+"### || AUTO [أخبار الإمام المرتضى بن الهادي -عليهما السلام-]
+",000,False,000,False,False,False,2,1045
+"### || AUTO [أخبار الإمام الناصر أحمد بن الإمام الهادي بن الحسين -عليهما
+",000,False,000,False,False,False,2,1566
+"### || AUTO [ذكر ثلاثة أئمة آخرين]
+",000,False,000,False,False,False,2,688
+"### ||| AUTO [الأول الإمام المنصور بن الناصر]
+",000,False,000,False,False,False,3,102
+"### ||| AUTO [الثاني: الإمام المختار بن الناصر]
+",000,False,000,False,False,False,3,181
+"### ||| AUTO [الثالث: الإمام المنتصر محمد بن المختار]
+",000,False,000,False,False,False,3,343
+"### || AUTO [أخبار الإمام يوسف الداعي - عليه السلام -]
+",000,False,000,False,False,False,2,737
+"### || AUTO [الإمام القاسم بن علي العياني -عليه السلام-]
+",000,False,000,False,False,False,2,651
+"### || AUTO [أخبار الإمام المهدي لدين الله محمد بن الحسن بن القاسم عليه
+",000,False,000,False,False,False,2,1086
+"### || AUTO [أخبار الإمامين الأخوين المؤيد بالله أحمد بن الحسين
+",000,False,000,False,False,False,2,65
+"### || AUTO [أخبار المؤيد بالله(ع)]
+",000,False,000,False,False,False,2,1317
+"### ||| AUTO الصاحب الكافي إسماعيل بن عباد
+",000,False,000,False,False,False,3,136
+"### || AUTO فصل: في ذكر أخيه السيد الناطق بالله :
+",000,False,000,False,False,False,2,400
+"### || AUTO [ذكر عدد من أئمة الزيدية في الجيل]
+",000,False,000,False,False,False,2,57
+"### || AUTO [1- الإمام مانكديم (ع)]
+",000,False,000,False,False,False,2,51
+"### || AUTO [2- الإمام الهادي الحقيني (ع)]
+",000,False,000,False,False,False,2,184
+"### || AUTO [3- الإمام أبو الرضى الكيسمي (ع)]
+",000,False,000,False,False,False,2,142
+"### || AUTO [4- الإمام أبو طالب الأخير(ع)]
+",000,False,000,False,False,False,2,503
+"### || AUTO [أخبار الإمام الحسين بن القاسم العياني -عليهما السلام-]
+",000,False,000,False,False,False,2,604
+"### || AUTO [الإمام محمد بن القاسم بن الحسين الزيدي]
+",000,False,000,False,False,False,2,173
+"### || AUTO [ذكر الشريف الفاضل وأخيه ذي الشرفين]
+",000,False,000,False,False,False,2,1089
+"### || AUTO [أخبار حمزة ms299 بن أبي هاشم]
+",000,False,000,False,False,False,2,474
+"### || AUTO [الإمام أبو هاشم النفس الزكية(ع)]
+",000,False,000,False,False,False,2,375
+"### || AUTO [الإمام الناصر أبو الفتح الديلمي -عليه السلام-]
+",000,False,000,False,False,False,2,319
+"### || AUTO [أخبار المحسن بن الحسن]
+",000,False,000,False,False,False,2,1167
+"### || AUTO [الإمام علي بن زيد بن إبراهيم المليح]
+",000,False,000,False,False,False,2,834
+"### || AUTO [أخبار الإمام أحمد بن سليمان -عليه السلام-]
+",000,False,000,False,False,False,2,6680
+"### ||| AUTO [ذكر القاضي جعفر بن أحمد بن أبي يحيى-رضي الله عنه-]
+",000,False,000,False,False,False,3,722
+"### ||| AUTO نعم وللقاضي جعفر مصنفات في كل فن، عليها اعتماد الزيدية، وله
+",000,False,000,False,False,False,3,400
+"### ||| AUTO [ذكر القاضي نشوان بن سعيد الحميري]
+",000,False,000,False,False,False,3,1961
+"### ||| AUTO [ذكر اليامي محمد بن أحمد ms330 قاضي الاسماعيلية]
+",000,False,000,False,False,False,3,937
+"### || AUTO [أخبار الإمام عبد الله بن حمزة -عليه السلام-]
+",000,False,000,False,False,False,2,5292
+"### ||| AUTO [ذكر الأمير عماد الدين يحيى بن حمزة بن سليمان ]
+",000,False,000,False,False,False,3,626
+"### ||| AUTO [ذكر الأميرين يحيى ومحمد ابني أحمد بن يحيى بن يحيى]
+",000,False,000,False,False,False,3,1578
+"### ||| AUTO [ذكر المشرقي والعفيف]
+",000,False,000,False,False,False,3,480
+"### ||| AUTO [ذكر ما كان بين المنصور بالله عبد الله بن حمزة والأمير يحيى
+",000,False,000,False,False,False,3,266
+"### || AUTO [أخبار الإمام الداعي المعتضد بالله يحيى بن المحسن بن محفوظ
+",000,False,000,False,False,False,2,3702
+"### ||| AUTO [ذكر عز الدين محمد بن الإمام عبد الله بن حمزة]
+",000,False,000,False,False,False,3,1477
+"### || AUTO [أخبار الإمام المهدي لدين الله أحمد بن الحسين بن أبي البركات
+",000,False,000,False,False,False,2,3151
+"### ||| AUTO [ذكر أحمد بن محمد الرصاص]
+",000,False,000,False,False,False,3,511
+"### || AUTO [أخبار الإمام الحسن بن بدر الدين -عليه السلام-]
+",000,False,000,False,False,False,2,2015
+"### ||| AUTO [ذكر الأمير الحسين بن بدر الدين محمد - رضي الله عنه-]
+",000,False,000,False,False,False,3,113
+"### ||| AUTO [ذكر الحسن بن وهاس]
+",000,False,000,False,False,False,3,82
+"### ||| AUTO [ذكر ابن المعثور]
+",000,False,000,False,False,False,3,208
+"### || AUTO [أخبار الإمام إبراهيم بن تاج الدين - عليه السلام-]
+",000,False,000,False,False,False,2,2224
+"### ||| AUTO تنبيه في ذكر تاج الدين والد الإمام [إبراهيم] :
+",000,False,000,False,False,False,3,93
+"### ||| AUTO [ذكر الأمير مجد الدين يحيى بن محمد]
+",000,False,000,False,False,False,3,130
+"### || AUTO [أخبار الإمام المتوكل على الله المطهر بن يحيى بن المرتضى
+",000,False,000,False,False,False,2,1952
+"### || AUTO [أخبار الإمام المهدي محمد بن المتوكل علىالله المطهر بن يحيى (ع)]
+",000,False,000,False,False,False,2,3402
+"### ||| AUTO [ذكر العلامة يحيى بن الحسين بن علي بن الحسين ]
+",000,False,000,False,False,False,3,83
+"### ||| AUTO [ذكر العلامة الهادي بن يحيى بن الحسين]
+",000,False,000,False,False,False,3,80
+"### ||| AUTO [ذكر نبذة من شعر العلامة مطهر بن محمد بن تريك الصعدي]
+",000,False,000,False,False,False,3,2053
+"### || AUTO [أخبار الإمام السراجي - عليه السلام -، وذكر أمر الشعبي سنجر معه]
+",000,False,000,False,False,False,2,493
+"### || AUTO [ذكر الأئمة الأربعة الذين دعوا في عصر واحد وقطر واحد على
+",000,False,000,False,False,False,2,5209
+"### ||| AUTO [الأول الإمام علي بن صلاح بن إبراهيم بن تاج الدين ]
+",000,False,000,False,False,False,3,274
+"### ||| AUTO [الثاني: الإمام المؤيد بالله يحيى بن حمزة -عليه السلام-]
+",000,False,000,False,False,False,3,3195
+"### ||| AUTO [الثالث الإمام الواثق بالله المطهر بن محمد بن المطهر - عليه
+",000,False,000,False,False,False,3,1450
+"### ||| AUTO [الرابع الإمام الفتحي - عليه السلام -]
+",000,False,000,False,False,False,3,178
+"### || AUTO [أخبار الإمام المهدي لدين الله علي بن محمد - عليه السلام -]
+",000,False,000,False,False,False,2,2628
+"### || AUTO [أخبار الإمام الناصر لدين الله صلاح بن علي عليه السلام ]
+",000,False,000,False,False,False,2,4060
+"### ||| AUTO فصل: في ابتداء طلبه للعلم
+",000,False,000,False,False,False,3,3239
+"### ||| AUTO فصل فيه ذكر مولده ووفاته -عليه السلام- وموضع قبره
+",000,False,000,False,False,False,3,86
+"### ||| AUTO [ذكر بني رسول]
+",000,False,000,False,False,False,3,536
+"### || AUTO [ذكر الأئمة الثلاثة الذين تعارضوا في عصر واحد]
+",000,False,000,False,False,False,2,250
+"### || AUTO [أخبار الإمام المنصور علي بن صلاح بن علي (ع)]
+",000,False,000,False,False,False,2,2351
+"### || AUTO [أخبار الإمام المهدي أحمد بن يحيى المرتضى -عليه السلام-]
+",000,False,000,False,False,False,2,75
+"### || AUTO ذكر مولده ونشؤه، وطرف من أحواله وسيرته، وتصانيفه، وبيعته،
+",000,False,000,False,False,False,2,2432
+"### ||| AUTO فصل: في ذكر مصنفاته -عليه السلام- وذكر شيء من أشعاره، وما
+",000,False,000,False,False,False,3,1216
+"### || AUTO [أخبار الإمام الهادي علي بن المؤيد(ع) ]
+",000,False,000,False,False,False,2,6106
+"### ||| AUTO [ذكر طرف من أحوال السيد الحسن بن الإمام ms470 علي بن المؤيد]
+",000,False,000,False,False,False,3,1156
+"### ||| AUTO [ذكر قريس وعلب وعرقب]
+",000,False,000,False,False,False,3,772
+"### ||| AUTO [الكلام في قريس وهو موضع بجهران وذكر المتوكل على الله
+",000,False,000,False,False,False,3,4169
+"### || AUTO [ذكر الإمام المهدي صلاح بن علي بن محمد بن أبي القاسم ]
+",000,False,000,False,False,False,2,1562
+"### ||| AUTO [ذكر والد الإمام صلاح بن علي ]
+",000,False,000,False,False,False,3,624
+"### ||| AUTO [ذكر عرقب]
+",000,False,000,False,False,False,3,64
+"### || AUTO [ذكر الإمام المنصور محمد بن الناصر ]
+",000,False,000,False,False,False,2,3992
+"### ||| AUTO [الكلام فيمن دعا وقت الإمام المطهر وبعد موته وذكر دعوة
+",000,False,000,False,False,False,3,69
+"### ||| AUTO [دعوة السيد العلامة محمد بن يوسف بن صلاح]
+",000,False,000,False,False,False,3,346
+"### || AUTO [دعوة الإمام عز الدين بن الحسن]
+",000,False,000,False,False,False,2,171
+"### || AUTO [أخبار الإمام عز الدين بن الحسن -عليه السلام-]
+",000,False,000,False,False,False,2,8900
+"### ||| AUTO فصل: في ذكر مولده ونشأته [ومدته].
+",000,False,000,False,False,False,3,7792
+"### ||| AUTO [دعوة الإمام الحسن بن عز الدين بن الحسن ]
+",000,False,000,False,False,False,3,1099
+"### || AUTO [دعوة الإمام محمد بن علي الوشلي]
+",000,False,000,False,False,False,2,2715
+"### || AUTO [دعوة الإمام شرف الدين ms551 بن شمس الدين -عليه السلام-]
+",000,False,000,False,False,False,2,1046
+"### ||| AUTO [الكلام في خروج التتر]
+",000,False,000,False,False,False,3,769
+"### || AUTO [الإمام محمد بن الناصر بن محمد بن الناصر ]
+",000,False,000,False,False,False,2,8370
+"### ||| AUTO [ذكر من ملك صعدة في عصر المصنف من أولاد الإمام المنصور
+",000,False,000,False,False,False,3,47
+"### ||| AUTO [الأمير الحسين بن علي بن قاسم]
+",000,False,000,False,False,False,3,126
+"### ||| AUTO [الأمير الهادي بن الحسين]
+",000,False,000,False,False,False,3,90
+"### ||| AUTO [الأمير محمد بن الحسين]
+",000,False,000,False,False,False,3,595
+"### ||| AUTO [رسالة ابن تريك إلى أمير صعدة]
+",000,False,000,False,False,False,3,1584
+"### || AUTO [خاتمة شرح أبيات البسامة]
+",000,False,000,False,False,False,2,2152
+"### ||| AUTO [ترجمة السيد صارم الدين صاحب البسامة]
+",000,False,000,False,False,False,3,1783
+"### | AUTO ذيل البسامة البسامة
+",000,False,000,False,False,False,1,10717
+"### || AUTO [الإمام عز الدين بن الحسن]
+",000,False,000,False,False,False,2,532
+"### || AUTO [الإمام الحسن بن عز الدين ]
+",000,False,000,False,False,False,2,389
+"### || AUTO [الكلام في أخبار الإمام مجد الدين بن الحسن ]
+",000,False,000,False,False,False,2,2145
+"### || AUTO [أخبار الإمام شرف الدين -عليه السلام-]
+",000,False,000,False,False,False,2,2186
+"### || AUTO [بعض من أخبار المطهر بن الإمام شرف الدين]
+",000,False,000,False,False,False,2,300
+"### || AUTO [الإمام أحمد بن عز الدين ]
+",000,False,000,False,False,False,2,998
+"### || AUTO [طرف من سيرة السيد أحمد بن الحسين بن عز الدين]
+",000,False,000,False,False,False,2,602
+"### || AUTO [أخبار الإمام الحسن بن علي بن داود -عليه السلام-]
+",000,False,000,False,False,False,2,1271
+"### || AUTO ملحق منظومة الشرفي
+",000,False,000,False,False,False,2,359
+"### || AUTO قائمة بأهم مراجع التحقيق
+",000,False,000,False,False,False,2,1750

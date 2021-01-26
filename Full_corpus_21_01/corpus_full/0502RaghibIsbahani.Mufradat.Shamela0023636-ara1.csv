@@ -1,0 +1,4745 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | مقدمة المحقق
+",000,False,000,False,False,False,1,110
+"### | 1- 
+",000,False,000,False,False,False,1,15
+"### | 2- 
+",000,False,000,False,False,False,1,13
+"### | 3- 
+",000,False,000,False,False,False,1,11
+"### | 4- 
+",000,False,000,False,False,False,1,15
+"### | 5- 
+",000,False,000,False,False,False,1,13
+"### | 6- 
+",000,False,000,False,False,False,1,24
+"### | 7- 
+",000,False,000,False,False,False,1,12
+"### | 8- 
+",000,False,000,False,False,False,1,15
+"### | 9- 
+",000,False,000,False,False,False,1,32
+"### | ترجمة المؤلف
+",000,False,000,False,False,False,1,4
+"### | اسمه ونسبه 
+",000,False,000,False,False,False,1,48
+"### | شيوخه وتلامذته:
+",000,False,000,False,False,False,1,182
+"### | مؤلفاته:
+",000,False,000,False,False,False,1,31
+"### | 1- 
+",000,False,000,False,False,False,1,19
+"### | 2- 
+",000,False,000,False,False,False,1,188
+"### | 3- 
+",000,False,000,False,False,False,1,218
+"### | 4- 
+",000,False,000,False,False,False,1,77
+"### | 5- 
+",000,False,000,False,False,False,1,15
+"### | 6- 
+",000,False,000,False,False,False,1,16
+"### | 7- 
+",000,False,000,False,False,False,1,24
+"### | 8- 
+",000,False,000,False,False,False,1,84
+"### | 9- 
+",000,False,000,False,False,False,1,30
+"### | 10- 
+",000,False,000,False,False,False,1,17
+"### | 11- 
+",000,False,000,False,False,False,1,37
+"### | 12- 
+",000,False,000,False,False,False,1,21
+"### | 13- 
+",000,False,000,False,False,False,1,53
+"### | 14- 
+",000,False,000,False,False,False,1,139
+"### | 15- 
+",000,False,000,False,False,False,1,48
+"### | 16- 
+",000,False,000,False,False,False,1,23
+"### | 17- 
+",000,False,000,False,False,False,1,21
+"### | 18- 
+",000,False,000,False,False,False,1,23
+"### | 19- 
+",000,False,000,False,False,False,1,19
+"### | 20- 
+",000,False,000,False,False,False,1,35
+"### | 21- 
+",000,False,000,False,False,False,1,23
+"### | 22- 
+",000,False,000,False,False,False,1,16
+"### | 23- 
+",000,False,000,False,False,False,1,19
+"### | كتب نسبت إليه:
+",000,False,000,False,False,False,1,54
+"### | وصفه وخلقه:
+",000,False,000,False,False,False,1,273
+"### | عقيدته:
+",000,False,000,False,False,False,1,359
+"### | مذهبه الفقهي:
+",000,False,000,False,False,False,1,307
+"### | شعره:
+",000,False,000,False,False,False,1,87
+"### | 1-
+",000,False,000,False,False,False,1,15
+"### | 2- 
+",000,False,000,False,False,False,1,15
+"### | 3- 
+",000,False,000,False,False,False,1,9
+"### | 4- 
+",000,False,000,False,False,False,1,11
+"### | 5- 
+",000,False,000,False,False,False,1,15
+"### | 6- 
+",000,False,000,False,False,False,1,13
+"### | 7- 
+",000,False,000,False,False,False,1,13
+"### | 8- 
+",000,False,000,False,False,False,1,15
+"### | 9- 
+",000,False,000,False,False,False,1,13
+"### | 10- 
+",000,False,000,False,False,False,1,13
+"### | 11- 
+",000,False,000,False,False,False,1,15
+"### | 12- 
+",000,False,000,False,False,False,1,15
+"### | 13- 
+",000,False,000,False,False,False,1,15
+"### | 14- 
+",000,False,000,False,False,False,1,14
+"### | 1- 
+",000,False,000,False,False,False,1,13
+"### | 2- 
+",000,False,000,False,False,False,1,11
+"### | 3- 
+",000,False,000,False,False,False,1,11
+"### | 4- 
+",000,False,000,False,False,False,1,17
+"### | 5- 
+",000,False,000,False,False,False,1,15
+"### | 6- 
+",000,False,000,False,False,False,1,15
+"### | 7- 
+",000,False,000,False,False,False,1,15
+"### | 8- 
+",000,False,000,False,False,False,1,13
+"### | 9- 
+",000,False,000,False,False,False,1,15
+"### | 10- 
+",000,False,000,False,False,False,1,47
+"### | ما نسب إليه من الشعر:
+",000,False,000,False,False,False,1,96
+"### | منهج الراغب في كتاب «المفردات» :
+",000,False,000,False,False,False,1,454
+"### | المصادر التي اعتمد عليها الراغب في كتاب «المفردات» :
+",000,False,000,False,False,False,1,28
+"### | 1- 
+",000,False,000,False,False,False,1,68
+"### | 2- 
+",000,False,000,False,False,False,1,32
+"### | 3- 
+",000,False,000,False,False,False,1,17
+"### | 4- 
+",000,False,000,False,False,False,1,26
+"### | 5- 
+",000,False,000,False,False,False,1,10
+"### | 6- 
+",000,False,000,False,False,False,1,26
+"### | 7- 
+",000,False,000,False,False,False,1,50
+"### | 8- 
+",000,False,000,False,False,False,1,20
+"### | 9- 
+",000,False,000,False,False,False,1,28
+"### | 10- 
+",000,False,000,False,False,False,1,15
+"### | 11- 
+",000,False,000,False,False,False,1,12
+"### | 12- 
+",000,False,000,False,False,False,1,10
+"### | 13- 
+",000,False,000,False,False,False,1,10
+"### | 14- 
+",000,False,000,False,False,False,1,12
+"### | 15- 
+",000,False,000,False,False,False,1,18
+"### | 16- 
+",000,False,000,False,False,False,1,19
+"### | 17- 
+",000,False,000,False,False,False,1,7
+"### | 18- 
+",000,False,000,False,False,False,1,11
+"### | 19- 
+",000,False,000,False,False,False,1,17
+"### | 20- 
+",000,False,000,False,False,False,1,15
+"### | 21- 
+",000,False,000,False,False,False,1,101
+"### | الناقلون عنه والمتأثرون به:
+",000,False,000,False,False,False,1,228
+"### | ثناء العلماء على المفردات:
+",000,False,000,False,False,False,1,207
+"### | ملاحظات على كتاب المفردات:
+",000,False,000,False,False,False,1,61
+"### | 1- 
+",000,False,000,False,False,False,1,39
+"### | 2- 
+",000,False,000,False,False,False,1,97
+"### | 3- 
+",000,False,000,False,False,False,1,86
+"### | 4- 
+",000,False,000,False,False,False,1,158
+"### | 5- 
+",000,False,000,False,False,False,1,40
+"### | 6- 
+",000,False,000,False,False,False,1,30
+"### | 7- 
+",000,False,000,False,False,False,1,169
+"### | 8- 
+",000,False,000,False,False,False,1,50
+"### | 9- 
+",000,False,000,False,False,False,1,15
+"### | 10- 
+",000,False,000,False,False,False,1,216
+"### | محنة في حياة الراغب:
+",000,False,000,False,False,False,1,221
+"### | الشريعة وعلوم الحكمة
+",000,False,000,False,False,False,1,16
+"### | علم الحكمة:
+",000,False,000,False,False,False,1,73
+"### | 1- 
+",000,False,000,False,False,False,1,25
+"### | 2- 
+",000,False,000,False,False,False,1,127
+"### | 1- 
+",000,False,000,False,False,False,1,273
+"### | الجمع بين الشريعة والحكمة:
+",000,False,000,False,False,False,1,362
+"### | قول السلف في ذم العلوم الكلامية والفلسفية:
+",000,False,000,False,False,False,1,133
+"### | أمثلة من جمع الراغب بين الشريعة والحكمة:
+",000,False,000,False,False,False,1,444
+"### | وفاته:
+",000,False,000,False,False,False,1,564
+"### | 1- 
+",000,False,000,False,False,False,1,21
+"### | 2- 
+",000,False,000,False,False,False,1,516
+"### | كتاب الألف
+",000,False,000,False,False,False,1,4
+"### | أبا
+",000,False,000,False,False,False,1,158
+"### | أب
+",000,False,000,False,False,False,1,51
+"### | 3-
+",000,False,000,False,False,False,1,46
+"### | أبى
+",000,False,000,False,False,False,1,63
+"### | أب
+",000,False,000,False,False,False,1,52
+"### | أبد
+",000,False,000,False,False,False,1,113
+"### | أبق
+",000,False,000,False,False,False,1,43
+"### | 4-
+",000,False,000,False,False,False,1,12
+"### | إبل
+",000,False,000,False,False,False,1,108
+"### | أتى
+",000,False,000,False,False,False,1,71
+"### | 5-
+",000,False,000,False,False,False,1,200
+"### | أث
+",000,False,000,False,False,False,1,40
+"### | أثر
+",000,False,000,False,False,False,1,202
+"### | أثل
+",000,False,000,False,False,False,1,55
+"### | إثم
+",000,False,000,False,False,False,1,17
+"### | 6-
+",000,False,000,False,False,False,1,99
+"### | 7-
+",000,False,000,False,False,False,1,110
+"### | أج
+",000,False,000,False,False,False,1,46
+"### | أجر
+",000,False,000,False,False,False,1,142
+"### | أحد
+",000,False,000,False,False,False,1,55
+"### | أجل
+",000,False,000,False,False,False,1,175
+"### | أحد
+",000,False,000,False,False,False,1,26
+"### | 8-
+",000,False,000,False,False,False,1,15
+"### | .... 
+",000,False,000,False,False,False,1,4
+"### | 9-
+",000,False,000,False,False,False,1,251
+"### | 10-
+",000,False,000,False,False,False,1,12
+"### | 
+",000,False,000,False,False,False,1,0
+"### | أخ
+",000,False,000,False,False,False,1,118
+"### | أخ
+",000,False,000,False,False,False,1,178
+"### | اد 
+",000,False,000,False,False,False,1,60
+"### | أخر
+",000,False,000,False,False,False,1,178
+"### | أد
+",000,False,000,False,False,False,1,44
+"### | أدى
+",000,False,000,False,False,False,1,53
+"### | آدم
+",000,False,000,False,False,False,1,109
+"### | أذن
+",000,False,000,False,False,False,1,124
+"### | أذي
+",000,False,000,False,False,False,1,343
+"### | إذا
+",000,False,000,False,False,False,1,38
+"### | أرب
+",000,False,000,False,False,False,1,172
+"### | أرض
+",000,False,000,False,False,False,1,27
+"### | 12-
+",000,False,000,False,False,False,1,72
+"### | أريك
+",000,False,000,False,False,False,1,38
+"### | أرم
+",000,False,000,False,False,False,1,56
+"### | أز
+",000,False,000,False,False,False,1,32
+"### | أزر
+",000,False,000,False,False,False,1,20
+"### | 13-
+",000,False,000,False,False,False,1,110
+"### | أزف
+",000,False,000,False,False,False,1,51
+"### | أس
+",000,False,000,False,False,False,1,94
+"### | 14-
+",000,False,000,False,False,False,1,36
+"### | أسف
+",000,False,000,False,False,False,1,49
+"### | أسر
+",000,False,000,False,False,False,1,105
+"### | أسن
+",000,False,000,False,False,False,1,21
+"### | 15-
+",000,False,000,False,False,False,1,21
+"### | أسا
+",000,False,000,False,False,False,1,61
+"### | 16-
+",000,False,000,False,False,False,1,48
+"### | 17-
+",000,False,000,False,False,False,1,8
+"### | 18-
+",000,False,000,False,False,False,1,22
+"### | 19-
+",000,False,000,False,False,False,1,21
+"### | أشر
+",000,False,000,False,False,False,1,96
+"### | أصر
+",000,False,000,False,False,False,1,21
+"### | اف
+",000,False,000,False,False,False,1,73
+"### | أصبع
+",000,False,000,False,False,False,1,33
+"### | أصل
+",000,False,000,False,False,False,1,57
+"### | أف
+",000,False,000,False,False,False,1,23
+"### | : أف ل
+",000,False,000,False,False,False,1,33
+"### | أفق
+",000,False,000,False,False,False,1,43
+"### | أفك
+",000,False,000,False,False,False,1,134
+"### | 20-
+",000,False,000,False,False,False,1,26
+"### | أفل
+",000,False,000,False,False,False,1,26
+"### | أكل
+",000,False,000,False,False,False,1,99
+"### | ال ال
+",000,False,000,False,False,False,1,4
+"### | 21-
+",000,False,000,False,False,False,1,113
+"### | ألإل
+",000,False,000,False,False,False,1,64
+"### | ألف
+",000,False,000,False,False,False,1,145
+"### | ألك
+",000,False,000,False,False,False,1,18
+"### | إلي
+",000,False,000,False,False,False,1,35
+"### | ألم
+",000,False,000,False,False,False,1,40
+"### | أله
+",000,False,000,False,False,False,1,65
+"### | إلى
+",000,False,000,False,False,False,1,5
+"### | أم
+",000,False,000,False,False,False,1,395
+"### | 22-
+",000,False,000,False,False,False,1,21
+"### | أم
+",000,False,000,False,False,False,1,108
+"### | 24-
+",000,False,000,False,False,False,1,237
+"### | 25-
+",000,False,000,False,False,False,1,367
+"### | ام ن
+",000,False,000,False,False,False,1,12
+"### | أمد
+",000,False,000,False,False,False,1,76
+"### | أمر
+",000,False,000,False,False,False,1,256
+"### | 26-
+",000,False,000,False,False,False,1,110
+"### | 27-
+",000,False,000,False,False,False,1,103
+"### | أمن
+",000,False,000,False,False,False,1,507
+"### | إن وأن
+",000,False,000,False,False,False,1,202
+"### | أنث
+",000,False,000,False,False,False,1,45
+"### | 28-
+",000,False,000,False,False,False,1,57
+"### | 29-
+",000,False,000,False,False,False,1,10
+"### | 30-
+",000,False,000,False,False,False,1,95
+"### | إنس
+",000,False,000,False,False,False,1,225
+"### | أنف
+",000,False,000,False,False,False,1,34
+"### | 31-
+",000,False,000,False,False,False,1,50
+"### | أنمل
+",000,False,000,False,False,False,1,15
+"### | أنا
+",000,False,000,False,False,False,1,35
+"### | أنى
+",000,False,000,False,False,False,1,133
+"### | 32-
+",000,False,000,False,False,False,1,83
+"### | أهل
+",000,False,000,False,False,False,1,173
+"### | أوب
+",000,False,000,False,False,False,1,117
+"### | أيد
+",000,False,000,False,False,False,1,117
+"### | أيك
+",000,False,000,False,False,False,1,25
+"### | آل
+",000,False,000,False,False,False,1,199
+"### | أي: م
+",000,False,000,False,False,False,1,57
+"### | 33-
+",000,False,000,False,False,False,1,25
+"### | 34-
+",000,False,000,False,False,False,1,86
+"### | 35-
+",000,False,000,False,False,False,1,288
+"### | أيم
+",000,False,000,False,False,False,1,49
+"### | 
+",000,False,000,False,False,False,1,0
+"### | أي
+",000,False,000,False,False,False,1,128
+"### | أوه
+",000,False,000,False,False,False,1,76
+"### | ، وأي
+",000,False,000,False,False,False,1,365
+"### | أ
+",000,False,000,False,False,False,1,134
+"### | وإي
+",000,False,000,False,False,False,1,50
+"### | أوى
+",000,False,000,False,False,False,1,28
+"### | أ
+",000,False,000,False,False,False,1,86
+"### | 36-
+",000,False,000,False,False,False,1,294
+"### | كتاب الباء
+",000,False,000,False,False,False,1,4
+"### | بتك
+",000,False,000,False,False,False,1,40
+"### | 37-
+",000,False,000,False,False,False,1,52
+"### | 38-
+",000,False,000,False,False,False,1,17
+"### | بتر
+",000,False,000,False,False,False,1,19
+"### | ب، ث
+",000,False,000,False,False,False,1,146
+"### | بتل
+",000,False,000,False,False,False,1,88
+"### | بث
+",000,False,000,False,False,False,1,97
+"### | بجس
+",000,False,000,False,False,False,1,66
+"### | بحث
+",000,False,000,False,False,False,1,43
+"### | بحر
+",000,False,000,False,False,False,1,109
+"### | 39-
+",000,False,000,False,False,False,1,85
+"### | بخل
+",000,False,000,False,False,False,1,47
+"### | بخس
+",000,False,000,False,False,False,1,51
+"### | بخع
+",000,False,000,False,False,False,1,26
+"### | 40-
+",000,False,000,False,False,False,1,31
+"### | بدر
+",000,False,000,False,False,False,1,104
+"### | بدع
+",000,False,000,False,False,False,1,115
+"### | بدل
+",000,False,000,False,False,False,1,171
+"### | بدا
+",000,False,000,False,False,False,1,41
+"### | 41-
+",000,False,000,False,False,False,1,5
+"### | بدن
+",000,False,000,False,False,False,1,43
+"### | 42-
+",000,False,000,False,False,False,1,71
+"### | بدا
+",000,False,000,False,False,False,1,64
+"### | بدأ
+",000,False,000,False,False,False,1,140
+"### | بذر
+",000,False,000,False,False,False,1,38
+"### | بر
+",000,False,000,False,False,False,1,125
+"### | 43-
+",000,False,000,False,False,False,1,147
+"### | برج
+",000,False,000,False,False,False,1,59
+"### | 44-
+",000,False,000,False,False,False,1,33
+"### | 45-
+",000,False,000,False,False,False,1,21
+"### | 46-
+",000,False,000,False,False,False,1,63
+"### | برح
+",000,False,000,False,False,False,1,143
+"### | 47-
+",000,False,000,False,False,False,1,31
+"### | برد
+",000,False,000,False,False,False,1,26
+"### | 48-
+",000,False,000,False,False,False,1,47
+"### | 49-
+",000,False,000,False,False,False,1,11
+"### | 50-
+",000,False,000,False,False,False,1,2
+"### | .... 
+",000,False,000,False,False,False,1,265
+"### | برز
+",000,False,000,False,False,False,1,101
+"### | برزخ
+",000,False,000,False,False,False,1,68
+"### | برص
+",000,False,000,False,False,False,1,25
+"### | برق
+",000,False,000,False,False,False,1,123
+"### | برك
+",000,False,000,False,False,False,1,18
+"### | بر م
+",000,False,000,False,False,False,1,283
+"### | برم
+",000,False,000,False,False,False,1,29
+"### | 51-
+",000,False,000,False,False,False,1,96
+"### | بره
+",000,False,000,False,False,False,1,84
+"### | برأ
+",000,False,000,False,False,False,1,139
+"### | بزغ
+",000,False,000,False,False,False,1,33
+"### | بس
+",000,False,000,False,False,False,1,81
+"### | بسر
+",000,False,000,False,False,False,1,112
+"### | بسط
+",000,False,000,False,False,False,1,157
+"### | بسق
+",000,False,000,False,False,False,1,44
+"### | بسل
+",000,False,000,False,False,False,1,75
+"### | 52-
+",000,False,000,False,False,False,1,10
+"### | 53-
+",000,False,000,False,False,False,1,109
+"### | بسم
+",000,False,000,False,False,False,1,9
+"### | بشر
+",000,False,000,False,False,False,1,469
+"### | 54-
+",000,False,000,False,False,False,1,116
+"### | 55-
+",000,False,000,False,False,False,1,47
+"### | بصر
+",000,False,000,False,False,False,1,398
+"### | بصل
+",000,False,000,False,False,False,1,22
+"### | 56-
+",000,False,000,False,False,False,1,3
+"### | بضع
+",000,False,000,False,False,False,1,119
+"### | بطر
+",000,False,000,False,False,False,1,50
+"### | بطش
+",000,False,000,False,False,False,1,33
+"### | بطل
+",000,False,000,False,False,False,1,93
+"### | 57-
+",000,False,000,False,False,False,1,97
+"### | بطن
+",000,False,000,False,False,False,1,61
+"### | 58-
+",000,False,000,False,False,False,1,361
+"### | بطؤ
+",000,False,000,False,False,False,1,51
+"### | بظر
+",000,False,000,False,False,False,1,38
+"### | بعث
+",000,False,000,False,False,False,1,214
+"### | بعثر
+",000,False,000,False,False,False,1,50
+"### | بعد
+",000,False,000,False,False,False,1,75
+"### | 59-
+",000,False,000,False,False,False,1,86
+"### | بعر
+",000,False,000,False,False,False,1,41
+"### | بعض
+",000,False,000,False,False,False,1,54
+"### | 60-
+",000,False,000,False,False,False,1,79
+"### | ب عل
+",000,False,000,False,False,False,1,74
+"### | 61-
+",000,False,000,False,False,False,1,51
+"### | بعل
+",000,False,000,False,False,False,1,170
+"### | بغت
+",000,False,000,False,False,False,1,41
+"### | 62-
+",000,False,000,False,False,False,1,11
+"### | بغض
+",000,False,000,False,False,False,1,69
+"### | بغل
+",000,False,000,False,False,False,1,32
+"### | بغي
+",000,False,000,False,False,False,1,344
+"### | بقر
+",000,False,000,False,False,False,1,20
+"### | بك
+",000,False,000,False,False,False,1,89
+"### | 63-
+",000,False,000,False,False,False,1,38
+"### | بقل
+",000,False,000,False,False,False,1,45
+"### | بقي
+",000,False,000,False,False,False,1,203
+"### | بك
+",000,False,000,False,False,False,1,73
+"### | بكر
+",000,False,000,False,False,False,1,49
+"### | 64-
+",000,False,000,False,False,False,1,47
+"### | 65-
+",000,False,000,False,False,False,1,53
+"### | بكم
+",000,False,000,False,False,False,1,51
+"### | بكي
+",000,False,000,False,False,False,1,128
+"### | بل
+",000,False,000,False,False,False,1,366
+"### | بلد
+",000,False,000,False,False,False,1,103
+"### | 66-
+",000,False,000,False,False,False,1,44
+"### | 67-
+",000,False,000,False,False,False,1,40
+"### | بلس
+",000,False,000,False,False,False,1,85
+"### | بلع
+",000,False,000,False,False,False,1,32
+"### | بلغ
+",000,False,000,False,False,False,1,63
+"### | بلي
+",000,False,000,False,False,False,1,265
+"### | بلى
+",000,False,000,False,False,False,1,447
+"### | بن
+",000,False,000,False,False,False,1,59
+"### | بنى
+",000,False,000,False,False,False,1,173
+"### | 68-
+",000,False,000,False,False,False,1,178
+"### | بهت
+",000,False,000,False,False,False,1,60
+"### | بهج
+",000,False,000,False,False,False,1,34
+"### | 69-
+",000,False,000,False,False,False,1,31
+"### | بهل
+",000,False,000,False,False,False,1,85
+"### | 70-
+",000,False,000,False,False,False,1,13
+"### | بهم
+",000,False,000,False,False,False,1,36
+"### | باب
+",000,False,000,False,False,False,1,107
+"### | باب
+",000,False,000,False,False,False,1,19
+"### | بيت
+",000,False,000,False,False,False,1,59
+"### | 71-
+",000,False,000,False,False,False,1,78
+"### | بيت
+",000,False,000,False,False,False,1,379
+"### | باد
+",000,False,000,False,False,False,1,39
+"### | بور
+",000,False,000,False,False,False,1,83
+"### | 72-
+",000,False,000,False,False,False,1,34
+"### | بئر
+",000,False,000,False,False,False,1,52
+"### | بؤس
+",000,False,000,False,False,False,1,146
+"### | بيض
+",000,False,000,False,False,False,1,167
+"### | 73-
+",000,False,000,False,False,False,1,30
+"### | بال
+",000,False,000,False,False,False,1,24
+"### | 74-
+",000,False,000,False,False,False,1,30
+"### | بيع
+",000,False,000,False,False,False,1,55
+"### | 75-
+",000,False,000,False,False,False,1,154
+"### | بين
+",000,False,000,False,False,False,1,287
+"### | 76-
+",000,False,000,False,False,False,1,299
+"### | باء
+",000,False,000,False,False,False,1,91
+"### | 77-
+",000,False,000,False,False,False,1,123
+"### | 78-
+",000,False,000,False,False,False,1,45
+"### | الباء
+",000,False,000,False,False,False,1,434
+"### | كتاب التاء
+",000,False,000,False,False,False,1,4
+"### | تب
+",000,False,000,False,False,False,1,58
+"### | تابوت
+",000,False,000,False,False,False,1,60
+"### | تبر
+",000,False,000,False,False,False,1,42
+"### | تبع
+",000,False,000,False,False,False,1,145
+"### | 79-
+",000,False,000,False,False,False,1,49
+"### | تترى
+",000,False,000,False,False,False,1,78
+"### | تجر
+",000,False,000,False,False,False,1,83
+"### | تحت
+",000,False,000,False,False,False,1,77
+"### | تخذ
+",000,False,000,False,False,False,1,11
+"### | 79-
+",000,False,000,False,False,False,1,51
+"### | ترب
+",000,False,000,False,False,False,1,139
+"### | ترث
+",000,False,000,False,False,False,1,15
+"### | تفث
+",000,False,000,False,False,False,1,40
+"### | ترف
+",000,False,000,False,False,False,1,46
+"### | ترق
+",000,False,000,False,False,False,1,32
+"### | ترك
+",000,False,000,False,False,False,1,76
+"### | تسعة
+",000,False,000,False,False,False,1,52
+"### | تعس
+",000,False,000,False,False,False,1,21
+"### | تقوى
+",000,False,000,False,False,False,1,21
+"### | تكأ
+",000,False,000,False,False,False,1,47
+"### | تل
+",000,False,000,False,False,False,1,30
+"### | تلو
+",000,False,000,False,False,False,1,304
+"### | تم
+",000,False,000,False,False,False,1,42
+"### | توراة
+",000,False,000,False,False,False,1,45
+"### | تارة
+",000,False,000,False,False,False,1,31
+"### | تين
+",000,False,000,False,False,False,1,28
+"### | توب
+",000,False,000,False,False,False,1,184
+"### | التيه
+",000,False,000,False,False,False,1,45
+"### | التاءات
+",000,False,000,False,False,False,1,92
+"### | كتاب الثاء
+",000,False,000,False,False,False,1,4
+"### | ثبت
+",000,False,000,False,False,False,1,96
+"### | ثبط
+",000,False,000,False,False,False,1,83
+"### | ثبر
+",000,False,000,False,False,False,1,55
+"### | ثبط
+",000,False,000,False,False,False,1,23
+"### | ثبا
+",000,False,000,False,False,False,1,26
+"### | 80-
+",000,False,000,False,False,False,1,39
+"### | ثج
+",000,False,000,False,False,False,1,28
+"### | ثخن
+",000,False,000,False,False,False,1,48
+"### | ثرب
+",000,False,000,False,False,False,1,48
+"### | ثعب
+",000,False,000,False,False,False,1,49
+"### | ثقب
+",000,False,000,False,False,False,1,51
+"### | ثقف
+",000,False,000,False,False,False,1,71
+"### | ثقل
+",000,False,000,False,False,False,1,60
+"### | 81-
+",000,False,000,False,False,False,1,23
+"### | 82-
+",000,False,000,False,False,False,1,274
+"### | 
+",000,False,000,False,False,False,1,0
+"### | ثل
+",000,False,000,False,False,False,1,236
+"### | 
+",000,False,000,False,False,False,1,0
+"### | ثم
+",000,False,000,False,False,False,1,54
+"### | ثمر
+",000,False,000,False,False,False,1,221
+"### | ثمن
+",000,False,000,False,False,False,1,99
+"### | 83-
+",000,False,000,False,False,False,1,23
+"### | ثنى
+",000,False,000,False,False,False,1,75
+"### | 84-
+",000,False,000,False,False,False,1,347
+"### | ثوب
+",000,False,000,False,False,False,1,89
+"### | 85-
+",000,False,000,False,False,False,1,226
+"### | 86-
+",000,False,000,False,False,False,1,24
+"### | ثور
+",000,False,000,False,False,False,1,84
+"### | ثوى
+",000,False,000,False,False,False,1,66
+"### | كتاب الجيم
+",000,False,000,False,False,False,1,4
+"### | جب
+",000,False,000,False,False,False,1,100
+"### | جبت
+",000,False,000,False,False,False,1,38
+"### | 87-
+",000,False,000,False,False,False,1,29
+"### | جبر
+",000,False,000,False,False,False,1,21
+"### | 88-
+",000,False,000,False,False,False,1,63
+"### | 89-
+",000,False,000,False,False,False,1,60
+"### | 90-
+",000,False,000,False,False,False,1,416
+"### | جبل
+",000,False,000,False,False,False,1,173
+"### | جبه
+",000,False,000,False,False,False,1,22
+"### | جبن
+",000,False,000,False,False,False,1,60
+"### | جبى
+",000,False,000,False,False,False,1,136
+"### | جث
+",000,False,000,False,False,False,1,49
+"### | جثم
+",000,False,000,False,False,False,1,25
+"### | جثى
+",000,False,000,False,False,False,1,53
+"### | جحد
+",000,False,000,False,False,False,1,54
+"### | جحم
+",000,False,000,False,False,False,1,35
+"### | جد
+",000,False,000,False,False,False,1,127
+"### | جد ر
+",000,False,000,False,False,False,1,132
+"### | جدث
+",000,False,000,False,False,False,1,27
+"### | جدر
+",000,False,000,False,False,False,1,128
+"### | جدل
+",000,False,000,False,False,False,1,124
+"### | جذ
+",000,False,000,False,False,False,1,35
+"### | جذع
+",000,False,000,False,False,False,1,33
+"### | جذو
+",000,False,000,False,False,False,1,66
+"### | جرح
+",000,False,000,False,False,False,1,73
+"### | جرد
+",000,False,000,False,False,False,1,76
+"### | جرز
+",000,False,000,False,False,False,1,48
+"### | جرع
+",000,False,000,False,False,False,1,49
+"### | جرف
+",000,False,000,False,False,False,1,36
+"### | جرم
+",000,False,000,False,False,False,1,23
+"### | جري
+",000,False,000,False,False,False,1,43
+"### | 91-
+",000,False,000,False,False,False,1,216
+"### | 92-
+",000,False,000,False,False,False,1,109
+"### | جرى
+",000,False,000,False,False,False,1,156
+"### | جزع
+",000,False,000,False,False,False,1,89
+"### | جزء
+",000,False,000,False,False,False,1,15
+"### | جزا
+",000,False,000,False,False,False,1,229
+"### | جسس
+",000,False,000,False,False,False,1,43
+"### | جسد
+",000,False,000,False,False,False,1,5
+"### | جسم
+",000,False,000,False,False,False,1,144
+"### | جعل
+",000,False,000,False,False,False,1,32
+"### | 93-
+",000,False,000,False,False,False,1,34
+"### | جل
+",000,False,000,False,False,False,1,136
+"### | جفن
+",000,False,000,False,False,False,1,39
+"### | جفأ
+",000,False,000,False,False,False,1,59
+"### | جل
+",000,False,000,False,False,False,1,174
+"### | جلب ms135
+",000,False,000,False,False,False,1,19
+"### | 94-
+",000,False,000,False,False,False,1,74
+"### | جلت
+",000,False,000,False,False,False,1,23
+"### | جلد
+",000,False,000,False,False,False,1,74
+"### | جلو
+",000,False,000,False,False,False,1,89
+"### | جلس
+",000,False,000,False,False,False,1,54
+"### | جلو
+",000,False,000,False,False,False,1,25
+"### | 95-
+",000,False,000,False,False,False,1,89
+"### | جم
+",000,False,000,False,False,False,1,96
+"### | جمح
+",000,False,000,False,False,False,1,31
+"### | جمع
+",000,False,000,False,False,False,1,134
+"### | 96-
+",000,False,000,False,False,False,1,26
+"### | 97-
+",000,False,000,False,False,False,1,44
+"### | جن
+",000,False,000,False,False,False,1,148
+"### | جمل
+",000,False,000,False,False,False,1,238
+"### | جن
+",000,False,000,False,False,False,1,104
+"### | 98-
+",000,False,000,False,False,False,1,229
+"### | 99-
+",000,False,000,False,False,False,1,35
+"### | جنب
+",000,False,000,False,False,False,1,50
+"### | 100-
+",000,False,000,False,False,False,1,87
+"### | 101-
+",000,False,000,False,False,False,1,185
+"### | جنح
+",000,False,000,False,False,False,1,177
+"### | جند
+",000,False,000,False,False,False,1,72
+"### | جنف ms142
+",000,False,000,False,False,False,1,29
+"### | جنى
+",000,False,000,False,False,False,1,44
+"### | جهد
+",000,False,000,False,False,False,1,112
+"### | جهر
+",000,False,000,False,False,False,1,137
+"### | جهز
+",000,False,000,False,False,False,1,42
+"### | جهل
+",000,False,000,False,False,False,1,143
+"### | جهنم
+",000,False,000,False,False,False,1,26
+"### | جيب
+",000,False,000,False,False,False,1,14
+"### | جوب
+",000,False,000,False,False,False,1,170
+"### | جود
+",000,False,000,False,False,False,1,77
+"### | جأر
+",000,False,000,False,False,False,1,27
+"### | جار
+",000,False,000,False,False,False,1,135
+"### | جوز
+",000,False,000,False,False,False,1,87
+"### | جاس
+",000,False,000,False,False,False,1,28
+"### | جوع
+",000,False,000,False,False,False,1,32
+"### | جاء
+",000,False,000,False,False,False,1,162
+"### | 102-
+",000,False,000,False,False,False,1,28
+"### | جال
+",000,False,000,False,False,False,1,22
+"### | جو
+",000,False,000,False,False,False,1,26
+"### | كتاب الحاء
+",000,False,000,False,False,False,1,4
+"### | حب
+",000,False,000,False,False,False,1,343
+"### | حبر
+",000,False,000,False,False,False,1,106
+"### | حبس
+",000,False,000,False,False,False,1,33
+"### | حبط
+",000,False,000,False,False,False,1,145
+"### | حبك
+",000,False,000,False,False,False,1,68
+"### | حبل
+",000,False,000,False,False,False,1,133
+"### | حتم
+",000,False,000,False,False,False,1,43
+"### | حتى
+",000,False,000,False,False,False,1,111
+"### | حث
+",000,False,000,False,False,False,1,10
+"### | حج
+",000,False,000,False,False,False,1,13
+"### | 103-
+",000,False,000,False,False,False,1,77
+"### | 104-
+",000,False,000,False,False,False,1,113
+"### | 105-
+",000,False,000,False,False,False,1,6
+"### | حجب
+",000,False,000,False,False,False,1,133
+"### | حجر
+",000,False,000,False,False,False,1,266
+"### | حجز
+",000,False,000,False,False,False,1,48
+"### | حد
+",000,False,000,False,False,False,1,252
+"### | حدب
+",000,False,000,False,False,False,1,45
+"### | حدث
+",000,False,000,False,False,False,1,226
+"### | حدق
+",000,False,000,False,False,False,1,41
+"### | حذر
+",000,False,000,False,False,False,1,65
+"### | حر
+",000,False,000,False,False,False,1,113
+"### | : حر ب
+",000,False,000,False,False,False,1,52
+"### | 106-
+",000,False,000,False,False,False,1,103
+"### | 107-
+",000,False,000,False,False,False,1,31
+"### | حرب
+",000,False,000,False,False,False,1,139
+"### | حرث
+",000,False,000,False,False,False,1,144
+"### | حرج
+",000,False,000,False,False,False,1,110
+"### | حرد
+",000,False,000,False,False,False,1,57
+"### | حرس
+",000,False,000,False,False,False,1,40
+"### | 108-
+",000,False,000,False,False,False,1,97
+"### | حرص
+",000,False,000,False,False,False,1,61
+"### | حرض
+",000,False,000,False,False,False,1,36
+"### | 109-
+",000,False,000,False,False,False,1,44
+"### | حرف
+",000,False,000,False,False,False,1,157
+"### | حري
+",000,False,000,False,False,False,1,24
+"### | حرق
+",000,False,000,False,False,False,1,82
+"### | حرك
+",000,False,000,False,False,False,1,38
+"### | حرم
+",000,False,000,False,False,False,1,274
+"### | حرى
+",000,False,000,False,False,False,1,35
+"### | 110-
+",000,False,000,False,False,False,1,14
+"### | حزب
+",000,False,000,False,False,False,1,46
+"### | حسب
+",000,False,000,False,False,False,1,28
+"### | حزن
+",000,False,000,False,False,False,1,102
+"### | 111-
+",000,False,000,False,False,False,1,52
+"### | حس
+",000,False,000,False,False,False,1,165
+"### | حسب
+",000,False,000,False,False,False,1,176
+"### | 112-
+",000,False,000,False,False,False,1,347
+"### | حسد
+",000,False,000,False,False,False,1,31
+"### | حسر
+",000,False,000,False,False,False,1,165
+"### | حسم
+",000,False,000,False,False,False,1,52
+"### | حسن
+",000,False,000,False,False,False,1,405
+"### | حشر
+",000,False,000,False,False,False,1,111
+"### | حص
+",000,False,000,False,False,False,1,36
+"### | 113-
+",000,False,000,False,False,False,1,28
+"### | حصد
+",000,False,000,False,False,False,1,113
+"### | حصر
+",000,False,000,False,False,False,1,64
+"### | 114-
+",000,False,000,False,False,False,1,119
+"### | حصن
+",000,False,000,False,False,False,1,57
+"### | 115-
+",000,False,000,False,False,False,1,144
+"### | حصل
+",000,False,000,False,False,False,1,52
+"### | حصا
+",000,False,000,False,False,False,1,139
+"### | حض
+",000,False,000,False,False,False,1,31
+"### | حضب
+",000,False,000,False,False,False,1,16
+"### | حضر
+",000,False,000,False,False,False,1,195
+"### | حط
+",000,False,000,False,False,False,1,40
+"### | حطب
+",000,False,000,False,False,False,1,65
+"### | حطم
+",000,False,000,False,False,False,1,57
+"### | 116-
+",000,False,000,False,False,False,1,38
+"### | حظ
+",000,False,000,False,False,False,1,32
+"### | حظر
+",000,False,000,False,False,False,1,28
+"### | حف
+",000,False,000,False,False,False,1,26
+"### | 117-
+",000,False,000,False,False,False,1,74
+"### | حفد
+",000,False,000,False,False,False,1,31
+"### | 118-
+",000,False,000,False,False,False,1,22
+"### | حفر
+",000,False,000,False,False,False,1,23
+"### | : حفي
+",000,False,000,False,False,False,1,111
+"### | حفظ
+",000,False,000,False,False,False,1,90
+"### | حق
+",000,False,000,False,False,False,1,161
+"### | حفى
+",000,False,000,False,False,False,1,80
+"### | حق
+",000,False,000,False,False,False,1,464
+"### | حقب
+",000,False,000,False,False,False,1,55
+"### | حقف
+",000,False,000,False,False,False,1,27
+"### | 119-
+",000,False,000,False,False,False,1,5
+"### | حكم
+",000,False,000,False,False,False,1,28
+"### | 120-
+",000,False,000,False,False,False,1,65
+"### | 121-
+",000,False,000,False,False,False,1,273
+"### | 122-
+",000,False,000,False,False,False,1,185
+"### | حل
+",000,False,000,False,False,False,1,222
+"### | 123-
+",000,False,000,False,False,False,1,71
+"### | حلف
+",000,False,000,False,False,False,1,29
+"### | 124-
+",000,False,000,False,False,False,1,105
+"### | حلي
+",000,False,000,False,False,False,1,25
+"### | حلق
+",000,False,000,False,False,False,1,104
+"### | حلم
+",000,False,000,False,False,False,1,135
+"### | 125-
+",000,False,000,False,False,False,1,37
+"### | حلى
+",000,False,000,False,False,False,1,47
+"### | حم
+",000,False,000,False,False,False,1,15
+"### | حمد
+",000,False,000,False,False,False,1,281
+"### | حمد
+",000,False,000,False,False,False,1,201
+"### | حمر
+",000,False,000,False,False,False,1,22
+"### | حمل 
+",000,False,000,False,False,False,1,74
+"### | حمل
+",000,False,000,False,False,False,1,335
+"### | حمى
+",000,False,000,False,False,False,1,150
+"### | حن
+",000,False,000,False,False,False,1,96
+"### | حنث
+",000,False,000,False,False,False,1,56
+"### | حنجر
+",000,False,000,False,False,False,1,25
+"### | حنذ
+",000,False,000,False,False,False,1,61
+"### | حنف
+",000,False,000,False,False,False,1,84
+"### | حنك
+",000,False,000,False,False,False,1,87
+"### | حوب
+",000,False,000,False,False,False,1,81
+"### | حوت ms183
+",000,False,000,False,False,False,1,36
+"### | حيد
+",000,False,000,False,False,False,1,23
+"### | حيث
+",000,False,000,False,False,False,1,25
+"### | حوذ
+",000,False,000,False,False,False,1,58
+"### | حور
+",000,False,000,False,False,False,1,251
+"### | حير
+",000,False,000,False,False,False,1,36
+"### | حاج
+",000,False,000,False,False,False,1,73
+"### | 126-
+",000,False,000,False,False,False,1,22
+"### | حيز
+",000,False,000,False,False,False,1,51
+"### | حاشى
+",000,False,000,False,False,False,1,95
+"### | 127-
+",000,False,000,False,False,False,1,20
+"### | 128-
+",000,False,000,False,False,False,1,38
+"### | حاص
+",000,False,000,False,False,False,1,46
+"### | حيض
+",000,False,000,False,False,False,1,35
+"### | 129-
+",000,False,000,False,False,False,1,20
+"### | حيط
+",000,False,000,False,False,False,1,209
+"### | حيف
+",000,False,000,False,False,False,1,34
+"### | حاق
+",000,False,000,False,False,False,1,40
+"### | حول
+",000,False,000,False,False,False,1,388
+"### | حين
+",000,False,000,False,False,False,1,101
+"### | حيى
+",000,False,000,False,False,False,1,111
+"### | 130-
+",000,False,000,False,False,False,1,29
+"### | 131-
+",000,False,000,False,False,False,1,522
+"### | حوايا
+",000,False,000,False,False,False,1,52
+"### | 132-
+",000,False,000,False,False,False,1,37
+"### | كتاب الخاء
+",000,False,000,False,False,False,1,4
+"### | خبت
+",000,False,000,False,False,False,1,63
+"### | خبث
+",000,False,000,False,False,False,1,28
+"### | 133-
+",000,False,000,False,False,False,1,150
+"### | خبر
+",000,False,000,False,False,False,1,96
+"### | خبز
+",000,False,000,False,False,False,1,32
+"### | خبط
+",000,False,000,False,False,False,1,64
+"### | خبل
+",000,False,000,False,False,False,1,63
+"### | 134-
+",000,False,000,False,False,False,1,24
+"### | خبو
+",000,False,000,False,False,False,1,32
+"### | خبء
+",000,False,000,False,False,False,1,34
+"### | ختر
+",000,False,000,False,False,False,1,18
+"### | ختم
+",000,False,000,False,False,False,1,289
+"### | خد
+",000,False,000,False,False,False,1,53
+"### | خدع
+",000,False,000,False,False,False,1,217
+"### | خدن
+",000,False,000,False,False,False,1,28
+"### | 135-
+",000,False,000,False,False,False,1,19
+"### | 
+",000,False,000,False,False,False,1,0
+"### | خذ
+",000,False,000,False,False,False,1,28
+"### | 136-
+",000,False,000,False,False,False,1,37
+"### | خر
+",000,False,000,False,False,False,1,83
+"### | خرب
+",000,False,000,False,False,False,1,91
+"### | 137-
+",000,False,000,False,False,False,1,5
+"### | خرج
+",000,False,000,False,False,False,1,258
+"### | 138-
+",000,False,000,False,False,False,1,44
+"### | خرص
+",000,False,000,False,False,False,1,110
+"### | خرط
+",000,False,000,False,False,False,1,30
+"### | خرق
+",000,False,000,False,False,False,1,160
+"### | خزن
+",000,False,000,False,False,False,1,136
+"### | خزى
+",000,False,000,False,False,False,1,179
+"### | خسر
+",000,False,000,False,False,False,1,157
+"### | خسف
+",000,False,000,False,False,False,1,90
+"### | خسأ
+",000,False,000,False,False,False,1,43
+"### | خشب
+",000,False,000,False,False,False,1,62
+"### | 139-
+",000,False,000,False,False,False,1,25
+"### | خشع
+",000,False,000,False,False,False,1,77
+"### | خشى
+",000,False,000,False,False,False,1,29
+"### | خص
+",000,False,000,False,False,False,1,97
+"### | خص
+",000,False,000,False,False,False,1,91
+"### | خصف
+",000,False,000,False,False,False,1,67
+"### | خصم
+",000,False,000,False,False,False,1,91
+"### | خضد
+",000,False,000,False,False,False,1,38
+"### | خضر
+",000,False,000,False,False,False,1,44
+"### | 140-
+",000,False,000,False,False,False,1,52
+"### | خضع
+",000,False,000,False,False,False,1,34
+"### | خط
+",000,False,000,False,False,False,1,66
+"### | خطب
+",000,False,000,False,False,False,1,83
+"### | خطف
+",000,False,000,False,False,False,1,66
+"### | خطا
+",000,False,000,False,False,False,1,23
+"### | خطأ
+",000,False,000,False,False,False,1,118
+"### | 141-
+",000,False,000,False,False,False,1,259
+"### | خطو
+",000,False,000,False,False,False,1,37
+"### | خف
+",000,False,000,False,False,False,1,190
+"### | خفت
+",000,False,000,False,False,False,1,24
+"### | 142-
+",000,False,000,False,False,False,1,6
+"### | خفض
+",000,False,000,False,False,False,1,52
+"### | خفى
+",000,False,000,False,False,False,1,87
+"### | خل
+",000,False,000,False,False,False,1,32
+"### | 143-
+",000,False,000,False,False,False,1,60
+"### | 144-
+",000,False,000,False,False,False,1,160
+"### | 145-
+",000,False,000,False,False,False,1,116
+"### | خلد
+",000,False,000,False,False,False,1,166
+"### | خلص
+",000,False,000,False,False,False,1,39
+"### | 146-
+",000,False,000,False,False,False,1,102
+"### | خلط
+",000,False,000,False,False,False,1,63
+"### | 147-
+",000,False,000,False,False,False,1,37
+"### | خلع
+",000,False,000,False,False,False,1,68
+"### | خلف
+",000,False,000,False,False,False,1,154
+"### | 148-
+",000,False,000,False,False,False,1,499
+"### | خلا
+",000,False,000,False,False,False,1,9
+"### | خلق
+",000,False,000,False,False,False,1,122
+"### | 149-
+",000,False,000,False,False,False,1,257
+"### | خلا
+",000,False,000,False,False,False,1,215
+"### | خمد
+",000,False,000,False,False,False,1,37
+"### | خمر
+",000,False,000,False,False,False,1,121
+"### | 151-
+",000,False,000,False,False,False,1,4
+"### | خمس
+",000,False,000,False,False,False,1,52
+"### | خمص
+",000,False,000,False,False,False,1,28
+"### | خمط
+",000,False,000,False,False,False,1,26
+"### | خنزير
+",000,False,000,False,False,False,1,44
+"### | خنس
+",000,False,000,False,False,False,1,43
+"### | خنق
+",000,False,000,False,False,False,1,20
+"### | خاب
+",000,False,000,False,False,False,1,19
+"### | خير
+",000,False,000,False,False,False,1,440
+"### | خوار
+",000,False,000,False,False,False,1,26
+"### | خوض
+",000,False,000,False,False,False,1,62
+"### | خيط
+",000,False,000,False,False,False,1,56
+"### | 152-
+",000,False,000,False,False,False,1,70
+"### | خوف
+",000,False,000,False,False,False,1,255
+"### | خيل
+",000,False,000,False,False,False,1,134
+"### | 153-
+",000,False,000,False,False,False,1,15
+"### | خول
+",000,False,000,False,False,False,1,53
+"### | خون
+",000,False,000,False,False,False,1,147
+"### | خوى
+",000,False,000,False,False,False,1,53
+"### | كتاب الدال
+",000,False,000,False,False,False,1,4
+"### | دب
+",000,False,000,False,False,False,1,163
+"### | دبر
+",000,False,000,False,False,False,1,247
+"### | 154-
+",000,False,000,False,False,False,1,40
+"### | دثر
+",000,False,000,False,False,False,1,61
+"### | دحر
+",000,False,000,False,False,False,1,33
+"### | دحض
+",000,False,000,False,False,False,1,47
+"### | 155-
+",000,False,000,False,False,False,1,19
+"### | دحا
+",000,False,000,False,False,False,1,58
+"### | دخر
+",000,False,000,False,False,False,1,38
+"### | دخل
+",000,False,000,False,False,False,1,201
+"### | دخن
+",000,False,000,False,False,False,1,68
+"### | در
+",000,False,000,False,False,False,1,71
+"### | درج
+",000,False,000,False,False,False,1,183
+"### | درس
+",000,False,000,False,False,False,1,100
+"### | درك
+",000,False,000,False,False,False,1,247
+"### | درهم
+",000,False,000,False,False,False,1,11
+"### | درا
+",000,False,000,False,False,False,1,15
+"### | درى
+",000,False,000,False,False,False,1,22
+"### | 156-
+",000,False,000,False,False,False,1,120
+"### | درأ
+",000,False,000,False,False,False,1,42
+"### | 157-
+",000,False,000,False,False,False,1,157
+"### | دس
+",000,False,000,False,False,False,1,46
+"### | دسر
+",000,False,000,False,False,False,1,33
+"### | دسى
+",000,False,000,False,False,False,1,22
+"### | دع
+",000,False,000,False,False,False,1,3
+"### | دع: ا
+",000,False,000,False,False,False,1,35
+"### | 158-
+",000,False,000,False,False,False,1,6
+"### | دعا
+",000,False,000,False,False,False,1,297
+"### | دفع
+",000,False,000,False,False,False,1,60
+"### | دفق
+",000,False,000,False,False,False,1,35
+"### | دفىء
+",000,False,000,False,False,False,1,25
+"### | دك
+",000,False,000,False,False,False,1,59
+"### | دل
+",000,False,000,False,False,False,1,72
+"### | دلو
+",000,False,000,False,False,False,1,36
+"### | 159-
+",000,False,000,False,False,False,1,25
+"### | 160-
+",000,False,000,False,False,False,1,27
+"### | دلك
+",000,False,000,False,False,False,1,46
+"### | 
+",000,False,000,False,False,False,1,0
+"### | دم
+",000,False,000,False,False,False,1,16
+"### | دم
+",000,False,000,False,False,False,1,63
+"### | دمر
+",000,False,000,False,False,False,1,41
+"### | دمع
+",000,False,000,False,False,False,1,20
+"### | دمغ
+",000,False,000,False,False,False,1,50
+"### | دنر
+",000,False,000,False,False,False,1,27
+"### | دنا
+",000,False,000,False,False,False,1,181
+"### | دهر
+",000,False,000,False,False,False,1,153
+"### | دهق
+",000,False,000,False,False,False,1,22
+"### | دهم
+",000,False,000,False,False,False,1,46
+"### | 161-
+",000,False,000,False,False,False,1,7
+"### | دهن
+",000,False,000,False,False,False,1,134
+"### | 162-
+",000,False,000,False,False,False,1,27
+"### | دأب
+",000,False,000,False,False,False,1,41
+"### | داود
+",000,False,000,False,False,False,1,7
+"### | دار
+",000,False,000,False,False,False,1,116
+"### | 163-
+",000,False,000,False,False,False,1,16
+"### | دول
+",000,False,000,False,False,False,1,82
+"### | دول
+",000,False,000,False,False,False,1,57
+"### | دوم
+",000,False,000,False,False,False,1,64
+"### | 164-
+",000,False,000,False,False,False,1,34
+"### | دين
+",000,False,000,False,False,False,1,33
+"### | 165-
+",000,False,000,False,False,False,1,228
+"### | دون
+",000,False,000,False,False,False,1,133
+"### | كتاب الذال
+",000,False,000,False,False,False,1,4
+"### | ذب
+",000,False,000,False,False,False,1,15
+"### | 166-
+",000,False,000,False,False,False,1,107
+"### | 167-
+",000,False,000,False,False,False,1,24
+"### | 168-
+",000,False,000,False,False,False,1,5
+"### | ذبح
+",000,False,000,False,False,False,1,53
+"### | ذخر
+",000,False,000,False,False,False,1,45
+"### | ذر
+",000,False,000,False,False,False,1,40
+"### | ذرع
+",000,False,000,False,False,False,1,20
+"### | ذرا
+",000,False,000,False,False,False,1,62
+"### | ذرو
+",000,False,000,False,False,False,1,57
+"### | ذرأ
+",000,False,000,False,False,False,1,184
+"### | ذعن
+",000,False,000,False,False,False,1,16
+"### | ذقن
+",000,False,000,False,False,False,1,25
+"### | ذكر
+",000,False,000,False,False,False,1,498
+"### | ذكا
+",000,False,000,False,False,False,1,16
+"### | ذل
+",000,False,000,False,False,False,1,227
+"### | ذم
+",000,False,000,False,False,False,1,41
+"### | ذهب
+",000,False,000,False,False,False,1,28
+"### | 170-
+",000,False,000,False,False,False,1,25
+"### | ذنب
+",000,False,000,False,False,False,1,227
+"### | ذهل
+",000,False,000,False,False,False,1,21
+"### | 
+",000,False,000,False,False,False,1,0
+"### | ذو
+",000,False,000,False,False,False,1,201
+"### | ذو
+",000,False,000,False,False,False,1,131
+"### | 171-
+",000,False,000,False,False,False,1,162
+"### | 172-
+",000,False,000,False,False,False,1,64
+"### | ذيب
+",000,False,000,False,False,False,1,58
+"### | ذود
+",000,False,000,False,False,False,1,26
+"### | ذأم
+",000,False,000,False,False,False,1,25
+"### | كتاب الراء
+",000,False,000,False,False,False,1,4
+"### | رب
+",000,False,000,False,False,False,1,313
+"### | 173-
+",000,False,000,False,False,False,1,14
+"### | 174-
+",000,False,000,False,False,False,1,51
+"### | 175-
+",000,False,000,False,False,False,1,54
+"### | ربح
+",000,False,000,False,False,False,1,36
+"### | 176-
+",000,False,000,False,False,False,1,52
+"### | ربص
+",000,False,000,False,False,False,1,50
+"### | ربط
+",000,False,000,False,False,False,1,128
+"### | ربع
+",000,False,000,False,False,False,1,65
+"### | ربو
+",000,False,000,False,False,False,1,71
+"### | 178-
+",000,False,000,False,False,False,1,97
+"### | ربو
+",000,False,000,False,False,False,1,184
+"### | رتع
+",000,False,000,False,False,False,1,28
+"### | 179-
+",000,False,000,False,False,False,1,22
+"### | رتق
+",000,False,000,False,False,False,1,36
+"### | رتل
+",000,False,000,False,False,False,1,15
+"### | رج
+",000,False,000,False,False,False,1,59
+"### | رجز
+",000,False,000,False,False,False,1,134
+"### | رجس
+",000,False,000,False,False,False,1,133
+"### | رجع
+",000,False,000,False,False,False,1,352
+"### | رجف
+",000,False,000,False,False,False,1,43
+"### | رجل
+",000,False,000,False,False,False,1,27
+"### | 180-
+",000,False,000,False,False,False,1,182
+"### | رجم
+",000,False,000,False,False,False,1,51
+"### | 181-
+",000,False,000,False,False,False,1,76
+"### | رجا
+",000,False,000,False,False,False,1,41
+"### | 182-
+",000,False,000,False,False,False,1,57
+"### | رحب
+",000,False,000,False,False,False,1,58
+"### | رحق
+",000,False,000,False,False,False,1,16
+"### | رحل
+",000,False,000,False,False,False,1,76
+"### | رحم
+",000,False,000,False,False,False,1,242
+"### | رخا
+",000,False,000,False,False,False,1,35
+"### | 183-
+",000,False,000,False,False,False,1,9
+"### | 184-
+",000,False,000,False,False,False,1,30
+"### | رد
+",000,False,000,False,False,False,1,393
+"### | ردف
+",000,False,000,False,False,False,1,38
+"### | 185-
+",000,False,000,False,False,False,1,98
+"### | ردم
+",000,False,000,False,False,False,1,25
+"### | 186-
+",000,False,000,False,False,False,1,16
+"### | ردأ
+",000,False,000,False,False,False,1,68
+"### | رذل
+",000,False,000,False,False,False,1,35
+"### | رزق
+",000,False,000,False,False,False,1,255
+"### | رس
+",000,False,000,False,False,False,1,13
+"### | 187-
+",000,False,000,False,False,False,1,24
+"### | رسا 
+",000,False,000,False,False,False,1,20
+"### | رسخ
+",000,False,000,False,False,False,1,44
+"### | رسل
+",000,False,000,False,False,False,1,49
+"### | 188-
+",000,False,000,False,False,False,1,34
+"### | 189-
+",000,False,000,False,False,False,1,217
+"### | رسا
+",000,False,000,False,False,False,1,36
+"### | 190-
+",000,False,000,False,False,False,1,48
+"### | رشد
+",000,False,000,False,False,False,1,103
+"### | رص
+",000,False,000,False,False,False,1,28
+"### | رصد
+",000,False,000,False,False,False,1,100
+"### | رضع ms255
+",000,False,000,False,False,False,1,93
+"### | رضي
+",000,False,000,False,False,False,1,144
+"### | رطب
+",000,False,000,False,False,False,1,62
+"### | رعب
+",000,False,000,False,False,False,1,60
+"### | رعد
+",000,False,000,False,False,False,1,42
+"### | رعى
+",000,False,000,False,False,False,1,80
+"### | 191-
+",000,False,000,False,False,False,1,57
+"### | رعن
+",000,False,000,False,False,False,1,59
+"### | 192-
+",000,False,000,False,False,False,1,42
+"### | رغب
+",000,False,000,False,False,False,1,95
+"### | 193-
+",000,False,000,False,False,False,1,6
+"### | رغد
+",000,False,000,False,False,False,1,51
+"### | رغم
+",000,False,000,False,False,False,1,23
+"### | 194-
+",000,False,000,False,False,False,1,66
+"### | رف
+",000,False,000,False,False,False,1,70
+"### | رفت
+",000,False,000,False,False,False,1,34
+"### | رفث
+",000,False,000,False,False,False,1,78
+"### | 195-
+",000,False,000,False,False,False,1,36
+"### | رفد
+",000,False,000,False,False,False,1,76
+"### | 196-
+",000,False,000,False,False,False,1,33
+"### | رفع
+",000,False,000,False,False,False,1,180
+"### | رق
+",000,False,000,False,False,False,1,88
+"### | رقب
+",000,False,000,False,False,False,1,69
+"### | رقي
+",000,False,000,False,False,False,1,84
+"### | رقد
+",000,False,000,False,False,False,1,59
+"### | رقم
+",000,False,000,False,False,False,1,57
+"### | رقى
+",000,False,000,False,False,False,1,67
+"### | 197-
+",000,False,000,False,False,False,1,38
+"### | ركب
+",000,False,000,False,False,False,1,121
+"### | ركد
+",000,False,000,False,False,False,1,36
+"### | ركز
+",000,False,000,False,False,False,1,63
+"### | ركس
+",000,False,000,False,False,False,1,31
+"### | ركض
+",000,False,000,False,False,False,1,41
+"### | ركع
+",000,False,000,False,False,False,1,44
+"### | 198-
+",000,False,000,False,False,False,1,13
+"### | ركم
+",000,False,000,False,False,False,1,38
+"### | ركن
+",000,False,000,False,False,False,1,62
+"### | رم
+",000,False,000,False,False,False,1,73
+"### | رمح
+",000,False,000,False,False,False,1,44
+"### | رمد
+",000,False,000,False,False,False,1,46
+"### | رمز
+",000,False,000,False,False,False,1,48
+"### | رمض
+",000,False,000,False,False,False,1,35
+"### | رمى
+",000,False,000,False,False,False,1,41
+"### | رهب
+",000,False,000,False,False,False,1,127
+"### | رهط
+",000,False,000,False,False,False,1,9
+"### | رة، و
+",000,False,000,False,False,False,1,39
+"### | 199-
+",000,False,000,False,False,False,1,33
+"### | رهق
+",000,False,000,False,False,False,1,37
+"### | رهن
+",000,False,000,False,False,False,1,115
+"### | رهو
+",000,False,000,False,False,False,1,46
+"### | ريب
+",000,False,000,False,False,False,1,72
+"### | 200-
+",000,False,000,False,False,False,1,16
+"### | 201-
+",000,False,000,False,False,False,1,82
+"### | روح
+",000,False,000,False,False,False,1,14
+"### | 202-
+",000,False,000,False,False,False,1,193
+"### | 203-
+",000,False,000,False,False,False,1,234
+"### | رود
+",000,False,000,False,False,False,1,244
+"### | رأس
+",000,False,000,False,False,False,1,27
+"### | ريش
+",000,False,000,False,False,False,1,59
+"### | 204-
+",000,False,000,False,False,False,1,26
+"### | روض
+",000,False,000,False,False,False,1,98
+"### | ريع
+",000,False,000,False,False,False,1,45
+"### | روع
+",000,False,000,False,False,False,1,52
+"### | 205-
+",000,False,000,False,False,False,1,6
+"### | روغ
+",000,False,000,False,False,False,1,62
+"### | رأف
+",000,False,000,False,False,False,1,21
+"### | روم
+",000,False,000,False,False,False,1,24
+"### | رين
+",000,False,000,False,False,False,1,26
+"### | 206-
+",000,False,000,False,False,False,1,13
+"### | رأى
+",000,False,000,False,False,False,1,19
+"### | 207-
+",000,False,000,False,False,False,1,395
+"### | 208-
+",000,False,000,False,False,False,1,18
+"### | روى
+",000,False,000,False,False,False,1,112
+"### | كتاب الزاي
+",000,False,000,False,False,False,1,4
+"### | زبد
+",000,False,000,False,False,False,1,43
+"### | زبر
+",000,False,000,False,False,False,1,160
+"### | زج
+",000,False,000,False,False,False,1,50
+"### | زجر
+",000,False,000,False,False,False,1,57
+"### | زجا
+",000,False,000,False,False,False,1,40
+"### | 210-
+",000,False,000,False,False,False,1,24
+"### | زحح
+",000,False,000,False,False,False,1,21
+"### | زحف
+",000,False,000,False,False,False,1,39
+"### | زخرف
+",000,False,000,False,False,False,1,36
+"### | زرب
+",000,False,000,False,False,False,1,32
+"### | زرع
+",000,False,000,False,False,False,1,82
+"### | زرق
+",000,False,000,False,False,False,1,35
+"### | زرى
+",000,False,000,False,False,False,1,32
+"### | زعق
+",000,False,000,False,False,False,1,32
+"### | زعم
+",000,False,000,False,False,False,1,73
+"### | زف
+",000,False,000,False,False,False,1,53
+"### | زفر
+",000,False,000,False,False,False,1,25
+"### | زقم
+",000,False,000,False,False,False,1,27
+"### | زكا
+",000,False,000,False,False,False,1,307
+"### | زل
+",000,False,000,False,False,False,1,121
+"### | زلف
+",000,False,000,False,False,False,1,42
+"### | 211-
+",000,False,000,False,False,False,1,17
+"### | زمر
+",000,False,000,False,False,False,1,32
+"### | زلق
+",000,False,000,False,False,False,1,34
+"### | 212-
+",000,False,000,False,False,False,1,27
+"### | زمر
+",000,False,000,False,False,False,1,38
+"### | زمل
+",000,False,000,False,False,False,1,29
+"### | زنم
+",000,False,000,False,False,False,1,40
+"### | 213-
+",000,False,000,False,False,False,1,13
+"### | زنا
+",000,False,000,False,False,False,1,61
+"### | زهد
+",000,False,000,False,False,False,1,21
+"### | زهق
+",000,False,000,False,False,False,1,13
+"### | زيت
+",000,False,000,False,False,False,1,35
+"### | زوج
+",000,False,000,False,False,False,1,57
+"### | 214-
+",000,False,000,False,False,False,1,245
+"### | زاد
+",000,False,000,False,False,False,1,222
+"### | 215-
+",000,False,000,False,False,False,1,45
+"### | زور
+",000,False,000,False,False,False,1,102
+"### | 216-
+",000,False,000,False,False,False,1,17
+"### | زيغ
+",000,False,000,False,False,False,1,73
+"### | زال
+",000,False,000,False,False,False,1,75
+"### | 217-
+",000,False,000,False,False,False,1,26
+"### | 218-
+",000,False,000,False,False,False,1,138
+"### | زين
+",000,False,000,False,False,False,1,110
+"### | 219-
+",000,False,000,False,False,False,1,186
+"### | كتاب السين
+",000,False,000,False,False,False,1,4
+"### | سبب
+",000,False,000,False,False,False,1,155
+"### | 220-
+",000,False,000,False,False,False,1,21
+"### | 221-
+",000,False,000,False,False,False,1,23
+"### | 222-
+",000,False,000,False,False,False,1,13
+"### | 223-
+",000,False,000,False,False,False,1,32
+"### | سبت ms281
+",000,False,000,False,False,False,1,96
+"### | سبح
+",000,False,000,False,False,False,1,285
+"### | 224-
+",000,False,000,False,False,False,1,53
+"### | سبخ
+",000,False,000,False,False,False,1,39
+"### | سبط
+",000,False,000,False,False,False,1,69
+"### | سبع
+",000,False,000,False,False,False,1,86
+"### | 225-
+",000,False,000,False,False,False,1,41
+"### | سبغ
+",000,False,000,False,False,False,1,21
+"### | سبأ
+",000,False,000,False,False,False,1,15
+"### | سبق
+",000,False,000,False,False,False,1,98
+"### | سبل
+",000,False,000,False,False,False,1,202
+"### | سبأ
+",000,False,000,False,False,False,1,43
+"### | ست
+",000,False,000,False,False,False,1,30
+"### | ستر
+",000,False,000,False,False,False,1,38
+"### | سجد
+",000,False,000,False,False,False,1,236
+"### | 226-
+",000,False,000,False,False,False,1,21
+"### | سجر
+",000,False,000,False,False,False,1,18
+"### | 227-
+",000,False,000,False,False,False,1,66
+"### | 228-
+",000,False,000,False,False,False,1,6
+"### | سجل
+",000,False,000,False,False,False,1,28
+"### | 229-
+",000,False,000,False,False,False,1,46
+"### | سجن ms286
+",000,False,000,False,False,False,1,101
+"### | سجى
+",000,False,000,False,False,False,1,31
+"### | سحب
+",000,False,000,False,False,False,1,103
+"### | سحت
+",000,False,000,False,False,False,1,69
+"### | سحر
+",000,False,000,False,False,False,1,302
+"### | سحق
+",000,False,000,False,False,False,1,78
+"### | سحل
+",000,False,000,False,False,False,1,88
+"### | سخر
+",000,False,000,False,False,False,1,127
+"### | سخط
+",000,False,000,False,False,False,1,47
+"### | سد
+",000,False,000,False,False,False,1,81
+"### | سدر
+",000,False,000,False,False,False,1,87
+"### | سدس
+",000,False,000,False,False,False,1,59
+"### | سرر
+",000,False,000,False,False,False,1,124
+"### | سر ب
+",000,False,000,False,False,False,1,184
+"### | سرب
+",000,False,000,False,False,False,1,161
+"### | سربل
+",000,False,000,False,False,False,1,29
+"### | سرج
+",000,False,000,False,False,False,1,33
+"### | 230-
+",000,False,000,False,False,False,1,14
+"### | سرح
+",000,False,000,False,False,False,1,85
+"### | سرد
+",000,False,000,False,False,False,1,39
+"### | سردق
+",000,False,000,False,False,False,1,35
+"### | سرط
+",000,False,000,False,False,False,1,35
+"### | 231-
+",000,False,000,False,False,False,1,30
+"### | سرع
+",000,False,000,False,False,False,1,100
+"### | سرف
+",000,False,000,False,False,False,1,178
+"### | سرق
+",000,False,000,False,False,False,1,68
+"### | سرمد
+",000,False,000,False,False,False,1,23
+"### | سرى
+",000,False,000,False,False,False,1,47
+"### | 232-
+",000,False,000,False,False,False,1,112
+"### | سطح
+",000,False,000,False,False,False,1,45
+"### | سطر
+",000,False,000,False,False,False,1,55
+"### | 233-
+",000,False,000,False,False,False,1,5
+"### | سطا
+",000,False,000,False,False,False,1,143
+"### | سطا
+",000,False,000,False,False,False,1,61
+"### | سعد
+",000,False,000,False,False,False,1,100
+"### | سعر
+",000,False,000,False,False,False,1,72
+"### | سعى
+",000,False,000,False,False,False,1,86
+"### | 234-
+",000,False,000,False,False,False,1,77
+"### | سغب
+",000,False,000,False,False,False,1,39
+"### | سفر
+",000,False,000,False,False,False,1,186
+"### | 235-
+",000,False,000,False,False,False,1,32
+"### | سفع
+",000,False,000,False,False,False,1,53
+"### | سفك
+",000,False,000,False,False,False,1,23
+"### | سفل
+",000,False,000,False,False,False,1,68
+"### | سفن
+",000,False,000,False,False,False,1,15
+"### | 236-
+",000,False,000,False,False,False,1,47
+"### | سفه
+",000,False,000,False,False,False,1,93
+"### | سقر
+",000,False,000,False,False,False,1,55
+"### | سقط
+",000,False,000,False,False,False,1,150
+"### | سقف
+",000,False,000,False,False,False,1,44
+"### | سقم
+",000,False,000,False,False,False,1,67
+"### | سقى
+",000,False,000,False,False,False,1,128
+"### | سكب
+",000,False,000,False,False,False,1,32
+"### | سكت
+",000,False,000,False,False,False,1,49
+"### | سكر
+",000,False,000,False,False,False,1,26
+"### | 237-
+",000,False,000,False,False,False,1,70
+"### | سكن
+",000,False,000,False,False,False,1,163
+"### | سل
+",000,False,000,False,False,False,1,107
+"### | سل
+",000,False,000,False,False,False,1,120
+"### | 238-
+",000,False,000,False,False,False,1,60
+"### | سلب
+",000,False,000,False,False,False,1,43
+"### | 239-
+",000,False,000,False,False,False,1,28
+"### | سلح
+",000,False,000,False,False,False,1,41
+"### | 240-
+",000,False,000,False,False,False,1,33
+"### | سلخ
+",000,False,000,False,False,False,1,43
+"### | سلط
+",000,False,000,False,False,False,1,153
+"### | سلف
+",000,False,000,False,False,False,1,91
+"### | سلق
+",000,False,000,False,False,False,1,50
+"### | سلك
+",000,False,000,False,False,False,1,87
+"### | سلم
+",000,False,000,False,False,False,1,48
+"### | سلا
+",000,False,000,False,False,False,1,595
+"### | 242-
+",000,False,000,False,False,False,1,21
+"### | سلا
+",000,False,000,False,False,False,1,72
+"### | سمم
+",000,False,000,False,False,False,1,84
+"### | سمد
+",000,False,000,False,False,False,1,31
+"### | سمر
+",000,False,000,False,False,False,1,81
+"### | سمع
+",000,False,000,False,False,False,1,422
+"### | سمك
+",000,False,000,False,False,False,1,18
+"### | 243-
+",000,False,000,False,False,False,1,36
+"### | سمن
+",000,False,000,False,False,False,1,52
+"### | سما
+",000,False,000,False,False,False,1,19
+"### | 244-
+",000,False,000,False,False,False,1,146
+"### | 245-
+",000,False,000,False,False,False,1,351
+"### | سنن
+",000,False,000,False,False,False,1,27
+"### | سنا
+",000,False,000,False,False,False,1,121
+"### | سنم
+",000,False,000,False,False,False,1,52
+"### | سنه
+",000,year,000,False,False,False,1,94
+"### | 246-
+",000,False,000,False,False,False,1,11
+"### | 247-
+",000,False,000,False,False,False,1,17
+"### | 248-
+",000,False,000,False,False,False,1,43
+"### | سهر
+",000,False,000,False,False,False,1,28
+"### | 249-
+",000,False,000,False,False,False,1,13
+"### | سهل
+",000,False,000,False,False,False,1,37
+"### | سهم
+",000,False,000,False,False,False,1,32
+"### | سها
+",000,False,000,False,False,False,1,58
+"### | سيب
+",000,False,000,False,False,False,1,44
+"### | ساح
+",000,False,000,False,False,False,1,97
+"### | سود
+",000,False,000,False,False,False,1,191
+"### | سار
+",000,False,000,False,False,False,1,170
+"### | سور
+",000,False,000,False,False,False,1,87
+"### | 250-
+",000,False,000,False,False,False,1,66
+"### | 251-
+",000,False,000,False,False,False,1,18
+"### | سوط
+",000,False,000,False,False,False,1,50
+"### | ساعة
+",000,False,000,False,False,False,1,251
+"### | ساغ
+",000,False,000,False,False,False,1,31
+"### | سوف
+",000,False,000,False,False,False,1,62
+"### | 252-
+",000,False,000,False,False,False,1,31
+"### | ساق
+",000,False,000,False,False,False,1,184
+"### | سول 
+",000,False,000,False,False,False,1,26
+"### | سول
+",000,False,000,False,False,False,1,19
+"### | سأل
+",000,False,000,False,False,False,1,36
+"### | 253-
+",000,False,000,False,False,False,1,39
+"### | سال
+",000,False,000,False,False,False,1,242
+"### | سام
+",000,False,000,False,False,False,1,71
+"### | 254-
+",000,False,000,False,False,False,1,47
+"### | سأم
+",000,False,000,False,False,False,1,26
+"### | 255-
+",000,False,000,False,False,False,1,12
+"### | سين
+",000,False,000,False,False,False,1,54
+"### | 
+",000,False,000,False,False,False,1,0
+"### | سوا
+",000,False,000,False,False,False,1,50
+"### | 256-
+",000,False,000,False,False,False,1,466
+"### | 257-
+",000,False,000,False,False,False,1,10
+"### | 258-
+",000,False,000,False,False,False,1,51
+"### | سوأ
+",000,False,000,False,False,False,1,327
+"### | كتاب الشين
+",000,False,000,False,False,False,1,4
+"### | شبه
+",000,False,000,False,False,False,1,540
+"### | شتت
+",000,False,000,False,False,False,1,70
+"### | شتا
+",000,False,000,False,False,False,1,22
+"### | 259-
+",000,False,000,False,False,False,1,8
+"### | شجر
+",000,False,000,False,False,False,1,95
+"### | شح
+",000,False,000,False,False,False,1,24
+"### | شح ن
+",000,False,000,False,False,False,1,33
+"### | شحم
+",000,False,000,False,False,False,1,38
+"### | شحن
+",000,False,000,False,False,False,1,23
+"### | شخص
+",000,False,000,False,False,False,1,38
+"### | شد
+",000,False,000,False,False,False,1,59
+"### | شر
+",000,False,000,False,False,False,1,80
+"### | 260-
+",000,False,000,False,False,False,1,27
+"### | 261-
+",000,False,000,False,False,False,1,45
+"### | شر
+",000,False,000,False,False,False,1,54
+"### | 262-
+",000,False,000,False,False,False,1,53
+"### | شرب
+",000,False,000,False,False,False,1,113
+"### | 263-
+",000,False,000,False,False,False,1,26
+"### | 264-
+",000,False,000,False,False,False,1,46
+"### | 265-
+",000,False,000,False,False,False,1,50
+"### | شرح
+",000,False,000,False,False,False,1,61
+"### | شرد
+",000,False,000,False,False,False,1,45
+"### | شرذم ms326
+",000,False,000,False,False,False,1,26
+"### | شرط
+",000,False,000,False,False,False,1,70
+"### | شرع
+",000,False,000,False,False,False,1,253
+"### | شرق
+",000,False,000,False,False,False,1,118
+"### | شرك
+",000,False,000,False,False,False,1,302
+"### | شرى
+",000,False,000,False,False,False,1,145
+"### | شطط
+",000,False,000,False,False,False,1,19
+"### | 266-
+",000,False,000,False,False,False,1,38
+"### | شطر
+",000,False,000,False,False,False,1,36
+"### | شطا
+",000,False,000,False,False,False,1,62
+"### | 267-
+",000,False,000,False,False,False,1,21
+"### | شطن
+",000,False,000,False,False,False,1,120
+"### | 268-
+",000,False,000,False,False,False,1,22
+"### | 269-
+",000,False,000,False,False,False,1,16
+"### | شطا
+",000,False,000,False,False,False,1,55
+"### | شعب
+",000,False,000,False,False,False,1,86
+"### | شعر
+",000,False,000,False,False,False,1,317
+"### | شعف
+",000,False,000,False,False,False,1,31
+"### | شعل
+",000,False,000,False,False,False,1,51
+"### | شغف
+",000,False,000,False,False,False,1,23
+"### | شغل
+",000,False,000,False,False,False,1,37
+"### | شفع
+",000,False,000,False,False,False,1,252
+"### | شفا
+",000,False,000,False,False,False,1,31
+"### | شفق
+",000,False,000,False,False,False,1,68
+"### | شفا
+",000,False,000,False,False,False,1,81
+"### | شق
+",000,False,000,False,False,False,1,34
+"### | شقا
+",000,False,000,False,False,False,1,197
+"### | شقا
+",000,False,000,False,False,False,1,101
+"### | شكك
+",000,False,000,False,False,False,1,103
+"### | 270-
+",000,False,000,False,False,False,1,62
+"### | شكر
+",000,False,000,False,False,False,1,200
+"### | 271-
+",000,False,000,False,False,False,1,30
+"### | شكس
+",000,False,000,False,False,False,1,16
+"### | شكل
+",000,False,000,False,False,False,1,74
+"### | شكا
+",000,False,000,False,False,False,1,58
+"### | شكا
+",000,False,000,False,False,False,1,99
+"### | شمت
+",000,False,000,False,False,False,1,41
+"### | 272-
+",000,False,000,False,False,False,1,2
+"### | .... 
+",000,False,000,False,False,False,1,4
+"### | .... 
+",000,False,000,False,False,False,1,30
+"### | شمخ
+",000,False,000,False,False,False,1,25
+"### | شمأز
+",000,False,000,False,False,False,1,16
+"### | شمس
+",000,False,000,False,False,False,1,48
+"### | شمل
+",000,False,000,False,False,False,1,142
+"### | 273-
+",000,False,000,False,False,False,1,28
+"### | شنأ
+",000,False,000,False,False,False,1,35
+"### | شهب
+",000,False,000,False,False,False,1,44
+"### | شهد ms338
+",000,False,000,False,False,False,1,206
+"### | 274-
+",000,False,000,False,False,False,1,114
+"### | 275-
+",000,False,000,False,False,False,1,203
+"### | 276-
+",000,False,000,False,False,False,1,193
+"### | شهر
+",000,False,000,False,False,False,1,75
+"### | شهق
+",000,False,000,False,False,False,1,44
+"### | شها
+",000,False,000,False,False,False,1,86
+"### | شوب
+",000,False,000,False,False,False,1,35
+"### | شيب
+",000,False,000,False,False,False,1,24
+"### | شيخ
+",000,False,000,False,False,False,1,40
+"### | شيد
+",000,False,000,False,False,False,1,36
+"### | شور
+",000,False,000,False,False,False,1,38
+"### | 277-
+",000,False,000,False,False,False,1,52
+"### | شيط
+",000,False,000,False,False,False,1,9
+"### | شوظ
+",000,False,000,False,False,False,1,13
+"### | شيع
+",000,False,000,False,False,False,1,58
+"### | شوك
+",000,False,000,False,False,False,1,51
+"### | شأن
+",000,False,000,False,False,False,1,43
+"### | شوى
+",000,False,000,False,False,False,1,14
+"### | 278-
+",000,False,000,False,False,False,1,41
+"### | شيء
+",000,False,000,False,False,False,1,317
+"### | شيه
+",000,False,000,False,False,False,1,16
+"### | كتاب الصاد
+",000,False,000,False,False,False,1,4
+"### | صبب
+",000,False,000,False,False,False,1,74
+"### | صبح
+",000,False,000,False,False,False,1,96
+"### | صبر
+",000,False,000,False,False,False,1,293
+"### | صبغ
+",000,False,000,False,False,False,1,71
+"### | صبا
+",000,False,000,False,False,False,1,108
+"### | صحب
+",000,False,000,False,False,False,1,25
+"### | 279-
+",000,False,000,False,False,False,1,208
+"### | صحف
+",000,False,000,False,False,False,1,62
+"### | صخ
+",000,False,000,False,False,False,1,36
+"### | صخر
+",000,False,000,False,False,False,1,18
+"### | صدد
+",000,False,000,False,False,False,1,50
+"### | صد ع
+",000,False,000,False,False,False,1,57
+"### | صدر
+",000,False,000,False,False,False,1,201
+"### | صدع
+",000,False,000,False,False,False,1,51
+"### | صدي
+",000,False,000,False,False,False,1,19
+"### | صدف
+",000,False,000,False,False,False,1,51
+"### | صدق
+",000,False,000,False,False,False,1,414
+"### | 280-
+",000,False,000,False,False,False,1,324
+"### | صدى
+",000,False,000,False,False,False,1,101
+"### | صر
+",000,False,000,False,False,False,1,118
+"### | صرح
+",000,False,000,False,False,False,1,59
+"### | صرف
+",000,False,000,False,False,False,1,198
+"### | صرم
+",000,False,000,False,False,False,1,78
+"### | صرط
+",000,False,000,False,False,False,1,22
+"### | صطر
+",000,False,000,False,False,False,1,77
+"### | صرع
+",000,False,000,False,False,False,1,37
+"### | صعد
+",000,False,000,False,False,False,1,239
+"### | صعر
+",000,False,000,False,False,False,1,28
+"### | صعق
+",000,False,000,False,False,False,1,26
+"### | 1- 
+",000,False,000,False,False,False,1,20
+"### | 2- 
+",000,False,000,False,False,False,1,11
+"### | 3- 
+",000,False,000,False,False,False,1,46
+"### | صغر
+",000,False,000,False,False,False,1,103
+"### | صغا
+",000,False,000,False,False,False,1,76
+"### | صف
+",000,False,000,False,False,False,1,131
+"### | صف ر
+",000,False,000,False,False,False,1,10
+"### | صفح
+",000,False,000,False,False,False,1,104
+"### | صفد
+",000,False,000,False,False,False,1,36
+"### | صفر
+",000,False,000,False,False,False,1,144
+"### | 281-
+",000,False,000,False,False,False,1,24
+"### | صفن
+",000,False,000,False,False,False,1,37
+"### | صفو
+",000,False,000,False,False,False,1,131
+"### | 282-
+",000,False,000,False,False,False,1,66
+"### | صلل
+",000,False,000,False,False,False,1,62
+"### | صلب
+",000,False,000,False,False,False,1,47
+"### | 283-
+",000,False,000,False,False,False,1,12
+"### | 284-
+",000,False,000,False,False,False,1,98
+"### | صلح
+",000,False,000,False,False,False,1,149
+"### | صلد
+",000,False,000,False,False,False,1,32
+"### | صلا
+",000,False,000,False,False,False,1,434
+"### | صمم
+",000,False,000,False,False,False,1,112
+"### | صمد
+",000,False,000,False,False,False,1,56
+"### | صمع
+",000,False,000,False,False,False,1,44
+"### | صنع
+",000,False,000,False,False,False,1,130
+"### | صنم
+",000,False,000,False,False,False,1,98
+"### | صنو
+",000,False,000,False,False,False,1,27
+"### | صهر
+",000,False,000,False,False,False,1,59
+"### | صوب
+",000,False,000,False,False,False,1,167
+"### | 285-
+",000,False,000,False,False,False,1,143
+"### | صوت
+",000,False,000,False,False,False,1,162
+"### | صاح
+",000,False,000,False,False,False,1,24
+"### | صور، 
+",000,False,000,False,False,False,1,71
+"### | صيد
+",000,False,000,False,False,False,1,93
+"### | 287-
+",000,False,000,False,False,False,1,14
+"### | 288-
+",000,False,000,False,False,False,1,26
+"### | صور
+",000,False,000,False,False,False,1,97
+"### | صير
+",000,False,000,False,False,False,1,150
+"### | صير
+",000,False,000,False,False,False,1,43
+"### | صاع
+",000,False,000,False,False,False,1,44
+"### | 289-
+",000,False,000,False,False,False,1,31
+"### | صوغ
+",000,False,000,False,False,False,1,23
+"### | صوف
+",000,False,000,False,False,False,1,76
+"### | صيف
+",000,False,000,False,False,False,1,35
+"### | صوم
+",000,False,000,False,False,False,1,25
+"### | 290-
+",000,False,000,False,False,False,1,65
+"### | صيص
+",000,False,000,False,False,False,1,51
+"### | كتاب الضاد
+",000,False,000,False,False,False,1,33
+"### | ضبح
+",000,False,000,False,False,False,1,44
+"### | ضحك
+",000,False,000,False,False,False,1,63
+"### | 291-
+",000,False,000,False,False,False,1,123
+"### | 292-
+",000,False,000,False,False,False,1,34
+"### | ضحى
+",000,False,000,False,False,False,1,92
+"### | ضد
+",000,False,000,False,False,False,1,139
+"### | ضر
+",000,False,000,False,False,False,1,317
+"### | ضرب
+",000,False,000,False,False,False,1,147
+"### | ضرع، 
+",000,False,000,False,False,False,1,262
+"### | ضرع
+",000,False,000,False,False,False,1,100
+"### | ضعف
+",000,False,000,False,False,False,1,372
+"### | 293-
+",000,False,000,False,False,False,1,142
+"### | 294-
+",000,False,000,False,False,False,1,26
+"### | ضل
+",000,False,000,False,False,False,1,66
+"### | ضغث
+",000,False,000,False,False,False,1,35
+"### | ضغن
+",000,False,000,False,False,False,1,716
+"### | ضم
+",000,False,000,False,False,False,1,50
+"### | ضمر
+",000,False,000,False,False,False,1,42
+"### | ضن
+",000,False,000,False,False,False,1,44
+"### | ضنك
+",000,False,000,False,False,False,1,27
+"### | ضاهى
+",000,False,000,False,False,False,1,29
+"### | ضير
+",000,False,000,False,False,False,1,30
+"### | ضيز
+",000,False,000,False,False,False,1,20
+"### | ضيع
+",000,False,000,False,False,False,1,61
+"### | ضيف
+",000,False,000,False,False,False,1,103
+"### | ضيق
+",000,False,000,False,False,False,1,92
+"### | ضأن
+",000,False,000,False,False,False,1,23
+"### | ضوأ
+",000,False,000,False,False,False,1,54
+"### | كتاب الطاء
+",000,False,000,False,False,False,1,4
+"### | طبع
+",000,False,000,False,False,False,1,99
+"### | 295-
+",000,False,000,False,False,False,1,85
+"### | 296-
+",000,False,000,False,False,False,1,5
+"### | طبق
+",000,False,000,False,False,False,1,19
+"### | 297-
+",000,False,000,False,False,False,1,176
+"### | طحا
+",000,False,000,False,False,False,1,19
+"### | 298-
+",000,False,000,False,False,False,1,11
+"### | طرح
+",000,False,000,False,False,False,1,26
+"### | طرد
+",000,False,000,False,False,False,1,76
+"### | طرف
+",000,False,000,False,False,False,1,128
+"### | طري
+",000,False,000,False,False,False,1,37
+"### | طرق
+",000,False,000,False,False,False,1,113
+"### | 299-
+",000,False,000,False,False,False,1,15
+"### | 300-
+",000,False,000,False,False,False,1,132
+"### | طرى
+",000,False,000,False,False,False,1,27
+"### | طس
+",000,False,000,False,False,False,1,21
+"### | طعم
+",000,False,000,False,False,False,1,236
+"### | طعن
+",000,False,000,False,False,False,1,22
+"### | طغى
+",000,False,000,False,False,False,1,205
+"### | طف
+",000,False,000,False,False,False,1,24
+"### | طفق
+",000,False,000,False,False,False,1,31
+"### | طفل
+",000,False,000,False,False,False,1,58
+"### | 301-
+",000,False,000,False,False,False,1,42
+"### | طلل
+",000,False,000,False,False,False,1,51
+"### | طفى
+",000,False,000,False,False,False,1,42
+"### | طلب
+",000,False,000,False,False,False,1,49
+"### | طلت
+",000,False,000,False,False,False,1,7
+"### | طلح
+",000,False,000,False,False,False,1,32
+"### | طلع
+",000,False,000,False,False,False,1,124
+"### | طلق
+",000,False,000,False,False,False,1,137
+"### | 302-
+",000,False,000,False,False,False,1,19
+"### | طم
+",000,False,000,False,False,False,1,24
+"### | طمث
+",000,False,000,False,False,False,1,37
+"### | طمس
+",000,False,000,False,False,False,1,104
+"### | طمع
+",000,False,000,False,False,False,1,45
+"### | طمن
+",000,False,000,False,False,False,1,75
+"### | طهر
+",000,False,000,False,False,False,1,383
+"### | طيب
+",000,False,000,False,False,False,1,308
+"### | طود
+",000,False,000,False,False,False,1,31
+"### | طور
+",000,False,000,False,False,False,1,105
+"### | طير
+",000,False,000,False,False,False,1,131
+"### | 303-
+",000,False,000,False,False,False,1,48
+"### | طوع
+",000,False,000,False,False,False,1,468
+"### | طوف
+",000,False,000,False,False,False,1,230
+"### | طوق
+",000,False,000,False,False,False,1,169
+"### | طول
+",000,False,000,False,False,False,1,99
+"### | طين
+",000,False,000,False,False,False,1,40
+"### | طوى
+",000,False,000,False,False,False,1,31
+"### | 304-
+",000,False,000,False,False,False,1,96
+"### | كتاب الظاء
+",000,False,000,False,False,False,1,4
+"### | ظعن
+",000,False,000,False,False,False,1,32
+"### | ظفر
+",000,False,000,False,False,False,1,71
+"### | ظلل
+",000,False,000,False,False,False,1,178
+"### | 305-
+",000,False,000,False,False,False,1,30
+"### | 306-
+",000,False,000,False,False,False,1,165
+"### | ظلم
+",000,False,000,False,False,False,1,505
+"### | 307-
+",000,False,000,False,False,False,1,48
+"### | ظمأ
+",000,False,000,False,False,False,1,35
+"### | ظن
+",000,False,000,False,False,False,1,287
+"### | ظهر
+",000,False,000,False,False,False,1,408
+"### | كتاب العين
+",000,False,000,False,False,False,1,4
+"### | عبد
+",000,False,000,False,False,False,1,288
+"### | عبث
+",000,False,000,False,False,False,1,41
+"### | عبر
+",000,False,000,False,False,False,1,138
+"### | عبس
+",000,False,000,False,False,False,1,28
+"### | عتب
+",000,False,000,False,False,False,1,18
+"### | عبقر
+",000,False,000,False,False,False,1,47
+"### | عبأ
+",000,False,000,False,False,False,1,117
+"### | 308-
+",000,False,000,False,False,False,1,78
+"### | عتد
+",000,False,000,False,False,False,1,59
+"### | عتق
+",000,False,000,False,False,False,1,68
+"### | 309-
+",000,False,000,False,False,False,1,10
+"### | عتل
+",000,False,000,False,False,False,1,28
+"### | عتو
+",000,False,000,False,False,False,1,75
+"### | عثر
+",000,False,000,False,False,False,1,47
+"### | عثى
+",000,False,000,False,False,False,1,45
+"### | عجب
+",000,False,000,False,False,False,1,195
+"### | عجز
+",000,False,000,False,False,False,1,153
+"### | عجف
+",000,False,000,False,False,False,1,33
+"### | عجل
+",000,False,000,False,False,False,1,177
+"### | عد
+",000,False,000,False,False,False,1,19
+"### | عجم
+",000,False,000,False,False,False,1,183
+"### | عد
+",000,False,000,False,False,False,1,334
+"### | عدس
+",000,False,000,False,False,False,1,22
+"### | عدل
+",000,False,000,False,False,False,1,353
+"### | عدن
+",000,False,000,False,False,False,1,25
+"### | عدا
+",000,False,000,False,False,False,1,135
+"### | 312-
+",000,False,000,False,False,False,1,235
+"### | عذب
+",000,False,000,False,False,False,1,70
+"### | عر
+",000,False,000,False,False,False,1,98
+"### | عذر
+",000,False,000,False,False,False,1,181
+"### | عر
+",000,False,000,False,False,False,1,2
+"### | 313-
+",000,False,000,False,False,False,1,111
+"### | عرب
+",000,False,000,False,False,False,1,38
+"### | 314-
+",000,False,000,False,False,False,1,179
+"### | عرج
+",000,False,000,False,False,False,1,80
+"### | 315-
+",000,False,000,False,False,False,1,21
+"### | عرجن
+",000,False,000,False,False,False,1,17
+"### | عرش
+",000,False,000,False,False,False,1,244
+"### | عرض
+",000,False,000,False,False,False,1,437
+"### | عرف
+",000,False,000,False,False,False,1,313
+"### | 316-
+",000,False,000,False,False,False,1,17
+"### | 317-
+",000,False,000,False,False,False,1,9
+"### | عز
+",000,False,000,False,False,False,1,41
+"### | عرم
+",000,False,000,False,False,False,1,54
+"### | عرى
+",000,False,000,False,False,False,1,126
+"### | عز
+",000,False,000,False,False,False,1,215
+"### | عز م
+",000,False,000,False,False,False,1,92
+"### | عزب
+",000,False,000,False,False,False,1,53
+"### | عزر
+",000,False,000,False,False,False,1,86
+"### | عزل
+",000,False,000,False,False,False,1,49
+"### | 318-
+",000,False,000,False,False,False,1,46
+"### | عزم
+",000,False,000,False,False,False,1,63
+"### | عزا
+",000,False,000,False,False,False,1,67
+"### | عسعس
+",000,False,000,False,False,False,1,58
+"### | عسر
+",000,False,000,False,False,False,1,73
+"### | عسل
+",000,False,000,False,False,False,1,37
+"### | عسى
+",000,False,000,False,False,False,1,120
+"### | عشر
+",000,False,000,False,False,False,1,95
+"### | 319-
+",000,False,000,False,False,False,1,71
+"### | عشا
+",000,False,000,False,False,False,1,94
+"### | عصب
+",000,False,000,False,False,False,1,120
+"### | عصر
+",000,False,000,False,False,False,1,15
+"### | عصا
+",000,False,000,False,False,False,1,39
+"### | 320-
+",000,False,000,False,False,False,1,87
+"### | عصف
+",000,False,000,False,False,False,1,35
+"### | عصم
+",000,False,000,False,False,False,1,157
+"### | عصا
+",000,False,000,False,False,False,1,49
+"### | 321-
+",000,False,000,False,False,False,1,46
+"### | عض
+",000,False,000,False,False,False,1,49
+"### | عضه
+",000,False,000,False,False,False,1,49
+"### | عضد
+",000,False,000,False,False,False,1,69
+"### | عضل
+",000,False,000,False,False,False,1,51
+"### | 322-
+",000,False,000,False,False,False,1,111
+"### | عطف
+",000,False,000,False,False,False,1,79
+"### | عطل
+",000,False,000,False,False,False,1,50
+"### | عطا
+",000,False,000,False,False,False,1,55
+"### | عظم
+",000,False,000,False,False,False,1,107
+"### | عف
+",000,False,000,False,False,False,1,37
+"### | عفا
+",000,False,000,False,False,False,1,22
+"### | عفر
+",000,False,000,False,False,False,1,61
+"### | عفا ms423
+",000,False,000,False,False,False,1,32
+"### | 323-
+",000,False,000,False,False,False,1,118
+"### | 324-
+",000,False,000,False,False,False,1,65
+"### | عقب
+",000,False,000,False,False,False,1,226
+"### | 325-
+",000,False,000,False,False,False,1,72
+"### | 326-
+",000,False,000,False,False,False,1,86
+"### | عقد ms425
+",000,False,000,False,False,False,1,131
+"### | عقر
+",000,False,000,False,False,False,1,92
+"### | عقل
+",000,False,000,False,False,False,1,64
+"### | 327-
+",000,False,000,False,False,False,1,13
+"### | 328-
+",000,False,000,False,False,False,1,15
+"### | 329-
+",000,False,000,False,False,False,1,212
+"### | علق
+",000,False,000,False,False,False,1,21
+"### | عقم
+",000,False,000,False,False,False,1,88
+"### | عكف
+",000,False,000,False,False,False,1,161
+"### | 330-
+",000,False,000,False,False,False,1,7
+"### | علم
+",000,False,000,False,False,False,1,548
+"### | ع م
+",000,False,000,False,False,False,1,152
+"### | علن
+",000,False,000,False,False,False,1,31
+"### | علا
+",000,False,000,False,False,False,1,437
+"### | عم
+",000,False,000,False,False,False,1,47
+"### | 331-
+",000,False,000,False,False,False,1,77
+"### | 332-
+",000,False,000,False,False,False,1,39
+"### | عمد
+",000,False,000,False,False,False,1,134
+"### | عمر
+",000,False,000,False,False,False,1,207
+"### | 333-
+",000,False,000,False,False,False,1,80
+"### | عمق
+",000,False,000,False,False,False,1,26
+"### | عمل
+",000,False,000,False,False,False,1,104
+"### | عمه
+",000,False,000,False,False,False,1,37
+"### | عمى
+",000,False,000,False,False,False,1,74
+"### | عن 
+",000,False,000,False,False,False,1,161
+"### | عند
+",000,False,000,False,False,False,1,60
+"### | عن
+",000,False,000,False,False,False,1,31
+"### | 334-
+",000,False,000,False,False,False,1,26
+"### | عنب
+",000,False,000,False,False,False,1,46
+"### | عنت
+",000,False,000,False,False,False,1,73
+"### | عند
+",000,False,000,False,False,False,1,110
+"### | عنا
+",000,False,000,False,False,False,1,98
+"### | عنق
+",000,False,000,False,False,False,1,85
+"### | عنا
+",000,False,000,False,False,False,1,89
+"### | عهد
+",000,False,000,False,False,False,1,176
+"### | عهن
+",000,False,000,False,False,False,1,44
+"### | عاب
+",000,False,000,False,False,False,1,48
+"### | عوج
+",000,False,000,False,False,False,1,83
+"### | عود
+",000,False,000,False,False,False,1,431
+"### | عوذ
+",000,False,000,False,False,False,1,92
+"### | عور
+",000,False,000,False,False,False,1,34
+"### | عير: 
+",000,False,000,False,False,False,1,15
+"### | 335-
+",000,False,000,False,False,False,1,129
+"### | عير
+",000,False,000,False,False,False,1,111
+"### | عيس
+",000,False,000,False,False,False,1,33
+"### | عيش
+",000,False,000,False,False,False,1,60
+"### | عوق
+",000,False,000,False,False,False,1,41
+"### | عول
+",000,False,000,False,False,False,1,78
+"### | عيل
+",000,False,000,False,False,False,1,60
+"### | عوم
+",000,False,000,False,False,False,1,78
+"### | عون
+",000,False,000,False,False,False,1,58
+"### | 336-
+",000,False,000,False,False,False,1,42
+"### | عين
+",000,False,000,False,False,False,1,364
+"### | عيى
+",000,False,000,False,False,False,1,50
+"### | كتاب الغين
+",000,False,000,False,False,False,1,4
+"### | غبر
+",000,False,000,False,False,False,1,144
+"### | 337-
+",000,False,000,False,False,False,1,78
+"### | غبن
+",000,False,000,False,False,False,1,112
+"### | 338-
+",000,False,000,False,False,False,1,30
+"### | غثا
+",000,False,000,False,False,False,1,35
+"### | غدر
+",000,False,000,False,False,False,1,93
+"### | غدق
+",000,False,000,False,False,False,1,24
+"### | غدا
+",000,False,000,False,False,False,1,60
+"### | غرر
+",000,False,000,False,False,False,1,205
+"### | غرب
+",000,False,000,False,False,False,1,196
+"### | غرض
+",000,False,000,False,False,False,1,42
+"### | غرف
+",000,False,000,False,False,False,1,67
+"### | غرق
+",000,False,000,False,False,False,1,58
+"### | غرم
+",000,False,000,False,False,False,1,82
+"### | غرا
+",000,False,000,False,False,False,1,31
+"### | غزل
+",000,False,000,False,False,False,1,37
+"### | غزا
+",000,False,000,False,False,False,1,23
+"### | غسق
+",000,False,000,False,False,False,1,46
+"### | غسل
+",000,False,000,False,False,False,1,56
+"### | غشي
+",000,False,000,False,False,False,1,189
+"### | غص
+",000,False,000,False,False,False,1,14
+"### | غض
+",000,False,000,False,False,False,1,34
+"### | 339-
+",000,False,000,False,False,False,1,29
+"### | غضب
+",000,False,000,False,False,False,1,90
+"### | غطش
+",000,False,000,False,False,False,1,28
+"### | غطا
+",000,False,000,False,False,False,1,30
+"### | غفر
+",000,False,000,False,False,False,1,188
+"### | غفل
+",000,False,000,False,False,False,1,110
+"### | غل
+",000,False,000,False,False,False,1,327
+"### | 340-
+",000,False,000,False,False,False,1,11
+"### | غلب
+",000,False,000,False,False,False,1,111
+"### | غلظ
+",000,False,000,False,False,False,1,55
+"### | غلف
+",000,False,000,False,False,False,1,88
+"### | غلق
+",000,False,000,False,False,False,1,80
+"### | غلم
+",000,False,000,False,False,False,1,61
+"### | غلا
+",000,False,000,False,False,False,1,73
+"### | غم
+",000,False,000,False,False,False,1,34
+"### | 341-
+",000,False,000,False,False,False,1,36
+"### | غمر
+",000,False,000,False,False,False,1,20
+"### | 342-
+",000,False,000,False,False,False,1,127
+"### | غمز
+",000,False,000,False,False,False,1,49
+"### | غمض
+",000,False,000,False,False,False,1,36
+"### | غنم
+",000,False,000,False,False,False,1,56
+"### | غنى
+",000,False,000,False,False,False,1,128
+"### | 343-
+",000,False,000,False,False,False,1,112
+"### | غيب
+",000,False,000,False,False,False,1,270
+"### | غوث
+",000,False,000,False,False,False,1,68
+"### | 344-
+",000,False,000,False,False,False,1,9
+"### | غور
+",000,False,000,False,False,False,1,61
+"### | 345-
+",000,False,000,False,False,False,1,30
+"### | غير
+",000,False,000,False,False,False,1,213
+"### | غوص
+",000,False,000,False,False,False,1,56
+"### | غيض
+",000,False,000,False,False,False,1,46
+"### | غيظ
+",000,False,000,False,False,False,1,77
+"### | غول
+",000,False,000,False,False,False,1,44
+"### | غوى
+",000,False,000,False,False,False,1,108
+"### | 346-
+",000,False,000,False,False,False,1,119
+"### | كتاب الفاء
+",000,False,000,False,False,False,1,4
+"### | فتح
+",000,False,000,False,False,False,1,184
+"### | 347-
+",000,False,000,False,False,False,1,205
+"### | فتر
+",000,False,000,False,False,False,1,103
+"### | فتق
+",000,False,000,False,False,False,1,30
+"### | فتي
+",000,False,000,False,False,False,1,22
+"### | فتل
+",000,False,000,False,False,False,1,43
+"### | فتن
+",000,False,000,False,False,False,1,417
+"### | فتى
+",000,False,000,False,False,False,1,96
+"### | فتىء
+",000,False,000,False,False,False,1,17
+"### | فجج
+",000,False,000,False,False,False,1,19
+"### | فجا
+",000,False,000,False,False,False,1,29
+"### | فجر
+",000,False,000,False,False,False,1,170
+"### | فجا
+",000,False,000,False,False,False,1,36
+"### | فحش
+",000,False,000,False,False,False,1,69
+"### | 348-
+",000,False,000,False,False,False,1,26
+"### | فخر
+",000,False,000,False,False,False,1,71
+"### | فدى
+",000,False,000,False,False,False,1,127
+"### | فر
+",000,False,000,False,False,False,1,32
+"### | : فرت 
+",000,False,000,False,False,False,1,41
+"### | فرت
+",000,False,000,False,False,False,1,23
+"### | فرث
+",000,False,000,False,False,False,1,33
+"### | فرج
+",000,False,000,False,False,False,1,104
+"### | فرح
+",000,False,000,False,False,False,1,79
+"### | 349-
+",000,False,000,False,False,False,1,61
+"### | فرد
+",000,False,000,False,False,False,1,86
+"### | فرش
+",000,False,000,False,False,False,1,93
+"### | فرض
+",000,False,000,False,False,False,1,277
+"### | فرط
+",000,False,000,False,False,False,1,88
+"### | فرع
+",000,False,000,False,False,False,1,88
+"### | فرغ
+",000,False,000,False,False,False,1,36
+"### | 350-
+",000,False,000,False,False,False,1,77
+"### | فرق
+",000,False,000,False,False,False,1,458
+"### | فره
+",000,False,000,False,False,False,1,32
+"### | فرى
+",000,False,000,False,False,False,1,100
+"### | فز
+",000,False,000,False,False,False,1,41
+"### | فزع
+",000,False,000,False,False,False,1,76
+"### | 351-
+",000,False,000,False,False,False,1,29
+"### | فسح
+",000,False,000,False,False,False,1,49
+"### | فسد
+",000,False,000,False,False,False,1,89
+"### | فسر
+",000,False,000,False,False,False,1,44
+"### | فسق
+",000,False,000,False,False,False,1,202
+"### | فشل
+",000,False,000,False,False,False,1,23
+"### | فصح
+",000,False,000,False,False,False,1,31
+"### | 352-
+",000,False,000,False,False,False,1,50
+"### | فصل
+",000,False,000,False,False,False,1,180
+"### | فض
+",000,False,000,False,False,False,1,53
+"### | فضل
+",000,False,000,False,False,False,1,207
+"### | فضا
+",000,False,000,False,False,False,1,37
+"### | 353-
+",000,False,000,False,False,False,1,26
+"### | فطر
+",000,False,000,False,False,False,1,68
+"### | فعل
+",000,False,000,False,False,False,1,103
+"### | فظ
+",000,False,000,False,False,False,1,197
+"### | فقد
+",000,False,000,False,False,False,1,57
+"### | فقر
+",000,False,000,False,False,False,1,139
+"### | 354-
+",000,False,000,False,False,False,1,72
+"### | 355-
+",000,False,000,False,False,False,1,28
+"### | فقع
+",000,False,000,False,False,False,1,40
+"### | فقه
+",000,False,000,False,False,False,1,60
+"### | فكك
+",000,False,000,False,False,False,1,98
+"### | فكر
+",000,False,000,False,False,False,1,102
+"### | فكه
+",000,False,000,False,False,False,1,65
+"### | فلح
+",000,False,000,False,False,False,1,40
+"### | 356-
+",000,False,000,False,False,False,1,125
+"### | فلق
+",000,False,000,False,False,False,1,90
+"### | فلك
+",000,False,000,False,False,False,1,75
+"### | فلن
+",000,False,000,False,False,False,1,55
+"### | فنن
+",000,False,000,False,False,False,1,25
+"### | فند
+",000,False,000,False,False,False,1,41
+"### | فهم
+",000,False,000,False,False,False,1,65
+"### | فوت
+",000,False,000,False,False,False,1,112
+"### | فوج
+",000,False,000,False,False,False,1,24
+"### | فأد
+",000,False,000,False,False,False,1,81
+"### | فور
+",000,False,000,False,False,False,1,26
+"### | 357-
+",000,False,000,False,False,False,1,56
+"### | فوز
+",000,False,000,False,False,False,1,188
+"### | فوض
+",000,False,000,False,False,False,1,23
+"### | 358-
+",000,False,000,False,False,False,1,12
+"### | فيض
+",000,False,000,False,False,False,1,114
+"### | فوق
+",000,False,000,False,False,False,1,179
+"### | ف/ 127] ، وم
+",000,False,000,False,False,False,1,112
+"### | 359-
+",000,False,000,False,False,False,1,7
+"### | فيل
+",000,False,000,False,False,False,1,48
+"### | فوم
+",000,False,000,False,False,False,1,17
+"### | فوه
+",000,False,000,False,False,False,1,75
+"### | فيأ
+",000,False,000,False,False,False,1,75
+"### | 360-
+",000,False,000,False,False,False,1,10
+"### | 361-
+",000,False,000,False,False,False,1,67
+"### | كتاب القاف
+",000,False,000,False,False,False,1,4
+"### | قبح
+",000,False,000,False,False,False,1,77
+"### | قبر
+",000,False,000,False,False,False,1,131
+"### | قبس
+",000,False,000,False,False,False,1,39
+"### | قبص
+",000,False,000,False,False,False,1,36
+"### | قبض
+",000,False,000,False,False,False,1,38
+"### | قبل
+",000,False,000,False,False,False,1,140
+"### | قبل
+",000,False,000,False,False,False,1,517
+"### | قتر
+",000,False,000,False,False,False,1,128
+"### | قتل
+",000,False,000,False,False,False,1,83
+"### | 362-
+",000,False,000,False,False,False,1,226
+"### | قحم
+",000,False,000,False,False,False,1,42
+"### | 363-
+",000,False,000,False,False,False,1,12
+"### | قدد
+",000,False,000,False,False,False,1,96
+"### | ، قد س
+",000,False,000,False,False,False,1,137
+"### | قدر
+",000,False,000,False,False,False,1,761
+"### | 364-
+",000,False,000,False,False,False,1,5
+"### | قدس
+",000,False,000,False,False,False,1,91
+"### | قدم
+",000,False,000,False,False,False,1,84
+"### | قر
+",000,False,000,False,False,False,1,179
+"### | قذف
+",000,False,000,False,False,False,1,62
+"### | قر
+",000,False,000,False,False,False,1,84
+"### | 365-
+",000,False,000,False,False,False,1,17
+"### | قر: ب
+",000,False,000,False,False,False,1,279
+"### | قرب
+",000,False,000,False,False,False,1,427
+"### | 366-
+",000,False,000,False,False,False,1,58
+"### | قرح
+",000,False,000,False,False,False,1,110
+"### | قر ف
+",000,False,000,False,False,False,1,16
+"### | قرد
+",000,False,000,False,False,False,1,84
+"### | قرطس
+",000,False,000,False,False,False,1,29
+"### | قرض
+",000,False,000,False,False,False,1,56
+"### | قرع
+",000,False,000,False,False,False,1,28
+"### | قرف
+",000,False,000,False,False,False,1,82
+"### | قرن
+",000,False,000,False,False,False,1,167
+"### | قرا
+",000,False,000,False,False,False,1,88
+"### | قرأ
+",000,False,000,False,False,False,1,294
+"### | قرى
+",000,False,000,False,False,False,1,179
+"### | قسس
+",000,False,000,False,False,False,1,32
+"### | قسر
+",000,False,000,False,False,False,1,13
+"### | قسو
+",000,False,000,False,False,False,1,19
+"### | قسط
+",000,False,000,False,False,False,1,82
+"### | قسم
+",000,False,000,False,False,False,1,184
+"### | قسو
+",000,False,000,False,False,False,1,62
+"### | 367-
+",000,False,000,False,False,False,1,6
+"### | قشعر
+",000,False,000,False,False,False,1,18
+"### | قصص
+",000,False,000,False,False,False,1,84
+"### | قص ف
+",000,False,000,False,False,False,1,28
+"### | قصد
+",000,False,000,False,False,False,1,115
+"### | 368-
+",000,False,000,False,False,False,1,37
+"### | قصر
+",000,False,000,False,False,False,1,166
+"### | قصف
+",000,False,000,False,False,False,1,39
+"### | قصم
+",000,False,000,False,False,False,1,38
+"### | قصى
+",000,False,000,False,False,False,1,52
+"### | قط
+",000,False,000,False,False,False,1,17
+"### | قض
+",000,False,000,False,False,False,1,30
+"### | قضب
+",000,False,000,False,False,False,1,83
+"### | قضى
+",000,False,000,False,False,False,1,183
+"### | 369-
+",000,False,000,False,False,False,1,228
+"### | قط
+",000,False,000,False,False,False,1,113
+"### | قطر
+",000,False,000,False,False,False,1,178
+"### | قطع
+",000,False,000,False,False,False,1,253
+"### | قطف
+",000,False,000,False,False,False,1,45
+"### | قطمر
+",000,False,000,False,False,False,1,31
+"### | قطن
+",000,False,000,False,False,False,1,18
+"### | قعد
+",000,False,000,False,False,False,1,199
+"### | قعر
+",000,False,000,False,False,False,1,76
+"### | قفل
+",000,False,000,False,False,False,1,7
+"### | قفا ms508
+",000,False,000,False,False,False,1,79
+"### | قفا
+",000,False,000,False,False,False,1,49
+"### | قل
+",000,False,000,False,False,False,1,140
+"### | 370-
+",000,False,000,False,False,False,1,221
+"### | قلب
+",000,False,000,False,False,False,1,234
+"### | 371-
+",000,False,000,False,False,False,1,58
+"### | قلد
+",000,False,000,False,False,False,1,88
+"### | قلم
+",000,False,000,False,False,False,1,106
+"### | قلى
+",000,False,000,False,False,False,1,55
+"### | قمح
+",000,False,000,False,False,False,1,74
+"### | قمر
+",000,False,000,False,False,False,1,65
+"### | قمص
+",000,False,000,False,False,False,1,43
+"### | قمطر
+",000,False,000,False,False,False,1,17
+"### | قمع
+",000,False,000,False,False,False,1,53
+"### | قمل
+",000,False,000,False,False,False,1,34
+"### | قنت
+",000,False,000,False,False,False,1,105
+"### | قنط
+",000,False,000,False,False,False,1,49
+"### | قنع
+",000,False,000,False,False,False,1,46
+"### | 372-
+",000,False,000,False,False,False,1,64
+"### | 373-
+",000,False,000,False,False,False,1,27
+"### | قنى
+",000,False,000,False,False,False,1,36
+"### | 374-
+",000,False,000,False,False,False,1,5
+"### | قنو
+",000,False,000,False,False,False,1,54
+"### | 375-
+",000,False,000,False,False,False,1,24
+"### | قهر
+",000,False,000,False,False,False,1,40
+"### | قاب
+",000,False,000,False,False,False,1,15
+"### | قوس
+",000,False,000,False,False,False,1,10
+"### | قوت
+",000,False,000,False,False,False,1,80
+"### | 376-
+",000,False,000,False,False,False,1,65
+"### | قيض
+",000,False,000,False,False,False,1,38
+"### | قيع
+",000,False,000,False,False,False,1,2
+"### | قول
+",000,False,000,False,False,False,1,129
+"### | 377-
+",000,False,000,False,False,False,1,61
+"### | قيل
+",000,False,000,False,False,False,1,365
+"### | 378-
+",000,False,000,False,False,False,1,28
+"### | قيل
+",000,False,000,False,False,False,1,35
+"### | قوم
+",000,False,000,False,False,False,1,578
+"### | 380-
+",000,False,000,False,False,False,1,299
+"### | 381-
+",000,False,000,False,False,False,1,31
+"### | قوى
+",000,False,000,False,False,False,1,313
+"### | كتاب الكاف
+",000,False,000,False,False,False,1,4
+"### | كب
+",000,False,000,False,False,False,1,99
+"### | كبت
+",000,False,000,False,False,False,1,27
+"### | كبد
+",000,False,000,False,False,False,1,70
+"### | كبر
+",000,False,000,False,False,False,1,839
+"### | كتب
+",000,False,000,False,False,False,1,1062
+"### | كتم
+",000,False,000,False,False,False,1,129
+"### | كثب
+",000,False,000,False,False,False,1,49
+"### | كثر
+",000,False,000,False,False,False,1,80
+"### | 382-
+",000,False,000,False,False,False,1,84
+"### | 383-
+",000,False,000,False,False,False,1,9
+"### | كدح
+",000,False,000,False,False,False,1,24
+"### | كدر
+",000,False,000,False,False,False,1,43
+"### | كدى
+",000,False,000,False,False,False,1,24
+"### | كذب
+",000,False,000,False,False,False,1,361
+"### | كر
+",000,False,000,False,False,False,1,71
+"### | كرب
+",000,False,000,False,False,False,1,85
+"### | كرس
+",000,False,000,False,False,False,1,47
+"### | 384-
+",000,False,000,False,False,False,1,67
+"### | كرم
+",000,False,000,False,False,False,1,188
+"### | كره
+",000,False,000,False,False,False,1,507
+"### | كسب
+",000,False,000,False,False,False,1,314
+"### | كسف
+",000,False,000,False,False,False,1,76
+"### | كسل
+",000,False,000,False,False,False,1,49
+"### | كسا
+",000,False,000,False,False,False,1,34
+"### | 385-
+",000,False,000,False,False,False,1,22
+"### | 386-
+",000,False,000,False,False,False,1,37
+"### | كشف
+",000,False,000,False,False,False,1,86
+"### | كشط
+",000,False,000,False,False,False,1,24
+"### | كظم
+",000,False,000,False,False,False,1,79
+"### | كعب
+",000,False,000,False,False,False,1,96
+"### | كف
+",000,False,000,False,False,False,1,169
+"### | كفت
+",000,False,000,False,False,False,1,84
+"### | كفر
+",000,False,000,False,False,False,1,40
+"### | 387-
+",000,False,000,False,False,False,1,22
+"### | 388-
+",000,False,000,False,False,False,1,796
+"### | 389-
+",000,False,000,False,False,False,1,23
+"### | 390-
+",000,False,000,False,False,False,1,18
+"### | كفل
+",000,False,000,False,False,False,1,161
+"### | 391-
+",000,False,000,False,False,False,1,57
+"### | كفي
+",000,False,000,False,False,False,1,19
+"### | كفؤ
+",000,False,000,False,False,False,1,85
+"### | كفى
+",000,False,000,False,False,False,1,60
+"### | كل
+",000,False,000,False,False,False,1,39
+"### | 392-
+",000,False,000,False,False,False,1,114
+"### | كل ب
+",000,False,000,False,False,False,1,115
+"### | 393-
+",000,False,000,False,False,False,1,66
+"### | 394-
+",000,False,000,False,False,False,1,34
+"### | كل ف
+",000,False,000,False,False,False,1,12
+"### | كلب
+",000,False,000,False,False,False,1,65
+"### | 395-
+",000,False,000,False,False,False,1,92
+"### | 396-
+",000,False,000,False,False,False,1,56
+"### | كلف
+",000,False,000,False,False,False,1,139
+"### | كلم
+",000,False,000,False,False,False,1,13
+"### | كلا
+",000,False,000,False,False,False,1,22
+"### | 397-
+",000,False,000,False,False,False,1,25
+"### | 398-
+",000,False,000,False,False,False,1,656
+"### | 
+",000,False,000,False,False,False,1,0
+"### | كلا
+",000,False,000,False,False,False,1,40
+"### | كلأ
+",000,False,000,False,False,False,1,125
+"### | كم
+",000,False,000,False,False,False,1,78
+"### | كمل
+",000,False,000,False,False,False,1,110
+"### | كمه
+",000,False,000,False,False,False,1,25
+"### | 399-
+",000,False,000,False,False,False,1,5
+"### | كن
+",000,False,000,False,False,False,1,149
+"### | كند
+",000,False,000,False,False,False,1,24
+"### | كنز
+",000,False,000,False,False,False,1,53
+"### | كهف
+",000,False,000,False,False,False,1,27
+"### | كهل
+",000,False,000,False,False,False,1,35
+"### | 400-
+",000,False,000,False,False,False,1,5
+"### | كهن
+",000,False,000,False,False,False,1,69
+"### | كوب
+",000,False,000,False,False,False,1,20
+"### | كيد
+",000,False,000,False,False,False,1,199
+"### | 401-
+",000,False,000,False,False,False,1,14
+"### | كور
+",000,False,000,False,False,False,1,67
+"### | كأس
+",000,False,000,False,False,False,1,90
+"### | كان
+",000,False,000,False,False,False,1,17
+"### | كيف
+",000,False,000,False,False,False,1,91
+"### | كيل
+",000,False,000,False,False,False,1,412
+"### | كوى
+",000,False,000,False,False,False,1,30
+"### | كاف
+",000,False,000,False,False,False,1,66
+"### | كتاب اللام
+",000,False,000,False,False,False,1,4
+"### | لب
+",000,False,000,False,False,False,1,171
+"### | لبث
+",000,False,000,False,False,False,1,55
+"### | لبد
+",000,False,000,False,False,False,1,128
+"### | لبس
+",000,False,000,False,False,False,1,72
+"### | 402-
+",000,False,000,False,False,False,1,45
+"### | لج
+",000,False,000,False,False,False,1,29
+"### | 403-
+",000,False,000,False,False,False,1,78
+"### | 404-
+",000,False,000,False,False,False,1,6
+"### | لبن
+",000,False,000,False,False,False,1,108
+"### | لج
+",000,False,000,False,False,False,1,96
+"### | 405-
+",000,False,000,False,False,False,1,21
+"### | لحق
+",000,False,000,False,False,False,1,28
+"### | لحد
+",000,False,000,False,False,False,1,135
+"### | لحف
+",000,False,000,False,False,False,1,76
+"### | لحم
+",000,False,000,False,False,False,1,156
+"### | لحن
+",000,False,000,False,False,False,1,37
+"### | 406-
+",000,False,000,False,False,False,1,32
+"### | لسن
+",000,False,000,False,False,False,1,13
+"### | لدد
+",000,False,000,False,False,False,1,48
+"### | لدن
+",000,False,000,False,False,False,1,84
+"### | لدى
+",000,False,000,False,False,False,1,21
+"### | لزب
+",000,False,000,False,False,False,1,24
+"### | لزم
+",000,False,000,False,False,False,1,63
+"### | لسن
+",000,False,000,False,False,False,1,71
+"### | لطف
+",000,False,000,False,False,False,1,59
+"### | لعب
+",000,False,000,False,False,False,1,49
+"### | لظى
+",000,False,000,False,False,False,1,28
+"### | لعب
+",000,False,000,False,False,False,1,33
+"### | لعن
+",000,False,000,False,False,False,1,151
+"### | لعل
+",000,False,000,False,False,False,1,121
+"### | لغب
+",000,False,000,False,False,False,1,50
+"### | لغا
+",000,False,000,False,False,False,1,34
+"### | 407-
+",000,False,000,False,False,False,1,98
+"### | 408-
+",000,False,000,False,False,False,1,46
+"### | 409-
+",000,False,000,False,False,False,1,30
+"### | لفف
+",000,False,000,False,False,False,1,17
+"### | لفي
+",000,False,000,False,False,False,1,68
+"### | لفت
+",000,False,000,False,False,False,1,45
+"### | لفح
+",000,False,000,False,False,False,1,20
+"### | لفظ
+",000,False,000,False,False,False,1,32
+"### | لفى
+",000,False,000,False,False,False,1,19
+"### | لقب
+",000,False,000,False,False,False,1,23
+"### | 410-
+",000,False,000,False,False,False,1,37
+"### | لقح
+",000,False,000,False,False,False,1,86
+"### | لقف
+",000,False,000,False,False,False,1,23
+"### | لقم
+",000,False,000,False,False,False,1,29
+"### | لم
+",000,False,000,False,False,False,1,11
+"### | لقى
+",000,False,000,False,False,False,1,118
+"### | 411-
+",000,False,000,False,False,False,1,11
+"### | 412-
+",000,False,000,False,False,False,1,97
+"### | لم
+",000,False,000,False,False,False,1,42
+"### | لمز
+",000,False,000,False,False,False,1,151
+"### | لمح
+",000,False,000,False,False,False,1,29
+"### | لمز
+",000,False,000,False,False,False,1,45
+"### | لمس
+",000,False,000,False,False,False,1,23
+"### | 413-
+",000,False,000,False,False,False,1,51
+"### | لهب
+",000,False,000,False,False,False,1,91
+"### | لهث
+",000,False,000,False,False,False,1,32
+"### | لهم
+",000,False,000,False,False,False,1,61
+"### | لهى
+",000,False,000,False,False,False,1,83
+"### | لا ت
+",000,False,000,False,False,False,1,87
+"### | لات
+",000,False,000,False,False,False,1,88
+"### | ليت
+",000,False,000,False,False,False,1,59
+"### | 414-
+",000,False,000,False,False,False,1,30
+"### | 415-
+",000,False,000,False,False,False,1,27
+"### | لوح
+",000,False,000,False,False,False,1,106
+"### | لوذ
+",000,False,000,False,False,False,1,51
+"### | لوط
+",000,False,000,False,False,False,1,64
+"### | لوم
+",000,False,000,False,False,False,1,133
+"### | ليل
+",000,False,000,False,False,False,1,60
+"### | لون
+",000,False,000,False,False,False,1,44
+"### | لو
+",000,False,000,False,False,False,1,37
+"### | لين
+",000,False,000,False,False,False,1,81
+"### | لؤلؤ
+",000,False,000,False,False,False,1,38
+"### | لوى
+",000,False,000,False,False,False,1,21
+"### | 416-
+",000,False,000,False,False,False,1,58
+"### | 417-
+",000,False,000,False,False,False,1,26
+"### | لو
+",000,False,000,False,False,False,1,21
+"### | لا
+",000,False,000,False,False,False,1,5
+"### | لام
+",000,False,000,False,False,False,1,206
+"### | 418-
+",000,False,000,False,False,False,1,52
+"### | لام
+",000,False,000,False,False,False,1,701
+"### | كتاب الميم
+",000,False,000,False,False,False,1,4
+"### | متع
+",000,False,000,False,False,False,1,276
+"### | 419-
+",000,False,000,False,False,False,1,12
+"### | متن
+",000,False,000,False,False,False,1,30
+"### | متى
+",000,False,000,False,False,False,1,36
+"### | 420-
+",000,False,000,False,False,False,1,11
+"### | مثل
+",000,False,000,False,False,False,1,575
+"### | مجد
+",000,False,000,False,False,False,1,144
+"### | محص
+",000,False,000,False,False,False,1,96
+"### | محق
+",000,False,000,False,False,False,1,34
+"### | محل
+",000,False,000,False,False,False,1,77
+"### | محن
+",000,False,000,False,False,False,1,51
+"### | محو
+",000,False,000,False,False,False,1,21
+"### | مخر
+",000,False,000,False,False,False,1,53
+"### | مد
+",000,False,000,False,False,False,1,144
+"### | مدن
+",000,False,000,False,False,False,1,37
+"### | مرر
+",000,False,000,False,False,False,1,132
+"### | م رض
+",000,False,000,False,False,False,1,14
+"### | مرج
+",000,False,000,False,False,False,1,56
+"### | مرح
+",000,False,000,False,False,False,1,42
+"### | مرد
+",000,False,000,False,False,False,1,109
+"### | 421-
+",000,False,000,False,False,False,1,34
+"### | مرض
+",000,False,000,False,False,False,1,168
+"### | مرأ
+",000,False,000,False,False,False,1,18
+"### | مريم
+",000,False,000,False,False,False,1,32
+"### | مرى
+",000,False,000,False,False,False,1,83
+"### | مسح
+",000,False,000,False,False,False,1,19
+"### | مزن
+",000,False,000,False,False,False,1,40
+"### | مزج
+",000,False,000,False,False,False,1,25
+"### | مسس
+",000,False,000,False,False,False,1,15
+"### | 422-
+",000,False,000,False,False,False,1,127
+"### | مسح
+",000,False,000,False,False,False,1,210
+"### | مسخ
+",000,False,000,False,False,False,1,90
+"### | 423-
+",000,False,000,False,False,False,1,34
+"### | مسد
+",000,False,000,False,False,False,1,35
+"### | مسك
+",000,False,000,False,False,False,1,88
+"### | مشج
+",000,False,000,False,False,False,1,40
+"### | مشى
+",000,False,000,False,False,False,1,65
+"### | مصر
+",000,False,000,False,False,False,1,25
+"### | 424-
+",000,False,000,False,False,False,1,100
+"### | مضغ ms581
+",000,False,000,False,False,False,1,23
+"### | 425-
+",000,False,000,False,False,False,1,51
+"### | مضى
+",000,False,000,False,False,False,1,20
+"### | مطر
+",000,False,000,False,False,False,1,9
+"### | مطي
+",000,False,000,False,False,False,1,76
+"### | 426-
+",000,False,000,False,False,False,1,5
+"### | مطى
+",000,False,000,False,False,False,1,32
+"### | مع
+",000,False,000,False,False,False,1,40
+"### | معن
+",000,False,000,False,False,False,1,108
+"### | معز
+",000,False,000,False,False,False,1,68
+"### | مقت
+",000,False,000,False,False,False,1,43
+"### | مكك
+",000,False,000,False,False,False,1,62
+"### | مكث
+",000,False,000,False,False,False,1,25
+"### | مكر
+",000,False,000,False,False,False,1,93
+"### | مكن
+",000,False,000,False,False,False,1,33
+"### | مكا
+",000,False,000,False,False,False,1,144
+"### | ملل
+",000,False,000,False,False,False,1,146
+"### | ملا، 
+",000,False,000,False,False,False,1,60
+"### | ملح
+",000,False,000,False,False,False,1,67
+"### | ملك
+",000,False,000,False,False,False,1,380
+"### | ملا
+",000,False,000,False,False,False,1,77
+"### | ملأ
+",000,False,000,False,False,False,1,77
+"### | 427-
+",000,False,000,False,False,False,1,101
+"### | 428-
+",000,False,000,False,False,False,1,73
+"### | منن
+",000,False,000,False,False,False,1,68
+"### | من ع
+",000,False,000,False,False,False,1,464
+"### | منع
+",000,False,000,False,False,False,1,91
+"### | منى
+",000,False,000,False,False,False,1,101
+"### | موت
+",000,False,000,False,False,False,1,179
+"### | مهد
+",000,False,000,False,False,False,1,58
+"### | مهل
+",000,False,000,False,False,False,1,38
+"### | موت
+",000,False,000,False,False,False,1,20
+"### | موج
+",000,False,000,False,False,False,1,171
+"### | 429-
+",000,False,000,False,False,False,1,45
+"### | 430-
+",000,False,000,False,False,False,1,102
+"### | 431-
+",000,False,000,False,False,False,1,19
+"### | موج
+",000,False,000,False,False,False,1,38
+"### | ميد
+",000,False,000,False,False,False,1,25
+"### | 432-
+",000,False,000,False,False,False,1,55
+"### | مور
+",000,False,000,False,False,False,1,39
+"### | مير
+",000,False,000,False,False,False,1,20
+"### | ميز ms592
+",000,False,000,False,False,False,1,59
+"### | ميل
+",000,False,000,False,False,False,1,56
+"### | ما
+",000,False,000,False,False,False,1,31
+"### | مائة
+",000,False,000,False,False,False,1,53
+"### | ماء
+",000,False,000,False,False,False,1,530
+"### | كتاب النون
+",000,False,000,False,False,False,1,4
+"### | نبت
+",000,False,000,False,False,False,1,192
+"### | نبذ
+",000,False,000,False,False,False,1,81
+"### | نبي
+",000,False,000,False,False,False,1,90
+"### | نبز
+",000,False,000,False,False,False,1,11
+"### | نبط
+",000,False,000,False,False,False,1,32
+"### | نبع
+",000,False,000,False,False,False,1,42
+"### | نبأ ms596
+",000,False,000,False,False,False,1,388
+"### | نبى
+",000,False,000,False,False,False,1,101
+"### | نتق
+",000,False,000,False,False,False,1,33
+"### | نثر
+",000,False,000,False,False,False,1,59
+"### | نجد
+",000,False,000,False,False,False,1,108
+"### | نجس
+",000,False,000,False,False,False,1,56
+"### | نجم
+",000,False,000,False,False,False,1,11
+"### | نجو
+",000,False,000,False,False,False,1,168
+"### | نجو
+",000,False,000,False,False,False,1,104
+"### | 433-
+",000,False,000,False,False,False,1,178
+"### | 434-
+",000,False,000,False,False,False,1,84
+"### | نحب
+",000,False,000,False,False,False,1,52
+"### | نحت
+",000,False,000,False,False,False,1,41
+"### | نحر
+",000,False,000,False,False,False,1,87
+"### | نحس
+",000,False,000,False,False,False,1,62
+"### | نحل
+",000,False,000,False,False,False,1,141
+"### | نحن
+",000,False,000,False,False,False,1,113
+"### | نخر
+",000,False,000,False,False,False,1,54
+"### | نخل
+",000,False,000,False,False,False,1,45
+"### | ندد
+",000,False,000,False,False,False,1,69
+"### | ندم
+",000,False,000,False,False,False,1,52
+"### | ندا
+",000,False,000,False,False,False,1,208
+"### | 435-
+",000,False,000,False,False,False,1,71
+"### | نذر
+",000,False,000,False,False,False,1,158
+"### | نزع
+",000,False,000,False,False,False,1,176
+"### | نزغ
+",000,False,000,False,False,False,1,18
+"### | نزف
+",000,False,000,False,False,False,1,84
+"### | نزل
+",000,False,000,False,False,False,1,495
+"### | 436-
+",000,False,000,False,False,False,1,35
+"### | نسب
+",000,False,000,False,False,False,1,61
+"### | نسخ
+",000,False,000,False,False,False,1,159
+"### | نسر
+",000,False,000,False,False,False,1,36
+"### | نسف
+",000,False,000,False,False,False,1,78
+"### | نسي
+",000,False,000,False,False,False,1,9
+"### | نسك
+",000,False,000,False,False,False,1,32
+"### | نسل
+",000,False,000,False,False,False,1,16
+"### | 437-
+",000,False,000,False,False,False,1,66
+"### | نسا
+",000,False,000,False,False,False,1,15
+"### | نسى
+",000,False,000,False,False,False,1,262
+"### | 438-
+",000,False,000,False,False,False,1,115
+"### | نسأ
+",000,False,000,False,False,False,1,83
+"### | 439-
+",000,False,000,False,False,False,1,26
+"### | نشر
+",000,False,000,False,False,False,1,115
+"### | 440-
+",000,False,000,False,False,False,1,123
+"### | نشا
+",000,False,000,False,False,False,1,27
+"### | نشز
+",000,False,000,False,False,False,1,72
+"### | 441-
+",000,False,000,False,False,False,1,19
+"### | نشط
+",000,False,000,False,False,False,1,98
+"### | نشأ
+",000,False,000,False,False,False,1,136
+"### | نصب
+",000,False,000,False,False,False,1,76
+"### | 442-
+",000,False,000,False,False,False,1,119
+"### | نصح
+",000,False,000,False,False,False,1,83
+"### | 443-
+",000,False,000,False,False,False,1,5
+"### | نصر
+",000,False,000,False,False,False,1,203
+"### | نصا
+",000,False,000,False,False,False,1,30
+"### | نصف
+",000,False,000,False,False,False,1,64
+"### | 444-
+",000,False,000,False,False,False,1,73
+"### | نصا
+",000,False,000,False,False,False,1,63
+"### | نضج
+",000,False,000,False,False,False,1,31
+"### | نضد
+",000,False,000,False,False,False,1,53
+"### | نضر
+",000,False,000,False,False,False,1,64
+"### | نطح
+",000,False,000,False,False,False,1,48
+"### | نطف
+",000,False,000,False,False,False,1,67
+"### | نطق
+",000,False,000,False,False,False,1,63
+"### | 445-
+",000,False,000,False,False,False,1,205
+"### | 446-
+",000,False,000,False,False,False,1,54
+"### | نظر
+",000,False,000,False,False,False,1,366
+"### | 447-
+",000,False,000,False,False,False,1,52
+"### | 448-
+",000,False,000,False,False,False,1,43
+"### | نعج
+",000,False,000,False,False,False,1,40
+"### | نعس
+",000,False,000,False,False,False,1,30
+"### | نعق
+",000,False,000,False,False,False,1,17
+"### | نعل
+",000,False,000,False,False,False,1,32
+"### | نعم
+",000,False,000,False,False,False,1,231
+"### | 449-
+",000,False,000,False,False,False,1,134
+"### | نغض
+",000,False,000,False,False,False,1,34
+"### | نفث
+",000,False,000,False,False,False,1,54
+"### | نفح
+",000,False,000,False,False,False,1,54
+"### | نفخ
+",000,False,000,False,False,False,1,64
+"### | نفد
+",000,False,000,False,False,False,1,50
+"### | نفذ
+",000,False,000,False,False,False,1,49
+"### | نفر
+",000,False,000,False,False,False,1,169
+"### | نفس
+",000,False,000,False,False,False,1,163
+"### | 450-
+",000,False,000,False,False,False,1,53
+"### | نفش
+",000,False,000,False,False,False,1,40
+"### | نفع
+",000,False,000,False,False,False,1,62
+"### | نفق
+",000,False,000,False,False,False,1,204
+"### | نفل
+",000,False,000,False,False,False,1,149
+"### | نقب
+",000,False,000,False,False,False,1,86
+"### | نقذ
+",000,False,000,False,False,False,1,34
+"### | نقر
+",000,False,000,False,False,False,1,128
+"### | نقص
+",000,False,000,False,False,False,1,30
+"### | نقض
+",000,False,000,False,False,False,1,140
+"### | 451-
+",000,False,000,False,False,False,1,11
+"### | نقم
+",000,False,000,False,False,False,1,52
+"### | نكب
+",000,False,000,False,False,False,1,86
+"### | نكث
+",000,False,000,False,False,False,1,37
+"### | 452-
+",000,False,000,False,False,False,1,6
+"### | نكح
+",000,False,000,False,False,False,1,58
+"### | نكد
+",000,False,000,False,False,False,1,27
+"### | نكر
+",000,False,000,False,False,False,1,198
+"### | ن م
+",000,False,000,False,False,False,1,10
+"### | نكس
+",000,False,000,False,False,False,1,79
+"### | نكص
+",000,False,000,False,False,False,1,12
+"### | نكف
+",000,False,000,False,False,False,1,45
+"### | نكل
+",000,False,000,False,False,False,1,65
+"### | نم
+",000,False,000,False,False,False,1,50
+"### | نمل
+",000,False,000,False,False,False,1,61
+"### | نهج
+",000,False,000,False,False,False,1,31
+"### | نهر
+",000,False,000,False,False,False,1,87
+"### | 453-
+",000,False,000,False,False,False,1,97
+"### | نهى
+",000,False,000,False,False,False,1,287
+"### | نوب
+",000,False,000,False,False,False,1,66
+"### | نوح
+",000,False,000,False,False,False,1,43
+"### | نور
+",000,False,000,False,False,False,1,343
+"### | نوس
+",000,False,000,False,False,False,1,153
+"### | نوش
+",000,False,000,False,False,False,1,9
+"### | 454-
+",000,False,000,False,False,False,1,90
+"### | نوص
+",000,False,000,False,False,False,1,19
+"### | نيل
+",000,False,000,False,False,False,1,67
+"### | 455-
+",000,False,000,False,False,False,1,34
+"### | نوم
+",000,False,000,False,False,False,1,98
+"### | نون
+",000,False,000,False,False,False,1,40
+"### | ناء
+",000,False,000,False,False,False,1,26
+"### | نأى
+",000,False,000,False,False,False,1,75
+"### | كتاب الهاء
+",000,False,000,False,False,False,1,4
+"### | هبط
+",000,False,000,False,False,False,1,145
+"### | هبا
+",000,False,000,False,False,False,1,38
+"### | هجد
+",000,False,000,False,False,False,1,55
+"### | هجر
+",000,False,000,False,False,False,1,227
+"### | 456-
+",000,False,000,False,False,False,1,91
+"### | هجع
+",000,False,000,False,False,False,1,63
+"### | هدد
+",000,False,000,False,False,False,1,3
+"### | هدم
+",000,False,000,False,False,False,1,76
+"### | 457-
+",000,False,000,False,False,False,1,9
+"### | هدم
+",000,False,000,False,False,False,1,40
+"### | هدى
+",000,False,000,False,False,False,1,72
+"### | 457-
+",000,False,000,False,False,False,1,1319
+"### | 467-
+",000,False,000,False,False,False,1,38
+"### | هرع
+",000,False,000,False,False,False,1,30
+"### | هرت
+",000,False,000,False,False,False,1,58
+"### | هرن
+",000,False,000,False,False,False,1,21
+"### | هزز
+",000,False,000,False,False,False,1,45
+"### | هزل
+",000,False,000,False,False,False,1,33
+"### | هزؤ
+",000,False,000,False,False,False,1,248
+"### | هزم
+",000,False,000,False,False,False,1,68
+"### | هشش
+",000,False,000,False,False,False,1,65
+"### | هشم
+",000,False,000,False,False,False,1,29
+"### | 468-
+",000,False,000,False,False,False,1,34
+"### | هضم
+",000,False,000,False,False,False,1,52
+"### | هطع
+",000,False,000,False,False,False,1,26
+"### | هلل
+",000,False,000,False,False,False,1,263
+"### | هلك
+",000,False,000,False,False,False,1,133
+"### | هم م
+",000,False,000,False,False,False,1,80
+"### | 469-
+",000,False,000,False,False,False,1,35
+"### | هلم
+",000,False,000,False,False,False,1,60
+"### | همم
+",000,False,000,False,False,False,1,20
+"### | 470-
+",000,False,000,False,False,False,1,92
+"### | همد
+",000,False,000,False,False,False,1,44
+"### | همر
+",000,False,000,False,False,False,1,42
+"### | همز
+",000,False,000,False,False,False,1,37
+"### | 471-
+",000,False,000,False,False,False,1,17
+"### | همس
+",000,False,000,False,False,False,1,19
+"### | 
+",000,False,000,False,False,False,1,0
+"### | هن
+",000,False,000,False,False,False,1,71
+"### | هنأ
+",000,False,000,False,False,False,1,54
+"### | هود
+",000,False,000,False,False,False,1,144
+"### | هار
+",000,False,000,False,False,False,1,73
+"### | هيت
+",000,False,000,False,False,False,1,58
+"### | هيهات
+",000,False,000,False,False,False,1,58
+"### | هاج
+",000,False,000,False,False,False,1,43
+"### | هيم
+",000,False,000,False,False,False,1,83
+"### | هان
+",000,False,000,False,False,False,1,118
+"### | هوى
+",000,False,000,False,False,False,1,50
+"### | هي ا
+",000,False,000,False,False,False,1,134
+"### | 472-
+",000,False,000,False,False,False,1,28
+"### | ها
+",000,False,000,False,False,False,1,26
+"### | هيأ
+",000,False,000,False,False,False,1,66
+"### | 473-
+",000,False,000,False,False,False,1,153
+"### | كتاب الواو
+",000,False,000,False,False,False,1,4
+"### | وبل
+",000,False,000,False,False,False,1,43
+"### | وبر
+",000,False,000,False,False,False,1,59
+"### | وبق
+",000,False,000,False,False,False,1,23
+"### | وتن
+",000,False,000,False,False,False,1,57
+"### | وتد
+",000,False,000,False,False,False,1,34
+"### | وتر
+",000,False,000,False,False,False,1,76
+"### | وثق
+",000,False,000,False,False,False,1,88
+"### | وثن
+",000,False,000,False,False,False,1,33
+"### | وجب
+",000,False,000,False,False,False,1,134
+"### | وجد
+",000,False,000,False,False,False,1,234
+"### | وجس
+",000,False,000,False,False,False,1,39
+"### | وجل
+",000,False,000,False,False,False,1,32
+"### | وجه
+",000,False,000,False,False,False,1,353
+"### | وجف
+",000,False,000,False,False,False,1,43
+"### | وحد
+",000,False,000,False,False,False,1,175
+"### | 456-
+",000,False,000,False,False,False,1,51
+"### | وحش
+",000,False,000,False,False,False,1,70
+"### | وحى
+",000,False,000,False,False,False,1,475
+"### | ودد
+",000,False,000,False,False,False,1,292
+"### | ودع
+",000,False,000,False,False,False,1,32
+"### | 457-
+",000,False,000,False,False,False,1,96
+"### | 458-
+",000,False,000,False,False,False,1,5
+"### | ودق
+",000,False,000,False,False,False,1,61
+"### | 459-
+",000,False,000,False,False,False,1,25
+"### | وادي
+",000,False,000,False,False,False,1,141
+"### | وذر
+",000,False,000,False,False,False,1,81
+"### | ورث
+",000,False,000,False,False,False,1,53
+"### | 461-
+",000,False,000,False,False,False,1,324
+"### | ورد
+",000,False,000,False,False,False,1,168
+"### | وري
+",000,False,000,False,False,False,1,70
+"### | ورق
+",000,False,000,False,False,False,1,132
+"### | ورى
+",000,False,000,False,False,False,1,212
+"### | 462-
+",000,False,000,False,False,False,1,102
+"### | وزر
+",000,False,000,False,False,False,1,179
+"### | وزع
+",000,False,000,False,False,False,1,121
+"### | وزن
+",000,False,000,False,False,False,1,136
+"### | وسوس
+",000,False,000,False,False,False,1,31
+"### | وسط
+",000,False,000,False,False,False,1,224
+"### | وسع
+",000,False,000,False,False,False,1,175
+"### | وسق
+",000,False,000,False,False,False,1,17
+"### | وسم
+",000,False,000,False,False,False,1,68
+"### | وسل
+",000,False,000,False,False,False,1,187
+"### | وسن
+",000,False,000,False,False,False,1,35
+"### | وسى
+",000,False,000,False,False,False,1,25
+"### | وشى
+",000,False,000,False,False,False,1,47
+"### | وصب
+",000,False,000,False,False,False,1,55
+"### | وصف
+",000,False,000,False,False,False,1,34
+"### | وصد
+",000,False,000,False,False,False,1,25
+"### | وصف
+",000,False,000,False,False,False,1,95
+"### | وصل
+",000,False,000,False,False,False,1,83
+"### | وضع
+",000,False,000,False,False,False,1,63
+"### | وصى
+",000,False,000,False,False,False,1,87
+"### | وضع
+",000,False,000,False,False,False,1,153
+"### | وضن
+",000,False,000,False,False,False,1,29
+"### | وطر
+",000,False,000,False,False,False,1,16
+"### | وطأ
+",000,False,000,False,False,False,1,70
+"### | وعد
+",000,False,000,False,False,False,1,260
+"### | وعي
+",000,False,000,False,False,False,1,147
+"### | وعظ
+",000,False,000,False,False,False,1,65
+"### | وعى
+",000,False,000,False,False,False,1,32
+"### | 463-
+",000,False,000,False,False,False,1,58
+"### | وفد
+",000,False,000,False,False,False,1,31
+"### | وفر
+",000,False,000,False,False,False,1,45
+"### | وفض
+",000,False,000,False,False,False,1,42
+"### | وفق
+",000,False,000,False,False,False,1,56
+"### | وفى
+",000,False,000,False,False,False,1,258
+"### | وقب
+",000,False,000,False,False,False,1,31
+"### | وقت
+",000,False,000,False,False,False,1,60
+"### | وقد
+",000,False,000,False,False,False,1,111
+"### | وقذ
+",000,False,000,False,False,False,1,15
+"### | وقر
+",000,False,000,False,False,False,1,84
+"### | وقع
+",000,False,000,False,False,False,1,220
+"### | وقف
+",000,False,000,False,False,False,1,69
+"### | وقى
+",000,False,000,False,False,False,1,213
+"### | وكد
+",000,False,000,False,False,False,1,22
+"### | وكا
+",000,False,000,False,False,False,1,36
+"### | وكز
+",000,False,000,False,False,False,1,13
+"### | وكل
+",000,False,000,False,False,False,1,187
+"### | ولج
+",000,False,000,False,False,False,1,105
+"### | وكأ
+",000,False,000,False,False,False,1,58
+"### | ولد
+",000,False,000,False,False,False,1,181
+"### | ولق
+",000,False,000,False,False,False,1,48
+"### | وهب
+",000,False,000,False,False,False,1,145
+"### | وهج
+",000,False,000,False,False,False,1,25
+"### | ولي
+",000,False,000,False,False,False,1,493
+"### | وي
+",000,False,000,False,False,False,1,177
+"### | وهن
+",000,False,000,False,False,False,1,54
+"### | وهى
+",000,False,000,False,False,False,1,34
+"### | وي
+",000,False,000,False,False,False,1,46
+"### | ويل
+",000,False,000,False,False,False,1,105
+"### | كتاب الياء
+",000,False,000,False,False,False,1,4
+"### | يبس
+",000,False,000,False,False,False,1,45
+"### | يتم
+",000,False,000,False,False,False,1,69
+"### | يد
+",000,False,000,False,False,False,1,83
+"### | 474-
+",000,False,000,False,False,False,1,48
+"### | 475-
+",000,False,000,False,False,False,1,28
+"### | 476-
+",000,False,000,False,False,False,1,388
+"### | يسر
+",000,False,000,False,False,False,1,156
+"### | اليم
+",000,False,000,False,False,False,1,21
+"### | يأس
+",000,False,000,False,False,False,1,83
+"### | يقن
+",000,False,000,False,False,False,1,87
+"### | اليم
+",000,False,000,False,False,False,1,41
+"### | يمن
+",000,False,000,False,False,False,1,126
+"### | 477-
+",000,False,000,False,False,False,1,124
+"### | ينع
+",000,False,000,False,False,False,1,29
+"### | يوم
+",000,False,000,False,False,False,1,115
+"### | يس
+",000,False,000,False,False,False,1,7
+"### | يا
+",000,False,000,False,False,False,1,50
+"### | مقدمة للفهارس الفنية وفيها زيادة على ما تقدم في ترجمة المؤلف
+",000,False,000,False,False,False,1,619

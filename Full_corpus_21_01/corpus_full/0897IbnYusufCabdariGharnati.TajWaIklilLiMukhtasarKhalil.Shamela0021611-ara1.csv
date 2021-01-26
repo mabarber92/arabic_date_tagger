@@ -1,0 +1,721 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [خطبة الشارح]
+",000,False,000,False,False,False,1,315
+"### | [كتاب الطهارة] 
+",000,False,000,False,False,False,1,4
+"### | [مقدمات الطهارة] 
+",000,False,000,False,False,False,1,4
+"### | [باب أحكام المياه]
+",000,False,000,False,False,False,1,1800
+"### | [باب في أحكام النجاسات] 
+",000,False,000,False,False,False,1,8
+"### | [فصل تمييز الأعيان الطاهرة عن النجسة]
+",000,False,000,False,False,False,1,3800
+"### | [فصل في إزالة النجاسة]
+",000,False,000,False,False,False,1,2885
+"### | [مقاصد الطهارة] 
+",000,False,000,False,False,False,1,4
+"### | [باب في الوضوء] 
+",000,False,000,False,False,False,1,6
+"### | [فصل في فرائض الوضوء وسننه وفضائله]
+",000,False,000,False,False,False,1,3392
+"### | [باب في الاستنجاء] 
+",000,False,000,False,False,False,1,6
+"### | [فصل في آداب قضاء الحاجة]
+",000,False,000,False,False,False,1,1570
+"### | [باب في موجبات الوضوء] 
+",000,False,000,False,False,False,1,8
+"### | [فصل في نواقض الوضوء]
+",000,False,000,False,False,False,1,2659
+"### | [باب في الغسل]
+",000,False,000,False,False,False,1,6
+"### | [فصل في موجبات الغسل]
+",000,False,000,False,False,False,1,2300
+"### | [باب في المسح على الخفين والجبائر]
+",000,False,000,False,False,False,1,1586
+"### | [باب في التيمم] 
+",000,False,000,False,False,False,1,6
+"### | [فصل في موجبات التيمم]
+",000,False,000,False,False,False,1,3450
+"### | [فصل في المسح على الجبيرة]
+",000,False,000,False,False,False,1,786
+"### | [باب في الحيض والنفاس]
+",000,False,000,False,False,False,1,2185
+"### | [كتاب الصلاة] 
+",000,False,000,False,False,False,1,4
+"### | [باب في مواقيت الصلاة] 
+",000,False,000,False,False,False,1,8
+"### | [فصل في وقت الرفاهية ووقت المعذورين ووقت الكراهية في الصلاة]
+",000,False,000,False,False,False,1,2846
+"### | [باب في الأذان والإقامة] 
+",000,False,000,False,False,False,1,8
+"### | [فصل في حكم الأذان والإقامة]
+",000,False,000,False,False,False,1,2465
+"### | [باب في شروط صحة الصلاة]
+",000,False,000,False,False,False,1,10
+"### | [فصل الطهارة من الحدث والطهارة من الخبث]
+",000,False,000,False,False,False,1,1946
+"### | [فصل في ستر العورة]
+",000,False,000,False,False,False,1,3116
+"### | [باب في استقبال القبلة]
+",000,False,000,False,False,False,1,1492
+"### | [باب في كيفية الصلاة]
+",000,False,000,False,False,False,1,8
+"### | [فصل في فرائض الصلاة]
+",000,False,000,False,False,False,1,6664
+"### | [فصل قيام الإحرام والقراءة للفرض]
+",000,False,000,False,False,False,1,1489
+"### | [فصل في قضاء الصلاة الفائتة]
+",000,False,000,False,False,False,1,2573
+"### | [باب في السجود] 
+",000,False,000,False,False,False,1,6
+"### | [فصل في سجود السهو]
+",000,False,000,False,False,False,1,9827
+"### | [فصل في سجود التلاوة]
+",000,False,000,False,False,False,1,3169
+"### | [باب في صلاة التطوع]
+",000,False,000,False,False,False,1,3151
+"### | [باب في صلاة الجماعة]
+",000,False,000,False,False,False,1,8
+"### | [فصل في حكم صلاة الجماعة]
+",000,False,000,False,False,False,1,1662
+"### | [فصل في صفة الأئمة]
+",000,False,000,False,False,False,1,5353
+"### | [فصل في شروط الاقتداء بالإمام]
+",000,False,000,False,False,False,1,2476
+"### | [فصل ms0263 في استخلاف الإمام]
+",000,False,000,False,False,False,1,1768
+"### | [باب في صلاة السفر]
+",000,False,000,False,False,False,1,5290
+"### | [باب في صلاة الجمعة]
+",000,False,000,False,False,False,1,5384
+"### | [باب في صلاة الخوف] 
+",000,False,000,False,False,False,1,8
+"### | [فصل في أنواع صلاة الخوف]
+",000,False,000,False,False,False,1,1236
+"### | [باب في صلاة العيدين] 
+",000,False,000,False,False,False,1,8
+"### | [فصل في حكم صلاة العيد]
+",000,False,000,False,False,False,1,1840
+"### | [باب في صلاة الكسوف والخسوف]
+",000,False,000,False,False,False,1,10
+"### | [فصل في حكم صلاة الكسوف والخسوف]
+",000,False,000,False,False,False,1,905
+"### | [باب في صلاة الاستسقاء]
+",000,False,000,False,False,False,1,8
+"### | [فصل في حكم صلاة الاستسقاء]
+",000,False,000,False,False,False,1,880
+"### | [كتاب الجنائز] 
+",000,False,000,False,False,False,1,4
+"### | [حكم غسل الميت]
+",000,False,000,False,False,False,1,249
+"### | [تغسيل أحد الزوجين صاحبه]
+",000,False,000,False,False,False,1,796
+"### | [أركان صلاة الجنازة]
+",000,False,000,False,False,False,1,1046
+"### | [الكفن]
+",000,False,000,False,False,False,1,840
+"### | [كيفية غسل الميت]
+",000,False,000,False,False,False,1,1478
+"### | [التعزية]
+",000,False,000,False,False,False,1,220
+"### | [صفة القبر]
+",000,False,000,False,False,False,1,1365
+"### | [زيارة القبور]
+",000,False,000,False,False,False,1,5228
+"### | [كتاب الزكاة] 
+",000,False,000,False,False,False,1,4
+"### | [أنواع الزكاة] 
+",000,False,000,False,False,False,1,16
+"### | : زكاة النعم 
+",000,False,000,False,False,False,1,415
+"### | [زكاة الإبل]
+",000,False,000,False,False,False,1,515
+"### | [زكاة البقر]
+",000,False,000,False,False,False,1,351
+"### | [زكاة الغنم]
+",000,False,000,False,False,False,1,5086
+"### | [زكاة المعشرات]
+",000,False,000,False,False,False,1,3552
+"### | [زكاة النقدين]
+",000,False,000,False,False,False,1,2765
+"### | [زكاة التجارة والفوائد والديون]
+",000,False,000,False,False,False,1,8
+"### | [زكاة التجارة]
+",000,False,000,False,False,False,1,584
+"### | [زكاة الفوائد]
+",000,False,000,False,False,False,1,1595
+"### | [زكاة الديون]
+",000,False,000,False,False,False,1,7921
+"### | [زكاة المعادن وخمس الركاز]
+",000,False,000,False,False,False,1,1524
+"### | [فصل في قسم الصدقات] 
+",000,False,000,False,False,False,1,8
+"### | [بيان الأصناف الثمانية وكيفية الصرف إليهم]
+",000,False,000,False,False,False,1,5983
+"### | [فصل في زكاة الفطر]
+",000,False,000,False,False,False,1,1683
+"### | [كتاب الصيام] 
+",000,False,000,False,False,False,1,4
+"### | [باب في أحكام الصيام]
+",000,False,000,False,False,False,1,4637
+"### | [شروط وجوب الصيام وصحة فعله]
+",000,False,000,False,False,False,1,690
+"### | [مبطلات الصيام]
+",000,False,000,False,False,False,1,7091
+"### | [كتاب الاعتكاف]
+",000,False,000,False,False,False,1,4
+"### | [فصل في أركان الاعتكاف]
+",000,False,000,False,False,False,1,2166
+"### | [كتاب الحج] 
+",000,False,000,False,False,False,1,4
+"### | [مقدمات ومقاصد الحج] 
+",000,False,000,False,False,False,1,6
+"### | [باب في وجوب أداء النسكين]
+",000,False,000,False,False,False,1,197
+"### | [شرائط الحج]
+",000,False,000,False,False,False,1,3446
+"### | [الإنابة في الحج]
+",000,False,000,False,False,False,1,1251
+"### | [أركان الحج والعمرة]
+",000,False,000,False,False,False,1,1501
+"### | [فرع تجاوز الميقات وهو مريد لأحد النسكين ثم أحرم]
+",000,False,000,False,False,False,1,8803
+"### | [باب في محظورات الحج والعمرة]
+",000,False,000,False,False,False,1,6905
+"### | [لواحق الحج]
+",000,False,000,False,False,False,1,4
+"### | [أنواع الدماء]
+",000,False,000,False,False,False,1,2316
+"### | [باب موانع الحج من الإحصار وغيره]
+",000,False,000,False,False,False,1,1638
+"### | [باب الذكاة] 
+",000,False,000,False,False,False,1,4
+"### | [شروط الذكاة]
+",000,False,000,False,False,False,1,6939
+"### | [ذكاة الجنين بذكاة أمه]
+",000,False,000,False,False,False,1,650
+"### | [كتاب الأطعمة] 
+",000,False,000,False,False,False,1,24
+"### | (فصل المباح طعام طاهر) 
+",000,False,000,False,False,False,1,2173
+"### | [باب الضحايا] 
+",000,False,000,False,False,False,1,4
+"### | [أركان الضحايا وأحكامها]
+",000,False,000,False,False,False,1,4865
+"### | [العقيقة]
+",000,False,000,False,False,False,1,563
+"### | [كتاب الأيمان] 
+",000,False,000,False,False,False,1,4
+"### | [باب في نفس اليمين]
+",000,False,000,False,False,False,1,1327
+"### | [باب في الاستثناء في اليمين والكفارة]
+",000,False,000,False,False,False,1,3408
+"### | [باب فيما يقتضي البر والحنث]
+",000,False,000,False,False,False,1,12749
+"### | [فصل النذر] 
+",000,False,000,False,False,False,1,4
+"### | [أركان النذر وأحكامه]
+",000,False,000,False,False,False,1,100
+"### | [شروط النذر]
+",000,False,000,False,False,False,1,546
+"### | [النذر المستحب]
+",000,False,000,False,False,False,1,4824
+"### | [كتاب ms0753 الجهاد] 
+",000,False,000,False,False,False,1,4
+"### | [باب في وجوب الجهاد وكيفيته]
+",000,False,000,False,False,False,1,867
+"### | [شروط وجوب الجهاد]
+",000,False,000,False,False,False,1,1949
+"### | [حكم الاستعانة بالمشركين]
+",000,False,000,False,False,False,1,852
+"### | [من فرائض الجهاد ترك الغلول]
+",000,False,000,False,False,False,1,2218
+"### | [باب من فرائض الجهاد الوفاء بالأمان]
+",000,False,000,False,False,False,1,6707
+"### | [الجهاد بالراتب]
+",000,False,000,False,False,False,1,3597
+"### | [كتاب عقد الذمة والمهادنة] 
+",000,False,000,False,False,False,1,8
+"### | [أركان عقد الذمة وأحكامه]
+",000,False,000,False,False,False,1,393
+"### | [حد وجوب الجزية]
+",000,False,000,False,False,False,1,2418
+"### | [عقد المهادنة وشروطها]
+",000,False,000,False,False,False,1,2510
+"### | [كتاب السبق والرمي]
+",000,False,000,False,False,False,1,6
+"### | [باب في السبق وشروطه وحكمه]
+",000,False,000,False,False,False,1,566
+"### | [باب في الرمي وشروطه]
+",000,False,000,False,False,False,1,815
+"### | [كتاب النكاح] 
+",000,False,000,False,False,False,1,4
+"### | [القسم الأول مقدمات النكاح]
+",000,False,000,False,False,False,1,895
+"### | [فصل ندب لمحتاج ذي أهبة نكاح]
+",000,False,000,False,False,False,1,1451
+"### | [القسم الثاني في أركان النكاح]
+",000,False,000,False,False,False,1,8018
+"### | [الكفاءة في النكاح الدين والحال]
+",000,False,000,False,False,False,1,377
+"### | [القسم الثالث في موانع النكاح]
+",000,False,000,False,False,False,1,5227
+"### | [فصل القسم الرابع في موجبات الخيار في النكاح وأسبابه]
+",000,False,000,False,False,False,1,18
+"### | [السبب الأول العيب في النكاح]
+",000,False,000,False,False,False,1,1294
+"### | [السبب الثاني من ms0895 أسباب الخيار في النكاح الغرور]
+",000,False,000,False,False,False,1,2768
+"### | [فصل السبب الثالث للخيار في النكاح العتق]
+",000,False,000,False,False,False,1,617
+"### | [كتاب الصداق]
+",000,False,000,False,False,False,1,4
+"### | [الباب الأول في حكم الصداق]
+",000,False,000,False,False,False,1,1837
+"### | [الباب الثاني في الصداق الفاسد]
+",000,False,000,False,False,False,1,2573
+"### | [الباب الثالث في التفويض في النكاح]
+",000,False,000,False,False,False,1,2195
+"### | [الباب الرابع في التشطير واختيار الزوج لإيقاع الطلاق قبل المسيس]
+",000,False,000,False,False,False,1,3425
+"### | [الباب الخامس في التنازع في النكاح]
+",000,False,000,False,False,False,1,616
+"### | [مقدار المهر أو صفته أو جنسه]
+",000,False,000,False,False,False,1,1663
+"### | [باب الوليمة والنثر]
+",000,False,000,False,False,False,1,683
+"### | [كتاب القسم والنشوز]
+",000,False,000,False,False,False,1,1923
+"### | [كتاب الخلع] 
+",000,False,000,False,False,False,1,4
+"### | [باب في حقيقة الخلع]
+",000,False,000,False,False,False,1,1881
+"### | [باب في أركان الخلع]
+",000,False,000,False,False,False,1,1965
+"### | [باب موجب الألفاظ المعلقة بالإعطاء في الخلع]
+",000,False,000,False,False,False,1,655
+"### | [باب سؤال الطلاق والنزاع في الخلع]
+",000,False,000,False,False,False,1,157
+"### | [كتاب الطلاق] 
+",000,False,000,False,False,False,1,4
+"### | [باب في طلاق السنة والبدعة]
+",000,year,000,False,False,False,1,968
+"### | [الباب الثاني في أركان الطلاق]
+",000,False,000,False,False,False,1,14940
+"### | [فصل في تفويض ms1032 الطلاق]
+",000,False,000,False,False,False,1,2820
+"### | [كتاب الرجعة وفيه فصلان] 
+",000,False,000,False,False,False,1,8
+"### | [الفصل الأول في أركان الرجعة]
+",000,False,000,False,False,False,1,1256
+"### | [الفصل الثاني في أحكام المرتجعة]
+",000,False,000,False,False,False,1,811
+"### | [فصل تشطير المهر في المتعة]
+",000,False,000,False,False,False,1,233
+"### | [كتاب الإيلاء]
+",000,False,000,False,False,False,1,4
+"### | [باب في أركان الإيلاء وأحكامه]
+",000,False,000,False,False,False,1,1529
+"### | [أقسام الإيلاء]
+",000,False,000,False,False,False,1,1836
+"### | [باب الظهار]
+",000,False,000,False,False,False,1,4
+"### | [باب في أركان الظهار وحكمه]
+",000,False,000,False,False,False,1,4806
+"### | [كتاب اللعان]
+",000,False,000,False,False,False,1,4
+"### | [باب في أركان اللعان]
+",000,False,000,False,False,False,1,2525
+"### | [باب العدة]
+",000,False,000,False,False,False,1,4
+"### | [عدة الحرائر والإماء وأصناف المعتدات]
+",000,False,000,False,False,False,1,10
+"### | [أنواع العدد]
+",000,False,000,False,False,False,1,3796
+"### | [فصل في زوجة المفقود]
+",000,False,000,False,False,False,1,4237
+"### | [فصل في الاستبراء] 
+",000,False,000,False,False,False,1,6
+"### | [قدر الاستبراء وأسبابه]
+",000,False,000,False,False,False,1,2544
+"### | [باب في تداخل العدتين]
+",000,False,000,False,False,False,1,1050
+"### | [كتاب الرضاع] 
+",000,False,000,False,False,False,1,4
+"### | [باب في أركان الرضاع ms1129 ومن يحرم به والرضاع القاطع للنكاح]
+",000,False,000,False,False,False,1,1528
+"### | [ما يثبت به الرضاع]
+",000,False,000,False,False,False,1,343
+"### | [كتاب النفقات]
+",000,False,000,False,False,False,1,4
+"### | [من أسباب النفقة النكاح]
+",000,False,000,False,False,False,1,5083
+"### | [فصل من أسباب النفقة ملك اليمين]
+",000,False,000,False,False,False,1,330
+"### | كتاب البيوع.
+",000,False,000,False,False,False,1,4
+"### | [من أسباب النفقة القرابة]
+",000,False,000,False,False,False,1,3521
+"### | [كتاب البيوع] 
+",000,False,000,False,False,False,1,4
+"### | [القسم الأول في صحة البيع وفساده] 
+",000,False,000,False,False,False,1,12
+"### | [باب في أركان البيع]
+",000,False,000,False,False,False,1,10577
+"### | [باب الربا]
+",000,False,000,False,False,False,1,9033
+"### | [حكم الربا في المطعومات]
+",000,False,000,False,False,False,1,3692
+"### | [باب في فساد العقد من جهة نهي الشارع عنه]
+",000,False,000,False,False,False,1,6784
+"### | [ما يترتب على العقد الفاسد وما يتصل به من قبض أو فوات]
+",000,False,000,False,False,False,1,1777
+"### | [فصل الفاسد من جهة تطرق التهمة إلى المتعاوضين]
+",000,False,000,False,False,False,1,3048
+"### | [فصل في العينة]
+",000,False,000,False,False,False,1,824
+"### | [القسم الثاني من كتاب البيوع في لزوم العقد وجوازه] 
+",000,False,000,False,False,False,1,18
+"### | [فصل في الخيار] 
+",000,False,000,False,False,False,1,32
+"### | خيار التروي 
+",000,False,000,False,False,False,1,4769
+"### | [خيار النقيصة]
+",000,False,000,False,False,False,1,4111
+"### | [مبطلات الخيار وموانعه]
+",000,False,000,False,False,False,1,12673
+"### | [فصل بيع المرابحة]
+",000,False,000,False,False,False,1,10047
+"### | [فصل في اختلاف المتبايعان في جنس الثمن أو نوعه]
+",000,False,000,False,False,False,1,1959
+"### | [كتاب السلم] 
+",000,False,000,False,False,False,1,4
+"### | [باب في شروط السلم وأداء المسلم فيه والنظر في صفته]
+",000,False,000,False,False,False,1,9824
+"### | [فصل قرض ما يسلم فيه]
+",000,False,000,False,False,False,1,1828
+"### | [باب الرهن]
+",000,False,000,False,False,False,1,2392
+"### | [أذن المرتهن للراهن أن يسكن أو يكري]
+",000,False,000,False,False,False,1,1411
+"### | [اشترط المرتهن منفعة الرهن]
+",000,False,000,False,False,False,1,1281
+"### | [وكل وكيلا ببيع رهن وقضى دينه من ثمنه]
+",000,False,000,False,False,False,1,258
+"### | [هل يفتقر الرهن للتصريح به أم لا]
+",000,False,000,False,False,False,1,2327
+"### | [هلك الرهن وجهلت صفته]
+",000,False,000,False,False,False,1,234
+"### | [كتاب التفليس] 
+",000,False,000,False,False,False,1,4
+"### | [أحكام الحجر على المفلس]
+",000,False,000,False,False,False,1,3377
+"### | [بيع آلة الصانع إذا فلس]
+",000,False,000,False,False,False,1,1722
+"### | [حبس المفلس]
+",000,False,000,False,False,False,1,280
+"### | [حبس من تقعد على أموال الناس وادعى العدم فتبين كذبه]
+",000,False,000,False,False,False,1,935
+"### | [من أحكام الحجر الرجوع إلى عين المال]
+",000,False,000,False,False,False,1,2709
+"### | [كتاب الحجر] 
+",000,False,000,False,False,False,1,4
+"### | [أسباب الحجر]
+",000,False,000,False,False,False,1,693
+"### | [وصية ابن عشر سنين وأقل مما يقاربها]
+",000,False,000,False,False,False,1,654
+"### | [لا حجر على السفيه في استلحاق النسب ونفيه]
+",000,False,000,False,False,False,1,150
+"### | [تصرفات الصغير قبل الحجر]
+",000,False,000,False,False,False,1,2047
+"### | [الحجر بسبب الرق]
+",000,False,000,False,False,False,1,376
+"### | [أراد أن يحجر على وليه]
+",000,False,000,False,False,False,1,106
+"### | [بيع المأذون أم ولده]
+",000,False,000,False,False,False,1,474
+"### | [الحجر على المريض]
+",000,False,000,False,False,False,1,522
+"### | [الحجر على الزوجة]
+",000,False,000,False,False,False,1,518
+"### | [باب الصلح] 
+",000,False,000,False,False,False,1,4
+"### | [أنواع الصلح]
+",000,False,000,False,False,False,1,721
+"### | [لزمته يمين فافتدى منها بمال]
+",000,False,000,False,False,False,1,279
+"### | [الصلح على الإنكار]
+",000,False,000,False,False,False,1,879
+"### | [الصلح من دم عمد أو جرح عمد]
+",000,False,000,False,False,False,1,1576
+"### | [كتاب الحوالة]
+",000,False,000,False,False,False,1,39
+"### | [شروط الحوالة]
+",000,False,000,False,False,False,1,649
+"### | [شرط بيع الدين]
+",000,False,000,False,False,False,1,395
+"### | [كتاب الضمان]
+",000,False,000,False,False,False,1,4
+"### | [باب أركان الضمان وحكمه وحمالة الجماعة]
+",000,False,000,False,False,False,1,542
+"### | [الحمالة بالكتابة]
+",000,False,000,False,False,False,1,1077
+"### | [سقوط الحمالة بإسقاط المتحمل به]
+",000,False,000,False,False,False,1,98
+"### | [مات الضامن قبل الأجل]
+",000,False,000,False,False,False,1,436
+"### | [الحميل بالوجه]
+",000,False,000,False,False,False,1,1229
+"### | [أخذ من غريمه كفيلا بعد كفيل]
+",000,False,000,False,False,False,1,1957
+"### | [كتاب الشركة] 
+",000,False,000,False,False,False,1,4
+"### | [باب أركان الشركة وأحكامها والنزاع بين الشريكين]
+",000,False,000,False,False,False,1,10587
+"### | [فصل الشركة في الزرع]
+",000,False,000,False,False,False,1,1754
+"### | [كتاب الوكالة]
+",000,False,000,False,False,False,1,4
+"### | [باب أركان الوكالة وحكمها والنزاع فيها]
+",000,False,000,False,False,False,1,7016
+"### | [كتاب الإقرار]
+",000,False,000,False,False,False,1,4
+"### | [باب أركان الإقرار والأقارير المجملة]
+",000,False,000,False,False,False,1,1760
+"### | [باب في تعقب الإقرار بما يرفعه]
+",000,False,000,False,False,False,1,2738
+"### | [باب في الإقرار بالنسب]
+",000,False,000,False,False,False,1,2799
+"### | [كتاب الوديعة] 
+",000,False,000,False,False,False,1,4
+"### | [الوديعة ضمان عند التلف ورد عند البقاء]
+",000,False,000,False,False,False,1,6165
+"### | [كتاب العارية]
+",000,False,000,False,False,False,1,4
+"### | [في أركان العارية وأحكامها وفصل الخصومة فيها]
+",000,False,000,False,False,False,1,2372
+"### | [كتاب الغصب] 
+",000,False,000,False,False,False,1,4
+"### | [باب في ضمان المغصوب وما يطرأ عليه من زيادة أو نقصان]
+",000,False,000,False,False,False,1,8305
+"### | [فصل في الاستحقاق]
+",000,False,000,False,False,False,1,3801
+"### | [كتاب الشفعة]
+",000,False,000,False,False,False,1,4
+"### | [باب في أركان الشفعة وكيفية الأخذ]
+",000,False,000,False,False,False,1,3383
+"### | [باب فيما يسقط فيه حق الشفعة]
+",000,False,000,False,False,False,1,4026
+"### | [كتاب القسمة] 
+",000,False,000,False,False,False,1,4
+"### | [باب في القسام وكيفية القسمة وتميز ما يجمع في القسم] 
+",000,False,000,False,False,False,1,40
+"### | : قسمة المهاناة 
+",000,False,000,False,False,False,1,6524
+"### | [كتاب القراض]
+",000,False,000,False,False,False,1,4
+"### | [باب في أركان القراض وحكمه وشروطه والتفاسخ والتنازع فيه]
+",000,False,000,False,False,False,1,7499
+"### | [كتاب المساقاة]
+",000,False,000,False,False,False,1,4
+"### | [باب في أركان المساقاة وما به تنعقد وحكمها في حال الصحة والفساد]
+",000,False,000,False,False,False,1,316
+"### | [شروط الأصول التي تجوز مساقاتها]
+",000,False,000,False,False,False,1,2883
+"### | [كتاب الإجارة] 
+",000,False,000,False,False,False,1,4
+"### | [باب في أركان الإجارة وحكمها وفي الطوارئ الموجبة للفسخ]
+",000,False,000,False,False,False,1,12846
+"### | [فصل في استئجار الدواب]
+",000,False,000,False,False,False,1,1770
+"### | [فصل في كراء الحمام]
+",000,False,000,False,False,False,1,5191
+"### | [كتاب الجعالة] 
+",000,False,000,False,False,False,1,4
+"### | [في أحكام الجعالة وأركانها]
+",000,False,000,False,False,False,1,1471
+"### | [كتاب إحياء الموات]
+",000,False,000,False,False,False,1,6
+"### | [باب ملك الأرض بالإحياء]
+",000,False,000,False,False,False,1,8
+"### | [فصل فيما يملك من الأرضين]
+",000,False,000,False,False,False,1,780
+"### | [فصل في كيفية إحياء الموات]
+",000,False,000,False,False,False,1,160
+"### | [باب المنافع المشتركة في البقاع كالشوارع والمساجد]
+",000,False,000,False,False,False,1,1003
+"### | [باب في الأعيان المستفادة من الأرض كالمعدن والمياه]
+",000,False,000,False,False,False,1,1307
+"### | [كتاب الوقف] 
+",000,False,000,False,False,False,1,4
+"### | [باب في أركان الوقف وحكم الوقف الصحيح]
+",000,False,000,False,False,False,1,7834
+"### | [كتاب الهبة] 
+",000,False,000,False,False,False,1,4
+"### | [باب في أركان الهبة وحكمها]
+",000,False,000,False,False,False,1,6153
+"### | [كتاب اللقطة] 
+",000,False,000,False,False,False,1,4
+"### | [فصل في الالتقاط وذات اللقطة وأحكامها]
+",000,False,000,False,False,False,1,2907
+"### | [كتاب اللقيط]
+",000,False,000,False,False,False,1,4
+"### | [باب في الالتقاط وأحكام اللقيط]
+",000,False,000,False,False,False,1,1583
+"### | [كتاب الأقضية] 
+",000,False,000,False,False,False,1,4
+"### | [باب في تولية القاضي وعزله]
+",000,False,000,False,False,False,1,926
+"### | [باب آداب القضاء]
+",000,False,000,False,False,False,1,10304
+"### | [باب القضاء على الغائب]
+",000,False,000,False,False,False,1,1253
+"### | [كتاب الشهادات] 
+",000,False,000,False,False,False,1,4
+"### | [باب أهلية الشهادة وما يفيد قبولها ومستند علم الشاهد وتحمله وأدائه]
+",000,False,000,False,False,False,1,8737
+"### | [باب الشهادات في العدد والذكورة]
+",000,False,000,False,False,False,1,4637
+"### | [باب في تحمل الشهادة وأدائها]
+",000,False,000,False,False,False,1,666
+"### | [باب في الشاهد واليمين]
+",000,False,000,False,False,False,1,1461
+"### | [باب في الشهادة على الشهادة]
+",000,False,000,False,False,False,1,588
+"### | [باب السادس في الرجوع عن الشهادة]
+",000,False,000,False,False,False,1,3683
+"### | [كتاب الدعوى والبينات ومجامع الخصومات]
+",000,False,000,False,False,False,1,10
+"### | [أركان الدعوى]
+",000,False,000,False,False,False,1,4
+"### | [تعارض البينتين]
+",000,False,000,False,False,False,1,5211
+"### | [باب في الدماء] 
+",000,False,000,False,False,False,1,6
+"### | [الجناية على النفس] 
+",000,False,000,False,False,False,1,6
+"### | [موجبات القصاص]
+",000,False,000,False,False,False,1,247
+"### | [من موجبات القصاص القاتل]
+",000,False,000,False,False,False,1,270
+"### | [من موجبات القصاص القتيل]
+",000,False,000,False,False,False,1,1477
+"### | [شروط القتل]
+",000,False,000,False,False,False,1,255
+"### | [قتل الجماعة بالواحد]
+",000,False,000,False,False,False,1,1997
+"### | [الجناية على الأطراف]
+",000,False,000,False,False,False,1,1905
+"### | [باب استيفاء القصاص]
+",000,False,000,False,False,False,1,6
+"### | [فصل فيمن له ولاية استيفاء القصاص]
+",000,False,000,False,False,False,1,965
+"### | [فصل تأخير القصاص]
+",000,False,000,False,False,False,1,1569
+"### | [فصل في حكم القصاص في كيفية المماثلة]
+",000,False,000,False,False,False,1,420
+"### | [كتاب الديات]
+",000,False,000,False,False,False,1,4
+"### | [الواجب في الدية]
+",000,False,000,False,False,False,1,6
+"### | [دية النفس]
+",000,False,000,False,False,False,1,90
+"### | [دية العمد وشبه العمد والخطأ]
+",000,False,000,False,False,False,1,987
+"### | [الدية الواجبة فيما دون النفس]
+",000,False,000,False,False,False,1,850
+"### | [الدية الواجبة فيما يفوت المنافع]
+",000,False,000,False,False,False,1,2977
+"### | [بيان من عليه الدية]
+",000,False,000,False,False,False,1,1298
+"### | [كتاب دعوى الدم]
+",000,False,000,False,False,False,1,6
+"### | [القسامة والشهادة بالدم]
+",000,False,000,False,False,False,1,6
+"### | [سبب القسامة]
+",000,False,000,False,False,False,1,3380
+"### | [كتاب الجنايات الموجبة للعقوبات]
+",000,False,000,False,False,False,1,8
+"### | [باب في البغي]
+",000,False,000,False,False,False,1,6
+"### | [صفات البغاة وأحكامهم]
+",000,False,000,False,False,False,1,1568
+"### | [باب في الردة]
+",000,False,000,False,False,False,1,6
+"### | [حقيقة الردة وأحكامها]
+",000,False,000,False,False,False,1,4134
+"### | [باب في الزنا]
+",000,False,000,False,False,False,1,6
+"### | [موجب الزنا وموجبه وكيفية استيفاء الحد ومتعاطيه]
+",000,False,000,False,False,False,1,2684
+"### | [باب في القذف] 
+",000,False,000,False,False,False,1,6
+"### | [باب في ألفاظ القذف وموجبه وأحكامه]
+",000,False,000,False,False,False,1,1722
+"### | [باب في السرقة]
+",000,False,000,False,False,False,1,6
+"### | [موجب حد السرقة وعقوبتها وحكمها]
+",000,False,000,False,False,False,1,246
+"### | [أركان السرقة]
+",000,False,000,False,False,False,1,3131
+"### | [شرط قطع السارق]
+",000,False,000,False,False,False,1,661
+"### | [باب في الحرابة]
+",000,False,000,False,False,False,1,6
+"### | [صفة المحاربين وحكم قتالهم وعقوبتهم وحكمها]
+",000,False,000,False,False,False,1,930
+"### | [باب في الشرب]
+",000,False,000,False,False,False,1,6
+"### | [موجب الشرب والواجب فيه]
+",000,False,000,False,False,False,1,1201
+"### | [كتاب موجبات الضمان] 
+",000,False,000,False,False,False,1,27
+"### | ضمان سراية الفعل المأذون في عينه أو جنسه 
+",000,False,000,False,False,False,1,519
+"### | [الضمان في دفع الصائل]
+",000,False,000,False,False,False,1,139
+"### | [ضمان ما أتلفته البهائم]
+",000,False,000,False,False,False,1,314
+"### | [كتاب العتق] 
+",000,False,000,False,False,False,1,4
+"### | [باب أركان العتق]
+",000,False,000,False,False,False,1,2474
+"### | [خواص العتق]
+",000,False,000,False,False,False,1,3177
+"### | [باب في التدبير]
+",000,False,000,False,False,False,1,1848
+"### | [باب ندب ms2259 مكاتبة أهل التبرع]
+",000,False,000,False,False,False,1,10
+"### | [أركان الكتابة]
+",000,False,000,False,False,False,1,3585
+"### | [باب إقرار السيد بوطء الأمة]
+",000,False,000,False,False,False,1,1304
+"### | [فصل في الولاء]
+",000,False,000,False,False,False,1,1021
+"### | [كتاب الوصايا] 
+",000,False,000,False,False,False,1,4
+"### | [باب أركان الوصية وأحكامها]
+",000,False,000,False,False,False,1,1182
+"### | [باب الرجوع عن الوصية]
+",000,False,000,False,False,False,1,8466
+"### | [كتاب الفرائض]
+",000,False,000,False,False,False,1,4
+"### | [باب في بيان الورثة والتوريث]
+",000,False,000,False,False,False,1,10
+"### | [باب ما يخرج من تركة الميت]
+",000,False,000,False,False,False,1,2495
+"### | [أسباب الأرث]
+",000,False,000,False,False,False,1,274
+"### | [باب في أصول الحساب وبيان المخارج]
+",000,False,000,False,False,False,1,1276
+"### | [باب حساب المناسخات وقسمة التركات]
+",000,False,000,False,False,False,1,926
+"### | [باب حساب مسائل الإقرار والإنكار]
+",000,False,000,False,False,False,1,943
+"### | [حساب مسائل الوصايا]
+",000,False,000,False,False,False,1,469
+"### | [باب موانع الإرث]
+",000,False,000,False,False,False,1,1128
+"### | [ميراث الخنثى]
+",000,False,000,False,False,False,1,717

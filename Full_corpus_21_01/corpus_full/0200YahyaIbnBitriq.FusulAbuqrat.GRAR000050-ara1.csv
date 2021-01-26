@@ -1,0 +1,143 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [book 1]
+",000,False,000,False,False,False,1,254
+"### || [aphorism 1]
+",000,False,000,False,False,False,2,36
+"### || [aphorism 4: 2]
+",000,False,000,False,False,False,2,36
+"### || [aphorism 11: 3]
+",000,False,000,False,False,False,2,29
+"### || [aphorism 12: 4]
+",000,False,000,False,False,False,2,60
+"### || [aphorism 14: 5]
+",000,False,000,False,False,False,2,22
+"### || [aphorism 16: 6a]
+",000,False,000,False,False,False,2,24
+"### || [aphorism 17: 6b]
+",000,False,000,False,False,False,2,18
+"### || [aphorism 20: 7]
+",000,False,000,False,False,False,2,27
+"### | [book 2]
+",000,False,000,False,False,False,1,244
+"### || [aphorism 26: 8a]
+",000,False,000,False,False,False,2,23
+"### || [aphorism 27: 8b]
+",000,False,000,False,False,False,2,10
+"### || [aphorism 34: 9]
+",000,False,000,False,False,False,2,24
+"### || [aphorism 40: 10]
+",000,False,000,False,False,False,2,38
+"### || [aphorism 415: 11]
+",000,False,000,False,False,False,2,24
+"### || [aphorism 48: 12]
+",000,False,000,False,False,False,2,19
+"### || [aphorism 54: 13]
+",000,False,000,False,False,False,2,29
+"### || [aphorism 58: 14]
+",000,False,000,False,False,False,2,31
+"### || [aphorism 68: 15]
+",000,False,000,False,False,False,2,21
+"### || [aphorism 73: 16]
+",000,False,000,False,False,False,2,23
+"### | [book 3]
+",000,False,000,False,False,False,1,294
+"### || [aphorism 80: 17]
+",000,False,000,False,False,False,2,28
+"### || [aphorism 85: 18]
+",000,False,000,False,False,False,2,26
+"### || [aphorism 90: 19]
+",000,False,000,False,False,False,2,44
+"### || [aphorism 94: 20a]
+",000,False,000,False,False,False,2,14
+"### || [aphorism 95: 20b]
+",000,False,000,False,False,False,2,27
+"### || [aphorism 97: 21]
+",000,False,000,False,False,False,2,46
+"### || [aphorism 103: 22]
+",000,False,000,False,False,False,2,28
+"### || [aphorism 105: 23a]
+",000,False,000,False,False,False,2,30
+"### || [aphorism 106: 23b]
+",000,False,000,False,False,False,2,12
+"### || [aphorism 107: 23c]
+",000,False,000,False,False,False,2,37
+"### | [book 4]
+",000,False,000,False,False,False,1,352
+"### || [aphorism 111: 24]
+",000,False,000,False,False,False,2,31
+"### || [aphorism 114: 25]
+",000,False,000,False,False,False,2,34
+"### || [aphorism 123: 26]
+",000,False,000,False,False,False,2,27
+"### || [aphorism 131: 27]
+",000,False,000,False,False,False,2,50
+"### || [aphorism 137: 28]
+",000,False,000,False,False,False,2,25
+"### || [aphorism 146: 29]
+",000,False,000,False,False,False,2,47
+"### || [aphorism 153: 30]
+",000,False,000,False,False,False,2,33
+"### || [aphorism 158: 31]
+",000,False,000,False,False,False,2,26
+"### || [aphorism 167: 32]
+",000,False,000,False,False,False,2,20
+"### || [aphorism 175: 33]
+",000,False,000,False,False,False,2,21
+"### || [aphorism 183: 34]
+",000,False,000,False,False,False,2,36
+"### | [book 5]
+",000,False,000,False,False,False,1,275
+"### || [aphorism 194: 35]
+",000,False,000,False,False,False,2,21
+"### || [aphorism 202: 36]
+",000,False,000,False,False,False,2,20
+"### || [aphorism 209: 37a]
+",000,False,000,False,False,False,2,29
+"### || [aphorism 210: 37b]
+",000,False,000,False,False,False,2,9
+"### || [aphorism 215: 38]
+",000,False,000,False,False,False,2,39
+"### || [aphorism 221: 39]
+",000,False,000,False,False,False,2,27
+"### || [aphorism 232: 40]
+",000,False,000,False,False,False,2,23
+"### || [aphorism 241: 41]
+",000,False,000,False,False,False,2,18
+"### || [aphorism 248: 42]
+",000,False,000,False,False,False,2,27
+"### || [aphorism 257: 43]
+",000,False,000,False,False,False,2,60
+"### | [book 6]
+",000,False,000,False,False,False,1,218
+"### || [aphorism 267: 44]
+",000,False,000,False,False,False,2,49
+"### || [aphorism 276: 45]
+",000,False,000,False,False,False,2,28
+"### || [aphorism 284: 46]
+",000,False,000,False,False,False,2,30
+"### || [aphorism 289: 47]
+",000,False,000,False,False,False,2,20
+"### || [aphorism 297: 48]
+",000,False,000,False,False,False,2,19
+"### || [aphorism 304: 49]
+",000,False,000,False,False,False,2,26
+"### || [aphorism 311: 50]
+",000,False,000,False,False,False,2,22
+"### || [aphorism 319: 51]
+",000,False,000,False,False,False,2,22
+"### | [book 7]
+",000,False,000,False,False,False,1,173
+"### || [aphorism 327: 52]
+",000,False,000,False,False,False,2,15
+"### || [aphorism 343: 53]
+",000,False,000,False,False,False,2,16
+"### || [aphorism 358: 54]
+",000,False,000,False,False,False,2,23
+"### || [aphorism 364: 55]
+",000,False,000,False,False,False,2,30
+"### || [aphorism 371: 56a]
+",000,False,000,False,False,False,2,23
+"### || [aphorism 372: 56b]
+",000,False,000,False,False,False,2,26
+"### || [aphorism 378: 57]
+",000,False,000,False,False,False,2,38

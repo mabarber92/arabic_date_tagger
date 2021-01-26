@@ -1,0 +1,163 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | مقدمة الكتاب
+",000,False,000,False,False,False,1,104
+"### | باب الألف
+",000,False,000,False,False,False,1,797
+"### || باب إسماعيل
+",000,False,000,False,False,False,2,190
+"### || باب إسحاق
+",000,False,000,False,False,False,2,96
+"### || باب أيوب
+",000,False,000,False,False,False,2,88
+"### || باب أشعث
+",000,False,000,False,False,False,2,31
+"### || باب أبان
+",000,False,000,False,False,False,2,95
+"### || باب أسد
+",000,False,000,False,False,False,2,18
+"### || باب أصرم
+",000,False,000,False,False,False,2,28
+"### || ""باب أزور، وأخنس"":
+",000,False,000,False,False,False,2,20
+"### | باب الباء
+",000,False,000,False,False,False,1,155
+"### | باب الثاء
+",000,False,000,False,False,False,1,32
+"### | باب الجيم
+",000,False,000,False,False,False,1,310
+"### || باب جابر
+",000,False,000,False,False,False,2,77
+"### || باب جامع
+",000,False,000,False,False,False,2,203
+"### | باب الحاء
+",000,False,000,False,False,False,1,896
+"### || باب حبيب
+",000,False,000,False,False,False,2,19
+"### || باب الحكم
+",000,False,000,False,False,False,2,72
+"### || باب حميد
+",000,False,000,False,False,False,2,21
+"### || باب حفص
+",000,False,000,False,False,False,2,49
+"### || باب حجاج
+",000,False,000,False,False,False,2,44
+"### || باب حسين
+",000,False,000,False,False,False,2,79
+"### || باب حصين
+",000,False,000,False,False,False,2,41
+"### || باب حكيم
+",000,False,000,False,False,False,2,24
+"### || باب حماد
+",000,False,000,False,False,False,2,31
+"### || باب حنظلة
+",000,False,000,False,False,False,2,49
+"### || 
+",000,False,000,False,False,False,2,31
+"### || باب جامع
+",000,False,000,False,False,False,2,292
+"### | باب الخاء
+",000,False,000,False,False,False,1,188
+"### || باب خليفة
+",000,False,000,False,False,False,2,34
+"### || باب خارجة
+",000,False,000,False,False,False,2,52
+"### | باب الدال
+",000,False,000,False,False,False,1,47
+"### | باب الذال
+",000,False,000,False,False,False,1,68
+"### | باب الراء
+",000,False,000,False,False,False,1,181
+"### || باب روح
+",000,False,000,False,False,False,2,68
+"### || باب جامع ms20
+",000,False,000,False,False,False,2,42
+"### | باب الزاي
+",000,False,000,False,False,False,1,148
+"### | باب السين
+",000,False,000,False,False,False,1,658
+"### || باب سليمان
+",000,False,000,False,False,False,2,159
+"### || باب جامع
+",000,False,000,False,False,False,2,228
+"### | باب الشين
+",000,False,000,False,False,False,1,96
+"### | باب الصاد
+",000,False,000,False,False,False,1,172
+"### | باب الطاء
+",000,False,000,False,False,False,1,173
+"### | باب العين
+",000,False,000,False,False,False,1,2659
+"### || باب عبد الله
+",000,False,000,False,False,False,2,522
+"### || باب عبد الرحمن
+",000,False,000,False,False,False,2,315
+"### || باب عبيد الله
+",000,False,000,False,False,False,2,107
+"### || باب عبد الملك
+",000,False,000,False,False,False,2,88
+"### || 
+",000,False,000,False,False,False,2,16
+"### || باب عبد العزيز
+",000,False,000,False,False,False,2,88
+"### || ""باب عباد"":
+",000,False,000,False,False,False,2,36
+"### || باب عبد الواحد
+",000,False,000,False,False,False,2,71
+"### || باب عبد الأعلى
+",000,False,000,False,False,False,2,58
+"### || باب عبد الوهاب
+",000,False,000,False,False,False,2,48
+"### || 
+",000,False,000,False,False,False,2,25
+"### || باب عبد الصمد
+",000,False,000,False,False,False,2,29
+"### || باب جامع
+",000,False,000,False,False,False,2,188
+"### || باب عمر
+",000,False,000,False,False,False,2,136
+"### || باب عثمان
+",000,False,000,False,False,False,2,53
+"### || باب علي
+",000,False,000,False,False,False,2,86
+"### || باب عمرو
+",000,False,000,False,False,False,2,213
+"### || باب عيسى
+",000,False,000,False,False,False,2,120
+"### || باب عمران
+",000,False,000,False,False,False,2,97
+"### || باب عقبة وعامر
+",000,False,000,False,False,False,2,46
+"### || باب عطاء
+",000,False,000,False,False,False,2,221
+"### || باب عاصم
+",000,False,000,False,False,False,2,41
+"### || باب جامع
+",000,False,000,False,False,False,2,187
+"### | باب الغين
+",000,False,000,False,False,False,1,79
+"### | باب الفاء
+",000,False,000,False,False,False,1,129
+"### | باب القاف
+",000,False,000,False,False,False,1,124
+"### | باب الكاف
+",000,False,000,False,False,False,1,83
+"### | باب الميم
+",000,False,000,False,False,False,1,1168
+"### || باب مسلم
+",000,False,000,False,False,False,2,37
+"### || باب موسى
+",000,False,000,False,False,False,2,84
+"### || باب مغيرة
+",000,False,000,False,False,False,2,46
+"### || 
+",000,False,000,False,False,False,2,428
+"### | باب النون
+",000,False,000,False,False,False,1,319
+"### | باب الواو
+",000,False,000,False,False,False,1,103
+"### | باب الهاء
+",000,False,000,False,False,False,1,59
+"### | باب الياء
+",000,False,000,False,False,False,1,419
+"### | 
+",000,False,000,False,False,False,1,118

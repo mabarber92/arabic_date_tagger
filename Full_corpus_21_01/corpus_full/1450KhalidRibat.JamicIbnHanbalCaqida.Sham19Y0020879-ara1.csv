@@ -1,0 +1,429 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO كتاب عقيدة أهل السنة والجماعة إجمالا
+",000,year,000,False,False,False,1,6774
+"### | AUTO كتاب الإيمان
+",000,False,000,False,False,False,1,39524
+"### || AUTO 2 - باب الإيمان قول وعمل
+",000,False,000,False,False,False,2,1749
+"### || AUTO 3 - باب: الإيمان خوف ورجاء
+",000,False,000,False,False,False,2,706
+"### || AUTO 4 - باب: الإيمان يزيد وينقص، ومعنى ذلك
+",000,False,000,False,False,False,2,1790
+"### || AUTO 5 - باب: تفاضل أهل الإيمان
+",000,False,000,False,False,False,2,850
+"### || AUTO 6 - باب: التفريق بين الإسلام والإيمان
+",000,False,000,False,False,False,2,1124
+"### || AUTO 7 - باب: فضل التوحيد، والخوف من الشر
+",000,False,000,False,False,False,2,576
+"### || AUTO 8 - الإيمان ذو شعب، والحياء شعبة منه
+",000,False,000,False,False,False,2,403
+"### || AUTO 9 - باب: أركان الإسلام من الإيمان
+",000,False,000,False,False,False,2,1449
+"### || AUTO 10 - باب: حكم تارك الصلاة
+",000,False,000,False,False,False,2,2176
+"### || AUTO 11 - حكم تارك الزكاة والحج
+",000,False,000,False,False,False,2,499
+"### || AUTO 12 - أعمال القلوب من الإيمان
+",000,False,000,False,False,False,2,228
+"### || AUTO 13 - نفي الوسوسة محض الإيمان
+",000,False,000,False,False,False,2,142
+"### || AUTO 14 - الطهور وذكر الله من الإيمان
+",000,False,000,False,False,False,2,345
+"### || AUTO 15 - حسن الخلق من كمال الإيمان
+",000,False,000,False,False,False,2,164
+"### || AUTO 16 - باب: حلاوة الإيمان
+",000,False,000,False,False,False,2,344
+"### || AUTO 17 - باب الحب في الله والبغض في الله
+",000,False,000,False,False,False,2,584
+"### || AUTO 18 - باب: صفات المؤمن
+",000,False,000,False,False,False,2,356
+"### || AUTO 19 - الكافر إذا أسلم يؤمر بالاغتسال
+",000,False,000,False,False,False,2,337
+"### || AUTO 20 - طاعات أخرى داخلة في مسمى الإيمان وتزيده
+",000,False,000,False,False,False,2,1270
+"### || AUTO 21 - الطيرة من الشرك
+",000,False,000,False,False,False,2,344
+"### || AUTO 22 - ما جاء في الرقى والتمائم
+",000,False,000,False,False,False,2,363
+"### || AUTO 23 - ما جاء في العرافة والكهانة والسحر
+",000,False,000,False,False,False,2,578
+"### || AUTO 24 - سباب المسلم فسوق وقتاله كفر
+",000,False,000,False,False,False,2,1470
+"### || AUTO 25 - النهي عن الرغبة عن الآباء
+",000,False,000,False,False,False,2,418
+"### || AUTO 26 - قول الرجل لأخيه: يا كافر
+",000,False,000,False,False,False,2,500
+"### || AUTO 27 - إثم شارب الخمر والمنان والعاق والمتكبر
+",000,False,000,False,False,False,2,1047
+"### || AUTO 28 - ما جاء في الخيانة والكذب
+",000,False,000,False,False,False,2,287
+"### || AUTO 29 - الحلف بغير الله
+",000,False,000,False,False,False,2,265
+"### || AUTO 30 - قول النبي -صلى الله عليه وسلم-: ليس منا من فعل كذا
+",000,False,000,False,False,False,2,1076
+"### || AUTO 31 - النهي عن المدح الكاذب
+",000,False,000,False,False,False,2,315
+"### || AUTO 32 - النهي عن مشابهة الكفار وأهل الكتاب
+",000,False,000,False,False,False,2,392
+"### || AUTO 33 - ما جاء في الأمانة والعهد
+",000,False,000,False,False,False,2,420
+"### || AUTO 34 - المعاصي تنافي كمال الإيمان وإطلاق لفظ الكفر وغيره عليها
+",000,False,000,False,False,False,2,2613
+"### || AUTO 35 - باب: من دخل النار من أهل القبلة لا يخلد فيلها
+",000,False,000,False,False,False,2,312
+"### || AUTO 36 - باب: بيان المنافقين وصفاتهم
+",000,False,000,False,False,False,2,1915
+"### || AUTO 37 - باب: في أن من فعل ذنبا فارقه الإيمان، فإن تاب عاوده الإيمان
+",000,False,000,False,False,False,2,504
+"### || AUTO 38 - باب في أن من الكفر كفرا غير مخرج من الملة وكذلك الظلم والفسق
+",000,False,000,False,False,False,2,1209
+"### || AUTO 39 - باب الرجل يسأل: أمؤمن أنت؟ وكراهية المسألة في ذلك
+",000,False,000,False,False,False,2,973
+"### || AUTO 40 - باب: الاستثناء في الإيمان
+",000,False,000,False,False,False,2,2940
+"### || AUTO 41 - باب: فتنة المرجئة وإحداثهم ذلك وأول من تكلم فيه
+",000,False,000,False,False,False,2,1619
+"### || AUTO 42 - باب: ذكر المرجئة من هم؟ وأقوالهم
+",000,False,000,False,False,False,2,1711
+"### || AUTO 43 - باب: لم سمي المرجئة بهذا الاسم؟
+",000,False,000,False,False,False,2,66
+"### || AUTO 44 - باب: بدء الإيمان كيف كان، والرد على المرجئة
+",000,False,000,False,False,False,2,460
+"### || AUTO 45 - باب: مجانبة المرجئة
+",000,False,000,False,False,False,2,381
+"### || AUTO 46 - باب: الصلاة خلف المرجئة
+",000,False,000,False,False,False,2,140
+"### || AUTO 47 - باب: مناكحة المرجئة
+",000,False,000,False,False,False,2,68
+"### || AUTO 48 - باب: ذم المرجئة
+",000,False,000,False,False,False,2,159
+"### || AUTO 49 - ذم أهل البدع والأهواء والأمر بمجانبتهم
+",000,False,000,False,False,False,2,896
+"### || AUTO 50 - النهي عن مناظرة أهل البدع
+",000,False,000,False,False,False,2,454
+"### || AUTO 51 - التحذير من أهل البدع
+",000,False,000,False,False,False,2,500
+"### || AUTO 52 - حبس أهل البدع
+",000,False,000,False,False,False,2,34
+"### | AUTO كتاب الصفات
+",000,False,000,False,False,False,1,16345
+"### || AUTO 53 - باب: ما جاء في اتصاف الله عز وجل بالعزة والعظمة والكبرياء
+",000,False,000,False,False,False,2,93
+"### || AUTO 54 - باب ما جاء في قوله تعالى: {لا تأخذه سنة ولا نوم}
+",000,year,000,False,False,False,2,92
+"### || AUTO 55 - باب: الله الطبيب
+",000,False,000,False,False,False,2,77
+"### || AUTO 56 - باب: السلام من أسماء الله
+",000,False,000,False,False,False,2,46
+"### || AUTO 57 - باب إثبات صفة العلو والفوقية والاستواء على العرش وأنه سبحانه في السماء، وإثبات الكرسي
+",000,False,000,False,False,False,2,1693
+"### || AUTO 58 - باب: ""إثبات صفة النزول لله تعالى إلى سماء الدنيا
+",000,False,000,False,False,False,2,1185
+"### || AUTO 59 - باب: إثبات السمع والبصر
+",000,False,000,False,False,False,2,349
+"### || AUTO 60 - باب: إثبات الإتيان والمجيء
+",000,False,000,False,False,False,2,135
+"### || AUTO 61 - فصل: مناظرة الإمام للجهمية في إثبات الكلام
+",000,False,000,False,False,False,2,764
+"### || AUTO 62 - فصل: إثبات صفة الكلام لله تعالى
+",000,False,000,False,False,False,2,1265
+"### || AUTO 63 - باب: المعية
+",000,False,000,False,False,False,2,1406
+"### || AUTO 64 - باب: إثبات صفة الضحك
+",000,False,000,False,False,False,2,266
+"### || AUTO 65 - ما جاء في وطأة الله ""وجا""
+",000,False,000,False,False,False,2,124
+"### || AUTO 66 - باب: إن الله خلق آدم على صورته
+",000,False,000,False,False,False,2,912
+"### || AUTO 67 - باب: النهي عن سب الدهر
+",000,False,000,False,False,False,2,100
+"### || AUTO 68 - باب: إثبات الوجه ونعت الحجاب
+",000,False,000,False,False,False,2,108
+"### || AUTO 69 - باب: إثبات الحقو
+",000,False,000,False,False,False,2,104
+"### || AUTO 70 - باب: إثبات العينين
+",000,False,000,False,False,False,2,90
+"### || AUTO 71 - باب: إثبات الذراعين والصدر
+",000,False,000,False,False,False,2,41
+"### || AUTO 72 - باب: إثبات الباع
+",000,False,000,False,False,False,2,44
+"### || AUTO 73 - باب: إثبات اليدين
+",000,False,000,False,False,False,2,565
+"### || AUTO 74 - باب: إثبات اليمين
+",000,False,000,False,False,False,2,94
+"### || AUTO 75 - باب: إثبات الأصابع
+",000,False,000,False,False,False,2,662
+"### || AUTO 76 - باب: إثبات القدم
+",000,False,000,False,False,False,2,153
+"### || AUTO 77 - باب: الرؤية
+",000,False,000,False,False,False,2,337
+"### || AUTO 78 - فصل: إثبات رؤية المؤمنين لربهم يوم القيامة
+",000,False,000,False,False,False,2,3040
+"### || AUTO 79 - فصل هل رأى النبي -صلى الله عليه وسلم- ربه في الدنيا؟
+",000,False,000,False,False,False,2,1301
+"### || AUTO 80 - باب جامع في صفات الله تعالى وتنزيهه
+",000,False,000,False,False,False,2,1296
+"### | AUTO كتاب: القرآن كلام الله والرد على الجهمية
+",000,False,000,False,False,False,1,53309
+"### || AUTO 81 - باب: القرآن كلام الله
+",000,False,000,False,False,False,2,2486
+"### || AUTO 82 - باب: القرآن يحفظ في قلوب الرجال
+",000,False,000,False,False,False,2,253
+"### || AUTO 83 - باب: النهي عن المراء في القرآن
+",000,False,000,False,False,False,2,897
+"### || AUTO 84 - فصل: مبشرات المحنة
+",000,False,000,False,False,False,2,725
+"### || AUTO 85 - فصل: محنة الإمام مع المأمون
+",000,False,000,False,False,False,2,2784
+"### || AUTO 86 - فصل: محنة الإمام مع المعتصم
+",000,False,000,False,False,False,2,7237
+"### || AUTO 87 - فصل: خروج الإمام من دار المعتصم
+",000,False,000,False,False,False,2,2151
+"### || AUTO 88 - فصل: قصة الإمام مع الواثق
+",000,False,000,False,False,False,2,185
+"### || AUTO 89 - فصل: رسالة المتوكل إلى الإمام وجواب الإمام إليه
+",000,False,000,False,False,False,2,1087
+"### || AUTO 90 - فصل: ذكر أناس من الجهمية وأخبارهم
+",000,False,000,False,False,False,2,1498
+"### || AUTO 91 - فصل: مقالة الجهمية
+",000,False,000,False,False,False,2,260
+"### || AUTO 92 - فصل: فرق الجهمية
+",000,False,000,False,False,False,2,607
+"### || AUTO 93 - فصل: الواقفة والرد عليهم
+",000,False,000,False,False,False,2,2180
+"### || AUTO 94 - فصل: مجانبة الواقفة
+",000,False,000,False,False,False,2,653
+"### || AUTO 95 - فصل: اللفظية وحكم الإمام فيهم
+",000,False,000,False,False,False,2,9340
+"### || AUTO 96 - فصل: ذكر من قال: القرآن محدث
+",000,False,000,False,False,False,2,107
+"### || AUTO 97 - فصل: مناظرة الجهمية
+",000,False,000,False,False,False,2,4971
+"### || AUTO 98 - فصل آخر في الرد على الجهمية
+",000,False,000,False,False,False,2,9645
+"### || AUTO 99 - فصل: حكم الجهمية
+",000,False,000,False,False,False,2,4951
+"### || AUTO 100 - فصل: مجانبة الجهمية
+",000,False,000,False,False,False,2,1284
+"### | AUTO كتاب الإيمان بنبوة محمد -صلى الله عليه وسلم-
+",000,False,000,False,False,False,1,5243
+"### || AUTO 101 - باب: نسب النبي -صلى الله عليه وسلم-
+",000,False,000,False,False,False,2,1379
+"### || AUTO 102 - باب: فضائل النبي -صلى الله عليه وسلم-
+",000,False,000,False,False,False,2,885
+"### || AUTO 103 - باب: خصائص النبي -صلى الله عليه وسلم-
+",000,False,000,False,False,False,2,260
+"### || AUTO 104 - باب: محو الأشعار التي تنقص من قدر النبي -صلى الله عليه وسلم-
+",000,False,000,False,False,False,2,134
+"### || AUTO 105 - باب: وجوب محبته -صلى الله عليه وسلم-
+",000,False,000,False,False,False,2,153
+"### || AUTO 106 - باب: وجوب طاعته صلى الله عليه وسلم
+",000,False,000,False,False,False,2,817
+"### || AUTO 107 - باب: الإسراء والمعراج
+",000,False,000,False,False,False,2,166
+"### || AUTO 108 - باب: المقام المحمود
+",000,False,000,False,False,False,2,278
+"### || AUTO 109 - باب: هل يجوز التبرك بآثار النبي -صلى الله عليه وسلم-
+",000,False,000,False,False,False,2,500
+"### || AUTO 110 - باب: فضل أمة محمد صلى الله عليه وسلم
+",000,False,000,False,False,False,2,104
+"### || AUTO 111 - هل اليهود والنصارى والمجوس من أمة محمد -صلى الله عليه وسلم-؟
+",000,False,000,False,False,False,2,558
+"### | AUTO كتاب القدر
+",000,False,000,False,False,False,1,16033
+"### || AUTO 112 - باب الإيمان بالقدر
+",000,False,000,False,False,False,2,1865
+"### || AUTO 113 - المرتبة الأولى: العلم
+",000,False,000,False,False,False,2,693
+"### || AUTO 114 - المرتبة الثانية: الكتابة
+",000,False,000,False,False,False,2,1443
+"### || AUTO 115 - المرتبة الثالثة: المشيئة
+",000,False,000,False,False,False,2,855
+"### || AUTO 116 - المرتبة الرابعة: الخلق
+",000,False,000,False,False,False,2,732
+"### || AUTO 117 - باب: الفطرة
+",000,False,000,False,False,False,2,824
+"### || CHECK 118 - باب الجبر على الإسلام وما يلزم للدخول فيه
+",000,False,000,False,False,False,2,1994
+"### || AUTO 119 - باب: ذراري المسلمين والمشركين ممن لم يبلغ الحنث
+",000,False,000,False,False,False,2,1149
+"### || AUTO 120 - باب: متى يقبل إسلام الصبي؟
+",000,False,000,False,False,False,2,623
+"### || AUTO 121 - باب: أفعال العباد مقدرة
+",000,False,000,False,False,False,2,1339
+"### || AUTO 122 - باب: المطالبة بالعمل
+",000,False,000,False,False,False,2,524
+"### || AUTO 123 - باب: الرد على الجبرية
+",000,False,000,False,False,False,2,561
+"### || AUTO 124 - باب: كراهية الخوض في القدر
+",000,False,000,False,False,False,2,328
+"### || AUTO 125 - باب: من هم القدرية؟
+",000,False,000,False,False,False,2,202
+"### || AUTO 126 - باب: الرد على القدرية
+",000,False,000,False,False,False,2,404
+"### || AUTO 127 - باب: رؤوس القدرية وأقوال العلماء فيهم
+",000,False,000,False,False,False,2,1057
+"### || AUTO 128 - باب: مجانبة القدرية
+",000,False,000,False,False,False,2,591
+"### || AUTO 129 - باب: ذم القدرية وحكم العلماء فيهم
+",000,False,000,False,False,False,2,846
+"### | AUTO كتاب الفتن وأشراط الساعة
+",000,False,000,False,False,False,1,2046
+"### || AUTO 130 - باب: الفتن والهجرة منها
+",000,False,000,False,False,False,2,684
+"### || AUTO 131 - باب: ما جاء في أشراط الساعة
+",000,False,000,False,False,False,2,1357
+"### | AUTO كتاب الإيمان باليوم الآخر
+",000,False,000,False,False,False,1,7140
+"### || AUTO 132 - باب من أحب لقاء الله
+",000,False,000,False,False,False,2,34
+"### || AUTO 133 - باب الأرواح من يقبضها؟ وأين تكون؟
+",000,False,000,False,False,False,2,235
+"### || AUTO 134 - باب الإيمان بالملائكة والشياطين
+",000,False,000,False,False,False,2,272
+"### || AUTO 135 - باب الإيمان بفتنة القبر ونعيمه وعذابه
+",000,False,000,False,False,False,2,4320
+"### || AUTO 136 - باب: يوم القيامة
+",000,False,000,False,False,False,2,280
+"### || AUTO 137 - باب الميزان
+",000,False,000,False,False,False,2,81
+"### || AUTO 138 - باب الصراط
+",000,False,000,False,False,False,2,126
+"### || AUTO 139 - باب القصاص يوم القيامة
+",000,False,000,False,False,False,2,46
+"### || AUTO 140 - باب في الشهادة على قوم بالجنة أو النار
+",000,False,000,False,False,False,2,92
+"### || AUTO 141 - باب الشفاعة
+",000,False,000,False,False,False,2,390
+"### || AUTO 142 - باب النار (أعاذنا الله منها)
+",000,False,000,False,False,False,2,485
+"### || AUTO 143 - باب: الشمس والقمر في النار يوم القيامة
+",000,False,000,False,False,False,2,129
+"### || AUTO 144 - فصل: الرد على من قال بفناء الجنة والنار
+",000,False,000,False,False,False,2,221
+"### || AUTO 145 - فصل: وصف الجنة
+",000,False,000,False,False,False,2,424
+"### | AUTO كتاب الصحابة
+",000,False,000,False,False,False,1,51807
+"### || AUTO 146 - باب: أفضل الصحابة والخلافة الراشدة
+",000,False,000,False,False,False,2,11483
+"### || AUTO 147 - باب: العشرة المبشرون بالجنة
+",000,False,000,False,False,False,2,2135
+"### || AUTO 148 - باب: مناقب الصحابة رضوان الله عليهم
+",000,False,000,False,False,False,2,396
+"### || AUTO 149 - مناقب أبي بكر -رضي الله عنه-
+",000,False,000,False,False,False,2,1355
+"### || AUTO 150 - مناقب عمر بن الخطاب -رضي الله عنه-
+",000,False,000,False,False,False,2,851
+"### || AUTO 151 - مناقب عثمان بن عفان -رضي الله عنه-
+",000,False,000,False,False,False,2,2186
+"### || AUTO 152 - مناقب على بن أبي طالب -رضي الله عنه-
+",000,False,000,False,False,False,2,4102
+"### || AUTO 153 - مناقب أبي عبيدة عامر بن الجراح -رضي الله عنه-
+",000,False,000,False,False,False,2,326
+"### || AUTO 154 - مناقب طلحة بن عبيد الله -رضي الله عنه-
+",000,False,000,False,False,False,2,687
+"### || AUTO 155 - مناقب الزبير بن العوام -رضي الله عنه-
+",000,False,000,False,False,False,2,575
+"### || AUTO 156 - مناقب عبد الرحمن بن عوف -رضي الله عنه-
+",000,False,000,False,False,False,2,670
+"### || AUTO 157 - مناقب سعد بن أبي وقاص -رضي الله عنه-
+",000,False,000,False,False,False,2,788
+"### || AUTO 158 - مناقب حمزة بن عبد المطلب -رضي الله عنه-
+",000,False,000,False,False,False,2,48
+"### || AUTO 159 - مناقب جعفر بن أبي طالب -رضي الله عنه-
+",000,False,000,False,False,False,2,290
+"### || AUTO 160 - مناقب زيد بن حارثة -رضي الله عنه-
+",000,False,000,False,False,False,2,242
+"### || AUTO 161 - مناقب سعد بن عبادة -رضي الله عنه-
+",000,False,000,False,False,False,2,40
+"### || AUTO 162 - مناقب سعد بن معاذ -رضي الله عنه-
+",000,False,000,False,False,False,2,402
+"### || AUTO 163 - مناقب بلال بن رباح -رضي الله عنه-
+",000,False,000,False,False,False,2,55
+"### || AUTO 164 - مناقب خالد بن الوليد -رضي الله عنه-
+",000,False,000,False,False,False,2,289
+"### || AUTO 165 - مناقب المقداد بن عمرو -رضي الله عنه-
+",000,False,000,False,False,False,2,37
+"### || AUTO 166 - مناقب عمار بن ياسر -رضي الله عنه-
+",000,False,000,False,False,False,2,295
+"### || AUTO 167 - مناقب معاذ بن جبل
+",000,False,000,False,False,False,2,39
+"### || AUTO 168 - مناقب عبد الله بن مسعود -رضي الله عنه-
+",000,False,000,False,False,False,2,548
+"### || AUTO 169 - مناقب صهيب بن سنان الرومي -رضي الله عنه-
+",000,False,000,False,False,False,2,79
+"### || AUTO 170 - مناقب العباس بن عبد المطلب -رضي الله عنه-
+",000,False,000,False,False,False,2,353
+"### || AUTO 171 - مناقب أبي موسى الأشعري -رضي الله عنه-
+",000,False,000,False,False,False,2,69
+"### || AUTO 172 - مناقب عمرو بن العاص -رضي الله عنه-
+",000,False,000,False,False,False,2,213
+"### || AUTO 173 - مناقب معاوية بن أبي سفيان -رضي الله عنه-
+",000,False,000,False,False,False,2,1341
+"### || AUTO 174 - مناقب عدي بن حاتم -رضي الله عنه-
+",000,False,000,False,False,False,2,43
+"### || AUTO 175 - مناقب فرات بن حيان -رضي الله عنه-
+",000,False,000,False,False,False,2,40
+"### || AUTO 176 - مناقب عبد الله بن عمر رضي الله عنهما
+",000,False,000,False,False,False,2,222
+"### || AUTO 177 - مناقب أنس بن مالك -رضي الله عنه-
+",000,False,000,False,False,False,2,100
+"### || AUTO 178 - مناقب الحسن والحسين رضي الله عنهما
+",000,False,000,False,False,False,2,582
+"### || AUTO 179 - مناقب عبد الله بن عباس رضي الله عنهما
+",000,False,000,False,False,False,2,2098
+"### || AUTO 180 - مناقب خديجة بنت خويلد رضي الله عنها
+",000,False,000,False,False,False,2,219
+"### || AUTO 181 - مناقب فاطمة بنت رسول الله -صلى الله عليه وسلم-
+",000,False,000,False,False,False,2,640
+"### || AUTO 182 - مناقب عائشة أم المؤمنين رضي الله عنها
+",000,False,000,False,False,False,2,841
+"### || AUTO 183 - مناقب الغميصاء -رضي الله عنها-
+",000,False,000,False,False,False,2,65
+"### || AUTO 184 - باب: مناقب الأنصار -رضي الله عنهم-
+",000,False,000,False,False,False,2,690
+"### || AUTO 185 - باب: فضائل العرب
+",000,False,000,False,False,False,2,397
+"### || AUTO 186 - باب: فضائل بني أسد
+",000,False,000,False,False,False,2,214
+"### || AUTO 187 - باب: فضائل أهل اليمن
+",000,False,000,False,False,False,2,551
+"### || AUTO 188 - باب: فضائل قريش
+",000,False,000,False,False,False,2,32
+"### || AUTO 189 - فضائل المدينة
+",000,False,000,False,False,False,2,41
+"### || AUTO 190 - باب: فضائل أحمس
+",000,False,000,False,False,False,2,408
+"### ||| AUTO باب: فضائل بني ناجية
+",000,False,000,False,False,False,3,64
+"### ||| AUTO باب: فضائل بنانة
+",000,False,000,False,False,False,3,43
+"### ||| AUTO باب: فضائل ثقيف
+",000,False,000,False,False,False,3,118
+"### ||| AUTO باب: فضائل أسلم وغفار
+",000,False,000,False,False,False,3,68
+"### || AUTO 191 - باب: فضائل الشام
+",000,False,000,False,False,False,2,636
+"### || AUTO 192 - باب: النهي عن سب الصحابة، والبراءة ممن تبرأ منهم، وعدم الخوض فيما شجر بينهم.
+",000,False,000,False,False,False,2,3220
+"### || AUTO 193 - باب: التغليظ على من كتب الأحاديث التي فيها طعن على أصحاب رسول الله -صلى الله عليه وسلم-
+",000,False,000,False,False,False,2,2058
+"### || AUTO 194 - باب: في ذكر صفين والجمل
+",000,False,000,False,False,False,2,1171
+"### || AUTO 195 - باب: ذكر الروافض ومساوئهم
+",000,False,000,False,False,False,2,885
+"### || AUTO 196 - باب: الرد على الروافض في أن النبي -صلى الله عليه وسلم- أوصى لعلي
+",000,False,000,False,False,False,2,1024
+"### || AUTO 197 - باب: ذكر الخوارج وعلامتهم وقتالهم ووعيد الله فيهم
+",000,False,000,False,False,False,2,3684
+"### || AUTO 198 - باب: حكم الأموال والسبايا في الحرب بين المسلمين والخوارج
+",000,False,000,False,False,False,2,1193
+"### || AUTO 199 - باب: ذكر الفتن في بني أمية
+",000,False,000,False,False,False,2,856
+"### | AUTO أخطاء طباعية واستدراكات
+",000,False,000,False,False,False,1,47116
+"### || AUTO المجلد الثالث
+",000,False,000,False,False,False,2,47
+"### || AUTO المجلد الرابع
+",000,False,000,False,False,False,2,47059

@@ -1,0 +1,55 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK [معجم رجال الاعتبار]
+",000,False,000,False,False,False,1,95359
+"### || AUTO مقدمة المؤلف
+",000,False,000,False,False,False,2,182
+"### || AUTO حرف الألف
+",000,False,000,False,False,False,2,10334
+"### || AUTO حرف الباء
+",000,False,000,False,False,False,2,1881
+"### || AUTO (حرف التاء)
+",000,False,000,False,False,False,2,184
+"### || AUTO (حرف الثاء)
+",000,False,000,False,False,False,2,612
+"### || AUTO (حرف الجيم)
+",000,False,000,False,False,False,2,1950
+"### || AUTO حرف الحاء
+",000,False,000,False,False,False,2,6107
+"### || AUTO (حرف الخاء)
+",000,False,000,False,False,False,2,1045
+"### || AUTO (حرف الدال)
+",000,False,000,False,False,False,2,753
+"### || AUTO حرف الراء
+",000,False,000,False,False,False,2,655
+"### || AUTO (حرف الزاي)
+",000,False,000,False,False,False,2,1579
+"### || AUTO حرف السين
+",000,False,000,False,False,False,2,6053
+"### || AUTO حرف الشين
+",000,False,000,False,False,False,2,1233
+"### || AUTO حرف الصاد
+",000,False,000,False,False,False,2,812
+"### || AUTO حرف الضاد
+",000,False,000,False,False,False,2,592
+"### || AUTO حرف الطاء
+",000,False,000,False,False,False,2,602
+"### || AUTO ### || AUTO حرف الظاء
+",000,False,000,False,False,False,2,93
+"### || AUTO حرف العين
+",000,False,000,False,False,False,2,21515
+"### || AUTO حرف الفاء
+",000,False,000,False,False,False,2,1055
+"### || AUTO حرف القاف
+",000,False,000,False,False,False,2,1915
+"### || AUTO حرف الكاف
+",000,False,000,False,False,False,2,1118
+"### || AUTO حرف اللام
+",000,False,000,False,False,False,2,476
+"### || AUTO حرف الميم
+",000,False,000,False,False,False,2,16686
+"### || AUTO حرف الهاء
+",000,False,000,False,False,False,2,2357
+"### || AUTO حرف الواو
+",000,False,000,False,False,False,2,1355
+"### || AUTO حرف الياء
+",000,False,000,False,False,False,2,14187

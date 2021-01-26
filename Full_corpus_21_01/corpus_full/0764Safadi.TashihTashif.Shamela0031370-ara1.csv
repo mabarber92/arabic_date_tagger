@@ -1,0 +1,207 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | المقدمة
+",000,False,000,False,False,False,1,2
+"### | بسم الله الرحمن الرحيم
+",000,False,000,False,False,False,1,1499
+"### | ..... 
+",000,False,000,False,False,False,1,323
+"### | .... 
+",000,False,000,False,False,False,1,3592
+"### | ............ 
+",000,False,000,False,False,False,1,2373
+"### | الهمزة والألف بعدها
+",000,False,000,False,False,False,1,235
+"### | الهمزة والباء الموحدة
+",000,False,000,False,False,False,1,1074
+"### | الهمزة والتاء المثناة من فوق
+",000,False,000,False,False,False,1,148
+"### | ............ 
+",000,False,000,False,False,False,1,58
+"### | الهمزة والثاء المثلثة
+",000,False,000,False,False,False,1,288
+"### | الهمزة والجيم
+",000,False,000,False,False,False,1,319
+"### | الهمزة والحاء المهملة
+",000,False,000,False,False,False,1,150
+"### | الهمزة والخاء
+",000,False,000,False,False,False,1,370
+"### | الهمزة والدال المهملة
+",000,False,000,False,False,False,1,155
+"### | الهمزة والذال المعجمة
+",000,False,000,False,False,False,1,140
+"### | الهمزة والراء
+",000,False,000,False,False,False,1,640
+"### | الهمزة والزاي
+",000,False,000,False,False,False,1,267
+"### | الهمزة والسين المهملة
+",000,False,000,False,False,False,1,78
+"### | ............ 
+",000,False,000,False,False,False,1,297
+"### | الهمزة والشين المعجمة
+",000,False,000,False,False,False,1,469
+"### | الهمزة والصاد المهملة
+",000,False,000,False,False,False,1,206
+"### | الهمزة والضاد المعجمة
+",000,False,000,False,False,False,1,43
+"### | الهمزة والطاء المهملة
+",000,False,000,False,False,False,1,93
+"### | الهمزة والظاء المعجمة
+",000,False,000,False,False,False,1,17
+"### | الهمزة والعين المهملة
+",000,False,000,False,False,False,1,185
+"### | الهمزة والغين المعجمة
+",000,False,000,False,False,False,1,42
+"### | الهمزة والفاء
+",000,False,000,False,False,False,1,261
+"### | الهمزة والقاف
+",000,False,000,False,False,False,1,198
+"### | الهمزة والكاف
+",000,False,000,False,False,False,1,98
+"### | الهمزة واللام
+",000,False,000,False,False,False,1,238
+"### | ............ 
+",000,False,000,False,False,False,1,29
+"### | الهمزة والميم
+",000,False,000,False,False,False,1,242
+"### | الهمزة والنون
+",000,False,000,False,False,False,1,584
+"### | .... 
+",000,False,000,False,False,False,1,215
+"### | ............ 
+",000,False,000,False,False,False,1,133
+"### | الهمزة والهاء
+",000,False,000,False,False,False,1,46
+"### | الهمزة والواو
+",000,False,000,False,False,False,1,295
+"### | الهمزة والياء
+",000,False,000,False,False,False,1,4
+"### | آخر الحروف
+",000,False,000,False,False,False,1,323
+"### | حرف الباء الموحدة
+",000,False,000,False,False,False,1,1809
+"### | ............ 
+",000,False,000,False,False,False,1,12
+"### | ......... 
+",000,False,000,False,False,False,1,1687
+"### | حرف التاء المثناة من فوق
+",000,False,000,False,False,False,1,640
+"### | ............ 
+",000,False,000,False,False,False,1,15
+"### | ......... 
+",000,False,000,False,False,False,1,238
+"### | ............ 
+",000,False,000,False,False,False,1,1173
+"### | حرف الثاء المثلثة
+",000,False,000,False,False,False,1,594
+"### | حرف الجيم
+",000,False,000,False,False,False,1,1598
+"### | حرف الحاء المهملة
+",000,False,000,False,False,False,1,154
+"### | ............ 
+",000,False,000,False,False,False,1,12
+"### | ............ 
+",000,False,000,False,False,False,1,1632
+"### | حرف الخاء المعجمة
+",000,False,000,False,False,False,1,1440
+"### | ............ 
+",000,False,000,False,False,False,1,50
+"### | حرف الدال المهملة
+",000,False,000,False,False,False,1,149
+"### | ............ 
+",000,False,000,False,False,False,1,408
+"### | ............ 
+",000,False,000,False,False,False,1,1006
+"### | حرف الذال المعجمة
+",000,False,000,False,False,False,1,812
+"### | حرف الراء
+",000,False,000,False,False,False,1,909
+"### | .... 
+",000,False,000,False,False,False,1,821
+"### | حرف الزاي
+",000,False,000,False,False,False,1,570
+"### | حرف السين المهملة
+",000,False,000,False,False,False,1,2754
+"### | حرف الشين المعجمة
+",000,False,000,False,False,False,1,231
+"### | ............ 
+",000,False,000,False,False,False,1,73
+"### | ............ 
+",000,False,000,False,False,False,1,106
+"### | ............ 
+",000,False,000,False,False,False,1,328
+"### | ............ 
+",000,False,000,False,False,False,1,1062
+"### | حرف الصاد المهملة
+",000,False,000,False,False,False,1,912
+"### | حرف الضاد المعجمة
+",000,False,000,False,False,False,1,13
+"### | ............ 
+",000,False,000,False,False,False,1,796
+"### | حرف الطاء المهملة
+",000,False,000,False,False,False,1,711
+"### | حرف الظاء المعجمة
+",000,False,000,False,False,False,1,206
+"### | حرف العين المهملة
+",000,False,000,False,False,False,1,2097
+"### | حرف الغين المعجمة
+",000,False,000,False,False,False,1,629
+"### | ............ 
+",000,False,000,False,False,False,1,224
+"### | ............ 
+",000,False,000,False,False,False,1,72
+"### | حرف الفاء
+",000,False,000,False,False,False,1,160
+"### | ............ 
+",000,False,000,False,False,False,1,265
+"### | ............ 
+",000,False,000,False,False,False,1,465
+"### | ............ 
+",000,False,000,False,False,False,1,92
+"### | حرف القاف
+",000,False,000,False,False,False,1,610
+"### | ............ 
+",000,False,000,False,False,False,1,1503
+"### | حرف الكاف
+",000,False,000,False,False,False,1,484
+"### | ............ 
+",000,False,000,False,False,False,1,1063
+"### | حرف اللام
+",000,False,000,False,False,False,1,221
+"### | ............ 
+",000,False,000,False,False,False,1,718
+"### | حرف الميم
+",000,False,000,False,False,False,1,886
+"### | ............ 
+",000,False,000,False,False,False,1,558
+"### | ............ 
+",000,False,000,False,False,False,1,867
+"### | ............ 
+",000,False,000,False,False,False,1,144
+"### | ............ 
+",000,False,000,False,False,False,1,42
+"### | ............ 
+",000,False,000,False,False,False,1,1314
+"### | ............ 
+",000,False,000,False,False,False,1,832
+"### | حرف النون
+",000,False,000,False,False,False,1,1890
+"### | حرف الهاء
+",000,False,000,False,False,False,1,271
+"### | ............ 
+",000,False,000,False,False,False,1,664
+"### | حرف الواو
+",000,False,000,False,False,False,1,361
+"### | ............ 
+",000,False,000,False,False,False,1,19
+"### | ............ 
+",000,False,000,False,False,False,1,569
+"### | حرف الياء
+",000,False,000,False,False,False,1,4
+"### | آخر الحروف
+",000,False,000,False,False,False,1,1061
+"### | ........... 
+",000,False,000,False,False,False,1,31
+"### | ............ 
+",000,False,000,False,False,False,1,632
+"### | ............ 
+",000,False,000,False,False,False,1,285

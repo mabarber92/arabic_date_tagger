@@ -1,0 +1,1145 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | مقدمة المشرف
+",000,False,000,False,False,False,1,776
+"### || للتاريخ
+",000,False,000,False,False,False,2,84
+"### | مقدمة الطبعة الرابعة
+",000,False,000,False,False,False,1,120
+"### | مقدمة الطبعة الثالثة
+",000,False,000,False,False,False,1,267
+"### || من مزايا الطبعة الثالثة
+",000,False,000,False,False,False,2,57
+"### || تنبيه
+",000,False,000,False,False,False,2,76
+"### | مقدمة الطبعة الثانية
+",000,False,000,False,False,False,1,1601
+"### | مقدمة الطبعة الأولى 
+",000,False,000,False,False,False,1,895
+"### || إجمال
+",000,False,000,False,False,False,2,102
+"### || الاختيار
+",000,False,000,False,False,False,2,155
+"### || ترتيب الكتاب
+",000,False,000,False,False,False,2,131
+"### || الهجري والميلادي
+",000,False,000,False,False,False,2,90
+"### || وفيات الجاهليين
+",000,False,000,False,False,False,2,74
+"### || ذكر المصادر
+",000,False,000,False,False,False,2,64
+"### || الدعوة إلى نقده
+",000,False,000,False,False,False,2,138
+"### || رموز الكتاب
+",000,False,000,False,False,False,2,70
+"### | الأعلام
+",000,False,000,False,False,False,1,456347
+"### || حرف ms0013 الألف 
+",000,False,000,False,False,False,2,42172
+"### ||| أب
+",000,False,000,False,False,False,3,25152
+"### ||| ات
+",000,False,000,False,False,False,3,370
+"### ||| اث
+",000,False,000,False,False,False,3,78
+"### ||| اج
+",000,False,000,False,False,False,3,216
+"### ||| اح
+",000,False,000,False,False,False,3,15563
+"### || تابع حرف الالف
+",000,False,000,False,False,False,2,15722
+"### ||| اف
+",000,False,000,False,False,False,3,379
+"### ||| اق
+",000,False,000,False,False,False,3,11042
+"### ||| اه
+",000,False,000,False,False,False,3,1280
+"### ||| اي
+",000,False,000,False,False,False,3,3038
+"### || حرف الباء
+",000,False,000,False,False,False,2,20275
+"### ||| با
+",000,False,000,False,False,False,3,1601
+"### ||| بب
+",000,False,000,False,False,False,3,17
+"### ||| بت
+",000,False,000,False,False,False,3,150
+"### ||| بث
+",000,False,000,False,False,False,3,61
+"### ||| بج
+",000,False,000,False,False,False,3,192
+"### ||| بح
+",000,False,000,False,False,False,3,256
+"### ||| بخ
+",000,False,000,False,False,False,3,281
+"### ||| بد
+",000,False,000,False,False,False,3,901
+"### ||| بر
+",000,False,000,False,False,False,3,2194
+"### ||| بز
+",000,False,000,False,False,False,3,57
+"### ||| بس
+",000,False,000,False,False,False,3,554
+"### ||| بش
+",000,False,000,False,False,False,3,2563
+"### ||| بص
+",000,False,000,False,False,False,3,36
+"### ||| بط
+",000,False,000,False,False,False,3,679
+"### ||| بع
+",000,False,000,False,False,False,3,60
+"### ||| بغ
+",000,False,000,False,False,False,3,122
+"### ||| بق
+",000,False,000,False,False,False,3,214
+"### ||| بك
+",000,False,000,False,False,False,3,5661
+"### ||| بل
+",000,False,000,False,False,False,3,1418
+"### ||| بن
+",000,False,000,False,False,False,3,362
+"### ||| به
+",000,False,000,False,False,False,3,929
+"### ||| بو
+",000,False,000,False,False,False,3,899
+"### ||| بي
+",000,False,000,False,False,False,3,1193
+"### || حرف التاء
+",000,False,000,False,False,False,2,6660
+"### ||| تا
+",000,False,000,False,False,False,3,627
+"### ||| تب
+",000,False,000,False,False,False,3,156
+"### ||| تت
+",000,False,000,False,False,False,3,20
+"### ||| تج
+",000,False,000,False,False,False,3,122
+"### ||| تح
+",000,False,000,False,False,False,3,96
+"### ||| تر
+",000,False,000,False,False,False,3,334
+"### ||| تس
+",000,False,000,False,False,False,3,26
+"### ||| تش
+",000,False,000,False,False,False,3,302
+"### ||| تع
+",000,False,000,False,False,False,3,24
+"### ||| تغ
+",000,False,000,False,False,False,3,136
+"### ||| تف
+",000,False,000,False,False,False,3,11
+"### ||| تق
+",000,False,000,False,False,False,3,219
+"### ||| تك
+",000,False,000,False,False,False,3,55
+"### ||| تل
+",000,False,000,False,False,False,3,68
+"### ||| تم
+",000,False,000,False,False,False,3,1124
+"### ||| تن
+",000,False,000,False,False,False,3,227
+"### ||| ته
+",000,False,000,False,False,False,3,198
+"### ||| تو
+",000,False,000,False,False,False,3,2315
+"### ||| تي
+",000,False,000,False,False,False,3,698
+"### || حرف الثاء
+",000,False,000,False,False,False,2,3114
+"### ||| ثا
+",000,False,000,False,False,False,3,943
+"### ||| ثر
+",000,False,000,False,False,False,3,11
+"### ||| ثع
+",000,False,000,False,False,False,3,509
+"### ||| ثق
+",000,False,000,False,False,False,3,319
+"### ||| ثل
+",000,False,000,False,False,False,3,556
+"### ||| ثن
+",000,False,000,False,False,False,3,153
+"### ||| ثو
+",000,False,000,False,False,False,3,665
+"### || حرف الجيم
+",000,False,000,False,False,False,2,22230
+"### ||| جا
+",000,False,000,False,False,False,3,2385
+"### ||| جب
+",000,False,000,False,False,False,3,1771
+"### ||| جح
+",000,False,000,False,False,False,3,617
+"### ||| جد
+",000,False,000,False,False,False,3,231
+"### ||| جذ
+",000,False,000,False,False,False,3,327
+"### ||| جر
+",000,False,000,False,False,False,3,2042
+"### ||| جز
+",000,False,000,False,False,False,3,178
+"### ||| جس
+",000,False,000,False,False,False,3,228
+"### ||| جش
+",000,False,000,False,False,False,3,104
+"### ||| جص
+",000,False,000,False,False,False,3,11
+"### ||| جع
+",000,False,000,False,False,False,3,5200
+"### ||| جغ
+",000,False,000,False,False,False,3,18
+"### ||| جف
+",000,False,000,False,False,False,3,229
+"### ||| جق
+",000,False,000,False,False,False,3,233
+"### ||| جك
+",000,False,000,False,False,False,3,11
+"### ||| جل
+",000,False,000,False,False,False,3,796
+"### ||| جم
+",000,False,000,False,False,False,3,2439
+"### ||| جن
+",000,False,000,False,False,False,3,801
+"### ||| جه
+",000,False,000,False,False,False,3,511
+"### ||| جو
+",000,False,000,False,False,False,3,3288
+"### ||| جي
+",000,False,000,False,False,False,3,902
+"### || حرف الحاء
+",000,False,000,False,False,False,2,67302
+"### ||| حا
+",000,False,000,False,False,False,3,6211
+"### ||| حب
+",000,False,000,False,False,False,3,2290
+"### ||| حت
+",000,False,000,False,False,False,3,11
+"### ||| حج
+",000,False,000,False,False,False,3,1191
+"### ||| حد
+",000,False,000,False,False,False,3,276
+"### ||| حذ
+",000,False,000,False,False,False,3,584
+"### ||| حر
+",000,False,000,False,False,False,3,1551
+"### ||| حز
+",000,False,000,False,False,False,3,126
+"### ||| حس
+",000,False,000,False,False,False,3,40134
+"### ||| حش
+",000,False,000,False,False,False,3,39
+"### ||| حص
+",000,False,000,False,False,False,3,266
+"### ||| حض
+",000,False,000,False,False,False,3,315
+"### ||| حط
+",000,False,000,False,False,False,3,99
+"### ||| حظ
+",000,False,000,False,False,False,3,15
+"### ||| حف
+",000,False,000,False,False,False,3,1009
+"### ||| حق
+",000,False,000,False,False,False,3,277
+"### ||| حك
+",000,False,000,False,False,False,3,1782
+"### ||| حل
+",000,False,000,False,False,False,3,826
+"### ||| حم
+",000,False,000,False,False,False,3,8569
+"### ||| حو
+",000,False,000,False,False,False,3,503
+"### ||| حي
+",000,False,000,False,False,False,3,1336
+"### || حرف الخاء
+",000,False,000,False,False,False,2,16833
+"### ||| خا
+",000,False,000,False,False,False,3,4421
+"### ||| خب
+",000,False,000,False,False,False,3,126
+"### ||| خث
+",000,False,000,False,False,False,3,135
+"### ||| خج
+",000,False,000,False,False,False,3,13
+"### ||| خد
+",000,False,000,False,False,False,3,398
+"### ||| خذ
+",000,False,000,False,False,False,3,11
+"### ||| خر
+",000,False,000,False,False,False,3,518
+"### ||| خز
+",000,False,000,False,False,False,3,827
+"### ||| خس
+",000,False,000,False,False,False,3,95
+"### ||| خش
+",000,False,000,False,False,False,3,289
+"### ||| خص
+",000,False,000,False,False,False,3,825
+"### ||| خط
+",000,False,000,False,False,False,3,429
+"### ||| خف
+",000,False,000,False,False,False,3,277
+"### ||| خل
+",000,False,000,False,False,False,3,6155
+"### ||| خم
+",000,False,000,False,False,False,3,311
+"### ||| خو
+",000,False,000,False,False,False,3,587
+"### ||| خي
+",000,False,000,False,False,False,3,1502
+"### || حرف الدال
+",000,False,000,False,False,False,2,6082
+"### ||| دا
+",000,False,000,False,False,False,3,3625
+"### ||| دج
+",000,False,000,False,False,False,3,28
+"### ||| دح
+",000,False,000,False,False,False,3,151
+"### ||| دخ
+",000,False,000,False,False,False,3,126
+"### ||| در
+",000,False,000,False,False,False,3,792
+"### ||| دس
+",000,False,000,False,False,False,3,457
+"### ||| دغ
+",000,False,000,False,False,False,3,81
+"### ||| دف
+",000,False,000,False,False,False,3,20
+"### ||| دق
+",000,False,000,False,False,False,3,54
+"### ||| دك
+",000,False,000,False,False,False,3,115
+"### ||| دل
+",000,False,000,False,False,False,3,344
+"### ||| دم
+",000,False,000,False,False,False,3,87
+"### ||| دن
+",000,False,000,False,False,False,3,271
+"### || تابع حرف الدال
+",000,False,000,False,False,False,2,988
+"### ||| ده
+",000,False,000,False,False,False,3,353
+"### ||| دو
+",000,False,000,False,False,False,3,273
+"### ||| دي
+",000,False,000,False,False,False,3,380
+"### || حرف الذال
+",000,False,000,False,False,False,2,1117
+"### ||| ذا
+",000,False,000,False,False,False,3,13
+"### ||| ذب
+",000,False,000,False,False,False,3,138
+"### ||| ذر
+",000,False,000,False,False,False,3,19
+"### ||| ذك
+",000,False,000,False,False,False,3,68
+"### ||| ذم
+",000,False,000,False,False,False,3,13
+"### ||| ذه
+",000,False,000,False,False,False,3,229
+"### ||| ذو
+",000,False,000,False,False,False,3,487
+"### ||| ذي
+",000,False,000,False,False,False,3,199
+"### || حرف الراء
+",000,False,000,False,False,False,2,13975
+"### ||| را
+",000,False,000,False,False,False,3,1827
+"### ||| رب
+",000,False,000,False,False,False,3,2057
+"### ||| رج
+",000,False,000,False,False,False,3,251
+"### ||| رح
+",000,False,000,False,False,False,3,297
+"### ||| رخ
+",000,False,000,False,False,False,3,11
+"### ||| رد
+",000,False,000,False,False,False,3,62
+"### ||| رز
+",000,False,000,False,False,False,3,500
+"### ||| رس
+",000,False,000,False,False,False,3,373
+"### ||| رش
+",000,False,000,False,False,False,3,2436
+"### ||| رص
+",000,False,000,False,False,False,3,21
+"### ||| رض
+",000,False,000,False,False,False,3,776
+"### ||| رط
+",000,False,000,False,False,False,3,15
+"### ||| رع
+",000,False,000,False,False,False,3,206
+"### ||| رف
+",000,False,000,False,False,False,3,1104
+"### ||| رق
+",000,False,000,False,False,False,3,253
+"### ||| رك
+",000,False,000,False,False,False,3,75
+"### ||| رم
+",000,False,000,False,False,False,3,1100
+"### ||| رن
+",000,False,000,False,False,False,3,29
+"### ||| ره
+",000,False,000,False,False,False,3,20
+"### ||| رو
+",000,False,000,False,False,False,3,1476
+"### ||| رى
+",000,False,000,False,False,False,3,1194
+"### || حرف الزاى
+",000,False,000,False,False,False,2,13256
+"### ||| زا
+",000,False,000,False,False,False,3,291
+"### ||| زب
+",000,False,000,False,False,False,3,1366
+"### ||| زج
+",000,False,000,False,False,False,3,26
+"### ||| زر
+",000,False,000,False,False,False,3,566
+"### ||| زع
+",000,False,000,False,False,False,3,78
+"### ||| زغ
+",000,False,000,False,False,False,3,42
+"### ||| زغ
+",000,False,000,False,False,False,3,75
+"### ||| زف
+",000,False,000,False,False,False,3,157
+"### ||| زق
+",000,False,000,False,False,False,3,38
+"### ||| زك
+",000,False,000,False,False,False,3,1635
+"### ||| زل
+",000,False,000,False,False,False,3,16
+"### ||| زم
+",000,False,000,False,False,False,3,348
+"### ||| زن
+",000,False,000,False,False,False,3,453
+"### ||| زه
+",000,False,000,False,False,False,3,1148
+"### ||| زي
+",000,False,000,False,False,False,3,123
+"### ||| زو
+",000,False,000,False,False,False,3,69
+"### ||| زي
+",000,False,000,False,False,False,3,6930
+"### || حرف السين
+",000,False,000,False,False,False,2,53513
+"### ||| سا
+",000,False,000,False,False,False,3,3426
+"### ||| سب
+",000,False,000,False,False,False,3,751
+"### ||| ست
+",000,False,000,False,False,False,3,438
+"### ||| سج
+",000,False,000,False,False,False,3,315
+"### ||| سح
+",000,False,000,False,False,False,3,396
+"### ||| سخ
+",000,False,000,False,False,False,3,32
+"### ||| سد
+",000,False,000,False,False,False,3,242
+"### ||| سر
+",000,False,000,False,False,False,3,1216
+"### ||| سط
+",000,False,000,False,False,False,3,17
+"### ||| سع
+",000,False,000,False,False,False,3,10800
+"### ||| سغ
+",000,False,000,False,False,False,3,16
+"### ||| سف
+",000,False,000,False,False,False,3,483
+"### ||| سق
+",000,False,000,False,False,False,3,103
+"### ||| سك
+",000,False,000,False,False,False,3,346
+"### ||| سل
+",000,False,000,False,False,False,3,14546
+"### ||| سم
+",000,False,000,False,False,False,3,1161
+"### ||| سن
+",000,False,000,False,False,False,3,727
+"### ||| سه
+",000,False,000,False,False,False,3,1095
+"### ||| سو
+",000,False,000,False,False,False,3,624
+"### ||| سي
+",000,False,000,False,False,False,3,240
+"### ||| سي
+",000,False,000,False,False,False,3,1899
+"### ||| شا
+",000,False,000,False,False,False,3,1403
+"### ||| شب
+",000,False,000,False,False,False,3,1459
+"### ||| شت
+",000,False,000,False,False,False,3,55
+"### ||| شج
+",000,False,000,False,False,False,3,492
+"### ||| شح
+",000,False,000,False,False,False,3,46
+"### ||| شخ
+",000,False,000,False,False,False,3,26
+"### ||| شد
+",000,False,000,False,False,False,3,245
+"### ||| شر
+",000,False,000,False,False,False,3,1978
+"### ||| شش
+",000,False,000,False,False,False,3,13
+"### ||| شط
+",000,False,000,False,False,False,3,61
+"### ||| شع
+",000,False,000,False,False,False,3,1671
+"### ||| شغ
+",000,False,000,False,False,False,3,204
+"### ||| شف
+",000,False,000,False,False,False,3,1245
+"### ||| شك
+",000,False,000,False,False,False,3,1619
+"### ||| شم
+",000,False,000,False,False,False,3,1106
+"### ||| شن
+",000,False,000,False,False,False,3,189
+"### ||| شه
+",000,False,000,False,False,False,3,822
+"### ||| شو
+",000,False,000,False,False,False,3,208
+"### ||| شي
+",000,False,000,False,False,False,3,2046
+"### || حرف الصاد
+",000,False,000,False,False,False,2,12044
+"### ||| صا
+",000,False,000,False,False,False,3,6134
+"### ||| صب
+",000,False,000,False,False,False,3,762
+"### ||| صح
+",000,False,000,False,False,False,3,95
+"### ||| صخ
+",000,False,000,False,False,False,3,447
+"### ||| صد
+",000,False,000,False,False,False,3,669
+"### ||| صر
+",000,False,000,False,False,False,3,351
+"### ||| صص
+",000,False,000,False,False,False,3,29
+"### ||| صع
+",000,False,000,False,False,False,3,608
+"### ||| صغ
+",000,False,000,False,False,False,3,18
+"### ||| صف
+",000,False,000,False,False,False,3,604
+"### ||| صق
+",000,False,000,False,False,False,3,102
+"### ||| صل
+",000,False,000,False,False,False,3,1270
+"### ||| صم
+",000,False,000,False,False,False,3,286
+"### ||| صن
+",000,False,000,False,False,False,3,160
+"### ||| صه
+",000,False,000,False,False,False,3,209
+"### ||| صو
+",000,False,000,False,False,False,3,76
+"### ||| صي
+",000,False,000,False,False,False,3,329
+"### || حرف الضاد
+",000,False,000,False,False,False,2,2142
+"### ||| ضا
+",000,False,000,False,False,False,3,466
+"### ||| ضب
+",000,False,000,False,False,False,3,415
+"### ||| ضج
+",000,False,000,False,False,False,3,79
+"### ||| ضح
+",000,False,000,False,False,False,3,527
+"### ||| ضر
+",000,False,000,False,False,False,3,270
+"### ||| ضف
+",000,False,000,False,False,False,3,13
+"### ||| ضم
+",000,False,000,False,False,False,3,170
+"### ||| ضن
+",000,False,000,False,False,False,3,27
+"### ||| ضو
+",000,False,000,False,False,False,3,11
+"### ||| ضي
+",000,False,000,False,False,False,3,209
+"### || حرف الطاء
+",000,False,000,False,False,False,2,4627
+"### ||| طأ
+",000,False,000,False,False,False,3,56
+"### ||| طا
+",000,False,000,False,False,False,3,3321
+"### ||| طب
+",000,False,000,False,False,False,3,238
+"### ||| طث
+",000,False,000,False,False,False,3,19
+"### ||| طح
+",000,False,000,False,False,False,3,48
+"### ||| طر
+",000,False,000,False,False,False,3,839
+"### ||| طس
+",000,False,000,False,False,False,3,149
+"### || طط
+",000,False,000,False,False,False,2,4148
+"### ||| طع
+",000,False,000,False,False,False,3,49
+"### ||| طغ
+",000,False,000,False,False,False,3,73
+"### ||| طف
+",000,False,000,False,False,False,3,1595
+"### ||| طم
+",000,False,000,False,False,False,3,9
+"### ||| طن
+",000,False,000,False,False,False,3,252
+"### ||| طه
+",000,False,000,False,False,False,3,931
+"### ||| طو
+",000,False,000,False,False,False,3,569
+"### ||| طي ms1302
+",000,False,000,False,False,False,3,569
+"### || حرف الظاء
+",000,False,000,False,False,False,2,1107
+"### ||| ظا
+",000,False,000,False,False,False,3,719
+"### ||| ظب
+",000,False,000,False,False,False,3,78
+"### ||| ظر
+",000,False,000,False,False,False,3,50
+"### ||| ظف
+",000,False,000,False,False,False,3,172
+"### ||| ظل
+",000,False,000,False,False,False,3,49
+"### ||| ظه
+",000,False,000,False,False,False,3,59
+"### ||| ظو
+",000,False,000,False,False,False,3,20
+"### || حرف العين
+",000,False,000,False,False,False,2,51518
+"### ||| عا
+",000,False,000,False,False,False,3,8174
+"### ||| عب
+",000,False,000,False,False,False,3,43353
+"### | الجزء الرابع
+",000,False,000,False,False,False,1,152973
+"### || تابع حرف العين
+",000,False,000,False,False,False,2,152964
+"### ||| تابع عب
+",000,False,000,False,False,False,3,90897
+"### ||| عت
+",000,False,000,False,False,False,3,1251
+"### ||| عث
+",000,False,000,False,False,False,3,6555
+"### ||| عج
+",000,False,000,False,False,False,3,741
+"### ||| عد
+",000,False,000,False,False,False,3,2035
+"### ||| عذ
+",000,False,000,False,False,False,3,3065
+"### ||| عز
+",000,False,000,False,False,False,3,2289
+"### ||| عس
+",000,False,000,False,False,False,3,304
+"### ||| عش
+",000,False,000,False,False,False,3,31
+"### ||| عص
+",000,False,000,False,False,False,3,581
+"### ||| عض
+",000,False,000,False,False,False,3,1594
+"### ||| عظ
+",000,False,000,False,False,False,3,100
+"### ||| عظ
+",000,False,000,False,False,False,3,54
+"### ||| عف
+",000,False,000,False,False,False,3,582
+"### ||| عق
+",000,False,000,False,False,False,3,1777
+"### ||| عك
+",000,False,000,False,False,False,3,698
+"### ||| عل
+",000,False,000,False,False,False,3,40489
+"### | الجزء الخامس
+",000,False,000,False,False,False,1,147973
+"### || تابع حرف العين
+",000,False,000,False,False,False,2,48954
+"### ||| تابع عل
+",000,False,000,False,False,False,3,13453
+"### ||| عم
+",000,False,000,False,False,False,3,26456
+"### ||| عو
+",000,False,000,False,False,False,3,2880
+"### ||| عي
+",000,False,000,False,False,False,3,6178
+"### || حرف الغين
+",000,False,000,False,False,False,2,5896
+"### ||| غا
+",000,False,000,False,False,False,3,2135
+"### ||| غب
+",000,False,000,False,False,False,3,48
+"### ||| غد
+",000,False,000,False,False,False,3,34
+"### ||| غر
+",000,False,000,False,False,False,3,765
+"### ||| غز
+",000,False,000,False,False,False,3,386
+"### ||| غس
+",000,False,000,False,False,False,3,507
+"### ||| غص
+",000,False,000,False,False,False,3,49
+"### ||| غض
+",000,False,000,False,False,False,3,93
+"### ||| غط
+",000,False,000,False,False,False,3,177
+"### ||| غف
+",000,False,000,False,False,False,3,92
+"### ||| غل
+",000,False,000,False,False,False,3,234
+"### ||| غم
+",000,False,000,False,False,False,3,121
+"### ||| غن
+",000,False,000,False,False,False,3,73
+"### ||| غنم
+",000,False,000,False,False,False,3,308
+"### ||| غو
+",000,False,000,False,False,False,3,271
+"### ||| غي
+",000,False,000,False,False,False,3,692
+"### || حرف الفاء
+",000,False,000,False,False,False,2,20082
+"### ||| فا
+",000,False,000,False,False,False,3,3967
+"### ||| فت
+",000,False,000,False,False,False,3,1727
+"### ||| فح
+",000,False,000,False,False,False,3,21
+"### ||| فخ
+",000,False,000,False,False,False,3,696
+"### ||| فد
+",000,False,000,False,False,False,3,23
+"### ||| فر
+",000,False,000,False,False,False,3,2932
+"### ||| فز
+",000,False,000,False,False,False,3,92
+"### ||| فس
+",000,False,000,False,False,False,3,23
+"### ||| فش
+",000,False,000,False,False,False,3,22
+"### ||| فص
+",000,False,000,False,False,False,3,27
+"### ||| فض
+",000,False,000,False,False,False,3,3912
+"### ||| فق
+",000,False,000,False,False,False,3,106
+"### ||| فك
+",000,False,000,False,False,False,3,828
+"### ||| فن
+",000,False,000,False,False,False,3,268
+"### ||| فه
+",000,False,000,False,False,False,3,650
+"### ||| فو
+",000,False,000,False,False,False,3,2052
+"### ||| في
+",000,False,000,False,False,False,3,2832
+"### || حرف القاف
+",000,False,000,False,False,False,2,17695
+"### ||| قا
+",000,False,000,False,False,False,3,7628
+"### ||| قب
+",000,False,000,False,False,False,3,210
+"### ||| قت
+",000,False,000,False,False,False,3,589
+"### ||| قث
+",000,False,000,False,False,False,3,226
+"### ||| قح
+",000,False,000,False,False,False,3,286
+"### ||| قد
+",000,False,000,False,False,False,3,544
+"### ||| قر
+",000,False,000,False,False,False,3,1539
+"### ||| قز
+",000,False,000,False,False,False,3,148
+"### ||| قس
+",000,False,000,False,False,False,3,897
+"### ||| قش
+",000,False,000,False,False,False,3,96
+"### ||| قص
+",000,False,000,False,False,False,3,479
+"### ||| قض
+",000,False,000,False,False,False,3,214
+"### ||| قط
+",000,False,000,False,False,False,3,804
+"### ||| قع
+",000,False,000,False,False,False,3,457
+"### ||| قف
+",000,False,000,False,False,False,3,84
+"### ||| قل
+",000,False,000,False,False,False,3,668
+"### ||| قم
+",000,False,000,False,False,False,3,221
+"### ||| قن
+",000,False,000,False,False,False,3,88
+"### ||| قه
+",000,False,000,False,False,False,3,17
+"### ||| قو
+",000,False,000,False,False,False,3,166
+"### ||| قي
+",000,False,000,False,False,False,3,2437
+"### || حرف الكاف
+",000,False,000,False,False,False,2,11552
+"### ||| كا
+",000,False,000,False,False,False,3,3003
+"### ||| كب
+",000,False,000,False,False,False,3,234
+"### ||| كت
+",000,False,000,False,False,False,3,206
+"### ||| كث
+",000,False,000,False,False,False,3,369
+"### ||| كج
+",000,False,000,False,False,False,3,99
+"### ||| كح
+",000,False,000,False,False,False,3,25
+"### ||| كخ
+",000,False,000,False,False,False,3,15
+"### ||| كد
+",000,False,000,False,False,False,3,29
+"### ||| كر
+",000,False,000,False,False,False,3,1884
+"### ||| كز
+",000,False,000,False,False,False,3,19
+"### ||| كس
+",000,False,000,False,False,False,3,19
+"### ||| كش
+",000,False,000,False,False,False,3,32
+"### ||| كع
+",000,False,000,False,False,False,3,1930
+"### ||| كف
+",000,False,000,False,False,False,3,53
+"### ||| كل
+",000,False,000,False,False,False,3,1580
+"### ||| كم
+",000,False,000,False,False,False,3,568
+"### ||| كن
+",000,False,000,False,False,False,3,710
+"### ||| كه
+",000,False,000,False,False,False,3,178
+"### ||| كو
+",000,False,000,False,False,False,3,494
+"### ||| كي
+",000,False,000,False,False,False,3,208
+"### || حرف اللام
+",000,False,000,False,False,False,2,5327
+"### ||| لا
+",000,False,000,False,False,False,3,1195
+"### ||| لج
+",000,False,000,False,False,False,3,55
+"### ||| لح
+",000,False,000,False,False,False,3,169
+"### ||| لخ
+",000,False,000,False,False,False,3,241
+"### ||| لس
+",000,False,000,False,False,False,3,19
+"### ||| لط
+",000,False,000,False,False,False,3,717
+"### ||| لع - لف
+",000,False,000,False,False,False,3,31
+"### ||| لق
+",000,False,000,False,False,False,3,312
+"### ||| لك
+",000,False,000,False,False,False,3,30
+"### ||| لم
+",000,False,000,False,False,False,3,26
+"### ||| لن
+",000,False,000,False,False,False,3,17
+"### ||| له
+",000,False,000,False,False,False,3,1453
+"### ||| لي
+",000,False,000,False,False,False,3,1143
+"### || حرف الميم
+",000,False,000,False,False,False,2,38492
+"### ||| ما
+",000,False,000,False,False,False,3,8493
+"### ||| مب
+",000,False,000,False,False,False,3,2000
+"### ||| مت
+",000,False,000,False,False,False,3,747
+"### ||| مث
+",000,False,000,False,False,False,3,798
+"### ||| مج
+",000,False,000,False,False,False,3,1959
+"### ||| مح
+",000,False,000,False,False,False,3,24519
+"### | الجزء السادس
+",000,False,000,False,False,False,1,143349
+"### || تابع حرف الميم
+",000,False,000,False,False,False,2,143340
+"### ||| تابع مح
+",000,False,000,False,False,False,3,143340
+"### | الجزء السابع
+",000,False,000,False,False,False,1,148128
+"### || تابع حرف الميم
+",000,False,000,False,False,False,2,143583
+"### ||| مخ
+",000,False,000,False,False,False,3,2039
+"### ||| مد
+",000,False,000,False,False,False,3,1847
+"### ||| مذ
+",000,False,000,False,False,False,3,97
+"### ||| مر
+",000,False,000,False,False,False,3,5726
+"### ||| مز
+",000,False,000,False,False,False,3,743
+"### ||| مس
+",000,False,000,False,False,False,3,6999
+"### ||| مش
+",000,False,000,False,False,False,3,536
+"### ||| مص
+",000,False,000,False,False,False,3,8620
+"### ||| مض
+",000,False,000,False,False,False,3,260
+"### ||| مط
+",000,False,000,False,False,False,3,2608
+"### ||| مظ
+",000,False,000,False,False,False,3,9217
+"### ||| مغ
+",000,False,000,False,False,False,3,2990
+"### ||| مق
+",000,False,000,False,False,False,3,1283
+"### ||| مك
+",000,False,000,False,False,False,3,1257
+"### ||| مل
+",000,False,000,False,False,False,3,952
+"### ||| مم
+",000,False,000,False,False,False,3,35
+"### ||| من
+",000,False,000,False,False,False,3,9648
+"### ||| مه
+",000,False,000,False,False,False,3,3826
+"### ||| مو
+",000,False,000,False,False,False,3,8381
+"### ||| مي
+",000,False,000,False,False,False,3,2971
+"### || حرف النون
+",000,False,000,False,False,False,2,4542
+"### ||| نا
+",000,False,000,False,False,False,3,4544
+"### | الجزء الثامن
+",000,False,000,False,False,False,1,138510
+"### || تابع حرف النون
+",000,False,000,False,False,False,2,22861
+"### ||| تابع نا
+",000,False,000,False,False,False,3,803
+"### ||| نب
+",000,False,000,False,False,False,3,1072
+"### ||| نت
+",000,False,000,False,False,False,3,72
+"### ||| نج
+",000,False,000,False,False,False,3,2128
+"### ||| نح
+",000,False,000,False,False,False,3,78
+"### ||| نخ
+",000,False,000,False,False,False,3,616
+"### ||| ند
+",000,False,000,False,False,False,3,199
+"### ||| نذ
+",000,False,000,False,False,False,3,15
+"### ||| نز 
+",000,False,000,False,False,False,3,444
+"### ||| نس
+",000,False,000,False,False,False,3,1076
+"### ||| نش
+",000,False,000,False,False,False,3,275
+"### ||| نص
+",000,False,000,False,False,False,3,5875
+"### ||| نض
+",000,False,000,False,False,False,3,722
+"### ||| نط
+",000,False,000,False,False,False,3,175
+"### ||| نظ
+",000,False,000,False,False,False,3,346
+"### ||| نع
+",000,False,000,False,False,False,3,3637
+"### ||| نف
+",000,False,000,False,False,False,3,697
+"### ||| نق
+",000,False,000,False,False,False,3,857
+"### ||| نك - نل
+",000,False,000,False,False,False,3,138
+"### ||| نم
+",000,False,000,False,False,False,3,534
+"### ||| نه
+",000,False,000,False,False,False,3,759
+"### ||| نو
+",000,False,000,False,False,False,3,2316
+"### ||| ني
+",000,False,000,False,False,False,3,164
+"### || حرف الهاء
+",000,False,000,False,False,False,2,23379
+"### ||| ها
+",000,False,000,False,False,False,3,6139
+"### ||| هب
+",000,False,000,False,False,False,3,3489
+"### ||| هج
+",000,False,000,False,False,False,3,321
+"### ||| هد
+",000,False,000,False,False,False,3,648
+"### ||| هذ
+",000,False,000,False,False,False,3,992
+"### ||| هر
+",000,False,000,False,False,False,3,1255
+"### ||| هز
+",000,False,000,False,False,False,3,290
+"### ||| هش
+",000,False,000,False,False,False,3,2457
+"### ||| هص
+",000,False,000,False,False,False,3,67
+"### ||| هط
+",000,False,000,False,False,False,3,13
+"### ||| هف
+",000,False,000,False,False,False,3,63
+"### ||| هق
+",000,False,000,False,False,False,3,57
+"### ||| هك
+",000,False,000,False,False,False,3,43
+"### ||| هل
+",000,False,000,False,False,False,3,1569
+"### ||| هم
+",000,False,000,False,False,False,3,1303
+"### ||| هن
+",000,False,000,False,False,False,3,2414
+"### ||| هه
+",000,False,000,False,False,False,3,11
+"### ||| هو
+",000,False,000,False,False,False,3,1320
+"### ||| هي
+",000,False,000,False,False,False,3,1034
+"### || حرف الواو
+",000,False,000,False,False,False,2,9890
+"### ||| وا
+",000,False,000,False,False,False,3,1826
+"### ||| وب
+",000,False,000,False,False,False,3,9
+"### ||| وت
+",000,False,000,False,False,False,3,33
+"### ||| وث
+",000,False,000,False,False,False,3,107
+"### ||| وج
+",000,False,000,False,False,False,3,357
+"### ||| وح
+",000,False,000,False,False,False,3,222
+"### ||| ود
+",000,False,000,False,False,False,3,747
+"### ||| ور
+",000,False,000,False,False,False,3,968
+"### ||| وز
+",000,False,000,False,False,False,3,220
+"### ||| وس
+",000,False,000,False,False,False,3,15
+"### ||| وش
+",000,False,000,False,False,False,3,61
+"### ||| وص
+",000,False,000,False,False,False,3,179
+"### ||| وض
+",000,False,000,False,False,False,3,71
+"### ||| وط ms3543
+",000,False,000,False,False,False,3,69
+"### ||| وع - وغ
+",000,False,000,False,False,False,3,98
+"### ||| وف
+",000,False,000,False,False,False,3,109
+"### ||| وق
+",000,False,000,False,False,False,3,32
+"### ||| وك
+",000,False,000,False,False,False,3,229
+"### ||| ول
+",000,False,000,False,False,False,3,3427
+"### ||| ون
+",000,False,000,False,False,False,3,21
+"### ||| وه
+",000,False,000,False,False,False,3,1060
+"### ||| وي
+",000,False,000,False,False,False,3,134
+"### || حرف الياء
+",000,False,000,False,False,False,2,60191
+"### ||| يا
+",000,False,000,False,False,False,3,1725
+"### ||| يب - يح
+",000,False,000,False,False,False,3,19832
+"### ||| يخ - يذ
+",000,False,000,False,False,False,3,131
+"### ||| ير
+",000,False,000,False,False,False,3,338
+"### ||| يز
+",000,False,000,False,False,False,3,5852
+"### ||| يس
+",000,False,000,False,False,False,3,235
+"### ||| يش
+",000,False,000,False,False,False,3,240
+"### ||| يع
+",000,False,000,False,False,False,3,6972
+"### ||| يغ
+",000,False,000,False,False,False,3,238
+"### ||| يف
+",000,False,000,False,False,False,3,27
+"### ||| يق
+",000,False,000,False,False,False,3,306
+"### ||| يك
+",000,False,000,False,False,False,3,123
+"### ||| يل
+",000,False,000,False,False,False,3,351
+"### ||| يم
+",000,False,000,False,False,False,3,284
+"### ||| ين
+",000,False,000,False,False,False,3,131
+"### ||| يه
+",000,False,000,False,False,False,3,23489
+"### || المؤلف
+",000,False,000,False,False,False,2,885
+"### || المصادر والمراجع
+",000,False,000,False,False,False,2,21313
+"### ||| الالف
+",000,False,000,False,False,False,3,2884
+"### ||| الباء
+",000,False,000,False,False,False,3,714
+"### ||| التاء
+",000,False,000,False,False,False,3,3156
+"### ||| الثاء
+",000,False,000,False,False,False,3,163
+"### ||| الجيم
+",000,False,000,False,False,False,3,482
+"### ||| الحاء
+",000,False,000,False,False,False,3,585
+"### ||| الخاء
+",000,False,000,False,False,False,3,271
+"### ||| الدال
+",000,False,000,False,False,False,3,866
+"### ||| الذال
+",000,False,000,False,False,False,3,605
+"### ||| الراء
+",000,False,000,False,False,False,3,873
+"### ||| الزاي ms3793
+",000,False,000,False,False,False,3,87
+"### ||| السين
+",000,False,000,False,False,False,3,784
+"### ||| الشين
+",000,False,000,False,False,False,3,566
+"### ||| الصاد
+",000,False,000,False,False,False,3,471
+"### ||| الضاد
+",000,False,000,False,False,False,3,135
+"### ||| الطاء
+",000,False,000,False,False,False,3,684
+"### ||| الظاء
+",000,False,000,False,False,False,3,22
+"### ||| العين
+",000,False,000,False,False,False,3,795
+"### ||| الغين
+",000,False,000,False,False,False,3,218
+"### ||| الفاء
+",000,False,000,False,False,False,3,1047
+"### ||| القاف
+",000,False,000,False,False,False,3,304
+"### ||| الكاف
+",000,False,000,False,False,False,3,704
+"### ||| اللام
+",000,False,000,False,False,False,3,293
+"### ||| الميم
+",000,False,000,False,False,False,3,3087
+"### ||| النون
+",000,False,000,False,False,False,3,1132
+"### ||| الهاء
+",000,False,000,False,False,False,3,108
+"### ||| الواو
+",000,False,000,False,False,False,3,390

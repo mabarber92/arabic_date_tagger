@@ -1,0 +1,399 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | كلمات مضيئة
+",000,False,000,False,False,False,1,134
+"### | مقدمة المحقق
+",000,False,000,False,False,False,1,646
+"### | 1 - 
+",000,False,000,False,False,False,1,7
+"### | 2 - 
+",000,False,000,False,False,False,1,20
+"### | 3 - 
+",000,False,000,False,False,False,1,11
+"### | 4 - 
+",000,False,000,False,False,False,1,16
+"### | 5 - 
+",000,False,000,False,False,False,1,26
+"### | 6 - 
+",000,False,000,False,False,False,1,29
+"### | منهجي في تحقيق الكتاب
+",000,False,000,False,False,False,1,8
+"### | 1 - 
+",000,False,000,False,False,False,1,7
+"### | 2 - 
+",000,False,000,False,False,False,1,11
+"### | 3 - 
+",000,False,000,False,False,False,1,45
+"### | 4 - 
+",000,False,000,False,False,False,1,17
+"### | 5 - 
+",000,False,000,False,False,False,1,153
+"### | مقدمة المؤلف
+",000,False,000,False,False,False,1,1011
+"### | مدار الدين على توحيد الله تعالى
+",000,False,000,False,False,False,1,427
+"### | فصل [الكلام على الكتاب المردود عليه]
+",000,False,000,False,False,False,1,416
+"### | المردود عليه عنده شيء من الدين لكن مع جهل وسوء فهم
+",000,False,000,False,False,False,1,533
+"### | التحذير من الكلام في دين الله بغير علم
+",000,False,000,False,False,False,1,563
+"### | فصل [بداية الرد على المعترض]
+",000,False,000,False,False,False,1,1690
+"### | من قصد السفر إلى المدينة فليقصد السفر إلى المسجد
+",000,False,000,False,False,False,1,2606
+"### | [الفرق بين زيارة مسجد النبي صلى الله عليه وسلم وبين زيارة قبره]
+",000,False,000,False,False,False,1,1873
+"### | أول من وضع أحاديث زيارة المشاهد
+",000,False,000,False,False,False,1,688
+"### | فصل [خلط المردود عليه ms039 بين زيارة القبور والسفر إليها]
+",000,False,000,False,False,False,1,1554
+"### | لا يوجد في الكتاب ولا في السنة دليل على استحباب زيارة قبور الأنبياء
+",000,year,000,False,False,False,1,1530
+"### | [إتيان مسجد النبي صلى الله عليه وسلم لأجل القبر ليس بطاعة]
+",000,False,000,False,False,False,1,323
+"### | التفريق بين الغرباء والمقيمين في المدينة في السلام عليه خارج الحجرة
+",000,False,000,False,False,False,1,1642
+"### | [قبر الرسول صلى الله عليه وسلم أجل وأعظم أن يزار كسائر القبور]
+",000,False,000,False,False,False,1,617
+"### | المقصود الشرعي من زيارة القبور
+",000,False,000,False,False,False,1,1184
+"### | اعتقاد النفع بالقبور هو كاتخاذها أوثانا
+",000,False,000,False,False,False,1,399
+"### | شد الرحال لزيارة قبور الصالحين هو من جنس عمل المشركين
+",000,False,000,False,False,False,1,1530
+"### | [واجب المؤمن تجاه النبي صلى الله عليه وسلم]
+",000,False,000,False,False,False,1,432
+"### | عداوة الأنبياء بمخالفتهم لا بموافقتهم
+",000,False,000,False,False,False,1,807
+"### | [الكلام في الأحكام الشرعية لا يستدل عليه إلا بالأدلة ms075 الشرعية]
+",000,False,000,False,False,False,1,289
+"### | [الصلاة على النبي صلى الله عليه وسلم في الصلاة، واختلاف العلماء في وجوبها]
+",000,False,000,False,False,False,1,489
+"### | الحلف بالملائكة والأنبياء
+",000,False,000,False,False,False,1,1471
+"### | أفضل الناس مع أنبيائهم هم الصحابة
+",000,False,000,False,False,False,1,1320
+"### | فصل [الأحاديث التي احتج بها المعترض على جواز شد الرحال للقبور، والرد على ذلك]
+",000,False,000,False,False,False,1,1195
+"### | الفرق بين الزيارة الشرعية وبين الزيارة البدعية
+",000,False,000,False,False,False,1,1174
+"### | فصل [المصنف لا يحرم زيارة القبور الزيارة الشرعية]
+",000,False,000,False,False,False,1,339
+"### | فصل [هل وردت أحاديث صحيحة في زيارة قبره صلى الله عليه وسلم؟]
+",000,False,000,False,False,False,1,3379
+"### | زيارة القبور ليست من باب الإكرام والتعظيم
+",000,False,000,False,False,False,1,1961
+"### | الأنبياء والأولياء الذين عبدوا من دون الله لا إثم عليهم، إنما الإثم على من عبدهم
+",000,False,000,False,False,False,1,8908
+"### | فصل [حديث «من صلى علي عند قبري سمعته»]
+",000,False,000,False,False,False,1,1403
+"### | فصل [مذهب السلف في زيارة قبره صلى الله عليه وسلم]
+",000,False,000,False,False,False,1,1902
+"### | فصل [خلط المعترض بين زيارة الأحياء وبين زيارة القبور]
+",000,False,000,False,False,False,1,2795
+"### | فصل [تعدي المعترض على المصنف، وجواب المصنف عليه]
+",000,False,000,False,False,False,1,1495
+"### | من اعتقد أن السفر إلى قبر شيخ أو إمام أفضل من الحج فهو كافر
+",000,False,000,False,False,False,1,410
+"### | فصل [المردود عليه وأسجاعه الفارغة]
+",000,False,000,False,False,False,1,6400
+"### | فصل [كلام المصنف على حديث النهي عن شد الرحال إلى غير المساجد الثلاثة]
+",000,False,000,False,False,False,1,1261
+"### | فصل [الرد على المعترض فيما افتراه على أئمة المسلمين في أنهم يجوزون السفر إلى زيارة القبور]
+",000,False,000,False,False,False,1,1366
+"### | فصل [زعم المعترض أن المؤلف خرق الإجماع]
+",000,False,000,False,False,False,1,1562
+"### | فصل [افتراء المعترض على المصنف]
+",000,False,000,False,False,False,1,3825
+"### | [واجب الموحد تجاه الملائكة والأنبياء]
+",000,False,000,False,False,False,1,1467
+"### | [الفرقان بين الحق والباطل]
+",000,False,000,False,False,False,1,3775
+"### | الفهارس العامة
+",000,False,000,False,False,False,1,4
+"### | فهرس الآيات القرآنية
+",000,False,000,False,False,False,1,10
+"### | فهرس الآيات القرآنية
+",000,False,000,False,False,False,1,416
+"### | فهرس الأحاديث
+",000,False,000,False,False,False,1,827
+"### | فهرس المصادر والمراجع
+",000,False,000,False,False,False,1,7
+"### | 1 - 
+",000,False,000,False,False,False,1,33
+"### | 2 - 
+",000,False,000,False,False,False,1,21
+"### | 3 - 
+",000,False,000,False,False,False,1,28
+"### | 4 - 
+",000,False,000,False,False,False,1,18
+"### | 5 - 
+",000,False,000,False,False,False,1,24
+"### | 6 - 
+",000,False,000,False,False,False,1,28
+"### | 7 - 
+",000,False,000,False,False,False,1,29
+"### | 8 - 
+",000,False,000,False,False,False,1,35
+"### | 9 - 
+",000,False,000,False,False,False,1,19
+"### | 10 - 
+",000,False,000,False,False,False,1,18
+"### | 11 - 
+",000,False,000,False,False,False,1,29
+"### | 12 - 
+",000,False,000,False,False,False,1,31
+"### | 13 - 
+",000,False,000,False,False,False,1,20
+"### | 14 - 
+",000,False,000,False,False,False,1,35
+"### | 15 - 
+",000,False,000,False,False,False,1,36
+"### | 16 - 
+",000,False,000,False,False,False,1,26
+"### | 17 - 
+",000,False,000,False,False,False,1,13
+"### | 18 - 
+",000,False,000,False,False,False,1,30
+"### | 19 - 
+",000,False,000,False,False,False,1,15
+"### | 20 - 
+",000,False,000,False,False,False,1,23
+"### | 21 - 
+",000,False,000,False,False,False,1,11
+"### | 22 - 
+",000,False,000,False,False,False,1,19
+"### | 23 - 
+",000,False,000,False,False,False,1,21
+"### | 24 - 
+",000,False,000,False,False,False,1,33
+"### | 25 - 
+",000,False,000,False,False,False,1,16
+"### | 26 - 
+",000,False,000,False,False,False,1,13
+"### | 27 - 
+",000,False,000,False,False,False,1,34
+"### | 28 - 
+",000,False,000,False,False,False,1,33
+"### | 29 - 
+",000,False,000,False,False,False,1,17
+"### | 30 - 
+",000,False,000,False,False,False,1,26
+"### | 31 - 
+",000,False,000,False,False,False,1,28
+"### | 32 - 
+",000,False,000,False,False,False,1,33
+"### | 33 - 
+",000,False,000,False,False,False,1,24
+"### | 34 - 
+",000,False,000,False,False,False,1,37
+"### | 35 - 
+",000,False,000,False,False,False,1,12
+"### | 36 - 
+",000,False,000,False,False,False,1,19
+"### | 37 - 
+",000,False,000,False,False,False,1,22
+"### | 38 - 
+",000,False,000,False,False,False,1,26
+"### | 39 - 
+",000,False,000,False,False,False,1,24
+"### | 40 - 
+",000,False,000,False,False,False,1,21
+"### | 41 - 
+",000,False,000,False,False,False,1,28
+"### | 42 - 
+",000,False,000,False,False,False,1,36
+"### | 43 - 
+",000,False,000,False,False,False,1,28
+"### | 44 - 
+",000,False,000,False,False,False,1,14
+"### | 45 - 
+",000,False,000,False,False,False,1,30
+"### | 46 - 
+",000,False,000,False,False,False,1,36
+"### | 47 - 
+",000,False,000,False,False,False,1,37
+"### | 48 - 
+",000,False,000,False,False,False,1,30
+"### | 49 - 
+",000,False,000,False,False,False,1,19
+"### | 50 - 
+",000,False,000,False,False,False,1,14
+"### | 51 - 
+",000,False,000,False,False,False,1,32
+"### | 52 - 
+",000,False,000,False,False,False,1,21
+"### | 53 - 
+",000,False,000,False,False,False,1,25
+"### | 54 - 
+",000,False,000,False,False,False,1,23
+"### | 55 - 
+",000,False,000,False,False,False,1,30
+"### | 56 - 
+",000,False,000,False,False,False,1,26
+"### | 57 - 
+",000,False,000,False,False,False,1,37
+"### | 58 - 
+",000,False,000,False,False,False,1,34
+"### | 59 - 
+",000,False,000,False,False,False,1,38
+"### | 60 - 
+",000,False,000,False,False,False,1,10
+"### | 61 - 
+",000,False,000,False,False,False,1,23
+"### | 62 - 
+",000,False,000,False,False,False,1,29
+"### | 63 - 
+",000,False,000,False,False,False,1,31
+"### | 64 - 
+",000,False,000,False,False,False,1,19
+"### | 65 - 
+",000,False,000,False,False,False,1,24
+"### | 66 - 
+",000,False,000,False,False,False,1,18
+"### | 67 - 
+",000,False,000,False,False,False,1,21
+"### | 68 - 
+",000,False,000,False,False,False,1,13
+"### | 69 - 
+",000,False,000,False,False,False,1,27
+"### | 70 - 
+",000,False,000,False,False,False,1,39
+"### | 71 - 
+",000,False,000,False,False,False,1,25
+"### | 72 - 
+",000,False,000,False,False,False,1,10
+"### | 73 - 
+",000,False,000,False,False,False,1,26
+"### | 74 - 
+",000,False,000,False,False,False,1,25
+"### | 75 - 
+",000,False,000,False,False,False,1,33
+"### | 76 - 
+",000,False,000,False,False,False,1,25
+"### | 77 - 
+",000,False,000,False,False,False,1,20
+"### | 78 - 
+",000,False,000,False,False,False,1,11
+"### | 79 - 
+",000,False,000,False,False,False,1,14
+"### | 80 - 
+",000,False,000,False,False,False,1,17
+"### | 81 - 
+",000,False,000,False,False,False,1,16
+"### | 82 - 
+",000,False,000,False,False,False,1,21
+"### | 83 - 
+",000,False,000,False,False,False,1,11
+"### | 84 - 
+",000,False,000,False,False,False,1,29
+"### | 85 - 
+",000,False,000,False,False,False,1,17
+"### | 86 - 
+",000,False,000,False,False,False,1,17
+"### | 87 - 
+",000,False,000,False,False,False,1,18
+"### | 88 - 
+",000,False,000,False,False,False,1,27
+"### | 89 - 
+",000,False,000,False,False,False,1,29
+"### | 90 - 
+",000,False,000,False,False,False,1,28
+"### | 91 - 
+",000,False,000,False,False,False,1,22
+"### | 92 - 
+",000,False,000,False,False,False,1,20
+"### | 93 - 
+",000,False,000,False,False,False,1,20
+"### | 94 - 
+",000,False,000,False,False,False,1,25
+"### | 95 - 
+",000,False,000,False,False,False,1,11
+"### | 96 - 
+",000,False,000,False,False,False,1,23
+"### | 97 - 
+",000,False,000,False,False,False,1,25
+"### | 98 - 
+",000,False,000,False,False,False,1,22
+"### | 99 - 
+",000,False,000,False,False,False,1,23
+"### | 100 - 
+",000,False,000,False,False,False,1,35
+"### | 101 - 
+",000,False,000,False,False,False,1,26
+"### | 102 - 
+",000,False,000,False,False,False,1,35
+"### | 103 - 
+",000,False,000,False,False,False,1,24
+"### | 104 - 
+",000,False,000,False,False,False,1,29
+"### | 105 - 
+",000,False,000,False,False,False,1,11
+"### | 106 - 
+",000,False,000,False,False,False,1,29
+"### | 107 - 
+",000,False,000,False,False,False,1,28
+"### | 108 - 
+",000,False,000,False,False,False,1,24
+"### | 109 - 
+",000,False,000,False,False,False,1,37
+"### | 110 - 
+",000,False,000,False,False,False,1,27
+"### | 111 - 
+",000,False,000,False,False,False,1,20
+"### | 112 - 
+",000,False,000,False,False,False,1,24
+"### | 113 - 
+",000,False,000,False,False,False,1,25
+"### | 114 - 
+",000,False,000,False,False,False,1,20
+"### | 115 - 
+",000,False,000,False,False,False,1,36
+"### | 116 - 
+",000,False,000,False,False,False,1,10
+"### | 117 - 
+",000,False,000,False,False,False,1,62
+"### | 118 - 
+",000,False,000,False,False,False,1,22
+"### | 119 - 
+",000,False,000,False,False,False,1,33
+"### | 120 - 
+",000,False,000,False,False,False,1,24
+"### | 121 - 
+",000,False,000,False,False,False,1,26
+"### | 122 - 
+",000,False,000,False,False,False,1,12
+"### | 123 - 
+",000,False,000,False,False,False,1,23
+"### | 124 - 
+",000,False,000,False,False,False,1,32
+"### | 125 - 
+",000,False,000,False,False,False,1,29
+"### | 126 - 
+",000,False,000,False,False,False,1,25
+"### | 127 - 
+",000,False,000,False,False,False,1,14
+"### | 128 - 
+",000,False,000,False,False,False,1,28
+"### | 129 - 
+",000,False,000,False,False,False,1,21
+"### | 130 - 
+",000,False,000,False,False,False,1,33
+"### | 131 - 
+",000,False,000,False,False,False,1,23
+"### | 132 - 
+",000,False,000,False,False,False,1,28
+"### | 133 - 
+",000,False,000,False,False,False,1,27
+"### | 134 - 
+",000,False,000,False,False,False,1,19
+"### | 135 - 
+",000,False,000,False,False,False,1,23
+"### | 136 - 
+",000,False,000,False,False,False,1,23
+"### | 137 - 
+",000,False,000,False,False,False,1,35
+"### | 138 - 
+",000,False,000,False,False,False,1,25
+"### | 139 - 
+",000,False,000,False,False,False,1,31

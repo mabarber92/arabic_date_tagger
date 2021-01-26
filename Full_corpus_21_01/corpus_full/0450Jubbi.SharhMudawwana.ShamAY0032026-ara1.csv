@@ -1,0 +1,117 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO تفسير كتاب الوضوء
+",000,False,000,False,False,False,1,1471
+"### | AUTO كتاب الصلاة الأول
+",000,False,000,False,False,False,1,860
+"### | AUTO كتاب الصلاة الثاني
+",000,False,000,False,False,False,1,235
+"### | AUTO كتاب الجنائز
+",000,False,000,False,False,False,1,115
+"### | AUTO كتاب الصيام
+",000,False,000,False,False,False,1,190
+"### | AUTO كتاب الزكاة الأول
+",000,False,000,False,False,False,1,311
+"### | AUTO كتاب الزكاة الثاني
+",000,False,000,False,False,False,1,673
+"### | AUTO كتاب الحج الأول
+",000,False,000,False,False,False,1,315
+"### | AUTO كتاب الحج الثاني
+",000,False,000,False,False,False,1,393
+"### | AUTO كتاب الحج الثالث
+",000,False,000,False,False,False,1,85
+"### | AUTO كتاب الصيد
+",000,False,000,False,False,False,1,163
+"### | AUTO كتاب الذبائح
+",000,False,000,False,False,False,1,194
+"### | AUTO كتاب الضحايا
+",000,False,000,False,False,False,1,191
+"### | AUTO كتاب الجهاد
+",000,False,000,False,False,False,1,1027
+"### | AUTO كتاب السلم الأول
+",000,False,000,False,False,False,1,134
+"### | AUTO كتاب النذور
+",000,False,000,False,False,False,1,331
+"### | AUTO كتاب السلم الثاني
+",000,False,000,False,False,False,1,124
+"### | AUTO كتاب السلم الثالث
+",000,False,000,False,False,False,1,207
+"### | AUTO كتاب الصرف
+",000,False,000,False,False,False,1,94
+"### | AUTO كتاب الآجال
+",000,False,000,False,False,False,1,56
+"### | AUTO كتاب البيوع الفاسدة
+",000,False,000,False,False,False,1,279
+"### | AUTO كتاب بيع الخيار
+",000,False,000,False,False,False,1,67
+"### | AUTO كتاب المرابحة
+",000,False,000,False,False,False,1,80
+"### | AUTO كتاب بيع الغرر والوكالات
+",000,False,000,False,False,False,1,54
+"### | AUTO كتاب العرايا
+",000,False,000,False,False,False,1,41
+"### | AUTO كتاب كراء الرواحل والدواب
+",000,False,000,False,False,False,1,77
+"### | AUTO كتاب التجارة إلى أرض الحرب
+",000,False,000,False,False,False,1,143
+"### | AUTO كتاب التدليس
+",000,False,000,False,False,False,1,197
+"### | AUTO كتاب الصلح والجعل والإجارة
+",000,False,000,False,False,False,1,151
+"### | AUTO كتاب النكاح الأول
+",000,False,000,False,False,False,1,264
+"### | AUTO كتاب النكاح الثاني
+",000,False,000,False,False,False,1,41
+"### | AUTO كتاب النكاح الثالث
+",000,False,000,False,False,False,1,40
+"### | AUTO كتاب التخيير والتمليك
+",000,False,000,False,False,False,1,64
+"### | AUTO كتاب الإيلاء واللعان
+",000,False,000,False,False,False,1,87
+"### | AUTO كتاب الأيمان بالطلاق
+",000,False,000,False,False,False,1,38
+"### | AUTO كتاب إرخاء الستور
+",000,False,000,False,False,False,1,54
+"### | AUTO كتاب الرضاع
+",000,False,000,False,False,False,1,98
+"### | AUTO كتاب طلاق السنة
+",000,year,000,False,False,False,1,181
+"### | AUTO كتاب الاستبراء
+",000,False,000,False,False,False,1,72
+"### | AUTO كتاب الشهادات
+",000,False,000,False,False,False,1,237
+"### | AUTO كتاب المديان والتفليس
+",000,False,000,False,False,False,1,167
+"### | AUTO كتاب المأذون له في التجارة لم أجد فيه غريبا فأفسره.
+",000,False,000,False,False,False,1,13
+"### | AUTO كتاب الكفالة والحوالة والغصب
+",000,False,000,False,False,False,1,145
+"### | AUTO كتاب حريم الآبار
+",000,False,000,False,False,False,1,76
+"### | AUTO كتاب الشفعة والقسم
+",000,False,000,False,False,False,1,256
+"### | AUTO كتاب الوديعة
+",000,False,000,False,False,False,1,19
+"### | AUTO كتاب الحبس والصدقة
+",000,False,000,False,False,False,1,108
+"### | AUTO كتاب السرقة والمحاربين
+",000,False,000,False,False,False,1,37
+"### | AUTO كتاب العتق الأول والثاني والمدبر والمكاتب
+",000,False,000,False,False,False,1,66
+"### | AUTO كتاب أمهات الأولاد
+",000,False,000,False,False,False,1,83
+"### | AUTO كتاب الولاء والمواريث وكتاب الوصايا الأول والثاني
+",000,False,000,False,False,False,1,52
+"### | AUTO كتاب الحدود
+",000,False,000,False,False,False,1,135
+"### | AUTO كتاب الأشربة
+",000,False,000,False,False,False,1,74
+"### | AUTO كتاب الجنايات
+",000,False,000,False,False,False,1,159
+"### | AUTO أول الجراح
+",000,False,000,False,False,False,1,165
+"### | AUTO كتاب الجراحات
+",000,False,000,False,False,False,1,191
+"### | AUTO كتاب المحاربين والمرتدين والخوارج وكتاب الرجم
+",000,False,000,False,False,False,1,87
+"### | AUTO كتاب الديات
+",000,False,000,False,False,False,1,63

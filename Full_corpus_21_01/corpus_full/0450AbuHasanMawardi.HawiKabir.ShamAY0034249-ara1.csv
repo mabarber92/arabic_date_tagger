@@ -1,0 +1,891 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK [كتاب الحاوى الماوردى]
+",000,False,000,False,False,False,1,50
+"### | AUTO مقدمة الكتاب
+",000,False,000,False,False,False,1,1761
+"### | AUTO الجزء الأول < 15 > فصل : فإن قيل : فلم نهى الشافعي عن تقليده
+",000,False,000,False,False,False,1,3638
+"### || AUTO فصل : وأما القسم الثاني فينقسم ثلاثة أقسام : قسم فيمن لا
+",000,False,000,False,False,False,2,435
+"### || AUTO فصل : الصنف الثاني وأما الصنف الثاني وهم المخبرون عنه
+",000,False,000,False,False,False,2,604
+"### || AUTO فصل : الصنف الثالث وأما الصنف الثالث وهم المجمعون على حكم
+",000,False,000,False,False,False,2,1085
+"### || AUTO فصل : الصنف الرابع فأما الصنف الرابع وهم الصحابة فتقليدهم
+",000,False,000,False,False,False,2,579
+"### || AUTO فصل : وأما من يختلف حالهم باختلاف حال السائل والمسئول فهم
+",000,False,000,False,False,False,2,585
+"### | AUTO مستوى كتاب الطهارة
+",000,False,000,False,False,False,1,122516
+"### || AUTO مستوى باب الطهارة PageV01P040
+",000,False,000,False,False,False,2,164
+"### || AUTO مستوى فصل دلائل طهارة الماء PageV01P042
+",000,False,000,False,False,False,2,5035
+"### || AUTO مستوى باب الآنية
+",000,False,000,False,False,False,2,6474
+"### || AUTO مستوى باب السواك
+",000,False,000,False,False,False,2,967
+"### || AUTO مستوى باب نية الوضوء
+",000,False,000,False,False,False,2,3735
+"### || AUTO مستوى باب سنة الوضوء
+",000,year,000,False,False,False,2,13697
+"### || AUTO مستوى باب الاستطابة PageV01P254
+",000,False,000,False,False,False,2,7071
+"### || AUTO مستوى باب الحدث
+",000,False,000,False,False,False,2,9197
+"### || AUTO مستوى باب ما يوجب الغسل
+",000,False,000,False,False,False,2,2644
+"### || AUTO مستوى باب غسل الجنابة PageV01P387
+",000,False,000,False,False,False,2,3364
+"### || AUTO مستوى باب فضل الجنب وغيره PageV01P412
+",000,False,000,False,False,False,2,783
+"### || AUTO مستوى باب التيمم
+",000,False,000,False,False,False,2,8843
+"### || AUTO مستوى باب جامع التيمم والعذر فيه
+",000,False,000,False,False,False,2,10466
+"### || AUTO مستوى باب ما يفسد الماء
+",000,False,000,False,False,False,2,10033
+"### || AUTO مستوى باب الماء الذي ينجس والذي لا ينجس PageV01P634
+",000,False,000,False,False,False,2,8454
+"### || AUTO مستوى باب المسح على الخفين PageV01P691
+",000,False,000,False,False,False,2,5878
+"### || AUTO مستوى باب كيف المسح على الخفين PageV01P733
+",000,False,000,False,False,False,2,794
+"### || AUTO مستوى باب الغسل للجمعة والأعياد PageV01P739
+",000,False,000,False,False,False,2,1722
+"### || AUTO مستوى باب حيض المرأة وطهرها واستحاضتها
+",000,False,000,False,False,False,2,23250
+"### | AUTO مستوى كتاب الصلاة
+",000,False,000,False,False,False,1,121807
+"### || AUTO مستوى باب وقت الصلاة والأذان والعذر فيه PageV02P003
+",000,False,000,False,False,False,2,11061
+"### || AUTO مستوى باب صفة الأذان وما يقام له من الصلوات ولا يؤذن PageV02P083
+",000,False,000,False,False,False,2,8099
+"### || AUTO مستوى باب استقبال القبلة وأن لا فرض إلا الخمس PageV02P145
+",000,False,000,False,False,False,2,7968
+"### || AUTO مستوى باب صفة الصلاة وما يجزئ منها وما يفسدها وعدد سجود القرآن
+",000,False,000,False,False,False,2,36775
+"### || AUTO مستوى باب سجود السهو وسجود الشكر PageV02P484
+",000,False,000,False,False,False,2,7009
+"### || AUTO مستوى باب أقل ما يجزئ من عمل الصلاة PageV02P536
+",000,False,000,False,False,False,2,1195
+"### || AUTO مستوى باب طول القراءة وقصرها PageV02P545
+",000,False,000,False,False,False,2,360
+"### || AUTO مستوى باب الصلاة بالنجاسة ومواضع الصلاة من مسجد وغيره PageV02P548
+",000,False,000,False,False,False,2,10348
+"### || AUTO مستوى باب الأوقات التي يكره فيها صلاة التطوع ويجوز فيها
+",000,False,000,False,False,False,2,1996
+"### || AUTO مستوى باب صلاة التطوع وقيام شهر رمضان PageV02P640
+",000,False,000,False,False,False,2,5040
+"### || AUTO مستوى باب فضل الجماعة والعذر بتركها PageV02P676
+",000,False,000,False,False,False,2,2008
+"### || AUTO مستوى باب صلاة الإمام قاعدا بقيام وقائما بقعود PageV02P689
+",000,False,000,False,False,False,2,3221
+"### || AUTO مستوى باب اختلاف نية الإمام والمأموم وغير ذلك PageV02P714
+",000,False,000,False,False,False,2,7233
+"### || AUTO مستوى باب موقف صلاة المأموم مع الإمام PageV02P767
+",000,False,000,False,False,False,2,3691
+"### || AUTO مستوى باب صلاة الإمام وصفة الأئمة PageV02P796
+",000,False,000,False,False,False,2,1425
+"### || AUTO مستوى باب إمامة المرأة PageV02P808
+",000,False,000,False,False,False,2,274
+"### || AUTO مستوى باب صلاة المسافر والجمع في السفر PageV02P810
+",000,False,000,False,False,False,2,14180
+"### | AUTO مستوى كتاب الجمعة وغيرها من أمرها
+",000,False,000,False,False,False,1,17485
+"### || CHECK [مستوى باب الغسل للجمعة والخطبة وما يجب في صلاة الجمعة]
+",000,False,000,False,False,False,2,62
+"### || AUTO مستوى باب استقبال القبلة وأن لا فرض إلا الخمس PageV02P968
+",000,False,000,False,False,False,2,7351
+"### || AUTO مستوى باب التبكير إلى الجمعة PageV02P1024
+",000,False,000,False,False,False,2,540
+"### || AUTO مستوى باب الهيئة إلى الجمعة PageV02P1028
+",000,False,000,False,False,False,2,910
+"### | AUTO مستوى باب صلاة الخوف
+",000,False,000,False,False,False,1,5910
+"### || AUTO مستوى باب من له أن يصلي صلاة شدة الخوف PageV02P1078
+",000,False,000,False,False,False,2,574
+"### | AUTO مستوى باب في كراهية اللباس والمبارزة PageV02P1083
+",000,False,000,False,False,False,1,938
+"### | AUTO مستوى باب صلاة العيدين
+",000,False,000,False,False,False,1,6281
+"### || AUTO مستوى باب القول في تكبير العيدين وإظهاره PageV02P1094
+",000,False,000,False,False,False,2,4782
+"### || AUTO مستوى باب التكبير PageV02P1133
+",000,False,000,False,False,False,2,949
+"### | AUTO مستوى باب صلاة خسوف الشمس والقمر
+",000,False,000,False,False,False,1,2881
+"### | AUTO مستوى باب صلاة الاستسقاء
+",000,False,000,False,False,False,1,3392
+"### || AUTO مستوى باب الدعاء في الاستسقاء PageV02P1185
+",000,False,000,False,False,False,2,541
+"### | AUTO مستوى باب الحكم في تارك الصلاة متعمدا PageV02P1190
+",000,False,000,False,False,False,1,1003
+"### | AUTO مستوى كتاب الجنائز
+",000,False,000,False,False,False,1,17699
+"### || AUTO مستوى باب إغماض الميت PageV03P003
+",000,False,000,False,False,False,2,782
+"### || AUTO مستوى باب غسل الميت وغسل الرجل امرأته والمرأة زوجها PageV03P009
+",000,False,000,False,False,False,2,4333
+"### || AUTO مستوى باب عدد الكفن وكيف الحنوط PageV03P040
+",000,False,000,False,False,False,2,4050
+"### || AUTO مستوى باب الشهيد ومن يصلي عليه ويغسل PageV03P071
+",000,False,000,False,False,False,2,1670
+"### || AUTO مستوى باب حمل الجنازة PageV03P082
+",000,False,000,False,False,False,2,408
+"### || AUTO مستوى باب المشي بالجنازة PageV03P085
+",000,False,000,False,False,False,2,548
+"### || AUTO مستوى باب من هو أولى بالصلاة على الميت PageV03P089
+",000,False,000,False,False,False,2,626
+"### || AUTO مستوى باب وقت صلاة الجنازة PageV03P094
+",000,False,000,False,False,False,2,217
+"### || AUTO مستوى باب هل يسن القيام عند ورود الجنازة للصلاة وفي كيفية
+",000,False,000,False,False,False,2,783
+"### || AUTO مستوى باب التكبير على الجنائز ومن أولى بأن يدخله القبر PageV03P101
+",000,False,000,False,False,False,2,2958
+"### || AUTO مستوى باب ما يقال إذا أدخل الميت قبره
+",000,False,000,False,False,False,2,519
+"### || AUTO مستوى باب البكاء على الميت PageV03P128
+",000,False,000,False,False,False,2,850
+"### | AUTO مستوى كتاب الزكاة
+",000,False,000,False,False,False,1,97925
+"### || AUTO مستوى باب فرض الإبل السائمة PageV03P140
+",000,False,000,False,False,False,2,10213
+"### || AUTO مستوى باب صدقة البقر السائمة PageV03P215
+",000,False,000,False,False,False,2,1212
+"### || AUTO مستوى باب صدقة الغنم السائمة PageV03P223
+",000,False,000,False,False,False,2,8483
+"### || AUTO مستوى باب صدقة الخلطاء PageV03P288
+",000,False,000,False,False,False,2,5323
+"### || AUTO مستوى باب من تجب عليه الصدقة PageV03P328
+",000,False,000,False,False,False,2,845
+"### || AUTO مستوى باب الوقت الذي تجب فيه الصدقة وأين يأخذها المصدق PageV03P334
+",000,False,000,False,False,False,2,921
+"### || AUTO مستوى باب تعجيل الصدقة PageV03P341
+",000,False,000,False,False,False,2,6059
+"### || AUTO مستوى باب النية في إخراج الصدقة PageV03P385
+",000,False,000,False,False,False,2,2985
+"### || AUTO مستوى باب ما يسقط الصدقة عن الماشية PageV03P407
+",000,False,000,False,False,False,2,1814
+"### || AUTO مستوى باب المبادلة بالماشية والصدقة منها PageV03P419
+",000,False,000,False,False,False,2,3172
+"### || AUTO مستوى باب رهن الماشية التي تجب فيها الزكاة PageV03P441
+",000,False,000,False,False,False,2,1150
+"### || AUTO مستوى باب زكاة الثمار PageV03P449
+",000,False,000,False,False,False,2,3326
+"### || AUTO مستوى باب كيف تؤخذ زكاة النخل والعنب بالخرص PageV03P471
+",000,False,000,False,False,False,2,5620
+"### || AUTO مستوى باب صدقة الزرع PageV03P511
+",000,False,000,False,False,False,2,2232
+"### || AUTO مستوى باب الزرع في أوقات PageV03P528
+",000,False,000,False,False,False,2,672
+"### || AUTO مستوى باب قدر الصدقة فيما أخرجت الأرض PageV03P533
+",000,False,000,False,False,False,2,2088
+"### || AUTO مستوى باب صدقة الورق PageV03P548
+",000,False,000,False,False,False,2,322
+"### || AUTO مستوى باب تفسير الأوقية PageV03P550
+",000,False,000,False,False,False,2,2718
+"### || AUTO مستوى باب صدقة الذهب وقدر ما لا تجب فيه الزكاة PageV03P570
+",000,False,000,False,False,False,2,1295
+"### || AUTO مستوى باب زكاة الحلي PageV03P580
+",000,False,000,False,False,False,2,2597
+"### || AUTO مستوى باب ما لا يكون فيه زكاة
+",000,False,000,False,False,False,2,371
+"### || AUTO مستوى باب زكاة التجارة PageV03P603
+",000,False,000,False,False,False,2,7193
+"### || AUTO مستوى باب زكاة مال القراض PageV03P657
+",000,False,000,False,False,False,2,680
+"### || AUTO مستوى باب الدين مع الصدقة وزكاة اللقطة وكراء الدور والغنيمة PageV03P662
+",000,False,000,False,False,False,2,4814
+"### || AUTO مستوى باب البيع في المال الذي تجب فيه الزكاة بالخيار وغيره
+",000,False,000,False,False,False,2,2708
+"### || AUTO مستوى باب زكاة المعدن PageV03P717
+",000,False,000,False,False,False,2,2150
+"### || AUTO مستوى باب في الزكاة وما تجب فيه وما تملك به PageV03P733
+",000,False,000,False,False,False,2,1607
+"### || AUTO مستوى باب ما يقول المصدق إذا أخذ الصدقة لمن يأخذها منه PageV03P744
+",000,False,000,False,False,False,2,413
+"### || AUTO مستوى باب من تلزمه زكاة الفطر PageV03P747
+",000,False,000,False,False,False,2,9206
+"### || AUTO مستوى باب مكيلة زكاة الفطر PageV03P814
+",000,False,000,False,False,False,2,4058
+"### || AUTO مستوى باب الاختيار في صدقة التطوع PageV03P842
+",000,False,000,False,False,False,2,947
+"### | AUTO مستوى كتاب الصيام
+",000,False,000,False,False,False,1,25874
+"### || AUTO مستوى باب النية في الصوم PageV03P855
+",000,False,000,False,False,False,2,22571
+"### || AUTO مستوى باب صيام التطوع والخروج منه قبل تمامه PageV03P1023
+",000,False,000,False,False,False,2,671
+"### || AUTO مستوى باب النهي عن الوصال في الصوم PageV03P1027
+",000,False,000,False,False,False,2,281
+"### || AUTO مستوى باب صوم يوم عرفة ويوم عاشوراء PageV03P1029
+",000,False,000,False,False,False,2,1121
+"### || AUTO مستوى باب النهي عن صيام يومي الفطر والأضحى وأيام التشريق PageV03P1037
+",000,False,000,False,False,False,2,336
+"### || AUTO مستوى باب فضل الصدقة في رمضان وطلب القراءة PageV03P1039
+",000,False,000,False,False,False,2,232
+"### | AUTO مستوى كتاب الاعتكاف
+",000,False,000,False,False,False,1,7965
+"### | AUTO مستوى كتاب الحج
+",000,False,000,False,False,False,1,129552
+"### || AUTO مستوى باب إمكان الحج وأنه من رأس المال PageV04P031
+",000,False,000,False,False,False,2,2387
+"### || AUTO مستوى باب بيان وقت فرض الحج وكونه على التراخي
+",000,False,000,False,False,False,2,980
+"### || AUTO مستوى باب بيان وقت الحج والعمرة PageV04P056
+",000,False,000,False,False,False,2,1581
+"### || AUTO مستوى باب بيان أن العمرة واجبة كالحج PageV04P067
+",000,False,000,False,False,False,2,924
+"### || AUTO مستوى باب ما يجزئ من العمرة إذا اجتمعت إلى غيرها
+",000,False,000,False,False,False,2,1598
+"### || AUTO مستوى باب بيان إفراد الحج عن العمرة وغير ذلك
+",000,False,000,False,False,False,2,1927
+"### || AUTO مستوى باب صوم المتمتع بالعمرة إلى الحج PageV04P097
+",000,False,000,False,False,False,2,6071
+"### || AUTO مستوى باب مواقيت الحج
+",000,False,000,False,False,False,2,3397
+"### || AUTO مستوى باب الإحرام والتلبية PageV04P170
+",000,False,000,False,False,False,2,5978
+"### || AUTO مستوى باب ما يجتنبه المحرم من الطيب ولبس الثياب
+",000,False,000,False,False,False,2,11554
+"### || AUTO مستوى باب دخول مكة
+",000,False,000,False,False,False,2,41220
+"### || AUTO مستوى باب من لم يدرك عرفة PageV04P619
+",000,False,000,False,False,False,2,183
+"### || AUTO مستوى باب الصبي إذا بلغ والعبد إذا عتق والذمي إذا أسلم وقد أحرموا PageV04P621
+",000,False,000,False,False,False,2,4050
+"### || AUTO مستوى باب هل له أن يحرم بحجتين أو عمرتين أو ما يتعلق بذلك PageV04P650
+",000,False,000,False,False,False,2,501
+"### || AUTO مستوى باب الإجارة على الحج والوصية PageV04P653
+",000,False,000,False,False,False,2,9168
+"### || AUTO مستوى باب قتل المحرم الصيد عمدا أو خطأ
+",000,False,000,False,False,False,2,1453
+"### || AUTO مستوى باب جزاء الصيد
+",000,False,000,False,False,False,2,15017
+"### || AUTO مستوى باب جزاء الطائر
+",000,False,000,False,False,False,2,3593
+"### || AUTO مستوى باب ما يحل للمحرم قتله PageV04P870
+",000,False,000,False,False,False,2,1049
+"### || AUTO مستوى باب الإحصار
+",000,False,000,False,False,False,2,5671
+"### || AUTO مستوى باب حصر العبد المحرم بغير إذن سيده والمرأة تحرم بغير
+",000,False,000,False,False,False,2,1432
+"### || AUTO مستوى باب الأيام المعلومات والأيام المعدودات PageV04P929
+",000,False,000,False,False,False,2,747
+"### || AUTO مستوى باب نذر الهدي
+",000,False,000,False,False,False,2,5294
+"### | AUTO مستوى كتاب البيوع
+",000,False,000,False,False,False,1,133622
+"### || AUTO مستوى باب ما أمر الله به ونهى عنه من المبايعات وسنن النبي
+",000,False,000,False,False,False,2,6800
+"### || AUTO مستوى باب خيار المتبايعين ما لم يتفرقا
+",000,False,000,False,False,False,2,13331
+"### || AUTO مستوى باب الربا وما لا يجوز بعضه ببعض متفاضلا ولا مؤجلا والصرف PageV05P132
+",000,False,000,False,False,False,2,26116
+"### || AUTO مستوى باب بيع اللحم باللحم
+",000,False,000,False,False,False,2,1036
+"### || AUTO مستوى باب بيع اللحم بالحيوان
+",000,False,000,False,False,False,2,1150
+"### || AUTO مستوى باب ثمرة الحائط يباع أصله من كثب PageV05P320
+",000,False,000,False,False,False,2,9449
+"### || AUTO مستوى باب لا يجوز بيع الثمر حتى يبدو صلاحه PageV05P392
+",000,False,000,False,False,False,2,6468
+"### || AUTO مستوى باب المحاقلة والمزابنة
+",000,False,000,False,False,False,2,649
+"### || AUTO مستوى باب العرايا PageV05P443
+",000,False,000,False,False,False,2,2406
+"### || AUTO مستوى باب البيع قبل القبض PageV05P462
+",000,False,000,False,False,False,2,5909
+"### || AUTO مستوى باب بيع المصراة PageV05P503
+",000,False,000,False,False,False,2,2410
+"### || AUTO مستوى باب الرد بالعيب PageV05P520
+",000,False,000,False,False,False,2,11429
+"### || AUTO مستوى باب بيع الأمة
+",000,False,000,False,False,False,2,1316
+"### || AUTO مستوى باب البيع مرابحة
+",000,False,000,False,False,False,2,3089
+"### || AUTO مستوى باب الرجل يبيع الشيء إلى أجل ثم يشتريه بأقل من الثمن PageV05P636
+",000,False,000,False,False,False,2,1135
+"### || AUTO مستوى باب تفريق صفقة البيع وجمعها PageV05P643
+",000,False,000,False,False,False,2,1888
+"### || AUTO مستوى باب اختلاف المتبايعين وإذا قال كل واحد منها لا أدفع
+",000,False,000,False,False,False,2,5692
+"### || AUTO مستوى باب البيع الفاسد PageV05P693
+",000,False,000,False,False,False,2,4543
+"### || AUTO مستوى باب بيع الغرر PageV05P724
+",000,False,000,False,False,False,2,3954
+"### || AUTO مستوى باب بيع حبل الحبلة والملامسة والمنابذة وشراء الأعمى
+",000,False,000,False,False,False,2,1483
+"### || AUTO مستوى باب البيع بالثمن المجهول وبيع النجش ونحو ذلك PageV05P761
+",000,False,000,False,False,False,2,1495
+"### || AUTO مستوى باب النهي عن بيع حاضر لباد والنهي عن تلقي السلع PageV05P772
+",000,False,000,False,False,False,2,1349
+"### || AUTO مستوى باب النهي عن بيع وسلف وعن سلف جر منفعة وتأخير الحق PageV05P781
+",000,False,000,False,False,False,2,2972
+"### || AUTO مستوى باب تصرف الوصي في مال موليه
+",000,False,000,False,False,False,2,2279
+"### || AUTO مستوى باب تصرف الرقيق
+",000,False,000,False,False,False,2,2215
+"### || AUTO مستوى باب بيع ما يجوز بيعه وما لا يجوز
+",000,False,000,False,False,False,2,3773
+"### || AUTO مستوى باب السلم
+",000,False,000,False,False,False,2,5959
+"### || AUTO مستوى باب ما لا يجوز السلم فيه PageV05P895
+",000,False,000,False,False,False,2,169
+"### || AUTO مستوى باب التسعير PageV05P896
+",000,False,000,False,False,False,2,1439
+"### || AUTO مستوى باب الزيادة في السلف وضبط ما يكال وما يوزن PageV05P906
+",000,False,000,False,False,False,2,1879
+"### | AUTO مستوى كتاب الرهن
+",000,False,000,False,False,False,1,81870
+"### || AUTO مستوى باب بيع الحاكم للرهن في الاستحقاق
+",000,False,000,False,False,False,2,13061
+"### || AUTO مستوى باب اختلاف الراهن والمرتهن PageV06P366
+",000,False,000,False,False,False,2,7898
+"### || AUTO مستوى باب انتفاع الراهن بما يرهنه
+",000,False,000,False,False,False,2,4631
+"### || AUTO مستوى باب رهن المشترك PageV06P454
+",000,False,000,False,False,False,2,3678
+"### || AUTO مستوى باب رهن الأرض
+",000,False,000,False,False,False,2,3739
+"### || AUTO مستوى باب ما يفسد الرهن من الشرط وما لا يفسده وغير ذلك
+",000,False,000,False,False,False,2,3327
+"### || AUTO مستوى باب الراهن غير مضمون PageV06P531
+",000,False,000,False,False,False,2,2913
+"### | AUTO مستوى كتاب التفليس
+",000,False,000,False,False,False,1,26396
+"### || AUTO مستوى باب الدين على الميت والعهدة في مال المفلس PageV06P724
+",000,False,000,False,False,False,2,495
+"### || AUTO مستوى باب جواز حبس من عليه الدين PageV06P728
+",000,False,000,False,False,False,2,2433
+"### | AUTO مستوى كتاب الحجر
+",000,False,000,False,False,False,1,7442
+"### | AUTO مستوى كتاب الصلح
+",000,False,000,False,False,False,1,15101
+"### | AUTO مستوى كتاب الحوالة
+",000,False,000,False,False,False,1,4029
+"### | AUTO مستوى كتاب الضمان
+",000,False,000,False,False,False,1,13515
+"### | AUTO مستوى كتاب الشركة
+",000,False,000,False,False,False,1,8255
+"### | AUTO مستوى كتاب الوكالة
+",000,False,000,False,False,False,1,22371
+"### | AUTO مستوى كتاب الإقرار
+",000,False,000,False,False,False,1,35879
+"### || AUTO مستوى باب الإقرار بالحقوق والمواهب والعارية
+",000,False,000,False,False,False,2,26553
+"### || AUTO مستوى باب إقرار الوارث بوارث
+",000,False,000,False,False,False,2,9335
+"### | AUTO مستوى كتاب العارية
+",000,False,000,False,False,False,1,6007
+"### | AUTO مستوى كتاب الغصب
+",000,False,000,False,False,False,1,117865
+"### || AUTO مستوى باب كراء الإبل وغيرها PageV07P997
+",000,False,000,False,False,False,2,23578
+"### | AUTO مستوى كتاب إحياء الموات
+",000,False,000,False,False,False,1,13335
+"### || AUTO مستوى باب ما يكون إحياء PageV07P1211
+",000,False,000,False,False,False,2,1850
+"### || AUTO مستوى باب ما يجوز أن يقطع وما لا يجوز PageV07P1225
+",000,False,000,False,False,False,2,607
+"### || AUTO مستوى باب تفريق القطائع وغيرها PageV07P1229
+",000,False,000,False,False,False,2,1295
+"### || AUTO مستوى باب إقطاع المعادن وغيرها PageV07P1238
+",000,False,000,False,False,False,2,5397
+"### | AUTO مستوى كتاب العطايا والصدقات والحبس وما دخل في ذلك من كتاب
+",000,False,000,False,False,False,1,15242
+"### || AUTO مستوى باب العمرى والرقبى PageV07P1350
+",000,False,000,False,False,False,2,1553
+"### || AUTO مستوى باب عطية الرجل ولده PageV07P1361
+",000,False,000,False,False,False,2,3314
+"### | AUTO مستوى كتاب اللقطة
+",000,False,000,False,False,False,1,25186
+"### || AUTO مستوى باب الجعالة PageV08P082
+",000,False,000,False,False,False,2,1891
+"### || AUTO مستوى باب التقاط المنبوذ يوجد معه الشيء PageV08P095
+",000,False,000,False,False,False,2,13094
+"### | AUTO مستوى كتاب الفرائض PageV08P194
+",000,False,000,False,False,False,1,43656
+"### || AUTO مستوى باب من لا يرث PageV08P206
+",000,False,000,False,False,False,2,8184
+"### || AUTO مستوى باب المواريث PageV08P266
+",000,False,000,False,False,False,2,7261
+"### || AUTO مستوى باب أقرب العصبة PageV08P321
+",000,False,000,False,False,False,2,2705
+"### || AUTO مستوى باب ميراث الجد PageV08P342
+",000,False,000,False,False,False,2,9853
+"### || AUTO مستوى باب ميراث المرتد PageV08P409
+",000,False,000,False,False,False,2,3791
+"### || AUTO مستوى باب ميراث المشتركة PageV08P436
+",000,False,000,False,False,False,2,1425
+"### || AUTO مستوى باب ميراث ولد الملاعنة PageV08P445
+",000,False,000,False,False,False,2,1536
+"### || AUTO مستوى باب ميراث المجوس PageV08P456
+",000,False,000,False,False,False,2,1107
+"### || AUTO مستوى باب ميراث الخنثى PageV08P464
+",000,False,000,False,False,False,2,2239
+"### || AUTO مستوى باب ذوي الأرحام PageV08P480
+",000,False,000,False,False,False,2,4139
+"### | AUTO مستوى كتاب الوصايا
+",000,False,000,False,False,False,1,53568
+"### || AUTO مستوى باب الوصية للقرابة من ذوي الأرحام PageV08P782
+",000,False,000,False,False,False,2,2191
+"### || AUTO مستوى باب ما يكون رجوعا في الوصية PageV08P798
+",000,False,000,False,False,False,2,2943
+"### || AUTO مستوى باب المرض الذي تجوز فيه العطية ولا تجوز والمخوف غير المرض PageV08P820
+",000,False,000,False,False,False,2,2901
+"### || AUTO مستوى باب الأوصياء
+",000,False,000,False,False,False,2,4745
+"### || AUTO مستوى باب ما يجوز للوصي أن يصنعه في أموال اليتامى PageV08P874
+",000,False,000,False,False,False,2,3168
+"### | AUTO مستوى كتاب الوديعة
+",000,False,000,False,False,False,1,198662
+"### || AUTO مستوى باب الأنفال
+",000,False,000,False,False,False,2,3727
+"### || AUTO مستوى باب تفريق الغنيمة PageV08P1025
+",000,False,000,False,False,False,2,8178
+"### || AUTO مستوى باب تفريق الخمس PageV08P1085
+",000,False,000,False,False,False,2,4429
+"### || AUTO مستوى باب تفريق ما أخذ من أربعة أخماس الفيء غير الموجف عليه
+",000,False,000,False,False,False,2,5912
+"### || AUTO مستوى باب ما لم يوجف عليه من الأرضين بخيل ولا ركاب PageV08P1162
+",000,False,000,False,False,False,2,19041
+"### || AUTO مستوى باب كيف تفريق قسم الصدقات
+",000,False,000,False,False,False,2,11243
+"### || AUTO مستوى باب ميسم الصدقات PageV08P1390
+",000,False,000,False,False,False,2,586
+"### || AUTO مستوى باب الاختلاف في المؤلفة PageV08P1394
+",000,False,000,False,False,False,2,3291
+"### || AUTO مستوى باب ما جاء في أمر النبي {صلى الله عليه وسلم} وأزواجه PageV09P011
+",000,False,000,False,False,False,2,9093
+"### || AUTO مستوى باب ما على الأولياء وإنكاح الأب البكر بغير إذنها PageV09P080
+",000,False,000,False,False,False,2,19371
+"### || AUTO مستوى باب اجتماع الولاة وأولاهم وتفرقهم وتزويج المغلوبين
+",000,False,000,False,False,False,2,21011
+"### || AUTO مستوى باب المرأة لا تلي عقدة النكاح PageV09P387
+",000,False,000,False,False,False,2,801
+"### || AUTO مستوى باب الكلام الذي ينعقد به النكاح والخطبة قبل العقد
+",000,False,000,False,False,False,2,4995
+"### || AUTO مستوى باب ما يحل من الحرائر ويحرم ولا يتسرى العبد وغير ذلك
+",000,False,000,False,False,False,2,10536
+"### || AUTO مستوى باب ما يحرم وما يحل من نكاح الحرائر ومن الإماء والجمع بينهن
+",000,False,000,False,False,False,2,6263
+"### || AUTO مستوى باب ما جاء في الزنا لا يحرم الحلال PageV09P551
+",000,False,000,False,False,False,2,1971
+"### || AUTO مستوى باب نكاح حرائر أهل الكتاب وإمائهم وإماء المسلمين PageV09P564
+",000,False,000,False,False,False,2,4563
+"### || AUTO مستوى باب الاستطاعة للحرائر وغير الاستطاعة PageV09P600
+",000,False,000,False,False,False,2,4837
+"### || AUTO مستوى باب التعريض بالخطبة
+",000,False,000,False,False,False,2,1044
+"### || AUTO مستوى باب النهي أن يخطب الرجل على خطبة أخيه PageV09P641
+",000,False,000,False,False,False,2,967
+"### || AUTO مستوى باب نكاح المشرك ومن أسلم وعنده أكثر من أربع
+",000,False,000,False,False,False,2,14317
+"### || AUTO مستوى باب الخلاف في إمساك الأواخر PageV09P755
+",000,False,000,False,False,False,2,226
+"### || AUTO مستوى باب ارتداد أحد الزوجين أو هما ، ومن شرك إلى شرك PageV09P757
+",000,False,000,False,False,False,2,1664
+"### || AUTO مستوى باب طلاق الشرك PageV09P770
+",000,False,000,False,False,False,2,588
+"### || AUTO مستوى باب عقد نكاح أهل الذمة ومهورهم
+",000,False,000,False,False,False,2,3385
+"### || AUTO مستوى باب إتيان الحائض PageV09P801
+",000,False,000,False,False,False,2,1064
+"### || AUTO مستوى باب إتيان النساء في أدبارهن PageV09P809
+",000,False,000,False,False,False,2,1786
+"### || AUTO مستوى باب الشغار PageV09P821
+",000,False,000,False,False,False,2,1348
+"### || AUTO مستوى باب نكاح المتعة والمحلل PageV09P830
+",000,False,000,False,False,False,2,2278
+"### || AUTO مستوى باب نكاح المحرم PageV09P845
+",000,False,000,False,False,False,2,4917
+"### || AUTO مستوى باب الأمة تغر من نفسها PageV09P883
+",000,False,000,False,False,False,2,1427
+"### || AUTO مستوى باب الأمة تعتق وزوجها عبد PageV09P893
+",000,False,000,False,False,False,2,3735
+"### || AUTO مستوى باب أجل العنين والخصي غير المجبوب والخنثى PageV09P920
+",000,False,000,False,False,False,2,5535
+"### || AUTO مستوى باب الإحصان الذي به يرجم من زنا PageV09P961
+",000,False,000,False,False,False,2,1404
+"### | AUTO مستوى كتاب الصداق
+",000,False,000,False,False,False,1,232234
+"### || AUTO مستوى باب الجعل والإجارة
+",000,False,000,False,False,False,2,21475
+"### || AUTO مستوى باب التفويض
+",000,False,000,False,False,False,2,6042
+"### || AUTO مستوى باب الاختلاف في المهر
+",000,False,000,False,False,False,2,5400
+"### || AUTO مستوى باب عفو المهر PageV09P1230
+",000,False,000,False,False,False,2,4848
+"### || AUTO مستوى باب الحكم في الدخول وإغلاق الباب وإرخاء الستر PageV09P1264
+",000,False,000,False,False,False,2,4898
+"### || AUTO مستوى باب المتعة PageV09P1300
+",000,False,000,False,False,False,2,2200
+"### || AUTO مستوى باب الوليمة والنثر
+",000,False,000,False,False,False,2,9471
+"### || AUTO مستوى باب الحال التي يختلف فيها حال النساء PageV09P1387
+",000,False,000,False,False,False,2,895
+"### || AUTO مستوى باب القسم للنساء إذا حضر سفر PageV09P1393
+",000,False,000,False,False,False,2,1511
+"### || AUTO مستوى باب نشوز المرأة على الرجل PageV09P1406
+",000,False,000,False,False,False,2,1608
+"### || AUTO مستوى باب الحكم في الشقاق بين الزوجين
+",000,False,000,False,False,False,2,170715
+"### | AUTO مستوى كتاب اللعان
+",000,False,000,False,False,False,1,50401
+"### || AUTO مستوى باب أين يكون اللعان
+",000,False,000,False,False,False,2,2048
+"### || AUTO مستوى باب سنة اللعان ونفي الولد وإلحاقه بالأم PageV11P112
+",000,year,000,False,False,False,2,2182
+"### || AUTO مستوى باب كيف اللعان PageV11P129
+",000,False,000,False,False,False,2,4954
+"### || AUTO مستوى باب ما يكون بعد التعان الزوج من الفرقة ونفي الولد وحد المرأة PageV11P165
+",000,False,000,False,False,False,2,3095
+"### || AUTO مستوى باب ما يكون قذفا ولا يكون PageV11P187
+",000,False,000,False,False,False,2,25321
+"### | AUTO مستوى كتاب العدد
+",000,False,000,False,False,False,1,60349
+"### || AUTO مستوى باب العدة من الموت والطلاق وزوج غائب PageV11P495
+",000,False,000,False,False,False,2,479
+"### || AUTO مستوى باب في عدة الأمة PageV11P498
+",000,False,000,False,False,False,2,2710
+"### || AUTO مستوى باب عدة الوفاة PageV11P517
+",000,False,000,False,False,False,2,3887
+"### || AUTO مستوى باب مقام المطلقة في بيتها والمتوفى عنها PageV11P546
+",000,False,000,False,False,False,2,9357
+"### || AUTO مستوى باب الإحداد PageV11P613
+",000,False,000,False,False,False,2,4074
+"### || AUTO مستوى باب اجتماع العدتين والقافة PageV11P646
+",000,False,000,False,False,False,2,8361
+"### || AUTO مستوى باب عدة المطلقة يملك رجعتها زوجها ثم يموت أو يطلق PageV11P705
+",000,False,000,False,False,False,2,1071
+"### || AUTO مستوى باب امرأة المفقود وعدتها إذا نكحت غيره PageV11P713
+",000,False,000,False,False,False,2,4246
+"### || AUTO مستوى باب استبراء أم الولد PageV11P743
+",000,False,000,False,False,False,2,4395
+"### || AUTO مستوى باب الاستبراء PageV11P774
+",000,False,000,False,False,False,2,3837
+"### | AUTO مستوى كتاب مختصر ما يحرم من الرضاعة PageV11P802
+",000,False,000,False,False,False,1,18034
+"### || AUTO مستوى باب لبن الرجل والمرأة PageV11P887
+",000,False,000,False,False,False,2,5189
+"### || AUTO مستوى باب رضاع الخنثى PageV11P925
+",000,False,000,False,False,False,2,1423
+"### | AUTO مستوى كتاب النفقات
+",000,False,000,False,False,False,1,37353
+"### || AUTO مستوى باب قدر النفقة PageV11P952
+",000,False,000,False,False,False,2,4488
+"### || AUTO مستوى باب الحال التي يجب فيها النفقة وما لا يجب PageV11P987
+",000,False,000,False,False,False,2,5449
+"### || AUTO مستوى باب الرجل لا يجد نفقة PageV11P1027
+",000,False,000,False,False,False,2,7314
+"### || AUTO مستوى باب النفقة على الأقارب PageV11P1082
+",000,False,000,False,False,False,2,6481
+"### || AUTO مستوى باب أي الوالدين أحق بالولد من كتب عدة PageV11P1130
+",000,False,000,False,False,False,2,8554
+"### || AUTO مستوى باب نفقة المماليك PageV11P1200
+",000,False,000,False,False,False,2,2512
+"### | AUTO مستوى كتاب القتل
+",000,False,000,False,False,False,1,63481
+"### || AUTO مستوى باب تحريم القتل ومن يجب عليه القصاص ومن لا يجب
+",000,False,000,False,False,False,2,9257
+"### || AUTO مستوى باب صفة القتل العمد وجراح العمد PageV12P066
+",000,False,000,False,False,False,2,18380
+"### || AUTO مستوى باب الخيار في القصاص
+",000,False,000,False,False,False,2,3911
+"### || AUTO مستوى باب القصاص بالسيف وغيره
+",000,False,000,False,False,False,2,9605
+"### || AUTO مستوى باب القصاص بغير السيف
+",000,False,000,False,False,False,2,2734
+"### || AUTO مستوى باب القصاص في الشجاج والجراح والأسنان ومن به نقص أو
+",000,False,000,False,False,False,2,16489
+"### || AUTO مستوى باب عفو المجني عليه ثم يموت وغير ذلك PageV12P437
+",000,False,000,False,False,False,2,3125
+"### | AUTO مستوى كتاب الديات
+",000,False,000,False,False,False,1,64124
+"### || AUTO مستوى باب أسنان الإبل المغلظة والعمد وكيف يشبه العمد الخطأ
+",000,False,000,False,False,False,2,3608
+"### || AUTO مستوى باب أسنان الخطأ وتقويمها وديات النفوس والجراح وغيرها
+",000,False,000,False,False,False,2,37976
+"### || AUTO مستوى باب من العاقلة التي تغرم
+",000,False,000,False,False,False,2,6043
+"### || AUTO مستوى باب عقل الموالي PageV12P812
+",000,False,000,False,False,False,2,492
+"### || AUTO مستوى باب أين تكون العاقلة PageV12P815
+",000,False,000,False,False,False,2,1100
+"### || AUTO مستوى باب عقل الحلفاء PageV12P823
+",000,False,000,False,False,False,2,533
+"### || AUTO مستوى باب عقل من لا يعرف نسبه وعقل أهل الذمة
+",000,False,000,False,False,False,2,1118
+"### || AUTO مستوى باب وضع الحجر حيث لا يجوز وضعه وحفر البئر وميل الحائط
+",000,False,000,False,False,False,2,4016
+"### || AUTO مستوى باب دية الجنين
+",000,False,000,False,False,False,2,7130
+"### || AUTO مستوى باب جنين الأمة
+",000,False,000,False,False,False,2,2143
+"### | AUTO مستوى كتاب القسامة
+",000,False,000,False,False,False,1,51450
+"### || AUTO مستوى باب ما ينبغي للحاكم أن يعلمه من الذي له القسامة وكيف يقسم PageV13P068
+",000,False,000,False,False,False,2,1984
+"### || AUTO مستوى باب عدد الأيمان
+",000,False,000,False,False,False,2,1340
+"### || AUTO مستوى باب ما يسقط القسامة من الاختلاف أو لا يسقطها PageV13P091
+",000,False,000,False,False,False,2,1985
+"### || AUTO مستوى باب كيف يمين مدعي الدم والمدعى عليه PageV13P106
+",000,False,000,False,False,False,2,2069
+"### || AUTO مستوى باب دعوى الدم في الموضع الذي فيه قسامة
+",000,False,000,False,False,False,2,1551
+"### || AUTO مستوى باب كفارة القتل
+",000,False,000,False,False,False,2,2433
+"### || AUTO مستوى باب لا يرث القاتل PageV13P152
+",000,False,000,False,False,False,2,662
+"### || AUTO مستوى باب الشهادة على الجناية PageV13P156
+",000,False,000,False,False,False,2,5379
+"### || AUTO مستوى باب الحكم في الساحر إذا قتل بسحره
+",000,False,000,False,False,False,2,2924
+"### || AUTO مستوى باب من يجب قتاله من أهل البغي والسيرة فيهم
+",000,False,000,False,False,False,2,11764
+"### || AUTO مستوى باب الخلاف في قتال أهل البغي PageV13P309
+",000,False,000,False,False,False,2,1610
+"### || AUTO مستوى باب حكم المرتد
+",000,False,000,False,False,False,2,8799
+"### | AUTO مستوى كتاب الحدود
+",000,False,000,False,False,False,1,23899
+"### || AUTO مستوى باب حد الزنا والشهادة عليه
+",000,False,000,False,False,False,2,19507
+"### || AUTO مستوى باب ما جاء في حد الذميين PageV13P533
+",000,False,000,False,False,False,2,790
+"### || AUTO مستوى باب حد القذف PageV13P539
+",000,False,000,False,False,False,2,3612
+"### | AUTO مستوى كتاب السرقة
+",000,False,000,False,False,False,1,32933
+"### || AUTO مستوى باب ما يجب فيه القطع PageV13P565
+",000,False,000,False,False,False,2,15477
+"### || AUTO مستوى باب قطع اليد والرجل في السرقة PageV13P678
+",000,False,000,False,False,False,2,3959
+"### || AUTO مستوى باب الإقرار بالسرقة والشهادة عليها PageV13P708
+",000,False,000,False,False,False,2,2915
+"### || AUTO مستوى باب غرم السارق ما سرق PageV13P730
+",000,False,000,False,False,False,2,572
+"### || AUTO مستوى باب ما لا قطع فيه
+",000,False,000,False,False,False,2,2234
+"### || AUTO مستوى باب قطاع الطريق PageV13P750
+",000,False,000,False,False,False,2,7797
+"### | AUTO مستوى كتاب الأشربة والحد فيها
+",000,False,000,False,False,False,1,20472
+"### || AUTO مستوى باب عدد حد الخمر ومن يموت من ضرب الإمام وخطأ السلطان PageV13P870
+",000,False,000,False,False,False,2,6889
+"### || AUTO مستوى باب صفة السوط PageV13P920
+",000,False,000,False,False,False,2,1697
+"### || AUTO مستوى باب قتال أهل الردة وما أصيب في أيديهم من متاع
+",000,False,000,False,False,False,2,2622
+"### | AUTO مستوى كتاب صول الفحل
+",000,False,000,False,False,False,1,7459
+"### || AUTO مستوى باب دفع الرجل عن نفسه وحريمه ومن يتطلع في بيته PageV13P953
+",000,False,000,False,False,False,2,4556
+"### || AUTO مستوى باب الضمان على البهائم PageV13P988
+",000,False,000,False,False,False,2,2905
+"### | AUTO مستوى كتاب السير
+",000,False,000,False,False,False,1,85672
+"### || AUTO مستوى باب أصل فرض الجهاد PageV14P217
+",000,False,000,False,False,False,2,4213
+"### || AUTO مستوى باب من له عذر بالضعف والضرر والزمانة والعذر بترك الجهاد
+",000,False,000,False,False,False,2,7467
+"### || AUTO مستوى باب النفير
+",000,False,000,False,False,False,2,2779
+"### || AUTO مستوى باب جامع السير
+",000,False,000,False,False,False,2,20270
+"### || AUTO مستوى باب ما أحرزه المشركون من المسلمين PageV14P479
+",000,False,000,False,False,False,2,6271
+"### || AUTO مستوى باب وقوع الرجل على الجارية قبل القسم أو يكون له فيهم
+",000,False,000,False,False,False,2,4469
+"### || AUTO مستوى باب المبارزة
+",000,False,000,False,False,False,2,1657
+"### || AUTO مستوى باب فتح السواد وحكم ما يوقفه الإمام من الأرض للمسلمين PageV14P568
+",000,False,000,False,False,False,2,4165
+"### || AUTO مستوى باب الأسير يؤخذ عليه العهد أن لا يهرب أو على الفداء PageV14P597
+",000,False,000,False,False,False,2,1653
+"### || AUTO مستوى باب إظهار دين النبي على الأديان كلها PageV14P612
+",000,False,000,False,False,False,2,2093
+"### | AUTO مستوى كتاب الجزية
+",000,False,000,False,False,False,1,34259
+"### || AUTO مستوى باب من يلحق بأهل الكتاب PageV14P626
+",000,False,000,False,False,False,2,3845
+"### || AUTO مستوى باب الجزية على أهل الكتاب والضيافة وما لهم وعليهم
+",000,False,000,False,False,False,2,14945
+"### || AUTO مستوى باب في نصارى العرب تضعف عليهم الصدقة ومسلك الجزية PageV14P766
+",000,False,000,False,False,False,2,1558
+"### || AUTO مستوى باب المهادنة على النظر للمسلمين ونقض ما لا يجوز من الصلح PageV14P777
+",000,False,000,False,False,False,2,7530
+"### || AUTO مستوى باب تبديل أهل الذمة دينهم PageV14P829
+",000,False,000,False,False,False,2,1725
+"### || AUTO مستوى باب نقض العهد
+",000,False,000,False,False,False,2,1726
+"### || AUTO مستوى باب الحكم في المهادنين والمعاهدين وما أتلف من خمرهم
+",000,False,000,False,False,False,2,2969
+"### | AUTO مستوى كتاب الصيد والذبائح
+",000,False,000,False,False,False,1,20328
+"### || AUTO مستوى باب صفة الصائد من كلب وغيره وما يحل من الصيد وما يحرم PageV15P003
+",000,False,000,False,False,False,2,20326
+"### | AUTO مستوى كتاب الضحايا
+",000,False,000,False,False,False,1,19295
+"### || AUTO مستوى باب العقيقة
+",000,False,000,False,False,False,2,1719
+"### | AUTO مستوى كتاب الأطعمة
+",000,False,000,False,False,False,1,13443
+"### || AUTO مستوى باب ما يحرم من جهة ما لا تأكل العرب PageV15P301
+",000,False,000,False,False,False,2,5470
+"### || AUTO مستوى باب كسب الحجام PageV15P340
+",000,False,000,False,False,False,2,1014
+"### || AUTO مستوى باب ما لا يحل أكله وما يجوز للمضطر من الميتة من غير كتاب
+",000,False,000,False,False,False,2,6977
+"### | AUTO مستوى كتاب السبق والرمي
+",000,False,000,False,False,False,1,21889
+"### | AUTO مستوى كتاب الأيمان
+",000,False,000,False,False,False,1,63468
+"### || AUTO مستوى باب الاستثناء في الأيمان
+",000,False,000,False,False,False,2,2134
+"### || AUTO مستوى باب لغو اليمين PageV15P647
+",000,False,000,False,False,False,2,562
+"### || AUTO مستوى باب الكفارة قبل الحنث وبعده PageV15P652
+",000,False,000,False,False,False,2,1432
+"### || AUTO مستوى باب من حلف بطلاق امرأته أن يتزوج عليها PageV15P661
+",000,False,000,False,False,False,2,1164
+"### || AUTO مستوى باب الإطعام في الكفارة في البلدان كلها ومن له أن يطعم وغيره
+",000,False,000,False,False,False,2,6323
+"### || AUTO مستوى باب ما يجزئ من الكسوة في الكفارة PageV15P721
+",000,False,000,False,False,False,2,752
+"### || AUTO مستوى باب ما يجوز في عتق الكفارات وما لا يجوز PageV15P726
+",000,False,000,False,False,False,2,2249
+"### || AUTO مستوى باب الصيام في كفارة الأيمان المتتابع وغيره PageV15P743
+",000,False,000,False,False,False,2,1021
+"### || AUTO مستوى باب الوصية بكفارة الأيمان والزكاة PageV15P750
+",000,False,000,False,False,False,2,1227
+"### || AUTO مستوى باب كفارة يمين العبد بعد أن يعتق PageV15P760
+",000,False,000,False,False,False,2,1356
+"### || AUTO مستوى باب جامع الأيمان PageV15P769
+",000,False,000,False,False,False,2,13643
+"### || AUTO مستوى باب من حلف على غريمه لا يفارقه حتى يستوفي حقه PageV15P864
+",000,False,000,False,False,False,2,2151
+"### || AUTO مستوى باب من حلف على امرأته لا تخرج إلا بإذنه PageV15P880
+",000,False,000,False,False,False,2,2584
+"### || AUTO مستوى باب من يعتق من مماليكه إذا حنث أو حلف بعتق عبد فباعه
+",000,False,000,False,False,False,2,2855
+"### || AUTO مستوى باب جامع الأيمان الثاني PageV15P918
+",000,False,000,False,False,False,2,15581
+"### | AUTO مستوى كتاب النذور
+",000,False,000,False,False,False,1,13387
+"### | AUTO مستوى كتاب أدب القاضي
+",000,False,000,False,False,False,1,58178
+"### | AUTO مستوى كتاب قاض إلى قاض PageV16P413
+",000,False,000,False,False,False,1,54333
+"### || AUTO مستوى باب القسام
+",000,False,000,False,False,False,2,7430
+"### || AUTO مستوى باب ما على القاضي في الخصوم والشهود
+",000,False,000,False,False,False,2,20294
+"### || AUTO مستوى باب عدة الشهود وحيث لا يجوز فيه النساء وحيث يجوز وحكم
+",000,False,000,False,False,False,2,3458
+"### || AUTO مستوى باب شهادة النساء لا رجل معهن والرد على من أجاز شهادة امرأة PageV17P032
+",000,False,000,False,False,False,2,1262
+"### || AUTO مستوى باب شهادة القاذف PageV17P041
+",000,False,000,False,False,False,2,2799
+"### || AUTO مستوى باب التحفظ في الشهادة والعلم بها
+",000,False,000,False,False,False,2,4909
+"### || AUTO مستوى باب ما يجب على المرء من القيام بالشهادة إذا دعي ليشهد
+",000,False,000,False,False,False,2,2257
+"### || AUTO مستوى باب شرط الذين تقبل شهادتهم
+",000,False,000,False,False,False,2,2434
+"### | AUTO مستوى كتاب الأقضية واليمين مع الشاهد
+",000,False,000,False,False,False,1,100171
+"### || AUTO مستوى باب الخلاف في اليمين مع الشاهد PageV17P200
+",000,False,000,False,False,False,2,2264
+"### || AUTO مستوى باب موضع اليمين
+",000,False,000,False,False,False,2,7126
+"### || AUTO مستوى باب الامتناع من اليمين PageV17P271
+",000,False,000,False,False,False,2,1780
+"### || AUTO مستوى باب النكول ورد اليمين PageV17P284
+",000,False,000,False,False,False,2,2586
+"### || AUTO مستوى باب من تجوز شهادته ومن لا تجوز ومن يشهد بعد رد شهادته
+",000,False,000,False,False,False,2,18208
+"### || AUTO مستوى باب الشهادة على الشهادة
+",000,False,000,False,False,False,2,4210
+"### || AUTO مستوى باب الشهادة على الحدود وجرح الشهود
+",000,False,000,False,False,False,2,4814
+"### || AUTO مستوى باب الرجوع عن الشهادة
+",000,False,000,False,False,False,2,5195
+"### || AUTO مستوى باب علم الحاكم بحال من قضى بشهادته PageV17P549
+",000,False,000,False,False,False,2,1623
+"### || AUTO مستوى باب الشهادة في الوصية
+",000,False,000,False,False,False,2,15550
+"### || AUTO مستوى باب الدعوى في الميراث PageV17P673
+",000,False,000,False,False,False,2,4926
+"### || AUTO مستوى باب الدعوى في وقت قبل وقت PageV17P706
+",000,False,000,False,False,False,2,1182
+"### || AUTO مستوى باب الدعوى على كتاب أبي حنيفة PageV17P714
+",000,False,000,False,False,False,2,10096
+"### || AUTO مستوى باب في القافة ودعوى الولد PageV17P788
+",000,False,000,False,False,False,2,5737
+"### || AUTO مستوى باب جواب الشافعي محمد بن الحسن في الولد يدعيه عدة رجال PageV17P828
+",000,False,000,False,False,False,2,1211
+"### || AUTO مستوى باب دعوى الأعاجم ولادة الشرك والطفل يسلم أحد أبويه PageV17P836
+",000,False,000,False,False,False,2,1756
+"### || AUTO مستوى باب متاع البيت يختلف فيه الزوجان PageV17P848
+",000,False,000,False,False,False,2,1179
+"### || AUTO مستوى باب أخذ الرجل حقه ممن يمنعه إياه PageV17P856
+",000,False,000,False,False,False,2,1304
+"### | AUTO مستوى كتاب العتق
+",000,False,000,False,False,False,1,93629
+"### || AUTO مستوى باب عتق الشرك في الصحة والمرض والوصايا في العتق
+",000,False,000,False,False,False,2,10115
+"### || AUTO مستوى باب في عتق العبيد لا يخرجون من الثلث PageV18P073
+",000,False,000,False,False,False,2,1616
+"### || AUTO مستوى باب كيفية القرعة بين المماليك وغيرهم PageV18P084
+",000,False,000,False,False,False,2,286
+"### || AUTO مستوى باب الإقراع بين العبيد في العتق والدين والتبدئة بالعتق
+",000,False,000,False,False,False,2,9486
+"### || AUTO مستوى باب من يعتق بالملك
+",000,False,000,False,False,False,2,2240
+"### || AUTO مستوى باب في الولاء
+",000,False,000,False,False,False,2,14995
+"### || AUTO مستوى باب وطء المدبرة وحكم ولدها PageV18P283
+",000,False,000,False,False,False,2,2180
+"### || AUTO مستوى باب في تدبير النصراني
+",000,False,000,False,False,False,2,681
+"### || AUTO مستوى باب في تدبير الصبي الذي يعقل ولم يبلغ
+",000,False,000,False,False,False,2,22449
+"### || AUTO مستوى باب في ولد المكاتبة
+",000,False,000,False,False,False,2,2448
+"### || AUTO مستوى باب المكاتبة بين اثنين يطؤها أحدهما أو كلاهما PageV18P493
+",000,False,000,False,False,False,2,3819
+"### || AUTO مستوى باب تعجيل الكتابة PageV18P523
+",000,False,000,False,False,False,2,6547
+"### || AUTO مستوى باب كتابة النصراني
+",000,False,000,False,False,False,2,8015
+"### || AUTO مستوى باب ما جنى على المكاتب له
+",000,False,000,False,False,False,2,804
+"### || AUTO مستوى باب الجناية على المكاتب ورقيقه عمدا PageV18P642
+",000,False,000,False,False,False,2,500
+"### || AUTO مستوى باب عتق السيد المكاتب في المرض وغيره PageV18P646
+",000,False,000,False,False,False,2,2240
+"### || AUTO مستوى باب موت سيد المكاتب PageV18P663
+",000,False,000,False,False,False,2,860
+"### || AUTO مستوى باب عجز المكاتب PageV18P671
+",000,False,000,False,False,False,2,2451
+"### || AUTO مستوى باب الوصية بالمكاتب والوصية له PageV18P689
+",000,False,000,False,False,False,2,1993
+"### | AUTO مستوى كتاب عتق أمهات الأولاد
+",000,False,000,False,False,False,1,4352
+"### || AUTO فصل : فإذا تقرر ما وصفنا من انتشار حرمتها ، وتحريم بيعها ،
+",000,False,000,False,False,False,2,394
+"### || AUTO فصل : وأما الفصل الثاني في حكمها بعد كونها أم ولد حكم الأمة
+",000,False,000,False,False,False,2,154
+"### || AUTO فصل : وأما حكمها بعد موت السيد أم الولد ، فهو تحرير عتقها
+",000,False,000,False,False,False,2,313
+"### || AUTO فصل : فإذا تقرر أن ولد أم الولد عتقه على التأخير أم على
+",000,False,000,False,False,False,2,632
+"### || AUTO فصل : ولو أوصى لأم ولد غيره ، ولمدبر غيره صحت الوصية لهما ،
+",000,False,000,False,False,False,2,901
+"### || AUTO فصل : فإذا ملك المسلم مجوسية ، فإن وطئها ، فلا حد عليه لأجل
+",000,False,000,False,False,False,2,1088

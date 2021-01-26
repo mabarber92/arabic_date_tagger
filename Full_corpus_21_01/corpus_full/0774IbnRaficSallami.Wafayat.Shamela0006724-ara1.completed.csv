@@ -1,0 +1,757 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | [الوفيات]
+",000,False,000,False,False,False,1,114
+"### | سنة سبع وثلاثين وسبع مئة
+",737,year,000,False,737,037,1,4712
+"### || المحرم
+",000,False,000,False,False,False,2,584
+"### || صفر
+",000,False,000,False,False,False,2,208
+"### || ربيع الأول
+",000,False,000,False,False,False,2,417
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,321
+"### || جمادى الأولى
+",000,False,000,False,False,False,2,578
+"### || جمادى الآخرة
+",000,False,000,False,False,False,2,453
+"### || رجب
+",000,False,000,False,False,False,2,441
+"### || شعبان
+",000,False,000,False,False,False,2,248
+"### || رمضان
+",000,False,000,False,False,False,2,895
+"### || شوال
+",000,False,000,False,False,False,2,146
+"### || ذو القعدة
+",000,False,000,False,False,False,2,342
+"### || ذو الحجة
+",000,False,000,False,False,False,2,126
+"### | سنة ثمان وثلاثين وسبع مئة
+",738,year,000,False,738,036,1,3820
+"### || المحرم
+",000,False,000,False,False,False,2,404
+"### || صفر
+",000,False,000,False,False,False,2,224
+"### || ربيع الأول
+",000,False,000,False,False,False,2,202
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,205
+"### || جمادى الأولى
+",000,False,000,False,False,False,2,407
+"### || جمادى الآخرة
+",000,False,000,False,False,False,2,354
+"### || رجب
+",000,False,000,False,False,False,2,268
+"### || شعبان
+",000,False,000,False,False,False,2,240
+"### || رمضان
+",000,False,000,False,False,False,2,439
+"### || شوال
+",000,False,000,False,False,False,2,192
+"### || ذو القعدة
+",000,False,000,False,False,False,2,404
+"### || ذو الحجة
+",000,False,000,False,False,False,2,509
+"### | سنة تسع وثلاثين وسبع مئة
+",739,year,000,False,739,035,1,4453
+"### || المحرم
+",000,False,000,False,False,False,2,617
+"### || صفر
+",000,False,000,False,False,False,2,416
+"### || ربيع الأول
+",000,False,000,False,False,False,2,464
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,257
+"### || جمادى الأولى
+",000,False,000,False,False,False,2,669
+"### || جمادى الآخرة
+",000,False,000,False,False,False,2,284
+"### || رجب
+",000,False,000,False,False,False,2,346
+"### || شعبان
+",000,False,000,False,False,False,2,286
+"### || رمضان
+",000,False,000,False,False,False,2,131
+"### || شوال
+",000,False,000,False,False,False,2,425
+"### || ذو القعدة
+",000,False,000,False,False,False,2,448
+"### || ذوالحجة
+",000,False,000,False,False,False,2,165
+"### | سنة أربعين وسبع مئة
+",740,year,000,False,740,034,1,5328
+"### || المحرم
+",000,False,000,False,False,False,2,1053
+"### || صفر
+",000,False,000,False,False,False,2,278
+"### || ربيع الأول
+",000,False,000,False,False,False,2,646
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,504
+"### || جمادى الأولى
+",000,False,000,False,False,False,2,391
+"### || جمادى الآخرة
+",000,False,000,False,False,False,2,290
+"### || رجب
+",000,False,000,False,False,False,2,537
+"### || شعبان
+",000,False,000,False,False,False,2,630
+"### || رمضان
+",000,False,000,False,False,False,2,364
+"### || شوال
+",000,False,000,False,False,False,2,193
+"### || ذو القعدة
+",000,False,000,False,False,False,2,63
+"### || ذو الحجة
+",000,False,000,False,False,False,2,422
+"### | سنة إحدى واربعين وسبع مئة
+",741,year,000,False,741,033,1,3595
+"### || المحرم
+",000,False,000,False,False,False,2,124
+"### || صفر
+",000,False,000,False,False,False,2,131
+"### || ربيع الأول
+",000,False,000,False,False,False,2,182
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,390
+"### || جمادى الأولى
+",000,False,000,False,False,False,2,430
+"### || جمادى الآخرة
+",000,False,000,False,False,False,2,315
+"### || رجب
+",000,False,000,False,False,False,2,400
+"### || شعبان
+",000,False,000,False,False,False,2,46
+"### || رمضان
+",000,False,000,False,False,False,2,505
+"### || شوال
+",000,False,000,False,False,False,2,136
+"### || ذو القعدة
+",000,False,000,False,False,False,2,353
+"### || ذوالحجة
+",000,False,000,False,False,False,2,619
+"### | سنة اثنتين وأربعين وسبع مئة
+",742,year,000,False,742,032,1,2183
+"### || المحرم
+",000,False,000,False,False,False,2,140
+"### || صفر
+",000,False,000,False,False,False,2,399
+"### || ربيع الأول
+",000,False,000,False,False,False,2,144
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,53
+"### || جمادى الأول
+",000,False,000,False,False,False,2,174
+"### || جمادى الآخرة
+",000,False,000,False,False,False,2,241
+"### || رجب
+",000,False,000,False,False,False,2,149
+"### || شعبان
+",000,False,000,False,False,False,2,109
+"### || رمضان
+",000,False,000,False,False,False,2,211
+"### || شوال
+",000,False,000,False,False,False,2,146
+"### || ذو القعدة
+",000,False,000,False,False,False,2,183
+"### || ذو الحجة
+",000,False,000,False,False,False,2,263
+"### | سنة ثلاث واربعين وسبع مئة
+",743,year,000,False,743,031,1,2188
+"### || المحرم
+",000,False,000,False,False,False,2,69
+"### || صفر
+",000,False,000,False,False,False,2,404
+"### || ربيع الأول
+",000,False,000,False,False,False,2,196
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,70
+"### || جمادى الأولى
+",000,False,000,False,False,False,2,286
+"### || جمادى الآخرة
+",000,False,000,False,False,False,2,145
+"### || رجب
+",000,False,000,False,False,False,2,108
+"### || شعبان
+",000,False,000,False,False,False,2,195
+"### || رمضان
+",000,False,000,False,False,False,2,315
+"### || شوال
+",000,False,000,False,False,False,2,133
+"### || ذو القعدة
+",000,False,000,False,False,False,2,54
+"### || ذو الحجة
+",000,False,000,False,False,False,2,243
+"### | سنة أربع وأربعين وسبع مئة
+",744,year,000,False,744,030,1,2959
+"### || المحرم
+",000,False,000,False,False,False,2,420
+"### || صفر
+",000,False,000,False,False,False,2,211
+"### || ربيع الأول
+",000,False,000,False,False,False,2,370
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,63
+"### || جمادى الأولى
+",000,False,000,False,False,False,2,370
+"### || جمادى الآخرة
+",000,False,000,False,False,False,2,230
+"### || 
+",000,False,000,False,False,False,2,418
+"### || شعبان
+",000,False,000,False,False,False,2,128
+"### || رمضان
+",000,False,000,False,False,False,2,201
+"### || شوال
+",000,False,000,False,False,False,2,79
+"### || ذو القعدة
+",000,False,000,False,False,False,2,376
+"### || ذو الحجة
+",000,False,000,False,False,False,2,132
+"### | سنة خمس واربعين وسبع مئة
+",745,year,000,False,745,029,1,2115
+"### || المحرم
+",000,False,000,False,False,False,2,114
+"### || صفر
+",000,False,000,False,False,False,2,262
+"### || ربيع الأول
+",000,False,000,False,False,False,2,247
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,55
+"### || جمادى الأولى
+",000,False,000,False,False,False,2,45
+"### || جمادى الآخرة
+",000,False,000,False,False,False,2,237
+"### || رجب
+",000,False,000,False,False,False,2,257
+"### || شعبان
+",000,False,000,False,False,False,2,170
+"### || رمضان
+",000,False,000,False,False,False,2,290
+"### || شوال
+",000,False,000,False,False,False,2,227
+"### || ذو القعدة
+",000,False,000,False,False,False,2,252
+"### | سنة ست وأربعين وسبع مئة
+",746,year,000,False,746,028,1,1182
+"### || المحرم
+",000,False,000,False,False,False,2,43
+"### || صفر
+",000,False,000,False,False,False,2,92
+"### || ربيع الأول
+",000,False,000,False,False,False,2,172
+"### || جمادى الأولى
+",000,False,000,False,False,False,2,176
+"### || جمادى الآخرة
+",000,False,000,False,False,False,2,23
+"### || رجب
+",000,False,000,False,False,False,2,81
+"### || شعبان
+",000,False,000,False,False,False,2,154
+"### || رمضان
+",000,False,000,False,False,False,2,222
+"### || شوال
+",000,False,000,False,False,False,2,114
+"### || ذو القعدة
+",000,False,000,False,False,False,2,58
+"### || ذو الحجة
+",000,False,000,False,False,False,2,71
+"### | سنة سبع وأربعين وسبع مئة
+",747,year,000,False,747,027,1,1261
+"### || المحرم
+",000,False,000,False,False,False,2,131
+"### || صفر
+",000,False,000,False,False,False,2,137
+"### || ربيع الأول
+",000,False,000,False,False,False,2,96
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,137
+"### || رجب
+",000,False,000,False,False,False,2,89
+"### || شعبان
+",000,False,000,False,False,False,2,171
+"### || رمضان
+",000,False,000,False,False,False,2,166
+"### || شوال
+",000,False,000,False,False,False,2,160
+"### || ذو القعدة
+",000,False,000,False,False,False,2,120
+"### || ذو الحجة
+",000,False,000,False,False,False,2,91
+"### | سنة ثمان وأربعين وسبع مئة
+",748,year,000,False,748,026,1,1411
+"### || المحرم
+",000,False,000,False,False,False,2,158
+"### || صفر
+",000,False,000,False,False,False,2,38
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,120
+"### || جمادى الآخرة
+",000,False,000,False,False,False,2,206
+"### || رجب
+",000,False,000,False,False,False,2,181
+"### || رمضان
+",000,False,000,False,False,False,2,235
+"### || شوال
+",000,False,000,False,False,False,2,136
+"### || ذو القعدة
+",000,False,000,False,False,False,2,199
+"### || ذو الحجة
+",000,False,000,False,False,False,2,151
+"### | سنة تسع وأربعين وسبع مئة
+",749,year,000,False,749,025,1,4501
+"### || المحرم
+",000,False,000,False,False,False,2,274
+"### || صفر
+",000,False,000,False,False,False,2,193
+"### || ربيع الأول
+",000,False,000,False,False,False,2,564
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,168
+"### || جمادى الأولى
+",000,False,000,False,False,False,2,328
+"### || جمادى الآخرة
+",000,False,000,False,False,False,2,567
+"### || رجب
+",000,False,000,False,False,False,2,783
+"### || شعبان
+",000,False,000,False,False,False,2,442
+"### || رمضان
+",000,False,000,False,False,False,2,274
+"### || شوال
+",000,False,000,False,False,False,2,205
+"### || ذو القعدة
+",000,False,000,False,False,False,2,484
+"### || ذو الحجة
+",000,False,000,False,False,False,2,263
+"### | سنة خمسين وسبع مئة
+",750,year,000,False,750,024,1,907
+"### || المحرم
+",000,False,000,False,False,False,2,248
+"### || صفر
+",000,False,000,False,False,False,2,70
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,147
+"### || جمادى ms136 الأولى
+",000,False,000,False,False,False,2,102
+"### || رجب
+",000,False,000,False,False,False,2,34
+"### || شعبان
+",000,False,000,False,False,False,2,115
+"### || رمضان
+",000,False,000,False,False,False,2,83
+"### || شوال
+",000,False,000,False,False,False,2,35
+"### || ذو القعدة
+",000,False,000,False,False,False,2,64
+"### || ذو الحجة
+",000,False,000,False,False,False,2,53
+"### | سنة إحدى وخمسين وسبع مئة
+",751,year,000,False,751,023,1,540
+"### || المحرم
+",000,False,000,False,False,False,2,111
+"### || جمادى الأولى
+",000,False,000,False,False,False,2,103
+"### || رجب
+",000,False,000,False,False,False,2,92
+"### || شعبان
+",000,False,000,False,False,False,2,89
+"### || رمضان
+",000,False,000,False,False,False,2,40
+"### || شوال
+",000,False,000,False,False,False,2,51
+"### || ذو القعدة
+",000,False,000,False,False,False,2,79
+"### | سنة اثنتين وخمسين وسبع مئة
+",752,year,000,False,752,022,1,682
+"### || المحرم
+",000,False,000,False,False,False,2,52
+"### || صفر
+",000,False,000,False,False,False,2,112
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,127
+"### || جمادى الآخرة
+",000,False,000,False,False,False,2,144
+"### || رجب
+",000,False,000,False,False,False,2,37
+"### || شعبان
+",000,False,000,False,False,False,2,67
+"### || شوال
+",000,False,000,False,False,False,2,54
+"### || ذو القعدة
+",000,False,000,False,False,False,2,62
+"### || ذو الحجة
+",000,False,000,False,False,False,2,56
+"### | سنة ثلاث وخمسين وسبع مئة
+",753,year,000,False,753,021,1,495
+"### || رجب
+",000,False,000,False,False,False,2,126
+"### || شعبان
+",000,False,000,False,False,False,2,61
+"### || رمضان
+",000,False,000,False,False,False,2,112
+"### || شوال
+",000,False,000,False,False,False,2,126
+"### || ذو الحجة
+",000,False,000,False,False,False,2,72
+"### | سنة أربع وخمسين وسبع مئة
+",754,year,000,False,754,020,1,546
+"### || المحرم
+",000,False,000,False,False,False,2,55
+"### || صفر
+",000,False,000,False,False,False,2,51
+"### || ربيع الأول
+",000,False,000,False,False,False,2,24
+"### || جمادى الآخرة
+",000,False,000,False,False,False,2,63
+"### || شعبان
+",000,False,000,False,False,False,2,39
+"### || رمضان
+",000,False,000,False,False,False,2,90
+"### || شوال
+",000,False,000,False,False,False,2,126
+"### || ذو القعدة
+",000,False,000,False,False,False,2,52
+"### || ذو الحجة
+",000,False,000,False,False,False,2,63
+"### | سنة خمس وخمسين وسبع مئة
+",755,year,000,False,755,019,1,980
+"### || المحرم
+",000,False,000,False,False,False,2,53
+"### || صفر
+",000,False,000,False,False,False,2,48
+"### || ربيع الأول
+",000,False,000,False,False,False,2,55
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,44
+"### || جمادى الآخرة
+",000,False,000,False,False,False,2,179
+"### || شعبان
+",000,False,000,False,False,False,2,212
+"### || رمضان
+",000,False,000,False,False,False,2,78
+"### || شوال
+",000,False,000,False,False,False,2,155
+"### || ذو القعدة
+",000,False,000,False,False,False,2,189
+"### | سنة ست وخمسين وسبع مئة
+",756,year,000,False,756,018,1,706
+"### || المحرم
+",000,False,000,False,False,False,2,103
+"### || ربيع الأول
+",000,False,000,False,False,False,2,136
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,53
+"### || جمادى الأولى
+",000,False,000,False,False,False,2,66
+"### || جمادى الآخرة
+",000,False,000,False,False,False,2,115
+"### || رجب
+",000,False,000,False,False,False,2,70
+"### || رمضان
+",000,False,000,False,False,False,2,74
+"### || شوال
+",000,False,000,False,False,False,2,50
+"### || ذو الحجة
+",000,False,000,False,False,False,2,64
+"### | سنة سبع وخمسين وسبع مئة
+",757,year,000,False,757,017,1,520
+"### || صفر
+",000,False,000,False,False,False,2,47
+"### || جمادى الآخرة
+",000,False,000,False,False,False,2,165
+"### || شعبان
+",000,False,000,False,False,False,2,44
+"### || شوال
+",000,False,000,False,False,False,2,93
+"### || ذو القعدة
+",000,False,000,False,False,False,2,73
+"### || ذو الحجة
+",000,False,000,False,False,False,2,130
+"### | سنة ثمان وخمسين وسبع مئة
+",758,year,000,False,758,016,1,660
+"### || ربيع الأول
+",000,False,000,False,False,False,2,149
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,66
+"### || جمادى الآخرة
+",000,False,000,False,False,False,2,57
+"### || شعبان
+",000,False,000,False,False,False,2,64
+"### || رمضان
+",000,False,000,False,False,False,2,106
+"### || شوال
+",000,False,000,False,False,False,2,113
+"### || ذو الحجة
+",000,False,000,False,False,False,2,117
+"### | سنة تسع وخمسين وسبع مئة
+",759,year,000,False,759,015,1,702
+"### || صفر
+",000,False,000,False,False,False,2,107
+"### || ربيع الأول
+",000,False,000,False,False,False,2,45
+"### || جمادى الأولى
+",000,False,000,False,False,False,2,79
+"### || جمادى الآخرة
+",000,False,000,False,False,False,2,66
+"### || رجب
+",000,False,000,False,False,False,2,62
+"### || شعبان
+",000,False,000,False,False,False,2,150
+"### || ذو القعدة
+",000,False,000,False,False,False,2,214
+"### | سنة ستين وسبع مئة
+",760,year,000,False,760,014,1,516
+"### || صفر
+",000,False,000,False,False,False,2,46
+"### || ربيع الأول
+",000,False,000,False,False,False,2,59
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,60
+"### || جمادى الأولى
+",000,False,000,False,False,False,2,57
+"### || رجب
+",000,False,000,False,False,False,2,59
+"### || شعبان
+",000,False,000,False,False,False,2,44
+"### || ذو القعدة
+",000,False,000,False,False,False,2,70
+"### || ذو الحجة
+",000,False,000,False,False,False,2,147
+"### | سنة احدى وستين وسبعمئة
+",061,year,000,False,761,013,1,674
+"### || المحرم
+",000,False,000,False,False,False,2,195
+"### || صفر
+",000,False,000,False,False,False,2,123
+"### || ربيع الأول
+",000,False,000,False,False,False,2,46
+"### || رجب
+",000,False,000,False,False,False,2,45
+"### || شعبان ms160
+",000,False,000,False,False,False,2,188
+"### || ذو القعدة
+",000,False,000,False,False,False,2,40
+"### || ذو الحجة
+",000,False,000,False,False,False,2,47
+"### | سنة اثنتين وستين وسبع مئة
+",762,year,000,False,762,012,1,633
+"### || المحرم
+",000,False,000,False,False,False,2,62
+"### || صفر
+",000,False,000,False,False,False,2,53
+"### || ربيع الأول
+",000,False,000,False,False,False,2,77
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,72
+"### || جمادى الأولى
+",000,False,000,False,False,False,2,142
+"### || رجب
+",000,False,000,False,False,False,2,80
+"### || شعبان
+",000,False,000,False,False,False,2,103
+"### || ذو القعدة
+",000,False,000,False,False,False,2,76
+"### | سنة ثلاث وستين وسبع مئة
+",763,year,000,False,763,011,1,642
+"### || المحرم
+",000,False,000,False,False,False,2,29
+"### || صفر
+",000,False,000,False,False,False,2,177
+"### || ربيع الأول
+",000,False,000,False,False,False,2,106
+"### || ربيع ms164 الآخر
+",000,False,000,False,False,False,2,224
+"### || رجب
+",000,False,000,False,False,False,2,50
+"### || ذو القعدة
+",000,False,000,False,False,False,2,71
+"### | سنة أربع وستين وسبع مئة
+",764,year,000,False,764,010,1,1483
+"### || جمادى الأولى
+",000,False,000,False,False,False,2,202
+"### || جمادى الآخرة
+",000,False,000,False,False,False,2,49
+"### || رجب
+",000,False,000,False,False,False,2,145
+"### || شعبان
+",000,False,000,False,False,False,2,50
+"### || رمضان
+",000,False,000,False,False,False,2,366
+"### || شوال
+",000,False,000,False,False,False,2,565
+"### || ذو القعدة
+",000,False,000,False,False,False,2,121
+"### | سنة خمس وستين وسبع مئة
+",765,year,000,False,765,009,1,1020
+"### || المحرم
+",000,False,000,False,False,False,2,134
+"### || صفر
+",000,False,000,False,False,False,2,47
+"### || ربيع الأول
+",000,False,000,False,False,False,2,22
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,142
+"### || جمادى الأولى من السنة
+",000,year,000,False,False,False,2,47
+"### || جمادى الآخرة من السنة
+",000,year,000,False,False,False,2,92
+"### || رجب
+",000,False,000,False,False,False,2,161
+"### || شعبان
+",000,False,000,False,False,False,2,135
+"### || رمضان
+",000,False,000,False,False,False,2,141
+"### || شوال
+",000,False,000,False,False,False,2,136
+"### | سنة ست وستين وسبع مئة
+",766,year,000,False,766,008,1,308
+"### || المحرم
+",000,False,000,False,False,False,2,42
+"### || صفر
+",000,False,000,False,False,False,2,64
+"### || رجب
+",000,False,000,False,False,False,2,25
+"### || شعبان
+",000,False,000,False,False,False,2,78
+"### || ذو القعدة
+",000,False,000,False,False,False,2,62
+"### || ذو الحجة
+",000,False,000,False,False,False,2,44
+"### | سنة سبع وستين وسبع مئة
+",767,year,000,False,767,007,1,551
+"### || المحرم
+",000,False,000,False,False,False,2,54
+"### || صفر
+",000,False,000,False,False,False,2,72
+"### || جمادى الأولى
+",000,False,000,False,False,False,2,98
+"### || جمادى الآخرة
+",000,False,000,False,False,False,2,128
+"### || شوال
+",000,False,000,False,False,False,2,84
+"### || ذو الحجة
+",000,False,000,False,False,False,2,136
+"### | سنة ثمان وستين وسبع مئة
+",768,year,000,False,768,006,1,544
+"### || المحرم
+",000,False,000,False,False,False,2,53
+"### || صفر
+",000,False,000,False,False,False,2,57
+"### || ربيع الأول
+",000,False,000,False,False,False,2,41
+"### || جمادى الآخرة
+",000,False,000,False,False,False,2,107
+"### || رمضان 
+",000,False,000,False,False,False,2,26
+"### || شوال
+",000,False,000,False,False,False,2,81
+"### || ذو القعدة
+",000,False,000,False,False,False,2,87
+"### || ذو الحجة
+",000,False,000,False,False,False,2,124
+"### | سنة تسع وستين وسبع مئة
+",769,year,000,False,769,005,1,1169
+"### || المحرم
+",000,False,000,False,False,False,2,133
+"### || صفر
+",000,False,000,False,False,False,2,317
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,90
+"### || رجب
+",000,False,000,False,False,False,2,106
+"### || شعبان
+",000,False,000,False,False,False,2,164
+"### || رمضان
+",000,False,000,False,False,False,2,138
+"### || شوال
+",000,False,000,False,False,False,2,57
+"### || ذو الحجة
+",000,False,000,False,False,False,2,172
+"### | سنة سبعين وسبع مئة
+",770,year,000,False,770,004,1,676
+"### || المحرم
+",000,False,000,False,False,False,2,107
+"### || ربيع الأول
+",000,False,000,False,False,False,2,129
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,150
+"### || رجب
+",000,False,000,False,False,False,2,79
+"### || ذو القعدة
+",000,False,000,False,False,False,2,98
+"### || ذو الحجة
+",000,False,000,False,False,False,2,123
+"### | سنة إحدى وسبعين وسبع مئة
+",771,year,000,False,771,003,1,1157
+"### || المحرم
+",000,False,000,False,False,False,2,76
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,209
+"### || ربيع لأول
+",000,False,000,False,False,False,2,45
+"### || رجب
+",000,False,000,False,False,False,2,151
+"### || شوال
+",000,False,000,False,False,False,2,219
+"### || ذو القعدة
+",000,False,000,False,False,False,2,213
+"### || ذو الحجة
+",000,False,000,False,False,False,2,269
+"### | سنة اثنتين وسبعين وسبع مئة
+",772,year,000,False,772,002,1,1108
+"### || المحرم
+",000,False,000,False,False,False,2,110
+"### || صفر
+",000,False,000,False,False,False,2,64
+"### || ربيع الأول
+",000,False,000,False,False,False,2,64
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,75
+"### || جمادى الأولى
+",000,False,000,False,False,False,2,141
+"### || جمادى الآخرة
+",000,False,000,False,False,False,2,116
+"### || رجب
+",000,False,000,False,False,False,2,56
+"### || شعبان
+",000,False,000,False,False,False,2,110
+"### || رمضان
+",000,False,000,False,False,False,2,69
+"### || شوال
+",000,False,000,False,False,False,2,60
+"### || ذو القعدة
+",000,False,000,False,False,False,2,141
+"### || ذو الحجة
+",000,False,000,False,False,False,2,134
+"### | سنة ثلاث وسبعين وسبع مئة
+",773,year,000,False,773,001,1,887
+"### || المحرم
+",000,False,000,False,False,False,2,47
+"### || ربيع الأول
+",000,False,000,False,False,False,2,78
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,156
+"### || جمادى الآخرة
+",000,False,000,False,False,False,2,181
+"### || رجب
+",000,False,000,False,False,False,2,111
+"### || شعبان
+",000,False,000,False,False,False,2,76
+"### || ذو القعدة
+",000,False,000,False,False,False,2,105
+"### || ذو الحجة
+",000,False,000,False,False,False,2,161
+"### | سنة أربع وسبعين وسبع مئة
+",774,year,000,False,774,000,1,593
+"### || المحرم
+",000,False,000,False,False,False,2,92
+"### || صفر
+",000,False,000,False,False,False,2,177
+"### || ربيع الأول
+",000,False,000,False,False,False,2,156
+"### || ربيع الآخر
+",000,False,000,False,False,False,2,82
+"### || جمادى الآخرة
+",000,False,000,False,False,False,2,102

@@ -1,0 +1,15 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO باب (لا)
+",000,False,000,False,False,False,1,180
+"### | AUTO باب (لا) في النهي
+",000,False,000,False,False,False,1,84
+"### | AUTO باب (لا) مع الأسماء (المخفوضة)
+",000,False,000,False,False,False,1,77
+"### | AUTO باب (لا) مع حروف الجزاء
+",000,False,000,False,False,False,1,132
+"### | CHECK باب (لا) مع حروف الج
+",000,False,000,False,False,False,1,257
+"### | AUTO باب (إن) مع (ما)
+",000,False,000,False,False,False,1,1469
+"### | AUTO باب تسمية حروف الجزاء
+",000,False,000,False,False,False,1,5844

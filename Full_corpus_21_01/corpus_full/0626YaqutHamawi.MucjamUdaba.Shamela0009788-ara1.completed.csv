@@ -1,0 +1,673 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | الجزء الأول
+",000,False,000,False,False,False,1,4
+"### | مقدمة التحقيق
+",000,False,000,False,False,False,1,1883
+"### || (بيان بالرموز)
+",000,False,000,False,False,False,2,40
+"### | مقدمة المؤلف
+",000,False,000,False,False,False,1,4
+"### | خطبة الكتاب
+",000,False,000,False,False,False,1,2312
+"### | الفصل الأول في فضل الأدب وأهله وذم الجهل وحمله
+",000,False,000,False,False,False,1,2686
+"### | فصل [ثان] في فضيلة علم الأخبار
+",000,False,000,False,False,False,1,941
+"### | حرف ms0027 الالف
+",000,False,000,False,False,False,1,96301
+"### | محتويات الجزء الأول
+",000,False,000,False,False,False,1,1364
+"### | الجزء الثاني
+",000,False,000,False,False,False,1,4
+"### | تتمة حرف الالف
+",000,False,000,False,False,False,1,55490
+"### | حرف الباء
+",000,False,000,False,False,False,1,5762
+"### | حرف التاء
+",000,False,000,False,False,False,1,312
+"### | حرف الثاء
+",000,False,000,False,False,False,1,722
+"### | حرف الجيم
+",000,False,000,False,False,False,1,5326
+"### | حرف الحاء
+",000,False,000,False,False,False,1,32770
+"### | محتويات الجزء الثاني
+",000,False,000,False,False,False,1,1370
+"### | الجزء الثالث
+",000,False,000,False,False,False,1,4
+"### | تتمة حرف الحاء
+",000,False,000,False,False,False,1,52928
+"### | حرف الخاء
+",000,False,000,False,False,False,1,9913
+"### | حرف الدال
+",000,False,000,False,False,False,1,3334
+"### | حرف الذال
+",000,False,000,False,False,False,1,191
+"### | حرف الراء
+",000,False,000,False,False,False,1,2563
+"### | حرف الزاي
+",000,False,000,False,False,False,1,4774
+"### | حرف السين
+",000,False,000,False,False,False,1,13381
+"### | حرف الشين
+",000,False,000,False,False,False,1,3169
+"### | محتويات الجزء الثالث
+",000,False,000,False,False,False,1,1974
+"### | الجزء الرابع
+",000,False,000,False,False,False,1,10
+"### | حرف الصاد
+",000,False,000,False,False,False,1,2243
+"### | حرف الضاد
+",000,False,000,False,False,False,1,499
+"### | حرف الطاء
+",000,False,000,False,False,False,1,1096
+"### | حرف الظاء
+",000,False,000,False,False,False,1,2594
+"### | حرف العين
+",000,False,000,False,False,False,1,94096
+"### | محتويات الجزء الرابع
+",000,False,000,False,False,False,1,1904
+"### | الجزء الخامس
+",000,False,000,False,False,False,1,4
+"### | تتمة حرف العين
+",000,False,000,False,False,False,1,53745
+"### | حرف الغين
+",000,False,000,False,False,False,1,164
+"### | حرف الفاء
+",000,False,000,False,False,False,1,5883
+"### | حرف القاف
+",000,False,000,False,False,False,1,12947
+"### | حرف الكاف
+",000,False,000,False,False,False,1,2076
+"### | حرف اللام
+",000,False,000,False,False,False,1,2024
+"### | حرف الميم
+",000,False,000,False,False,False,1,26286
+"### | محتويات الجزء الخامس
+",000,False,000,False,False,False,1,1400
+"### | الجزء السادس
+",000,False,000,False,False,False,1,4
+"### | تكملة حرف الميم
+",000,False,000,False,False,False,1,75543
+"### | حرف النون
+",000,False,000,False,False,False,1,3627
+"### | حرف الهاء
+",000,False,000,False,False,False,1,6160
+"### | حرف الواو
+",000,False,000,False,False,False,1,1941
+"### | حرف الياء
+",000,False,000,False,False,False,1,8633
+"### | ملحق
+",000,False,000,False,False,False,1,1113
+"### | محتويات الجزء السادس
+",000,False,000,False,False,False,1,2308
+"### | دراسة في ياقوت وكتابه معجك الأدباء
+",000,False,000,False,False,False,1,14219
+"### || مصادر ترجمة ياقوت ومراجعها
+",000,False,000,False,False,False,2,396
+"### ||| 1- مصادر ترجمة ياقوت الحموي:
+",000,False,000,False,False,False,3,230
+"### ||| 2- المراجع العربية والمعربة:
+",000,False,000,False,False,False,3,126
+"### ||| 3- المراجع بغير العربية:
+",000,False,000,False,False,False,3,40
+"### || 1- ترجمة ياقوت:
+",000,False,000,False,False,False,2,4663
+"### || 2- شخصية ياقوت وأخلاقه:
+",000,False,000,False,False,False,2,1023
+"### || 3- ثقافة ياقوت وشيوخه
+",000,False,000,False,False,False,2,1184
+"### ||| 1- نظرة عامة في ثقافته:
+",000,False,000,False,False,False,3,414
+"### ||| 2- شيوخ ياقوت:
+",000,False,000,False,False,False,3,771
+"### || 4- ياقوت المؤلف
+",000,False,000,False,False,False,2,2343
+"### ||| 1- منهجه في التأليف:
+",000,False,000,False,False,False,3,503
+"### ||| 2- مؤلفات ياقوت:
+",000,False,000,False,False,False,3,516
+"### |||| I مؤلفات في التاريخ، وهي:
+",000,False,000,False,False,False,4,113
+"### |||| II مؤلفات في المعاجم، وهي نوعان:
+",000,False,000,False,False,False,4,49
+"### |||| III مؤلفات في النحو:
+",000,False,000,False,False,False,4,130
+"### |||| IV مختصرات لكتب مشهورة أو اختيارات
+",000,False,000,False,False,False,4,180
+"### |||| V كتب مفردة،
+",000,False,000,False,False,False,4,31
+"### ||| 3- تفصيل القول في معاجم ياقوت:
+",000,False,000,False,False,False,3,1329
+"### || 2- المشترك وضعا والمفترق صنعا
+",000,False,000,False,False,False,2,200
+"### || 3- أخبار الشعراء
+",000,False,000,False,False,False,2,278
+"### || 4- معجم الأدباء
+",000,False,000,False,False,False,2,1036
+"### ||| 1- اسم الكتاب:
+",000,False,000,False,False,False,3,101
+"### ||| 2- كلمة «أدباء» على من تطلق:
+",000,False,000,False,False,False,3,284
+"### ||| 3- ترتيب الكتاب:
+",000,False,000,False,False,False,3,150
+"### ||| 4- تاريخ تأليف معجم الأدباء:
+",000,False,000,False,False,False,3,124
+"### ||| 5- مصادر المؤلف في معجم الأدباء:
+",000,False,000,False,False,False,3,291
+"### ||| 6- مختصر معجم الأدباء:
+",000,False,000,False,False,False,3,74
+"### ||| 7- خاتمة:
+",000,False,000,False,False,False,3,51
+"### || 5- ياقوت الأديب الناقد:
+",000,False,000,False,False,False,2,685
+"### || 6- شعر ياقوت:
+",000,False,000,False,False,False,2,1862
+"### ||| - 1-
+",000,False,000,False,False,False,3,161
+"### ||| - 2-
+",000,False,000,False,False,False,3,37
+"### ||| - 3-
+",000,False,000,False,False,False,3,103
+"### ||| - 4-
+",000,False,000,False,False,False,3,62
+"### ||| - 5-
+",000,False,000,False,False,False,3,64
+"### ||| - 6-
+",000,False,000,False,False,False,3,35
+"### ||| - 7-
+",000,False,000,False,False,False,3,30
+"### ||| - 8-
+",000,False,000,False,False,False,3,59
+"### ||| - 9-
+",000,False,000,False,False,False,3,53
+"### ||| - 10-
+",000,False,000,False,False,False,3,76
+"### ||| - 11-
+",000,False,000,False,False,False,3,58
+"### ||| - 12-
+",000,False,000,False,False,False,3,70
+"### ||| - 13-
+",000,False,000,False,False,False,3,53
+"### ||| - 14-
+",000,False,000,False,False,False,3,56
+"### ||| - 15-
+",000,False,000,False,False,False,3,76
+"### ||| - 16-
+",000,False,000,False,False,False,3,131
+"### ||| - 17-
+",000,False,000,False,False,False,3,72
+"### ||| - 18-
+",000,False,000,False,False,False,3,50
+"### ||| - 19-
+",000,False,000,False,False,False,3,94
+"### ||| - 20-
+",000,False,000,False,False,False,3,58
+"### ||| - 21-
+",000,False,000,False,False,False,3,96
+"### ||| - 22-
+",000,False,000,False,False,False,3,31
+"### ||| - 23-
+",000,False,000,False,False,False,3,83
+"### ||| - 24-
+",000,False,000,False,False,False,3,69
+"### ||| - 25-
+",000,False,000,False,False,False,3,125
+"### ||| - 26-
+",000,False,000,False,False,False,3,47
+"### ||| - 27-
+",000,False,000,False,False,False,3,39
+"### ||| - 28-
+",000,False,000,False,False,False,3,59
+"### ||| - 29-
+",000,False,000,False,False,False,3,53
+"### || ملاحظات ملحقة
+",000,False,000,False,False,False,2,4
+"### || (1) ترجمة طلحة بن محمد النعماني
+",000,False,000,False,False,False,2,102
+"### || (2) ترجمة ناصر بن عبد السيد المطرزي شارح المقامات
+",000,False,000,False,False,False,2,68
+"### || (3)
+",000,False,000,False,False,False,2,453
+"### | الفهارس
+",000,False,000,False,False,False,1,2
+"### | 1- فهرس الآيات القرآنية الكريمة
+",000,False,000,False,False,False,1,1241
+"### || 1- الفاتحة
+",000,False,000,False,False,False,2,14
+"### || 2- البقرة
+",000,False,000,False,False,False,2,73
+"### || 3- آل عمران
+",000,False,000,False,False,False,2,79
+"### || 4- النساء
+",000,False,000,False,False,False,2,58
+"### || 5- المائدة
+",000,False,000,False,False,False,2,41
+"### || 6- الأنعام
+",000,False,000,False,False,False,2,42
+"### || 7- الأعراف
+",000,False,000,False,False,False,2,49
+"### || 8- الأنفال
+",000,False,000,False,False,False,2,28
+"### || 9- التوبة
+",000,False,000,False,False,False,2,46
+"### || 10- يونس
+",000,False,000,False,False,False,2,20
+"### || 11- هود
+",000,False,000,False,False,False,2,38
+"### || 12- يوسف
+",000,False,000,False,False,False,2,88
+"### || 13- الرعد
+",000,False,000,False,False,False,2,20
+"### || 14- ابراهيم
+",000,False,000,False,False,False,2,17
+"### || 15- الحجر
+",000,False,000,False,False,False,2,35
+"### || 16- النحل
+",000,False,000,False,False,False,2,26
+"### || 17- الإسراء
+",000,False,000,False,False,False,2,32
+"### || 18- الكهف
+",000,False,000,False,False,False,2,71
+"### || 19- مريم
+",000,False,000,False,False,False,2,34
+"### || 20- طه
+",000,False,000,False,False,False,2,14
+"### || 21- الحج
+",000,False,000,False,False,False,2,41
+"### || 22- المؤمنون
+",000,False,000,False,False,False,2,22
+"### || 23- النور
+",000,False,000,False,False,False,2,36
+"### || 25- الفرقان
+",000,False,000,False,False,False,2,14
+"### || 26- الشعراء
+",000,False,000,False,False,False,2,45
+"### || 27- النمل
+",000,False,000,False,False,False,2,19
+"### || 28- القصص
+",000,False,000,False,False,False,2,31
+"### || 30- الروم
+",000,False,000,False,False,False,2,18
+"### || 31- لقمان
+",000,False,000,False,False,False,2,34
+"### || 33- الأحزاب
+",000,False,000,False,False,False,2,16
+"### || 35- فاطر
+",000,False,000,False,False,False,2,32
+"### || 36- يس
+",000,False,000,False,False,False,2,26
+"### || 37- الصافات
+",000,False,000,False,False,False,2,33
+"### || 39- الزمر
+",000,False,000,False,False,False,2,8
+"### || 41- فصلت
+",000,False,000,False,False,False,2,16
+"### || 42- الشورى
+",000,False,000,False,False,False,2,18
+"### || 43- الزخرف
+",000,False,000,False,False,False,2,24
+"### || 45- الجاثية
+",000,False,000,False,False,False,2,16
+"### || 46- الأحقاف
+",000,False,000,False,False,False,2,18
+"### || 48- الفتح
+",000,False,000,False,False,False,2,22
+"### || 49- الحجرات
+",000,False,000,False,False,False,2,26
+"### || 51- الذاريات ms2150
+",000,False,000,False,False,False,2,14
+"### || 53- النجم
+",000,False,000,False,False,False,2,14
+"### || 54- القمر
+",000,False,000,False,False,False,2,11
+"### || 55- الرحمن
+",000,False,000,False,False,False,2,14
+"### || 56- الواقعة
+",000,False,000,False,False,False,2,14
+"### || 57- الحديد
+",000,False,000,False,False,False,2,18
+"### || 59- الحشر
+",000,False,000,False,False,False,2,30
+"### || 60- الممتحنة
+",000,False,000,False,False,False,2,24
+"### || 65- الطلاق
+",000,False,000,False,False,False,2,14
+"### || 66- التحريم
+",000,False,000,False,False,False,2,31
+"### || 68- القلم
+",000,False,000,False,False,False,2,12
+"### || 75- القيامة
+",000,False,000,False,False,False,2,12
+"### || 83- المطففين
+",000,False,000,False,False,False,2,21
+"### || 89- الفجر
+",000,False,000,False,False,False,2,10
+"### || 91- الشمس
+",000,False,000,False,False,False,2,8
+"### || 94- الشرح
+",000,False,000,False,False,False,2,12
+"### || 100- العاديات
+",000,False,000,False,False,False,2,12
+"### || 102- التكاثر
+",000,False,000,False,False,False,2,10
+"### || 112- الإخلاص
+",000,False,000,False,False,False,2,10
+"### | 2- فهرس الاحاديث الشريفة
+",000,False,000,False,False,False,1,360
+"### | 3- فهرس الامثال والاساطير
+",000,False,000,False,False,False,1,446
+"### | 4- فهرس الرسائل والتوقيعات والخطب والوصايا
+",000,False,000,False,False,False,1,1755
+"### | 5- فهرس أنواع القريض قصائد وموشحات
+",000,False,000,False,False,False,1,169
+"### | 6- فهرس القوافي
+",000,False,000,False,False,False,1,20159
+"### || (الهمزة)
+",000,False,000,False,False,False,2,358
+"### || (ب)
+",000,False,000,False,False,False,2,2525
+"### || (ت)
+",000,False,000,False,False,False,2,508
+"### || (ث)
+",000,False,000,False,False,False,2,73
+"### || (ج)
+",000,False,000,False,False,False,2,145
+"### || (ح، خ)
+",000,False,000,False,False,False,2,484
+"### || (د)
+",000,False,000,False,False,False,2,1869
+"### || (ذ)
+",000,False,000,False,False,False,2,54
+"### || (ر)
+",000,False,000,False,False,False,2,3028
+"### || - ز-
+",000,False,000,False,False,False,2,59
+"### || - س-
+",000,False,000,False,False,False,2,557
+"### || - ش-
+",000,False,000,False,False,False,2,72
+"### || - ص-
+",000,False,000,False,False,False,2,80
+"### || - ض-
+",000,False,000,False,False,False,2,288
+"### || - ط-
+",000,False,000,False,False,False,2,154
+"### || - ظ-
+",000,False,000,False,False,False,2,66
+"### || - ع-
+",000,False,000,False,False,False,2,920
+"### || - غ-
+",000,False,000,False,False,False,2,46
+"### || - ف-
+",000,False,000,False,False,False,2,569
+"### || - ق-
+",000,False,000,False,False,False,2,964
+"### || - ك-
+",000,False,000,False,False,False,2,375
+"### || - ل-
+",000,False,000,False,False,False,2,2364
+"### || - م-
+",000,False,000,False,False,False,2,1951
+"### || - ن-
+",000,False,000,False,False,False,2,1905
+"### || - ه-
+",000,False,000,False,False,False,2,566
+"### || - و-
+",000,False,000,False,False,False,2,47
+"### || - ي-
+",000,False,000,False,False,False,2,216
+"### || - الألف-
+",000,False,000,False,False,False,2,40
+"### | 7- فهرس الارجاز
+",000,False,000,False,False,False,1,386
+"### | 8- فهرس الأعلام
+",000,False,000,False,False,False,1,52795
+"### || (أ)
+",000,False,000,False,False,False,2,17628
+"### || (ب)
+",000,False,000,False,False,False,2,821
+"### || (ت)
+",000,False,000,False,False,False,2,260
+"### || (ث)
+",000,False,000,False,False,False,2,362
+"### || (ج)
+",000,False,000,False,False,False,2,1019
+"### || (ح)
+",000,False,000,False,False,False,2,3287
+"### || (خ)
+",000,False,000,False,False,False,2,897
+"### || (د)
+",000,False,000,False,False,False,2,410
+"### || (ذ)
+",000,False,000,False,False,False,2,86
+"### || (ر)
+",000,False,000,False,False,False,2,554
+"### || (ز)
+",000,False,000,False,False,False,2,767
+"### || (س)
+",000,False,000,False,False,False,2,2009
+"### || (ش)
+",000,False,000,False,False,False,2,777
+"### || (ص)
+",000,False,000,False,False,False,2,672
+"### || (ض)
+",000,False,000,False,False,False,2,89
+"### || (ط)
+",000,False,000,False,False,False,2,444
+"### || (ظ)
+",000,False,000,False,False,False,2,44
+"### || (ع)
+",000,False,000,False,False,False,2,7989
+"### || (غ)
+",000,False,000,False,False,False,2,128
+"### || (ف)
+",000,False,000,False,False,False,2,757
+"### || (ق)
+",000,False,000,False,False,False,2,1047
+"### || (ك)
+",000,False,000,False,False,False,2,493
+"### || (ل)
+",000,False,000,False,False,False,2,148
+"### || (م)
+",000,False,000,False,False,False,2,8752
+"### || (ن)
+",000,False,000,False,False,False,2,934
+"### || (ه)
+",000,False,000,False,False,False,2,811
+"### || (و)
+",000,False,000,False,False,False,2,450
+"### || (ي)
+",000,False,000,False,False,False,2,1309
+"### | 9- فهرس الأمم والقبائل والطوائف
+",000,False,000,False,False,False,1,4254
+"### || (أ)
+",000,False,000,False,False,False,2,1128
+"### || (ب)
+",000,False,000,False,False,False,2,1368
+"### || (ت)
+",000,False,000,False,False,False,2,59
+"### || (ث)
+",000,False,000,False,False,False,2,12
+"### || (ج)
+",000,False,000,False,False,False,2,30
+"### || (ح)
+",000,False,000,False,False,False,2,51
+"### || (خ)
+",000,False,000,False,False,False,2,75
+"### || (د)
+",000,False,000,False,False,False,2,41
+"### || (ر)
+",000,False,000,False,False,False,2,69
+"### || (ز)
+",000,False,000,False,False,False,2,29
+"### || (س)
+",000,False,000,False,False,False,2,25
+"### || (ش)
+",000,False,000,False,False,False,2,83
+"### || (ص)
+",000,False,000,False,False,False,2,60
+"### || (ض)
+",000,False,000,False,False,False,2,12
+"### || (ط)
+",000,False,000,False,False,False,2,36
+"### || (ع)
+",000,False,000,False,False,False,2,355
+"### || (غ)
+",000,False,000,False,False,False,2,15
+"### || (ف)
+",000,False,000,False,False,False,2,67
+"### || (ق)
+",000,False,000,False,False,False,2,144
+"### || (ك)
+",000,False,000,False,False,False,2,149
+"### || (ل)
+",000,False,000,False,False,False,2,18
+"### || (م)
+",000,False,000,False,False,False,2,279
+"### || (ن)
+",000,False,000,False,False,False,2,116
+"### || (ه)
+",000,False,000,False,False,False,2,31
+"### || (و)
+",000,False,000,False,False,False,2,22
+"### || (ي)
+",000,False,000,False,False,False,2,43
+"### | 10- فهرس الأماكن
+",000,False,000,False,False,False,1,6824
+"### || (أ)
+",000,False,000,False,False,False,2,495
+"### || (ب)
+",000,False,000,False,False,False,2,1152
+"### || (ت)
+",000,False,000,False,False,False,2,62
+"### || (ث)
+",000,False,000,False,False,False,2,37
+"### || (ج)
+",000,False,000,False,False,False,2,344
+"### || (ح)
+",000,False,000,False,False,False,2,287
+"### || (خ)
+",000,False,000,False,False,False,2,248
+"### || (د)
+",000,False,000,False,False,False,2,409
+"### || (ذ)
+",000,False,000,False,False,False,2,27
+"### || (ر)
+",000,False,000,False,False,False,2,218
+"### || (ز)
+",000,False,000,False,False,False,2,66
+"### || (س)
+",000,False,000,False,False,False,2,263
+"### || (ش)
+",000,False,000,False,False,False,2,234
+"### || (ص)
+",000,False,000,False,False,False,2,94
+"### || (ض)
+",000,False,000,False,False,False,2,22
+"### || (ط)
+",000,False,000,False,False,False,2,116
+"### || (ع)
+",000,False,000,False,False,False,2,287
+"### || (غ)
+",000,False,000,False,False,False,2,53
+"### || (ف)
+",000,False,000,False,False,False,2,124
+"### || (ق)
+",000,False,000,False,False,False,2,302
+"### || (ك)
+",000,False,000,False,False,False,2,236
+"### || (ل)
+",000,False,000,False,False,False,2,17
+"### || (م)
+",000,False,000,False,False,False,2,1253
+"### || (ن)
+",000,False,000,False,False,False,2,258
+"### || (ه)
+",000,False,000,False,False,False,2,99
+"### || (و)
+",000,False,000,False,False,False,2,115
+"### || (ي)
+",000,False,000,False,False,False,2,116
+"### | 11- فهرس الكتب
+",000,False,000,False,False,False,1,35069
+"### || (أ)
+",000,False,000,False,False,False,2,6000
+"### || (ب)
+",000,False,000,False,False,False,2,694
+"### || (ت)
+",000,False,000,False,False,False,2,2815
+"### || (ث)
+",000,False,000,False,False,False,2,64
+"### || (ج)
+",000,False,000,False,False,False,2,810
+"### || (ح)
+",000,False,000,False,False,False,2,1031
+"### || (خ)
+",000,False,000,False,False,False,2,763
+"### || (د)
+",000,False,000,False,False,False,2,1134
+"### || (ذ)
+",000,False,000,False,False,False,2,218
+"### || (ر)
+",000,False,000,False,False,False,2,2136
+"### || (ز)
+",000,False,000,False,False,False,2,337
+"### || (س)
+",000,False,000,False,False,False,2,675
+"### || (ش)
+",000,False,000,False,False,False,2,2380
+"### || (ص)
+",000,False,000,False,False,False,2,453
+"### || (ض)
+",000,False,000,False,False,False,2,101
+"### || (ط)
+",000,False,000,False,False,False,2,321
+"### || (ظ)
+",000,False,000,False,False,False,2,9
+"### || (ع)
+",000,False,000,False,False,False,2,900
+"### || (غ)
+",000,False,000,False,False,False,2,550
+"### || (ف)
+",000,False,000,False,False,False,2,1354
+"### || (ق)
+",000,False,000,False,False,False,2,792
+"### || (ك)
+",000,False,000,False,False,False,2,2671
+"### || (ل)
+",000,False,000,False,False,False,2,377
+"### || (م)
+",000,False,000,False,False,False,2,6354
+"### || (ن)
+",000,False,000,False,False,False,2,1357
+"### || (ه)
+",000,False,000,False,False,False,2,251
+"### || (و)
+",000,False,000,False,False,False,2,540
+"### || (ي)
+",000,False,000,False,False,False,2,105
+"### | 12- فهرس مصادر المؤلف
+",000,False,000,False,False,False,1,2667
+"### | 13- فهارس الحضارة والفكر
+",000,False,000,False,False,False,1,2437
+"### || 1- فهرس المذاهب
+",000,False,000,False,False,False,2,204
+"### || 2- فهرس الكتب والكتابة وما يتصل بهما
+",000,False,000,False,False,False,2,440
+"### || 3- فهرس النقد الأدبي
+",000,False,000,False,False,False,2,146
+"### || 4- فهرس المناصب والدواوين وأصحابها
+",000,False,000,False,False,False,2,519
+"### || 5- فهرس السكة وما يتصل بها
+",000,False,000,False,False,False,2,63
+"### || 6- فهرس الثياب والأزياء والنعال
+",000,False,000,False,False,False,2,118
+"### || 7- فهرس الأطعمة والأشربة
+",000,False,000,False,False,False,2,87
+"### || 8- فهرس ألفاظ ومصطلحات
+",000,False,000,False,False,False,2,426
+"### || 9- فهرس فوائد متنوعة
+",000,False,000,False,False,False,2,430
+"### | 14- فهرس المصادر والمراجع
+",000,False,000,False,False,False,1,6298

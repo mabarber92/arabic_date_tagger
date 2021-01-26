@@ -1,0 +1,95 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK الجزء الأول
+",000,False,000,False,False,False,1,22030
+"### || AUTO فصل آخر
+",000,False,000,False,False,False,2,730
+"### || AUTO وفصل آخر
+",000,False,000,False,False,False,2,599
+"### || AUTO فصل آخر
+",000,False,000,False,False,False,2,2501
+"### || AUTO فصل آخر
+",000,False,000,False,False,False,2,1074
+"### || AUTO فصل آخر
+",000,False,000,False,False,False,2,1651
+"### || AUTO فصل آخر
+",000,False,000,False,False,False,2,256
+"### || AUTO باب مسألة الرضاع بعد الحولين
+",000,False,000,False,False,False,2,1576
+"### || AUTO باب في قبض اليتامى أموالهم ببلوغ النكاح والرشد
+",000,False,000,False,False,False,2,1454
+"### || AUTO باب إقرار المريض لوارثه بدين
+",000,False,000,False,False,False,2,2223
+"### || AUTO باب في البيع إلى الجداد [والحص]اد
+",000,False,000,False,False,False,2,885
+"### || AUTO باب في شهادة العبد والقانع وولد الزنا
+",000,False,000,False,False,False,2,1622
+"### || AUTO باب في شهادة أحد الزوجين لصاحبه والأب والابن أحدهما للآخر
+",000,False,000,False,False,False,2,1871
+"### || AUTO باب في نكاح المريض
+",000,False,000,False,False,False,2,2349
+"### || AUTO باب طلاق المريض
+",000,False,000,False,False,False,2,2654
+"### | AUTO الجزء الثاني
+",000,False,000,False,False,False,1,22805
+"### || AUTO في شهادة الصبيان
+",000,False,000,False,False,False,2,1788
+"### || AUTO في المحرم يقتل الصيد خطأ
+",000,False,000,False,False,False,2,11
+"### || AUTO في المحرم يقتل الصيد خطأ
+",000,False,000,False,False,False,2,3154
+"### || AUTO باب في نكاح العبد بغير إذن سيده، او المرأة بغير إذن وليها، وكيف إن أجازا
+",000,False,000,False,False,False,2,2110
+"### || AUTO في إعطاء المرأة لزوجها من زكاتها
+",000,False,000,False,False,False,2,1277
+"### || AUTO باب في العبد يباع لغرماء المفلس أو الميت، فيهلك الثمن بيد الأمين، ثم استحق العبد
+",000,False,000,False,False,False,2,1476
+"### || AUTO في وطء الأب أمة ابنه
+",000,False,000,False,False,False,2,1303
+"### || AUTO باب في قتل الزنديق
+",000,False,000,False,False,False,2,2413
+"### || AUTO باب في الأب يتزوج من مال ولده، وذكر الاعتصار
+",000,False,000,False,False,False,2,2759
+"### || AUTO في المسلم يطلق النصرانية ثلاثا، هل يحلها الزوج النصراني، وفي طلاق أهل الكفر، ونكاحهم وإحصانهم
+",000,False,000,False,False,False,2,2879
+"### || AUTO باب آخر ذكره في طلاق الشرك فكرره
+",000,False,000,False,False,False,2,431
+"### || AUTO باب في النفقة على الولد
+",000,False,000,False,False,False,2,1131
+"### || AUTO باب الطلاق قبل النكاح
+",000,False,000,False,False,False,2,1911
+"### | AUTO الجزء الثالث
+",000,False,000,False,False,False,1,22167
+"### || AUTO باب أقل ما يكون صداقا
+",000,False,000,False,False,False,2,2677
+"### || AUTO باب وطء الصغير للكبيرة
+",000,False,000,False,False,False,2,797
+"### || AUTO باب فيمن قذف صغيرة بالزني إنه يحد
+",000,False,000,False,False,False,2,758
+"### || AUTO باب ما يوجب الأحكام في المولود من الاستهلال
+",000,False,000,False,False,False,2,1225
+"### || AUTO باب القاتل يعفي عنه يجلد ويحبس، وفي دية المعاهد وفي الولي يطلب الدية في العمد ويأبي ذلك القاتل
+",000,False,000,False,False,False,2,1843
+"### || AUTO في من أوصى بزكاة عليه
+",000,False,000,False,False,False,2,1268
+"### || AUTO باب في التي تنكح في العدة فيفرق بينهما فتأتي بولد هل تنقضي به العدة
+",000,False,000,False,False,False,2,789
+"### || AUTO باب فيمن قال: إن لم أكن من أهل الجنة فامرأته طالق
+",000,False,000,False,False,False,2,1116
+"### || AUTO باب في امرأة المفقود
+",000,False,000,False,False,False,2,1284
+"### || AUTO باب فيمن قال لزوجته: أنت علي حرام
+",000,False,000,False,False,False,2,1213
+"### || AUTO باب في المرأة تشتري بالصداق جهازا ثم تطلق قبل البناء
+",000,False,000,False,False,False,2,814
+"### || AUTO باب في المطلق يرتجع زوجته وهي لا تعلم، والوليين يزوجان جميعا
+",000,False,000,False,False,False,2,1165
+"### || AUTO باب قضاء ذات الزوج في مالها
+",000,False,000,False,False,False,2,2020
+"### || AUTO في التظاهر من الأمة
+",000,False,000,False,False,False,2,1457
+"### || AUTO باب في ظهار العبد وإيلائه
+",000,False,000,False,False,False,2,455
+"### || AUTO باب في رضاع المرأة ولدها
+",000,False,000,False,False,False,2,694
+"### || AUTO باب في العدة وعدة الأمة وحكم الأرقاء في الطلاق، وغيره
+",000,False,000,False,False,False,2,2499

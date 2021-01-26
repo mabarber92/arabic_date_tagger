@@ -1,0 +1,155 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | من اسمه معاذ:
+",000,False,000,False,False,False,1,2785
+"### | من اسمه معاوية
+",000,False,000,False,False,False,1,17648
+"### | من اسمه منصور:
+",000,False,000,False,False,False,1,4341
+"### | من اسمه موسى:
+",000,False,000,False,False,False,1,7564
+"### | من اسمه مؤمل
+",000,False,000,False,False,False,1,2681
+"### | حرف النون
+",000,False,000,False,False,False,1,14939
+"### | حرف الهاء
+",000,False,000,False,False,False,1,15557
+"### | حرف الواو
+",000,False,000,False,False,False,1,12261
+"### | حرف اللام ألف
+",000,False,000,False,False,False,1,285
+"### | حرف الياء
+",000,False,000,False,False,False,1,44754
+"### || فصل:
+",000,False,000,False,False,False,2,10250
+"### || فصل
+",000,False,000,False,False,False,2,13398
+"### | كتاب الكنى
+",000,False,000,False,False,False,1,75130
+"### || باب الألف
+",000,False,000,False,False,False,2,5097
+"### || باب الباء
+",000,False,000,False,False,False,2,10392
+"### || باب التاء
+",000,False,000,False,False,False,2,170
+"### || باب الثاء
+",000,False,000,False,False,False,2,986
+"### || باب الجيم
+",000,False,000,False,False,False,2,2493
+"### || باب الحاء
+",000,False,000,False,False,False,2,4610
+"### || باب الخاء
+",000,False,000,False,False,False,2,1548
+"### || باب الدال
+",000,False,000,False,False,False,2,309
+"### || باب الذال
+",000,False,000,False,False,False,2,586
+"### || باب الراء
+",000,False,000,False,False,False,2,1862
+"### || باب الزاي
+",000,False,000,False,False,False,2,1208
+"### || باب السين
+",000,False,000,False,False,False,2,5468
+"### || باب الشين
+",000,False,000,False,False,False,2,882
+"### || باب الصاد
+",000,False,000,False,False,False,2,1375
+"### || باب الضاد
+",000,False,000,False,False,False,2,62
+"### || باب الطاء
+",000,False,000,False,False,False,2,1101
+"### || باب الظاء
+",000,False,000,False,False,False,2,260
+"### || باب العين
+",000,False,000,False,False,False,2,14843
+"### || باب الغين
+",000,False,000,False,False,False,2,1032
+"### || باب الفاء
+",000,False,000,False,False,False,2,746
+"### || باب القاف
+",000,False,000,False,False,False,2,1685
+"### || باب الكاف
+",000,False,000,False,False,False,2,1830
+"### || باب اللام
+",000,False,000,False,False,False,2,757
+"### || باب الميم
+",000,False,000,False,False,False,2,8623
+"### || باب النون
+",000,False,000,False,False,False,2,1586
+"### || باب الهاء
+",000,False,000,False,False,False,2,3112
+"### || باب الواو
+",000,False,000,False,False,False,2,843
+"### || باب اللام ألف
+",000,False,000,False,False,False,2,130
+"### || باب الياء
+",000,False,000,False,False,False,2,1637
+"### | فصل فيمن اشتهر بالنسبة إلى أبيه أو جده
+",000,False,000,False,False,False,1,6467
+"### | فصل فيمن اشتهر بالنسبة إلى قبيلة أو بلدة
+",000,False,000,False,False,False,1,2280
+"### | فصل فيمن اشتهر بلقب ونحوه
+",000,False,000,False,False,False,1,2237
+"### | فصل من الألقاب
+",000,False,000,False,False,False,1,238
+"### | فصل آخر من الألقاب
+",000,False,000,False,False,False,1,256
+"### | فصل في المبهمات
+",000,False,000,False,False,False,1,8226
+"### | كتاب النساء 
+",000,False,000,False,False,False,1,23592
+"### || باب الألف
+",000,False,000,False,False,False,2,1542
+"### || باب الباء
+",000,False,000,False,False,False,2,397
+"### || باب الجيم
+",000,False,000,False,False,False,2,431
+"### || باب الحاء
+",000,False,000,False,False,False,2,1351
+"### || باب الخاء
+",000,False,000,False,False,False,2,656
+"### || باب الدال
+",000,False,000,False,False,False,2,189
+"### || باب الراء
+",000,False,000,False,False,False,2,1213
+"### || حرف الزاي
+",000,False,000,False,False,False,2,879
+"### || باب السين
+",000,False,000,False,False,False,2,1275
+"### || باب الشين
+",000,False,000,False,False,False,2,274
+"### || باب الصاد
+",000,False,000,False,False,False,2,837
+"### || باب الضاد
+",000,False,000,False,False,False,2,312
+"### || باب الطاء
+",000,False,000,False,False,False,2,37
+"### || باب العين
+",000,False,000,False,False,False,2,2272
+"### || باب الغين
+",000,False,000,False,False,False,2,81
+"### || باب الفاء
+",000,False,000,False,False,False,2,1974
+"### || باب القاف
+",000,False,000,False,False,False,2,517
+"### || باب الكاف
+",000,False,000,False,False,False,2,501
+"### || باب اللام
+",000,False,000,False,False,False,2,594
+"### || باب الميم
+",000,False,000,False,False,False,2,1016
+"### || باب النون
+",000,False,000,False,False,False,2,154
+"### || باب الهاء
+",000,False,000,False,False,False,2,553
+"### || باب الياء
+",000,False,000,False,False,False,2,40
+"### || باب الكنى من كتاب النساء
+",000,False,000,False,False,False,2,5624
+"### || فصل
+",000,False,000,False,False,False,2,256
+"### || فصل
+",000,False,000,False,False,False,2,152
+"### || فصل
+",000,False,000,False,False,False,2,50
+"### || فصل
+",000,False,000,False,False,False,2,504

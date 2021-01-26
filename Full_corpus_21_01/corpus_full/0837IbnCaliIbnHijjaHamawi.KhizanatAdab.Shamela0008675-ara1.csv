@@ -1,0 +1,311 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | المقدمات
+",000,False,000,False,False,False,1,2
+"### | تمهيد وتقديم
+",000,False,000,False,False,False,1,309
+"### | .... 
+",000,False,000,False,False,False,1,1718
+"### | .... 
+",000,False,000,False,False,False,1,10
+"### | .... 
+",000,False,000,False,False,False,1,352
+"### | التعريف بالكاتب
+",000,False,000,False,False,False,1,408
+"### | مقدمة الكاتب
+",000,False,000,False,False,False,1,8461
+"### | الجناس
+",000,False,000,False,False,False,1,2
+"### | ذكر الجناس المركب والمطلق
+",000,False,000,False,False,False,1,2856
+"### | ذكر الجناس الملفق
+",000,False,000,False,False,False,1,588
+"### | الجناس المذيل واللاحق
+",000,False,000,False,False,False,1,744
+"### | الجناس التام والمطرف
+",000,False,000,False,False,False,1,2340
+"### | الجناس المصحف والمحرف
+",000,False,000,False,False,False,1,899
+"### | الجناس اللفظي والمقلوب
+",000,False,000,False,False,False,1,1320
+"### | ذكر الجناس المعنوي
+",000,False,000,False,False,False,1,1478
+"### | ذكر الاستطراد
+",000,False,000,False,False,False,1,1419
+"### | ذكر الاستعارة
+",000,False,000,False,False,False,1,2074
+"### | ذكر الاستخدام
+",000,False,000,False,False,False,1,1767
+"### | ذكر الهزل الذي يراد به الجد
+",000,False,000,False,False,False,1,578
+"### | ذكر المقابلة
+",000,False,000,False,False,False,1,1107
+"### | ذكر الالتفات
+",000,False,000,False,False,False,1,848
+"### | ذكر الافتنان
+",000,False,000,False,False,False,1,1542
+"### | ذكر الاستدراك
+",000,False,000,False,False,False,1,453
+"### | ذكر الطي والنشر
+",000,False,000,False,False,False,1,1292
+"### | ذكر الطباق
+",000,False,000,False,False,False,1,3160
+"### | ذكر النزاهة
+",000,False,000,False,False,False,1,474
+"### | ذكر التخيير
+",000,False,000,False,False,False,1,540
+"### | ذكر الإبهام:
+",000,False,000,False,False,False,1,2063
+"### | ذكر إرسال المثل
+",000,False,000,False,False,False,1,5719
+"### | ذكر التهكم
+",000,False,000,False,False,False,1,587
+"### | ذكر المراجعة
+",000,False,000,False,False,False,1,644
+"### | ذكر التوشيح
+",000,False,000,False,False,False,1,754
+"### | ذكر تشابه الأطراف
+",000,False,000,False,False,False,1,257
+"### | ذكر التغاير
+",000,False,000,False,False,False,1,3470
+"### | ذكر التذييل
+",000,False,000,False,False,False,1,954
+"### | ذكر التفويف
+",000,False,000,False,False,False,1,487
+"### | ذكر المواربة
+",000,False,000,False,False,False,1,434
+"### | ذكر الكلام الجامع
+",000,False,000,False,False,False,1,245
+"### | ذكر المناقضة
+",000,False,000,False,False,False,1,231
+"### | ذكر التصدير أو رد العجز على الصدر
+",000,False,000,False,False,False,1,577
+"### | ذكر القول بالموجب أو أسلوب الحكيم ms185
+",000,False,000,False,False,False,1,644
+"### | ذكر الهجو في معرض المدح
+",000,False,000,False,False,False,1,379
+"### | ذكر الاستثناء
+",000,False,000,False,False,False,1,669
+"### | ذكر التشريع
+",000,False,000,False,False,False,1,1000
+"### | ذكر التتميم
+",000,False,000,False,False,False,1,554
+"### | ذكر تجاهل العارف
+",000,False,000,False,False,False,1,1515
+"### | ذكر الاكتفاء
+",000,False,000,False,False,False,1,1945
+"### | ذكر مراعاة النظير
+",000,False,000,False,False,False,1,1177
+"### | ذكر التمثيل
+",000,False,000,False,False,False,1,702
+"### | ذكر التوجيه
+",000,False,000,False,False,False,1,3781
+"### | ذكر عتاب المرء نفسه
+",000,False,000,False,False,False,1,395
+"### | ذكر القسم
+",000,False,000,False,False,False,1,1311
+"### | ذكر حسن التخلص
+",000,False,000,False,False,False,1,4785
+"### | ذكر الاطراد
+",000,False,000,False,False,False,1,678
+"### | ذكر العكس
+",000,False,000,False,False,False,1,1045
+"### | ذكر الترديد
+",000,False,000,False,False,False,1,225
+"### | ذكر التكرار
+",000,False,000,False,False,False,1,365
+"### | ذكر المذهب الكلامي
+",000,False,000,False,False,False,1,573
+"### | ذكر المناسبة
+",000,False,000,False,False,False,1,1239
+"### | ذكر التوشيع
+",000,False,000,False,False,False,1,382
+"### | ذكر التكميل
+",000,False,000,False,False,False,1,886
+"### | ذكر التفريق
+",000,False,000,False,False,False,1,446
+"### | ذكر التشطير
+",000,False,000,False,False,False,1,224
+"### | ذكر التشبيه
+",000,False,000,False,False,False,1,4
+"### | مدخل
+",000,False,000,False,False,False,1,4775
+"### | التشبيه بالتلميح
+",000,False,000,False,False,False,1,2171
+"### | ذكر تشبيه شيئين بشيئين
+",000,False,000,False,False,False,1,367
+"### | ذكر الانسجام
+",000,False,000,False,False,False,1,4
+"### | الانسجام في النثر
+",000,False,000,False,False,False,1,727
+"### | الانسجام في الشعر
+",000,False,000,False,False,False,1,10911
+"### | ذكر التفصيل
+",000,False,000,False,False,False,1,468
+"### | فهرس الموضوعات
+",000,False,000,False,False,False,1,279
+"### | ذكر النوادر
+",000,False,000,False,False,False,1,940
+"### | ذكر المبالغة
+",000,False,000,False,False,False,1,1170
+"### | ذكر الإغراق
+",000,False,000,False,False,False,1,953
+"### | ذكر الغلو
+",000,False,000,False,False,False,1,1062
+"### | ذكر ائتلاف المعنى مع المعنى
+",000,False,000,False,False,False,1,629
+"### | ذكر نفي الشيء بإيجابه
+",000,False,000,False,False,False,1,550
+"### | ذكر الإيغال
+",000,False,000,False,False,False,1,783
+"### | ذكر التهذيب والتأديب
+",000,False,000,False,False,False,1,1126
+"### | ذكر ما لا يستحيل بالانعكاس
+",000,False,000,False,False,False,1,591
+"### | ذكر التورية
+",000,False,000,False,False,False,1,39414
+"### | ذكر المشاكلة
+",000,False,000,False,False,False,1,397
+"### | ذكر الجمع مع التقسيم
+",000,False,000,False,False,False,1,158
+"### | ذكر الجمع مع التفريق
+",000,False,000,False,False,False,1,232
+"### | ذكر الإشارة
+",000,False,000,False,False,False,1,430
+"### | ذكر التوليد
+",000,False,000,False,False,False,1,530
+"### | ذكر الكناية
+",000,False,000,False,False,False,1,525
+"### | ذكر الجمع
+",000,False,000,False,False,False,1,179
+"### | ذكر السلب والإيجاب
+",000,False,000,False,False,False,1,286
+"### | ذكر التقسيم
+",000,False,000,False,False,False,1,903
+"### | ذكر الإيجاز
+",000,False,000,False,False,False,1,410
+"### | ذكر المشاركة
+",000,False,000,False,False,False,1,466
+"### | ذكر التصريع
+",000,False,000,False,False,False,1,177
+"### | ذكر الاعتراض
+",000,False,000,False,False,False,1,263
+"### | ذكر الرجوع
+",000,False,000,False,False,False,1,359
+"### | ذكر الترتيب
+",000,False,000,False,False,False,1,225
+"### | ذكر الاشتقاق
+",000,False,000,False,False,False,1,330
+"### | ذكر الاتفاق
+",000,False,000,False,False,False,1,432
+"### | ذكر الإبداع:
+",000,False,000,False,False,False,1,426
+"### | ذكر المماثلة
+",000,False,000,False,False,False,1,207
+"### | ذكر حصر الجزئي وإلحاقه بالكلي
+",000,False,000,False,False,False,1,387
+"### | ذكر الفرائد
+",000,False,000,False,False,False,1,261
+"### | ذكر الترشيح
+",000,False,000,False,False,False,1,420
+"### | ذكر العنوان
+",000,False,000,False,False,False,1,148
+"### | ذكر التسهيم
+",000,False,000,False,False,False,1,322
+"### | ذكر التطريز
+",000,False,000,False,False,False,1,226
+"### | ذكر التنكيت
+",000,False,000,False,False,False,1,427
+"### | ذكر الإرداف
+",000,False,000,False,False,False,1,324
+"### | ذكر الإيداع:
+",000,False,000,False,False,False,1,5826
+"### | ذكر التوهيم
+",000,False,000,False,False,False,1,456
+"### | ذكر الألغاز
+",000,False,000,False,False,False,1,4479
+"### | ذكر سلامة الاختراع
+",000,False,000,False,False,False,1,1371
+"### | ذكر التفسير
+",000,False,000,False,False,False,1,582
+"### | ذكر حسن الاتباع
+",000,False,000,False,False,False,1,1156
+"### | ذكر المواردة
+",000,False,000,False,False,False,1,581
+"### | ذكر الإيضاح
+",000,False,000,False,False,False,1,313
+"### | ذكر التفريع
+",000,False,000,False,False,False,1,500
+"### | ذكر حسن النسق
+",000,False,000,False,False,False,1,195
+"### | ذكر التعديد
+",000,False,000,False,False,False,1,148
+"### | ذكر التعليل
+",000,False,000,False,False,False,1,295
+"### | ذكر التعطف
+",000,False,000,False,False,False,1,167
+"### | ذكر الاستتباع
+",000,False,000,False,False,False,1,192
+"### | ذكر الطاعة والعصيان
+",000,False,000,False,False,False,1,600
+"### | ذكر المدح في معرض الذم
+",000,False,000,False,False,False,1,195
+"### | ذكر البسط
+",000,False,000,False,False,False,1,208
+"### | ذكر الاتساع
+",000,False,000,False,False,False,1,167
+"### | ذكر جمع المؤتلف والمختلف
+",000,False,000,False,False,False,1,363
+"### | ذكر التعريض
+",000,False,000,False,False,False,1,183
+"### | ذكر الترصيع
+",000,False,000,False,False,False,1,462
+"### | ذكر السجع
+",000,False,000,False,False,False,1,5691
+"### | ذكر التسميط
+",000,False,000,False,False,False,1,292
+"### | ذكر الالتزام
+",000,False,000,False,False,False,1,251
+"### | ذكر المزاوجة
+",000,False,000,False,False,False,1,140
+"### | ذكر التجزئة
+",000,False,000,False,False,False,1,141
+"### | ذكر التجريد
+",000,False,000,False,False,False,1,157
+"### | ذكر المجاز
+",000,False,000,False,False,False,1,222
+"### | ذكر الائتلاف
+",000,False,000,False,False,False,1,10
+"### | 1- 
+",000,False,000,False,False,False,1,231
+"### | 2- 
+",000,False,000,False,False,False,1,228
+"### | 3- 
+",000,False,000,False,False,False,1,218
+"### | 4- 
+",000,False,000,False,False,False,1,154
+"### | ذكر التمكين
+",000,False,000,False,False,False,1,245
+"### | ذكر الحذف
+",000,False,000,False,False,False,1,1031
+"### | ذكر التدبيج
+",000,False,000,False,False,False,1,324
+"### | ذكر الاقتباس
+",000,False,000,False,False,False,1,5512
+"### | ذكر السهولة
+",000,False,000,False,False,False,1,746
+"### | ذكر حسن البيان
+",000,False,000,False,False,False,1,378
+"### | ذكر الإدماج
+",000,False,000,False,False,False,1,408
+"### | ذكر الاحتراس
+",000,False,000,False,False,False,1,267
+"### | ذكر براعة الطلب
+",000,False,000,False,False,False,1,147
+"### | ذكر العقد
+",000,False,000,False,False,False,1,324
+"### | ذكر المساواة
+",000,False,000,False,False,False,1,255
+"### | ذكر حسن الختام
+",000,False,000,False,False,False,1,3194
+"### | فهرس الموضوعات
+",000,False,000,False,False,False,1,271

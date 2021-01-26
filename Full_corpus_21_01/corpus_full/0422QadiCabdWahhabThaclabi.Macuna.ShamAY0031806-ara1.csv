@@ -1,0 +1,573 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO مقدمة الناشر
+",000,False,000,False,False,False,1,231
+"### | CHECK [مقدمة [المحقق]]
+",000,False,000,False,False,False,1,907
+"### | AUTO القسم الأول الدارسة
+",000,False,000,False,False,False,1,12188
+"### || AUTO الفصل الأول القاضي عبد الوهاب PageV01P015
+",000,False,000,False,False,False,2,5208
+"### ||| AUTO المبحث الأول: عصر المؤلف
+",000,False,000,False,False,False,3,755
+"### |||| AUTO • الحالة الاجتماعية والاقتصادية (¬1):
+",000,False,000,False,False,False,4,95
+"### |||| AUTO فنتيجة لهذه المفارقات حل الظلم والفساد محل العدل والصلاح،
+",000,False,000,False,False,False,4,230
+"### |||| AUTO فلا غرابة - إذن أن تنعكس هذه النهضة الفكرية الشاملة على
+",000,False,000,False,False,False,4,165
+"### ||| AUTO ### |||| AUTO المبحث الثاني: القاضي عبد الوهاب (¬1)
+",000,False,000,False,False,False,3,722
+"### |||| AUTO المبحث الثاني: القاضي عبد الوهاب (¬1)
+",000,False,000,False,False,False,4,34
+"### |||| AUTO • مولده:
+",000,False,000,False,False,False,4,12
+"### |||| AUTO قال ابن العماد: "" .. كانت ولادته ببغداد يوم الخميس سابع
+",000,False,000,False,False,False,4,158
+"### |||| AUTO • شيوخه:
+",000,False,000,False,False,False,4,525
+"### ||||| AUTO 1 - أبو بكر الأبهري (¬2):
+",000,False,000,False,False,False,5,73
+"### ||||| AUTO 2 - العسكري (¬3):
+",000,False,000,False,False,False,5,49
+"### ||||| AUTO 3 - ابن سبنك (¬4):
+",000,False,000,False,False,False,5,48
+"### ||||| AUTO 4 - ابن الجلاب (¬1):
+",000,False,000,False,False,False,5,44
+"### ||||| AUTO 5 - ابن شاهين (¬2):
+",000,False,000,False,False,False,5,50
+"### ||||| AUTO 6 - مخلص (¬3):
+",000,False,000,False,False,False,5,52
+"### ||||| AUTO 7 - ابن القصار (¬4):
+",000,False,000,False,False,False,5,68
+"### ||||| AUTO 8 - الباقلاني (¬1):
+",000,False,000,False,False,False,5,77
+"### ||||| AUTO 9 - ابن الصلت المجبر (¬2):
+",000,False,000,False,False,False,5,44
+"### ||||| AUTO 10 - ابن شاذان (¬3):
+",000,False,000,False,False,False,5,27
+"### ||| AUTO • خروجه من العراق ورحلته إلى مصر:
+",000,False,000,False,False,False,3,796
+"### ||| AUTO جواب المستنصر بالله: حرس الله مهجتك وطول مدتك، وقدم أمير
+",000,False,000,False,False,False,3,546
+"### ||| AUTO فمن كانت له همة سنية فلينسج على منواله ... "" (¬1).
+",000,False,000,False,False,False,3,296
+"### ||| AUTO القاضي عبد الوهاب الأصولية ونذكر منها ""المفاخر"" و""الملخص""
+",000,False,000,False,False,False,3,75
+"### ||| AUTO ولقد كان قاضيا في مصر حين توفي بها (¬1).
+",000,False,000,False,False,False,3,408
+"### |||| AUTO 1 - ابن عمروس (¬2):
+",000,False,000,False,False,False,4,58
+"### |||| AUTO 2 - الخطيب البغدادي (¬3):
+",000,False,000,False,False,False,4,42
+"### |||| AUTO 3 - عبد الحق بن هارون (¬5):
+",000,False,000,False,False,False,4,55
+"### |||| AUTO 4 - أبو الفضل الدمشقي (¬1):
+",000,False,000,False,False,False,4,110
+"### |||| AUTO 5 - أبو العباس بن قبيس (¬3):
+",000,False,000,False,False,False,4,29
+"### |||| AUTO 6 - أبو إسحاق الشيرازي (¬4):
+",000,False,000,False,False,False,4,96
+"### |||| AUTO 7 - أما القاضي ابن الشماخ الغافقي فهو:
+",000,False,000,False,False,False,4,44
+"### ||| AUTO أما المهدي بن يوسف فلم أقف على ترجمة له.
+",000,False,000,False,False,False,3,1028
+"### |||| AUTO 1 - التلقين:
+",000,False,000,False,False,False,4,40
+"### |||| AUTO 2 - المعين على كتاب التلقين:
+",000,False,000,False,False,False,4,36
+"### |||| AUTO 3 - شرط المدونة:
+",000,False,000,False,False,False,4,24
+"### |||| AUTO 4 - النصرة لمذهب الإمام دار الهجرة:
+",000,False,000,False,False,False,4,35
+"### |||| AUTO 5 - الممهد في شرط مختصر أبي محمد بن أبي زيد القيرواني:
+",000,False,000,False,False,False,4,86
+"### |||| AUTO 6 - شرح رسالة ابن أبي زيد:
+",000,False,000,False,False,False,4,115
+"### |||| AUTO 7 - المعونة على مذهب عالم المدينة:
+",000,False,000,False,False,False,4,29
+"### |||| AUTO 8 - عيون المسائل (¬3):
+",000,False,000,False,False,False,4,45
+"### |||| AUTO 9 - اختصار عيون المجالس (¬2):
+",000,False,000,False,False,False,4,13
+"### |||| AUTO 10 - اختصار عيون الأدلة:
+",000,False,000,False,False,False,4,77
+"### |||| AUTO 11 - النظائر في الفقه:
+",000,False,000,False,False,False,4,38
+"### |||| AUTO 12 - الأدلة في مسائل الخلاف (¬1):
+",000,False,000,False,False,False,4,22
+"### |||| AUTO 13 - الإشراف على مسائل الخلاف (¬3):
+",000,False,000,False,False,False,4,20
+"### |||| AUTO 14 - أوائل الأدلة في مسائل الخلاف بين فقهاء الملة (¬4):
+",000,False,000,False,False,False,4,20
+"### |||| AUTO 15 - غرر المحاضرة ورؤوس مسائل المناظرة (¬5):
+",000,False,000,False,False,False,4,24
+"### |||| AUTO 16 - شرح فصول الأحكام وبيان ما مضى به العمل عند الفقهاء
+",000,False,000,False,False,False,4,39
+"### |||| AUTO 17 - الرد على المزني (¬1):
+",000,False,000,False,False,False,4,27
+"### |||| AUTO 18 - الجوهرة في المذاهب العشرة (¬3).
+",000,False,000,False,False,False,4,12
+"### |||| AUTO 19 - البروق في مسائل الفقه:
+",000,False,000,False,False,False,4,51
+"### |||| AUTO 20 - الإفادة (¬6):
+",000,False,000,False,False,False,4,27
+"### |||| AUTO 21 - التلخيص في أصول الفقه أيضا (¬7):
+",000,False,000,False,False,False,4,26
+"### |||| AUTO 22 - المفاخر (¬8):
+",000,False,000,False,False,False,4,22
+"### |||| AUTO 23 - المقدمات في أصول الفقه:
+",000,False,000,False,False,False,4,224
+"### |||| AUTO 24 - وله تقييد على الأحكام الخمسة:
+",000,False,000,False,False,False,4,27
+"### |||| AUTO 25 - المروزي في الأصول (¬5):
+",000,False,000,False,False,False,4,10
+"### |||| AUTO 26 - وله مؤلف في العقيدة:
+",000,False,000,False,False,False,4,45
+"### ||| AUTO • شعره:
+",000,False,000,False,False,False,3,254
+"### ||| AUTO أقول: وأيضا لو لم تقطع الأيدي في ربع دينار أو ثلاثة دراهم،
+",000,False,000,False,False,False,3,94
+"### ||| AUTO وقال ابن تيمية في ذلك: "" .. قال أبو بكر محمد بن الحسن
+",000,False,000,False,False,False,3,194
+"### || AUTO الفصل الثاني كتاب ""المعونة"" على مذهب عالم المدينة PageV01P053
+",000,False,000,False,False,False,2,5521
+"### ||| AUTO مقدمة
+",000,False,000,False,False,False,3,837
+"### ||| AUTO ### |||| AUTO المبحث الأول كتاب ""المعونة"" على مذهب عالم
+",000,False,000,False,False,False,3,3131
+"### |||| AUTO المبحث الأول كتاب ""المعونة"" على مذهب عالم
+",000,False,000,False,False,False,4,124
+"### |||| AUTO وهناك من أخطأ وقال: ""المعونة في شرح الرسالة"" (¬2)، والصحيح
+",000,False,000,False,False,False,4,132
+"### |||| AUTO ويضاف إلى ما ذكره المصنف في المقدمة، فإن الكتاب يعتبر
+",000,False,000,False,False,False,4,244
+"### |||| AUTO وإن كل هذه المميزات جعلت لكتاب ""المعونة"" قيمة علمية كبيرة،
+",000,False,000,False,False,False,4,618
+"### ||||| AUTO 1 - فتاوي ابن رشد:
+",000,False,000,False,False,False,5,66
+"### ||||| AUTO 2 - المقدمات الممهدات:
+",000,False,000,False,False,False,5,67
+"### ||||| AUTO 3 - البيان والتحصيل:
+",000,False,000,False,False,False,5,34
+"### ||||| AUTO 4 - الفروق:
+",000,False,000,False,False,False,5,79
+"### ||||| AUTO 5 - تبصرة الحكام:
+",000,False,000,False,False,False,5,54
+"### ||||| AUTO 6 - إرشاد اللبيب إلى مقاصد حديث الحبيب:
+",000,False,000,False,False,False,5,46
+"### ||||| AUTO 7 - مواهب الجليل:
+",000,False,000,False,False,False,5,104
+"### ||||| AUTO 8 - التاج والإكليل:
+",000,False,000,False,False,False,5,24
+"### ||||| AUTO 9 - أبو الوليد الباجي (474 ه) في كتابه ""المنتقي"" (1/ 41،
+",000,False,000,False,False,False,5,18
+"### ||||| AUTO 10 - العلامة قاسم بن عيسى بن ناجي (837 ه) في شرحه
+",000,False,000,False,False,False,5,28
+"### ||||| AUTO 11 - والعلامة أحمد بن محمد البرنسي الفاسي المعروف بزروق
+",000,False,000,False,False,False,5,30
+"### ||||| AUTO 12 - وأبو العباس أحمد بن يحيى الونشريسي (ت 914 ه) في
+",000,False,000,False,False,False,5,25
+"### |||| AUTO ### ||||| AUTO 13 - وأبو علي الحسن بن رحال المعداني (ت
+",000,False,000,False,False,False,4,166
+"### ||||| AUTO 13 - وأبو علي الحسن بن رحال المعداني (ت
+",000,False,000,False,False,False,5,168
+"### |||| AUTO - ابن الجلاب (378 ه).
+",000,False,000,False,False,False,4,178
+"### |||| AUTO 36 - كتاب الجامع.
+",000,False,000,False,False,False,4,456
+"### |||| AUTO وهكذا على هذا المنوال يسير في عرض المسائل الفقهية في جميع
+",000,False,000,False,False,False,4,310
+"### |||| AUTO الله عليه وسلم: ""واغدو يا أنيس على امرأة هذا فإن اعترفت
+",000,False,000,False,False,False,4,90
+"### |||| AUTO فمما قاله ابن العماد: "" ... وفيها مجد الدين محمد بن محمد
+",000,False,000,False,False,False,4,359
+"### |||| AUTO مقارنة بين كتاب ""المعونة"" وكتاب ""الذخيرة""
+",000,False,000,False,False,False,4,488
+"### ||| AUTO ### |||| AUTO المبحت الثاني
+",000,False,000,False,False,False,3,1417
+"### |||| AUTO المبحت الثاني
+",000,False,000,False,False,False,4,159
+"### |||| AUTO * معنى الرخصة.
+",000,False,000,False,False,False,4,1204
+"### |||| AUTO * الأصل في المواريث أن العصبة أولى بما يبقى.
+",000,False,000,False,False,False,4,57
+"### || AUTO وصف نسخ المخطوط
+",000,False,000,False,False,False,2,456
+"### || AUTO منهجي في تحقيق الكتاب
+",000,False,000,False,False,False,2,684
+"### || AUTO رموز ومصطلحات
+",000,False,000,False,False,False,2,56
+"### || AUTO صور المخطوط PageV01P101
+",000,False,000,False,False,False,2,263
+"### | CHECK [كتاب الطهارة]
+",000,False,000,False,False,False,1,9215
+"### || CHECK [باب: المسح على الخفين]
+",000,False,000,False,False,False,2,720
+"### || AUTO باب: ""المسح على العصائب والجبائر"" (¬1)
+",000,False,000,False,False,False,2,132
+"### || AUTO باب: التيمم
+",000,False,000,False,False,False,2,1129
+"### || AUTO باب: الوضوء
+",000,False,000,False,False,False,2,2081
+"### || AUTO باب الاستنجاء (¬1)
+",000,False,000,False,False,False,2,227
+"### || AUTO باب في طهارة الماء
+",000,False,000,False,False,False,2,1124
+"### || AUTO باب الدماء
+",000,False,000,False,False,False,2,1719
+"### | AUTO كتاب الصلاة (¬1)
+",000,False,000,False,False,False,1,19276
+"### || CHECK [باب الأذان والإقامة]
+",000,False,000,False,False,False,2,1169
+"### || AUTO باب: [أحكام القبلة والصلاة]
+",000,False,000,False,False,False,2,1952
+"### || AUTO باب [ستر العورة]
+",000,False,000,False,False,False,2,531
+"### || AUTO باب [السهو في الصلاة]
+",000,False,000,False,False,False,2,1364
+"### || AUTO باب [القنوت في صلاة الصبح، والصلاة النافلة]
+",000,False,000,False,False,False,2,1139
+"### || AUTO باب: [في الإمامة]
+",000,False,000,False,False,False,2,784
+"### || AUTO باب [في صلاة الجماعة]
+",000,False,000,False,False,False,2,228
+"### || AUTO باب [الجمع بين الصلاتين]
+",000,False,000,False,False,False,2,256
+"### || AUTO باب [قضاء فوائت المغمى عليه]
+",000,False,000,False,False,False,2,973
+"### || AUTO باب [- في صلاة المسافر]
+",000,False,000,False,False,False,2,786
+"### || AUTO باب [في قضاء الفوائت]
+",000,False,000,False,False,False,2,551
+"### || AUTO باب [المشي إلى الفرج في الصلاة]
+",000,False,000,False,False,False,2,405
+"### || AUTO باب [كيفية صلاة العاجز]
+",000,False,000,False,False,False,2,272
+"### || AUTO باب [الحدث في الصلاة]
+",000,False,000,False,False,False,2,334
+"### || AUTO باب [مواضع سجود القرآن]
+",000,False,000,False,False,False,2,2030
+"### || AUTO باب [صلاة الجمعة]
+",000,False,000,False,False,False,2,2182
+"### || AUTO باب: [صلاة الخوف]
+",000,False,000,False,False,False,2,966
+"### || AUTO باب: صلاة العيدين
+",000,False,000,False,False,False,2,994
+"### || AUTO باب: صلاة الكسوف
+",000,False,000,False,False,False,2,689
+"### || AUTO باب: صلاة الاستسقاء
+",000,False,000,False,False,False,2,885
+"### | AUTO كتاب الجنائز
+",000,False,000,False,False,False,1,2903
+"### || AUTO باب: صفة غسل الميت (¬1)
+",000,False,000,False,False,False,2,835
+"### || AUTO باب: كفن الميت وحنوطه ومؤونة الدفن (¬1)
+",000,False,000,False,False,False,2,331
+"### || AUTO باب: وقت الصلاة على الجنائز (¬1)
+",000,False,000,False,False,False,2,1737
+"### | AUTO كتاب الزكاة
+",000,False,000,False,False,False,1,14478
+"### || AUTO باب: زكاة معادن الذهب والفضة
+",000,False,000,False,False,False,2,592
+"### || AUTO باب: [زكاة الإبل]
+",000,False,000,False,False,False,2,1276
+"### || AUTO باب: في زكاة البقر (¬1)
+",000,False,000,False,False,False,2,262
+"### || AUTO باب: زكاة الغنم (¬1)
+",000,False,000,False,False,False,2,2647
+"### || AUTO باب: في زكاة الحبوب والثمار وغيرها
+",000,False,000,False,False,False,2,3081
+"### || AUTO باب زكاة الفطر (¬1)
+",000,False,000,False,False,False,2,1586
+"### || AUTO باب: أصناف الذين تجب لهم الصدقات (¬1)
+",000,False,000,False,False,False,2,966
+"### || AUTO باب: أخذ الجزية من أهل الذمة (¬1)
+",000,False,000,False,False,False,2,879
+"### | AUTO كتاب الصيام (¬1)
+",000,False,000,False,False,False,1,4918
+"### || AUTO باب: الصوم الشرعي
+",000,False,000,False,False,False,2,850
+"### || AUTO باب: فيمن أكل أو شرب أو خرم الإمساك ناسيا وهو صائم (¬1)
+",000,False,000,False,False,False,2,2376
+"### | AUTO كتاب الاعتكاف (¬1)
+",000,False,000,False,False,False,1,1116
+"### | AUTO كتاب المناسك (¬1)
+",000,False,000,False,False,False,1,14690
+"### || AUTO باب: [مواقيت الحج]
+",000,False,000,False,False,False,2,1354
+"### || AUTO باب: أركان الحج (¬1)
+",000,False,000,False,False,False,2,939
+"### || AUTO باب الإحرام (¬1)
+",000,False,000,False,False,False,2,1051
+"### || AUTO باب: من قتل صيدا وهو محرم أو ذبحه أو صاده
+",000,False,000,False,False,False,2,2928
+"### || AUTO باب: أضرب الحج
+",000,False,000,False,False,False,2,2797
+"### || AUTO باب: [في الدخول إلى مكة]
+",000,False,000,False,False,False,2,953
+"### || AUTO باب: [ذكر أعمال الحج]
+",000,False,000,False,False,False,2,1824
+"### || AUTO باب: [في الإحصار]
+",000,False,000,False,False,False,2,312
+"### || AUTO باب: [الوطء في الإحرام]
+",000,False,000,False,False,False,2,1044
+"### | AUTO كتاب الجهاد
+",000,False,000,False,False,False,1,3839
+"### | CHECK [كتاب الأيمان والنذور]
+",000,False,000,False,False,False,1,4624
+"### || AUTO باب [في النذر]
+",000,False,000,False,False,False,2,1535
+"### | AUTO كتاب الأضاحي
+",000,False,000,False,False,False,1,2053
+"### || AUTO باب العقيقة
+",000,False,000,False,False,False,2,519
+"### | AUTO كتاب الصيد (¬1)
+",000,False,000,False,False,False,1,1569
+"### | AUTO كتاب الذبائح (¬1)
+",000,False,000,False,False,False,1,3478
+"### || AUTO باب: الأطعمة (¬1)
+",000,False,000,False,False,False,2,1187
+"### || AUTO باب: الأشربة (¬1)
+",000,False,000,False,False,False,2,1012
+"### | AUTO كتاب النكاح وأبوابه والطلاق وما يتعلق به (¬1)
+",000,False,000,False,False,False,1,37835
+"### || AUTO باب: [اشتراط الولي في عقد النكاح]
+",000,False,000,False,False,False,2,1371
+"### || AUTO باب: [خلع الأب على ولده الصغير]
+",000,False,000,False,False,False,2,1568
+"### || AUTO باب: [الإشهاد على عقد النكاح]
+",000,False,000,False,False,False,2,747
+"### || AUTO باب: [الصداق] (¬1)
+",000,False,000,False,False,False,2,3567
+"### || AUTO باب: [عيوب النكاح]
+",000,False,000,False,False,False,2,827
+"### || AUTO باب: [العيوب التي توجد بالزوج خاصة]
+",000,False,000,False,False,False,2,963
+"### || AUTO باب: [في متعة الطلاق]
+",000,False,000,False,False,False,2,156
+"### || AUTO باب: [النفقة على الأزواج في النكاح]
+",000,False,000,False,False,False,2,706
+"### || AUTO باب: [نكاح المريض المخوف عليه]
+",000,False,000,False,False,False,2,783
+"### || AUTO باب: [المحرمات من النساء]
+",000,False,000,False,False,False,2,2502
+"### || AUTO باب: [ما يحرم الجمع بينه من النساء]
+",000,False,000,False,False,False,2,768
+"### || AUTO باب: من التحريم
+",000,False,000,False,False,False,2,701
+"### || AUTO باب: [حق المقام عند الزوجة الجديدة]
+",000,False,000,False,False,False,2,407
+"### || AUTO باب: [في امرأة المفقود]
+",000,False,000,False,False,False,2,933
+"### || AUTO باب: في الطلاق
+",000,False,000,False,False,False,2,1117
+"### || AUTO باب: [طلاق السنة وطلاق البدعة]
+",000,year,000,False,False,False,2,1248
+"### || AUTO باب: [طلاق الصغير والمجنون وغيرهما]
+",000,False,000,False,False,False,2,4203
+"### || AUTO باب: [في الشهادة على الطلاق]
+",000,False,000,False,False,False,2,251
+"### || AUTO باب: [الخلوة لا توجب كمال الصداق]
+",000,False,000,False,False,False,2,338
+"### || AUTO باب: [الخيار للأمة إذا أعتقت وهي تحت عبد]
+",000,False,000,False,False,False,2,311
+"### || AUTO باب: [في الخلع]
+",000,False,000,False,False,False,2,826
+"### || AUTO باب: [في الحكمين]
+",000,False,000,False,False,False,2,394
+"### || AUTO باب: [في تمليك المرأة طلاقها]
+",000,False,000,False,False,False,2,724
+"### || AUTO باب: [في الإيلاء]
+",000,False,000,False,False,False,2,1088
+"### || AUTO باب: [الظهار]
+",000,False,000,False,False,False,2,1462
+"### || AUTO باب: [في اللعان]
+",000,False,000,False,False,False,2,2230
+"### || AUTO باب: [في العدة]
+",000,False,000,False,False,False,2,2711
+"### || AUTO باب: [في الإحداد]
+",000,False,000,False,False,False,2,517
+"### || AUTO باب: [النفقة والسكنى للمطلقة الرجعية]
+",000,False,000,False,False,False,2,675
+"### || AUTO باب: [في النفقة على الولد الصغير]
+",000,False,000,False,False,False,2,409
+"### || AUTO باب: [في الحضانة (¬1)]
+",000,False,000,False,False,False,2,532
+"### || AUTO باب [في استبراء الأمة]
+",000,False,000,False,False,False,2,338
+"### || AUTO باب: في الرضاع (¬1)
+",000,False,000,False,False,False,2,1102
+"### | AUTO كتاب البيوع (¬1)
+",000,False,000,False,False,False,1,21540
+"### || AUTO باب: [في بيع المزانبة]
+",000,False,000,False,False,False,2,892
+"### || AUTO باب: [في بيع الطعام قبل قبضه]
+",000,False,000,False,False,False,2,1619
+"### || AUTO باب: [في أضرب المبيع]
+",000,False,000,False,False,False,2,697
+"### || AUTO نوع آخر: [في السلم]
+",000,False,000,False,False,False,2,2623
+"### || AUTO باب: [في القرض]
+",000,False,000,False,False,False,2,459
+"### || AUTO باب: [في بيع السلم قبل قبضه]
+",000,False,000,False,False,False,2,625
+"### || AUTO باب: [في بيع الثمار]
+",000,False,000,False,False,False,2,1925
+"### || AUTO باب: [في العرية]
+",000,False,000,False,False,False,2,863
+"### || AUTO باب: [في منع التفاضل في بيع الذهب بالذهب] الصرف
+",000,False,000,False,False,False,2,1076
+"### || AUTO باب: [بيع الغرر]
+",000,False,000,False,False,False,2,1995
+"### || AUTO باب: [في الخيار]
+",000,False,000,False,False,False,2,1202
+"### || AUTO باب: [في الغش والتدليس في البيوع]
+",000,False,000,False,False,False,2,2781
+"### || AUTO باب: [في عهدة الرقيق (¬1)]
+",000,False,000,False,False,False,2,1143
+"### || AUTO باب: [التفرقة في البيع بين الأمة وولدها]
+",000,False,000,False,False,False,2,182
+"### || AUTO باب: [التصرية]
+",000,False,000,False,False,False,2,737
+"### || AUTO باب: [إذا اختلف المتبايعان في مقدار الثمن]
+",000,False,000,False,False,False,2,584
+"### || AUTO باب: [في الاستبراء]
+",000,False,000,False,False,False,2,758
+"### | AUTO كتاب الإجارات
+",000,False,000,False,False,False,1,5427
+"### || AUTO باب: [في الجعالة]
+",000,False,000,False,False,False,2,578
+"### | AUTO كتاب القراض (¬1)
+",000,False,000,False,False,False,1,2233
+"### | CHECK [كتاب المساقاة وكراء الأرض والمزارعة]
+",000,False,000,False,False,False,1,1771
+"### || AUTO باب: [كراء الأرض]
+",000,False,000,False,False,False,2,507
+"### | AUTO كتاب الشركة
+",000,False,000,False,False,False,1,1194
+"### | AUTO كتاب الرهون
+",000,False,000,False,False,False,1,3604
+"### | AUTO كتاب الحجر (¬2)
+",000,False,000,False,False,False,1,2745
+"### || AUTO باب [- في الحجر على المفلس وحبس المديان]
+",000,False,000,False,False,False,2,387
+"### || AUTO باب [- حلول الدين المؤجل]
+",000,False,000,False,False,False,2,566
+"### || AUTO باب [- في تجارة ودين العبد بغير إذن سيده]:
+",000,False,000,False,False,False,2,267
+"### | AUTO كتاب الصلح
+",000,False,000,False,False,False,1,3027
+"### || AUTO باب [- في إحياء الموات]
+",000,False,000,False,False,False,2,1787
+"### || AUTO باب: الوديعة (¬1)
+",000,False,000,False,False,False,2,623
+"### || AUTO باب: العارية (¬1)
+",000,False,000,False,False,False,2,310
+"### | AUTO كتاب الغصب والتعدي (¬2)
+",000,False,000,False,False,False,1,2823
+"### || AUTO باب: الاستحقاق (¬1)
+",000,False,000,False,False,False,2,827
+"### | AUTO كتاب الحوالة (¬2)
+",000,False,000,False,False,False,1,1192
+"### || AUTO باب: الحمالة (¬1)
+",000,False,000,False,False,False,2,806
+"### | AUTO كتاب الوكالة (¬2)
+",000,False,000,False,False,False,1,1206
+"### | AUTO كتاب الإقرار (¬2)
+",000,False,000,False,False,False,1,3052
+"### | AUTO كتاب اللقطة (¬2)
+",000,False,000,False,False,False,1,1080
+"### | AUTO كتاب الشفعة (¬2)
+",000,False,000,False,False,False,1,2848
+"### | AUTO كتاب القسمة (¬2)
+",000,False,000,False,False,False,1,1457
+"### || AUTO باب اللقيط (¬1)
+",000,False,000,False,False,False,2,280
+"### | AUTO كتاب الجراح (¬2)
+",000,False,000,False,False,False,1,11007
+"### || AUTO باب [- اشتراط تكافؤ الدماء في القصاص]
+",000,False,000,False,False,False,2,1005
+"### || AUTO باب [- في أنواع القتل، وطلب الدية من مستحق القتل]
+",000,False,000,False,False,False,2,1916
+"### || AUTO باب [- في أنواع الدية]
+",000,False,000,False,False,False,2,1391
+"### || AUTO باب: من الديات
+",000,False,000,False,False,False,2,1136
+"### || AUTO باب [- في دية المرأة والكتابي والمجوسي والعبد ...]
+",000,False,000,False,False,False,2,1004
+"### || AUTO باب [في حكم القسامة وصورتها]
+",000,False,000,False,False,False,2,2167
+"### || AUTO باب [في كون الدية موروثة]
+",000,False,000,False,False,False,2,280
+"### || AUTO باب [في دية الجنين]
+",000,False,000,False,False,False,2,357
+"### || AUTO باب [في الردة]
+",000,False,000,False,False,False,2,530
+"### || AUTO باب [في حد السحر]:
+",000,False,000,False,False,False,2,115
+"### || AUTO باب [في الغسل والصلاة على المقتول من الفئة الباغية]
+",000,False,000,False,False,False,2,68
+"### || AUTO باب [الحرابة]
+",000,False,000,False,False,False,2,527
+"### || AUTO باب [في دفع الصائل من البهائم]
+",000,False,000,False,False,False,2,457
+"### | CHECK [كتاب الحدود: في الزنا]
+",000,False,000,False,False,False,1,6167
+"### || AUTO باب [في حد الزاني البكر]
+",000,False,000,False,False,False,2,380
+"### || AUTO باب [في طريق ثبوت الزنا]:
+",000,False,000,False,False,False,2,3110
+"### || AUTO باب [في حد القذف]
+",000,False,000,False,False,False,2,1666
+"### | AUTO كتاب القطع (¬2)
+",000,False,000,False,False,False,1,3150
+"### | AUTO كتاب العتق
+",000,False,000,False,False,False,1,5302
+"### || AUTO باب [- حكم المعتقين عند موت سيدهم]
+",000,False,000,False,False,False,2,1464
+"### || CHECK [باب: الولاء]
+",000,False,000,False,False,False,2,1881
+"### | AUTO كتاب المكاتب (¬1)
+",000,False,000,False,False,False,1,3186
+"### | AUTO كتاب المدبر
+",000,False,000,False,False,False,1,1265
+"### | AUTO كتاب أمهات الأولاد (¬1)
+",000,False,000,False,False,False,1,1937
+"### | AUTO كتاب الأقضية والشهادات والدعاوى والبينات وما يتعلق بذلك (¬1)
+",000,False,000,False,False,False,1,16995
+"### || AUTO باب [في اشتراط العدالة في الشهادة]
+",000,False,000,False,False,False,2,3685
+"### || AUTO باب [- في التزكية]
+",000,False,000,False,False,False,2,357
+"### || AUTO باب [- في حكم تحمل الشهادة]
+",000,False,000,False,False,False,2,376
+"### || AUTO باب [- في أقسام البينة]
+",000,False,000,False,False,False,2,2622
+"### || AUTO باب [شهادة الأعمى]
+",000,False,000,False,False,False,2,1416
+"### || AUTO باب [- في الدعوى والبينات]
+",000,False,000,False,False,False,2,5190
+"### | AUTO كتاب الحبس والوقوف والصدقة والعمرى والرقبي وما يتصل بذلك
+",000,False,000,False,False,False,1,5322
+"### || AUTO باب [- في صحة ولزوم عقد الصدقة والهبة من غير قبض]
+",000,False,000,False,False,False,2,2186
+"### | AUTO كتاب الوصية (¬1)
+",000,False,000,False,False,False,1,5341
+"### | AUTO كتاب المواريث (¬1)
+",000,False,000,False,False,False,1,6786
+"### || AUTO باب [- الوارثون من الرجال والنساء]
+",000,False,000,False,False,False,2,723
+"### || AUTO باب [- فيمن يحجبون]
+",000,False,000,False,False,False,2,1900
+"### || AUTO باب [- في ترتيب المواريث على النسب]
+",000,False,000,False,False,False,2,2184
+"### || AUTO باب [- في اجتماع الفروض والعول]
+",000,False,000,False,False,False,2,440
+"### | AUTO كتاب الجامع (¬1)
+",000,False,000,False,False,False,1,8190
+"### || AUTO باب - في السلام
+",000,False,000,False,False,False,2,6128
+"### || AUTO باب في فضل المدينة والصلاة بها وفضل مالك -رحمه الله- وترجيح مذهبه
+",000,False,000,False,False,False,2,1541
+"### | AUTO فهرس المراجع
+",000,False,000,False,False,False,1,95590

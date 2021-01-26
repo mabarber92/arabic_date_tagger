@@ -1,0 +1,809 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | 1 - 
+",000,False,000,False,False,False,1,64
+"### | 2 - 
+",000,False,000,False,False,False,1,14
+"### | 3 - 
+",000,False,000,False,False,False,1,43
+"### | 4 - 
+",000,False,000,False,False,False,1,19
+"### | 5 - 
+",000,False,000,False,False,False,1,27
+"### | 6 - 
+",000,False,000,False,False,False,1,23
+"### | 7 - 
+",000,False,000,False,False,False,1,39
+"### | 8 - 
+",000,False,000,False,False,False,1,27
+"### | 9 - 
+",000,False,000,False,False,False,1,36
+"### | 10 - 
+",000,False,000,False,False,False,1,23
+"### | 11 - 
+",000,False,000,False,False,False,1,31
+"### | 12 - 
+",000,False,000,False,False,False,1,27
+"### | 13 - 
+",000,False,000,False,False,False,1,143
+"### | 14 - 
+",000,False,000,False,False,False,1,166
+"### | 15 - 
+",000,False,000,False,False,False,1,50
+"### | 16 - 
+",000,False,000,False,False,False,1,99
+"### | 17 - 
+",000,False,000,False,False,False,1,43
+"### | 18 - 
+",000,False,000,False,False,False,1,36
+"### | 19 - 
+",000,False,000,False,False,False,1,34
+"### | 20 - 
+",000,False,000,False,False,False,1,41
+"### | 21 - 
+",000,False,000,False,False,False,1,140
+"### | 22 - 
+",000,False,000,False,False,False,1,29
+"### | 23 - 
+",000,False,000,False,False,False,1,98
+"### | 24 - 
+",000,False,000,False,False,False,1,48
+"### | 25 - 
+",000,False,000,False,False,False,1,40
+"### | 26 - 
+",000,False,000,False,False,False,1,27
+"### | 27 - 
+",000,False,000,False,False,False,1,108
+"### | 28 - 
+",000,False,000,False,False,False,1,66
+"### | 29 - 
+",000,False,000,False,False,False,1,123
+"### | 30 - 
+",000,False,000,False,False,False,1,63
+"### | 31 - 
+",000,False,000,False,False,False,1,45
+"### | 32 - 
+",000,False,000,False,False,False,1,171
+"### | 33 - 
+",000,False,000,False,False,False,1,79
+"### | 34 - 
+",000,False,000,False,False,False,1,54
+"### | 35 - 
+",000,False,000,False,False,False,1,90
+"### | 36 - 
+",000,False,000,False,False,False,1,114
+"### | 37 - 
+",000,False,000,False,False,False,1,148
+"### | 38 - 
+",000,False,000,False,False,False,1,456
+"### | 39 - 
+",000,False,000,False,False,False,1,86
+"### | 40 - 
+",000,False,000,False,False,False,1,62
+"### | 41 - 
+",000,False,000,False,False,False,1,48
+"### | 42 - 
+",000,False,000,False,False,False,1,24
+"### | 43 - 
+",000,False,000,False,False,False,1,29
+"### | 44 - 
+",000,False,000,False,False,False,1,31
+"### | 45 - 
+",000,False,000,False,False,False,1,26
+"### | 46 - 
+",000,False,000,False,False,False,1,43
+"### | 47 - 
+",000,False,000,False,False,False,1,61
+"### | 48 - 
+",000,False,000,False,False,False,1,32
+"### | 49 - 
+",000,False,000,False,False,False,1,27
+"### | 50 - 
+",000,False,000,False,False,False,1,51
+"### | 51 - 
+",000,False,000,False,False,False,1,82
+"### | 52 - 
+",000,False,000,False,False,False,1,26
+"### | 53 - 
+",000,False,000,False,False,False,1,44
+"### | 54 - 
+",000,False,000,False,False,False,1,46
+"### | 55 - 
+",000,False,000,False,False,False,1,36
+"### | 56 - 
+",000,False,000,False,False,False,1,40
+"### | 57 - 
+",000,False,000,False,False,False,1,42
+"### | 58 - 
+",000,False,000,False,False,False,1,77
+"### | 59 - 
+",000,False,000,False,False,False,1,42
+"### | 60 - 
+",000,False,000,False,False,False,1,36
+"### | 61 - 
+",000,False,000,False,False,False,1,59
+"### | 62 - 
+",000,False,000,False,False,False,1,35
+"### | 63 - 
+",000,False,000,False,False,False,1,14
+"### | 64 - 
+",000,False,000,False,False,False,1,52
+"### | 65 - 
+",000,False,000,False,False,False,1,32
+"### | 66 - 
+",000,False,000,False,False,False,1,21
+"### | 67 - 
+",000,False,000,False,False,False,1,25
+"### | 68 - 
+",000,False,000,False,False,False,1,27
+"### | 69 - 
+",000,False,000,False,False,False,1,25
+"### | 70 - 
+",000,False,000,False,False,False,1,26
+"### | 71 - 
+",000,False,000,False,False,False,1,27
+"### | 72 - 
+",000,False,000,False,False,False,1,59
+"### | 73 - 
+",000,False,000,False,False,False,1,91
+"### | 74 - 
+",000,False,000,False,False,False,1,39
+"### | 75 - 
+",000,False,000,False,False,False,1,87
+"### | 76 - 
+",000,False,000,False,False,False,1,82
+"### | 77 - 
+",000,False,000,False,False,False,1,119
+"### | 78 - 
+",000,False,000,False,False,False,1,92
+"### | 79 - 
+",000,False,000,False,False,False,1,27
+"### | 80 - 
+",000,False,000,False,False,False,1,52
+"### | 81 - 
+",000,False,000,False,False,False,1,69
+"### | 82 - 
+",000,False,000,False,False,False,1,48
+"### | 83 - 
+",000,False,000,False,False,False,1,49
+"### | 84 - 
+",000,False,000,False,False,False,1,145
+"### | 85 - 
+",000,False,000,False,False,False,1,238
+"### | 86 - 
+",000,False,000,False,False,False,1,15
+"### | 87 - 
+",000,False,000,False,False,False,1,13
+"### | 88 - 
+",000,False,000,False,False,False,1,74
+"### | 89 - 
+",000,False,000,False,False,False,1,50
+"### | 90 - 
+",000,False,000,False,False,False,1,35
+"### | 91 - 
+",000,False,000,False,False,False,1,26
+"### | 92 - 
+",000,False,000,False,False,False,1,139
+"### | 93 - 
+",000,False,000,False,False,False,1,16
+"### | 94 - 
+",000,False,000,False,False,False,1,24
+"### | 95 - 
+",000,False,000,False,False,False,1,29
+"### | 96 - 
+",000,False,000,False,False,False,1,90
+"### | 97 - 
+",000,False,000,False,False,False,1,111
+"### | 98 - 
+",000,False,000,False,False,False,1,18
+"### | 99 - 
+",000,False,000,False,False,False,1,29
+"### | 100 - 
+",000,False,000,False,False,False,1,34
+"### | 101 - 
+",000,False,000,False,False,False,1,33
+"### | 102 - 
+",000,False,000,False,False,False,1,43
+"### | 103 - 
+",000,False,000,False,False,False,1,41
+"### | 104 - 
+",000,False,000,False,False,False,1,124
+"### | 105 - 
+",000,False,000,False,False,False,1,128
+"### | 106 - 
+",000,False,000,False,False,False,1,218
+"### | 107 - 
+",000,False,000,False,False,False,1,55
+"### | 108 - 
+",000,False,000,False,False,False,1,74
+"### | : إذا طابت المكسبة، زكت النفقة، وسترد فترى
+",000,False,000,False,False,False,1,36
+"### | 109 - 
+",000,False,000,False,False,False,1,149
+"### | 110 - 
+",000,False,000,False,False,False,1,75
+"### | 111 - 
+",000,False,000,False,False,False,1,42
+"### | 112 - 
+",000,False,000,False,False,False,1,65
+"### | 113 - 
+",000,False,000,False,False,False,1,61
+"### | 114 - 
+",000,False,000,False,False,False,1,38
+"### | 115 - 
+",000,False,000,False,False,False,1,21
+"### | 116 - 
+",000,False,000,False,False,False,1,28
+"### | 117 - 
+",000,False,000,False,False,False,1,148
+"### | 118 - 
+",000,False,000,False,False,False,1,203
+"### | 119 - 
+",000,False,000,False,False,False,1,323
+"### | 120 - 
+",000,False,000,False,False,False,1,121
+"### | 121 - 
+",000,False,000,False,False,False,1,33
+"### | 122 - 
+",000,False,000,False,False,False,1,35
+"### | 123 - 
+",000,False,000,False,False,False,1,53
+"### | : «من ولي للمسلمين سلطانا أوقف يوم القيامة على جسر جهنم يتزلزل به الجسر، فإن كان محسنا نجا، 
+",000,False,000,False,False,False,1,69
+"### | 50000 - 
+",000,False,000,False,False,False,1,30
+"### | : «ما من وال ولي للمسلمين سلطانا إلا أوقف يوم القيامة على جسر جهنم، فيتزلزل به الجسر، حتى 
+",000,False,000,False,False,False,1,54
+"### | 124 - 
+",000,False,000,False,False,False,1,67
+"### | : «من ولي شيئا من أمر الناس أقيم يوم القيامة على جسر في النار، ينتفض به ذلك الجسر حتى يزول 
+",000,False,000,False,False,False,1,73
+"### | 125 - 
+",000,False,000,False,False,False,1,45
+"### | : «ما من وال ولي من أمر المسلمين شيئا، فلم يحط من ورائهم بالنصيحة إلا أكبه الله على وجهه في 
+",000,False,000,False,False,False,1,28
+"### | 126 - 
+",000,False,000,False,False,False,1,28
+"### | : إنك بين هؤلاء وبين الله، وليس بينك وبين الله أحد، انظر عن يمينك وعن شمالك، انظر بين يديك 
+",000,False,000,False,False,False,1,60
+"### | 127 - 
+",000,False,000,False,False,False,1,58
+"### | : اخش الله في الناس، ولا تخش الناس في الله، وأحب لأهل الإسلام ما تحب لنفسك وأهل بيتك، وأقم 
+",000,False,000,False,False,False,1,101
+"### | 128 - 
+",000,False,000,False,False,False,1,72
+"### | 129 - 
+",000,False,000,False,False,False,1,28
+"### | : «لا يمنعن أحدكم مخافة الناس أن يتكلم بالحق إذا رآه» ، فذاك الذي حملني أن دخلت إلى فلان فملأت 
+",000,year,000,False,False,False,1,18
+"### | 130 - 
+",000,False,000,False,False,False,1,256
+"### | 131 - 
+",000,False,000,False,False,False,1,212
+"### | 132 - 
+",000,False,000,False,False,False,1,36
+"### | 133 - 
+",000,False,000,False,False,False,1,28
+"### | 134 - 
+",000,False,000,False,False,False,1,34
+"### | : "" ما من حاكم حكم إلا جيء به يوم القيامة، وملك آخذ بقفاه، حتى يوقفه على جهنم، ثم يرفع رأسه 
+",000,False,000,False,False,False,1,35
+"### | 135 - 
+",000,False,000,False,False,False,1,46
+"### | : «ليأتين على القاضي العدل يوم القيامة ما يتمنى أن يكون كان معلقا بالثريا، وأنه لم يقض بين 
+",000,False,000,False,False,False,1,26
+"### | 136 - 
+",000,False,000,False,False,False,1,37
+"### | : «ليأتين على أحدهم يوم يعني يوم القيامة ما ود أنه معلق بالنجم متذبذب، وأنه لم يتأمر على 
+",000,False,000,False,False,False,1,19
+"### | 137 - 
+",000,False,000,False,False,False,1,31
+"### | : «ليتمنين أقوام يوم القيامة أن ذوائبهم كانت معلقة بالثريا، يتذبذبون بين السماء والأرض، 
+",000,False,000,False,False,False,1,18
+"### | 138 - 
+",000,False,000,False,False,False,1,39
+"### | القاضي ليزل في مزلقة أبعد من عدن أبين في جهنم»
+",000,False,000,False,False,False,1,18
+"### | 139 - 
+",000,False,000,False,False,False,1,93
+"### | : «من كان قاضيا فقضى بجور كان من أهل النار، ومن كان قاضيا فقضى بالجهل كان من أهل النار، ومن 
+",000,False,000,False,False,False,1,32
+"### | 140 - 
+",000,False,000,False,False,False,1,44
+"### | 141 - 
+",000,False,000,False,False,False,1,25
+"### | 142 - 
+",000,False,000,False,False,False,1,69
+"### | 143 - 
+",000,False,000,False,False,False,1,75
+"### | 144 - 
+",000,False,000,False,False,False,1,28
+"### | 145 - 
+",000,False,000,False,False,False,1,111
+"### | 146 - 
+",000,False,000,False,False,False,1,36
+"### | 147 - 
+",000,False,000,False,False,False,1,40
+"### | 148 - 
+",000,False,000,False,False,False,1,22
+"### | 149 - 
+",000,False,000,False,False,False,1,23
+"### | 150 - 
+",000,False,000,False,False,False,1,27
+"### | 151 - 
+",000,False,000,False,False,False,1,60
+"### | 152 - 
+",000,False,000,False,False,False,1,139
+"### | 153 - 
+",000,False,000,False,False,False,1,52
+"### | 154 - 
+",000,False,000,False,False,False,1,58
+"### | 155 - 
+",000,False,000,False,False,False,1,33
+"### | 156 - 
+",000,False,000,False,False,False,1,62
+"### | 157 - 
+",000,False,000,False,False,False,1,183
+"### | 158 - 
+",000,False,000,False,False,False,1,16
+"### | 159 - 
+",000,False,000,False,False,False,1,35
+"### | 160 - 
+",000,False,000,False,False,False,1,141
+"### | 161 - 
+",000,False,000,False,False,False,1,33
+"### | 162 - 
+",000,False,000,False,False,False,1,90
+"### | 163 - 
+",000,False,000,False,False,False,1,26
+"### | 164 - 
+",000,False,000,False,False,False,1,56
+"### | 165 - 
+",000,False,000,False,False,False,1,28
+"### | 166 - 
+",000,False,000,False,False,False,1,29
+"### | 167 - 
+",000,False,000,False,False,False,1,29
+"### | 168 - 
+",000,False,000,False,False,False,1,40
+"### | 169 - 
+",000,False,000,False,False,False,1,146
+"### | 170 - 
+",000,False,000,False,False,False,1,195
+"### | 171 - 
+",000,False,000,False,False,False,1,45
+"### | 172 - 
+",000,False,000,False,False,False,1,42
+"### | 173 - 
+",000,False,000,False,False,False,1,36
+"### | 174 - 
+",000,False,000,False,False,False,1,39
+"### | 175 - 
+",000,False,000,False,False,False,1,29
+"### | 176 - 
+",000,False,000,False,False,False,1,37
+"### | 177 - 
+",000,False,000,False,False,False,1,25
+"### | 178 - 
+",000,False,000,False,False,False,1,17
+"### | 179 - 
+",000,False,000,False,False,False,1,31
+"### | 180 - 
+",000,False,000,False,False,False,1,45
+"### | 181 - 
+",000,False,000,False,False,False,1,36
+"### | 182 - 
+",000,False,000,False,False,False,1,51
+"### | 183 - 
+",000,False,000,False,False,False,1,42
+"### | 184 - 
+",000,False,000,False,False,False,1,78
+"### | 185 - 
+",000,False,000,False,False,False,1,82
+"### | 186 - 
+",000,False,000,False,False,False,1,29
+"### | 187 - 
+",000,False,000,False,False,False,1,109
+"### | 188 - 
+",000,False,000,False,False,False,1,33
+"### | 189 - 
+",000,False,000,False,False,False,1,33
+"### | 190 - 
+",000,False,000,False,False,False,1,31
+"### | 191 - 
+",000,False,000,False,False,False,1,67
+"### | 192 - 
+",000,False,000,False,False,False,1,28
+"### | 193 - 
+",000,False,000,False,False,False,1,36
+"### | 194 - 
+",000,False,000,False,False,False,1,49
+"### | 195 - 
+",000,False,000,False,False,False,1,44
+"### | 196 - 
+",000,False,000,False,False,False,1,25
+"### | 197 - 
+",000,False,000,False,False,False,1,19
+"### | 198 - 
+",000,False,000,False,False,False,1,28
+"### | 199 - 
+",000,False,000,False,False,False,1,54
+"### | 200 - 
+",000,False,000,False,False,False,1,49
+"### | 201 - 
+",000,False,000,False,False,False,1,59
+"### | 202 - 
+",000,False,000,False,False,False,1,176
+"### | 203 - 
+",000,False,000,False,False,False,1,107
+"### | 204 - 
+",000,False,000,False,False,False,1,75
+"### | 205 - 
+",000,False,000,False,False,False,1,46
+"### | 206 - 
+",000,False,000,False,False,False,1,44
+"### | 207 - 
+",000,False,000,False,False,False,1,84
+"### | 208 - 
+",000,False,000,False,False,False,1,30
+"### | 209 - 
+",000,False,000,False,False,False,1,32
+"### | 210 - 
+",000,False,000,False,False,False,1,19
+"### | 211 - 
+",000,False,000,False,False,False,1,48
+"### | 212 - 
+",000,False,000,False,False,False,1,64
+"### | 213 - 
+",000,False,000,False,False,False,1,40
+"### | : "" سيكون قوم يتفقهون في الدين، ويقرءون القرآن، يأتيهم الشيطان فيقول: لو أتيتم السلطان فأصبتم 
+",000,False,000,False,False,False,1,42
+"### | 214 - 
+",000,False,000,False,False,False,1,36
+"### | ستحرصون على الإمارة، وستصير ندامة وحسرة، فنعمت المرضعة، وبئست الفاطمة»
+",000,False,000,False,False,False,1,18
+"### | 215 - 
+",000,False,000,False,False,False,1,35
+"### | 216 - 
+",000,False,000,False,False,False,1,54
+"### | 217 - 
+",000,False,000,False,False,False,1,44
+"### | 218 - 
+",000,False,000,False,False,False,1,49
+"### | 219 - 
+",000,False,000,False,False,False,1,53
+"### | 220 - 
+",000,False,000,False,False,False,1,39
+"### | 221 - 
+",000,False,000,False,False,False,1,36
+"### | 222 - 
+",000,False,000,False,False,False,1,56
+"### | 223 - 
+",000,False,000,False,False,False,1,45
+"### | 224 - 
+",000,False,000,False,False,False,1,46
+"### | 225 - 
+",000,False,000,False,False,False,1,88
+"### | 226 - 
+",000,False,000,False,False,False,1,41
+"### | 227 - 
+",000,False,000,False,False,False,1,93
+"### | السلطان على باب عنت، إلا من عصمه الله» ، قال الرجل عند ذاك: والله، لا أعمل ولا لغيرك 
+",000,False,000,False,False,False,1,18
+"### | 228 - 
+",000,False,000,False,False,False,1,38
+"### | 229 - 
+",000,False,000,False,False,False,1,41
+"### | : «كانت أنبياء، وسيكون بعدهم أمراء، يتركون بعض ما يؤمرون به، فمن ناوأهم نجا، ومن اعتزلهم 
+",000,False,000,False,False,False,1,26
+"### | 230 - 
+",000,False,000,False,False,False,1,50
+"### | 231 - 
+",000,False,000,False,False,False,1,24
+"### | 232 - 
+",000,False,000,False,False,False,1,41
+"### | 233 - 
+",000,False,000,False,False,False,1,143
+"### | 234 - 
+",000,False,000,False,False,False,1,63
+"### | 235 - 
+",000,False,000,False,False,False,1,48
+"### | 236 - 
+",000,False,000,False,False,False,1,53
+"### | 237 - 
+",000,False,000,False,False,False,1,32
+"### | 238 - 
+",000,False,000,False,False,False,1,134
+"### | 239 - 
+",000,False,000,False,False,False,1,42
+"### | 240 - 
+",000,False,000,False,False,False,1,104
+"### | 241 - 
+",000,False,000,False,False,False,1,36
+"### | 242 - 
+",000,False,000,False,False,False,1,100
+"### | 243 - 
+",000,False,000,False,False,False,1,60
+"### | 244 - 
+",000,False,000,False,False,False,1,50
+"### | 245 - 
+",000,False,000,False,False,False,1,28
+"### | 246 - 
+",000,False,000,False,False,False,1,41
+"### | 247 - 
+",000,False,000,False,False,False,1,27
+"### | 248 - 
+",000,False,000,False,False,False,1,32
+"### | أشد الناس عذابا يوم القيامة المنصور، قال: قيل: وما المنصور؟ قال: الكاتب يصانع العريف، 
+",000,False,000,False,False,False,1,36
+"### | 249 - 
+",000,False,000,False,False,False,1,53
+"### | 250 - 
+",000,False,000,False,False,False,1,29
+"### | 251 - 
+",000,False,000,False,False,False,1,42
+"### | 252 - 
+",000,False,000,False,False,False,1,27
+"### | 253 - 
+",000,False,000,False,False,False,1,21
+"### | 254 - 
+",000,False,000,False,False,False,1,51
+"### | 255 - 
+",000,False,000,False,False,False,1,103
+"### | 256 - 
+",000,False,000,False,False,False,1,541
+"### | 257 - 
+",000,False,000,False,False,False,1,43
+"### | 258 - 
+",000,False,000,False,False,False,1,69
+"### | 259 - 
+",000,False,000,False,False,False,1,97
+"### | 260 - 
+",000,False,000,False,False,False,1,25
+"### | 261 - 
+",000,False,000,False,False,False,1,37
+"### | 262 - 
+",000,False,000,False,False,False,1,30
+"### | 263 - 
+",000,False,000,False,False,False,1,25
+"### | 264 - 
+",000,False,000,False,False,False,1,55
+"### | 265 - 
+",000,False,000,False,False,False,1,37
+"### | 266 - 
+",000,False,000,False,False,False,1,52
+"### | 267 - 
+",000,False,000,False,False,False,1,37
+"### | 268 - 
+",000,False,000,False,False,False,1,46
+"### | 269 - 
+",000,False,000,False,False,False,1,18
+"### | 270 - 
+",000,False,000,False,False,False,1,64
+"### | 271 - 
+",000,False,000,False,False,False,1,50
+"### | 272 - 
+",000,False,000,False,False,False,1,24
+"### | 273 - 
+",000,False,000,False,False,False,1,48
+"### | 274 - 
+",000,False,000,False,False,False,1,61
+"### | 275 - 
+",000,False,000,False,False,False,1,263
+"### | 276 - 
+",000,False,000,False,False,False,1,25
+"### | 277 - 
+",000,False,000,False,False,False,1,27
+"### | 278 - 
+",000,False,000,False,False,False,1,31
+"### | 279 - 
+",000,False,000,False,False,False,1,41
+"### | 280 - 
+",000,False,000,False,False,False,1,110
+"### | 281 - 
+",000,False,000,False,False,False,1,26
+"### | 282 - 
+",000,False,000,False,False,False,1,117
+"### | 283 - 
+",000,False,000,False,False,False,1,42
+"### | 284 - 
+",000,False,000,False,False,False,1,163
+"### | 285 - 
+",000,False,000,False,False,False,1,33
+"### | 286 - 
+",000,False,000,False,False,False,1,42
+"### | 287 - 
+",000,False,000,False,False,False,1,49
+"### | 288 - 
+",000,False,000,False,False,False,1,58
+"### | 289 - 
+",000,False,000,False,False,False,1,42
+"### | 290 - 
+",000,False,000,False,False,False,1,37
+"### | 291 - 
+",000,False,000,False,False,False,1,29
+"### | 292 - 
+",000,False,000,False,False,False,1,24
+"### | 293 - 
+",000,False,000,False,False,False,1,25
+"### | 294 - 
+",000,False,000,False,False,False,1,33
+"### | 295 - 
+",000,False,000,False,False,False,1,77
+"### | 296 - 
+",000,False,000,False,False,False,1,31
+"### | 297 - 
+",000,False,000,False,False,False,1,51
+"### | 298 - 
+",000,False,000,False,False,False,1,49
+"### | 299 - 
+",000,False,000,False,False,False,1,32
+"### | 300 - 
+",000,False,000,False,False,False,1,44
+"### | 301 - 
+",000,False,000,False,False,False,1,28
+"### | 302 - 
+",000,False,000,False,False,False,1,117
+"### | 303 - 
+",000,False,000,False,False,False,1,52
+"### | 304 - 
+",000,False,000,False,False,False,1,32
+"### | 305 - 
+",000,False,000,False,False,False,1,28
+"### | 306 - 
+",000,False,000,False,False,False,1,42
+"### | 307 - 
+",000,False,000,False,False,False,1,17
+"### | 308 - 
+",000,False,000,False,False,False,1,49
+"### | 309 - 
+",000,False,000,False,False,False,1,59
+"### | 310 - 
+",000,False,000,False,False,False,1,15
+"### | 311 - 
+",000,False,000,False,False,False,1,28
+"### | 312 - 
+",000,False,000,False,False,False,1,44
+"### | 313 - 
+",000,False,000,False,False,False,1,40
+"### | الله عز وجل جزأ الخلق عشرة أجزاء، فجعل الملائكة تسعة أجزاء، وجزأ سائر الخلق، وجزأ 
+",000,False,000,False,False,False,1,70
+"### | 314 - 
+",000,False,000,False,False,False,1,177
+"### | 315 - 
+",000,False,000,False,False,False,1,64
+"### | 316 - 
+",000,False,000,False,False,False,1,21
+"### | 317 - 
+",000,False,000,False,False,False,1,44
+"### | 318 - 
+",000,False,000,False,False,False,1,56
+"### | 319 - 
+",000,False,000,False,False,False,1,82
+"### | 320 - 
+",000,False,000,False,False,False,1,41
+"### | : «اثبت حراء، فما عليك إلا نبي، أو صديق، أو فاروق، أو شهيد مؤمن، يعني عثمان بن 
+",000,False,000,False,False,False,1,15
+"### | 321 - 
+",000,False,000,False,False,False,1,36
+"### | : أبو بكر الصديق أصبتم اسمه، وعمر الفاروق قرن من حديد أصبتم اسمه وعثمان بن عفان ذو النورين 
+",000,False,000,False,False,False,1,69
+"### | 322 - 
+",000,False,000,False,False,False,1,43
+"### | 323 - 
+",000,False,000,False,False,False,1,31
+"### | 324 - 
+",000,False,000,False,False,False,1,55
+"### | 325 - 
+",000,False,000,False,False,False,1,115
+"### | 326 - 
+",000,False,000,False,False,False,1,27
+"### | 327 - 
+",000,False,000,False,False,False,1,20
+"### | 328 - 
+",000,False,000,False,False,False,1,43
+"### | 329 - 
+",000,False,000,False,False,False,1,36
+"### | 330 - 
+",000,False,000,False,False,False,1,34
+"### | 331 - 
+",000,False,000,False,False,False,1,50
+"### | 332 - 
+",000,False,000,False,False,False,1,64
+"### | 333 - 
+",000,False,000,False,False,False,1,24
+"### | 334 - 
+",000,False,000,False,False,False,1,35
+"### | 335 - 
+",000,False,000,False,False,False,1,54
+"### | 336 - 
+",000,False,000,False,False,False,1,42
+"### | 337 - 
+",000,False,000,False,False,False,1,426
+"### | 338 - 
+",000,False,000,False,False,False,1,54
+"### | 339 - 
+",000,False,000,False,False,False,1,37
+"### | 340 - 
+",000,False,000,False,False,False,1,79
+"### | 341 - 
+",000,False,000,False,False,False,1,29
+"### | 342 - 
+",000,False,000,False,False,False,1,130
+"### | 343 - 
+",000,False,000,False,False,False,1,36
+"### | 344 - 
+",000,False,000,False,False,False,1,35
+"### | 345 - 
+",000,False,000,False,False,False,1,51
+"### | 346 - 
+",000,False,000,False,False,False,1,23
+"### | 347 - 
+",000,False,000,False,False,False,1,47
+"### | 348 - 
+",000,False,000,False,False,False,1,38
+"### | 349 - 
+",000,False,000,False,False,False,1,35
+"### | 350 - 
+",000,False,000,False,False,False,1,42
+"### | 351 - 
+",000,False,000,False,False,False,1,38
+"### | 352 - 
+",000,False,000,False,False,False,1,16
+"### | 353 - 
+",000,False,000,False,False,False,1,57
+"### | 354 - 
+",000,False,000,False,False,False,1,29
+"### | 355 - 
+",000,False,000,False,False,False,1,34
+"### | 356 - 
+",000,False,000,False,False,False,1,31
+"### | 357 - 
+",000,False,000,False,False,False,1,55
+"### | 358 - 
+",000,False,000,False,False,False,1,23
+"### | 359 - 
+",000,False,000,False,False,False,1,19
+"### | 360 - 
+",000,False,000,False,False,False,1,19
+"### | 361 - 
+",000,False,000,False,False,False,1,34
+"### | 362 - 
+",000,False,000,False,False,False,1,28
+"### | 363 - 
+",000,False,000,False,False,False,1,43
+"### | 364 - 
+",000,False,000,False,False,False,1,23
+"### | 365 - 
+",000,False,000,False,False,False,1,53
+"### | 366 - 
+",000,False,000,False,False,False,1,32
+"### | 367 - 
+",000,False,000,False,False,False,1,21
+"### | 368 - 
+",000,False,000,False,False,False,1,19
+"### | 369 - 
+",000,False,000,False,False,False,1,52
+"### | 370 - 
+",000,False,000,False,False,False,1,46
+"### | 371 - 
+",000,False,000,False,False,False,1,36
+"### | 372 - 
+",000,False,000,False,False,False,1,27
+"### | 373 - 
+",000,False,000,False,False,False,1,18
+"### | 374 - 
+",000,False,000,False,False,False,1,60
+"### | 375 - 
+",000,False,000,False,False,False,1,32
+"### | 376 - 
+",000,False,000,False,False,False,1,33
+"### | 377 - 
+",000,False,000,False,False,False,1,38
+"### | 378 - 
+",000,False,000,False,False,False,1,30
+"### | : المعلم الذي يأخذ على التعليم أجرا يعجل أجره في الدنيا، وإن أخذ ولم يعلم أخذ من حسناته يوم 
+",000,False,000,False,False,False,1,59
+"### | 379 - 
+",000,False,000,False,False,False,1,30
+"### | المقسطين عند الله عز وجل على منابر من نور، عن يمين الرحمن، وكلتا يديه يمين، الذين يعدلون 
+",000,False,000,False,False,False,1,27

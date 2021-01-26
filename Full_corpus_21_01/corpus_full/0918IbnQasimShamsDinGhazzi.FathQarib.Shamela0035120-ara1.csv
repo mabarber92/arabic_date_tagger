@@ -1,0 +1,437 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | مقدمة
+",000,False,000,False,False,False,1,543
+"### | كتاب أحكام الطهارة
+",000,False,000,False,False,False,1,53
+"### | • أنواع المياه
+",000,False,000,False,False,False,1,68
+"### | • أقسام المياه
+",000,False,000,False,False,False,1,307
+"### | • تطهير جلود الميتة
+",000,False,000,False,False,False,1,111
+"### | • استعمال الأواني
+",000,False,000,False,False,False,1,105
+"### | • السواك
+",000,False,000,False,False,False,1,130
+"### | • فروض الوضوء
+",000,False,000,False,False,False,1,333
+"### | • سنن الوضوء
+",000,False,000,False,False,False,1,344
+"### | • الاستنجاء
+",000,False,000,False,False,False,1,315
+"### | • نواقض الوضوء
+",000,False,000,False,False,False,1,216
+"### | • موجبات الغسل
+",000,False,000,False,False,False,1,149
+"### | • فرائض الغسل
+",000,False,000,False,False,False,1,162
+"### | • سنن الغسل
+",000,False,000,False,False,False,1,57
+"### | • الاغتسالات المسنونة
+",000,False,000,False,False,False,1,161
+"### | • المسح على الخفين
+",000,False,000,False,False,False,1,201
+"### | • مدة المسح
+",000,False,000,False,False,False,1,152
+"### | • مبطلات المسح
+",000,False,000,False,False,False,1,56
+"### | • شروط التيمم
+",000,False,000,False,False,False,1,216
+"### | • فرائض التيمم
+",000,False,000,False,False,False,1,130
+"### | • سنن التيمم
+",000,False,000,False,False,False,1,52
+"### | • مبطلات التيمم
+",000,False,000,False,False,False,1,132
+"### | • المسح على الجبيرة
+",000,False,000,False,False,False,1,139
+"### | • بيان النجاسات وإزالتها
+",000,False,000,False,False,False,1,413
+"### | • تطهير الإناء
+",000,False,000,False,False,False,1,116
+"### | • تخلل الخمر
+",000,False,000,False,False,False,1,76
+"### | • الحيض والنفاس والاستحاضة
+",000,False,000,False,False,False,1,256
+"### | • ما يحرم بالحيض والنفاس
+",000,False,000,False,False,False,1,122
+"### | • ما يحرم على الجنب
+",000,False,000,False,False,False,1,117
+"### | • ما يحرم على المحدث
+",000,False,000,False,False,False,1,49
+"### | كتاب أحكام الصلاة
+",000,False,000,False,False,False,1,20
+"### | • الصلوات المفروضات
+",000,False,000,False,False,False,1,402
+"### | • شروط وجوب الصلاة
+",000,False,000,False,False,False,1,79
+"### | • الصلوات المسنونة والرواتب
+",000,False,000,False,False,False,1,27
+"### | • السنن التابعة للفرائض
+",000,False,000,False,False,False,1,76
+"### | • النوافل المؤكدات
+",000,False,000,False,False,False,1,97
+"### | • شروط الصلاة
+",000,False,000,False,False,False,1,230
+"### | • جواز ترك استقبال القبلة
+",000,False,000,False,False,False,1,73
+"### | • أركان الصلاة
+",000,False,000,False,False,False,1,646
+"### | • سنن الصلاة
+",000,False,000,False,False,False,1,112
+"### | • هيئات الصلاة
+",000,False,000,False,False,False,1,327
+"### | • ما تخالف المرأة فيه الرجل
+",000,False,000,False,False,False,1,168
+"### | • مبطلات الصلاة
+",000,False,000,False,False,False,1,121
+"### | • ركعات الفرائض
+",000,False,000,False,False,False,1,87
+"### | • من عجز عن القيام في صلاة الفرض
+",000,False,000,False,False,False,1,124
+"### | • أنواع المتروك من الصلاة
+",000,False,000,False,False,False,1,268
+"### | • الأوقات التي تكره فيها الصلاة
+",000,False,000,False,False,False,1,141
+"### | • صلاة الجماعة
+",000,False,000,False,False,False,1,297
+"### | • صلاة المسافر
+",000,False,000,False,False,False,1,138
+"### | • جمع الصلاة للمسافر
+",000,False,000,False,False,False,1,244
+"### | • صلاة الجمعة
+",000,False,000,False,False,False,1,446
+"### | • صلاة العيدين
+",000,False,000,False,False,False,1,107
+"### | • التكبير للعيدين
+",000,False,000,False,False,False,1,106
+"### | • صيغة التكبير
+",000,False,000,False,False,False,1,41
+"### | • صلاة الكسوف والخسوف
+",000,False,000,False,False,False,1,175
+"### | • صلاة الاستسقاء
+",000,False,000,False,False,False,1,349
+"### | • صلاة الخوف
+",000,False,000,False,False,False,1,35
+"### | • أنواع صلاة الخوف
+",000,False,000,False,False,False,1,238
+"### | • اللباس
+",000,False,000,False,False,False,1,84
+"### | • ما يلزم في الميت
+",000,False,000,False,False,False,1,290
+"### | • الصلاة على الجنازة
+",000,False,000,False,False,False,1,191
+"### | • دفن الميت
+",000,False,000,False,False,False,1,125
+"### | • البكاء على الميت والتعزية على أهله
+",000,False,000,False,False,False,1,107
+"### | كتاب أحكام الزكاة
+",000,False,000,False,False,False,1,22
+"### | • ما تجب فيه الزكاة
+",000,False,000,False,False,False,1,40
+"### | • زكاة المواشي
+",000,False,000,False,False,False,1,25
+"### | • شروط وجوب زكاة المواشي
+",000,False,000,False,False,False,1,117
+"### | • زكاة الذهب والفضة
+",000,False,000,False,False,False,1,13
+"### | • شروط وجوب زكاة الذهب والفضة
+",000,False,000,False,False,False,1,32
+"### | • زكاة الزروع والثمار
+",000,False,000,False,False,False,1,85
+"### | • شروط وجوب زكاة الزروع والثمار
+",000,False,000,False,False,False,1,33
+"### | • زكاة التجارة
+",000,False,000,False,False,False,1,21
+"### | • نصاب الإبل
+",000,False,000,False,False,False,1,151
+"### | • نصاب البقر
+",000,False,000,False,False,False,1,64
+"### | • نصاب الغنم
+",000,False,000,False,False,False,1,47
+"### | • زكاة المال المشترك
+",000,False,000,False,False,False,1,165
+"### | • نصاب الذهب والفضة
+",000,False,000,False,False,False,1,87
+"### | • نصاب الزروع والثمار
+",000,False,000,False,False,False,1,107
+"### | • تقويم عروض التجارة
+",000,False,000,False,False,False,1,41
+"### | • زكاة المعدن والركاز
+",000,False,000,False,False,False,1,76
+"### | • زكاة الفطر
+",000,False,000,False,False,False,1,141
+"### | • من تدفع له الزكاة
+",000,False,000,False,False,False,1,278
+"### | • من لا تدفع له الزكاة
+",000,False,000,False,False,False,1,70
+"### | كتاب بيان أحكام الصيام
+",000,False,000,False,False,False,1,37
+"### | • شروط وجوب الصيام
+",000,False,000,False,False,False,1,35
+"### | • فرائض الصوم
+",000,False,000,False,False,False,1,86
+"### | • ما يفطر به الصائم
+",000,False,000,False,False,False,1,132
+"### | • ما يستحب للصائم
+",000,False,000,False,False,False,1,89
+"### | • الأيام التي يحرم فيها الصوم ويكره
+",000,False,000,False,False,False,1,106
+"### | • الجماع في نهار رمضان
+",000,False,000,False,False,False,1,86
+"### | • قضاء الصوم عن الميت
+",000,False,000,False,False,False,1,91
+"### | • صوم الكبير
+",000,False,000,False,False,False,1,33
+"### | • صوم الحامل والمرضع
+",000,False,000,False,False,False,1,58
+"### | • صوم المريض والمسافر
+",000,False,000,False,False,False,1,72
+"### | • الاعتكاف
+",000,False,000,False,False,False,1,177
+"### | • مبطلات الاعتكاف
+",000,False,000,False,False,False,1,21
+"### | كتاب أحكام الحج
+",000,False,000,False,False,False,1,19
+"### | • شروط وجوب الحج
+",000,False,000,False,False,False,1,172
+"### | • أركان الحج
+",000,False,000,False,False,False,1,153
+"### | • أركان العمرة
+",000,False,000,False,False,False,1,37
+"### | • واجبات الحج
+",000,False,000,False,False,False,1,165
+"### | • سنن الحج
+",000,False,000,False,False,False,1,194
+"### | • الإحرام
+",000,False,000,False,False,False,1,33
+"### | • ما يحرم على المحرم
+",000,False,000,False,False,False,1,421
+"### | • فوات الوقوف بعرفة
+",000,False,000,False,False,False,1,126
+"### | • الدماء الواجبة في الإحرام
+",000,False,000,False,False,False,1,579
+"### | كتاب أحكام البيوع
+",000,False,000,False,False,False,1,219
+"### | • الربا في الذهب والفضة والمطعومات
+",000,False,000,False,False,False,1,201
+"### | • الخيار
+",000,False,000,False,False,False,1,132
+"### | • بيع الثمرة
+",000,False,000,False,False,False,1,193
+"### | السلم
+",000,False,000,False,False,False,1,168
+"### | شروط صحة المسلم فيه
+",000,False,000,False,False,False,1,287
+"### | • الرهن
+",000,False,000,False,False,False,1,166
+"### | الحجر
+",000,False,000,False,False,False,1,280
+"### | • الصلح
+",000,False,000,False,False,False,1,189
+"### | • إشراع الروشن
+",000,False,000,False,False,False,1,159
+"### | • شروط الحوالة
+",000,False,000,False,False,False,1,165
+"### | • الضمان
+",000,False,000,False,False,False,1,160
+"### | • الكفالة
+",000,False,000,False,False,False,1,78
+"### | • الشركة
+",000,False,000,False,False,False,1,192
+"### | • الوكالة
+",000,False,000,False,False,False,1,295
+"### | • الإقرار
+",000,False,000,False,False,False,1,300
+"### | • العارية
+",000,False,000,False,False,False,1,187
+"### | • الغصب
+",000,False,000,False,False,False,1,157
+"### | الشفعة
+",000,False,000,False,False,False,1,263
+"### | • القراض
+",000,False,000,False,False,False,1,194
+"### | • المساقاة
+",000,False,000,False,False,False,1,203
+"### | الإجارة
+",000,False,000,False,False,False,1,44
+"### | الجعالة، 
+",000,False,000,False,False,False,1,234
+"### | • الجعالة
+",000,False,000,False,False,False,1,67
+"### | • المخابرة
+",000,False,000,False,False,False,1,88
+"### | • إحياء الموات
+",000,False,000,False,False,False,1,238
+"### | • بذل الماء
+",000,False,000,False,False,False,1,130
+"### | • الوقف
+",000,False,000,False,False,False,1,252
+"### | • الهبة
+",000,False,000,False,False,False,1,165
+"### | • اللقطة
+",000,False,000,False,False,False,1,536
+"### | • اللقيط
+",000,False,000,False,False,False,1,123
+"### | • الوديعة
+",000,False,000,False,False,False,1,136
+"### | كتاب أحكام الفرائض والوصايا
+",000,False,000,False,False,False,1,373
+"### | • الفروض المقدرة
+",000,False,000,False,False,False,1,472
+"### | • الوصية
+",000,False,000,False,False,False,1,259
+"### | كتاب أحكام النكاح وما يتعلق به من الأحكام والقضايا
+",000,False,000,False,False,False,1,163
+"### | • نظر الرجل إلى المرأة
+",000,False,000,False,False,False,1,221
+"### | • ما لا يصح النكاح إلا به
+",000,False,000,False,False,False,1,166
+"### | • ترتيب الولاية
+",000,False,000,False,False,False,1,121
+"### | خطبة المعتدة
+",000,False,000,False,False,False,1,138
+"### | • المحرمات
+",000,False,000,False,False,False,1,288
+"### | • العيوب التي تجوز رد المرأة والرجل
+",000,False,000,False,False,False,1,178
+"### | • تسمية المهر
+",000,False,000,False,False,False,1,309
+"### | • الوليمة
+",000,False,000,False,False,False,1,130
+"### | • التسوية في القسم بين الزوجات
+",000,False,000,False,False,False,1,283
+"### | • نشوز المرأة
+",000,False,000,False,False,False,1,105
+"### | • الخلع
+",000,False,000,False,False,False,1,82
+"### | • أنواع الطلاق
+",000,False,000,False,False,False,1,121
+"### | • أنواع المطلقات
+",000,False,000,False,False,False,1,111
+"### | • حكم طلاق الحر والعبد وغير ذلك
+",000,False,000,False,False,False,1,125
+"### | • من لا يقع طلاقه
+",000,False,000,False,False,False,1,124
+"### | • البائن والرجعي
+",000,False,000,False,False,False,1,219
+"### | • أحكام الإيلاء
+",000,False,000,False,False,False,1,180
+"### | • أحكام الظهار
+",000,False,000,False,False,False,1,193
+"### | • أحكام القذف واللعان
+",000,False,000,False,False,False,1,387
+"### | • أحكام العدة وأنواع المعتدة
+",000,False,000,False,False,False,1,219
+"### | • عدة الأمة
+",000,False,000,False,False,False,1,98
+"### | • أنواع المعتدة وأحكامها
+",000,False,000,False,False,False,1,250
+"### | • أحكام الاستبراء
+",000,False,000,False,False,False,1,40
+"### | … 
+",000,False,000,False,False,False,1,157
+"### | • أحكام الرضاع
+",000,False,000,False,False,False,1,200
+"### | • أحكام نفقة الأقارب
+",000,False,000,False,False,False,1,539
+"### | أحكام الحضانة
+",000,False,000,False,False,False,1,290
+"### | كتاب أحكام الجنايات
+",000,False,000,False,False,False,1,6
+"### | • أنواع القتل
+",000,False,000,False,False,False,1,215
+"### | • شروط وجوب القصاص
+",000,False,000,False,False,False,1,202
+"### | • شروط وجوب القصاص في الأطراف
+",000,False,000,False,False,False,1,232
+"### | • أنواع الدية
+",000,False,000,False,False,False,1,714
+"### | • القسامة
+",000,False,000,False,False,False,1,209
+"### | كتاب أحكام الحدود
+",000,False,000,False,False,False,1,6
+"### | أنواع الزاني وحده
+",000,False,000,False,False,False,1,91
+"### | • شروط الإحصان
+",000,False,000,False,False,False,1,93
+"### | … 
+",000,False,000,False,False,False,1,14
+"### | • اللواط وإتيان البهائم
+",000,False,000,False,False,False,1,78
+"### | • حد القذف
+",000,False,000,False,False,False,1,157
+"### | … 
+",000,False,000,False,False,False,1,2
+"### | • حد شرب الخمر أو المسكر
+",000,False,000,False,False,False,1,113
+"### | • حد السرقة
+",000,False,000,False,False,False,1,236
+"### | قطاع الطريق
+",000,False,000,False,False,False,1,232
+"### | • الصيال وإتلاف البهائم
+",000,False,000,False,False,False,1,101
+"### | البغاة
+",000,False,000,False,False,False,1,234
+"### | • الردة
+",000,False,000,False,False,False,1,179
+"### | • تارك الصلاة
+",000,False,000,False,False,False,1,75
+"### | كتاب أحكام الجهاد
+",000,False,000,False,False,False,1,6
+"### | • شروط وجوب الجهاد
+",000,False,000,False,False,False,1,326
+"### | • إسلام الصبي
+",000,False,000,False,False,False,1,113
+"### | • السلب وتقسيم الغنيمة
+",000,False,000,False,False,False,1,421
+"### | • الفيئ
+",000,False,000,False,False,False,1,41
+"### | الجزية 
+",000,False,000,False,False,False,1,107
+"### | • الجزية
+",000,False,000,False,False,False,1,60
+"### | • شروط وجوب الجزية
+",000,False,000,False,False,False,1,420
+"### | كتاب أحكام الصيد والذبائح والضحايا والأطعمة
+",000,False,000,False,False,False,1,428
+"### | • ما حل وما حرم من الحيوان
+",000,False,000,False,False,False,1,174
+"### | الأضحية
+",000,False,000,False,False,False,1,207
+"### | • وقت الذبح
+",000,False,000,False,False,False,1,49
+"### | • ما يستحب عند الذبح
+",000,False,000,False,False,False,1,185
+"### | • العقيقة
+",000,False,000,False,False,False,1,177
+"### | كتاب أحكام السبق والرمي
+",000,False,000,False,False,False,1,196
+"### | كتاب أحكام الأيمان والنذور
+",000,False,000,False,False,False,1,114
+"### | كفارة اليمين) 
+",000,False,000,False,False,False,1,138
+"### | • كفارة اليمين
+",000,False,000,False,False,False,1,124
+"### | • النذور
+",000,False,000,False,False,False,1,255
+"### | كتاب أحكام الأقضية والشهادات
+",000,False,000,False,False,False,1,959
+"### | القسمة
+",000,False,000,False,False,False,1,400
+"### | • الحكم بالبينة
+",000,False,000,False,False,False,1,173
+"### | • شروط الشاهد
+",000,False,000,False,False,False,1,232
+"### | • أنواع الحقوق
+",000,False,000,False,False,False,1,401
+"### | كتاب أحكام العتق
+",000,False,000,False,False,False,1,241
+"### | • الولاء
+",000,False,000,False,False,False,1,102
+"### | • التدبير
+",000,False,000,False,False,False,1,157
+"### | الكتابة
+",000,False,000,False,False,False,1,278
+"### | • أمهات الأولاد
+",000,False,000,False,False,False,1,419

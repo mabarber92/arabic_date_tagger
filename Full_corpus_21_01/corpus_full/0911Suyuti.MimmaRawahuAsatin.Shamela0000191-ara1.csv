@@ -1,0 +1,455 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | المقدمة
+",000,False,000,False,False,False,1,5
+"### | 2 - 
+",000,False,000,False,False,False,1,7
+"### | 3 - 
+",000,False,000,False,False,False,1,5
+"### | 4 - 
+",000,False,000,False,False,False,1,7
+"### | 5 - 
+",000,False,000,False,False,False,1,6
+"### | تقديم
+",000,False,000,False,False,False,1,164
+"### | بين يدي الكتاب
+",000,False,000,False,False,False,1,556
+"### | ترجمة المصنف
+",000,False,000,False,False,False,1,4
+"### | (1) نسبه ونشأته العلمية:
+",000,False,000,False,False,False,1,145
+"### | (2) علمه:
+",000,False,000,False,False,False,1,62
+"### | (3) مؤلفاته:
+",000,False,000,False,False,False,1,95
+"### | 1 - 
+",000,False,000,False,False,False,1,13
+"### | 2 - 
+",000,False,000,False,False,False,1,9
+"### | 3 - 
+",000,False,000,False,False,False,1,11
+"### | 4 - 
+",000,False,000,False,False,False,1,9
+"### | 5 - 
+",000,False,000,False,False,False,1,11
+"### | 6 - 
+",000,False,000,False,False,False,1,9
+"### | 7 - 
+",000,False,000,False,False,False,1,11
+"### | من مؤلفاته الحديثية:
+",000,False,000,False,False,False,1,6
+"### | 1 - 
+",000,False,000,False,False,False,1,13
+"### | 2 - 
+",000,False,000,False,False,False,1,11
+"### | 3 - 
+",000,False,000,False,False,False,1,11
+"### | 4 - 
+",000,False,000,False,False,False,1,13
+"### | 5 - 
+",000,False,000,False,False,False,1,11
+"### | 6 - 
+",000,False,000,False,False,False,1,21
+"### | 7 - 
+",000,False,000,False,False,False,1,30
+"### | ومن مؤلفاته في العقيدة:
+",000,False,000,False,False,False,1,8
+"### | 1 - 
+",000,False,000,False,False,False,1,11
+"### | 2 - 
+",000,False,000,False,False,False,1,11
+"### | ومن مؤلفاته في اللغة والنحو والتصريف:
+",000,False,000,False,False,False,1,12
+"### | 1 - 
+",000,False,000,False,False,False,1,9
+"### | 2 - 
+",000,False,000,False,False,False,1,9
+"### | 3 - 
+",000,False,000,False,False,False,1,8
+"### | 4 - 
+",000,False,000,False,False,False,1,9
+"### | 5 - 
+",000,False,000,False,False,False,1,7
+"### | ومن مؤلفاته في مصطلح الحديث:
+",000,False,000,False,False,False,1,10
+"### | 1 - 
+",000,False,000,False,False,False,1,13
+"### | 2 - 
+",000,False,000,False,False,False,1,7
+"### | 3 - 
+",000,False,000,False,False,False,1,9
+"### | 4 - 
+",000,False,000,False,False,False,1,11
+"### | 5 - 
+",000,False,000,False,False,False,1,13
+"### | ومن مؤلفاته الفقهية:
+",000,False,000,False,False,False,1,6
+"### | 1 - 
+",000,False,000,False,False,False,1,7
+"### | 2 - 
+",000,False,000,False,False,False,1,11
+"### | 3 - 
+",000,False,000,False,False,False,1,13
+"### | ومن مؤلفاته البلاغية:
+",000,False,000,False,False,False,1,6
+"### | 1 - 
+",000,False,000,False,False,False,1,9
+"### | 2 - 
+",000,False,000,False,False,False,1,15
+"### | (4) مآخذ العلماء عليه:
+",000,False,000,False,False,False,1,8
+"### | 1 - 
+",000,False,000,False,False,False,1,42
+"### | 2 - 
+",000,False,000,False,False,False,1,25
+"### | وفاته:
+",000,False,000,False,False,False,1,78
+"### | 1 - 
+",000,False,000,False,False,False,1,11
+"### | 2 - 
+",000,False,000,False,False,False,1,7
+"### | 3 - 
+",000,False,000,False,False,False,1,7
+"### | 4 - 
+",000,False,000,False,False,False,1,13
+"### | 5 - 
+",000,False,000,False,False,False,1,7
+"### | 6 - 
+",000,False,000,False,False,False,1,9
+"### | 7 - 
+",000,False,000,False,False,False,1,9
+"### | 8 - 
+",000,False,000,False,False,False,1,7
+"### | 9 - 
+",000,False,000,False,False,False,1,9
+"### | 10 - 
+",000,False,000,False,False,False,1,13
+"### | وصف مخطوطات الكتاب وتوثيق نسبتها للمصنف
+",000,False,000,False,False,False,1,191
+"### | عملي في الكتاب
+",000,False,000,False,False,False,1,33
+"### | 1 - 
+",000,False,000,False,False,False,1,13
+"### | 2 - 
+",000,False,000,False,False,False,1,25
+"### | 3 - 
+",000,False,000,False,False,False,1,27
+"### | 4 - 
+",000,False,000,False,False,False,1,17
+"### | 5 - 
+",000,False,000,False,False,False,1,12
+"### | 6 - 
+",000,False,000,False,False,False,1,46
+"### | 1 - 
+",000,False,000,False,False,False,1,15
+"### | 2 - 
+",000,False,000,False,False,False,1,11
+"### | 3 - 
+",000,False,000,False,False,False,1,13
+"### | 4 - 
+",000,False,000,False,False,False,1,7
+"### | 5 - 
+",000,False,000,False,False,False,1,11
+"### | 6 - 
+",000,False,000,False,False,False,1,11
+"### | 7 - 
+",000,False,000,False,False,False,1,5
+"### | 8 - 
+",000,False,000,False,False,False,1,29
+"### | النهي عن المجيء للسلاطين في السنة النبوية
+",000,year,000,False,False,False,1,14
+"### | 1 - 
+",000,False,000,False,False,False,1,44
+"### | 2 - 
+",000,False,000,False,False,False,1,42
+"### | 3 - 
+",000,False,000,False,False,False,1,45
+"### | أبغض الخلق إلى الله تعالى
+",000,False,000,False,False,False,1,10
+"### | 4 - 
+",000,False,000,False,False,False,1,40
+"### | 5 - 
+",000,False,000,False,False,False,1,49
+"### | 6 - 
+",000,False,000,False,False,False,1,25
+"### | 7 - 
+",000,False,000,False,False,False,1,35
+"### | 8 - 
+",000,False,000,False,False,False,1,84
+"### | 10 - 
+",000,False,000,False,False,False,1,57
+"### | هل يرد الحوض الداخل إلى السلطان؟
+",000,False,000,False,False,False,1,12
+"### | 11 - 
+",000,False,000,False,False,False,1,75
+"### | 12 - 
+",000,False,000,False,False,False,1,69
+"### | 13 - 
+",000,False,000,False,False,False,1,61
+"### | 14 - 
+",000,False,000,False,False,False,1,52
+"### | الفقهاء أمناء الرسل
+",000,False,000,False,False,False,1,6
+"### | 15 - 
+",000,False,000,False,False,False,1,57
+"### | 16 - 
+",000,False,000,False,False,False,1,37
+"### | العالم مع السلطان في العذاب
+",000,False,000,False,False,False,1,10
+"### | 17 - 
+",000,False,000,False,False,False,1,47
+"### | 18 - 
+",000,False,000,False,False,False,1,44
+"### | من صفات علماء آخر الزمان
+",000,False,000,False,False,False,1,10
+"### | 19 - 
+",000,False,000,False,False,False,1,40
+"### | 20 - 
+",000,False,000,False,False,False,1,49
+"### | 21 - 
+",000,False,000,False,False,False,1,33
+"### | 22 - 
+",000,False,000,False,False,False,1,31
+"### | 23 - 
+",000,False,000,False,False,False,1,90
+"### | سلاطين الفتن
+",000,False,000,False,False,False,1,4
+"### | 24 - 
+",000,False,000,False,False,False,1,44
+"### | 25 - 
+",000,False,000,False,False,False,1,77
+"### | أناس يتفقهون في الدين للدنيا
+",000,False,000,False,False,False,1,10
+"### | 26 - 
+",000,False,000,False,False,False,1,59
+"### | 1 - 
+",000,False,000,False,False,False,1,11
+"### | 2 - 
+",000,False,000,False,False,False,1,9
+"### | 3 - 
+",000,False,000,False,False,False,1,11
+"### | 4 - 
+",000,False,000,False,False,False,1,7
+"### | 5 - 
+",000,False,000,False,False,False,1,11
+"### | 6 - 
+",000,False,000,False,False,False,1,9
+"### | 7 - 
+",000,False,000,False,False,False,1,7
+"### | 8 - 
+",000,False,000,False,False,False,1,8
+"### | حكم من أتى السلطان تملقا
+",000,False,000,False,False,False,1,10
+"### | 27 - 
+",000,False,000,False,False,False,1,34
+"### | 28 - 
+",000,False,000,False,False,False,1,37
+"### | 29 - 
+",000,False,000,False,False,False,1,74
+"### | 30 - 
+",000,False,000,False,False,False,1,62
+"### | 31 - 
+",000,False,000,False,False,False,1,45
+"### | 32 - 
+",000,False,000,False,False,False,1,23
+"### | التحذير من مجالسة الشيطان
+",000,False,000,False,False,False,1,8
+"### | 33 - 
+",000,False,000,False,False,False,1,25
+"### | 34 - 
+",000,False,000,False,False,False,1,47
+"### | 35 - 
+",000,False,000,False,False,False,1,58
+"### | 36 - 
+",000,False,000,False,False,False,1,29
+"### | الداخل على السلطان خاسر لدينه
+",000,False,000,False,False,False,1,10
+"### | 37 - 
+",000,False,000,False,False,False,1,37
+"### | 38 - 
+",000,False,000,False,False,False,1,49
+"### | صفات مذمومة في طلاب العلم
+",000,False,000,False,False,False,1,10
+"### | 39 - 
+",000,False,000,False,False,False,1,38
+"### | 40 - 
+",000,False,000,False,False,False,1,77
+"### | 41 - 
+",000,False,000,False,False,False,1,32
+"### | إياكم ومواقف الفتن
+",000,False,000,False,False,False,1,6
+"### | 42 - 
+",000,False,000,False,False,False,1,42
+"### | 43 - 
+",000,False,000,False,False,False,1,32
+"### | نصيحة وهب بن منبه لعطاء
+",000,False,000,False,False,False,1,10
+"### | 44 - 
+",000,False,000,False,False,False,1,30
+"### | 45 - 
+",000,False,000,False,False,False,1,64
+"### | 46 - 
+",000,False,000,False,False,False,1,31
+"### | لا تجالس صاحب بدعة
+",000,False,000,False,False,False,1,8
+"### | 47 - 
+",000,False,000,False,False,False,1,30
+"### | 48 - 
+",000,False,000,False,False,False,1,26
+"### | 49 - 
+",000,False,000,False,False,False,1,46
+"### | 50 - 
+",000,False,000,False,False,False,1,32
+"### | 51 - 
+",000,False,000,False,False,False,1,27
+"### | إياك والأهواء والخصومة
+",000,False,000,False,False,False,1,6
+"### | 52 - 
+",000,False,000,False,False,False,1,24
+"### | 53 - 
+",000,False,000,False,False,False,1,28
+"### | 54 - 
+",000,False,000,False,False,False,1,30
+"### | 55 - 
+",000,False,000,False,False,False,1,36
+"### | 56 - 
+",000,False,000,False,False,False,1,59
+"### | 57 - 
+",000,False,000,False,False,False,1,35
+"### | 58 - 
+",000,False,000,False,False,False,1,34
+"### | 59 - 
+",000,False,000,False,False,False,1,24
+"### | أحوال السلف الصالح مع الأمراء
+",000,False,000,False,False,False,1,10
+"### | 60 - 
+",000,False,000,False,False,False,1,50
+"### | 61 - 
+",000,False,000,False,False,False,1,33
+"### | 62 - 
+",000,False,000,False,False,False,1,46
+"### | 63 - 
+",000,False,000,False,False,False,1,80
+"### | 64 - 
+",000,False,000,False,False,False,1,61
+"### | 65 - 
+",000,False,000,False,False,False,1,53
+"### | 66 - 
+",000,False,000,False,False,False,1,59
+"### | 67 - 
+",000,False,000,False,False,False,1,47
+"### | العلماء ثلاثة
+",000,False,000,False,False,False,1,4
+"### | 68 - 
+",000,False,000,False,False,False,1,42
+"### | 69 - 
+",000,False,000,False,False,False,1,31
+"### | 70 - 
+",000,False,000,False,False,False,1,59
+"### | 71 - 
+",000,False,000,False,False,False,1,72
+"### | 72 - 
+",000,False,000,False,False,False,1,43
+"### | 73 - 
+",000,False,000,False,False,False,1,32
+"### | 74 - 
+",000,False,000,False,False,False,1,46
+"### | 75 - 
+",000,False,000,False,False,False,1,41
+"### | 1 - 
+",000,False,000,False,False,False,1,11
+"### | 2 - 
+",000,False,000,False,False,False,1,13
+"### | 3 - 
+",000,False,000,False,False,False,1,11
+"### | 4 - 
+",000,False,000,False,False,False,1,7
+"### | 5 - 
+",000,False,000,False,False,False,1,13
+"### | 6 - 
+",000,False,000,False,False,False,1,11
+"### | 7 - 
+",000,False,000,False,False,False,1,11
+"### | 8 - 
+",000,False,000,False,False,False,1,8
+"### | فضل قيام أهل العلم بصيانته
+",000,False,000,False,False,False,1,10
+"### | 76 - 
+",000,False,000,False,False,False,1,51
+"### | 77 - 
+",000,False,000,False,False,False,1,61
+"### | 78 - 
+",000,False,000,False,False,False,1,112
+"### | أبو حازم الزاهد وأمراء بني أمية
+",000,False,000,False,False,False,1,12
+"### | 79 - 
+",000,False,000,False,False,False,1,129
+"### | 80 - 
+",000,False,000,False,False,False,1,55
+"### | 81 - 
+",000,False,000,False,False,False,1,113
+"### | 82 - 
+",000,False,000,False,False,False,1,100
+"### | 83 - 
+",000,False,000,False,False,False,1,103
+"### | 84 - 
+",000,False,000,False,False,False,1,65
+"### | 85 - 
+",000,False,000,False,False,False,1,91
+"### | 86 - 
+",000,False,000,False,False,False,1,54
+"### | 87 - 
+",000,False,000,False,False,False,1,67
+"### | حماد بن سلمة وأمير العراق
+",000,False,000,False,False,False,1,10
+"### | 88 - 
+",000,False,000,False,False,False,1,207
+"### | 89 - 
+",000,False,000,False,False,False,1,240
+"### | أحوال مخالطة السلاطين
+",000,False,000,False,False,False,1,6
+"### | 90 - 
+",000,False,000,False,False,False,1,106
+"### | 91 - 
+",000,False,000,False,False,False,1,23
+"### | 92 - 
+",000,False,000,False,False,False,1,72
+"### | 93 - 
+",000,False,000,False,False,False,1,26
+"### | 94 - 
+",000,False,000,False,False,False,1,933
+"### | 95 - 
+",000,False,000,False,False,False,1,112
+"### | 96 - 
+",000,False,000,False,False,False,1,97
+"### | ما ينبغي للعالم التحلي به
+",000,False,000,False,False,False,1,10
+"### | 97 - 
+",000,False,000,False,False,False,1,398
+"### | 99 - 
+",000,False,000,False,False,False,1,294
+"### | 100 - 
+",000,False,000,False,False,False,1,44
+"### | 101 - 
+",000,False,000,False,False,False,1,116
+"### | أعز الأشياء في آخر الزمان
+",000,False,000,False,False,False,1,10
+"### | 103 - 
+",000,False,000,False,False,False,1,41
+"### | كلام الشعراء في المجيء للسلاطين
+",000,False,000,False,False,False,1,10
+"### | 104 - 
+",000,False,000,False,False,False,1,46
+"### | 105 - 
+",000,False,000,False,False,False,1,86
+"### | 106 - 
+",000,False,000,False,False,False,1,53
+"### | 107 - 
+",000,False,000,False,False,False,1,93
+"### | 108 - 
+",000,False,000,False,False,False,1,118
+"### | 109 - 
+",000,False,000,False,False,False,1,329
+"### | 110 - 
+",000,False,000,False,False,False,1,31
+"### | 111 - 
+",000,False,000,False,False,False,1,80

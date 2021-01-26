@@ -1,0 +1,259 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | 
+",000,False,000,False,False,False,1,10
+"### | سنة إحدى أربعين وسبعمائة
+",741,year,000,False,741,024,1,714
+"### || وفي ذي القعدة
+",000,False,000,False,False,False,2,135
+"### || 
+",000,False,000,False,False,False,2,273
+"### | سنة اثنتين وأربعين وسبعمائة
+",742,year,000,False,742,023,1,508
+"### | سنة ثلاث أربعين وسبعمائة
+",743,year,000,False,743,022,1,466
+"### | سنة أربع أربعين وسبعمائة
+",744,year,000,False,744,021,1,699
+"### || فى رجب
+",000,False,000,False,False,False,2,15
+"### || وفى منتصف شعبان
+",000,False,000,False,False,False,2,31
+"### || وفيها
+",000,False,000,False,False,False,2,24
+"### || وفى شوال
+",000,False,000,False,False,False,2,19
+"### || وفي مستهل ربيع الآخر
+",000,False,000,False,False,False,2,628
+"### | سنة خمس وأربعين وسبعمائة
+",745,year,000,False,745,020,1,618
+"### || فى صفر
+",000,False,000,False,False,False,2,23
+"### || وفي ذى الحجة
+",000,False,000,False,False,False,2,17
+"### || وفي سادس رمضان
+",000,False,000,False,False,False,2,580
+"### | سنة ست وأربعين وسبعمائة
+",746,year,000,False,746,019,1,482
+"### || فى ليلة الخمسين رابع ربيع الآخر
+",000,False,000,False,False,False,2,149
+"### || وفى منتصف الشهر
+",000,False,000,False,False,False,2,83
+"### || وفي غرة جمادى الآخرة
+",000,False,000,False,False,False,2,22
+"### || وفى ثانى عشره
+",000,False,000,False,False,False,2,73
+"### || وفى رجب
+",000,False,000,False,False,False,2,62
+"### || وفى سابع عشر منه
+",000,False,000,False,False,False,2,42
+"### || وفى عاشر شعبان
+",000,False,000,False,False,False,2,30
+"### || وفى ذي القعدة
+",000,False,000,False,False,False,2,30
+"### || وفى ذى الحجة
+",000,False,000,False,False,False,2,41
+"### | سنة سبع وأربعين وسبعمائة
+",747,year,000,False,747,018,1,583
+"### || فى جمادى الأولى منها
+",000,False,000,False,False,False,2,166
+"### || وفي ربيع الآخر
+",000,False,000,False,False,False,2,49
+"### || وفى هذا الشهر
+",000,False,000,False,False,False,2,29
+"### || وفى رجب
+",000,False,000,False,False,False,2,24
+"### || وفى شعبان
+",000,False,000,False,False,False,2,210
+"### || وفيه
+",000,False,000,False,False,False,2,111
+"### || وفى شوال
+",000,False,000,False,False,False,2,19
+"### | سنة ثمان وأربعين وسبعمائة
+",748,year,000,False,748,017,1,943
+"### || فى جمادى الأولى
+",000,False,000,False,False,False,2,293
+"### || وفى جمادى الأولى
+",000,False,000,False,False,False,2,57
+"### || وفى ثامن عشر جمادى الآخرة
+",000,False,000,False,False,False,2,410
+"### || وفى ليلة الاثنين ثالث ذى القعدة
+",000,False,000,False,False,False,2,200
+"### | سنة تسع وأربعين وسبعمائة
+",749,year,000,False,749,016,1,710
+"### || فى أولها
+",000,False,000,False,False,False,2,38
+"### || وفى أواخر صفر
+",000,False,000,False,False,False,2,685
+"### | سنة خمسين وسبعمائة
+",750,year,000,False,750,015,1,386
+"### || فى ربيع الأول
+",000,False,000,False,False,False,2,384
+"### | سنة إحدى وخمسين وسبعمائة
+",751,year,000,False,751,014,1,252
+"### | سنة اثنتين وخمسين وسبعمائة
+",752,year,000,False,752,013,1,420
+"### || وفى غرة ذى الحجة
+",000,False,000,False,False,False,2,180
+"### | سنة ثلاث وخمسين وسبعمائة
+",753,year,000,False,753,012,1,372
+"### || فى رجب
+",000,False,000,False,False,False,2,325
+"### || وفى ذى الحجة
+",000,False,000,False,False,False,2,52
+"### | سنة أربع وخمسين وسبعمائة
+",754,year,000,False,754,011,1,184
+"### || فى المحرم
+",000,False,000,False,False,False,2,42
+"### || وفى ربيع الآخر
+",000,False,000,False,False,False,2,147
+"### | سنة خمس وخمسين وسبعمائة
+",755,year,000,False,755,010,1,889
+"### || فى شهر رجب
+",000,False,000,False,False,False,2,41
+"### || وفى شوال
+",000,False,000,False,False,False,2,132
+"### || وفى جمادى الأولى
+",000,False,000,False,False,False,2,26
+"### || وفى شعبان
+",000,False,000,False,False,False,2,32
+"### || وفى ربيع الآخر
+",000,False,000,False,False,False,2,34
+"### || وفى ثانى رمضان
+",000,False,000,False,False,False,2,129
+"### || وفى هذا الشهر
+",000,False,000,False,False,False,2,432
+"### || وفى شوال
+",000,False,000,False,False,False,2,81
+"### | سنة ست وخمسين وسبعمائة
+",756,year,000,False,756,009,1,646
+"### || وفي ربيع الآخر
+",000,False,000,False,False,False,2,39
+"### || وفى صفر
+",000,False,000,False,False,False,2,31
+"### || وفى أواخر شهر ربيع الأول
+",000,False,000,False,False,False,2,541
+"### | سنة سبع وخمسين وسبعمائة
+",757,year,000,False,757,008,1,475
+"### || فى رابع ربيع الآخر
+",000,False,000,False,False,False,2,481
+"### | سنة ثمان وخمسين وسبعمائة
+",758,year,000,False,758,007,1,342
+"### || فى شعبان
+",000,False,000,False,False,False,2,351
+"### | سنة تسع وخمسين وسبعمائة
+",759,year,000,False,759,006,1,661
+"### || وفى يوم السبت خامس عشرين جمادى الأولى
+",000,False,000,False,False,False,2,52
+"### || وفى العشر الآخر من رجب
+",000,False,000,False,False,False,2,39
+"### || وفى العشر الآخر من شعبان
+",000,False,000,False,False,False,2,74
+"### || وفى يوم الأربعاء ثانى رمضان
+",000,False,000,False,False,False,2,60
+"### || وفى ms35 رمضان
+",000,False,000,False,False,False,2,40
+"### || وفى ذى القعدة
+",000,False,000,False,False,False,2,35
+"### || وفى ذى الحجة
+",000,False,000,False,False,False,2,16
+"### || وفى سادسه
+",000,False,000,False,False,False,2,22
+"### || وفى صبيحة يوم عرفة
+",000,False,000,False,False,False,2,197
+"### | سنة ستين ms36 وسبعمائة
+",760,year,000,False,760,005,1,667
+"### || وفى سادس صفر
+",000,False,000,False,False,False,2,30
+"### || (388 ظ) ثم فى جمادى الأولى
+",000,False,000,False,False,False,2,27
+"### || وفى ليلة سادس صفر
+",000,False,000,False,False,False,2,29
+"### || وفى العشر الأول من صفر
+",000,False,000,False,False,False,2,32
+"### || وفى ثالث عشر صفر
+",000,False,000,False,False,False,2,52
+"### || وفى يوم الأحد رابع ربيع الأول
+",000,False,000,False,False,False,2,94
+"### || وفى مستهل ربيع الآخر
+",000,False,000,False,False,False,2,69
+"### || وفى رجب
+",000,False,000,False,False,False,2,26
+"### || وفى ليلة نصف شعبان
+",000,False,000,False,False,False,2,17
+"### || وفى ليلة حادى عشرينه
+",000,False,000,False,False,False,2,38
+"### || وفى ليلة الجمعة عاشر ربيع الأول
+",000,False,000,False,False,False,2,271
+"### | سنة إحدى وستين وسبعمائة
+",761,year,000,False,761,004,1,720
+"### || وفى صفر
+",000,False,000,False,False,False,2,26
+"### || وفى ربيع الأول
+",000,False,000,False,False,False,2,63
+"### || وفى ربيع الآخر
+",000,False,000,False,False,False,2,39
+"### || وفى جمادى الأولى
+",000,False,000,False,False,False,2,52
+"### || وفى العشر الأوسط من جمادى الأولى
+",000,False,000,False,False,False,2,28
+"### || وفى جمادى الآخرة
+",000,False,000,False,False,False,2,21
+"### || وفى صفر
+",000,False,000,False,False,False,2,15
+"### || وفى ثانى عشرينه
+",000,False,000,False,False,False,2,51
+"### || وفى يوم الأربعاء رابع عشرين رجب
+",000,False,000,False,False,False,2,35
+"### || وفى رمضان
+",000,False,000,False,False,False,2,21
+"### || وفى رمضان
+",000,False,000,False,False,False,2,14
+"### || وفى ذى الحجة
+",000,False,000,False,False,False,2,41
+"### || وفى ثالث المحرم
+",000,False,000,False,False,False,2,314
+"### || وفى هذا العام
+",000,False,000,False,False,False,2,30
+"### | سنة اثنتين وستين وسبعمائة
+",762,year,000,False,762,003,1,1125
+"### || وفى العشر الأوسط من ذى الحجة
+",000,False,000,False,False,False,2,616
+"### || وفى شوال
+",000,False,000,False,False,False,2,32
+"### || وفى ذى القعدة
+",000,False,000,False,False,False,2,15
+"### || وفى هذا العام
+",000,False,000,False,False,False,2,230
+"### | سنة ثلاث وستين وسبعمائة
+",763,year,000,False,763,002,1,1037
+"### || وفى صفر منها
+",000,False,000,False,False,False,2,95
+"### || وفى شهر ربيع الأول
+",000,False,000,False,False,False,2,255
+"### || وفى تاسع جمادى الأولى
+",000,False,000,False,False,False,2,42
+"### || وفى رجب
+",000,False,000,False,False,False,2,89
+"### || وفى يوم الأثنين خامس شعبان
+",000,False,000,False,False,False,2,148
+"### || وفى رمضان
+",000,False,000,False,False,False,2,31
+"### || وفى ذى القعدة
+",000,False,000,False,False,False,2,18
+"### || وفيه
+",000,False,000,False,False,False,2,348
+"### || وفى هذا العام
+",000,False,000,False,False,False,2,39
+"### | سنة أربع وستين وسبعمائة
+",764,year,000,False,764,001,1,1464
+"### || فى صفر منها
+",000,False,000,False,False,False,2,139
+"### || وفى خامس عشر شعبان
+",000,False,000,False,False,False,2,38
+"### || وفى شهر ربيع الأول
+",000,False,000,False,False,False,2,25
+"### || وفى يوم الخميس سلخ شهر ربيع الآخر
+",000,False,000,False,False,False,2,297
+"### || وفى شوال
+",000,False,000,False,False,False,2,87
+"### || وفى هذا العام
+",000,False,000,False,False,False,2,909

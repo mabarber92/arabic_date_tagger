@@ -1,0 +1,767 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK [الغلاف]
+",000,False,000,False,False,False,1,109
+"### | CHECK [المجلد الأول]
+",000,False,000,False,False,False,1,6
+"### | AUTO بسم الله الرحمن الرحيم
+",000,False,000,False,False,False,1,2421
+"### | AUTO ذكر خبر يدل على أن في رواة الحديث كذابين ويحث على معرفة
+",000,False,000,False,False,False,1,1276
+"### | AUTO وأنا مبين -بعون الله وتوفيقه- أسامي قوم من المجروحين ممن ظهر
+",000,False,000,False,False,False,1,5601
+"### || AUTO 1- إبراهيم بن أبي حية:
+",000,False,000,False,False,False,2,34
+"### || AUTO 2- إبراهيم بن زيد الأسلمي:
+",000,False,000,False,False,False,2,28
+"### || AUTO 3- إبراهيم بن هدبة:
+",000,False,000,False,False,False,2,23
+"### || AUTO 4- إبراهيم بن زكريا البزار:
+",000,False,000,False,False,False,2,27
+"### || AUTO 5- إبراهيم بن عبد الله:
+",000,False,000,False,False,False,2,24
+"### || AUTO 6- إبراهيم بن البراء:
+",000,False,000,False,False,False,2,31
+"### || AUTO 7- إبراهيم بن عبد الله بن همام:
+",000,False,000,False,False,False,2,32
+"### || AUTO 8- إسماعيل بن يحيى بن عبيد الله:
+",000,False,000,False,False,False,2,38
+"### || AUTO 9- إسماعيل بن محمد بن يوسف:
+",000,False,000,False,False,False,2,36
+"### || AUTO 10- إسحاق بن نجيح الملطي:
+",000,False,000,False,False,False,2,28
+"### || AUTO 11- إسحاق بن بشر الكاهلي:
+",000,False,000,False,False,False,2,39
+"### || AUTO 12- إسحاق بن إبراهيم الطبري:
+",000,False,000,False,False,False,2,39
+"### || AUTO 13- إسحاق بن وهب الطهرمسي:
+",000,False,000,False,False,False,2,25
+"### || AUTO 14- أبان بن نهشل:
+",000,False,000,False,False,False,2,27
+"### || AUTO 15- أحمد بن عبد الله الجويباري:
+",000,False,000,False,False,False,2,33
+"### || AUTO 16- أحمد بن الحسن بن القاسم:
+",000,False,000,False,False,False,2,29
+"### || AUTO 17- أحمد بن الحسن بن أبان:
+",000,False,000,False,False,False,2,32
+"### || AUTO 18- أحمد بن محمد بن غالب:
+",000,False,000,False,False,False,2,46
+"### || AUTO 19- أحمد بن محمد بن الصلت:
+",000,False,000,False,False,False,2,40
+"### || AUTO 20- أفلح بن سعيد القبائي:
+",000,False,000,False,False,False,2,39
+"### || AUTO 21- أصرم بن حوشب الهمداني:
+",000,False,000,False,False,False,2,32
+"### || AUTO 22- بشر بن إبراهيم الأنصاري:
+",000,False,000,False,False,False,2,32
+"### || AUTO 23- بشر بن الحسين الهلالي:
+",000,False,000,False,False,False,2,40
+"### || AUTO 24- بكر بن زياد الباهلي:
+",000,False,000,False,False,False,2,19
+"### || AUTO 25- بزيع بن حسان البصري:
+",000,False,000,False,False,False,2,37
+"### || AUTO 26- بهلول بن عبيد:
+",000,False,000,False,False,False,2,42
+"### || AUTO 27- بختري بن عبيد الطابجي:
+",000,False,000,False,False,False,2,21
+"### || AUTO 28- بركة بن محمد الحلبي:
+",000,False,000,False,False,False,2,20
+"### || AUTO 29- تليد بن سليمان المحاربي:
+",000,False,000,False,False,False,2,26
+"### || AUTO 30- جعفر بن أحمد بن علي:
+",000,False,000,False,False,False,2,47
+"### || AUTO 31- جعفر صاحب العروس:
+",000,False,000,False,False,False,2,13
+"### || AUTO 32- الجارود بن يزيد النيسابوري:
+",000,False,000,False,False,False,2,38
+"### || AUTO 33- الحارث بن عمير البصري:
+",000,False,000,False,False,False,2,23
+"### || AUTO 34- الحسن بن علي الهاشمي:
+",000,False,000,False,False,False,2,34
+"### || AUTO 35- الحسن بن محمد البلخي:
+",000,False,000,False,False,False,2,49
+"### || AUTO 36- حسن بن علي الأردني:
+",000,False,000,False,False,False,2,30
+"### || AUTO 37- حسن بن علي:
+",000,False,000,False,False,False,2,44
+"### || AUTO 38- حسين بن علوان:
+",000,False,000,False,False,False,2,29
+"### || AUTO 39- حماد بن عمرو النصيبي:
+",000,False,000,False,False,False,2,23
+"### || AUTO 40- حماد بن عيسى الجهني:
+",000,False,000,False,False,False,2,28
+"### || AUTO 41- حفص بن عمر:
+",000,False,000,False,False,False,2,28
+"### || AUTO 42- حفص بن سلم السمرقندي:
+",000,False,000,False,False,False,2,30
+"### || AUTO 43- حميد بن علي بن هارون:
+",000,False,000,False,False,False,2,42
+"### || AUTO 44- حبيب بن أبي حبيب المروزي:
+",000,False,000,False,False,False,2,27
+"### || AUTO 45- حسان بن سياه:
+",000,False,000,False,False,False,2,30
+"### || AUTO 46- حسان بن غالب:
+",000,False,000,False,False,False,2,17
+"### || AUTO 47- حمزة النصيبي:
+",000,False,000,False,False,False,2,36
+"### || AUTO 48- خالد بن عبيد العتكي:
+",000,False,000,False,False,False,2,22
+"### || AUTO 49- خالد بن إلياس:
+",000,False,000,False,False,False,2,30
+"### || AUTO 50- خالد بن عبد الدائم المصري:
+",000,False,000,False,False,False,2,21
+"### || AUTO 51- خالد بن عبد الرحمن:
+",000,False,000,False,False,False,2,28
+"### || AUTO 52- خالد بن إسماعيل:
+",000,False,000,False,False,False,2,27
+"### || AUTO 53- داود بن عجلان المكي:
+",000,False,000,False,False,False,2,28
+"### || AUTO 54- داود بن المحبر بن قحذم:
+",000,False,000,False,False,False,2,53
+"### || AUTO 55- داود بن عفان بن حبيب:
+",000,False,000,False,False,False,2,27
+"### || AUTO 56- دينار بن عبد الله:
+",000,False,000,False,False,False,2,28
+"### || AUTO 57- راشد بن معبد الواسطي:
+",000,False,000,False,False,False,2,20
+"### || AUTO 58- روح بن مسافر البصري:
+",000,False,000,False,False,False,2,40
+"### || AUTO 59- روح بن جناح:
+",000,False,000,False,False,False,2,29
+"### || AUTO 60- رجاء بن أبي عطاء:
+",000,False,000,False,False,False,2,28
+"### || AUTO 61- ركن بن عبيد الله:
+",000,False,000,False,False,False,2,40
+"### || AUTO 62- زياد بن المنذر:
+",000,False,000,False,False,False,2,19
+"### || AUTO 63- زيد بن جبيرة:
+",000,False,000,False,False,False,2,42
+"### || AUTO 64- زكريا بن دويد الكندي:
+",000,False,000,False,False,False,2,35
+"### || AUTO 65- سعيد بن ميسرة البكري:
+",000,False,000,False,False,False,2,19
+"### || AUTO 66- سعيد بن زون التغلبي:
+",000,False,000,False,False,False,2,20
+"### || AUTO 67- سعيد بن خالد:
+",000,False,000,False,False,False,2,27
+"### || AUTO 68- سعيد بن داود الزنبري:
+",000,False,000,False,False,False,2,80
+"### || AUTO 69- سليمان بن مسلم:
+",000,False,000,False,False,False,2,20
+"### || AUTO 70- سليمان بن عمرو أبو داود:
+",000,False,000,False,False,False,2,41
+"### || AUTO 71- سليمان بن بشار:
+",000,False,000,False,False,False,2,37
+"### || AUTO 72- سلمة بن وردان أبو يعلى:
+",000,False,000,False,False,False,2,37
+"### || AUTO 73- سلام بن سليمان المدائني:
+",000,False,000,False,False,False,2,33
+"### || AUTO 74- سالم بن عبد الأعلى:
+",000,False,000,False,False,False,2,32
+"### || AUTO 75- سلم بن سالم البلخي:
+",000,False,000,False,False,False,2,51
+"### || AUTO 76- سيف بن عمر الضبي:
+",000,False,000,False,False,False,2,21
+"### || AUTO 77- سهيل بن عبد الله بن بريدة:
+",000,False,000,False,False,False,2,25
+"### || AUTO 78- سوار بن مصعب الهمداني:
+",000,False,000,False,False,False,2,35
+"### || AUTO 79- سفيان بن محمد الفزاري:
+",000,False,000,False,False,False,2,26
+"### || AUTO 80- سكين بن أبي سراج:
+",000,False,000,False,False,False,2,24
+"### || AUTO 81- شيخ ابن أبي خالد النصري:
+",000,False,000,False,False,False,2,29
+"### || AUTO 82- صخر بن محمد:
+",000,False,000,False,False,False,2,42
+"### || AUTO 83- طاهر بن الفضل الحلبي:
+",000,False,000,False,False,False,2,28
+"### || AUTO 84- عبد الله بن محمد:
+",000,False,000,False,False,False,2,26
+"### || AUTO 85- عبد الله بن محمد بن زاذان:
+",000,False,000,False,False,False,2,20
+"### || AUTO 86- عبد الله بن جعفر بن نجيح المديني:
+",000,False,000,False,False,False,2,85
+"### || AUTO 87- عبد الله بن ميمون:
+",000,False,000,False,False,False,2,28
+"### || AUTO 88- عبد الله بن حكيم الداهري:
+",000,False,000,False,False,False,2,32
+"### || AUTO 89- عبد الله بن السري المدائني:
+",000,False,000,False,False,False,2,21
+"### || AUTO 90- عبد الله بن أبي عمرو الغفاري:
+",000,False,000,False,False,False,2,29
+"### || AUTO 91- عبد الله بن علاج الموصلي:
+",000,False,000,False,False,False,2,35
+"### || AUTO 92- عبد الله بن محمد بن ربيعة:
+",000,False,000,False,False,False,2,30
+"### || AUTO 93- عبد الله بن وهب النسوي:
+",000,False,000,False,False,False,2,25
+"### || AUTO 94- عبد الله بن عيسى الفروي:
+",000,False,000,False,False,False,2,66
+"### || AUTO 95- عبد الله بن الحارث:
+",000,False,000,False,False,False,2,39
+"### || AUTO 96- عبد الرحمن بن عبد الله:
+",000,False,000,False,False,False,2,26
+"### || AUTO 97- عبد الرحمن بن زيد بن أسلم:
+",000,False,000,False,False,False,2,26
+"### || AUTO 98- عبد الرحمن بن قيس:
+",000,False,000,False,False,False,2,76
+"### || AUTO 99- عبد الرحمن بن مالك بن مغول:
+",000,False,000,False,False,False,2,19
+"### || AUTO 100- عبيد الله بن الوليد:
+",000,False,000,False,False,False,2,20
+"### || AUTO 101- عبيد الله بن أبي حميد:
+",000,False,000,False,False,False,2,22
+"### || AUTO 102- عمرو بن شمر الجعفي:
+",000,False,000,False,False,False,2,38
+"### || AUTO 103- عمرو بن خالد الواسطي:
+",000,False,000,False,False,False,2,21
+"### || AUTO 104- عمرو بن جميع:
+",000,False,000,False,False,False,2,27
+"### || AUTO 105- عمرو بن بكر السكسكي:
+",000,False,000,False,False,False,2,28
+"### || AUTO 106- عمرو بن خالد الأعشى:
+",000,False,000,False,False,False,2,36
+"### || AUTO 107- عمرو بن خليف العسقلاني:
+",000,False,000,False,False,False,2,25
+"### || AUTO 108- عمرو بن محمد الأعسم:
+",000,False,000,False,False,False,2,50
+"### || AUTO 109- عمر بن محمد بن صهبان:
+",000,False,000,False,False,False,2,29
+"### || AUTO 110- عمر بن زيد الصنعاني:
+",000,False,000,False,False,False,2,32
+"### || AUTO 111- عمر بن راشد اليمامي:
+",000,False,000,False,False,False,2,40
+"### || AUTO 112- عمر بن حفص العبدي:
+",000,False,000,False,False,False,2,30
+"### || AUTO 113- عمر بن صبح:
+",000,False,000,False,False,False,2,15
+"### || AUTO 114- عمر بن هارون البلخي:
+",000,False,000,False,False,False,2,28
+"### || AUTO 115- عمر بن أيوب المدني:
+",000,False,000,False,False,False,2,28
+"### || AUTO 116- عمر بن راشد الجاري:
+",000,False,000,False,False,False,2,21
+"### || AUTO 117- عثمان بن عطاء الخراساني:
+",000,False,000,False,False,False,2,28
+"### || AUTO 118- عثمان بن فايد:
+",000,False,000,False,False,False,2,23
+"### || AUTO 119- عثمان بن خالد بن عمر:
+",000,False,000,False,False,False,2,26
+"### || AUTO 120- عثمان بن عبد الله القرشي:
+",000,False,000,False,False,False,2,51
+"### || AUTO 121- علي بن أبي علي اللهبي:
+",000,False,000,False,False,False,2,19
+"### || AUTO 122- علي بن الحسن السامي، المصري:
+",000,False,000,False,False,False,2,21
+"### || AUTO 123- علي بن عبدة بن قتيبة:
+",000,False,000,False,False,False,2,27
+"### || AUTO 124- علي بن جميل بن يزيد:
+",000,False,000,False,False,False,2,21
+"### || AUTO 125- علي بن سعيد:
+",000,False,000,False,False,False,2,18
+"### || AUTO 126- عيسى بن ميمون:
+",000,False,000,False,False,False,2,45
+"### || AUTO 127- عيسى بن عبد الله بن محمد:
+",000,False,000,False,False,False,2,24
+"### || AUTO 128- عاصم بن سليمان الحذاء:
+",000,False,000,False,False,False,2,33
+"### || AUTO 129- عبد الملك بن هارون:
+",000,False,000,False,False,False,2,16
+"### || AUTO 130- عبد الملك بن قدامة القرشي:
+",000,False,000,False,False,False,2,23
+"### || AUTO 131- عبد العزيز بن عبد الرحمن الجزري:
+",000,False,000,False,False,False,2,32
+"### || AUTO 132- عبد العزيز بن أبان القرشي:
+",000,False,000,False,False,False,2,16
+"### || AUTO 133- عبد الحميد بن بحر:
+",000,False,000,False,False,False,2,24
+"### || AUTO 134- عبد الحكم بن عبد الله:
+",000,False,000,False,False,False,2,15
+"### || AUTO 135- عبد الوهاب بن مجاهد:
+",000,False,000,False,False,False,2,22
+"### || AUTO 136- عبد المهيمن بن عباس بن سهل:
+",000,False,000,False,False,False,2,22
+"### || AUTO 137- عبد الخالق بن زيد:
+",000,False,000,False,False,False,2,15
+"### || AUTO 138- عبد السلام بن عبد القدوس:
+",000,False,000,False,False,False,2,27
+"### || AUTO 139- عبد السلام بن صالح:
+",000,False,000,False,False,False,2,26
+"### || AUTO 140- عبد الواحد بن نافع:
+",000,False,000,False,False,False,2,16
+"### || AUTO 141- عبد الأعلى بن أعين:
+",000,False,000,False,False,False,2,32
+"### || AUTO 142- عبد المنعم بن بشير الأنصاري:
+",000,False,000,False,False,False,2,26
+"### || AUTO 143- عبد الرحيم بن زيد العمي:
+",000,False,000,False,False,False,2,19
+"### || AUTO 144- عبد الرحيم بن حبيب الفارياني:
+",000,False,000,False,False,False,2,21
+"### || AUTO 145- عباد بن كثير الرملي:
+",000,False,000,False,False,False,2,20
+"### || AUTO 146- عباد بن كثير الكاهلي:
+",000,False,000,False,False,False,2,41
+"### || AUTO 147- عبيد بن القاسم:
+",000,False,000,False,False,False,2,29
+"### || AUTO 148- العلاء بن زيدل:
+",000,False,000,False,False,False,2,18
+"### || AUTO 149- عيسى بن ميمون العطار:
+",000,False,000,False,False,False,2,37
+"### || AUTO 150- عامر بن صالح الزبيري:
+",000,False,000,False,False,False,2,17
+"### || AUTO 151- العباس بن الوليد:
+",000,False,000,False,False,False,2,33
+"### || AUTO 152- عمار بن سيف الضبي:
+",000,False,000,False,False,False,2,22
+"### || AUTO 153- عون بن عمارة:
+",000,False,000,False,False,False,2,18
+"### || AUTO 154- غياث بن إبراهيم الكوفي:
+",000,False,000,False,False,False,2,24
+"### || AUTO 155- فائد بن عبد الرحمن العطار:
+",000,False,000,False,False,False,2,24
+"### || AUTO 156- فضالة بن الحصين:
+",000,False,000,False,False,False,2,29
+"### || AUTO 157- فرات بن السائب الجزري:
+",000,False,000,False,False,False,2,20
+"### || AUTO 158- قاسم بن عبد الله:
+",000,False,000,False,False,False,2,27
+"### || AUTO 159- قاسم بن عبد الله المكفوف:
+",000,False,000,False,False,False,2,25
+"### || AUTO 160- كثير بن عبد الله:
+",000,False,000,False,False,False,2,21
+"### || AUTO 161- كثير بن سليم الأبلي:
+",000,False,000,False,False,False,2,30
+"### || AUTO 162- كوثر بن حكيم:
+",000,False,000,False,False,False,2,16
+"### || AUTO 163- كادح بن رحمة:
+",000,False,000,False,False,False,2,18
+"### || AUTO 164- موسى بن عمير العنبري:
+",000,False,000,False,False,False,2,14
+"### || AUTO 165- موسى بن محمد بن إبراهيم:
+",000,False,000,False,False,False,2,21
+"### || AUTO 166- موسى بن مطير:
+",000,False,000,False,False,False,2,15
+"### || AUTO 167- موسى بن محمد البلقائي:
+",000,False,000,False,False,False,2,26
+"### || AUTO 168- موسى الطويل:
+",000,False,000,False,False,False,2,29
+"### || AUTO 169- محمد بن أبي قيس الأردني:
+",000,False,000,False,False,False,2,91
+"### || AUTO 170- محمد بن زياد الجزري:
+",000,False,000,False,False,False,2,24
+"### || AUTO 171- محمد بن السائب الكلبي:
+",000,False,000,False,False,False,2,13
+"### || AUTO 172- محمد بن عبد الرحمن أبو جابر:
+",000,False,000,False,False,False,2,12
+"### || AUTO 173- محمد بن المنذر بن عبيد الله، والله أعلم.
+",000,False,000,False,False,False,2,12
+"### || AUTO 174- محمد بن عبد الرحمن البيلماني:
+",000,False,000,False,False,False,2,21
+"### || AUTO 175- محمد بن عبد الله الأنصاري:
+",000,False,000,False,False,False,2,60
+"### || AUTO 176- محمد بن سعيد الطائفي:
+",000,False,000,False,False,False,2,29
+"### || AUTO 177- محمد بن عبد الملك الأنصاري:
+",000,False,000,False,False,False,2,20
+"### || AUTO 178- محمد بن الحسن بن زبالة المخزومي:
+",000,False,000,False,False,False,2,17
+"### || AUTO 179- محمد بن محصن الأسدي:
+",000,False,000,False,False,False,2,22
+"### || AUTO 180- محمد بن الفضل بن عطية البخاري:
+",000,False,000,False,False,False,2,29
+"### || AUTO 181- محمد بن عبد الله بن علاثة:
+",000,False,000,False,False,False,2,35
+"### || AUTO 182- محمد بن فرات التميمي:
+",000,False,000,False,False,False,2,19
+"### || AUTO 183- محمد العكاشي:
+",000,False,000,False,False,False,2,23
+"### || AUTO 184- محمد بن مروان السدي:
+",000,False,000,False,False,False,2,18
+"### || AUTO 185- محمد بن أبي الزعيزعة:
+",000,False,000,False,False,False,2,22
+"### || AUTO 186- محمد بن عمر الكلاعي:
+",000,False,000,False,False,False,2,19
+"### || AUTO 187- محمد بن عمر بن الوليد:
+",000,False,000,False,False,False,2,23
+"### || AUTO 188- محمد بن الحجاج اللخمي:
+",000,False,000,False,False,False,2,34
+"### || AUTO 189- محمد بن الحسن الأزدي:
+",000,False,000,False,False,False,2,19
+"### || AUTO 190- محمد بن أيوب بن سويد الرملي:
+",000,False,000,False,False,False,2,18
+"### || AUTO 191- محمد بن إبراهيم الشامي:
+",000,False,000,False,False,False,2,23
+"### || AUTO 192- محمد بن عبد الرحمن بن غزوان:
+",000,False,000,False,False,False,2,36
+"### || AUTO 193- محمد بن تميم الفاريابي:
+",000,False,000,False,False,False,2,17
+"### || AUTO 194- محمد بن يحيى بن ضرار المازني:
+",000,False,000,False,False,False,2,28
+"### || AUTO 195- محمد بن القاسم الطايكاني:
+",000,False,000,False,False,False,2,18
+"### || AUTO 196- محمد بن يحيى بن رزين المصيصي:
+",000,False,000,False,False,False,2,24
+"### || AUTO 197- مطر بن ميمون الإسكاف:
+",000,False,000,False,False,False,2,34
+"### || AUTO 198- ميسرة بن عبد ربه:
+",000,False,000,False,False,False,2,16
+"### || AUTO 199- معلى بن عرفان:
+",000,False,000,False,False,False,2,25
+"### || AUTO 200- معلى بن هلال الطحان:
+",000,False,000,False,False,False,2,18
+"### || AUTO 201- مهدي بن هلال:
+",000,False,000,False,False,False,2,25
+"### || AUTO 202- مسور بن الصلت:
+",000,False,000,False,False,False,2,25
+"### || AUTO 203- مسلمة بن علي الخشني:
+",000,False,000,False,False,False,2,28
+"### || AUTO 204- منصور بن عبد الحميد:
+",000,False,000,False,False,False,2,30
+"### || AUTO 205- مأمون بن أحمد السلمي:
+",000,False,000,False,False,False,2,65
+"### || AUTO 206- نوح بن دراج:
+",000,False,000,False,False,False,2,21
+"### || AUTO 207- نوح بن ذكوان:
+",000,False,000,False,False,False,2,19
+"### || AUTO 208- نوح بن أبي مريم:
+",000,False,000,False,False,False,2,32
+"### || AUTO 209- نهشل بن سعيد:
+",000,False,000,False,False,False,2,28
+"### || AUTO 210- نفيع بن الحارث:
+",000,False,000,False,False,False,2,31
+"### || AUTO 211- نعيم بن المورع:
+",000,False,000,False,False,False,2,17
+"### || AUTO 212- نجيح أبو معشر السندي:
+",000,False,000,False,False,False,2,41
+"### || AUTO 213- وهب بن وهب القاضي:
+",000,False,000,False,False,False,2,63
+"### || AUTO 214- الوليد بن سلمة الأردني:
+",000,False,000,False,False,False,2,30
+"### || AUTO 215- الوليد بن الوليد العنسي:
+",000,False,000,False,False,False,2,18
+"### || AUTO 216- الوليد بن موسى الدمشقي:
+",000,False,000,False,False,False,2,13
+"### || AUTO 217- الوليد بن الفضل العنزي:
+",000,False,000,False,False,False,2,16
+"### || AUTO 218- وازع بن نافع العقيلي:
+",000,False,000,False,False,False,2,25
+"### || AUTO 219- الهيثم بن عدي الطائي:
+",000,False,000,False,False,False,2,20
+"### || AUTO 220- يزيد بن عبد الملك النوفلي:
+",000,False,000,False,False,False,2,20
+"### || AUTO 221- يزيد بن سنان الجزري:
+",000,False,000,False,False,False,2,41
+"### || AUTO 222- يزيد بن سفيان أبو المهزم:
+",000,False,000,False,False,False,2,50
+"### || AUTO 223- يحيى بن سابق المديني:
+",000,False,000,False,False,False,2,19
+"### || AUTO 224- يحيى بن عبيد الله بن موهب:
+",000,False,000,False,False,False,2,29
+"### || AUTO 225- يحيى بن عنبسة:
+",000,False,000,False,False,False,2,19
+"### || AUTO 226- يحيى بن هاشم السمسار:
+",000,False,000,False,False,False,2,20
+"### || AUTO 227- يحيى بن شبيب اليماني:
+",000,False,000,False,False,False,2,16
+"### || AUTO 228- يوسف بن خالد بن عمر السمتي:
+",000,False,000,False,False,False,2,19
+"### || AUTO 229- يوسف بن السفر:
+",000,False,000,False,False,False,2,19
+"### || AUTO 230- يوسف بن عطية الصفار:
+",000,False,000,False,False,False,2,18
+"### || AUTO 231- يعقوب بن الوليد المدني:
+",000,False,000,False,False,False,2,20
+"### || AUTO 232- يونس بن عطاء:
+",000,False,000,False,False,False,2,27
+"### || AUTO 233- ياسين بن معاذ الزيات:
+",000,False,000,False,False,False,2,73
+"### | CHECK [المجلد الثاني]
+",000,False,000,False,False,False,1,6
+"### | AUTO الباب الثالث من صحت الرواية عنهم من الصحابة PageV02P005
+",000,False,000,False,False,False,1,1796
+"### || AUTO أسامي من صحت الرواية عنه من الصحابة عن رسول الله صلى الله
+",000,False,000,False,False,False,2,69
+"### || AUTO باب الألف
+",000,False,000,False,False,False,2,47
+"### || AUTO باب الباء
+",000,False,000,False,False,False,2,19
+"### || AUTO باب التاء
+",000,False,000,False,False,False,2,21
+"### || AUTO باب الثاء
+",000,False,000,False,False,False,2,31
+"### || AUTO باب الجيم
+",000,False,000,False,False,False,2,50
+"### || AUTO باب الحاء
+",000,False,000,False,False,False,2,96
+"### || AUTO الخاء من البدرية
+",000,False,000,False,False,False,2,48
+"### || AUTO حرف الذال
+",000,False,000,False,False,False,2,17
+"### || AUTO حرف الراء
+",000,False,000,False,False,False,2,42
+"### || AUTO حرف الزاي
+",000,False,000,False,False,False,2,49
+"### || AUTO حرف السين
+",000,False,000,False,False,False,2,140
+"### || AUTO حرف الشين
+",000,False,000,False,False,False,2,31
+"### || AUTO حرف الصاد
+",000,False,000,False,False,False,2,43
+"### || AUTO الضاد
+",000,False,000,False,False,False,2,14
+"### || AUTO حرف الطاء
+",000,False,000,False,False,False,2,17
+"### || AUTO حرف الظاء
+",000,False,000,False,False,False,2,10
+"### || AUTO حرف العين
+",000,False,000,False,False,False,2,438
+"### || AUTO باب الفاء
+",000,False,000,False,False,False,2,17
+"### || AUTO باب القاف
+",000,False,000,False,False,False,2,30
+"### || AUTO الكاف
+",000,False,000,False,False,False,2,36
+"### || AUTO الميم
+",000,False,000,False,False,False,2,130
+"### || AUTO النون
+",000,False,000,False,False,False,2,61
+"### || AUTO الواو
+",000,False,000,False,False,False,2,22
+"### || AUTO الهاء
+",000,False,000,False,False,False,2,12
+"### || AUTO الياء
+",000,False,000,False,False,False,2,8
+"### || AUTO باب الكنى
+",000,False,000,False,False,False,2,59
+"### || AUTO ومن النساء
+",000,False,000,False,False,False,2,210
+"### | AUTO الباب الرابع من أخرج لهم الشيخان بعد الصحابة
+",000,False,000,False,False,False,1,11
+"### | AUTO ذكر أسامي من أخرج محمد بن إسماعيل ومسلم بن الحجاج حديثهم في
+",000,False,000,False,False,False,1,5833
+"### || AUTO باب الألف
+",000,False,000,False,False,False,2,1202
+"### || AUTO باب الباء
+",000,False,000,False,False,False,2,267
+"### || AUTO باب التاء
+",000,False,000,False,False,False,2,36
+"### || AUTO باب الثاء
+",000,False,000,False,False,False,2,78
+"### || AUTO باب الجيم
+",000,False,000,False,False,False,2,200
+"### || AUTO باب الحاء
+",000,False,000,False,False,False,2,1035
+"### || AUTO باب الخاء
+",000,False,000,False,False,False,2,233
+"### || AUTO باب الدال
+",000,False,000,False,False,False,2,67
+"### || AUTO باب الذال
+",000,False,000,False,False,False,2,24
+"### || AUTO باب الراء
+",000,False,000,False,False,False,2,479
+"### || AUTO باب السين
+",000,False,000,False,False,False,2,1045
+"### || AUTO باب الشين
+",000,False,000,False,False,False,2,204
+"### || AUTO باب الصاد
+",000,False,000,False,False,False,2,185
+"### || AUTO باب الضاد
+",000,False,000,False,False,False,2,49
+"### || AUTO باب الطاء
+",000,False,000,False,False,False,2,122
+"### || AUTO باب الظاء
+",000,False,000,False,False,False,2,20
+"### || AUTO باب العين
+",000,False,000,False,False,False,2,586
+"### | CHECK [المجلد الثالث]
+",000,False,000,False,False,False,1,8001
+"### || AUTO باب القاف
+",000,False,000,False,False,False,2,226
+"### || AUTO باب الكاف
+",000,False,000,False,False,False,2,83
+"### || AUTO باب اللام
+",000,False,000,False,False,False,2,31
+"### || AUTO باب الميم
+",000,False,000,False,False,False,2,2346
+"### || AUTO باب النون
+",000,False,000,False,False,False,2,173
+"### || AUTO باب الواو
+",000,False,000,False,False,False,2,210
+"### || AUTO باب الهاء
+",000,False,000,False,False,False,2,198
+"### || AUTO باب اللام ألف
+",000,False,000,False,False,False,2,14
+"### || AUTO باب الياء
+",000,False,000,False,False,False,2,933
+"### | AUTO باب النساء بعد الصحابيات
+",000,False,000,False,False,False,1,123
+"### | CHECK [المجلد الرابع]
+",000,False,000,False,False,False,1,6
+"### | AUTO الباب الخامس مشايخ للبخاري روى عنهم بالواسطة PageV04P005
+",000,False,000,False,False,False,1,1383
+"### | AUTO الباب السادس مشايخ روى لهم البخاري في المتابعات والشواهد PageV04P019
+",000,False,000,False,False,False,1,1613
+"### || AUTO من باب الألف
+",000,False,000,False,False,False,2,128
+"### || AUTO الجيم
+",000,False,000,False,False,False,2,30
+"### || AUTO الحاء
+",000,False,000,False,False,False,2,98
+"### || AUTO الخاء
+",000,False,000,False,False,False,2,27
+"### || AUTO الزاي
+",000,False,000,False,False,False,2,47
+"### || AUTO السين
+",000,False,000,False,False,False,2,179
+"### || AUTO الطاء
+",000,False,000,False,False,False,2,35
+"### || AUTO العين
+",000,False,000,False,False,False,2,429
+"### || AUTO الفاء
+",000,False,000,False,False,False,2,72
+"### || AUTO الكاف
+",000,False,000,False,False,False,2,28
+"### || AUTO الميم
+",000,False,000,False,False,False,2,243
+"### || AUTO النون
+",000,False,000,False,False,False,2,18
+"### || AUTO الهاء
+",000,False,000,False,False,False,2,25
+"### || AUTO الياء
+",000,False,000,False,False,False,2,64
+"### || AUTO ومن أصحاب الكنى في الشواهد
+",000,False,000,False,False,False,2,43
+"### || AUTO وممن هو غير مسمى في الجامع
+",000,False,000,False,False,False,2,118
+"### | AUTO الباب السابع أسامي المشهورين بالكنى في الصحيحين على الاتفاق
+",000,False,000,False,False,False,1,3850
+"### || AUTO أسامي المشهورين بالكنى في الكتابين الصحيحين:
+",000,False,000,False,False,False,2,798
+"### || AUTO أسامي المعروفين بالكنى ممن أخرجا أو واحد منهما حديثه في
+",000,False,000,False,False,False,2,2071
+"### || AUTO ذكر جماعة من التابعين وتابعي التابعين لم نقف على أساميهم:
+",000,False,000,False,False,False,2,104
+"### || AUTO ومن أصحاب الكنى للبخاري:
+",000,False,000,False,False,False,2,20
+"### || AUTO ولمسلم:
+",000,False,000,False,False,False,2,411
+"### || AUTO وأخرج البخاري وحده:
+",000,False,000,False,False,False,2,132
+"### || AUTO وأخرج مسلم وحده عن:
+",000,False,000,False,False,False,2,233
+"### || AUTO وممن لم نقف لهم على اسم بعد التابعين:
+",000,False,000,False,False,False,2,124
+"### | AUTO الباب الثامن من عيب على مسلم إخراج حديثه والإجابة عنه PageV04P091
+",000,False,000,False,False,False,1,6296
+"### || AUTO ذكر الرواة الذين عيب على مسلم بن الحجاج الحديث عنهم في
+",000,False,000,False,False,False,2,6044
+"### | AUTO الباب التاسع أسامي من أخرج لهم البخاري في الصحيح ونسبوا إلى
+",000,False,000,False,False,False,1,1101
+"### || AUTO ذكر أسامي من أخرجهم الإمام أبو عبد الله محمد بن إسماعيل رضي
+",000,False,000,False,False,False,2,1087
+"### | AUTO الباب العاشر المهمل في البخاري PageV04P209
+",000,False,000,False,False,False,1,2865
+"### | AUTO الباب الحادي عشر مشايخ لقيهم البخاري ولم يرو عنهم في الصحيح
+",000,False,000,False,False,False,1,404
+"### || AUTO أسامي من ذكرهم أبو عبد الله محمد بن إسماعيل في الجامع الصحيح
+",000,False,000,False,False,False,2,392
+"### | AUTO الباب الثاني عشر ذكر مشايخ روى عنهم الشيخان في صحيحيهما PageV04P253
+",000,False,000,False,False,False,1,2326
+"### || AUTO فممن اسمه محمد اتفقا على الرواية عنهم:
+",000,False,000,False,False,False,2,331
+"### || AUTO وممن تفرد مسلم بالرواية عنهم عن:
+",000,False,000,False,False,False,2,221
+"### || AUTO باب الألف
+",000,False,000,False,False,False,2,6
+"### || AUTO المتفق عليه ممن اسمه أحمد:
+",000,False,000,False,False,False,2,48
+"### || AUTO وممن تفرد البخاري بالرواية عنهم:
+",000,False,000,False,False,False,2,170
+"### || AUTO وممن تفرد مسلم عنهم بالرواية:
+",000,False,000,False,False,False,2,114
+"### || AUTO المتفق عليه ممن اسمه إبراهيم:
+",000,False,000,False,False,False,2,13
+"### || AUTO منهم شيوخ البخاري:
+",000,False,000,False,False,False,2,19
+"### || AUTO ومنهم شيوخ مسلم:
+",000,False,000,False,False,False,2,55
+"### || AUTO ومنهم شيوخ البخاري:
+",000,False,000,False,False,False,2,22
+"### || AUTO ومنهم شيوخ مسلم:
+",000,False,000,False,False,False,2,12
+"### || AUTO المتفق عليه ممن اسمه إسحاق:
+",000,False,000,False,False,False,2,21
+"### || AUTO ومنهم شيوخ البخاري:
+",000,False,000,False,False,False,2,44
+"### || AUTO ومنهم شيوخ مسلم:
+",000,False,000,False,False,False,2,20
+"### || AUTO أيوب للبخاري وحده:
+",000,False,000,False,False,False,2,16
+"### || AUTO وللبخاري من بقية باب الألف
+",000,False,000,False,False,False,2,19
+"### || AUTO ولمسلم بقية الباب:
+",000,False,000,False,False,False,2,14
+"### || AUTO المتفق عليه من حرف الباء:
+",000,False,000,False,False,False,2,21
+"### || AUTO ومنهم شيوخ البخاري:
+",000,False,000,False,False,False,2,39
+"### || AUTO وللبخاري وحده في حرف الثاء:
+",000,False,000,False,False,False,2,16
+"### || AUTO وله في حرف الجيم:
+",000,False,000,False,False,False,2,12
+"### || AUTO واتفقا من حرف الحاء ممن اسمه الحسن أو الحسين على:
+",000,False,000,False,False,False,2,32
+"### || AUTO وللبخاري وحده:
+",000,False,000,False,False,False,2,65
+"### || AUTO وأخرج مسلم وحده:
+",000,False,000,False,False,False,2,29
+"### || AUTO واتفقا من بقية الباب على:
+",000,False,000,False,False,False,2,23
+"### || AUTO وللبخاري وحده:
+",000,False,000,False,False,False,2,66
+"### || AUTO ولمسلم وحده:
+",000,False,000,False,False,False,2,33
+"### || AUTO وللبخاري وحده في حرف الخاء:
+",000,False,000,False,False,False,2,58
+"### || AUTO ولمسلم وحده:
+",000,False,000,False,False,False,2,54
+"### || AUTO والمتفق عليه من حرف الزاي:
+",000,False,000,False,False,False,2,23
+"### || AUTO وللبخاري وحده:
+",000,False,000,False,False,False,2,28
+"### || AUTO والمتفق عليه من حرف السين:
+",000,False,000,False,False,False,2,33
+"### || AUTO وللبخاري وحده:
+",000,False,000,False,False,False,2,75
+"### || AUTO ولمسلم وحده.
+",000,False,000,False,False,False,2,69
+"### || AUTO والمتفق عليه من حرف الشين:
+",000,False,000,False,False,False,2,16
+"### || AUTO وللبخاري وحده:
+",000,False,000,False,False,False,2,10
+"### || AUTO ولمسلم وحده:
+",000,False,000,False,False,False,2,15
+"### || AUTO وللبخاري وحده من حرف الصاد:
+",000,False,000,False,False,False,2,46
+"### || AUTO والمتفق عليه بعد المحمدين من حرف الميم:
+",000,False,000,False,False,False,2,24
+"### || AUTO وللبخاري وحده:
+",000,False,000,False,False,False,2,118
+"### || AUTO ولمسلم وحده:
+",000,False,000,False,False,False,2,35
+"### || AUTO المتفق عليه من حرف النون:
+",000,False,000,False,False,False,2,13
+"### || AUTO وللبخاري وحده:
+",000,False,000,False,False,False,2,29
+"### || AUTO ولمسلم وحده:
+",000,False,000,False,False,False,2,23
+"### || AUTO المتفق عليه من حرف الهاء:
+",000,False,000,False,False,False,2,41
+"### || AUTO ولمسلم وحده
+",000,False,000,False,False,False,2,24
+"### || AUTO المتفق عليه من حرف الياء:
+",000,False,000,False,False,False,2,23
+"### || AUTO وللبخاري وحده:
+",000,False,000,False,False,False,2,111
+"### || AUTO ولمسلم وحده:
+",000,False,000,False,False,False,2,144

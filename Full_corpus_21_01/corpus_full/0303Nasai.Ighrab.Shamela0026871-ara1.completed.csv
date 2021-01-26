@@ -1,0 +1,613 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | 
+",000,False,000,False,False,False,1,166
+"### | [سفيان <=> جعفر]
+",000,False,000,False,False,False,1,206
+"### || 1 - 
+",000,False,000,False,False,False,2,109
+"### || 2 - 
+",000,False,000,False,False,False,2,47
+"### || 3 - 
+",000,False,000,False,False,False,2,60
+"### | [سفيان <=> جعفر بن معبد]
+",000,False,000,False,False,False,1,45
+"### || 4 - 
+",000,False,000,False,False,False,2,42
+"### | [سفيان <=> جعفر بن ميمون]
+",000,False,000,False,False,False,1,48
+"### || 5 - 
+",000,False,000,False,False,False,2,45
+"### | [شعبة <=> جعفر بن إياس أبو بشر]
+",000,False,000,False,False,False,1,1563
+"### || 6 - 
+",000,False,000,False,False,False,2,77
+"### || 7 - 
+",000,False,000,False,False,False,2,58
+"### || 8 - 
+",000,False,000,False,False,False,2,35
+"### || 9 - 
+",000,False,000,False,False,False,2,41
+"### || 10 - 
+",000,False,000,False,False,False,2,53
+"### || 11 - 
+",000,False,000,False,False,False,2,105
+"### || 12 - 
+",000,False,000,False,False,False,2,46
+"### || 13 - 
+",000,False,000,False,False,False,2,37
+"### || 14 - 
+",000,False,000,False,False,False,2,57
+"### || 15 - 
+",000,False,000,False,False,False,2,74
+"### || 16 - 
+",000,False,000,False,False,False,2,66
+"### || 17 - 
+",000,False,000,False,False,False,2,49
+"### || 18 - 
+",000,False,000,False,False,False,2,63
+"### || 19 - 
+",000,False,000,False,False,False,2,43
+"### || 20 - 
+",000,False,000,False,False,False,2,37
+"### || 21 - 
+",000,False,000,False,False,False,2,39
+"### || 22 - 
+",000,False,000,False,False,False,2,89
+"### || 23 - 
+",000,False,000,False,False,False,2,56
+"### || 24 - 
+",000,False,000,False,False,False,2,56
+"### || 25 - 
+",000,False,000,False,False,False,2,46
+"### || 26 - 
+",000,False,000,False,False,False,2,66
+"### || 27 - 
+",000,False,000,False,False,False,2,53
+"### || 28 - 
+",000,False,000,False,False,False,2,44
+"### || 29 - 
+",000,False,000,False,False,False,2,38
+"### || 30 - 
+",000,False,000,False,False,False,2,54
+"### || 31 - 
+",000,False,000,False,False,False,2,50
+"### || 32 - 
+",000,False,000,False,False,False,2,37
+"### || 33 - 
+",000,False,000,False,False,False,2,105
+"### || 34 - 
+",000,False,000,False,False,False,2,59
+"### | [سفيان <=> جعفر بن برقان]
+",000,False,000,False,False,False,1,111
+"### || 35 - 
+",000,False,000,False,False,False,2,40
+"### || 36 - 
+",000,False,000,False,False,False,2,69
+"### | [شعبة <=> حاضر بن مهاجر]
+",000,False,000,False,False,False,1,44
+"### || 37 - 
+",000,False,000,False,False,False,2,41
+"### | [شعبة <=> حاجب بن عمر]
+",000,False,000,False,False,False,1,51
+"### || 38 - 
+",000,False,000,False,False,False,2,48
+"### | [شعبة <=> حر بن صياح]
+",000,False,000,False,False,False,1,85
+"### || 39 - 
+",000,False,000,False,False,False,2,82
+"### | [سفيان <=> حسن بن عبيد الله]
+",000,False,000,False,False,False,1,103
+"### || 40 - 
+",000,False,000,False,False,False,2,57
+"### || 41 - 
+",000,False,000,False,False,False,2,47
+"### | [شعبة <=> حسن بن عمران]
+",000,False,000,False,False,False,1,65
+"### || 42 - 
+",000,False,000,False,False,False,2,62
+"### | [سفيان <=> حسن بن عمرو ms09]
+",000,False,000,False,False,False,1,96
+"### || 43 - 
+",000,False,000,False,False,False,2,43
+"### || 44 - 
+",000,False,000,False,False,False,2,51
+"### | [شعبة <=> حجاج بن عاصم]
+",000,False,000,False,False,False,1,80
+"### || 45 - 
+",000,False,000,False,False,False,2,36
+"### || 46 - 
+",000,False,000,False,False,False,2,42
+"### | [سفيان <=> حجاج بن فرافصة]
+",000,False,000,False,False,False,1,64
+"### || 47 - 
+",000,False,000,False,False,False,2,70
+"### | [شعبة <=> حجاج بن حجاج]
+",000,False,000,False,False,False,1,59
+"### || 48 - 
+",000,False,000,False,False,False,2,58
+"### | [شعبة <=> حبيب بن زيد]
+",000,False,000,False,False,False,1,219
+"### || 49 - 
+",000,False,000,False,False,False,2,35
+"### || 50 - 
+",000,False,000,False,False,False,2,38
+"### || 51 - 
+",000,False,000,False,False,False,2,59
+"### || 52 - 
+",000,False,000,False,False,False,2,53
+"### || 53 - 
+",000,False,000,False,False,False,2,38
+"### | [شعبة <=> حبيب بن الزبير]
+",000,False,000,False,False,False,1,107
+"### || 54 - 
+",000,False,000,False,False,False,2,44
+"### || 55 - 
+",000,False,000,False,False,False,2,63
+"### | [سفيان <=> حبيب بن أبي عمرة]
+",000,False,000,False,False,False,1,158
+"### || 56 - 
+",000,False,000,False,False,False,2,154
+"### | [شعبة <=> حنظلة السدوسي]
+",000,False,000,False,False,False,1,48
+"### || 57 - 
+",000,False,000,False,False,False,2,46
+"### | [سفيان <=> حنظلة بن أبي سفيان]
+",000,False,000,False,False,False,1,46
+"### || 58 - 
+",000,False,000,False,False,False,2,42
+"### | [شعبة <=> حيان الأزدي]
+",000,False,000,False,False,False,1,48
+"### || 59 - 
+",000,False,000,False,False,False,2,46
+"### | [سفيان <=> حمران بن أعين]
+",000,False,000,False,False,False,1,59
+"### || 60 - 
+",000,False,000,False,False,False,2,56
+"### | [شعبة <=> حمزة الضبي]
+",000,False,000,False,False,False,1,139
+"### || 61 - 
+",000,False,000,False,False,False,2,36
+"### || 62 - 
+",000,False,000,False,False,False,2,57
+"### || 63 - 
+",000,False,000,False,False,False,2,53
+"### | [سفيان <=> حميد بن قيس]
+",000,False,000,False,False,False,1,86
+"### || 64 - 
+",000,False,000,False,False,False,2,93
+"### | [شعبة <=> حميد بن هلال]
+",000,False,000,False,False,False,1,289
+"### || 65 - 
+",000,False,000,False,False,False,2,47
+"### || 66 - 
+",000,False,000,False,False,False,2,54
+"### || 67 - 
+",000,False,000,False,False,False,2,85
+"### || 68 - 
+",000,False,000,False,False,False,2,46
+"### || 69 - 
+",000,False,000,False,False,False,2,28
+"### || 70 - 
+",000,False,000,False,False,False,2,35
+"### | [شعبة <=> حميد ms14 بن نافع]
+",000,False,000,False,False,False,1,229
+"### || 71 - 
+",000,False,000,False,False,False,2,57
+"### || 72 - 
+",000,False,000,False,False,False,2,75
+"### || 73 - 
+",000,False,000,False,False,False,2,108
+"### | [سفيان <=> حكيم بن الديلم]
+",000,False,000,False,False,False,1,121
+"### || 74 - 
+",000,False,000,False,False,False,2,50
+"### || 75 - 
+",000,False,000,False,False,False,2,69
+"### | [شعبة <=> الحكم بن عتيبة]
+",000,False,000,False,False,False,1,4169
+"### || 76 - 
+",000,False,000,False,False,False,2,39
+"### || 77 - 
+",000,False,000,False,False,False,2,78
+"### || 78 - 
+",000,False,000,False,False,False,2,111
+"### || 79 - 
+",000,False,000,False,False,False,2,40
+"### || 80 - 
+",000,False,000,False,False,False,2,73
+"### || 81 - 
+",000,False,000,False,False,False,2,39
+"### || 82 - 
+",000,False,000,False,False,False,2,84
+"### || 83 - 
+",000,False,000,False,False,False,2,65
+"### || 84 - 
+",000,False,000,False,False,False,2,80
+"### || 85 - 
+",000,False,000,False,False,False,2,85
+"### || 86 - 
+",000,False,000,False,False,False,2,40
+"### || 87 - 
+",000,False,000,False,False,False,2,64
+"### || 88 - 
+",000,False,000,False,False,False,2,85
+"### || 89 - 
+",000,False,000,False,False,False,2,72
+"### || 90 - 
+",000,False,000,False,False,False,2,70
+"### || 91 - 
+",000,False,000,False,False,False,2,57
+"### || 92 - 
+",000,False,000,False,False,False,2,157
+"### || 93 - 
+",000,False,000,False,False,False,2,75
+"### || 94 - 
+",000,False,000,False,False,False,2,40
+"### || 95 - 
+",000,False,000,False,False,False,2,42
+"### || 96 - 
+",000,False,000,False,False,False,2,40
+"### || 97 - 
+",000,False,000,False,False,False,2,50
+"### || 98 - 
+",000,False,000,False,False,False,2,91
+"### || 99 - 
+",000,False,000,False,False,False,2,34
+"### || 100 - 
+",000,False,000,False,False,False,2,35
+"### || 101 - 
+",000,False,000,False,False,False,2,41
+"### || 102 - 
+",000,False,000,False,False,False,2,47
+"### || 103 - 
+",000,False,000,False,False,False,2,43
+"### || 104 - 
+",000,False,000,False,False,False,2,37
+"### || 105 - 
+",000,False,000,False,False,False,2,54
+"### || 106 - 
+",000,False,000,False,False,False,2,119
+"### || 107 - 
+",000,False,000,False,False,False,2,66
+"### || 108 - 
+",000,False,000,False,False,False,2,60
+"### || 109 - 
+",000,False,000,False,False,False,2,25
+"### || 110 - 
+",000,False,000,False,False,False,2,39
+"### || 111 - 
+",000,False,000,False,False,False,2,51
+"### || 112 - 
+",000,False,000,False,False,False,2,68
+"### || 113 - 
+",000,False,000,False,False,False,2,49
+"### || 114 - 
+",000,False,000,False,False,False,2,48
+"### || 115 - 
+",000,False,000,False,False,False,2,51
+"### || 116 - 
+",000,False,000,False,False,False,2,44
+"### || 117 - 
+",000,False,000,False,False,False,2,73
+"### || 118 - 
+",000,False,000,False,False,False,2,41
+"### || 119 - 
+",000,False,000,False,False,False,2,40
+"### || 120 - 
+",000,False,000,False,False,False,2,49
+"### || 121 - 
+",000,False,000,False,False,False,2,47
+"### || 122 - 
+",000,False,000,False,False,False,2,83
+"### || 123 - 
+",000,False,000,False,False,False,2,72
+"### || 124 - 
+",000,False,000,False,False,False,2,34
+"### || 125 - 
+",000,False,000,False,False,False,2,46
+"### || 126 - 
+",000,False,000,False,False,False,2,61
+"### || 127 - 
+",000,False,000,False,False,False,2,49
+"### || 128 - 
+",000,False,000,False,False,False,2,59
+"### || 129 - 
+",000,False,000,False,False,False,2,37
+"### || 130 - 
+",000,False,000,False,False,False,2,39
+"### || 131 - 
+",000,False,000,False,False,False,2,40
+"### || 132 - 
+",000,False,000,False,False,False,2,56
+"### || 133 - 
+",000,False,000,False,False,False,2,62
+"### || 134 - 
+",000,False,000,False,False,False,2,48
+"### || 135 - 
+",000,False,000,False,False,False,2,45
+"### || 136 - 
+",000,False,000,False,False,False,2,38
+"### || 137 - 
+",000,False,000,False,False,False,2,124
+"### || 138 - 
+",000,False,000,False,False,False,2,49
+"### || 139 - 
+",000,False,000,False,False,False,2,55
+"### || 140 - 
+",000,False,000,False,False,False,2,34
+"### || 141 - 
+",000,False,000,False,False,False,2,53
+"### || 142 - 
+",000,False,000,False,False,False,2,38
+"### || 143 - 
+",000,False,000,False,False,False,2,44
+"### || 144 - 
+",000,False,000,False,False,False,2,42
+"### || 145 - 
+",000,False,000,False,False,False,2,59
+"### || 146 - 
+",000,False,000,False,False,False,2,120
+"### || 147 - 
+",000,False,000,False,False,False,2,101
+"### || 148 - 
+",000,False,000,False,False,False,2,68
+"### || 149 - 
+",000,False,000,False,False,False,2,59
+"### || 150 - 
+",000,False,000,False,False,False,2,47
+"### | [سفيان <=> خصيف]
+",000,False,000,False,False,False,1,71
+"### || 151 - 
+",000,False,000,False,False,False,2,76
+"### | [شعبة <=> خليفة بن كعب]
+",000,False,000,False,False,False,1,68
+"### || 152 - 
+",000,False,000,False,False,False,2,71
+"### | [شعبة <=> خليد بن جعفر]
+",000,False,000,False,False,False,1,169
+"### || 153 - 
+",000,False,000,False,False,False,2,41
+"### || 154 - 
+",000,False,000,False,False,False,2,38
+"### || 155 - 
+",000,False,000,False,False,False,2,57
+"### || 156 - 
+",000,False,000,False,False,False,2,42
+"### | [شعبة <=> خبيب بن عبد الرحمن]
+",000,False,000,False,False,False,1,589
+"### || 157 - 
+",000,False,000,False,False,False,2,78
+"### || 158 - 
+",000,False,000,False,False,False,2,41
+"### || 159 - 
+",000,False,000,False,False,False,2,42
+"### || 160 - 
+",000,False,000,False,False,False,2,47
+"### || 161 - 
+",000,False,000,False,False,False,2,45
+"### || 162 - 
+",000,False,000,False,False,False,2,46
+"### || 163 - 
+",000,False,000,False,False,False,2,43
+"### || 164 - 
+",000,False,000,False,False,False,2,90
+"### || 165 - 
+",000,False,000,False,False,False,2,87
+"### || 166 - 
+",000,False,000,False,False,False,2,45
+"### || 167 - 
+",000,False,000,False,False,False,2,49
+"### | 
+",000,False,000,False,False,False,1,0
+"### | [شعبة <=> أبو عبد الله]
+",000,False,000,False,False,False,1,57
+"### || 168 - 
+",000,False,000,False,False,False,2,55
+"### | [شعبة <=> أبو عبد الله]
+",000,False,000,False,False,False,1,38
+"### || 169 - 
+",000,False,000,False,False,False,2,34
+"### | [شعبة <=> أبو العنبس]
+",000,False,000,False,False,False,1,51
+"### || 170 - 
+",000,False,000,False,False,False,2,56
+"### | [سفيان <=> أبو علي الزراد]
+",000,False,000,False,False,False,1,40
+"### || 171 - 
+",000,False,000,False,False,False,2,37
+"### | [سفيان <=> أبو عمران]
+",000,False,000,False,False,False,1,47
+"### || 172 - 
+",000,False,000,False,False,False,2,45
+"### | [سفيان <=> أبو عمرو]
+",000,False,000,False,False,False,1,76
+"### || 173 - 
+",000,False,000,False,False,False,2,74
+"### | [شعبة <=> أبو بكر بن محمد بن زيد]
+",000,False,000,False,False,False,1,63
+"### || 174 - 
+",000,False,000,False,False,False,2,57
+"### | [شعبة <=> أبو بكر بن حفص بن عمر بن سعد]
+",000,False,000,False,False,False,1,421
+"### || 175 - 
+",000,False,000,False,False,False,2,45
+"### || 176 - 
+",000,False,000,False,False,False,2,37
+"### || 177 - 
+",000,False,000,False,False,False,2,44
+"### || 178 - 
+",000,False,000,False,False,False,2,41
+"### || 179 - 
+",000,False,000,False,False,False,2,65
+"### || 180 - 
+",000,False,000,False,False,False,2,55
+"### || 181 - 
+",000,False,000,False,False,False,2,47
+"### || 182 - 
+",000,False,000,False,False,False,2,62
+"### || 183 - 
+",000,False,000,False,False,False,2,46
+"### | [سفيان <=> أبو بكير]
+",000,False,000,False,False,False,1,45
+"### || 184 - 
+",000,False,000,False,False,False,2,43
+"### | شعبة بن الحجاج = أبو نعامة
+",000,False,000,False,False,False,1,60
+"### || 185 - 
+",000,False,000,False,False,False,2,56
+"### | [سفيان <=> أبو اليقظان]
+",000,False,000,False,False,False,1,33
+"### || 186 - 
+",000,False,000,False,False,False,2,31
+"### | [شعبة <=> أبو يونس حاتم بن مسلم بن أبي صغيرة]
+",000,False,000,False,False,False,1,115
+"### || 187 - 
+",000,False,000,False,False,False,2,45
+"### || 188 - 
+",000,False,000,False,False,False,2,64
+"### | [سفيان <=> محمد بن أبي حفصة أبو سلمة]
+",000,False,000,False,False,False,1,79
+"### || 189 - 
+",000,False,000,False,False,False,2,73
+"### | [سفيان <=> أبو سنان]
+",000,False,000,False,False,False,1,107
+"### || 190 - 
+",000,False,000,False,False,False,2,56
+"### || 191 - 
+",000,False,000,False,False,False,2,50
+"### | [شعبة <=> أبو شبل]
+",000,False,000,False,False,False,1,40
+"### || 192 - 
+",000,False,000,False,False,False,2,38
+"### | [شعبة <=> أبو شمر]
+",000,False,000,False,False,False,1,90
+"### || 193 - 
+",000,False,000,False,False,False,2,34
+"### || 194 - 
+",000,False,000,False,False,False,2,55
+"### | [شعبة <=> أبو شعيب]
+",000,False,000,False,False,False,1,43
+"### || 195 - 
+",000,False,000,False,False,False,2,41
+"### | [سفيان <=> أبو الهذيل]
+",000,False,000,False,False,False,1,47
+"### || 196 - 
+",000,False,000,False,False,False,2,45
+"### | [شعبة <=> أبو المختار]
+",000,False,000,False,False,False,1,54
+"### || 197 - 
+",000,False,000,False,False,False,2,52
+"### | [سفيان <=> أبو مسكين]
+",000,False,000,False,False,False,1,44
+"### || 198 - 
+",000,False,000,False,False,False,2,42
+"### | [شعبة <=> أبو المؤمل]
+",000,False,000,False,False,False,1,47
+"### || 199 - 
+",000,False,000,False,False,False,2,45
+"### | [سفيان <=> أبو موسى]
+",000,False,000,False,False,False,1,47
+"### || 200 - 
+",000,False,000,False,False,False,2,45
+"### | [شعبة <=> أبو صدقة]
+",000,False,000,False,False,False,1,63
+"### || 201 - 
+",000,False,000,False,False,False,2,61
+"### | شعبة بن الحجاج = أبو الضحاك
+",000,False,000,False,False,False,1,47
+"### || 202 - 
+",000,False,000,False,False,False,2,43
+"### | شعبة بن الحجاج = أبو الفيض
+",000,False,000,False,False,False,1,138
+"### || 203 - 
+",000,False,000,False,False,False,2,53
+"### || 204 - 
+",000,False,000,False,False,False,2,82
+"### | [سفيان <=> أبو فزارة]
+",000,False,000,False,False,False,1,60
+"### || 205 - 
+",000,False,000,False,False,False,2,58
+"### | [سفيان <=> أبو فروة]
+",000,False,000,False,False,False,1,72
+"### || 206 - 
+",000,False,000,False,False,False,2,70
+"### | شعبة بن الحجاج = أبو قزعة
+",000,False,000,False,False,False,1,182
+"### || 207 - 
+",000,False,000,False,False,False,2,40
+"### || 208 - 
+",000,False,000,False,False,False,2,34
+"### || 209 - 
+",000,False,000,False,False,False,2,55
+"### || 210 - 
+",000,False,000,False,False,False,2,70
+"### | [شعبة <=> أبو داود]
+",000,False,000,False,False,False,1,46
+"### || 211 - 
+",000,False,000,False,False,False,2,44
+"### | [سفيان <=> أبو روق]
+",000,False,000,False,False,False,1,35
+"### || 212 - 
+",000,False,000,False,False,False,2,33
+"### | [شعبة <=> أبو زياد]
+",000,False,000,False,False,False,1,111
+"### || 213 - 
+",000,False,000,False,False,False,2,53
+"### || 214 - 
+",000,False,000,False,False,False,2,63
+"### | [سفيان <=> أبو الزعراء]
+",000,False,000,False,False,False,1,39
+"### || 215 - 
+",000,False,000,False,False,False,2,37
+"### | شعبة بن الحجاج = أبو إسرائيل
+",000,False,000,False,False,False,1,114
+"### || 216 - 
+",000,False,000,False,False,False,2,53
+"### || 217 - 
+",000,False,000,False,False,False,2,58
+"### | سفيان بن سعيد = أبو الجحاف
+",000,False,000,False,False,False,1,108
+"### || 218 - 
+",000,False,000,False,False,False,2,52
+"### || 219 - 
+",000,False,000,False,False,False,2,53
+"### | شعبة بن الحجاج = أبو الجودي
+",000,False,000,False,False,False,1,147
+"### || 220 - 
+",000,False,000,False,False,False,2,53
+"### || 221 - 
+",000,False,000,False,False,False,2,43
+"### || 222 - 
+",000,False,000,False,False,False,2,49
+"### | [سفيان <=> أبو حازم]
+",000,False,000,False,False,False,1,330
+"### || 223 - 
+",000,False,000,False,False,False,2,38
+"### || 224 - 
+",000,False,000,False,False,False,2,40
+"### || 225 - 
+",000,False,000,False,False,False,2,46
+"### || 226 - 
+",000,False,000,False,False,False,2,42
+"### || 227 - 
+",000,False,000,False,False,False,2,47
+"### || 228 - 
+",000,False,000,False,False,False,2,42
+"### || 229 - 
+",000,False,000,False,False,False,2,36
+"### || 230 - 
+",000,False,000,False,False,False,2,46
+"### | شعبة بن الحجاج = أبو الحسن
+",000,False,000,False,False,False,1,36
+"### || 231 - 
+",000,False,000,False,False,False,2,32
+"### | [سفيان <=> أبو حسان]
+",000,False,000,False,False,False,1,47
+"### || 232 - 
+",000,False,000,False,False,False,2,44
+"### | سفيان بن سعيد الثوري = أبو خالد
+",000,False,000,False,False,False,1,220
+"### || 233 - 
+",000,False,000,False,False,False,2,90
+"### || 234 - 
+",000,False,000,False,False,False,2,134

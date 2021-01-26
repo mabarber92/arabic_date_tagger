@@ -1,0 +1,295 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | AUTO 1 - باب الغنى والخصب
+",000,False,000,False,False,False,1,1577
+"### | AUTO 2 - باب الفقر والجدب
+",000,False,000,False,False,False,1,1998
+"### | AUTO 3 - باب الجماعة
+",000,False,000,False,False,False,1,1421
+"### | AUTO 4 - باب الكتائب
+",000,False,000,False,False,False,1,662
+"### | AUTO 5 - باب الاجتماع
+",000,False,000,False,False,False,1,255
+"### | AUTO 6 - باب التفرق
+",000,False,000,False,False,False,1,385
+"### | AUTO 7 - باب الجماعة من الإبل
+",000,False,000,False,False,False,1,960
+"### | AUTO 8 - باب الشح
+",000,False,000,False,False,False,1,615
+"### | AUTO 9 - باب المساهلة
+",000,False,000,False,False,False,1,117
+"### | AUTO 10 - باب الغضب والحدة والعداوة
+",000,False,000,False,False,False,1,1361
+"### | AUTO 11 - باب الاختلاط والشر يقع بين القوم
+",000,False,000,False,False,False,1,931
+"### | AUTO 12 - باب الشجاج
+",000,False,000,False,False,False,1,294
+"### | AUTO 13 - باب الضرب بالعصا والسيف والسوط وغير ذلك
+",000,False,000,False,False,False,1,594
+"### | AUTO 14 - باب الجراحات والقروح
+",000,False,000,False,False,False,1,799
+"### | AUTO 15 - باب المرض
+",000,False,000,False,False,False,1,1263
+"### | AUTO 16 - باب الحمى
+",000,False,000,False,False,False,1,297
+"### | AUTO 17 - باب الرمي
+",000,False,000,False,False,False,1,484
+"### | AUTO 18 - باب الكسر
+",000,False,000,False,False,False,1,349
+"### | AUTO 19 - باب شدة الخلق والضخم
+",000,False,000,False,False,False,1,993
+"### | AUTO 20 - باب ضعف الخلق
+",000,False,000,False,False,False,1,407
+"### | AUTO 21 - باب الهزال
+",000,False,000,False,False,False,1,395
+"### | AUTO 22 - باب القضافة
+",000,False,000,False,False,False,1,160
+"### | AUTO 23 - باب الكبر
+",000,False,000,False,False,False,1,526
+"### | AUTO 24 - باب الأصل والكرم
+",000,False,000,False,False,False,1,337
+"### | AUTO 25 - باب الطبيعة والسجية
+",000,False,000,False,False,False,1,194
+"### | AUTO 26 - باب حدة الفؤاد والذكاء
+",000,False,000,False,False,False,1,494
+"### | AUTO 27 - باب الشجاعة
+",000,False,000,False,False,False,1,881
+"### | AUTO 28 - باب الجبن وضعف القلب
+",000,False,000,False,False,False,1,731
+"### | AUTO 29 - باب العقل والحزم
+",000,False,000,False,False,False,1,402
+"### | AUTO 30 - باب الحمق والهوج
+",000,False,000,False,False,False,1,992
+"### | AUTO 31 - باب رذال الناس وسفلتهم
+",000,False,000,False,False,False,1,524
+"### | AUTO 32 - باب السخاء
+",000,False,000,False,False,False,1,487
+"### | AUTO 33 - باب الحسن
+",000,False,000,False,False,False,1,520
+"### | AUTO 34 - باب الألوان
+",000,False,000,False,False,False,1,632
+"### | AUTO 35 - باب الشرير المسارع إلى ما لا ينبغي
+",000,False,000,False,False,False,1,487
+"### | AUTO 36 - باب الطول
+",000,False,000,False,False,False,1,380
+"### | AUTO 37 - باب القصر
+",000,False,000,False,False,False,1,800
+"### | AUTO 38 - باب الشره والحرص والسؤال
+",000,False,000,False,False,False,1,501
+"### | AUTO 39 - باب الكذب
+",000,False,000,False,False,False,1,446
+"### | AUTO 40 - باب رفعك الصوت بالوقيعة في الرجل والشتم له
+",000,False,000,False,False,False,1,307
+"### | AUTO 41 - باب الطعن على الرجل في نسبه وعيبه ولؤمه
+",000,False,000,False,False,False,1,202
+"### | AUTO 42 - باب التهمة
+",000,False,000,False,False,False,1,273
+"### | AUTO 43 - باب ما لا بد منه
+",000,False,000,False,False,False,1,125
+"### | AUTO 44 - باب النفي في الطعام
+",000,False,000,False,False,False,1,158
+"### | AUTO 45 - باب النفي لأحد وما قام مقامه
+",000,False,000,False,False,False,1,130
+"### | AUTO 46 - باب هدر الدم
+",000,False,000,False,False,False,1,187
+"### | AUTO 47 - باب نعوت مشى الناس واختلافها
+",000,False,000,False,False,False,1,3565
+"### | AUTO 48 - باب صفات النساء
+",000,False,000,False,False,False,1,1733
+"### | AUTO 49 - باب الدمامة والقصر
+",000,False,000,False,False,False,1,450
+"### | AUTO 50 - باب العجائز
+",000,False,000,False,False,False,1,648
+"### | AUTO 51 - باب نعوت النساء في ولادتهن وحملهن
+",000,False,000,False,False,False,1,891
+"### | AUTO 52 - باب نعوت النساء مع أزواجهن
+",000,False,000,False,False,False,1,938
+"### | AUTO 53 - باب الجرأة والبذاء في النساء
+",000,False,000,False,False,False,1,327
+"### | AUTO 54 - باب الحمقاء والفاجرة
+",000,False,000,False,False,False,1,515
+"### | AUTO 55 - باب ما يكره من خلق النساء
+",000,False,000,False,False,False,1,1110
+"### | AUTO 56 - باب المطلقة
+",000,False,000,False,False,False,1,289
+"### | AUTO 57 - باب المهزولة والهزال
+",000,False,000,False,False,False,1,81
+"### | AUTO 58 - باب صفة النساء في الجماع
+",000,False,000,False,False,False,1,372
+"### | AUTO 59 - باب الجماع
+",000,False,000,False,False,False,1,142
+"### | AUTO 60 - باب صفة الخمر
+",000,False,000,False,False,False,1,1320
+"### | AUTO 61 - باب الندام والشراب
+",000,False,000,False,False,False,1,389
+"### | AUTO 62 - باب الآنية للخمر وغيرها
+",000,False,000,False,False,False,1,314
+"### | AUTO 63 - باب صفة الحر
+",000,False,000,False,False,False,1,532
+"### | AUTO 64 - صفة الشمس وأسماؤها
+",000,False,000,False,False,False,1,726
+"### | AUTO 65 - باب أسماء القمر وصفته
+",000,False,000,False,False,False,1,1450
+"### | AUTO 66 - باب صفة الليل
+",000,False,000,False,False,False,1,1236
+"### | AUTO 67 - باب أسماء نعوت الليل في شدة الظلمة
+",000,False,000,False,False,False,1,721
+"### | AUTO 68 - باب نعوت الأيام في شدتها
+",000,False,000,False,False,False,1,59
+"### | AUTO 69 - صفة النهار وأسماؤه
+",000,False,000,False,False,False,1,710
+"### | AUTO 70 - باب الدواهي
+",000,False,000,False,False,False,1,1073
+"### | AUTO 71 - باب الطمع
+",000,False,000,False,False,False,1,208
+"### | AUTO 72 - باب المدح والثناء
+",000,False,000,False,False,False,1,139
+"### | AUTO 73 - باب القطوب
+",000,False,000,False,False,False,1,230
+"### | AUTO 74 - باب المواظبة
+",000,False,000,False,False,False,1,111
+"### | AUTO 75 - باب الثبات في المكان
+",000,False,000,False,False,False,1,304
+"### | AUTO 76 - باب الموت وأسمائه
+",000,False,000,False,False,False,1,1343
+"### | AUTO 77 - باب العطش
+",000,False,000,False,False,False,1,397
+"### | AUTO 78 - باب الحب
+",000,False,000,False,False,False,1,511
+"### | AUTO 79 - باب أسماء الطريق
+",000,False,000,False,False,False,1,596
+"### | AUTO 80 - باب المملوك
+",000,False,000,False,False,False,1,572
+"### | AUTO 81 - باب أسماء امرأة الرجل
+",000,False,000,False,False,False,1,338
+"### | AUTO 82 - باب ما يقال في إتيان الموضع
+",000,False,000,False,False,False,1,445
+"### | AUTO 83 - باب ما يقال في القلة
+",000,False,000,False,False,False,1,262
+"### | AUTO 84 - باب ما ينطق به بجحد
+",000,False,000,False,False,False,1,465
+"### | AUTO 85 - باب الريح الطيبة والمنتنة
+",000,False,000,False,False,False,1,448
+"### | AUTO 86 - باب تغير اللحم
+",000,False,000,False,False,False,1,288
+"### | AUTO 87 - باب الأزمنة والدهور
+",000,False,000,False,False,False,1,251
+"### | AUTO 88 - باب الزيادة في السن
+",000,False,000,False,False,False,1,82
+"### | AUTO 89 - باب أخذ الشيء بأجمعه
+",000,False,000,False,False,False,1,77
+"### | AUTO 90 - باب البطر والنشاط
+",000,False,000,False,False,False,1,135
+"### | AUTO 91 - باب الاضطرار والتضييق
+",000,False,000,False,False,False,1,82
+"### | AUTO 92 - باب القطع
+",000,False,000,False,False,False,1,200
+"### | AUTO 93 - باب الاتفاق والصلح
+",000,False,000,False,False,False,1,223
+"### | AUTO 94 - باب المقاربة في الشيء والخلاقة
+",000,False,000,False,False,False,1,155
+"### | AUTO 95 - باب الفتور والإبطاء
+",000,False,000,False,False,False,1,235
+"### | AUTO 96 - باب انتضاء السيف
+",000,False,000,False,False,False,1,50
+"### | AUTO 97 - باب رد الرجل إلى الحق عن الباطل
+",000,False,000,False,False,False,1,70
+"### | AUTO 98 - باب العطاء
+",000,False,000,False,False,False,1,538
+"### | AUTO 99 - باب إخلاق الثوب
+",000,False,000,False,False,False,1,232
+"### | AUTO 100 - باب العض
+",000,False,000,False,False,False,1,294
+"### | AUTO 101 - باب الملء
+",000,False,000,False,False,False,1,592
+"### | AUTO 102 - باب بقية الماء
+",000,False,000,False,False,False,1,422
+"### | AUTO 103 - باب التضييع والإهمال
+",000,False,000,False,False,False,1,195
+"### | AUTO 104 - باب التندم
+",000,False,000,False,False,False,1,78
+"### | AUTO 105 - باب التحدث إلى النساء
+",000,False,000,False,False,False,1,96
+"### | AUTO 106 - باب البحث عن الشيء
+",000,False,000,False,False,False,1,181
+"### | AUTO 107 - باب التخليط
+",000,False,000,False,False,False,1,232
+"### | AUTO 108 - باب الإصابة بالعين
+",000,False,000,False,False,False,1,124
+"### | AUTO 109 - باب الشيء يسبق إلى القلب
+",000,False,000,False,False,False,1,72
+"### | AUTO 110 - باب الفطنة
+",000,False,000,False,False,False,1,156
+"### | AUTO 111 - باب الثقل
+",000,False,000,False,False,False,1,172
+"### | AUTO 112 - باب ردك الرجل عن الشيء يريده
+",000,False,000,False,False,False,1,370
+"### | AUTO 113 - باب في التفضيل
+",000,False,000,False,False,False,1,207
+"### | AUTO 114 - باب المياه
+",000,False,000,False,False,False,1,563
+"### | AUTO 115 - باب القصد والاعتماد
+",000,False,000,False,False,False,1,357
+"### | AUTO 116 - باب الشيء القليل
+",000,False,000,False,False,False,1,94
+"### | AUTO 117 - باب الحوائج
+",000,False,000,False,False,False,1,255
+"### | AUTO 118 - باب الاجتماع بالعداوة على الإنسان
+",000,False,000,False,False,False,1,167
+"### | AUTO 119 - باب الدعاء على الإنسان بالبلاء والأمر العظيم
+",000,False,000,False,False,False,1,1312
+"### | AUTO 120 - باب الدعاء للإنسان
+",000,False,000,False,False,False,1,757
+"### | AUTO 121 - باب العدد
+",000,False,000,False,False,False,1,471
+"### | AUTO 122 - باب صفة المتسلح
+",000,False,000,False,False,False,1,296
+"### | AUTO 123 - باب اللقاء في قربه وإبطائه
+",000,False,000,False,False,False,1,766
+"### | AUTO 124 - باب استقلال الشيء واستصغاره
+",000,False,000,False,False,False,1,258
+"### | AUTO 125 - باب الطرد والسوق
+",000,False,000,False,False,False,1,207
+"### | AUTO 126 - باب حسن القيام على المال
+",000,False,000,False,False,False,1,178
+"### | AUTO 127 - باب اللحم
+",000,False,000,False,False,False,1,1038
+"### | AUTO 128 - باب الدعوات
+",000,False,000,False,False,False,1,487
+"### | AUTO 129 - باب الإدامة على الشيء
+",000,False,000,False,False,False,1,66
+"### | AUTO 130 - باب الحزن
+",000,False,000,False,False,False,1,78
+"### | AUTO 131 - باب العطف
+",000,False,000,False,False,False,1,37
+"### | AUTO 132 - باب النهي عن الشيء يفعله الرجل لم يكن يفعله قبل ذلك
+",000,False,000,False,False,False,1,135
+"### | AUTO 133 - باب الذل وهو ضد الصعوبة
+",000,False,000,False,False,False,1,132
+"### | AUTO 134 - باب الغؤور في العين
+",000,False,000,False,False,False,1,124
+"### | AUTO 135 - باب الدمع
+",000,False,000,False,False,False,1,201
+"### | AUTO 136 - باب النوم
+",000,False,000,False,False,False,1,493
+"### | AUTO 137 - باب الجوع
+",000,False,000,False,False,False,1,314
+"### | AUTO 138 - باب الطعام الذي تعالجه الأعراب من الطبيخ وما وصفوا من الكثرة فيه والقلة وما أسيء عمله منه
+",000,False,000,False,False,False,1,1156
+"### | AUTO 139 - باب الثريد
+",000,False,000,False,False,False,1,105
+"### | AUTO 140 - باب الشواء
+",000,False,000,False,False,False,1,245
+"### | AUTO 141 - باب الأكل
+",000,False,000,False,False,False,1,767
+"### | AUTO 142 - باب عام
+",000,False,000,False,False,False,1,280
+"### | AUTO 143 - باب الحلي
+",000,False,000,False,False,False,1,789
+"### | AUTO 144 - باب الثياب
+",000,False,000,False,False,False,1,708
+"### | AUTO 145 - باب اللبس
+",000,False,000,False,False,False,1,354
+"### | AUTO 146 - باب الطيالسة والأكسية والملاحف
+",000,False,000,False,False,False,1,242
+"### | AUTO باب
+",000,False,000,False,False,False,1,215

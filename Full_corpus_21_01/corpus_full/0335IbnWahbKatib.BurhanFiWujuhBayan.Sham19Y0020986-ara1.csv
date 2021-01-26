@@ -1,0 +1,13 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK مقدمة المؤلف
+",000,False,000,False,False,False,1,2602
+"### | AUTO باب
+",000,False,000,False,False,False,1,3663
+"### | AUTO باب
+",000,False,000,False,False,False,1,1230
+"### | AUTO باب
+",000,False,000,False,False,False,1,26205
+"### | AUTO باب
+",000,False,000,False,False,False,1,20900
+"### | CHECK خاتمة الكتاب
+",000,False,000,False,False,False,1,310

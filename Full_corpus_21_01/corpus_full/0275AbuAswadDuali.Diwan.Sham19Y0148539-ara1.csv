@@ -1,0 +1,21 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK شعر أبي الأسود الدؤلي صنع السكري
+",000,False,000,False,False,False,1,11232
+"### | AUTO التخريج
+",000,False,000,False,False,False,1,3
+"### | CHECK شعر أبي الأسود الدؤلي رواية ابن جني
+",000,False,000,False,False,False,1,5634
+"### | AUTO مستدرك الديوان
+",000,False,000,False,False,False,1,3661
+"### || AUTO أ - الشعر الثابت النسبة PageV01P323
+",000,False,000,False,False,False,2,2430
+"### || AUTO ب - الشعر المشكوك PageV01P379
+",000,False,000,False,False,False,2,1227
+"### | AUTO ملاحق الديوان
+",000,False,000,False,False,False,1,373
+"### || CHECK ما بقي من شعر أبي الأسود الدؤلي صنعه الأصمعي
+",000,False,000,False,False,False,2,336
+"### || AUTO ما بقي من أخبار أبي الأسود الدؤلي
+",000,False,000,False,False,False,2,12
+"### || CHECK ما بقي من شعر أبي الأسود تأليف المدائني
+",000,False,000,False,False,False,2,23

@@ -1,0 +1,247 @@
+﻿string,date,year_type,date_2,year_type_2,predicted_year,years_pre,md_level,section word count
+"### | CHECK [كتاب هداية الأفكار إلى معاني الأزهار في فقه العترة الأطهار
+",000,False,000,False,False,False,1,65371
+"### || AUTO كتاب هداية الأفكار إلى معاني الأزهار في فقه العترة الأطهار
+",000,False,000,False,False,False,2,190
+"### || AUTO التقليد في مسائل الفروع العلمية القطعية والظنية جائز لغير
+",000,False,000,False,False,False,2,388
+"### || AUTO كتاب الطهارة
+",000,False,000,False,False,False,2,2362
+"### ||| AUTO باب النجاسات
+",000,False,000,False,False,False,3,303
+"### ||| AUTO باب المياه
+",000,False,000,False,False,False,3,289
+"### |||| AUTO والأحكام ضروب:
+",000,False,000,False,False,False,4,67
+"### ||| AUTO باب قضاء الحاجة
+",000,False,000,False,False,False,3,128
+"### ||| AUTO باب الوضوء
+",000,False,000,False,False,False,3,534
+"### |||| AUTO وفروضه: غسل كل الفرجين بعد غزالة النجاسة إن كانت، ولو من
+",000,False,000,False,False,False,4,296
+"### |||| AUTO ونواقضه ولو في أثنائه: ما خرج من السبيل، وإن قل، أو ندر أو
+",000,False,000,False,False,False,4,209
+"### ||| AUTO باب الغسل
+",000,False,000,False,False,False,3,268
+"### ||| AUTO باب التيمم
+",000,False,000,False,False,False,3,431
+"### ||| AUTO باب الحيض والاستحاضة والنفاس
+",000,False,000,False,False,False,3,391
+"### || CHECK [كتاب الصلاة]
+",000,False,000,False,False,False,2,4699
+"### ||| AUTO باب الأوقات
+",000,False,000,False,False,False,3,264
+"### ||| AUTO باب الأذان والإقامة
+",000,False,000,False,False,False,3,225
+"### ||| AUTO باب الصلاة
+",000,False,000,False,False,False,3,1493
+"### |||| AUTO وفروضها عشرة: نية معينة للفرض مقارنة أو مخالطة للتكبيرة أو
+",000,False,000,False,False,False,4,322
+"### |||| AUTO وسننها: التعوذ، ويتبعها جهرا وإسرارا، ثم التوجهان قبل
+",000,False,000,False,False,False,4,246
+"### |||| AUTO وتفسد: باختلال شرط أو فرض /53/ ولو سهوا لم يجبر غالبا،
+",000,False,000,False,False,False,4,274
+"### |||| AUTO وأفضل أمكنتها: المساجد سيما أبعدها، وأفضلها المسجد الحرام،
+",000,False,000,False,False,False,4,111
+"### ||| AUTO باب الجماعة
+",000,False,000,False,False,False,3,600
+"### ||| AUTO باب سجود السهو
+",000,False,000,False,False,False,3,369
+"### ||| AUTO باب القضاء
+",000,False,000,False,False,False,3,209
+"### ||| AUTO باب صلاة الجمعة
+",000,False,000,False,False,False,3,386
+"### ||| AUTO باب صلاة السفر
+",000,False,000,False,False,False,3,267
+"### ||| AUTO باب صلاة الخوف
+",000,False,000,False,False,False,3,198
+"### ||| AUTO باب صلاة العيدين
+",000,False,000,False,False,False,3,203
+"### ||| AUTO باب صلاة الكسوفين ونحوهما والاستسقاء والنوافل
+",000,False,000,False,False,False,3,482
+"### || CHECK [كتاب الجنائز]
+",000,False,000,False,False,False,2,1296
+"### || CHECK [كتاب الزكاة]
+",000,False,000,False,False,False,2,2724
+"### ||| AUTO باب الفطرة
+",000,False,000,False,False,False,3,200
+"### ||| AUTO باب الخمس
+",000,False,000,False,False,False,3,562
+"### || CHECK [كتاب الصيام]
+",000,False,000,False,False,False,2,1083
+"### ||| AUTO باب شروط النذر بالصوم
+",000,False,000,False,False,False,3,203
+"### ||| AUTO باب الاعتكاف
+",000,False,000,False,False,False,3,323
+"### || CHECK [كتاب الحج]
+",000,False,000,False,False,False,2,3862
+"### || AUTO باب النكاح
+",000,False,000,False,False,False,2,2972
+"### || AUTO باب الاستبراء
+",000,False,000,False,False,False,2,410
+"### || AUTO باب الفراش
+",000,False,000,False,False,False,2,319
+"### || AUTO باب الطلاق
+",000,False,000,False,False,False,2,1252
+"### || AUTO باب الخلع
+",000,False,000,False,False,False,2,599
+"### || AUTO باب العدة شرعها
+",000,False,000,False,False,False,2,561
+"### || AUTO باب الرجعة
+",000,False,000,False,False,False,2,240
+"### || AUTO باب الظهار
+",000,False,000,False,False,False,2,236
+"### || AUTO باب الإيلاء
+",000,False,000,False,False,False,2,474
+"### || AUTO باب الحضانة
+",000,False,000,False,False,False,2,252
+"### || AUTO باب النفقات وتوابعها
+",000,False,000,False,False,False,2,535
+"### || AUTO باب الرضاع
+",000,False,000,False,False,False,2,228
+"### || AUTO باب البيع والشراء
+",000,False,000,False,False,False,2,1642
+"### || AUTO باب الشروط المقارنة لعقد البيع
+",000,False,000,False,False,False,2,290
+"### || AUTO باب الربا
+",000,False,000,False,False,False,2,578
+"### || AUTO باب الخيارات
+",000,False,000,False,False,False,2,1053
+"### || AUTO باب حكم ما يدخل في المبيع تبعا وتلفه واستحقاقه
+",000,False,000,False,False,False,2,395
+"### || AUTO باب البيع غير الصحيح
+",000,False,000,False,False,False,2,280
+"### || AUTO باب المأذون
+",000,False,000,False,False,False,2,275
+"### || AUTO باب المرابحة والمخاسرة والمشاركة والتولية
+",000,False,000,False,False,False,2,220
+"### || AUTO باب الإقالة
+",000,False,000,False,False,False,2,114
+"### || AUTO باب القرض
+",000,False,000,False,False,False,2,310
+"### || AUTO باب الصرف
+",000,False,000,False,False,False,2,347
+"### || AUTO باب السلم
+",000,False,000,False,False,False,2,515
+"### || AUTO كتاب الشفعة
+",000,False,000,False,False,False,2,935
+"### || AUTO باب الإجازة
+",000,False,000,False,False,False,2,1353
+"### || AUTO باب المزارعة والمغارسة والمساقاة والمناذرة
+",000,False,000,False,False,False,2,270
+"### || AUTO باب الإحياء والتحجر والإقطاع والحمى
+",000,False,000,False,False,False,2,356
+"### || AUTO باب المضاربة
+",000,False,000,False,False,False,2,595
+"### || AUTO باب الشركة
+",000,False,000,False,False,False,2,962
+"### || AUTO باب القسمة
+",000,False,000,False,False,False,2,514
+"### || AUTO باب الرهن
+",000,False,000,False,False,False,2,791
+"### || AUTO باب العارية
+",000,False,000,False,False,False,2,200
+"### || AUTO باب الهبة وأخواتها
+",000,False,000,False,False,False,2,670
+"### || AUTO باب الوقف
+",000,False,000,False,False,False,2,1401
+"### || AUTO باب الوديعة
+",000,False,000,False,False,False,2,259
+"### || AUTO باب الغصب
+",000,False,000,False,False,False,2,1019
+"### || AUTO باب العتق
+",000,False,000,False,False,False,2,897
+"### || AUTO باب التدبير
+",000,False,000,False,False,False,2,203
+"### || AUTO باب الكتابة
+",000,False,000,False,False,False,2,285
+"### || AUTO باب الولاء
+",000,False,000,False,False,False,2,194
+"### || AUTO باب الأيمان
+",000,False,000,False,False,False,2,1169
+"### || AUTO باب الكفارة
+",000,False,000,False,False,False,2,299
+"### || AUTO باب النذر
+",000,False,000,False,False,False,2,374
+"### || AUTO باب الضالة واللقطة واللقيط
+",000,False,000,False,False,False,2,444
+"### || AUTO باب الصيد
+",000,False,000,False,False,False,2,276
+"### || AUTO باب الذبح
+",000,False,000,False,False,False,2,204
+"### || AUTO باب الأضحية والعقيقة
+",000,False,000,False,False,False,2,388
+"### || AUTO باب الأطعمة والأشربة
+",000,False,000,False,False,False,2,923
+"### || AUTO باب اللباس والستر والاستئذان وما يتصل بذلك
+",000,False,000,False,False,False,2,620
+"### || AUTO باب الدعاوى والبينات
+",000,False,000,False,False,False,2,1138
+"### || AUTO باب الإقرار
+",000,False,000,False,False,False,2,931
+"### || AUTO باب الشهادات
+",000,False,000,False,False,False,2,1311
+"### || AUTO باب الوكالة
+",000,False,000,False,False,False,2,747
+"### || AUTO باب الكفالة
+",000,False,000,False,False,False,2,400
+"### || AUTO باب الحوالة
+",000,False,000,False,False,False,2,172
+"### || AUTO باب التفليس والإعسار ms181
+",000,False,000,False,False,False,2,287
+"### || AUTO باب الحجر
+",000,False,000,False,False,False,2,246
+"### || AUTO باب الصلح
+",000,False,000,False,False,False,2,208
+"### || AUTO باب الإبراء
+",000,False,000,False,False,False,2,187
+"### || AUTO باب الإكراه
+",000,False,000,False,False,False,2,154
+"### || AUTO باب السبق والرمي
+",000,False,000,False,False,False,2,301
+"### || AUTO باب القضاء
+",000,False,000,False,False,False,2,986
+"### || AUTO باب الحدود
+",000,False,000,False,False,False,2,1605
+"### || AUTO باب الجنايات
+",000,False,000,False,False,False,2,2183
+"### || AUTO باب الديات
+",000,False,000,False,False,False,2,806
+"### || AUTO باب القسامة
+",000,False,000,False,False,False,2,264
+"### || AUTO باب الوصايا
+",000,False,000,False,False,False,2,1088
+"### || AUTO باب السيرة
+",000,False,000,False,False,False,2,3195
+"### || AUTO كتاب الفرائض
+",000,False,000,False,False,False,2,2855
+"### ||| AUTO باب الفرائض وأهلها
+",000,False,000,False,False,False,3,127
+"### ||| AUTO باب الحجب
+",000,False,000,False,False,False,3,58
+"### ||| AUTO باب الإسقاط
+",000,False,000,False,False,False,3,139
+"### ||| AUTO باب أحوال الأب والجد
+",000,False,000,False,False,False,3,72
+"### ||| AUTO باب الرد
+",000,False,000,False,False,False,3,75
+"### ||| AUTO باب أصول المسائل وكيفية تصحيحها
+",000,False,000,False,False,False,3,512
+"### ||| AUTO باب النوادر
+",000,False,000,False,False,False,3,235
+"### ||| AUTO باب التركات
+",000,False,000,False,False,False,3,77
+"### ||| AUTO باب الإقرار
+",000,False,000,False,False,False,3,95
+"### ||| AUTO /436/ باب ميراث الخنثى
+",000,False,000,False,False,False,3,184
+"### ||| AUTO باب ميراث المفقود
+",000,False,000,False,False,False,3,47
+"### ||| AUTO باب ميراث المجوس
+",000,False,000,False,False,False,3,35
+"### ||| AUTO /538/ باب ميراث ابن الدعوة
+",000,False,000,False,False,False,3,64
+"### ||| AUTO باب ميراث ابن الملاعنة
+",000,False,000,False,False,False,3,91
+"### ||| AUTO باب ميراث الحمل
+",000,False,000,False,False,False,3,779
